@@ -18,6 +18,7 @@
     width: 300px;
     height: 180px;
     border: 2px solid black;
+    /* border-radius: 10px; */
 }
 .worlds-box p {
     font-size: 26px;
@@ -26,4 +27,155 @@
     color:white;
     border-radius: 15px;
     padding: 5px 35px;
+}
+
+.contain-event {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.event-content {
+    width: 70%;
+    max-width: 70%;
+}
+.summary,
+.event-results {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.summ-left {
+    width: 65%;
+}
+.summ-left * {
+    margin-bottom: 5px;
+}
+.worlds-hr {
+    width: 60%;
+}
+.worlds-paragraph {
+    width: 80%;
+    margin-top: 20px;
+}
+.cp-area {
+    margin-top: 20px;
+}
+.cp {
+    width: 80%;
+}
+.auto-day2-area {
+    width: 50%;
+}
+.rating-zone {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.summ-right {
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.summ-right * {
+    margin-bottom: 7px;
+}
+.worlds-logo {
+    width: 100px;
+}
+.worlds-loc {
+    width: 100%;
+    border-radius: 10px;
+}
+.prizing-header {
+    margin-top: 15px;
+}
+.prize-zone {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.results-left {
+    width: 40%;
+}
+.results-right {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.center {
+    text-align: center;
+}
+.underline {
+    text-decoration: underline;
+}
+.divisions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.divisions p {
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.light-bg {
+    background-color: rgb(226, 226, 226);
+}
+.dark-bg {
+    background-color: rgb(156, 156, 156);
+}
+.light-bg:hover {
+    box-shadow: 2px 2px 2px darkgray;
+    cursor: pointer;
+}
+.results-left ol {
+    margin-top: 15px;
+}
+li {
+    color: black;
+    transition: ease all 0.1s;
+}
+.player-list-hover:hover {
+    background-color: rgb(226, 226, 226);
+    border-radius: 10px;
+}
+.name-n-flag {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 15px;
+}
+.name-n-flag img {
+    width: 15px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.results-list-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.player-deck-icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.player-deck-icons img {
+    width: 45px;
+}
+.second-sprite {
+    margin-left: -15px;
+}
+.meta-chart {
+    width: 100%;
+    margin-top: 15px;
+}
+.fa-list {
+    margin-top: 5px;
+    padding-right: 15px;
 }
