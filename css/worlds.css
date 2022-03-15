@@ -43,6 +43,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .summ-left {
     width: 65%;
@@ -51,7 +52,7 @@
     margin-bottom: 5px;
 }
 .worlds-hr {
-    width: 60%;
+    width: 55%;
 }
 .worlds-paragraph {
     width: 80%;
@@ -65,6 +66,17 @@
 }
 .auto-day2-area {
     width: 50%;
+}
+.auto-day2-area2 {
+    width: 100%;
+    margin-top: 20px;
+}
+.auto-day2-area2 ol {
+    display: flex;
+    flex-direction: row;
+}
+.day2-right {
+    margin-left: 80px;
 }
 .rating-zone {
     display: flex;
@@ -93,8 +105,29 @@
 .prize-zone {
     display: flex;
     flex-direction: row;
+    align-items: center;
     justify-content: space-between;
     width: 50%;
+}
+.cast-box {
+    border: 1px solid grey;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+}
+.casters-zone {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+.casters-zone img {
+    width: 75px;
+    border-radius: 20px;
 }
 
 .results-left {

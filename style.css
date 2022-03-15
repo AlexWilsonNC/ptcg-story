@@ -68,6 +68,11 @@ hr {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.active-extra {
+    background: linear-gradient(to top right, rgb(99, 161, 255), rgb(209, 206, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 
 #center-a-container {
     display: flex;
@@ -93,6 +98,10 @@ hr {
 .extra-nav a {
     color:white;
     margin: 0px 50px;
+    transition: ease all 0.2s;
+}
+.extra-nav a:hover {
+    text-decoration: underline;
 }
 
 .small-text {
@@ -100,6 +109,9 @@ hr {
 }
 .italic {
     font-style: italic;
+}
+.underline {
+    text-decoration: underline;
 }
 
 @media screen and (max-width: 870px) {
