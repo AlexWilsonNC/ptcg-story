@@ -1,0 +1,28 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #000;
+    margin-top: 50px;
+    width: 100%;
+}
+
+#foot-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+footer a {
+    color: #fff;
+    font-size: 18px;
+    margin-right: 50px;
+}
+
+#foot-bottom {
+    color: #fff;
+    text-align: start;
+    margin: 20px 50px;
+    font-size: 11px;
+}

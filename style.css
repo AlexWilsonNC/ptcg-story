@@ -1,0 +1,88 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+hr {
+    border: 0;
+    height: 0.02em;
+    background-color: grey;
+}
+#progressbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 10px;
+    background: linear-gradient( to top, red, black);
+    z-index: 1000;
+}
+#top-nav {
+    height: 90px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+    position: sticky;
+    margin-bottom: 25px;
+}
+#nav-left {
+    margin: 0px 0px 0px 40px;
+}
+#nav-left a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#nav-left h1 {
+    font-size: 36px;
+    margin-left: 15px;
+    color: black;
+}
+#nav-left img {
+    width: 70px;
+}
+.fa-chevron-down {
+    font-size: 16px;
+}
+#nav-right {
+    margin-right: 75px;
+}
+#nav-right a {
+    font-size: 24px;
+    margin-left: 30px;
+}
+#nav-right a:hover {
+    background: linear-gradient(to top right, red, rgb(182, 0, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.inactive {
+    background: linear-gradient(to top right, black, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.active {
+    background: linear-gradient(to top right, rgb(255, 0, 0), rgb(255, 166, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#center-a-container {
+    display: flex;
+    justify-content: center;
+}
+#container {
+    width: 55%;
+    max-width: 100%;
+}
+.contain-extra-nav {
+    display: flex;
+    justify-content: center;
+}
+.extra-nav {
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+}

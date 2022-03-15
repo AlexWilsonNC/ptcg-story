@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='icon' href='./assets/camera.png' type='image/x-icon'>
+    <link rel='image_src' href='./assets/oceania-tcg-crowd-1.jpg'>
+    <title>PTCG Story</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./css/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav id="top-nav">
+        <div id="nav-left">
+            <a href="./index.html">
+                <img src="./assets/camera.png" alt="pokeball logo">
+                <h1>PTCG Story</h1>
+            </a>
+        </div>
+        <div id="nav-right">
+            <a class="inactive" href="./pages/worlds.html">Worlds <i class="fas fa-chevron-down"></i></a>
+            <a class="inactive" href="./pages/events.html">Nats / IC's <i class="fas fa-chevron-down"></i></a>
+            <a class="inactive" href="./pages/results.html">Regionals <i class="fas fa-chevron-down"></i></a>
+            <a class="inactive" href="./pages/rankings.html">Other <i class="fas fa-chevron-down"></i></a>
+        </div>
+    </nav>
+
+    <div id='center-a-container'>
+        <img id="container" src="./assets/hand.png" alt="hand of pokemon cards"></img>
+    </div>
+
+    <footer>
+        <div id='foot-top'>
+            <a href="./index.html">Home</a>
+            <a href="./pages/about.html">Worlds</a>
+            <a href="./pages/events.html">Nats / IC's</a>
+            <a href="./pages/results.html">Regionals</a>
+            <a href="./pages/rankings.html">Other</a>
+            <a href='./pages/events.html#toc01'>Contact</a>
+        </div>
+        <div id='foot-bottom'>This website is in no way related, nor correlated, to
+            Play! Pokemon, The Pokemon Company, or TPCI. It is simply a place for Pokemon TCG fans to look back in time
+            at events from the greatest game in history!</div>
+    </footer>
+
+    <script src='./js/close-alert.js'></script>
+    <script src="index.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script type="text/javascript">
+        window.addEventListener('scroll', function () {
+            var scroll = document.querySelector('.scrollTop');
+            scroll.classList.toggle('active', window.scrollY > 300)
+        });
+    </script>
+</body>
+
+</html>
