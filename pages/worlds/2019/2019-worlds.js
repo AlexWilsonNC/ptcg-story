@@ -1,3 +1,8 @@
+fetch('https://api.pokemontcg.io/v2/cards/xy1-1')
+  .then(response => response.json())
+  .then(data => console.log(data));
+ 
+
 const list = document.querySelector('.masters-ol');
 
 let masters = [
@@ -10,6 +15,454 @@ let masters = [
   },
   {
     firstName: 'Shintaro Ito',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Blaine Hill',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/charizard.png',
+    sprite2: '../../../assets/sprites/volcanion.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Tord Reklev',
+    flag: '../../../assets/flags/norway.png',
+    sprite1: '../../../assets/sprites/reshiram.png',
+    sprite2: '../../../assets/sprites/charizard.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Kaiwen Cabbabe',
+    flag: '../../../assets/flags/australia.png',
+    sprite1: '../../../assets/sprites/pikachu.png',
+    sprite2: '../../../assets/sprites/zekrom.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Paco Vilchez Barea',
+    flag: '../../../assets/flags/spain.png',
+    sprite1: '../../../assets/sprites/charizard.png',
+    sprite2: '../../../assets/sprites/volcanion.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Ryota Ishiyama',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/mewtwo.png',
+    sprite2: '../../../assets/sprites/mew.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Isaiah Williams',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/oranguru.png',
+    sprite2: '../../../assets/sprites/pidgeotto.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Hideki Sano',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../assets/sprites/sylveon.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Karl Peters',
+    flag: '../../../assets/flags/germany.png',
+    sprite1: '../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../assets/sprites/sylveon.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Bert Wolters',
+    flag: '../../../assets/flags/netherlands.png',
+    sprite1: '../../../assets/sprites/mewtwo.png',
+    sprite2: '../../../assets/sprites/mew.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Yoshiyuki Yamaguchi',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/reshiram.png',
+    sprite2: '../../../assets/sprites/charizard.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Jonathan Lanciano',
+    flag: '../../../assets/flags/argentina.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Shunpei Hosoya',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../assets/sprites/sylveon.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Gustavo Wada',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/pikachu.png',
+    sprite2: '../../../assets/sprites/zekrom.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Zakary Krekler',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/weavile.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Lucas Pereira',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/pikachu.png',
+    sprite2: '../../../assets/sprites/zekrom.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Charlie Lockyer',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/pikachu.png',
+    sprite2: '../../../assets/sprites/zekrom.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Otavio Gouveia',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/charizard.png',
+    sprite2: '../../../assets/sprites/volcanion.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Robin Shulz',
+    flag: '../../../assets/flags/germany.png',
+    sprite1: '../../../assets/sprites/mewtwo.png',
+    sprite2: '../../../assets/sprites/mew.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Justin Bokhari',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/pikachu.png',
+    sprite2: '../../../assets/sprites/zekrom.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Jose Marrero',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/reshiram.png',
+    sprite2: '../../../assets/sprites/charizard.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Daniel Altavilla',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/oranguru.png',
+    sprite2: '../../../assets/sprites/pidgeotto.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Keito Uchida',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/malamar.png',
+    sprite2: '../../../assets/sprites/necrozma-ultra.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Bryan de Vries',
+    flag: '../../../assets/flags/netherlands.png',
+    sprite1: '../../../assets/sprites/pikachu.png',
+    sprite2: '../../../assets/sprites/zekrom.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Dylan Gunn',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/keldeo.png',
+    sprite2: '../../../assets/sprites/bronzong.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Louis Chi',
+    flag: '../../../assets/flags/new-zealand.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Mehdi Hafi',
+    flag: '../../../assets/flags/france.png',
+    sprite1: '../../../assets/sprites/reshiram.png',
+    sprite2: '../../../assets/sprites/charizard.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Pedro Torres',
+    flag: '../../../assets/flags/spain.png',
+    sprite1: '../../../assets/sprites/reshiram.png',
+    sprite2: '../../../assets/sprites/charizard.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Rahul Reddy',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/charizard.png',
+    sprite2: '../../../assets/sprites/volcanion.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Riley Hulbert',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../assets/sprites/sylveon.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Dennis Peroff',
+    flag: '../../../assets/flags/canada.png',
+    sprite1: '../../../assets/sprites/malamar.png',
+    sprite2: '../../../assets/sprites/giratina.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Ian Robb',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/pikachu.png',
+    sprite2: '../../../assets/sprites/zekrom.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blacephalon.png',
+    sprite2: '../../../assets/sprites/naganadel.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
     flag: '../../../assets/flags/japan.png',
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/naganadel.png',
@@ -35,8 +488,6 @@ function displayList(array = []) {
     flagImg.classList.add('flag-size');
     flagImg.setAttribute('src', item.flag);
     
-    playerName.innerText = item.firstName;
-
     let deck = document.createElement('div');
     deck.classList.add('player-deck-icons');
 
@@ -54,12 +505,13 @@ function displayList(array = []) {
     item_element.appendChild(title);
     title.appendChild(playerName);
     playerName.appendChild(flagImg);
+    playerName.append(item.firstName);
     title.appendChild(deck);
-    playerName.appendChild(firstSprite);
-    playerName.appendChild(secondSprite);
-    playerName.appendChild(listIcon);
+    deck.appendChild(firstSprite);
+    deck.appendChild(secondSprite);
+    deck.appendChild(listIcon);
 
-    if (item.list === '../../../assets/list-icon.jpg') {
+    if (item.list === '../../../assets/list-icon.png') {
       item_element.addEventListener('click', function () {
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
