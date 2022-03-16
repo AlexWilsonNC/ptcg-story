@@ -9,6 +9,11 @@ hr {
     height: 0.02em;
     background-color: grey;
 }
+.legends {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 46px;
+    color: rgb(63, 57, 0);
+}
 #progressbar {
     position: fixed;
     top: 0;
