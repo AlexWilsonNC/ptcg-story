@@ -1,4 +1,4 @@
-fetch('https://api.pokemontcg.io/v2/cards/xy1-1')
+const pokemonCard = fetch('https://api.pokemontcg.io/v2/cards/xy1-1')
   .then(response => response.json())
   .then(data => console.log(data));
  
@@ -238,59 +238,59 @@ let masters = [
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'name',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/blacephalon.png',
-    sprite2: '../../../assets/sprites/naganadel.png',
+    firstName: 'Christian Hasbani',
+    flag: '../../../assets/flags/australia.png',
+    sprite1: '../../../assets/sprites/malamar.png',
+    sprite2: '../../../assets/sprites/giratina.png',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'name',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/blacephalon.png',
-    sprite2: '../../../assets/sprites/naganadel.png',
+    firstName: 'Azul Griego',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/oranguru.png',
+    sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'name',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/blacephalon.png',
-    sprite2: '../../../assets/sprites/naganadel.png',
+    firstName: 'Bernardo Dias',
+    flag: '../../../assets/flags/portugal.png',
+    sprite1: '../../../assets/sprites/malamar.png',
+    sprite2: '../../../assets/sprites/necrozma-ultra.png',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'name',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/blacephalon.png',
-    sprite2: '../../../assets/sprites/naganadel.png',
+    firstName: 'Clifton Goh',
+    flag: '../../../assets/flags/singapore.png',
+    sprite1: '../../../assets/sprites/pikachu.png',
+    sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'name',
-    flag: '../../../assets/flags/japan.png',
+    firstName: 'Haedon Jeong',
+    flag: '../../../assets/flags/korea.png',
     sprite1: '../../../assets/sprites/blacephalon.png',
-    sprite2: '../../../assets/sprites/naganadel.png',
+    sprite2: '../../../assets/sprites/volcanion.png',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'name',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/blacephalon.png',
-    sprite2: '../../../assets/sprites/naganadel.png',
+    firstName: 'Miguel Aml',
+    flag: '../../../assets/flags/spain.png',
+    sprite1: '../../../assets/sprites/reshiram.png',
+    sprite2: '../../../assets/sprites/charizard.png',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'name',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/blacephalon.png',
-    sprite2: '../../../assets/sprites/naganadel.png',
+    firstName: 'Fabien Pujol',
+    flag: '../../../assets/flags/france.png',
+    sprite1: '../../../assets/sprites/reshiram.png',
+    sprite2: '../../../assets/sprites/charizard.png',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'name',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/blacephalon.png',
-    sprite2: '../../../assets/sprites/naganadel.png',
+    firstName: 'Marco Spataro',
+    flag: '../../../assets/flags/italy.png',
+    sprite1: '../../../assets/sprites/mewtwo.png',
+    sprite2: '../../../assets/sprites/mew.png',
     list: '../../../assets/list-icon.png'
   },
   {
