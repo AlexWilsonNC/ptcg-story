@@ -1,6 +1,6 @@
-const masters = document.querySelector('.masters');
-const seniors = document.querySelector('.seniors');
-const juniors = document.querySelector('.juniors');
+const mastersBtn = document.querySelector('.mastersBtn');
+const seniorsBtn = document.querySelector('.seniorsBtn');
+const juniorsBtn = document.querySelector('.juniorsBtn');
 const mastersList = document.querySelector('.masters-ol');
 const seniorsList = document.querySelector('.seniors-ol');
 const juniorsList = document.querySelector('.juniors-ol');
@@ -9,11 +9,11 @@ const seniorsMeta = document.querySelector('.seniors-meta');
 const juniorsMeta = document.querySelector('.juniors-meta');
 
 function changeToMasters() {
-    masters.classList.add('dark-bg');
-    seniors.classList.remove('dark-bg');
-    seniors.classList.add('light-bg');
-    juniors.classList.remove('dark-bg');
-    juniors.classList.add('light-bg');
+    mastersBtn.classList.add('dark-bg');
+    seniorsBtn.classList.remove('dark-bg');
+    seniorsBtn.classList.add('light-bg');
+    juniorsBtn.classList.remove('dark-bg');
+    juniorsBtn.classList.add('light-bg');
     mastersList.style.display = 'block';
     mastersMeta.style.display = 'block';
     seniorsList.style.display = 'none';
@@ -22,11 +22,11 @@ function changeToMasters() {
     juniorsMeta.style.display = 'none';
 }
 function changeToSeniors() {
-    seniors.classList.add('dark-bg');
-    masters.classList.remove('dark-bg');
-    masters.classList.add('light-bg');
-    juniors.classList.remove('dark-bg');
-    juniors.classList.add('light-bg');
+    seniorsBtn.classList.add('dark-bg');
+    mastersBtn.classList.remove('dark-bg');
+    mastersBtn.classList.add('light-bg');
+    juniorsBtn.classList.remove('dark-bg');
+    juniorsBtn.classList.add('light-bg');
     mastersList.style.display = 'none';
     mastersMeta.style.display = 'none';
     juniorsList.style.display = 'none';
@@ -35,11 +35,11 @@ function changeToSeniors() {
     seniorsMeta.style.display = 'block';
 }
 function changeToJuniors() {
-    juniors.classList.add('dark-bg');
-    masters.classList.remove('dark-bg');
-    masters.classList.add('light-bg');
-    seniors.classList.remove('dark-bg');
-    seniors.classList.add('light-bg');
+    juniorsBtn.classList.add('dark-bg');
+    mastersBtn.classList.remove('dark-bg');
+    mastersBtn.classList.add('light-bg');
+    seniorsBtn.classList.remove('dark-bg');
+    seniorsBtn.classList.add('light-bg');
     mastersList.style.display = 'none';
     mastersMeta.style.display = 'none';
     seniorsList.style.display = 'none';
@@ -48,6 +48,6 @@ function changeToJuniors() {
     juniorsMeta.style.display = 'block';
 }
 
-masters.addEventListener('click', changeToMasters)
-seniors.addEventListener('click', changeToSeniors)
-juniors.addEventListener('click', changeToJuniors)
+mastersBtn.addEventListener('click', changeToMasters)
+seniorsBtn.addEventListener('click', changeToSeniors)
+juniorsBtn.addEventListener('click', changeToJuniors)
