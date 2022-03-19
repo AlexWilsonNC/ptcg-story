@@ -204,9 +204,20 @@ li {
 .second-sprite {
     margin-left: -15px;
 }
+.masters-meta,
+.center-seniors-meta,
+.center-juniors-meta {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
 .meta-chart {
     width: 100%;
     margin: 15px 0px;
+}
+.under-meta-chart {
+    width: 200px;
+    margin: 15px auto;
 }
 .list-icon {
     padding-right: 15px;
