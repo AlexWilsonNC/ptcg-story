@@ -4,6 +4,9 @@
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
 }
+html,body{
+    overflow-x: hidden;
+}
 hr {
     border: 0;
     height: 0.02em;
@@ -49,7 +52,7 @@ hr {
     width: 70px;
 }
 .fa-chevron-down {
-    font-size: 16px;
+    font-size: 14px;
 }
 #nav-right {
     margin-right: 75px;
@@ -170,6 +173,9 @@ hr {
     }
     #nav-left {
         margin: 0px 0px 0px 0px;
+    }
+    .fa-chevron-down {
+        font-size: 10px;
     }
 }
 @media screen and (max-width: 750px) {
