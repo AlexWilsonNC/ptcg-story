@@ -349,10 +349,10 @@ li {
 .hidden-top-summ {
     display: none;
 }
-.hidden-prizing {
+.hidden-prizing,
+.hidden-item {
     display: none;
 }
-
 
 @media screen and (max-width: 1250px) {
     .auto-day2-area {
@@ -448,6 +448,12 @@ li {
     .hidden-prize-right {
         width: 50%;
     }
+    .hidden-item {
+        display: flex;
+    }
+    .prizing-header {
+        margin-left: 20px;
+    }
     .hidden-prizing {
         display: flex;
         flex-direction: row;
@@ -484,7 +490,8 @@ li {
         width: 45%;
     }
     .prizing-header {
-        margin-bottom: 20px;
+        margin-bottom: 10px;
+        margin-left: 0px;
     }
     .auto-day2-area {
         width: 80%;
@@ -536,5 +543,8 @@ li {
         justify-content: space-around;
         flex-wrap: wrap;
         width: 90%;
+    }
+    .worlds-hr {
+        width: 95%;
     }
 }
