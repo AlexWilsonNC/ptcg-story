@@ -193,11 +193,13 @@ li {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 5px;
 }
 .player-deck-icons {
     display: flex;
     flex-direction: row;
     align-items: center;
+    margin-top:-5px;
 }
 .sprite {
     width: 45px;
@@ -351,6 +353,7 @@ li {
     display: none;
 }
 
+
 @media screen and (max-width: 1250px) {
     .auto-day2-area {
         width: 70%;
@@ -412,9 +415,6 @@ li {
         width: 100%;
     }
     .auto-day2-area {
-        width: 100%;
-    }
-    .auto-day2-area {
         width: 50%;
         margin-left: 50px;
     }
@@ -436,7 +436,8 @@ li {
     .hidden-loc {
         display: flex;
         flex-direction: column;
-        align-items: flex-end;
+        align-items: flex-start;
+        margin-top: 15px;
     }
     .hide-it {
         display: none;
@@ -469,5 +470,71 @@ li {
         align-items: center;
         flex-direction: column;
         justify-content: space-around;
+    }
+}
+@media screen and (max-width: 530px) {
+    .summary,
+    .event-results {
+        align-items: center;
+    }
+    .hidden-prize-left {
+        width: 60%;
+    }
+    .hidden-prize-right {
+        width: 45%;
+    }
+    .prizing-header {
+        margin-bottom: 20px;
+    }
+    .auto-day2-area {
+        width: 80%;
+        margin-left: 0px;
+    }
+    .auto-day2-area2 {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .auto-day2-area2 ol,
+    .auto-day2-area2 h3 {
+        margin-left: 0px;
+        margin-left: 10px;
+    }
+    .auto-day2-area2 ol {
+        font-size: 14px;
+    }
+    .results-left {
+        width: 90%;
+    }
+    .list-icon {
+        padding-right: 0px;
+    }
+    .results-right {
+        margin-top: 25px;
+    }
+    .worlds-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0px 3px 15px 3px;
+    }
+    .worlds-box img {
+        width: 150px;
+        height: 80px;
+        border: 1.5px solid black;
+        /* border-radius: 10px; */
+    }
+    .worlds-box p {
+        font-size: 16px;
+        margin-top: 5px;
+        background-color: rgb(49, 49, 49);
+        color:white;
+        border-radius: 10px;
+        padding: 3px 15px;
+    }
+    .worlds-icons {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        width: 90%;
     }
 }
