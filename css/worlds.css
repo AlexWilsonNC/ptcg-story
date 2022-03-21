@@ -521,7 +521,7 @@ li {
         width: 150px;
         height: 80px;
         border: 1.5px solid black;
-        /* border-radius: 10px; */
+        border-radius: 5px;
     }
     .worlds-box p {
         font-size: 16px;
