@@ -6,6 +6,14 @@ const masterList = document.querySelector('.masters-ol');
 const seniorList = document.querySelector('.seniors-ol');
 const juniorList = document.querySelector('.juniors-ol');
 
+// {
+//   firstName: 'name',
+//   flag: '../../../assets/flags',
+//   sprite1: '../../../assets/sprites',
+//   sprite2: '../../../assets/sprites',
+//   list: '../../../assets/list-icon.png'
+// },
+
 let masters = [
   {
     firstName: 'Diego Cassiraga',
@@ -235,22 +243,120 @@ let masters = [
 
 let seniors = [
     {
-        firstName: 'Magnus Pederson',
-        flag: '../../../assets/flags/denmark.png',
-        sprite1: '../../../assets/sprites/banette.png',
-        sprite2: '../../../assets/sprites/garbodor.png',
+        firstName: 'Zachary Bokhari',
+        flag: '../../../assets/flags/usa.png',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/ninetales-alola.png',
         list: '../../../assets/list-icon.png'
     },
+    {
+      firstName: 'Michael Long',
+      flag: '../../../assets/flags/canada.png',
+      sprite1: '../../../assets/sprites/blank.png',
+      sprite2: '../../../assets/sprites/greninja.png',
+      list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Takumi Kaji',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../assets/sprites/sylveon.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Yuu Ito',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/drampa.png',
+    sprite2: '../../../assets/sprites/garbodor.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Nick Conocenti',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/ninetales-alola.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Justin Lambert',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Connor Pedersen',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/drampa.png',
+    sprite2: '../../../assets/sprites/garbodor.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Tanner Hurley',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/decidueye.png',
+    sprite2: '../../../assets/sprites/vileplume.png',
+    list: '../../../assets/list-icon.png'
+  }
 ]
 
 let juniors = [
-    {
-        firstName: 'Naohito Inoue',
-        flag: '../../../assets/flags/japan.png',
-        sprite1: '../../../assets/sprites/buzzwole.png',
-        sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/list-icon.png'
-    },
+  {
+    firstName: 'Tobias Strømdahl',
+    flag: '../../../assets/flags/norway.png',
+    sprite1: '../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../assets/sprites/gallade.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Minaki Hasegawa',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Kabu Fukase',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/golisopod.png',
+    sprite2: '../../../assets/sprites/decidueye.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'William Wallace',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../assets/sprites/xerneas-active.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Lucas Mancuso',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/drampa.png',
+    sprite2: '../../../assets/sprites/garbodor.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Tsubasa Watanabe',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/golisopod.png',
+    sprite2: '../../../assets/sprites/garbodor.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Niko Ishida',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/xerneas-active.png',
+    sprite2: '../../../assets/sprites/bisharp.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Regan Retzloff',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../assets/sprites/xerneas-active.png',
+    list: '../../../assets/list-icon.png'
+  }
 ]
 
 //masters
