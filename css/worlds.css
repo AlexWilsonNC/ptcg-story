@@ -364,6 +364,9 @@ li {
     width: 280px;
     opacity: 0.4;
 }
+.hidden-cast-box {
+    display: none;
+}
 
 @media screen and (max-width: 1250px) {
     .auto-day2-area {

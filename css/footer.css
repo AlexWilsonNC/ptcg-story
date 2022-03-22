@@ -3,26 +3,36 @@ footer {
     flex-direction: column;
     align-items: center;
     background-color: #000;
-    margin-top: 25px;
     width: 100%;
+    margin-top: 25px;
 }
-
 #foot-top {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     margin-top: 15px;
+    width: 100%;
 }
-
 footer a {
     color: #fff;
     font-size: 18px;
-    margin-right: 50px;
 }
-
 #foot-bottom {
     color: #fff;
     text-align: start;
     margin: 20px 50px;
     font-size: 11px;
+}
+
+@media screen and (max-width: 540px) {
+    footer {
+        margin-top: 5px;
+    }
+    #foot-top a {
+        font-size: 11px;
+    }
+    #foot-bottom {
+        margin: 14px 20px;
+        font-size: 9px;
+    }
 }
