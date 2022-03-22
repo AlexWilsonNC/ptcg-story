@@ -605,6 +605,9 @@ li {
     .hidden-poke {
         display: block;
     }
+    .gallery {
+        width: 97%;
+    }
 }
 @media screen and (min-height: 900px) {
     .hidden-poke {
