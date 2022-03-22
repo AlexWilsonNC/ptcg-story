@@ -358,7 +358,6 @@ li {
     display: none;
     position: absolute;
     z-index: -100;
-    transform:scaleX(-1);
     top: 150px;
     right: 0;
     width: 280px;
@@ -366,6 +365,12 @@ li {
 }
 .hidden-cast-box {
     display: none;
+}
+.reverse {
+    transform:scaleX(-1);
+}
+.medium {
+    width: 200px;
 }
 
 @media screen and (max-width: 1250px) {

@@ -127,6 +127,9 @@ hr {
 .margin-bottom {
     margin-bottom: 25px;
 }
+.crossed-out {
+    text-decoration: line-through;
+}
 
 @media screen and (max-width: 1150px) {
     #nav-right {

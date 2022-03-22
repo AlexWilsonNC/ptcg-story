@@ -8,233 +8,232 @@ const juniorList = document.querySelector('.juniors-ol');
 
 let masters = [
   {
-    firstName: 'Robin Schulz',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
+    firstName: 'Diego Cassiraga',
+    flag: '../../../assets/flags/argentina.png.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Naoto Suzuki',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/golisopod.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'Jeff Kolenc',
-    flag: '../../../assets/flags/canada.png',
-    sprite1: '../../../assets/sprites/malamar.png',
+    firstName: 'Xander Pero',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/espeon.png',
+    sprite2: '../../../assets/sprites/garbodor.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Sho Sasaki',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/golisopod.png',
+    sprite2: '../../../assets/sprites/garbodor.png',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'Reiji Nishiguchi',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/garbodor.png',
     sprite2: '../../../assets/sprites/necrozma.png',
-    list: '../../../assets/list-icon.png',
-    banned: true
-  },
-  {
-    firstName: 'Klive Aw Junjie',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/zygarde-complete.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Pedro Torres',
-    flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/rayquaza.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Eric Smith',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/rayquaza.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Nicolas Galaz',
-    flag: '../../../assets/flags/canada.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Shuto Itagaki',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/rayquaza.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Brian Miller',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/golisopod.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Martin Janous',
-    flag: '../../../assets/flags/czech-republic.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/greninja.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Michael Bergerac',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/rayquaza.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Masataka Hirano',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Fabien Pujol',
-    flag: '../../../assets/flags/france.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/rayquaza.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Rahul Reddy',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/banette.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png'
   },
   {
     firstName: 'Jimmy Pendarvis',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
+    sprite1: '../../../assets/sprites/espeon.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'Christopher Schemanske',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Hunter Butler',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Luca Clavadetscher',
-    flag: '../../../assets/flags/switzerland.png',
+    firstName: 'Pablo Meza',
+    flag: '../../../assets/flags/mexico.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/greninja.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'Marc Lutz',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/magcargo.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Joey Ruettiger',
+    firstName: 'Sam Chen',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
+    sprite1: '../../../assets/sprites/drampa.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'Azul Griego',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'Alessandro Cremascoli',
-    flag: '../../../assets/flags/italy.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'Takuya Yoneda',
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png'
+  },
+  {
+    firstName: 'name',
     flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/gallade.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Seitaro Shibuya',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Natalie Millar',
-    flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Ryan Moorhouse',
-    flag: '../../../assets/flags/uk.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Alex Schemanske',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Kristian Hodas',
-    flag: '../../../assets/flags/slovakia.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/greninja.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Gustavo Wada',
-    flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/malamar.png',
-    sprite2: '../../../assets/sprites/hoopa-unbound.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Angel Torres',
-    flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/rayquaza.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Treynor Wolfe',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/buzzwole.png',
-    sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Clifton Goh',
-    flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/yveltal.png',
-    sprite2: '../../../assets/sprites/hoopa-unbound.png',
-    list: '../../../assets/list-icon.png'
-  },
-  {
-    firstName: 'Philip Schulz',
-    flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/zoroark.png',
-    sprite2: '../../../assets/sprites/garbodor.png',
+    sprite1: '../../../assets/sprites/golisopod.png',
+    sprite2: '../../../assets/sprites',
     list: '../../../assets/list-icon.png'
   }
 ]
 
 let seniors = [
+    {
+        firstName: 'Magnus Pederson',
+        flag: '../../../assets/flags/denmark.png',
+        sprite1: '../../../assets/sprites/banette.png',
+        sprite2: '../../../assets/sprites/garbodor.png',
+        list: '../../../assets/list-icon.png'
+    },
     {
         firstName: 'Magnus Pederson',
         flag: '../../../assets/flags/denmark.png',
