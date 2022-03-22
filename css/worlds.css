@@ -603,3 +603,8 @@ li {
         display: block;
     }
 }
+@media screen and (min-height: 900px) {
+    .hidden-poke {
+        top: 200px;
+    }
+}
