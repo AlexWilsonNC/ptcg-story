@@ -9,7 +9,7 @@ const juniorList = document.querySelector('.juniors-ol');
 let masters = [
   {
     firstName: 'Diego Cassiraga',
-    flag: '../../../assets/flags/argentina.png.png',
+    flag: '../../../assets/flags/argentina.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/gardevoir.png',
     list: '../../../assets/list-icon.png'
@@ -64,10 +64,10 @@ let masters = [
     list: '../../../assets/list-icon.png'
   },
   {
-    firstName: 'name',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Takuya Yoneda',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/ho-oh.png',
+    sprite2: '../../../assets/sprites/salazzle.png',
     list: '../../../assets/list-icon.png'
   },
   {
