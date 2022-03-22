@@ -360,8 +360,8 @@ li {
     z-index: -100;
     transform:scaleX(-1);
     top: 150px;
-    left: 145px;
-    width: 350px;
+    right: 0;
+    width: 280px;
     opacity: 0.4;
 }
 
@@ -516,6 +516,9 @@ li {
     }
     .casters-zone p {
         width: 80%;
+    }
+    .gallery {
+        width: 100%;
     }
 }
 @media screen and (max-width: 530px) {
