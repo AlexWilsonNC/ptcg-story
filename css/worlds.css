@@ -608,10 +608,10 @@ li {
     .gallery {
         width: 97%;
     }
-    .videos-section img {
+    .videos-section a img {
         width: 95%;
     }
-    .videos-section p {
+    .videos-section a p {
         width: 90%;
     }
 }
