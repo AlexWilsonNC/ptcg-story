@@ -241,61 +241,6 @@ let seniors = [
         sprite2: '../../../assets/sprites/garbodor.png',
         list: '../../../assets/list-icon.png'
     },
-    {
-        firstName: 'Magnus Pederson',
-        flag: '../../../assets/flags/denmark.png',
-        sprite1: '../../../assets/sprites/banette.png',
-        sprite2: '../../../assets/sprites/garbodor.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Conner Pederson',
-        flag: '../../../assets/flags/usa.png',
-        sprite1: '../../../assets/sprites/buzzwole.png',
-        sprite2: '../../../assets/sprites/garbodor.png',
-        list: '../../../assets/list-icon.png'
-    },{
-        firstName: 'Takumi Kaji',
-        flag: '../../../assets/flags/japan.png',
-        sprite1: '../../../assets/sprites/buzzwole.png',
-        sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Matthew Campbell',
-        flag: '../../../assets/flags/usa.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/greninja.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Benjamin Branch-Trevathan',
-        flag: '../../../assets/flags/usa.png',
-        sprite1: '../../../assets/sprites/buzzwole.png',
-        sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Caleb Banwarie',
-        flag: '../../../assets/flags/canada.png',
-        sprite1: '../../../assets/sprites/zoroark.png',
-        sprite2: '../../../assets/sprites/garbodor.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Jihun Choi',
-        flag: '../../../assets/flags/korea.png',
-        sprite1: '../../../assets/sprites/golisopod.png',
-        sprite2: '../../../assets/sprites/garbodor.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Tanner Hurley',
-        flag: '../../../assets/flags/usa.png',
-        sprite1: '../../../assets/sprites/zoroark.png',
-        sprite2: '../../../assets/sprites/garbodor.png',
-        list: '../../../assets/list-icon.png'
-    }
 ]
 
 let juniors = [
@@ -306,55 +251,6 @@ let juniors = [
         sprite2: '../../../assets/sprites/lycanroc-midnight.png',
         list: '../../../assets/list-icon.png'
     },
-    {
-        firstName: 'Sebastian Enriquez',
-        flag: '../../../assets/flags/usa.png',
-        sprite1: '../../../assets/sprites/buzzwole.png',
-        sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Rune Heiremans',
-        flag: '../../../assets/flags/belgium.png',
-        sprite1: '../../../assets/sprites/buzzwole.png',
-        sprite2: '../../../assets/sprites/lycanroc-midnight.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Walker Halliburton',
-        flag: '../../../assets/flags/usa.png',
-        sprite1: '../../../assets/sprites/zoroark.png',
-        sprite2: '../../../assets/sprites/garbodor.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Kota Onohara',
-        flag: '../../../assets/flags/japan.png',
-        sprite1: '../../../assets/sprites/naganadel.png',
-        sprite2: '../../../assets/sprites/stakataka.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Benjamin Bussert',
-        flag: '../../../assets/flags/usa.png',
-        sprite1: '../../../assets/sprites/buzzwole.png',
-        sprite2: '../../../assets/sprites/garbodor.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Joao Penteado',
-        flag: '../../../assets/flags/brazil.png',
-        sprite1: '../../../assets/sprites/buzzwole.png',
-        sprite2: '../../../assets/sprites/garbodor.png',
-        list: '../../../assets/list-icon.png'
-    },
-    {
-        firstName: 'Sechan Oh',
-        flag: '../../../assets/flags/korea.png',
-        sprite1: '../../../assets/sprites/zoroark.png',
-        sprite2: '../../../assets/sprites/garbodor.png',
-        list: '../../../assets/list-icon.png'
-    }
 ]
 
 //masters
