@@ -608,6 +608,12 @@ li {
     .gallery {
         width: 97%;
     }
+    .videos-section img {
+        width: 95%;
+    }
+    .videos-section p {
+        width: 90%;
+    }
 }
 @media screen and (min-height: 900px) {
     .hidden-poke {
