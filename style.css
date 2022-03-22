@@ -130,6 +130,12 @@ hr {
 .crossed-out {
     text-decoration: line-through;
 }
+.copyright {
+    font-style: italic;
+    font-size: 12px;
+    color: rgb(49, 49, 49);
+    text-align: center;
+}
 
 @media screen and (max-width: 1150px) {
     #nav-right {
