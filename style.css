@@ -81,14 +81,26 @@ hr {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.me {
+    border-radius: 10px;
+    width: 100px;
+}
+.margin-topish {
+    margin-top: 5px;
+}
 
 #center-a-container {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 #container {
-    width: 55%;
+    width: 50%;
     max-width: 100%;
+}
+#center-a-container p {
+    text-align: center;
+    width: 60%;
 }
 .contain-extra-nav {
     display: flex;
