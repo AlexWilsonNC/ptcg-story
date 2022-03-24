@@ -1,12 +1,3 @@
-const pokemonCard = fetch('https://api.pokemontcg.io/v2/sets/bw1')
-  .then(response => response.json())
-  .then(data => console.log(data));
-
-  // pokemon.card.find('bw1-1')
-  // .then(card => {
-  //   console.log(card.name)
-  // })
-
 const masterList = document.querySelector('.masters-ol');
 const seniorList = document.querySelector('.seniors-ol');
 const juniorList = document.querySelector('.juniors-ol');
@@ -17,7 +8,109 @@ let masters = [
     flag: '../../../assets/flags/australia.png',
     sprite1: '../../../assets/sprites/mewtwo.png',
     sprite2: '../../../assets/sprites/mew.png',
-    list: '../../../assets/list-icon.png'
+    list: '../../../assets/list-icon.png',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/dedenne-gx.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/solgaleo-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/reshiram-charizard-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/deoxys-espeon-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/naganadel-gx-dragon.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/cobalion-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/latios-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/magcargo-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/jirachi-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/marshadow.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/welder.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/steven-resolve.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/cherish-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/acro-bike.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/pokegear.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/custom-catcher.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/mysterious-treasure.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/switch.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/electromagnetic-radar.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/fire-crystal.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/giant-hearth.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/viridian-forest.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/energy-fire.png',
+        numImg: '../../../assets/08.png'
+      },
+      {
+        cardImg: '/./../../assets/cards/2019/energy-psychic.png',
+        numImg: '../../../assets/03.png'
+      }
+    ]
   },
   {
     firstName: 'Shintaro Ito',
@@ -628,13 +721,12 @@ function displayList(array = []) {
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
-        // $.ajax ({
-        //   method: "GET",
-        //   url: "https://api.pokemontcg.io/v2/cards/swsh1-1"
-        // }).then(function(response) {
-        //   console.log(response)
-        // })
-
+        for (let i = 0; i < deck.length; i++) {
+          let deck = item.deck[i];
+          
+          document.querySelector('.pok-card-small').src = deck.cardImg;
+          document.querySelector('.num-1').src = deck.numImg;
+        }
       })
     }
 
