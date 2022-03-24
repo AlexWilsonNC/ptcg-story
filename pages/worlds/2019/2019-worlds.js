@@ -2,6 +2,8 @@ const masterList = document.querySelector('.masters-ol');
 const seniorList = document.querySelector('.seniors-ol');
 const juniorList = document.querySelector('.juniors-ol');
 
+const modalBottom = document.querySelector('.modal-bottom');
+
 let masters = [
   {
     firstName: 'Henry Brand',
@@ -15,99 +17,99 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/solgaleo-gx.png',
+        cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/deoxys-espeon-gx.png',
+        cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/naganadel-gx-dragon.png',
+        cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/cobalion-gx.png',
+        cardImg: '../../../assets/cards/2019/cobalion-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/latios-gx.png',
+        cardImg: '../../../assets/cards/2019/latios-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/magcargo-gx.png',
+        cardImg: '../../../assets/cards/2019/magcargo-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/jirachi-gx.png',
+        cardImg: '../../../assets/cards/2019/jirachi-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/marshadow.png',
+        cardImg: '../../../assets/cards/2019/marshadow.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/steven-resolve.png',
+        cardImg: '../../../assets/cards/2019/steven-resolve.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019/fire-crystal.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019/giant-hearth.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019/viridian-forest.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019/energy-fire.png',
         numImg: '../../../assets/08.png'
       },
       {
-        cardImg: '/./../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019/energy-psychic.png',
         numImg: '../../../assets/03.png'
       }
     ]
@@ -721,11 +723,24 @@ function displayList(array = []) {
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
-        for (let i = 0; i < deck.length; i++) {
+
+        for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];
-          
-          document.querySelector('.pok-card-small').src = deck.cardImg;
-          document.querySelector('.num-1').src = deck.numImg;
+
+          let cardSpace = document.createElement('div');
+          cardSpace.classList.add('pokemon-card');
+
+          let pokeCard = document.createElement('img');
+          pokeCard.classList.add('pok-card-small')
+          pokeCard.setAttribute('src', deck.cardImg);
+
+          let numberCounter = document.createElement('img');
+          numberCounter.classList.add('num-1')
+          numberCounter.setAttribute('src', deck.numImg);
+
+          cardSpace.appendChild(pokeCard);
+          cardSpace.appendChild(numberCounter);
+          modalBottom.appendChild(cardSpace);
         }
       })
     }
