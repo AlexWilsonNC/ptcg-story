@@ -691,6 +691,7 @@ li {
     .num-1 {
         width: 17px;
         /* padding: 1px; */
+        margin-bottom: 2.5px;
     }
     .modal-x {
         font-size: 14px;
