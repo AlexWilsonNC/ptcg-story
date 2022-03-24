@@ -398,6 +398,7 @@ function displayList(array = []) {
 
     if (item.list === '../../../assets/list-icon.png') {
       item_element.addEventListener('click', function () {
+        document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
@@ -452,6 +453,7 @@ function displayList2(array = []) {
 
     if (item.list === '../../../assets/list-icon.png') {
       item_element.addEventListener('click', function () {
+        document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
@@ -506,6 +508,7 @@ function displayList3(array = []) {
 
     if (item.list === '../../../assets/list-icon.png') {
       item_element.addEventListener('click', function () {
+        document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;

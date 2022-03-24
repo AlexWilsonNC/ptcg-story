@@ -1,6 +1,11 @@
-const pokemonCard = fetch('https://api.pokemontcg.io/v2/cards/swsh1-1')
+const pokemonCard = fetch('https://api.pokemontcg.io/v2/sets/bw1')
   .then(response => response.json())
   .then(data => console.log(data));
+
+  // pokemon.card.find('bw1-1')
+  // .then(card => {
+  //   console.log(card.name)
+  // })
 
 const masterList = document.querySelector('.masters-ol');
 const seniorList = document.querySelector('.seniors-ol');
@@ -619,9 +624,17 @@ function displayList(array = []) {
 
     if (item.list === '../../../assets/list-icon.png') {
       item_element.addEventListener('click', function () {
+        document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
+        // $.ajax ({
+        //   method: "GET",
+        //   url: "https://api.pokemontcg.io/v2/cards/swsh1-1"
+        // }).then(function(response) {
+        //   console.log(response)
+        // })
+
       })
     }
 
@@ -673,6 +686,7 @@ function displayList2(array = []) {
 
     if (item.list === '../../../assets/list-icon.png') {
       item_element.addEventListener('click', function () {
+        document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
@@ -727,6 +741,7 @@ function displayList3(array = []) {
 
     if (item.list === '../../../assets/list-icon.png') {
       item_element.addEventListener('click', function () {
+        document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
