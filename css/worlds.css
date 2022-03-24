@@ -285,7 +285,7 @@ li {
     justify-content: center;
 }
 .modal {
-    width: 70%;
+    width: 80%;
     background: white;
     border: 3px solid black;
     border-radius: 15px;
@@ -383,6 +383,34 @@ li {
 .twohundred {
     width: 60%;
     margin: 0px auto;
+}
+
+.modal-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.pokemon-card {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.pok-card-small {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 125px;
+}
+.num-1 {
+    position: absolute;
+    width: 50px;
+    margin-bottom: 10px;
+    background-color: black;
+    border-radius: 50%;
+    padding:1px;
 }
 
 @media screen and (max-width: 1250px) {
