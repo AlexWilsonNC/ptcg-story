@@ -1,10 +1,8 @@
-const pokemonCard = fetch('https://api.pokemontcg.io/v2/cards/swsh1-1')
-  .then(response => response.json())
-  .then(data => console.log(data));
-
 const masterList = document.querySelector('.masters-ol');
 const seniorList = document.querySelector('.seniors-ol');
 const juniorList = document.querySelector('.juniors-ol');
+
+const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
   {
@@ -402,6 +400,36 @@ function displayList(array = []) {
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
+
+                for (let i = 0; i < item.deck.length; i++) {
+          let deck = item.deck[i];
+
+          let cardSpace = document.createElement('div');
+          cardSpace.classList.add('pokemon-card');
+
+          let pokeCard = document.createElement('img');
+          pokeCard.classList.add('pok-card-small')
+          pokeCard.setAttribute('src', deck.cardImg);
+
+          let numberCounter = document.createElement('img');
+          numberCounter.classList.add('num-1')
+          numberCounter.setAttribute('src', deck.numImg);
+
+          cardSpace.appendChild(pokeCard);
+          cardSpace.appendChild(numberCounter);
+          modalBottom.appendChild(cardSpace);
+
+          modalX.addEventListener('click', () => {
+            modal.style.display = 'none';
+            behind.style.display = 'none';
+            cardSpace.remove();
+          })
+          behind.addEventListener('click', () => {
+            modal.style.display = 'none';
+            behind.style.display = 'none';
+            cardSpace.remove();
+          })
+        }
       })
     }
 
@@ -457,6 +485,36 @@ function displayList2(array = []) {
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
+
+        for (let i = 0; i < item.deck.length; i++) {
+          let deck = item.deck[i];
+
+          let cardSpace = document.createElement('div');
+          cardSpace.classList.add('pokemon-card');
+
+          let pokeCard = document.createElement('img');
+          pokeCard.classList.add('pok-card-small')
+          pokeCard.setAttribute('src', deck.cardImg);
+
+          let numberCounter = document.createElement('img');
+          numberCounter.classList.add('num-1')
+          numberCounter.setAttribute('src', deck.numImg);
+
+          cardSpace.appendChild(pokeCard);
+          cardSpace.appendChild(numberCounter);
+          modalBottom.appendChild(cardSpace);
+
+          modalX.addEventListener('click', () => {
+            modal.style.display = 'none';
+            behind.style.display = 'none';
+            cardSpace.remove();
+          })
+          behind.addEventListener('click', () => {
+            modal.style.display = 'none';
+            behind.style.display = 'none';
+            cardSpace.remove();
+          })
+        }
       })
     }
 
@@ -512,6 +570,36 @@ function displayList3(array = []) {
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
+
+        for (let i = 0; i < item.deck.length; i++) {
+          let deck = item.deck[i];
+
+          let cardSpace = document.createElement('div');
+          cardSpace.classList.add('pokemon-card');
+
+          let pokeCard = document.createElement('img');
+          pokeCard.classList.add('pok-card-small')
+          pokeCard.setAttribute('src', deck.cardImg);
+
+          let numberCounter = document.createElement('img');
+          numberCounter.classList.add('num-1')
+          numberCounter.setAttribute('src', deck.numImg);
+
+          cardSpace.appendChild(pokeCard);
+          cardSpace.appendChild(numberCounter);
+          modalBottom.appendChild(cardSpace);
+
+          modalX.addEventListener('click', () => {
+            modal.style.display = 'none';
+            behind.style.display = 'none';
+            cardSpace.remove();
+          })
+          behind.addEventListener('click', () => {
+            modal.style.display = 'none';
+            behind.style.display = 'none';
+            cardSpace.remove();
+          })
+        }
       })
     }
 
@@ -522,15 +610,6 @@ function displayList3(array = []) {
 const modal = document.querySelector('.modal');
 const modalX = document.querySelector('.modal-x');
 const behind = document.querySelector('.behind-modal');
-
-modalX.addEventListener('click', () => {
-  modal.style.display = 'none';
-  behind.style.display = 'none';
-})
-behind.addEventListener('click', () => {
-  modal.style.display = 'none';
-  behind.style.display = 'none';
-})
 
 displayList(masters);
 displayList2(seniors);
