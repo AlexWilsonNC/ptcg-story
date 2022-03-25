@@ -11,6 +11,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo.png',
     sprite2: '../../../assets/sprites/mew.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
@@ -120,6 +121,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/naganadel.png',
     list: '../../../assets/list-icon.png',
+        type: 'fire',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/blacephalon-gx.png',
@@ -217,6 +219,7 @@ let masters = [
     sprite1: '../../../assets/sprites/charizard.png',
     sprite2: '../../../assets/sprites/volcanion.png',
     list: '../../../assets/list-icon.png',
+        type: 'fire',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
@@ -310,6 +313,7 @@ let masters = [
     sprite1: '../../../assets/sprites/reshiram.png',
     sprite2: '../../../assets/sprites/charizard.png',
     list: '../../../assets/list-icon.png',
+        type: 'fire',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
@@ -395,6 +399,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'lightning',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
@@ -504,6 +509,7 @@ let masters = [
     sprite1: '../../../assets/sprites/charizard.png',
     sprite2: '../../../assets/sprites/volcanion.png',
     list: '../../../assets/list-icon.png',
+        type: 'fire',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
@@ -597,6 +603,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo.png',
     sprite2: '../../../assets/sprites/mew.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
@@ -698,6 +705,7 @@ let masters = [
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
+        type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/oranguru-resource-manag.png',
@@ -803,6 +811,7 @@ let masters = [
     sprite1: '../../../assets/sprites/gardevoir.png',
     sprite2: '../../../assets/sprites/sylveon.png',
     list: '../../../assets/list-icon.png',
+        type: 'fairy',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/gardevoir-sylveon-gx.png',
@@ -900,6 +909,7 @@ let masters = [
     sprite1: '../../../assets/sprites/gardevoir.png',
     sprite2: '../../../assets/sprites/sylveon.png',
     list: '../../../assets/list-icon.png',
+        type: 'fairy',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/gardevoir-sylveon-gx.png',
@@ -997,6 +1007,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo.png',
     sprite2: '../../../assets/sprites/mew.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
@@ -1106,6 +1117,7 @@ let masters = [
     sprite1: '../../../assets/sprites/reshiram.png',
     sprite2: '../../../assets/sprites/charizard.png',
     list: '../../../assets/list-icon.png',
+        type: 'fire',
     deck: [
       {
         cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
@@ -1207,11 +1219,100 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/naganadel.png',
     list: '../../../assets/list-icon.png',
+    type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019',
+        cardImg: '../../../assets/cards/2019/blacephalon-gx.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/naganadel.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/poipole-spit.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/poipole-eye.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/poipole-belt.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/lillie.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/welder.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/cynthia.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/brocks-grit.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/beast-ring.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/beast-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pokegear.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/ultra-space.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        numImg: '../../../assets/14.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-beast-p.png',
+        numImg: '../../../assets/01.png'
+      }
     ]
   },
   {
@@ -1220,11 +1321,88 @@ let masters = [
     sprite1: '../../../assets/sprites/gardevoir.png',
     sprite2: '../../../assets/sprites/sylveon.png',
     list: '../../../assets/list-icon.png',
+    type: 'fairy',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019',
+        cardImg: '../../../assets/cards/2019/gardevoir-sylveon-gx.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2019/xerneas-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/coach-trainer.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/cynthia.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/lusamine.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/great-potion.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pokegear.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/switch.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-spinner.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/fairy-charm-lightning.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/fairy-charm-ub.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/choice-helmet.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/power-plant.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-fairy.png',
+        numImg: '../../../assets/10.png'
+      }
     ]
   },
   {
@@ -1232,13 +1410,9 @@ let masters = [
     flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
-    list: '../../../assets/list-icon.png',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2019',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png',
+        type: '',
+    deck: []
   },
   {
     firstName: 'Zakary Krekler',
@@ -1246,11 +1420,112 @@ let masters = [
     sprite1: '../../../assets/sprites/weavile.png',
     sprite2: '../../../assets/sprites/naganadel.png',
     list: '../../../assets/list-icon.png',
+        type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019',
+        cardImg: '../../../assets/cards/2019/weavile-gx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/weavile.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/sneasel-2nd-turn.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/sneasel.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/naganadel.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/poipole-spit.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/darkrai-p.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/darkrai-umbreon-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/tyranitar-sableye.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/greninja-zoroark-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/hoopa-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/lillie.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2019/cynthia.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/hapu.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/beast-ring.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pokegear.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/switch.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/ultra-space.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/darkcity.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-dark.png',
+        numImg: '../../../assets/12.png'
+      }
     ]
   },
   {
@@ -1259,11 +1534,104 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+    type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019',
+        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/zapdos.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/mew.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/lillie.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/volkner.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/cynthia.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2019/electropower.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/switch.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        numImg: '../../../assets/11.png'
+      }
     ]
   },
   {
@@ -1272,11 +1640,100 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+    type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019',
+        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/mew.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/judge.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/volkner.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/electropower.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/switch.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        numImg: '../../../assets/11.png'
+      }
     ]
   },
   {
@@ -1284,13 +1741,9 @@ let masters = [
     flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/charizard.png',
     sprite2: '../../../assets/sprites/volcanion.png',
-    list: '../../../assets/list-icon.png',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2019',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png',
+        type: '',
+    deck: []
   },
   {
     firstName: 'Robin Shulz',
@@ -1298,6 +1751,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo.png',
     sprite2: '../../../assets/sprites/mew.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1311,6 +1765,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1324,6 +1779,7 @@ let masters = [
     sprite1: '../../../assets/sprites/reshiram.png',
     sprite2: '../../../assets/sprites/charizard.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1337,6 +1793,7 @@ let masters = [
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1350,6 +1807,7 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/necrozma-ultra.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1363,6 +1821,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1376,6 +1835,7 @@ let masters = [
     sprite1: '../../../assets/sprites/keldeo.png',
     sprite2: '../../../assets/sprites/bronzong.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1389,6 +1849,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/naganadel.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1402,6 +1863,7 @@ let masters = [
     sprite1: '../../../assets/sprites/reshiram.png',
     sprite2: '../../../assets/sprites/charizard.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1415,6 +1877,7 @@ let masters = [
     sprite1: '../../../assets/sprites/reshiram.png',
     sprite2: '../../../assets/sprites/charizard.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1428,6 +1891,7 @@ let masters = [
     sprite1: '../../../assets/sprites/charizard.png',
     sprite2: '../../../assets/sprites/volcanion.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1441,6 +1905,7 @@ let masters = [
     sprite1: '../../../assets/sprites/gardevoir.png',
     sprite2: '../../../assets/sprites/sylveon.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1454,6 +1919,7 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/giratina.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1467,6 +1933,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1480,6 +1947,7 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/giratina.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1493,6 +1961,7 @@ let masters = [
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1506,6 +1975,7 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/necrozma-ultra.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1519,6 +1989,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1532,6 +2003,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/volcanion.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1545,6 +2017,7 @@ let masters = [
     sprite1: '../../../assets/sprites/reshiram.png',
     sprite2: '../../../assets/sprites/charizard.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1558,6 +2031,7 @@ let masters = [
     sprite1: '../../../assets/sprites/reshiram.png',
     sprite2: '../../../assets/sprites/charizard.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1571,6 +2045,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo.png',
     sprite2: '../../../assets/sprites/mew.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1584,6 +2059,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1597,6 +2073,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1610,6 +2087,7 @@ let masters = [
     sprite1: '../../../assets/sprites/gardevoir.png',
     sprite2: '../../../assets/sprites/sylveon.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1623,6 +2101,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/spiritomb.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1636,6 +2115,7 @@ let masters = [
     sprite1: '../../../assets/sprites/reshiram.png',
     sprite2: '../../../assets/sprites/charizard.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1649,6 +2129,7 @@ let masters = [
     sprite1: '../../../assets/sprites/giratina.png',
     sprite2: '../../../assets/sprites/garchomp.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1662,6 +2143,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/persian.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1675,6 +2157,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1688,6 +2171,7 @@ let masters = [
     sprite1: '../../../assets/sprites/gengar.png',
     sprite2: '../../../assets/sprites/omastar.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1701,6 +2185,7 @@ let masters = [
     sprite1: '../../../assets/sprites/gardevoir.png',
     sprite2: '../../../assets/sprites/sylveon.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1714,6 +2199,7 @@ let masters = [
     sprite1: '../../../assets/sprites/giratina.png',
     sprite2: '../../../assets/sprites/garchomp.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1727,6 +2213,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blacephalon.png',
     sprite2: '../../../assets/sprites/persian.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1740,6 +2227,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1753,6 +2241,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1766,6 +2255,7 @@ let masters = [
     sprite1: '../../../assets/sprites/gardevoir.png',
     sprite2: '../../../assets/sprites/sylveon.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1779,6 +2269,7 @@ let masters = [
     sprite1: '../../../assets/sprites/charizard.png',
     sprite2: '../../../assets/sprites/volcanion.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1792,6 +2283,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo.png',
     sprite2: '../../../assets/sprites/mew.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1805,6 +2297,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1818,6 +2311,7 @@ let masters = [
     sprite1: '../../../assets/sprites/rowlet.png',
     sprite2: '../../../assets/sprites/exeggutor-alola.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1831,6 +2325,7 @@ let masters = [
     sprite1: '../../../assets/sprites/mewtwo.png',
     sprite2: '../../../assets/sprites/mew.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1844,6 +2339,7 @@ let masters = [
     sprite1: '../../../assets/sprites/rampardos.png',
     sprite2: '../../../assets/sprites/omastar.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1857,6 +2353,7 @@ let masters = [
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1870,6 +2367,7 @@ let masters = [
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
     list: '../../../assets/list-icon.png',
+        type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1886,6 +2384,7 @@ let seniors = [
       sprite1: '../../../assets/sprites/reshiram.png',
       sprite2: '../../../assets/sprites/charizard.png',
       list: '../../../assets/list-icon.png',
+          type: 'psychic',
       deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1899,6 +2398,7 @@ let seniors = [
         sprite1: '../../../assets/sprites/gardevoir.png',
         sprite2: '../../../assets/sprites/sylveon.png',
         list: '../../../assets/list-icon.png',
+            type: 'psychic',
         deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1912,6 +2412,7 @@ let seniors = [
         sprite1: '../../../assets/sprites/pikachu.png',
         sprite2: '../../../assets/sprites/zekrom.png',
         list: '../../../assets/list-icon.png',
+            type: 'psychic',
         deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1925,6 +2426,7 @@ let seniors = [
         sprite1: '../../../assets/sprites/pikachu.png',
         sprite2: '../../../assets/sprites/zekrom.png',
         list: '../../../assets/list-icon.png',
+            type: 'psychic',
         deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1938,6 +2440,7 @@ let seniors = [
         sprite1: '../../../assets/sprites/charizard.png',
         sprite2: '../../../assets/sprites/volcanion.png',
         list: '../../../assets/list-icon.png',
+            type: 'psychic',
         deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1951,6 +2454,7 @@ let seniors = [
         sprite1: '../../../assets/sprites/pikachu.png',
         sprite2: '../../../assets/sprites/zekrom.png',
         list: '../../../assets/list-icon.png',
+            type: 'psychic',
         deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1964,6 +2468,7 @@ let seniors = [
         sprite1: '../../../assets/sprites/mewtwo.png',
         sprite2: '../../../assets/sprites/mew.png',
         list: '../../../assets/list-icon.png',
+            type: 'psychic',
         deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1977,6 +2482,7 @@ let seniors = [
         sprite1: '../../../assets/sprites/charizard.png',
         sprite2: '../../../assets/sprites/volcanion.png',
         list: '../../../assets/list-icon.png',
+            type: 'psychic',
         deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -1993,6 +2499,7 @@ let juniors = [
       sprite1: '../../../assets/sprites/pikachu.png',
       sprite2: '../../../assets/sprites/zekrom.png',
       list: '../../../assets/list-icon.png',
+          type: 'psychic',
       deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -2006,6 +2513,7 @@ let juniors = [
       sprite1: '../../../assets/sprites/charizard.png',
       sprite2: '../../../assets/sprites/volcanion.png',
       list: '../../../assets/list-icon.png',
+          type: 'psychic',
       deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -2019,6 +2527,7 @@ let juniors = [
       sprite1: '../../../assets/sprites/charizard.png',
       sprite2: '../../../assets/sprites/volcanion.png',
       list: '../../../assets/list-icon.png',
+          type: 'psychic',
       deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -2032,6 +2541,7 @@ let juniors = [
       sprite1: '../../../assets/sprites/mewtwo.png',
       sprite2: '../../../assets/sprites/mew.png',
       list: '../../../assets/list-icon.png',
+          type: 'psychic',
       deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -2045,6 +2555,7 @@ let juniors = [
       sprite1: '../../../assets/sprites/pikachu.png',
       sprite2: '../../../assets/sprites/zekrom.png',
       list: '../../../assets/list-icon.png',
+          type: 'psychic',
       deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -2058,6 +2569,7 @@ let juniors = [
       sprite1: '../../../assets/sprites/pikachu.png',
       sprite2: '../../../assets/sprites/zekrom.png',
       list: '../../../assets/list-icon.png',
+          type: 'psychic',
       deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -2071,6 +2583,7 @@ let juniors = [
       sprite1: '../../../assets/sprites/quagsire.png',
       sprite2: '../../../assets/sprites/naganadel.png',
       list: '../../../assets/list-icon.png',
+          type: 'psychic',
       deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -2084,6 +2597,7 @@ let juniors = [
       sprite1: '../../../assets/sprites/mewtwo.png',
       sprite2: '../../../assets/sprites/mew.png',
       list: '../../../assets/list-icon.png',
+          type: 'psychic',
       deck: [
       {
         cardImg: '../../../assets/cards/2019',
@@ -2141,6 +2655,32 @@ function displayList(array = []) {
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
+
+        if (item.type == 'psychic') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
+        } else if (item.type == 'fire') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
+        } else if (item.type == 'fairy') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
+        } else if (item.type == 'normal') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
+        } else if (item.type == 'lightning') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
+        } else if (item.type == 'dark') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
+        } else if (item.type == 'dragon') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
+        } else if (item.type == 'fighting') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
+        } else if (item.type == 'grass') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
+        } else if (item.type == 'metal') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
+        } else if (item.type == 'water') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
+        } else {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
+        }
 
         for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];
@@ -2227,6 +2767,32 @@ function displayList2(array = []) {
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
 
+        if (item.type == 'psychic') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
+        } else if (item.type == 'fire') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
+        } else if (item.type == 'fairy') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
+        } else if (item.type == 'normal') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
+        } else if (item.type == 'lightning') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
+        } else if (item.type == 'dark') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
+        } else if (item.type == 'dragon') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
+        } else if (item.type == 'fighting') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
+        } else if (item.type == 'grass') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
+        } else if (item.type == 'metal') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
+        } else if (item.type == 'water') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
+        } else {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
+        }
+
         for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];
 
@@ -2245,10 +2811,6 @@ function displayList2(array = []) {
           cardSpace.appendChild(numberCounter);
           modalBottom.appendChild(cardSpace);
 
-          // cardSpace.addEventListener('click', () => {
-            
-          // })
-
           modalX.addEventListener('click', () => {
             modal.style.display = 'none';
             behind.style.display = 'none';
@@ -2262,7 +2824,6 @@ function displayList2(array = []) {
         }
       })
     }
-
     seniorList.appendChild(item_element);
   }
 }
@@ -2316,6 +2877,32 @@ function displayList3(array = []) {
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName;
 
+        if (item.type == 'psychic') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
+        } else if (item.type == 'fire') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fire-bg.png)";
+        } else if (item.type == 'fairy') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fairy-bg.png)";
+        } else if (item.type == 'normal') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/normal-bg.png)";
+        } else if (item.type == 'lightning') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/lightning-bg.png)";
+        } else if (item.type == 'dark') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
+        } else if (item.type == 'dragon') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dragon-bg.png)";
+        } else if (item.type == 'fighting') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/fighting-bg.png)";
+        } else if (item.type == 'grass') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/grass-bg.png)";
+        } else if (item.type == 'metal') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/metal-bg.png)";
+        } else if (item.type == 'water') {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/water-bg.png)";
+        } else {
+          document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
+        }
+
         for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];
 
@@ -2347,7 +2934,6 @@ function displayList3(array = []) {
         }
       })
     }
-
     juniorList.appendChild(item_element);
   }
 }
