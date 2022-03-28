@@ -5407,12 +5407,104 @@ let masters = [
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
     list: '../../../assets/list-icon.png',
-        type: 'psychic',
+    type: 'normal',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019',
+        cardImg: '../../../assets/cards/2019/oranguru-resource-manag.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2019/pidgeotto.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pidgey.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/girafarig.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/mew.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/articuno-gx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/professor-elm-lecture.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/cynthia.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/mars.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/lt-surge.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/brocks-grit.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pokegear.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/crushing-hammer.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/chipchip-ice-axe.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/palpad.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/power-plant.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-water.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-recycle.png',
+        numImg: '../../../assets/01.png'
+      }
     ]
   },
   {
@@ -5420,14 +5512,9 @@ let masters = [
     flag: '../../../assets/flags/czech-republic.png',
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
-    list: '../../../assets/list-icon.png',
-        type: 'psychic',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2019',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    list: '../../../assets/sprites/blank.png',
+        type: '',
+    deck: []
   }
 ]
 
