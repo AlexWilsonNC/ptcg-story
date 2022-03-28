@@ -5402,7 +5402,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Jimmy Pendarvis',
+    firstName: 'Jimmy Pendarvisssss',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/oranguru.png',
     sprite2: '../../../assets/sprites/pidgeotto.png',
