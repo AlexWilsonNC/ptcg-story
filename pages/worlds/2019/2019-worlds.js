@@ -6336,13 +6336,113 @@ let juniors = [
       sprite1: '../../../assets/sprites/pikachu.png',
       sprite2: '../../../assets/sprites/zekrom.png',
       list: '../../../assets/list-icon.png',
-          type: 'psychic',
+      type: 'lightning',
       deck: [
-      {
-        cardImg: '../../../assets/cards/2019',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    {
+      cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/mew.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/tapufini.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/marshadow.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/volkner.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/judge.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/cynthia.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/custom-catcher.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/electropower.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/energy-switch.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/cherish-ball.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/tag-switch.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/reset-stamp.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/stadiumnav.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/switch.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/power-plant.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/energy-lightning.png',
+      numImg: '../../../assets/11.png'
+    }
+      ]
     },
     {
       firstName: 'Issac Terceira',
@@ -6350,13 +6450,85 @@ let juniors = [
       sprite1: '../../../assets/sprites/charizard.png',
       sprite2: '../../../assets/sprites/volcanion.png',
       list: '../../../assets/list-icon.png',
-          type: 'psychic',
+      type: 'fire',
       deck: [
-      {
-        cardImg: '../../../assets/cards/2019',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+        {
+          cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+          numImg: '../../../assets/03.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/volcanion.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/welder.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/greens-exploration.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/custom-catcher.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/acro-bike.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/pokegear.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/great-potion.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/fire-crystal.png',
+          numImg: '../../../assets/03.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/cherish-ball.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/fiery-flint.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/reset-stamp.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/switch.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/choice-helmet.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/power-plant.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/heat-factory.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/energy-fire.png',
+          numImg: '../../../assets/11.png'
+        }
+      ]
     },
     {
       firstName: 'Logan Maracle',
@@ -6364,13 +6536,89 @@ let juniors = [
       sprite1: '../../../assets/sprites/charizard.png',
       sprite2: '../../../assets/sprites/volcanion.png',
       list: '../../../assets/list-icon.png',
-          type: 'psychic',
+      type: 'fire',
       deck: [
-      {
-        cardImg: '../../../assets/cards/2019',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+        {
+          cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+          numImg: '../../../assets/03.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/volcanion.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/welder.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/greens-exploration.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/custom-catcher.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/acro-bike.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/pokegear.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/fire-crystal.png',
+          numImg: '../../../assets/03.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/cherish-ball.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/great-potion.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/reset-stamp.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/switch.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/fiery-flint.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/energy-spinner.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/choice-helmet.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/power-plant.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/heat-factory.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/energy-fire.png',
+          numImg: '../../../assets/11.png'
+        }
+      ]
     },
     {
       firstName: 'Cassio Moraes',
@@ -6378,13 +6626,109 @@ let juniors = [
       sprite1: '../../../assets/sprites/mewtwo.png',
       sprite2: '../../../assets/sprites/mew.png',
       list: '../../../assets/list-icon.png',
-          type: 'psychic',
+      type: 'psychic',
       deck: [
-      {
-        cardImg: '../../../assets/cards/2019',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+        {
+          cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+          numImg: '../../../assets/03.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/latios-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/dargonite-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/muk-alolan-muk-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/mewtwo.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/welder.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/judge.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/cherish-ball.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/acro-bike.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/switch.png',
+          numImg: '../../../assets/03.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+          numImg: '../../../assets/02.png'
+        }, 
+        {
+          cardImg: '../../../assets/cards/2019/energy-recycler.png',
+          numImg: '../../../assets/02.png'
+        }, 
+        {
+          cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+          numImg: '../../../assets/02.png'
+        }, 
+        {
+          cardImg: '../../../assets/cards/2019/reset-stamp.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/escapeboard.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/giant-hearth.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/energy-fire.png',
+          numImg: '../../../assets/08.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/energy-psychic.png',
+          numImg: '../../../assets/04.png'
+        }
+      ]
     },
     {
       firstName: 'Sechan Oh',
@@ -6392,13 +6736,105 @@ let juniors = [
       sprite1: '../../../assets/sprites/pikachu.png',
       sprite2: '../../../assets/sprites/zekrom.png',
       list: '../../../assets/list-icon.png',
-          type: 'psychic',
+      type: 'lightning',
       deck: [
-      {
-        cardImg: '../../../assets/cards/2019',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    {
+      cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/necrozma-dawn-wings.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/zapdos.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/volkner.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/lillie.png',
+      numImg: '../../../assets/03.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/cynthia.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/erikas-hospitality.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/custom-catcher.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/electropower.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+      numImg: '../../../assets/03.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/energy-switch.png',
+      numImg: '../../../assets/03.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/cherish-ball.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/reset-stamp.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/tag-switch.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/stadiumnav.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+      numImg: '../../../assets/03.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/energy-lightning.png',
+      numImg: '../../../assets/11.png'
+    }
+      ]
     },
     {
       firstName: 'Daniel Magda',
@@ -6406,13 +6842,110 @@ let juniors = [
       sprite1: '../../../assets/sprites/pikachu.png',
       sprite2: '../../../assets/sprites/zekrom.png',
       list: '../../../assets/list-icon.png',
-          type: 'psychic',
+      type: 'lightning',
       deck: [
-      {
-        cardImg: '../../../assets/cards/2019',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    {
+      cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+      numImg: '../../../assets/03.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/tapufini.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/mew.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/marshadow.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/zapdos.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/volkner.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/cynthia.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/lillie.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/custom-catcher.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/electropower.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+      numImg: '../../../assets/04.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/energy-switch.png',
+      numImg: '../../../assets/03.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+      numImg: '../../../assets/03.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/reset-stamp.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/switch.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/tag-switch.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/stadiumnav.png',
+      numImg: '../../../assets/01.png'
+    },
+
+    {
+      cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+      numImg: '../../../assets/02.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+      numImg: '../../../assets/01.png'
+    },
+    {
+      cardImg: '../../../assets/cards/2019/energy-lightning.png',
+      numImg: '../../../assets/11.png'
+    }
+      ]
     },
     {
       firstName: 'Mitchell Ransome',
@@ -6420,11 +6953,103 @@ let juniors = [
       sprite1: '../../../assets/sprites/quagsire.png',
       sprite2: '../../../assets/sprites/naganadel.png',
       list: '../../../assets/list-icon.png',
-          type: 'psychic',
+          type: 'water',
       deck: [
       {
-        cardImg: '../../../assets/cards/2019',
+        cardImg: '../../../assets/cards/2019/keldeo-gx.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/naganadel.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/poipole-belt.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/poipole-eye.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/poipole-spit.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/quagsire.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/wooper.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/wooper-ground.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/kyurem.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/volcanion-p.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/cynthia.png',
         numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/lillie.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/blues-tactics.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/crushing-hammer.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pokenav.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/blizzard-town.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/ultra-space.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-water.png',
+        numImg: '../../../assets/10.png'
       },
     ]
     },
@@ -6434,13 +7059,133 @@ let juniors = [
       sprite1: '../../../assets/sprites/mewtwo.png',
       sprite2: '../../../assets/sprites/mew.png',
       list: '../../../assets/list-icon.png',
-          type: 'psychic',
+      type: 'psychic',
       deck: [
-      {
-        cardImg: '../../../assets/cards/2019',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+        {
+          cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+          numImg: '../../../assets/03.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+          numImg: '../../../assets/03.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/latios-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/dargonite-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/blaziken-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/altaria-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/heatran-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/cobalion-gx.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/mew.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/welder.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/hapu.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/reds-challenge.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/cherish-ball.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/custom-catcher.png',
+          numImg: '../../../assets/04.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/switch.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+          numImg: '../../../assets/02.png'
+        }, 
+        {
+          cardImg: '../../../assets/cards/2019/reset-stamp.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/fire-crystal.png',
+          numImg: '../../../assets/01.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/escapeboard.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/giant-hearth.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+          numImg: '../../../assets/01.png'
+        },
+          {
+            cardImg: '../../../assets/cards/2019/heat-factory.png',
+            numImg: '../../../assets/01.png'
+          },
+        {
+          cardImg: '../../../assets/cards/2019/energy-fire.png',
+          numImg: '../../../assets/08.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/energy-psychic.png',
+          numImg: '../../../assets/04.png'
+        }
+      ]
     }
 ]
 
