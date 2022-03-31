@@ -180,6 +180,7 @@ li {
 .player-list-hover:hover {
     background-color: rgb(226, 226, 226);
     border-radius: 10px;
+    cursor: pointer;
 }
 .name-n-flag {
     display: flex;

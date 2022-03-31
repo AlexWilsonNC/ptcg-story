@@ -141,6 +141,7 @@ hr {
 }
 .crossed-out {
     text-decoration: line-through;
+    color: rgb(148, 148, 148);
 }
 .copyright {
     font-style: italic;
