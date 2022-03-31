@@ -3343,9 +3343,110 @@ let masters = [
     flag: '../../../assets/flags/singapore.png',
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
-    list: '../../../assets/sprites/blank.png',
-        type: '',
-    deck: []
+    list: '../../../assets/list-icon.png',
+        type: 'lightning',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/sigilyph-gx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/zapdos.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/lillie.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/volkner.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/cyrus-p.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/electropower.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/switch.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        numImg: '../../../assets/11.png'
+      }
+    ]
   },
   {
     firstName: 'Haedon Jeong',
@@ -5508,7 +5609,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Miloslav Posledni',
+    firstName: 'Miloslav Poslední',
     flag: '../../../assets/flags/czech-republic.png',
     sprite1: '../../../assets/sprites/pikachu.png',
     sprite2: '../../../assets/sprites/zekrom.png',
