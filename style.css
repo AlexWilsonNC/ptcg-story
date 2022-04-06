@@ -15,7 +15,7 @@ hr {
 .legends {
     font-family: 'Permanent Marker', cursive;
     font-size: 46px;
-    color: rgb(75, 67, 0);
+    color: rgb(114, 103, 5);
 }
 #progressbar {
     position: fixed;
@@ -93,6 +93,12 @@ hr {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+#center-a-container h2 {
+    background-color: rgb(49, 49, 49);
+    border-radius: 12px;
+    color: #fff;
+    padding: 5px 35px;
 }
 #container {
     width: 50%;

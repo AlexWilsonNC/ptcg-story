@@ -273,6 +273,12 @@ li {
     font-style: italic;
     line-height: 22px;
 }
+.videos-section h3 {
+    background-color: rgb(49, 49, 49);
+    border-radius: 12px;
+    color: #fff;
+    padding: 5px 35px;
+}    
 
 .seniors-ol,
 .juniors-ol,
