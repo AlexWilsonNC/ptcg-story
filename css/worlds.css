@@ -133,6 +133,7 @@
     width: 75px;
     height: 75px;
     border-radius: 20px;
+    margin-left: 5px;
 }
 
 .results-left {
@@ -557,6 +558,7 @@ li {
         align-items: center;
         flex-direction: column;
         justify-content: space-around;
+        margin-left: 0px;
     }
     .cast-box {
         display: none;
