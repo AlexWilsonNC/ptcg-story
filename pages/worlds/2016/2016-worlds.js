@@ -6,46 +6,46 @@ const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
   {
-    firstName: 'nameeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Shintaro Ito',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/audino-mega.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: []
   },
   {
-    firstName: 'nameeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Cody Walinski',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/greninja.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: []
   },
   {
-    firstName: 'nameeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Samuel Hough',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/vileplume.png',
+    sprite2: '../../../assets/sprites/jolteon.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: []
   },
   {
-    firstName: 'nameeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Ross Cawthon',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/vespiquen.png',
+    sprite2: '../../../assets/sprites/yveltal.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: []
   },
   {
-    firstName: 'nameeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Bert Wolters',
+    flag: '../../../assets/flags/netherlands.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/greninja.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: []
