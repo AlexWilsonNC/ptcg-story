@@ -33,7 +33,7 @@ hr {
     align-items: center;
     background-color: transparent;
     position: sticky;
-    margin-bottom: 25px;
+    background-color: #fff;
 }
 #nav-left {
     margin: 0px 0px 0px 40px;
@@ -84,6 +84,7 @@ hr {
 .me {
     border-radius: 10px;
     width: 100px;
+    margin-bottom: 10px;
 }
 .margin-topish {
     margin-top: 5px;
@@ -166,6 +167,95 @@ hr {
     font-weight: bold;
 }
 
+.home-pics {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.image-text {
+    color: #fff;
+    padding: 20px 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 15px;
+    text-align: center;
+    width: 50%;
+}
+.image-text-creator {
+    color: #fff;
+    padding: 20px 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 15px;
+    text-align: center;
+    width: 50%;
+    position: relative;
+}
+.image-text h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.image-text p {
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+#welcome {
+    background-image: url("./assets/retro-lux.png");
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+#site-info {
+    background-image: url("./assets/retro-darkrai-ray.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+#worlds-pins {
+    background-image: url("./assets/retro-pins.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+#creator {
+    background-image: url("./assets/retro-ray.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 90vh;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-btns {
+    padding: 10px 20px;
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    border-style: none;  
+    margin-bottom: 15px;
+    transition: ease-in-out 0.3s;
+}
+.home-btns:hover {
+    cursor: pointer;
+    background-color: rgb(80, 75, 49);
+}
+
 @media screen and (max-width: 1150px) {
     #nav-right {
         margin-right: 50px;
@@ -208,6 +298,7 @@ hr {
         flex-direction: column;
         align-items: center;
         margin-top: 15px;
+        margin-bottom: 25px;
     }
     #nav-left {
         margin: 0px 0px 0px 0px;
