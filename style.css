@@ -112,7 +112,6 @@ hr {
 .contain-extra-nav {
     display: flex;
     justify-content: center;
-    margin-top: -10px;
 }
 .extra-nav {
     width: 100%;
@@ -181,20 +180,20 @@ hr {
     width: 50%;
 }
 .image-text-creator {
-    color: #fff;
+    color: black;
     padding: 20px 50px;
-    background-color: rgba(0, 0, 0, 0.7);
-    border-radius: 15px;
     text-align: center;
-    width: 50%;
+    width: 75%;
     position: relative;
 }
-.image-text h2 {
-    font-size: 28px;
+.image-text h2,
+.image-text-creator h2 {
+    font-size: 36px;
     font-weight: bold;
     margin-bottom: 25px;
 }
-.image-text p {
+.image-text p,
+.image-text-creator p {
     font-size: 22px;
     margin-bottom: 25px;
 }
@@ -245,6 +244,7 @@ hr {
 .home-btns {
     padding: 10px 20px;
     background-color: grey;
+    font-size: 16px;
     color: white;
     border-radius: 10px;
     border-style: none;  
@@ -306,6 +306,10 @@ hr {
     .fa-chevron-down {
         font-size: 10px;
     }
+    .image-text,
+    .image-text-creator {
+        width: 70%;
+    }
 }
 @media screen and (max-width: 750px) {
     .extra-nav {
@@ -345,6 +349,11 @@ hr {
     }
     .hide-it-yo {
         display: block;
+    }
+    .image-text,
+    .image-text-creator {
+        padding: 20px 20px;
+        width: 80%;
     }
 }
 @media screen and (max-width: 400px) {

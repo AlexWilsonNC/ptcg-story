@@ -299,8 +299,8 @@ let seniors = [
   {
     firstName: 'Jesper Eriksen',
     flag: '../../../assets/flags/denmark.png',
-    sprite1: '../../../assets/sprites/vespiquen.png',
-    sprite2: '../../../assets/sprites/yanmega.png',
+    sprite1: '../../../assets/sprites/yanmega.png',
+    sprite2: '../../../assets/sprites/vespiquen.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: []
