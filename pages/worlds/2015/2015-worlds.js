@@ -23,7 +23,7 @@ let masters = [
     firstName: 'Mees Brenninkmeijer',
     flag: '../../../assets/flags/netherlands.png',
     sprite1: '../../../assets/sprites/seismitoad.png',
-    sprite2: '../../../assets/sprites/zubat.png',
+    sprite2: '../../../assets/sprites/crobat.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -205,7 +205,7 @@ let masters = [
     firstName: 'Michikazu Tsuda',
     flag: '../../../assets/flags/japan.png',
     sprite1: '../../../assets/sprites/raichu.png',
-    sprite2: '../../../assets/sprites/zubat.png',
+    sprite2: '../../../assets/sprites/crobat.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -219,7 +219,7 @@ let masters = [
     firstName: 'Nicolas Galaz',
     flag: '../../../assets/flags/chile.png',
     sprite1: '../../../assets/sprites/landorus-therian.png',
-    sprite2: '../../../assets/sprites/zubat.png',
+    sprite2: '../../../assets/sprites/crobat.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -317,7 +317,7 @@ let masters = [
     firstName: 'Ciaran Farah',
     flag: '../../../assets/flags/canada.png',
     sprite1: '../../../assets/sprites/raichu.png',
-    sprite2: '../../../assets/sprites/zubat.png',
+    sprite2: '../../../assets/sprites/crobat.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -387,7 +387,7 @@ let masters = [
     firstName: 'Tobias Thesing',
     flag: '../../../assets/flags/germany.png',
     sprite1: '../../../assets/sprites/raichu.png',
-    sprite2: '../../../assets/sprites/zubat.png',
+    sprite2: '../../../assets/sprites/crobat.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -575,7 +575,7 @@ let juniors = [
     firstName: 'Rowan Stavenow',
     flag: '../../../assets/flags/canada.png',
     sprite1: '../../../assets/sprites/landorus-therian.png',
-    sprite2: '../../../assets/sprites/zubat.png',
+    sprite2: '../../../assets/sprites/crobat.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -617,7 +617,7 @@ let juniors = [
     firstName: 'Enrico Marini',
     flag: '../../../assets/flags/italy.png',
     sprite1: '../../../assets/sprites/landorus-therian.png',
-    sprite2: '../../../assets/sprites/zubat.png',
+    sprite2: '../../../assets/sprites/crobat.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -631,7 +631,7 @@ let juniors = [
     firstName: 'Everett Rutter-Ferris',
     flag: '../../../assets/flags/canada.png',
     sprite1: '../../../assets/sprites/landorus-therian.png',
-    sprite2: '../../../assets/sprites/zubat.png',
+    sprite2: '../../../assets/sprites/crobat.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
