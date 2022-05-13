@@ -457,10 +457,10 @@ let masters = [
 
 let seniors = [
   {
-    firstName: 'nameeeeeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Patrick Martinez',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/seismitoad.png',
+    sprite2: '../../../assets/sprites/manectric.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -470,14 +470,112 @@ let seniors = [
       }
     ]
   },
+  {
+    firstName: 'Jeffrey Cheng',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/donphan.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Brent Tonisson',
+    flag: '../../../assets/flags/australia.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/manectric-mega.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Colter Decker',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/donphan.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Calvin Connor',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/klinklang.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Jesper Eriksen',
+    flag: '../../../assets/flags/denmark.png',
+    sprite1: '../../../assets/sprites/seismitoad.png',
+    sprite2: '../../../assets/sprites/manectric.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Jon Eng',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/seismitoad.png',
+    sprite2: '../../../assets/sprites/manectric.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Josh Fernando',
+    flag: '../../../assets/flags/canada.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/manectric-mega.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  }
 ]
 
 let juniors = [
   {
-    firstName: 'nameeeeeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Rowan Stavenow',
+    flag: '../../../assets/flags/canada.png',
+    sprite1: '../../../assets/sprites/landorus-therian.png',
+    sprite2: '../../../assets/sprites/zubat.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -487,6 +585,104 @@ let juniors = [
       }
     ]
   },
+  {
+    firstName: 'Alejandro Ng-Guzman',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/groudon-primal.png',
+    sprite2: '../../../assets/sprites/wobbuffet.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Jackson Davies',
+    flag: '../../../assets/flags/canada.png',
+    sprite1: '../../../assets/sprites/seismitoad.png',
+    sprite2: '../../../assets/sprites/manectric.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Enrico Marini',
+    flag: '../../../assets/flags/italy.png',
+    sprite1: '../../../assets/sprites/landorus-therian.png',
+    sprite2: '../../../assets/sprites/zubat.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Everett Rutter-Ferris',
+    flag: '../../../assets/flags/canada.png',
+    sprite1: '../../../assets/sprites/landorus-therian.png',
+    sprite2: '../../../assets/sprites/zubat.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Asaki Hasegawa',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/donphan.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Keita Saubaigne',
+    flag: '../../../assets/flags/belgium.png',
+    sprite1: '../../../assets/sprites/landorus-therian.png',
+    sprite2: '../../../assets/sprites/leafeon.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Yuto Omura',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/keldeo-resolute.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2015-2016',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  }
 ]
 
 //masters
