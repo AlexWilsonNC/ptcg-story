@@ -15,7 +15,7 @@ function changeToMasters() {
     juniorsBtn.classList.remove('dark-bg');
     juniorsBtn.classList.add('light-bg');
     mastersList.style.display = 'block';
-    mastersMeta.style.display = 'block';
+    mastersMeta.style.display = 'flex';
     seniorsList.style.display = 'none';
     seniorsMeta.style.display = 'none';
     juniorsList.style.display = 'none';
@@ -32,7 +32,7 @@ function changeToSeniors() {
     juniorsList.style.display = 'none';
     juniorsMeta.style.display = 'none';
     seniorsList.style.display = 'block';
-    seniorsMeta.style.display = 'block';
+    seniorsMeta.style.display = 'flex';
 }
 function changeToJuniors() {
     juniorsBtn.classList.add('dark-bg');
@@ -45,7 +45,7 @@ function changeToJuniors() {
     seniorsList.style.display = 'none';
     seniorsMeta.style.display = 'none';
     juniorsList.style.display = 'block';
-    juniorsMeta.style.display = 'block';
+    juniorsMeta.style.display = 'flex';
 }
 
 mastersBtn.addEventListener('click', changeToMasters)

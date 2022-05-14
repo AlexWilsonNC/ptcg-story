@@ -227,6 +227,11 @@ li {
     width: 100%;
     margin: 15px 0px;
 }
+.small-meta-chart {
+    width: 50%;
+    margin: 15px 0px;
+
+}
 .under-meta-chart {
     width: 200px;
     margin: 15px auto;
@@ -289,6 +294,8 @@ li {
 .seniors-meta,
 .juniors-meta {
     display: none;
+    align-items: center;
+    flex-direction: column;
 }
 
 #modal-section {
