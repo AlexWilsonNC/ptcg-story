@@ -457,10 +457,10 @@ let masters = [
 
 let seniors = [
   {
-    firstName: 'nameeeeeEeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Trent Orndorff',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/accelgor.png',
+    sprite2: '../../../assets/sprites/trevenant.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -470,9 +470,48 @@ let seniors = [
       },
     ]
   },
-]
-
-let juniors = [
+  {
+    firstName: 'Alex Croxton',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/kyurem-black.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Grant Manley',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/landorus-therian.png',
+    sprite2: '../../../assets/sprites/mewtwo.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Calvin Connor',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/yveltal.png',
+    sprite2: '../../../assets/sprites/garbodor.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
   {
     firstName: 'nameeeeeEeeeeee',
     flag: '../../../assets/flags',
@@ -487,6 +526,163 @@ let juniors = [
       },
     ]
   },
+  {
+    firstName: 'nameeeeeEeeeeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nameeeeeEeeeeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nameeeeeEeeeeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  }
+]
+
+let juniors = [
+  {
+    firstName: 'Haruto Kobayashi',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/kyurem.png',
+    sprite2: '../../../assets/sprites/deoxys.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Takashi Onugi',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/yveltal.png',
+    sprite2: '../../../assets/sprites/garbodor.png  ',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Hitoshi Omura',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/aromatisse.png',
+    sprite2: '../../../assets/sprites/deoxys.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Yui Kaizaki',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/yveltal.png',
+    sprite2: '../../../assets/sprites/garbodor.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nameeeeeEeeeeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nameeeeeEeeeeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nameeeeeEeeeeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nameeeeeEeeeeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2013-2014',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  }
 ]
 
 //masters
