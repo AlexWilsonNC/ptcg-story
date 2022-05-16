@@ -2849,12 +2849,104 @@ let juniors = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'water',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/kyurem.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/thundurus-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/deoxys-ex.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/latias-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/skyla-bw.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/scramble-switch.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress-machine.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/switch.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/team-plasma-ball.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/max-potion-bw.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/startling-megaphone.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/tropical-beach-2012.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/energy-plasma.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-rainbow.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/prism-energy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/blend-wlmf.png',
+        numImg: '../../../assets/01.png'
+      }
     ]
   },
   {
@@ -2900,10 +2992,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'nameeeeeEeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Rafael Lazari',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/blank.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -2914,10 +3006,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'nameeeeeEeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Brady Guy',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/blank.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -2928,10 +3020,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'nameeeeeEeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Mizuki Yanagida',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/blank.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -2942,10 +3034,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'nameeeeeEeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Yugo Sato',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/blank.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
