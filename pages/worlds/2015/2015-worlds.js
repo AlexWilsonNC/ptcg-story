@@ -328,7 +328,7 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mew-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/mew-ex-ltr.png',
         numImg: '../../../assets/03.png'
       },
       {
