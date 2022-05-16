@@ -1495,7 +1495,7 @@ let masters = [
     sprite1: '../../../assets/sprites/joltik.png',
     sprite2: '../../../assets/sprites/pumpkaboo.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/joltik.png',
@@ -1651,7 +1651,7 @@ let masters = [
     sprite1: '../../../assets/sprites/joltik.png',
     sprite2: '../../../assets/sprites/pumpkaboo.png',
     list: '../../../assets/sprites/blank.png',
-    type: '',
+    type: '', // galvantula
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016',

@@ -62,7 +62,7 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer.png',
+        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer-bw.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -168,7 +168,7 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer.png',
+        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer-bw.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -388,7 +388,7 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer.png',
+        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer-bw.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -791,12 +791,112 @@ let masters = [
     sprite1: '../../../assets/sprites/yveltal.png',
     sprite2: '../../../assets/sprites/dusknoir.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dusknoir.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dusclops.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/duskull.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/yveltal.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/sableye-junk-hunt.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/keldeo-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/jirachi-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dowsing-machine.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dark-patch.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/bicycle.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/startling-megaphone.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer-bw.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/level-ball-bw.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/super-rod-bw.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/rare-candy-bw.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-dark.png',
+        numImg: '../../../assets/09.png'
+      }
     ]
   },
   {
@@ -805,12 +905,104 @@ let masters = [
     sprite1: '../../../assets/sprites/yveltal.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/garbodor-drx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/trubbish-tool-drop.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/sableye-junk-hunt.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/absol-plasma.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/04.png'
+      },      
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dowsing-machine.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dark-patch.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/bicycle.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/random-receiver.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/switch.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professors-letter.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/pokemon-catcher-flip.png',
+        numImg: '../../../assets/01.png'
+      },      
+      {
+        cardImg: '../../../assets/cards/2014-2016/float-stone-bw.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-dark.png',
+        numImg: '../../../assets/08.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        numImg: '../../../assets/04.png'
+      }
     ]
   },
   {
@@ -819,12 +1011,108 @@ let masters = [
     sprite1: '../../../assets/sprites/yveltal.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/garbodor-drx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/trubbish-tool-drop.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/sableye-junk-hunt.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/absol-plasma.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/jirachi-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/04.png'
+      },      
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dowsing-machine.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dark-patch.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/bicycle.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/switch.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer-bw.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/random-receiver.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professors-letter.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/pokemon-catcher-flip.png',
+        numImg: '../../../assets/01.png'
+      },  
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/03.png'
+      },    
+      {
+        cardImg: '../../../assets/cards/2014-2016/float-stone-bw.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-dark.png',
+        numImg: '../../../assets/07.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        numImg: '../../../assets/04.png'
+      }
     ]
   },
   {
@@ -861,12 +1149,100 @@ let masters = [
     sprite1: '../../../assets/sprites/raichu.png',
     sprite2: '../../../assets/sprites/landorus-therian.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/raichu.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/pikachu-nuzzle.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/landorus-ex.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/mewtwo-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/palkia-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/jirachi-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/drifblim-derail.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/drifloon-creepy-wind.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/electrode.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/voltorb-burst.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/computer-search.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/switch.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/level-ball-bw.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-fighting.png',
+        numImg: '../../../assets/07.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/dce-2015.png',
+        numImg: '../../../assets/04.png'
+      }
     ]
   },
   {
@@ -874,7 +1250,7 @@ let masters = [
     flag: '../../../assets/flags/chile.png',
     sprite1: '../../../assets/sprites/yveltal.png',
     sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -902,13 +1278,113 @@ let masters = [
     flag: '../../../assets/flags/japan.png',
     sprite1: '../../../assets/sprites/yveltal.png',
     sprite2: '../../../assets/sprites/garbodor.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../assets/list-icon.png',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/garbodor-drx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/trubbish-pound.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/trubbish-pile-up.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/yveltal.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/absol-plasma.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/bouffalant.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/04.png'
+      },      
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/skyla-bw.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/scramble-switch.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dark-patch.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/escape-rope-bw.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/max-potion-bw.png',
+        numImg: '../../../assets/01.png'
+      }, 
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/03.png'
+      },    
+      {
+        cardImg: '../../../assets/cards/2014-2016/float-stone-bw.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hard-charm.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/tropical-beach-2012.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-dark.png',
+        numImg: '../../../assets/09.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        numImg: '../../../assets/03.png'
+      }
     ]
   },
   {
@@ -917,12 +1393,104 @@ let masters = [
     sprite1: '../../../assets/sprites/yveltal.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/garbodor-drx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/trubbish-poison-gas.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/yveltal.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/sableye-junk-hunt.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/keldeo-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/04.png'
+      },  
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/02.png'
+      },    
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/computer-search.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dark-patch.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/bicycle.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professors-letter.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer-bw.png',
+        numImg: '../../../assets/01.png'
+      },   
+      {
+        cardImg: '../../../assets/cards/2014-2016/tool-scrapper.png',
+        numImg: '../../../assets/01.png'
+      },  
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/03.png'
+      }, 
+      {
+        cardImg: '../../../assets/cards/2014-2016/float-stone-bw.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-dark.png',
+        numImg: '../../../assets/08.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        numImg: '../../../assets/03.png'
+      }
     ]
   },
   {
@@ -945,12 +1513,100 @@ let masters = [
     sprite1: '../../../assets/sprites/yveltal.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/garbodor-drx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/trubbish-poison-gas.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/sableye-junk-hunt.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/keldeo-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/jirachi-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/04.png'
+      },  
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/02.png'
+      },    
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dowsing-machine.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dark-patch.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/roller-skates.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/switch.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professors-letter.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/03.png'
+      }, 
+      {
+        cardImg: '../../../assets/cards/2014-2016/float-stone-bw.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-dark.png',
+        numImg: '../../../assets/07.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        numImg: '../../../assets/04.png'
+      }
     ]
   },
   {
@@ -959,12 +1615,96 @@ let masters = [
     sprite1: '../../../assets/sprites/virizion.png',
     sprite2: '../../../assets/sprites/genesect.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'grass',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/virizion-ex.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/genesect-ex-plasma.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/jirachi-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/mr-mime.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/skyla-bw.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/shadow-triad.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/g-booster.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/energy-switch-bw.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer-bw.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/tool-scrapper.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professors-letter.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/super-rod-bw.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress-machine.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/town-map-bw.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/skyarrow-bridge.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-grass.png',
+        numImg: '../../../assets/09.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/energy-plasma.png',
+        numImg: '../../../assets/04.png'
+      }
     ]
   },
   {
@@ -973,12 +1713,104 @@ let masters = [
     sprite1: '../../../assets/sprites/yveltal.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/garbodor-drx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/trubbish-poison-gas.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/sableye-junk-hunt.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/yveltal.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/absol-plasma.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/sawk.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/jirachi-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dowsing-machine.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dark-patch.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/bicycle.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professors-letter.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/float-stone-bw.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-dark.png',
+        numImg: '../../../assets/08.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        numImg: '../../../assets/04.png'
+      }
     ]
   },
   {
@@ -987,12 +1819,96 @@ let masters = [
     sprite1: '../../../assets/sprites/lugia.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'water',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/lugia-ex-plasma.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/thundurus-ex.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/deoxys-ex.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/kyurem.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/shauna.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/computer-search.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress-machine.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/team-plasma-ball.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/roller-skates.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/switch.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/escape-rope-bw.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/tool-scrapper.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/energy-plasma.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/prism-energy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/blend-wlmf.png',
+        numImg: '../../../assets/02.png'
+      }
     ]
   },
   {
@@ -1001,12 +1917,100 @@ let masters = [
     sprite1: '../../../assets/sprites/yveltal.png',
     sprite2: '../../../assets/sprites/darkrai.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/darkrai-ex.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/yveltal.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/sableye-junk-hunt.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/keldeo-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-bw.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dowsing-machine.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/dark-patch.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/bicycle.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/crushing-hammer.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/pokemon-catcher-flip.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer-bw.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professors-letter.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/max-potion-bw.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/super-rod-bw.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-dark.png',
+        numImg: '../../../assets/09.png'
+      }
     ]
   },
   {
