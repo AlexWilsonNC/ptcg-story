@@ -8,6 +8,7 @@
     width: 286px;
     height: 125px;
     border: 2px solid black;
+    border-radius: 5px;
 }
 .nats-box p {
     font-size: 26px;
