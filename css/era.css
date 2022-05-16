@@ -129,10 +129,10 @@
 }
 @media screen and (max-width: 550px) {
     .deck-box {
-        width: 92%;
+        width: 85%;
     }
     .decks-main p {
-        width: 86.5%;
+        width: 80.5%;
         font-size: 12px;
     }
     .pok-card-small {
