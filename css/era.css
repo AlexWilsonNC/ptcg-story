@@ -14,13 +14,21 @@
     color: #fff;
 }
 
+.format {
+    font-size: 26px;
+    margin: 10px 0px 25px;
+    background-color: rgb(49, 49, 49);
+    color:white;
+    border-radius: 15px;
+    padding: 5px 35px;
+}
 #ToC2 {
     display: flex;
     justify-content: center;
     margin: 25px 0px 20px 0px;
 }
 #event-toc {
-    width: 200px;
+    width: 350px;
     border-radius: 10px;
     border: 1px solid grey;
     padding: 10px;
@@ -66,7 +74,7 @@
 }
 .deck-box {
     width: 52%;
-    border: 2px solid #000;
+    border: 3px solid #000;
     border-radius: 15px;
     display: flex;
     flex-direction: row;
