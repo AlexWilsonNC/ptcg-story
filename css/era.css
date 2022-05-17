@@ -105,7 +105,7 @@
     margin-right: -50%;
     transform: translate(-50%, -50%);   
     z-index: 2000000;
-    transform: scale(380%);
+    transform: scale(400%);
     /* transition: ease-in-out all 0.2s; */
 }
 .behind-large-card {
@@ -180,5 +180,6 @@
     .large-card {
         left: 44%;
         margin-right: -50%;
+        transform: scale(600%);
     }
 }
