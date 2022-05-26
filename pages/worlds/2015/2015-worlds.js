@@ -492,7 +492,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Martin Janous',
+    firstName: 'Martin Janouš',
     flag: '../../../assets/flags/czech-republic.png',
     sprite1: '../../../assets/sprites/joltik.png',
     sprite2: '../../../assets/sprites/pumpkaboo.png',

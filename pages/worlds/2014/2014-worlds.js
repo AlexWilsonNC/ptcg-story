@@ -656,7 +656,7 @@ let masters = [
   {
     firstName: 'Daniel Altavilla',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/kyurem-black.png',
+    sprite1: '../../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../../assets/sprites/blastoise.png',
     list: '../../../assets/list-icon.png',
     type: 'water',
@@ -2473,7 +2473,7 @@ let seniors = [
   {
     firstName: 'Alex Croxton',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/kyurem-black.png',
+    sprite1: '../../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../../assets/sprites/blastoise.png',
     list: '../../../assets/list-icon.png',
     type: 'water',
