@@ -586,8 +586,8 @@ let juniors = [
     ]
   },
   {
-    firstName: 'nammmeeeee',
-    flag: '../../../assets/flags',
+    firstName: 'Yugo Sato',
+    flag: '../../../assets/flags/japan.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
@@ -600,8 +600,8 @@ let juniors = [
     ]
   },
   {
-    firstName: 'nammmeeeee',
-    flag: '../../../assets/flags',
+    firstName: 'Abaan Ahmed',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
@@ -614,8 +614,8 @@ let juniors = [
     ]
   },
   {
-    firstName: 'nammmeeeee',
-    flag: '../../../assets/flags',
+    firstName: 'Samuel Battis',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
@@ -628,8 +628,8 @@ let juniors = [
     ]
   },
   {
-    firstName: 'nammmeeeee',
-    flag: '../../../assets/flags',
+    firstName: 'Alex Reger',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
@@ -642,8 +642,8 @@ let juniors = [
     ]
   },
   {
-    firstName: 'nammmeeeee',
-    flag: '../../../assets/flags',
+    firstName: 'Carson St. Denis',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
@@ -656,8 +656,8 @@ let juniors = [
     ]
   },
   {
-    firstName: 'nammmeeeee',
-    flag: '../../../assets/flags',
+    firstName: 'Quentin Deppe',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
@@ -670,8 +670,8 @@ let juniors = [
     ]
   },
   {
-    firstName: 'nammmeeeee',
-    flag: '../../../assets/flags',
+    firstName: 'Samuel Mowery',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
