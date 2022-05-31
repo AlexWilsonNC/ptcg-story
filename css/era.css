@@ -91,6 +91,9 @@
     align-items: flex-end;
     margin: 2.5px;
 }
+.pokemon-card:hover {
+    cursor: pointer;
+}
 .pok-card-small {
     position: relative;
     top: 0;
@@ -108,7 +111,7 @@
 
 .large-card {
     position: fixed;
-    top: 40%;
+    top: 39%;
     left: 47%;
     margin-right: -50%;
     transform: translate(-50%, -50%);   

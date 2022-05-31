@@ -1,5 +1,5 @@
 const cardTouch = document.querySelectorAll('.pokemon-card');
-const cardImage = document.querySelectorAll('.pok-card-small');
+// const cardImage = document.querySelectorAll('.pok-card-small');
 const darkBackground = document.querySelector('.behind-large-card');
 
 cardTouch.forEach(card => {

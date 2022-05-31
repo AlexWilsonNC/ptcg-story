@@ -3651,9 +3651,9 @@ function displayList3(array = []) {
           pokeCard.classList.add('pok-card-small')
           pokeCard.setAttribute('src', deck.cardImg);
 
-          pokeCard.onclick = function() {
-            document.querySelector('.pok-card-small').style.width = '500px';
-          }
+          // pokeCard.onclick = function() {
+          //   document.querySelector('.pok-card-small').style.width = '500px';
+          // }
 
           let numberCounter = document.createElement('img');
           numberCounter.classList.add('num-1')
