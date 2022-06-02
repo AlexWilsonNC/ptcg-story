@@ -2136,7 +2136,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/terrakion.png',
     sprite2: '../../../assets/sprites/garbodor.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/terrakion-ex.png',
