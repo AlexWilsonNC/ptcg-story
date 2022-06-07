@@ -971,7 +971,7 @@ let masters = [
     sprite1: '../../../assets/sprites/dialga.png',
     sprite2: '../../../assets/sprites/garchomp.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../assets/cards/2008-2010/dialga-lvx.png',
@@ -1392,6 +1392,484 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
+        cardImg: '../../../assets/cards/2008-2010/snover.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/ampharos.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/flaafy.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/mareep.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/spiritomb.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/chatot.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/unown-quick.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-collector.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cynthias-feelings.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/underground-expedition.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/copycat.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/judge-hgss.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/rare-candy-hgss.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/pokemon-communication-hgss.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/warp-point.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-water.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-lightning.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/call-energy.png',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Colin Stromberg',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/luxray.png',
+    sprite2: '../../../assets/sprites/garchomp.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Takuya Yoneda',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/dialga.png',
+    sprite2: '../../../assets/sprites/garchomp.png',
+    list: '../../../assets/list-icon.png',
+    type: 'metal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2008-2010/dialga-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/dialga-g.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/garchomp-lvx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/garchomp-c.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/sableye-overgear.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/ambipom.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bronzong.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/dragonite.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/froslass.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/honchkrow-sp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/roserade.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/unown-quick.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-collector.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/judge-hgss.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cyrus-initiative.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/aarons-collection.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/power-spray.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-psychic.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-metal.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-dark.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Erik Nance',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/steelix.png',
+    sprite2: '../../../assets/sprites/blissey.png',
+    list: '../../../assets/list-icon.png',
+    type: 'metal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2008-2010/steelix-prime.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/onix.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/blissey.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/chansey.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/pachirisu.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/pont.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/engineers-adjustments.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/volkner.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/judge-hgss.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/life-herb.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/moomoo-milk.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/pokemon-communication-hgss.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/pluspower.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/expert-belt.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-metal.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/metal-energy-special-dp.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/call-energy.png',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Aziz Al-Yami',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/sableye.png',
+    sprite2: '../../../assets/sprites/blaziken.png',
+    list: '../../../assets/list-icon.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2008-2010/sableye-overgear.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/garchomp-lvx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/garchomp-c.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/blaziken-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/blaziken.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/02.png'
+      },
+        {
+          cardImg: '../../../assets/cards/2008-2010/azelf.png',
+          numImg: '../../../assets/01.png'
+        },
+      {
+        cardImg: '../../../assets/cards/2008-2010/ambipom.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/unown-quick.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-collector.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cyrus-initiative.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/judge-hgss.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/aarons-collection.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/looker.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/power-spray.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/vs-seeker.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-fire.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/darkness-energy-hgss.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-psychic.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/dp-darkness-energy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Toni Taitto',
+    flag: '../../../assets/flags/finland.png',
+    sprite1: '../../../assets/sprites/donphan.png',
+    sprite2: '../../../assets/sprites/manectric.png',
+    list: '../../../assets/list-icon.png',
+    type: 'fighting',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
         cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
@@ -1483,76 +1961,6 @@ let masters = [
         cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       }
-    ]
-  },
-  {
-    firstName: 'Colin Stromberg',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/luxray.png',
-    sprite2: '../../../assets/sprites/garchomp.png',
-    list: '../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Takuya Yoneda',
-    flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/dialga.png',
-    sprite2: '../../../assets/sprites/garchomp.png',
-    list: '../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Erik Nance',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/steelix.png',
-    sprite2: '../../../assets/sprites/blissey.png',
-    list: '../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Aziz Al-Yami',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/sableye.png',
-    sprite2: '../../../assets/sprites/blaziken.png',
-    list: '../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Toni Taitto',
-    flag: '../../../assets/flags/finland.png',
-    sprite1: '../../../assets/sprites/donphan.png',
-    sprite2: '../../../assets/sprites/manectric.png',
-    list: '../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2008-2010',
-        numImg: '../../../assets/04.png'
-      },
     ]
   },
   {
