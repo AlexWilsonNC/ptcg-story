@@ -11,12 +11,128 @@ let masters = [
     sprite1: '../../../assets/sprites/luxray.png',
     sprite2: '../../../assets/sprites/garchomp.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010/luxray-lvx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxray.jpg',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/garchomp-lvx.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/garchomp-c.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/dialga-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/dialga-g.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/dragonite.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bronzong.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/lucario.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2008-2010/pont.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-collector.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/aarons-collection.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/power-spray.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/pokemon-communication-hgss.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-lightning.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-metal.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/warp-energy.png',
+        numImg: '../../../assets/03.png'
+      }
     ]
   },
   {
@@ -25,12 +141,136 @@ let masters = [
     sprite1: '../../../assets/sprites/gardevoir.png',
     sprite2: '../../../assets/sprites/gallade.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010/gardevoir-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/gardevoir-psychic-lock.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/gallade.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/kirlia.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/ralts-future-sight.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2008-2010/machamp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/machop-kick.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/dusknoir.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/dusclops.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/duskull.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/claydol.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/baltoy-psychic.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/spiritomb.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/looker.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/judge-hgss.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010',
+        numImg: '../../../assets/04.png'
+      }
     ]
   },
   {
@@ -42,7 +282,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -56,7 +296,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -70,7 +310,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -84,7 +324,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -98,7 +338,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -112,7 +352,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -126,7 +366,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -140,7 +380,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -154,7 +394,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -168,7 +408,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -182,7 +422,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -196,7 +436,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -210,7 +450,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -224,7 +464,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -238,7 +478,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -252,7 +492,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -266,7 +506,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -280,7 +520,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -294,7 +534,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -308,7 +548,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -322,7 +562,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -336,7 +576,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -350,7 +590,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -364,7 +604,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -378,7 +618,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -392,7 +632,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -406,7 +646,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -420,7 +660,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -434,7 +674,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -448,7 +688,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -465,7 +705,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -479,7 +719,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -493,7 +733,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -507,7 +747,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -521,7 +761,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -535,7 +775,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -549,7 +789,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -563,7 +803,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -577,7 +817,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -591,7 +831,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -605,7 +845,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -619,7 +859,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -633,7 +873,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -647,7 +887,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -661,7 +901,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -675,7 +915,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -692,7 +932,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -706,7 +946,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -720,7 +960,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -734,7 +974,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -748,7 +988,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -762,7 +1002,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -776,7 +1016,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -790,7 +1030,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -804,7 +1044,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -818,7 +1058,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -832,7 +1072,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -846,7 +1086,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -860,7 +1100,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -874,7 +1114,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -888,7 +1128,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -902,7 +1142,7 @@ let juniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../assets/cards/2010-2012',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
