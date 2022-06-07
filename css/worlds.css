@@ -256,7 +256,8 @@ li {
     align-items: center;
     margin-top: 25px;
 }
-.videos-section a {
+.videos-section a,
+.videos-section div {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -270,7 +271,7 @@ li {
     border: 3.5px solid black;
     border-radius: 2px;
 }
-.videos-section img:hover {
+.videos-section a img:hover {
     cursor: pointer;
     box-shadow: 5px 5px 5px rgb(29, 29, 29);
  }
