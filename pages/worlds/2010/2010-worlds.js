@@ -1854,11 +1854,11 @@ let masters = [
     type: 'fighting',
     deck: [
       {
-        cardImg: '../../../assets/cards/2008-2010',
+        cardImg: '../../../assets/cards/2008-2010/donphan-prime.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2008-2010',
+        cardImg: '../../../assets/cards/2008-2010/phanpy.png',
         numImg: '../../../assets/04.png'
       },
       {
