@@ -100,7 +100,7 @@
     left: 0;
     width: 65px;
 }
-.num-1 {
+.num-2 {
     position: absolute;
     width: 22px;
     margin-bottom: 7px;
@@ -139,7 +139,7 @@
     .pok-card-small {
         width: 105px;
     }
-    .num-1 {
+    .num-2 {
         width: 35px;
     }
 }
@@ -170,7 +170,7 @@
     .pok-card-small {
         width: 55px;
     }
-    .num-1 {
+    .num-2 {
         width: 17px;
     }
 }
@@ -185,7 +185,7 @@
     .pok-card-small {
         width: 53px;
     }
-    .num-1 {
+    .num-2 {
         width: 15px;
     }
     .large-card {

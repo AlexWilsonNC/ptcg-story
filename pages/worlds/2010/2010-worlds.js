@@ -2733,12 +2733,12 @@ let seniors = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2008-2010/haunter-hypnosis.png',
-        numImg: '../../../assets/02.png'
+        cardImg: '../../../assets/cards/2008-2010/haunter-smog.png',
+        numImg: '../../../assets/03.png'
       },
       {
         cardImg: '../../../assets/cards/2008-2010/gastly.png',
-        numImg: '../../../assets/03.png'
+        numImg: '../../../assets/04.png'
       },
       {
         cardImg: '../../../assets/cards/2008-2010/spiritomb.png',
@@ -2753,15 +2753,11 @@ let seniors = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2008-2010/nidoqueen.png',
+        cardImg: '../../../assets/cards/2008-2010/manectric.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2008-2010/nidorina.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/nidoran-f.png',
+        cardImg: '../../../assets/cards/2008-2010/electrike.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -2781,24 +2777,24 @@ let seniors = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2008-2010/judge-hgss.png',
-        numImg: '../../../assets/03.png'
+        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
+        numImg: '../../../assets/01.png'
       },
       {
         cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
-        numImg: '../../../assets/03.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/poke-collector.png',
-        numImg: '../../../assets/02.png'
+        numImg: '../../../assets/04.png'
       },
       {
         cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/judge-hgss.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2008-2010/felicitys-drawing.png',
-        numImg: '../../../assets/02.png'
+        cardImg: '../../../assets/cards/2008-2010/palmers-contribution.png',
+        numImg: '../../../assets/01.png'
       },
       {
         cardImg: '../../../assets/cards/2008-2010/rare-candy-hgss.png',
@@ -2806,10 +2802,6 @@ let seniors = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/warp-point.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/pokemon-communication-hgss.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -2822,7 +2814,7 @@ let seniors = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/expert-belt.png',
-        numImg: '../../../assets/02.png'
+        numImg: '../../../assets/03.png'
       },
       {
         cardImg: '../../../assets/cards/2008-2010/moonlight-stadium.png',
@@ -2830,7 +2822,11 @@ let seniors = [
       },
       {
         cardImg: '../../../assets/cards/energy/hgss-energy-psychic.png',
-        numImg: '../../../assets/05.png'
+        numImg: '../../../assets/06.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/hgss-energy-lightning.png',
+        numImg: '../../../assets/01.png'
       },
       {
         cardImg: '../../../assets/cards/energy/call-energy.png',
@@ -2838,7 +2834,7 @@ let seniors = [
       },
       {
         cardImg: '../../../assets/cards/energy/warp_energy.jpg',
-        numImg: '../../../assets/02.png'
+        numImg: '../../../assets/01.png'
       },
     ]
   },
