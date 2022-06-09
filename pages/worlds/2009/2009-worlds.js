@@ -11,12 +11,116 @@ let masters = [
     sprite1: '../../../assets/sprites/beedrill.png',
     sprite2: '../../../assets/sprites/luxray.png',
     list: '../../../assets/list-icon.png',
-    type: 'dark',
+    type: 'grass',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010/beedrill-power.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/beedrill-band-atk.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/kakuna.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2008-2010/weedle.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxray-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxray.jpg',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/claydol.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/baltoy-fighting.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/chatot.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cynthias-feelings.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/rare-candy-2008.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/warp-point.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/broken-time-space.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/grass-energy-capsule.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/lightning-energy-capsule.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/multi-energy-dp.png',
+        numImg: '../../../assets/02.png'
+      }
     ]
   },
   {
@@ -25,12 +129,128 @@ let masters = [
     sprite1: '../../../assets/sprites/flygon.png',
     sprite2: '../../../assets/sprites/machamp.png',
     list: '../../../assets/list-icon.png',
-    type: 'dark',
+    type: 'fightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010/flygon-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/flygon.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/vibrava.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/trapinch.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/trapinch-power.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/machamp-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/machamp.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/machoke.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/machop-kick.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/nidoqueen.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/nidoran-f.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/claydol.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/baltoy-fighting.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/chatot.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/ditto-dna.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cynthias-feelings.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/lucians-assignment.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/rare-candy-2008.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/premier-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/fighting-energy-capsule.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/psychic-energy-capsule.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/call-energy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/upper-energy.png',
+        numImg: '../../../assets/03.png'
+      }
     ]
   },
   {
@@ -39,12 +259,124 @@ let masters = [
     sprite1: '../../../assets/sprites/flygon.png',
     sprite2: '../../../assets/sprites/machamp.png',
     list: '../../../assets/list-icon.png',
-    type: 'dark',
+    type: 'fightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010/flygon-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/flygon.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/flygon-fighting.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/vibrava.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/trapinch.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2008-2010/machamp.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/machoke.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/machop-kick.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/nidoqueen.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/nidoran-f.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/claydol.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/baltoy-fighting.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/chatot.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cynthias-feelings.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/rare-candy-2008.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/warp-point.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/premier-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/memory-berry-2009.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/fighting-energy-capsule.png',
+        numImg: '../../../assets/05.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/psychic-energy-capsule.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/call-energy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/upper-energy.png',
+        numImg: '../../../assets/03.png'
+      }
     ]
   },
   {
@@ -56,9 +388,117 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010/honchkrow-sp.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/toxicroak-sp-psychic.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/skuntank-sp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/houndoom-sp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/lucario.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/sableye-overgear.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/mewtwo-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/mewtwo.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/felicitys-drawing.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/aarons-collection.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/power-spray.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/galactic-hq.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/moonlight-stadium.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/psychic-energy-capsule.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/dark-energy-capsule.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/dp-darkness-energy.png',
+        numImg: '../../../assets/04.png'
+      }
     ]
   },
   {
@@ -70,7 +510,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -84,7 +524,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -98,7 +538,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -112,7 +552,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -126,7 +566,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -140,7 +580,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -154,7 +594,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -168,7 +608,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -182,7 +622,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -196,7 +636,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -210,7 +650,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -224,7 +664,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -238,7 +678,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -252,7 +692,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -266,7 +706,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -280,7 +720,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -294,7 +734,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -308,7 +748,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -322,7 +762,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -336,7 +776,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -350,7 +790,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -364,7 +804,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -378,7 +818,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -392,7 +832,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -406,7 +846,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -420,7 +860,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -434,7 +874,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -448,7 +888,7 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -465,7 +905,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -479,7 +919,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -493,7 +933,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -507,7 +947,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -521,7 +961,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -535,7 +975,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -549,7 +989,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -563,7 +1003,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -577,7 +1017,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -591,7 +1031,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -605,7 +1045,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -619,7 +1059,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -633,7 +1073,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -647,7 +1087,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -661,7 +1101,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -675,7 +1115,7 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -692,7 +1132,7 @@ let juniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -706,7 +1146,7 @@ let juniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -720,7 +1160,7 @@ let juniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -734,7 +1174,7 @@ let juniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -748,7 +1188,7 @@ let juniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -762,7 +1202,7 @@ let juniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -776,7 +1216,7 @@ let juniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -790,7 +1230,7 @@ let juniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/energy',
+        cardImg: '../../../assets/cards/2008-2010',
         numImg: '../../../assets/04.png'
       },
     ]

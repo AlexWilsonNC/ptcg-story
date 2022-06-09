@@ -2643,15 +2643,15 @@ let seniors = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2008-2010/mesprit-pbind.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2008-2010/azelf.png',
+        cardImg: '../../../assets/cards/2008-2010/mesprit-body.png',
         numImg: '../../../assets/01.png'
       },
       {
         cardImg: '../../../assets/cards/2008-2010/azelf-downer-aterial.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf.png',
         numImg: '../../../assets/01.png'
       },
       {
