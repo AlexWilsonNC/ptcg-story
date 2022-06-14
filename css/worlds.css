@@ -430,6 +430,40 @@ li {
     margin: 0px auto;
 }
 
+.sets {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.two-sets {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.left-set {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+}
+.right-set {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+}
+.set-icon {
+    width: 30px;
+}
+.set-logo {
+    width: 200px;
+    margin-left: 10px;
+}
+.shrink-icon {
+    width:150px;
+}
+
 @media screen and (min-width: 1650px) {
     .modal {
      width: 60%;
@@ -468,6 +502,12 @@ li {
     .num-1 {
         width: 25px;
     }
+}
+@media screen and (max-width: 950px) {
+    .two-sets {
+        display: flex;
+        flex-direction: column;
+   }
 }
 @media screen and (max-width: 900px) {
     .event-content {
@@ -608,6 +648,10 @@ li {
     .gallery {
         width: 100%;
     }
+    .two-sets {
+        display: flex;
+        flex-direction: row;
+    }
 }
 @media screen and (max-width: 620px) {
     .modal {
@@ -619,6 +663,14 @@ li {
     .num-1 {
         width: 17px;
         /* padding: 1px; */
+    }
+}
+@media screen and (max-width: 570px) {  
+    .set-icon {
+        width: 20px;
+    }
+    .set-logo {
+        width: 125px;
     }
 }
 @media screen and (max-width: 530px) {
