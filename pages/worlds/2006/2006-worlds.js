@@ -6,10 +6,892 @@ const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
   {
-    firstName: 'nameeeeeeeeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Jason Klaczynski',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/mew.png',
+    sprite2: '../../../assets/sprites/manectric.png',
+    list: '../../../assets/list-icon.png',
+    type: 'lightning',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006/mew-ex.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/manectric-ex.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/electrike.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/deoxys-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/regirock-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/roselia.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/girafarig.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-magneton.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rockets-admin.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/elms-training-method.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/tv-reporter.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/scott.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/marys-request.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dual-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pow-hand-extension.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/switch.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/battle-fronteir.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/cursed-stone.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/lightning-energy-holon-phantoms.png',
+        numImg: '../../../assets/11.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/2007-multi-energy.png',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Jimmy Ballard',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/eevee-no-heart.png',
+    sprite2: '../../../assets/sprites/pidgeot.png',
+    list: '../../../assets/list-icon.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006/flareon-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/umbreon-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/espeon-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/vaporeon-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/jolteon-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/eevee-2007.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgeot.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgeotto.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgey.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-electrode.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rockets-admin.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/elms-training-method.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/celios-network.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/bills-maintenance.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/copycat.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/surprise-time-machine.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rare-candy-2006.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pokemon-retriever.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/strength-charm.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/giant-stump.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/full-flame.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/water-energy-holon-phantoms.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/fire-energy-holon-phantoms.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/holon-energy-wp.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/holon-energy-ff.png',
+        numImg: '../../../assets/02.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Jeremy Maron',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/nidoqueen.png',
+    sprite2: '../../../assets/sprites/houndoom.png',
+    list: '../../../assets/list-icon.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006/nidoqueen-fighting.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/nidorina-grass.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/nidoran-f-grass.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgeot.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgeot-delta.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgeotto.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgey.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/houndoom.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/houndour.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-electrode.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/celios-network.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/copycat.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rockets-admin.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-mentor.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-scientist.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/scott.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rare-candy-2006.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-transeiver.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/spcae-center.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/grass-energy-holon-phantoms.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/double-rainbow-energy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/holon-energy-gl.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/heal-energy.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/warp-energy.png',
+        numImg: '../../../assets/01.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Yuta Komatsuda',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/metagross.png',
+    sprite2: '../../../assets/sprites/dragonite.png',
+    list: '../../../assets/list-icon.png',
+    type: 'metal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006/dragonite-delta.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dragonair.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dratini.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/metagross-delta.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/metagross-psychic.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/metang.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/beldum.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/jirachi.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/celios-network.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/copycat.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rockets-admin.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rare-candy-2006.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pokemon-reversal.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pokemon-retriever.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/warp-point.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/switch.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-ruins.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/lightning-energy-holon-phantoms.png',
+        numImg: '../../../assets/10.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/psychic-energy-holon-phantoms.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/special-metal-energy-2006.png',
+        numImg: '../../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Alex Brosseau',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/dragonite.png',
+    sprite2: '../../../assets/sprites/electrode.png',
+    list: '../../../assets/list-icon.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006/sneasel-ex.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dark-dragonite.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dark-dragonair.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dratini-dragon-song.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dark-electrode.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/voltorb.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/scyther-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/solrock.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/lunatone.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-mentor.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rockets-admin.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/scott.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-adventurer.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-scientist.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-transeiver.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rockets-poke-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/desert-ruins.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rockets-hideout.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/2007-darkness-energy-special.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/r-energy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/dark-metal-energy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/rainbow-energy-2006.png',
+        numImg: '../../../assets/03.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Eric Craig',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/mew.png',
+    sprite2: '../../../assets/sprites/manectric.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Takuya Yoneda',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/metagross.png',
+    sprite2: '../../../assets/sprites/dragonite.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tom Dolezal',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/ludicolo.png',
+    sprite2: '../../../assets/sprites/magcargo.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Jaime Guerrero',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/tyranitar.png',
+    sprite2: '../../../assets/sprites/ampharos.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Stephen Silvestro',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/flareon.png',
+    sprite2: '../../../assets/sprites/ariados.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tomohisa Kanda',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/tyranitar.png',
+    sprite2: '../../../assets/sprites/electrode.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Erik Nance',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/metagross.png',
+    sprite2: '../../../assets/sprites/dragonite.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Yohei Takeda',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Yacine Sekkoum',
+    flag: '../../../assets/flags/uk.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/arcanine.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Aurelien Delambre',
+    flag: '../../../assets/flags/france.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/arcanine.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Ian Ryave',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Sebastian Crema',
+    flag: '../../../assets/flags/canada.png',
+    sprite1: '../../../assets/sprites/tyranitar.png',
+    sprite2: '../../../assets/sprites/electrode.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Chris Fulop',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Kyle Sabelhaus',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Gordon Coates',
+    flag: '../../../assets/flags/canada.png',
+    sprite1: '../../../assets/sprites/dragonite.png',
+    sprite2: '../../../assets/sprites/electrode.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Michael Pramawat',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/banette.png',
+    sprite2: '../../../assets/sprites/medicham.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Kevin Nance',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/metagross.png',
+    sprite2: '../../../assets/sprites/dragonite.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Bin Xiu',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Mike Fouchet',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/tyranitar.png',
+    sprite2: '../../../assets/sprites/electrode.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Gino Lombardi',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/machamp.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Evens Cheung',
+    flag: '../../../assets/flags/norway.png',
+    sprite1: '../../../assets/sprites/metagross.png',
+    sprite2: '../../../assets/sprites/dragonite.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Yuichiro Kataoka',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/tyranitar.png',
+    sprite2: '../../../assets/sprites/electrode.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Drew Gruitzky',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Ivan Zaldivar',
+    flag: '../../../assets/flags/mexico.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Alex Wooton',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/nidoqueen.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'John Kettler',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/ludicolo.png',
+    sprite2: '../../../assets/sprites/magcargo.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Ken Yukuhiro',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/eevee-no-heart.png',
+    sprite2: '../../../assets/sprites/pidgeot.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -23,10 +905,10 @@ let masters = [
 
 let seniors = [
   {
-    firstName: 'nameeeeeeeeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Miska Saari',
+    flag: '../../../assets/flags/finland.png',
+    sprite1: '../../../assets/sprites/lunatone.png',
+    sprite2: '../../../assets/sprites/solrock.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -36,14 +918,224 @@ let seniors = [
       },
     ]
   },
+  {
+    firstName: 'David Booij',
+    flag: '../../../assets/flags/netherlands.png',
+    sprite1: '../../../assets/sprites/flareon.png',
+    sprite2: '../../../assets/sprites/ariados.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tad Wheeler',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Austin Reed',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/ludicolo.png',
+    sprite2: '../../../assets/sprites/magcargo.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Matthew Lambou',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Kit Wai Lim',
+    flag: '../../../assets/flags/liberia-malaysia.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/nidoqueen.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Wesley Bartlett',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/banette.png',
+    sprite2: '../../../assets/sprites/medicham.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Elissa Hill',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Joe Getsy',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/banette.png',
+    sprite2: '../../../assets/sprites/medicham.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Bobby Malec',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Jeff Sharp',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/tyranitar.png',
+    sprite2: '../../../assets/sprites/ampharos.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Keaton Gill',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/raichu.png',
+    sprite2: '../../../assets/sprites/exeggutor.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Antoine Nicolle',
+    flag: '../../../assets/flags/france.png',
+    sprite1: '../../../assets/sprites/mew.png',
+    sprite2: '../../../assets/sprites/manectric.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Will Berry',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/nidoqueen.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Matt Sbaa',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/raichu.png',
+    sprite2: '../../../assets/sprites/exeggutor.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Jesus Fernandez',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/mew.png',
+    sprite2: '../../../assets/sprites/manectric.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  }
 ]
 
 let juniors = [
   {
-    firstName: 'nameeeeeeeeeeeee',
-    flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    firstName: 'Hiroki Yano',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -53,6 +1145,216 @@ let juniors = [
       },
     ]
   },
+  {
+    firstName: 'Spencer Duncan',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Arnoud Van Bemmelen',
+    flag: '../../../assets/flags/netherlands.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Fares Sekkoum',
+    flag: '../../../assets/flags/uk.png',
+    sprite1: '../../../assets/sprites/flareon.png',
+    sprite2: '../../../assets/sprites/ariados.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Henry Leaming',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'James Ballard',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Matthew Kimmerer',
+    flag: '../../../assets/flags/canada.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Troy Officer',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/raichu.png',
+    sprite2: '../../../assets/sprites/exeggutor.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Kazuho Mizuta',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tad Miller',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Shakil Bhuiyan',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Spencer Brown',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/exeggutor.png',
+    sprite2: '../../../assets/sprites/electrode.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Joona Kuusrainen',
+    flag: '../../../assets/flags/finland.png',
+    sprite1: '../../../assets/sprites/arcanine.png',
+    sprite2: '../../../assets/sprites/eevee-no-heart.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Sanne Van der Vis',
+    flag: '../../../assets/flags/netherlands.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/flygon.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Phillip Yarbrough',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Jon Siu',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  }
 ]
 
     //masters
