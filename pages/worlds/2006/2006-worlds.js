@@ -1039,7 +1039,7 @@ let masters = [
     sprite1: '../../../assets/sprites/tyranitar.png',
     sprite2: '../../../assets/sprites/electrode.png',
     list: '../../../assets/list-icon.png',
-    type: 'fighting',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/dark-tyranitar.png',
