@@ -219,7 +219,7 @@ let masters = [
     sprite1: '../../../assets/sprites/nidoqueen.png',
     sprite2: '../../../assets/sprites/houndoom.png',
     list: '../../../assets/list-icon.png',
-    type: 'dark',
+    type: 'grass',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/nidoqueen-fighting.png',
