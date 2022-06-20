@@ -62,7 +62,7 @@ let masters = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion.png',
+        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -274,7 +274,7 @@ let masters = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion.png',
+        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -360,7 +360,7 @@ let masters = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion.png',
+        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -504,7 +504,7 @@ let masters = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion.png',
+        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -1445,7 +1445,7 @@ let seniors = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion.png',
+        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -2325,7 +2325,7 @@ let juniors = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion.png',
+        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
         numImg: '../../../assets/02.png'
       },
       {
