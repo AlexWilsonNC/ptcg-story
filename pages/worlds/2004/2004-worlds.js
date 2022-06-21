@@ -1410,6 +1410,10 @@ let masters = [
         cardImg: '../../../assets/cards/e-reader/rainbow-energy.jpg',
         numImg: '../../../assets/01.png'
       },
+      {
+        cardImg: '../../../assets/cards/energy/question-mark.png',
+        numImg: '../../../assets/01.png'
+      },
     ]
   },
   {
@@ -1418,10 +1422,75 @@ let masters = [
     sprite1: '../../../assets/sprites/medicham.png',
     sprite2: '../../../assets/sprites/lanturn.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
+        cardImg: '../../../assets/cards/2004-2006/medicham.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/meditite-e-reader.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/lanturn.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/chinchou-pounf.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/chinchou-random.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dunsparce.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/tv-reporter-e-reader.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/copycat-e-reader.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/oracle.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/pokemon reversal.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/strength-charm.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/desert-ruins.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/lightning-energy.jpg',
+        numImg: '../../../assets/07.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/fighting-energy.jpg',
+        numImg: '../../../assets/06.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/double-rainbow-old.png',
         numImg: '../../../assets/04.png'
       },
     ]
