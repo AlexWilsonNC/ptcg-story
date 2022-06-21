@@ -82,7 +82,7 @@
     flex-wrap: wrap;
     padding: 15px 6px;
 }
-.pokemon-card {
+.pokemon-card2 {
     position: relative;
     top: 0;
     left: 0;
@@ -91,10 +91,10 @@
     align-items: flex-end;
     margin: 2.5px;
 }
-.pokemon-card:hover {
+.pokemon-card2:hover {
     cursor: pointer;
 }
-.pok-card-small {
+.pok-card-small2 {
     position: relative;
     top: 0;
     left: 0;
@@ -136,7 +136,7 @@
     .decks-main p {
         width: 67.5%;
     }
-    .pok-card-small {
+    .pok-card-small2 {
         width: 105px;
     }
     .num-2 {
@@ -167,7 +167,7 @@
         width: 79.5%;
         font-size: 14px;
     }
-    .pok-card-small {
+    .pok-card-small2 {
         width: 55px;
     }
     .num-2 {
@@ -182,7 +182,7 @@
         width: 80.5%;
         font-size: 12px;
     }
-    .pok-card-small {
+    .pok-card-small2 {
         width: 53px;
     }
     .num-2 {
