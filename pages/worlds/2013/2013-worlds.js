@@ -2378,7 +2378,7 @@ let seniors = [
   },
   {
     firstName: 'Alexander Weber',
-    flag: '../../../assets/flags',
+    flag: '../../../assets/flags/austria.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',

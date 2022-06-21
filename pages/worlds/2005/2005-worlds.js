@@ -1860,6 +1860,7 @@ let seniors = [
     },
     {
       firstName: 'Joe Getsy',
+      flag: '../../../assets/flags/usa.png',
       sprite1: '../../../assets/sprites/blank.png',
       sprite2: '../../../assets/hyphen.png',
       list: '../../../assets/sprites/blank.png',
