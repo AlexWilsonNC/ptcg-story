@@ -2788,7 +2788,7 @@ let seniors = [
     firstName: 'Cote Strike',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -2802,7 +2802,7 @@ let seniors = [
     firstName: 'Ishaan Jagiasi',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -2816,7 +2816,7 @@ let seniors = [
     firstName: 'Jeffrey Cheng',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -2830,7 +2830,7 @@ let seniors = [
     firstName: 'Xander Pero',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -3287,7 +3287,7 @@ let juniors = [
     firstName: 'Rafael Lazari',
     flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -3301,7 +3301,7 @@ let juniors = [
     firstName: 'Brady Guy',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -3315,7 +3315,7 @@ let juniors = [
     firstName: 'Mizuki Yanagida',
     flag: '../../../assets/flags/japan.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -3329,7 +3329,7 @@ let juniors = [
     firstName: 'Yugo Sato',
     flag: '../../../assets/flags/japan.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
