@@ -2787,8 +2787,8 @@ let seniors = [
   {
     firstName: 'Cote Strike',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -2816,7 +2816,7 @@ let seniors = [
     firstName: 'Jeffrey Cheng',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite2: '../../../assets/sprites/pyroar.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -3300,8 +3300,8 @@ let juniors = [
   {
     firstName: 'Brady Guy',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite1: '../../../assets/sprites/yveltal.png',
+    sprite2: '../../../assets/sprites/raichu.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
