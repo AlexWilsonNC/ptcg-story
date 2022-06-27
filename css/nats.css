@@ -21,6 +21,7 @@
 .thin {
     width: 200px;
 }
+
 @media screen and (max-width: 530px) {
     .nats-box {
         display: flex;

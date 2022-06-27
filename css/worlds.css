@@ -442,6 +442,15 @@ li {
     width: 280px;
     opacity: 0.4;
 }
+.big-pika {
+    display: none;
+    position: absolute;
+    z-index: -100;
+    top: 100px;
+    right: 0;
+    width: 310px;
+    opacity: 0.4;
+}
 .hidden-cast-box {
     display: none;
 }
@@ -795,6 +804,9 @@ li {
     .hidden-poke {
         display: block;
     }
+    .big-pika {
+        display: block;
+    }
     .gallery {
         width: 97%;
     }
@@ -830,4 +842,7 @@ li {
     .hidden-poke {
         top: 200px;
     }
+    /* .big-pika {
+        top: 200px;
+    } */
 }
