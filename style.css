@@ -263,6 +263,11 @@ hr {
     background-color: rgb(80, 75, 49);
 }
 
+.other-logos {
+    color: rgb(43, 86, 134);
+    font-size: 150px;
+}
+
 @media screen and (max-width: 1150px) {
     #nav-right {
         margin-right: 50px;
@@ -280,6 +285,11 @@ hr {
     }
     #nav-left img {
         width: 55px;
+    }
+}
+@media screen and (max-width: 1050px) {
+    .other-logos {
+        font-size: 120px;
     }
 }
 @media screen and (max-width: 900px) {
@@ -318,6 +328,11 @@ hr {
         width: 70%;
     }
 }
+@media screen and (max-width: 780px) {
+    .other-logos {
+        font-size: 90px;
+    }
+}
 @media screen and (max-width: 750px) {
     .extra-nav {
         padding: 15px 0px;
@@ -348,6 +363,9 @@ hr {
         font-size: 14px;
         margin-left: 0px;
         margin: 0px 7px;
+    }
+    .other-logos {
+        font-size: 60px;
     }
 }
 @media screen and (max-width: 550px) {
