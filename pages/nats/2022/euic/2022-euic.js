@@ -905,8 +905,106 @@ let masters = [
 
 let seniors = [
   {
-    firstName: 'NAMEEEEEEE',
+    firstName: 'Caleb Rogerson',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Roberto C',
+    flag: '../../../../assets/flags/france.png',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Simon B',
     flag: '../../../../assets/flags',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Alexander C',
+    flag: '../../../../assets/flags/uk.png',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Fabio B',
+    flag: '../../../../assets/flags/italy.png',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Lorenzo F',
+    flag: '../../../../assets/flags/italy.png',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Julio S',
+    flag: '../../../../assets/flags',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Noah B',
+    flag: '../../../../assets/flags/uk.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     list: '../../../../assets/list-icon.png',
