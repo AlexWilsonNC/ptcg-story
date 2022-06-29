@@ -39,6 +39,9 @@
 /* .stipend-rating-zone {
 
 } */
+.covid-award {
+    max-width: 65%;
+}
 
 @media screen and (max-width: 530px) {
     .nats-box {
@@ -46,6 +49,9 @@
         flex-direction: column;
         align-items: center;
         margin: 0px 3px 15px 3px;
+    }
+    .covid-award {
+        max-width: 100%;
     }
     .nats-box img {
         width: 150px;
