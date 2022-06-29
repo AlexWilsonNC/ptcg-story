@@ -8,8 +8,8 @@ let masters = [
   {
     firstName: 'Henry Brand',
     flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/mewtwo.png',
-    sprite2: '../../../assets/sprites/mew.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',  
     list: '../../../assets/list-icon.png',
         type: 'psychic',
     deck: [
@@ -216,8 +216,8 @@ let masters = [
   {
     firstName: 'Blaine Hill',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/charizard.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
+    sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
+    sprite2: '../../../assets/sprites/volcanion-right.png',
     list: '../../../assets/list-icon.png',
         type: 'fire',
     deck: [
@@ -310,8 +310,8 @@ let masters = [
   {
     firstName: 'Tord Reklev',
     flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/reshiram.png',
-    sprite2: '../../../assets/sprites/charizard.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
         type: 'fire',
     deck: [
@@ -396,8 +396,8 @@ let masters = [
   {
     firstName: 'Kaiwen Cabbabe',
     flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
         type: 'lightning',
     deck: [
@@ -506,8 +506,8 @@ let masters = [
   {
     firstName: 'Paco Vilchez Barea',
     flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/charizard.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
+    sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
+    sprite2: '../../../assets/sprites/volcanion-right.png',
     list: '../../../assets/list-icon.png',
         type: 'fire',
     deck: [
@@ -600,8 +600,8 @@ let masters = [
   {
     firstName: 'Ryota Ishiyama',
     flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/mewtwo.png',
-    sprite2: '../../../assets/sprites/mew.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',  
     list: '../../../assets/list-icon.png',
         type: 'psychic',
     deck: [
@@ -808,8 +808,8 @@ let masters = [
   {
     firstName: 'Hideki Sano',
     flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
+    sprite1: '../../../assets/sprites/gardevoir-sylveon-tagteam.png',
+    sprite2: '../../../assets/sprites/xerneas-active.png',
     list: '../../../assets/list-icon.png',
         type: 'fairy',
     deck: [
@@ -906,8 +906,8 @@ let masters = [
   {
     firstName: 'Karl Peters',
     flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir-sylveon-tagteam.png',
     list: '../../../assets/list-icon.png',
         type: 'fairy',
     deck: [
@@ -1004,8 +1004,8 @@ let masters = [
   {
     firstName: 'Bert Wolters',
     flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/mewtwo.png',
-    sprite2: '../../../assets/sprites/mew.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',  
     list: '../../../assets/list-icon.png',
         type: 'psychic',
     deck: [
@@ -1114,8 +1114,8 @@ let masters = [
   {
     firstName: 'Yoshiyuki Yamaguchi',
     flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/reshiram.png',
-    sprite2: '../../../assets/sprites/charizard.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
         type: 'fire',
     deck: [
@@ -1318,8 +1318,8 @@ let masters = [
   {
     firstName: 'Shunpei Hosoya',
     flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
+    sprite1: '../../../assets/sprites/gardevoir-sylveon-tagteam.png',
+    sprite2: '../../../assets/sprites/xerneas-active.png',
     list: '../../../assets/list-icon.png',
     type: 'fairy',
     deck: [
@@ -1408,8 +1408,8 @@ let masters = [
   {
     firstName: 'Gustavo Wada',
     flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/sprites/blank.png',
         type: '',
     deck: []
@@ -1531,8 +1531,8 @@ let masters = [
   {
     firstName: 'Lucas Pereira',
     flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'lightning',
     deck: [
@@ -1637,8 +1637,8 @@ let masters = [
   {
     firstName: 'Charlie Lockyer',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'lightning',
     deck: [
@@ -1739,8 +1739,8 @@ let masters = [
   {
     firstName: 'Otavio Gouveia',
     flag: '../../../assets/flags/brazil.png',
-    sprite1: '../../../assets/sprites/charizard.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
+    sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
+    sprite2: '../../../assets/sprites/volcanion-right.png',
     list: '../../../assets/list-icon.png',
         type: 'fire',
     deck: [
@@ -1829,8 +1829,8 @@ let masters = [
   {
     firstName: 'Robin Shulz',
     flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/mewtwo.png',
-    sprite2: '../../../assets/sprites/mew.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',  
     list: '../../../assets/list-icon.png',
     type: 'psychic',
     deck: [
@@ -1923,8 +1923,8 @@ let masters = [
   {
     firstName: 'Justin Bokhari',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'lightning',
     deck: [
@@ -2029,8 +2029,8 @@ let masters = [
   {
     firstName: 'Jose Marrero',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/reshiram.png',
-    sprite2: '../../../assets/sprites/charizard.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'fire',
     deck: [
@@ -2343,8 +2343,8 @@ let masters = [
   {
     firstName: 'Bryan de Vries',
     flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'lightning',
     deck: [
@@ -2661,8 +2661,8 @@ let masters = [
   {
     firstName: 'Mehdi Hafi',
     flag: '../../../assets/flags/france.png',
-    sprite1: '../../../assets/sprites/reshiram.png',
-    sprite2: '../../../assets/sprites/charizard.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'fire',
     deck: [
@@ -2751,8 +2751,8 @@ let masters = [
   {
     firstName: 'Pedro Torres',
     flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/reshiram.png',
-    sprite2: '../../../assets/sprites/charizard.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'fire',
     deck: [
@@ -2837,8 +2837,8 @@ let masters = [
   {
     firstName: 'Rahul Reddy',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/charizard.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
+    sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
+    sprite2: '../../../assets/sprites/volcanion-right.png',
     list: '../../../assets/list-icon.png',
     type: 'fire',
     deck: [
@@ -2935,8 +2935,8 @@ let masters = [
   {
     firstName: 'Riley Hulbert',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir-sylveon-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'fairy',
     deck: [
@@ -3127,8 +3127,8 @@ let masters = [
   {
     firstName: 'Ian Robb',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'lightning',
     deck: [
@@ -3519,8 +3519,8 @@ let masters = [
   {
     firstName: 'Clifton Goh',
     flag: '../../../assets/flags/singapore.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
         type: 'lightning',
     deck: [
@@ -3723,8 +3723,8 @@ let masters = [
   {
     firstName: 'Miguel Aml',
     flag: '../../../assets/flags/spain.png',
-    sprite1: '../../../assets/sprites/reshiram.png',
-    sprite2: '../../../assets/sprites/charizard.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'fire',
     deck: [
@@ -3817,8 +3817,8 @@ let masters = [
   {
     firstName: 'Fabien Pujol',
     flag: '../../../assets/flags/france.png',
-    sprite1: '../../../assets/sprites/reshiram.png',
-    sprite2: '../../../assets/sprites/charizard.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'fire',
     deck: [
@@ -3907,8 +3907,8 @@ let masters = [
   {
     firstName: 'Marco Spataro',
     flag: '../../../assets/flags/italy.png',
-    sprite1: '../../../assets/sprites/mewtwo.png',
-    sprite2: '../../../assets/sprites/mew.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',  
     list: '../../../assets/list-icon.png',
     type: 'psychic',
     deck: [
@@ -4017,8 +4017,8 @@ let masters = [
   {
     firstName: 'David Cooper',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'lightning',
     deck: [
@@ -4119,8 +4119,8 @@ let masters = [
   {
     firstName: 'Will Jenkins',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'lightning',
     deck: [
@@ -4225,8 +4225,8 @@ let masters = [
   {
     firstName: 'Ilya Kornilov',
     flag: '../../../assets/flags/russia.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
+    sprite1: '../../../assets/sprites/gardevoir-sylveon-tagteam.png',
+    sprite2: '../../../assets/sprites/mismagius.png',
     list: '../../../assets/list-icon.png',
         type: 'fairy',
     deck: [
@@ -4344,8 +4344,8 @@ let masters = [
   {
     firstName: 'Tatsuya Kobayashi',
     flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/reshiram.png',
-    sprite2: '../../../assets/sprites/charizard.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../../assets/list-icon.png',
         type: 'fire',
     deck: [
@@ -4626,8 +4626,8 @@ let masters = [
   {
     firstName: 'Colin Tang',
     flag: '../../../assets/flags/liberia-malaysia.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'lightning',
     deck: [
@@ -4745,7 +4745,7 @@ let masters = [
   {
     firstName: 'Alex Schemanske',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/gengar.png',
+    sprite1: '../../../assets/sprites/gengar-mimikyu-tagteam.png',
     sprite2: '../../../assets/sprites/omastar.png',
     list: '../../../assets/list-icon.png',
         type: 'psychic',
@@ -4839,8 +4839,8 @@ let masters = [
   {
     firstName: 'Haruki Satoyama',
     flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
+    sprite1: '../../../assets/sprites/gardevoir-sylveon-tagteam.png',
+    sprite2: '../../../assets/sprites/xerneas-active.png',
     list: '../../../assets/list-icon.png',
     type: 'fairy',
     deck: [
@@ -4925,8 +4925,8 @@ let masters = [
   {
     firstName: 'Michele Schiraldi',
     flag: '../../../assets/flags/canada.png',
-    sprite1: '../../../assets/sprites/giratina.png',
-    sprite2: '../../../assets/sprites/garchomp.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/giratina-garchomp-tagteam.png',
     list: '../../../assets/sprites/blank.png',
         type: '',
     deck: []
@@ -5028,8 +5028,8 @@ let masters = [
   {
     firstName: 'Tristan Lackey',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'lightning',
     deck: [
@@ -5129,8 +5129,8 @@ let masters = [
   {
     firstName: 'Pablo Meza',
     flag: '../../../assets/flags/mexico.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'lightning',
     deck: [
@@ -5227,8 +5227,8 @@ let masters = [
   {
     firstName: 'Stéphane Ivanoff',
     flag: '../../../assets/flags/france.png',
-    sprite1: '../../../assets/sprites/gardevoir.png',
-    sprite2: '../../../assets/sprites/sylveon.png',
+    sprite1: '../../../assets/sprites/gardevoir-sylveon-tagteam.png',
+    sprite2: '../../../assets/sprites/xerneas-active.png',
     list: '../../../assets/list-icon.png',
     type: 'fairy',
     deck: [
@@ -5321,8 +5321,8 @@ let masters = [
   {
     firstName: 'Jon Eng',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/charizard.png',
-    sprite2: '../../../assets/sprites/volcanion.png',
+    sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
+    sprite2: '../../../assets/sprites/volcanion-right.png',
     list: '../../../assets/list-icon.png',
     type: 'fire',
     deck: [
@@ -5415,8 +5415,8 @@ let masters = [
   {
     firstName: 'Koki Kimura',
     flag: '../../../assets/flags/japan.png',
-    sprite1: '../../../assets/sprites/mewtwo.png',
-    sprite2: '../../../assets/sprites/mew.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',  
     list: '../../../assets/sprites/blank.png',
         type: '',
     deck: []
@@ -5424,8 +5424,8 @@ let masters = [
   {
     firstName: 'Nicolas Galaz',
     flag: '../../../assets/flags/chile.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/sprites/blank.png',
         type: '',
     deck: []
@@ -5433,8 +5433,8 @@ let masters = [
   {
     firstName: 'Sander Wojcik',
     flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/rowlet.png',
-    sprite2: '../../../assets/sprites/exeggutor-alola.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/exeggutor-alola-rowlet-tagteam.png',
     list: '../../../assets/list-icon.png',
         type: 'grass',
     deck: [
@@ -5563,7 +5563,7 @@ let masters = [
   {
     firstName: 'Jack Underwood',
     flag: '../../../assets/flags/australia.png',
-    sprite1: '../../../assets/sprites/mewtwo.png',
+    sprite1: '../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../assets/sprites/blastoise.png',
     list: '../../../assets/list-icon.png',
         type: 'water',
@@ -5874,8 +5874,8 @@ let masters = [
   {
     firstName: 'Miloslav Poslední',
     flag: '../../../assets/flags/czech-republic.png',
-    sprite1: '../../../assets/sprites/pikachu.png',
-    sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../assets/list-icon.png',
     type: 'lightning',
     deck: [
@@ -5979,8 +5979,8 @@ let seniors = [
     {
       firstName: 'Kaya Lichtleitner',
       flag: '../../../assets/flags/germany.png',
-      sprite1: '../../../assets/sprites/reshiram.png',
-      sprite2: '../../../assets/sprites/charizard.png',
+      sprite1: '../../../assets/sprites/blank.png',
+      sprite2: '../../../assets/sprites/reshiram-charizard-tagteam.png',
       list: '../../../assets/list-icon.png',
       type: 'fire',
       deck: [
@@ -6383,8 +6383,8 @@ let seniors = [
     {
         firstName: 'Iain Harding',
         flag: '../../../assets/flags/usa.png',
-        sprite1: '../../../assets/sprites/charizard.png',
-        sprite2: '../../../assets/sprites/volcanion.png',
+        sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
+        sprite2: '../../../assets/sprites/volcanion-right.png',
         list: '../../../assets/list-icon.png',
         type: 'fire',
         deck: [
@@ -6697,8 +6697,8 @@ let seniors = [
     {
         firstName: 'Noa Bell',
         flag: '../../../assets/flags/usa.png',
-        sprite1: '../../../assets/sprites/charizard.png',
-        sprite2: '../../../assets/sprites/volcanion.png',
+        sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
+        sprite2: '../../../assets/sprites/volcanion-right.png',
         list: '../../../assets/list-icon.png',
         type: 'fire',
         deck: [
@@ -6904,8 +6904,8 @@ let juniors = [
     {
       firstName: 'Issac Terceira',
       flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/charizard.png',
-      sprite2: '../../../assets/sprites/volcanion.png',
+      sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
+      sprite2: '../../../assets/sprites/volcanion-right.png',
       list: '../../../assets/list-icon.png',
       type: 'fire',
       deck: [
@@ -6990,8 +6990,8 @@ let juniors = [
     {
       firstName: 'Logan Maracle',
       flag: '../../../assets/flags/usa.png',
-      sprite1: '../../../assets/sprites/charizard.png',
-      sprite2: '../../../assets/sprites/volcanion.png',
+      sprite1: '../../../assets/sprites/reshiram-charizard-tagteam.png',
+      sprite2: '../../../assets/sprites/volcanion-right.png',
       list: '../../../assets/list-icon.png',
       type: 'fire',
       deck: [
