@@ -1,0 +1,75 @@
+.expansion-table {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+.table-outline {
+    border: 3px solid black;
+    width: 70%;
+    border-radius: 10px;
+}
+.set {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+.set p {
+    padding: 1em;
+    margin: 0 -1em;
+    font-size: 18px;
+    text-align: center;
+}
+.set-name {
+    width:18%;
+    border-right: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.set-name p {
+    max-width: 95%;
+    text-align: center;
+}
+.set-symbol {
+    width:8%;
+    border-right: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.set-symbol img {
+    width: 35px;
+    padding: 1em;
+    margin: 0 -1em;
+}
+.set-art {
+    width: 28%;
+    display: flex;
+    justify-content: center;
+    border-right: 1px solid black;
+}
+.set-art img {
+    padding: 0.2em;
+    margin: 0 -0.2em;
+    height: 57px;
+}
+.set-abbrev,
+.set-num-cards {
+    width: 10%;
+}
+.set-abbrev {
+    border-right: 1px solid black;
+}
+.set-abbrev p {
+    font-style: italic;
+}
+.set-en-date,
+.set-jp-date {
+    width: 20%;
+    border-right: 1px solid black;
+}
+
+@media screen and (max-width: 600px) {
+    .table-outline {
+        width: 95%;
+    }
+}

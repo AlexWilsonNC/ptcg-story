@@ -264,8 +264,45 @@ hr {
 }
 
 .other-logos {
-    color: rgb(43, 86, 134);
+    /* color: rgb(43, 86, 134); */
     font-size: 150px;
+    transition: 0.2s ease all;
+}
+.others-box {
+    transition: 0.2s ease all;
+}
+.others-box:hover > .other-logos {
+    color: rgb(79, 79, 79);
+}
+/* .others-box:hover > .others-box p {
+    background-color: rgb(37, 37, 37);
+} */
+.oth-pink {
+    color:rgb(255, 107, 235);
+}
+.oth-violet {
+    color:rgb(210, 112, 255);
+}
+.oth-purple {
+    color:rgb(167, 99, 255);
+}
+.oth-blue {
+    color:rgb(109, 119, 255);
+}
+.oth-light-blue {
+    color:rgb(102, 219, 255);
+}
+.oth-green {
+    color:rgb(118, 255, 114);
+}
+.oth-yellow {
+    color:rgb(255, 244, 95);
+}
+.oth-orange {
+    color:rgb(255, 175, 101);
+}
+.oth-red {
+    color:rgb(255, 116, 116);
 }
 
 @media screen and (max-width: 1150px) {
