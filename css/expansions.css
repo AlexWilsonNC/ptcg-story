@@ -68,6 +68,42 @@
     border-right: 1px solid black;
 }
 
+@media screen and (max-width: 1250px) {
+    .table-outline {
+        width: 95%;
+    }
+}
+@media screen and (max-width: 850px) {
+    .top-set {
+        border-bottom: 5px solid black;
+    }
+    .top-set p {
+        transform: scale(0.7);
+    }
+    .set p {
+        transform: scale(0.8);
+    }
+    .set-symbol img {
+        transform: scale(0.8);
+    }
+    .set-art img {
+        transform: scale(0.8);
+    }
+}
+@media screen and (max-width: 740px) {
+    .set-symbol img {
+        transform: scale(0.6);
+    }
+    .set-art img {
+        transform: scale(0.6);
+    }
+    .set-jp-date {
+        display: none;
+    }
+    .set-num-cards {
+        width: 5%;
+    }
+}
 @media screen and (max-width: 600px) {
     .table-outline {
         width: 95%;
