@@ -13,6 +13,7 @@
     justify-content: space-around;
     flex-wrap: wrap;
     width: 60%;
+    margin-top: 50px;
 }
 .worlds-box {
     display: flex;
@@ -777,6 +778,10 @@ li {
     .others-box p {
         width: 80%;
     }
+    .others-icons {
+        width: 85%;
+        margin-top: 20px;
+    }
 }
 @media screen and (max-width: 570px) {  
     .set-icon {
@@ -913,5 +918,23 @@ li {
     }
     .big-pika {
         top: 200px;
+    }
+}
+@media screen and (max-width: 370px) {
+    .others-box {
+        width: 130px;
+        margin-bottom: 25px;
+    }
+    .worlds-box p,
+    .others-box p {
+        font-size: 13px;
+        padding: 5px 5px;
+    }
+    .others-box p {
+        width: 80%;
+    }
+    .others-icons {
+        width: 95%;
+        margin-top: 20px;
     }
 }
