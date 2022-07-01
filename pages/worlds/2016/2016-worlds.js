@@ -1834,6 +1834,10 @@ let masters = [
         numImg: '../../../assets/02.png'
       },
       {
+        cardImg: '../../../assets/cards/2014-2016/zygarde.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
         cardImg: '../../../assets/cards/2014-2016/jirachi.png',
         numImg: '../../../assets/01.png'
       },
