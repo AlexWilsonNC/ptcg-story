@@ -1084,10 +1084,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Jon Eng',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1098,10 +1098,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Ryan Antonucci',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1112,10 +1112,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Michael Perez',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1126,10 +1126,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Aidan Khus',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/pikachu-gmax.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1140,10 +1140,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Nick Flores',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1154,10 +1154,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Justin Bokhari',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1168,10 +1168,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Harrison Dye',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1182,10 +1182,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Grant Manley',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1196,10 +1196,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'James Gillespie',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../../assets/sprites/genesect.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1210,10 +1210,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Piper Lepine',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1224,10 +1224,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Tanner Hurley',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1238,10 +1238,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'William Azevedo',
+    flag: '../../../../assets/flags/brazil.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/palkia-origin.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1252,10 +1252,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'João Zambrano',
+    flag: '../../../../assets/flags/brazil.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1266,10 +1266,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Adam Reinhardt',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/pikachu-gmax.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1280,10 +1280,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Jonathan Luciano',
+    flag: '../../../../assets/flags/argentina.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1294,10 +1294,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Bryan de Vries',
+    flag: '../../../../assets/flags/netherlands.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1308,10 +1308,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Ethan Perez-Dormitzer',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/vikavolt.png',
+    sprite2: '../../../../assets/sprites/moltres-galar.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1322,10 +1322,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Dan Irish',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1336,10 +1336,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Dean Nezam',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/mewtwo.png',
+    sprite2: '../../../../assets/sprites/miltank.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1350,10 +1350,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Michael Laundrie',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/malamar-vmax.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1364,10 +1364,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Ross Cawthon',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/malamar.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1378,10 +1378,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Jake Santiago',
+    flag: '../../../../assets/flags/canada.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1392,10 +1392,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'NAMEEEEEEE',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Spencer Perez-Dormitzer',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/vikavolt.png',
+    sprite2: '../../../../assets/sprites/moltres-galar.png',
     list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
