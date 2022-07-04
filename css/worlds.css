@@ -91,6 +91,9 @@
     width: 80%;
     margin-top: 20px;
 }
+.awardee-paragraph {
+    width: 80%;
+}
 .cp-area {
     margin-top: 20px;
 }
@@ -153,7 +156,7 @@
     margin-top: 15px;
 }
 .casters-zone {
-    width: 70%;
+    width: 80%;
     display: flex;
     align-items: center;
     flex-direction: row;
@@ -648,6 +651,9 @@ li {
     .worlds-paragraph {
         width: 100%;
         margin-top: 20px;
+    }
+    .awardee-paragraph {
+        width: 100%;
     }
     .cp {
         width: 100%;
