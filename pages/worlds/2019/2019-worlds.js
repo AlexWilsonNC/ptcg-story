@@ -6065,8 +6065,8 @@ let seniors = [
     {
         firstName: 'Grant Shen',
         flag: '../../../assets/flags/usa.png',
-        sprite1: '../../../assets/sprites/gardevoir.png',
-        sprite2: '../../../assets/sprites/sylveon.png',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/gardevoir-sylveon-tagteam.png',
         list: '../../../assets/list-icon.png',
         type: 'fairy',
         deck: [
@@ -6163,8 +6163,8 @@ let seniors = [
     {
         firstName: 'Rowan Stavenow',
         flag: '../../../assets/flags/uk.png',
-        sprite1: '../../../assets/sprites/mewtwo.png',
-        sprite2: '../../../assets/sprites/mew.png',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
         list: '../../../assets/list-icon.png',
         type: 'psychic',
         deck: [
@@ -6273,8 +6273,8 @@ let seniors = [
     {
         firstName: 'Thomas Naylor',
         flag: '../../../assets/flags/uk.png',
-        sprite1: '../../../assets/sprites/pikachu.png',
-        sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
         list: '../../../assets/list-icon.png',
         type: 'lightning',
         deck: [
@@ -6477,8 +6477,8 @@ let seniors = [
     {
         firstName: 'YouTae Woo',
         flag: '../../../assets/flags/korea.png',
-        sprite1: '../../../assets/sprites/pikachu.png',
-        sprite2: '../../../assets/sprites/zekrom.png',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
         list: '../../../assets/list-icon.png',
         type: 'lightning',
         deck: [
@@ -6583,8 +6583,8 @@ let seniors = [
     {
         firstName: 'James Cox',
         flag: '../../../assets/flags/australia.png',
-        sprite1: '../../../assets/sprites/mewtwo.png',
-        sprite2: '../../../assets/sprites/mew.png',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
         list: '../../../assets/list-icon.png',
         type: 'psychic',
         deck: [
@@ -6790,8 +6790,8 @@ let juniors = [
     {
       firstName: 'Haruki Miyamoto',
       flag: '../../../assets/flags/japan.png',
-      sprite1: '../../../assets/sprites/pikachu.png',
-      sprite2: '../../../assets/sprites/zekrom.png',
+      sprite1: '../../../assets/sprites/blank.png',
+      sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
       list: '../../../assets/list-icon.png',
       type: 'lightning',
       deck: [
@@ -7080,8 +7080,8 @@ let juniors = [
     {
       firstName: 'Cassio Moraes',
       flag: '../../../assets/flags/brazil.png',
-      sprite1: '../../../assets/sprites/mewtwo.png',
-      sprite2: '../../../assets/sprites/mew.png',
+      sprite1: '../../../assets/sprites/blank.png',
+      sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
       list: '../../../assets/list-icon.png',
       type: 'psychic',
       deck: [
@@ -7190,8 +7190,8 @@ let juniors = [
     {
       firstName: 'Sechan Oh',
       flag: '../../../assets/flags/korea.png',
-      sprite1: '../../../assets/sprites/pikachu.png',
-      sprite2: '../../../assets/sprites/zekrom.png',
+      sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
       list: '../../../assets/list-icon.png',
       type: 'lightning',
       deck: [
@@ -7296,8 +7296,8 @@ let juniors = [
     {
       firstName: 'Daniel Magda',
       flag: '../../../assets/flags/czech-republic.png',
-      sprite1: '../../../assets/sprites/pikachu.png',
-      sprite2: '../../../assets/sprites/zekrom.png',
+      sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
       list: '../../../assets/list-icon.png',
       type: 'lightning',
       deck: [
@@ -7412,10 +7412,18 @@ let juniors = [
       list: '../../../assets/list-icon.png',
           type: 'water',
       deck: [
-      {
-        cardImg: '../../../assets/cards/2019/keldeo-gx.png',
-        numImg: '../../../assets/03.png'
-      },
+        {
+          cardImg: '../../../assets/cards/2019/quagsire.png',
+          numImg: '../../../assets/03.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/wooper.png',
+          numImg: '../../../assets/02.png'
+        },
+        {
+          cardImg: '../../../assets/cards/2019/wooper-ground.png',
+          numImg: '../../../assets/01.png'
+        },
       {
         cardImg: '../../../assets/cards/2019/naganadel.png',
         numImg: '../../../assets/03.png'
@@ -7433,16 +7441,8 @@ let juniors = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/quagsire.png',
+        cardImg: '../../../assets/cards/2019/keldeo-gx.png',
         numImg: '../../../assets/03.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2019/wooper.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2019/wooper-ground.png',
-        numImg: '../../../assets/01.png'
       },
       {
         cardImg: '../../../assets/cards/2019/kyurem.png',
@@ -7513,8 +7513,8 @@ let juniors = [
     {
       firstName: 'Hotaru Yoshinari',
       flag: '../../../assets/flags/japan.png',
-      sprite1: '../../../assets/sprites/mewtwo.png',
-      sprite2: '../../../assets/sprites/mew.png',
+      sprite1: '../../../assets/sprites/blank.png',
+      sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
       list: '../../../assets/list-icon.png',
       type: 'psychic',
       deck: [
