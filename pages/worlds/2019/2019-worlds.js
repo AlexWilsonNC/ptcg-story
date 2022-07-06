@@ -14,103 +14,103 @@ let masters = [
         type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/solgaleo-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/deoxys-espeon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
+        cardImg: '../../../assets/cards/2019-2020/naganadel-gx-dragon.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cobalion-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/cobalion-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/latios-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/latios-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/magcargo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/magcargo-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/marshadow.png',
+        cardImg: '../../../assets/cards/2019-2020/marshadow.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/steven-resolve.png',
+        cardImg: '../../../assets/cards/2019-2020/steven-resolve.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/08.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/03.png'
       }
     ]
@@ -124,91 +124,91 @@ let masters = [
         type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/blacephalon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/blacephalon-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/naganadel.png',
+        cardImg: '../../../assets/cards/2019-2020/naganadel.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/poipole-spit.png',
+        cardImg: '../../../assets/cards/2019-2020/poipole-spit.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/poipole-eye.png',
+        cardImg: '../../../assets/cards/2019-2020/poipole-eye.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
+        cardImg: '../../../assets/cards/2019-2020/naganadel-gx-dragon.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heatran-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hapu.png',
+        cardImg: '../../../assets/cards/2019-2020/hapu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/beast-ring.png',
+        cardImg: '../../../assets/cards/2019-2020/beast-ring.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ultra-space.png',
+        cardImg: '../../../assets/cards/2019-2020/ultra-space.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/14.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-beast-p.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-beast-p.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -222,87 +222,87 @@ let masters = [
         type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volcanion.png',
+        cardImg: '../../../assets/cards/2019-2020/volcanion.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lusamine.png',
+        cardImg: '../../../assets/cards/2019-2020/lusamine.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+        cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-spinner.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fiery-flint.png',
+        cardImg: '../../../assets/cards/2019-2020/fiery-flint.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+        cardImg: '../../../assets/cards/2019-2020/shrineofpunush.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -316,79 +316,79 @@ let masters = [
         type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heatran-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ninetales.png',
+        cardImg: '../../../assets/cards/2019-2020/ninetales.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/vulpix.png',
+        cardImg: '../../../assets/cards/2019-2020/vulpix.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/victini-prism.png',
+        cardImg: '../../../assets/cards/2019-2020/victini-prism.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/turtonator.png',
+        cardImg: '../../../assets/cards/2019-2020/turtonator.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/super-scoop-up.png',
+        cardImg: '../../../assets/cards/2019-2020/super-scoop-up.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/18.png'
       }
     ]
@@ -402,103 +402,103 @@ let masters = [
         type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/sigilyph-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/sigilyph-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zapdos.png',
+        cardImg: '../../../assets/cards/2019-2020/zapdos.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cyrus-p.png',
+        cardImg: '../../../assets/cards/2019-2020/cyrus-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -512,87 +512,87 @@ let masters = [
         type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volcanion.png',
+        cardImg: '../../../assets/cards/2019-2020/volcanion.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+        cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fiery-flint.png',
+        cardImg: '../../../assets/cards/2019-2020/fiery-flint.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/choice-helmet.png',
+        cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+        cardImg: '../../../assets/cards/2019-2020/shrineofpunush.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -606,95 +606,95 @@ let masters = [
         type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/magcargo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/magcargo-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/solgaleo-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/flareon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/flareon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heatran-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/deoxys-espeon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/marshadow.png',
+        cardImg: '../../../assets/cards/2019-2020/marshadow.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/oranguru-resource-manag.png',
+        cardImg: '../../../assets/cards/2019-2020/oranguru-resource-manag.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hapu.png',
+        cardImg: '../../../assets/cards/2019-2020/hapu.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/16.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/02.png'
       }
     ]
@@ -708,99 +708,99 @@ let masters = [
         type: 'normal',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/oranguru-resource-manag.png',
+        cardImg: '../../../assets/cards/2019-2020/oranguru-resource-manag.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pidgeotto.png',
+        cardImg: '../../../assets/cards/2019-2020/pidgeotto.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pidgey.png',
+        cardImg: '../../../assets/cards/2019-2020/pidgey.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/girafarig.png',
+        cardImg: '../../../assets/cards/2019-2020/girafarig.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        cardImg: '../../../assets/cards/2019-2020/ditto-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/articuno-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/articuno-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/professor-elm-lecture.png',
+        cardImg: '../../../assets/cards/2019-2020/professor-elm-lecture.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mars.png',
+        cardImg: '../../../assets/cards/2019-2020/mars.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lt-surge.png',
+        cardImg: '../../../assets/cards/2019-2020/lt-surge.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        cardImg: '../../../assets/cards/2019-2020/tate-n-liza.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/brocks-grit.png',
+        cardImg: '../../../assets/cards/2019-2020/brocks-grit.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/crushing-hammer.png',
+        cardImg: '../../../assets/cards/2019-2020/crushing-hammer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/chipchip-ice-axe.png',
+        cardImg: '../../../assets/cards/2019-2020/chipchip-ice-axe.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-water.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-water.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-recycle.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-recycle.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -814,91 +814,91 @@ let masters = [
         type: 'fairy',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/gardevoir-sylveon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gardevoir-sylveon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/xerneas-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/xerneas-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mimikyu-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/mimikyu-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/judge.png',
+        cardImg: '../../../assets/cards/2019-2020/judge.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/bills-analysis.png',
+        cardImg: '../../../assets/cards/2019-2020/bills-analysis.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-spinner.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/adventure-bag.png',
+        cardImg: '../../../assets/cards/2019-2020/adventure-bag.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-lightning.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-ub.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-ub.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-psychic.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/wondrous-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/wondrous-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fairy.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fairy.png',
         numImg: '../../../assets/09.png'
       }
     ]
@@ -912,91 +912,91 @@ let masters = [
         type: 'fairy',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/gardevoir-sylveon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gardevoir-sylveon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/bills-analysis.png',
+        cardImg: '../../../assets/cards/2019-2020/bills-analysis.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/coach-trainer.png',
+        cardImg: '../../../assets/cards/2019-2020/coach-trainer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+        cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/super-scoop-up.png',
+        cardImg: '../../../assets/cards/2019-2020/super-scoop-up.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-spinner.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-lightning.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-ub.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-ub.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-psychic.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-dragon.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-dragon.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/choice-helmet.png',
+        cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/wondrous-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/wondrous-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fairy.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fairy.png',
         numImg: '../../../assets/07.png'
       }
     ]
@@ -1010,103 +1010,103 @@ let masters = [
         type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/solgaleo-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/deoxys-espeon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
+        cardImg: '../../../assets/cards/2019-2020/naganadel-gx-dragon.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cobalion-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/cobalion-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/latios-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/latios-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/magcargo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/magcargo-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dargonite-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dargonite-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/steven-resolve.png',
+        cardImg: '../../../assets/cards/2019-2020/steven-resolve.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-recycle-system.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-recycle-system.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/08.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/03.png'
       }
     ]
@@ -1120,95 +1120,95 @@ let masters = [
         type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/blacephalon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/blacephalon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heatran-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/oranguru-resource-manag.png',
+        cardImg: '../../../assets/cards/2019-2020/oranguru-resource-manag.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/turtonator.png',
+        cardImg: '../../../assets/cards/2019-2020/turtonator.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hapu.png',
+        cardImg: '../../../assets/cards/2019-2020/hapu.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        cardImg: '../../../assets/cards/2019-2020/tate-n-liza.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+        cardImg: '../../../assets/cards/2019-2020/shrineofpunush.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/12.png'
       }
     ]
@@ -1222,95 +1222,95 @@ let masters = [
     type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/blacephalon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/blacephalon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
+        cardImg: '../../../assets/cards/2019-2020/naganadel-gx-dragon.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/naganadel.png',
+        cardImg: '../../../assets/cards/2019-2020/naganadel.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/poipole-spit.png',
+        cardImg: '../../../assets/cards/2019-2020/poipole-spit.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/poipole-eye.png',
+        cardImg: '../../../assets/cards/2019-2020/poipole-eye.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/poipole-belt.png',
+        cardImg: '../../../assets/cards/2019-2020/poipole-belt.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        cardImg: '../../../assets/cards/2019-2020/ditto-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        cardImg: '../../../assets/cards/2019-2020/tate-n-liza.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/brocks-grit.png',
+        cardImg: '../../../assets/cards/2019-2020/brocks-grit.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/beast-ring.png',
+        cardImg: '../../../assets/cards/2019-2020/beast-ring.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/beast-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/beast-ball.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ultra-space.png',
+        cardImg: '../../../assets/cards/2019-2020/ultra-space.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/14.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-beast-p.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-beast-p.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -1324,83 +1324,83 @@ let masters = [
     type: 'fairy',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/gardevoir-sylveon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gardevoir-sylveon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/xerneas-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/xerneas-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/coach-trainer.png',
+        cardImg: '../../../assets/cards/2019-2020/coach-trainer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lusamine.png',
+        cardImg: '../../../assets/cards/2019-2020/lusamine.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-spinner.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-lightning.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-ub.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-ub.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/choice-helmet.png',
+        cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fairy.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fairy.png',
         numImg: '../../../assets/10.png'
       }
     ]
@@ -1423,107 +1423,107 @@ let masters = [
         type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/weavile-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/weavile-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/weavile.png',
+        cardImg: '../../../assets/cards/2019-2020/weavile.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/sneasel-2nd-turn.png',
+        cardImg: '../../../assets/cards/2019-2020/sneasel-2nd-turn.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/sneasel.png',
+        cardImg: '../../../assets/cards/2019-2020/sneasel.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/naganadel.png',
+        cardImg: '../../../assets/cards/2019-2020/naganadel.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/poipole-spit.png',
+        cardImg: '../../../assets/cards/2019-2020/poipole-spit.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/darkrai-p.png',
+        cardImg: '../../../assets/cards/2019-2020/darkrai-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        cardImg: '../../../assets/cards/2019-2020/ditto-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/darkrai-umbreon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/darkrai-umbreon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tyranitar-sableye.png',
+        cardImg: '../../../assets/cards/2019-2020/tyranitar-sableye.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greninja-zoroark-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/greninja-zoroark-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hapu.png',
+        cardImg: '../../../assets/cards/2019-2020/hapu.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/beast-ring.png',
+        cardImg: '../../../assets/cards/2019-2020/beast-ring.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ultra-space.png',
+        cardImg: '../../../assets/cards/2019-2020/ultra-space.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/darkcity.png',
+        cardImg: '../../../assets/cards/2019-2020/darkcity.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-dark.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-dark.png',
         numImg: '../../../assets/12.png'
       }
     ]
@@ -1537,99 +1537,99 @@ let masters = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zapdos.png',
+        cardImg: '../../../assets/cards/2019-2020/zapdos.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -1643,95 +1643,95 @@ let masters = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/judge.png',
+        cardImg: '../../../assets/cards/2019-2020/judge.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -1745,83 +1745,83 @@ let masters = [
         type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volcanion.png',
+        cardImg: '../../../assets/cards/2019-2020/volcanion.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+        cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fiery-flint.png',
+        cardImg: '../../../assets/cards/2019-2020/fiery-flint.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/choice-helmet.png',
+        cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+        cardImg: '../../../assets/cards/2019-2020/shrineofpunush.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -1835,87 +1835,87 @@ let masters = [
     type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/solgaleo-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/latios-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/latios-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/deoxys-espeon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
+        cardImg: '../../../assets/cards/2019-2020/naganadel-gx-dragon.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dargonite-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dargonite-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/turtonator.png',
+        cardImg: '../../../assets/cards/2019-2020/turtonator.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/marshadow.png',
+        cardImg: '../../../assets/cards/2019-2020/marshadow.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hapu.png',
+        cardImg: '../../../assets/cards/2019-2020/hapu.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        cardImg: '../../../assets/cards/2019-2020/tate-n-liza.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/super-scoop-up.png',
+        cardImg: '../../../assets/cards/2019-2020/super-scoop-up.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/11.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/05.png'
       }
     ]
@@ -1929,99 +1929,99 @@ let masters = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/judge.png',
+        cardImg: '../../../assets/cards/2019-2020/judge.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -2035,91 +2035,91 @@ let masters = [
     type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heatran-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ninetales.png',
+        cardImg: '../../../assets/cards/2019-2020/ninetales.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/vulpix.png',
+        cardImg: '../../../assets/cards/2019-2020/vulpix.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapufini.png',
+        cardImg: '../../../assets/cards/2019-2020/tapufini.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/turtonator.png',
+        cardImg: '../../../assets/cards/2019-2020/turtonator.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/12.png'
       }
     ]
@@ -2133,99 +2133,99 @@ let masters = [
     type: 'normal',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/oranguru-resource-manag.png',
+        cardImg: '../../../assets/cards/2019-2020/oranguru-resource-manag.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pidgeotto.png',
+        cardImg: '../../../assets/cards/2019-2020/pidgeotto.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pidgey.png',
+        cardImg: '../../../assets/cards/2019-2020/pidgey.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/girafarig.png',
+        cardImg: '../../../assets/cards/2019-2020/girafarig.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        cardImg: '../../../assets/cards/2019-2020/ditto-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/articuno-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/articuno-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/professor-elm-lecture.png',
+        cardImg: '../../../assets/cards/2019-2020/professor-elm-lecture.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mars.png',
+        cardImg: '../../../assets/cards/2019-2020/mars.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lt-surge.png',
+        cardImg: '../../../assets/cards/2019-2020/lt-surge.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        cardImg: '../../../assets/cards/2019-2020/tate-n-liza.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/brocks-grit.png',
+        cardImg: '../../../assets/cards/2019-2020/brocks-grit.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/crushing-hammer.png',
+        cardImg: '../../../assets/cards/2019-2020/crushing-hammer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/chipchip-ice-axe.png',
+        cardImg: '../../../assets/cards/2019-2020/chipchip-ice-axe.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-water.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-water.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-recycle.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-recycle.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -2239,103 +2239,103 @@ let masters = [
         type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/malamar.png',
+        cardImg: '../../../assets/cards/2019-2020/malamar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/inkay.png',
+        cardImg: '../../../assets/cards/2019-2020/inkay.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giratina-distortion-door.png',
+        cardImg: '../../../assets/cards/2019-2020/giratina-distortion-door.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jynx.png',
+        cardImg: '../../../assets/cards/2019-2020/jynx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/necrozma-ultra.png',
+        cardImg: '../../../assets/cards/2019-2020/necrozma-ultra.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/gengar-mimikyu-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hapu.png',
+        cardImg: '../../../assets/cards/2019-2020/hapu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/erikas-hospitality.png',
+        cardImg: '../../../assets/cards/2019-2020/erikas-hospitality.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/spelltag.png',
+        cardImg: '../../../assets/cards/2019-2020/spelltag.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/07.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-metal.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-metal.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-beast-p.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-beast-p.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -2349,91 +2349,91 @@ let masters = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/sigilyph-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/sigilyph-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/oranguru-resource-manag.png',
+        cardImg: '../../../assets/cards/2019-2020/oranguru-resource-manag.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -2447,123 +2447,123 @@ let masters = [
         type: 'water',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/keldeo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/keldeo-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lugia-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/lugia-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/bronzong-fireproof.png',
+        cardImg: '../../../assets/cards/2019-2020/bronzong-fireproof.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/bronzor.png',
+        cardImg: '../../../assets/cards/2019-2020/bronzor.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ninetales-alolan-fairy.png',
+        cardImg: '../../../assets/cards/2019-2020/ninetales-alolan-fairy.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/vulpix-alolan.png',
+        cardImg: '../../../assets/cards/2019-2020/vulpix-alolan.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/girafarig.png',
+        cardImg: '../../../assets/cards/2019-2020/girafarig.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/wobbufet.png',
+        cardImg: '../../../assets/cards/2019-2020/wobbufet.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        cardImg: '../../../assets/cards/2019-2020/ditto-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/steven-resolve.png',
+        cardImg: '../../../assets/cards/2019-2020/steven-resolve.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lusamine.png',
+        cardImg: '../../../assets/cards/2019-2020/lusamine.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/gardenia.png',
+        cardImg: '../../../assets/cards/2019-2020/gardenia.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lt-surge.png',
+        cardImg: '../../../assets/cards/2019-2020/lt-surge.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/faba.png',
+        cardImg: '../../../assets/cards/2019-2020/faba.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hapu.png',
+        cardImg: '../../../assets/cards/2019-2020/hapu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/grimsley.png',
+        cardImg: '../../../assets/cards/2019-2020/grimsley.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mars.png',
+        cardImg: '../../../assets/cards/2019-2020/mars.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reds-challenge.png',
+        cardImg: '../../../assets/cards/2019-2020/reds-challenge.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        cardImg: '../../../assets/cards/2019-2020/tate-n-liza.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/counter-gain.png',
+        cardImg: '../../../assets/cards/2019-2020/counter-gain.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/blizzard-town.png',
+        cardImg: '../../../assets/cards/2019-2020/blizzard-town.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-water.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-water.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-unit-gwf.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-unit-gwf.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-rainbow.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-rainbow.png',
         numImg: '../../../assets/02.png'
       }
     ]
@@ -2577,83 +2577,83 @@ let masters = [
         type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/blacephalon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/blacephalon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/naganadel.png',
+        cardImg: '../../../assets/cards/2019-2020/naganadel.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/poipole-spit.png',
+        cardImg: '../../../assets/cards/2019-2020/poipole-spit.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/poipole-belt.png',
+        cardImg: '../../../assets/cards/2019-2020/poipole-belt.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        cardImg: '../../../assets/cards/2019-2020/ditto-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/persian-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/persian-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/meowth.png',
+        cardImg: '../../../assets/cards/2019-2020/meowth.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/beast-ring.png',
+        cardImg: '../../../assets/cards/2019-2020/beast-ring.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ultra-space.png',
+        cardImg: '../../../assets/cards/2019-2020/ultra-space.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/15.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-beast-p.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-beast-p.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -2667,83 +2667,83 @@ let masters = [
     type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heatran-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ninetales.png',
+        cardImg: '../../../assets/cards/2019-2020/ninetales.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/vulpix.png',
+        cardImg: '../../../assets/cards/2019-2020/vulpix.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/victini-prism.png',
+        cardImg: '../../../assets/cards/2019-2020/victini-prism.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/turtonator.png',
+        cardImg: '../../../assets/cards/2019-2020/turtonator.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/15.png'
       }
     ]
@@ -2757,79 +2757,79 @@ let masters = [
     type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heatran-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ninetales.png',
+        cardImg: '../../../assets/cards/2019-2020/ninetales.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/vulpix.png',
+        cardImg: '../../../assets/cards/2019-2020/vulpix.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/victini-prism.png',
+        cardImg: '../../../assets/cards/2019-2020/victini-prism.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/turtonator.png',
+        cardImg: '../../../assets/cards/2019-2020/turtonator.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/super-scoop-up.png',
+        cardImg: '../../../assets/cards/2019-2020/super-scoop-up.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/18.png'
       }
     ]
@@ -2843,91 +2843,91 @@ let masters = [
     type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volcanion.png',
+        cardImg: '../../../assets/cards/2019-2020/volcanion.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },      
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+        cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-spinner.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fiery-flint.png',
+        cardImg: '../../../assets/cards/2019-2020/fiery-flint.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/martial-arts-dojo.png',
+        cardImg: '../../../assets/cards/2019-2020/martial-arts-dojo.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+        cardImg: '../../../assets/cards/2019-2020/shrineofpunush.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/10.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fighting.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fighting.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -2941,91 +2941,91 @@ let masters = [
     type: 'fairy',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/gardevoir-sylveon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gardevoir-sylveon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/coach-trainer.png',
+        cardImg: '../../../assets/cards/2019-2020/coach-trainer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/bills-analysis.png',
+        cardImg: '../../../assets/cards/2019-2020/bills-analysis.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/super-scoop-up.png',
+        cardImg: '../../../assets/cards/2019-2020/super-scoop-up.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-spinner.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+        cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-lightning.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-ub.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-ub.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/choice-helmet.png',
+        cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giantbomb.png',
+        cardImg: '../../../assets/cards/2019-2020/giantbomb.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/wondrous-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/wondrous-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fairy.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fairy.png',
         numImg: '../../../assets/09.png'
       }
     ]
@@ -3039,87 +3039,87 @@ let masters = [
         type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/malamar.png',
+        cardImg: '../../../assets/cards/2019-2020/malamar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/inkay.png',
+        cardImg: '../../../assets/cards/2019-2020/inkay.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giratina-distortion-door.png',
+        cardImg: '../../../assets/cards/2019-2020/giratina-distortion-door.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/espurr.png',
+        cardImg: '../../../assets/cards/2019-2020/espurr.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/necrozma-ultra.png',
+        cardImg: '../../../assets/cards/2019-2020/necrozma-ultra.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/gengar-mimikyu-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/erikas-hospitality.png',
+        cardImg: '../../../assets/cards/2019-2020/erikas-hospitality.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/adventure-bag.png',
+        cardImg: '../../../assets/cards/2019-2020/adventure-bag.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/spelltag.png',
+        cardImg: '../../../assets/cards/2019-2020/spelltag.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/07.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-metal.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-metal.png',
         numImg: '../../../assets/02.png'
       }
     ]
@@ -3133,99 +3133,99 @@ let masters = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/oranguru-resource-manag.png',
+        cardImg: '../../../assets/cards/2019-2020/oranguru-resource-manag.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/judge.png',
+        cardImg: '../../../assets/cards/2019-2020/judge.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -3239,83 +3239,83 @@ let masters = [
     type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/malamar.png',
+        cardImg: '../../../assets/cards/2019-2020/malamar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/inkay.png',
+        cardImg: '../../../assets/cards/2019-2020/inkay.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giratina-distortion-door.png',
+        cardImg: '../../../assets/cards/2019-2020/giratina-distortion-door.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/espurr.png',
+        cardImg: '../../../assets/cards/2019-2020/espurr.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mimikyu.png',
+        cardImg: '../../../assets/cards/2019-2020/mimikyu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/deoxys-espeon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/spelltag.png',
+        cardImg: '../../../assets/cards/2019-2020/spelltag.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/09.png'
       },
     ]
@@ -3329,99 +3329,99 @@ let masters = [
     type: 'normal',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/oranguru-resource-manag.png',
+        cardImg: '../../../assets/cards/2019-2020/oranguru-resource-manag.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pidgeotto.png',
+        cardImg: '../../../assets/cards/2019-2020/pidgeotto.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pidgey.png',
+        cardImg: '../../../assets/cards/2019-2020/pidgey.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/girafarig.png',
+        cardImg: '../../../assets/cards/2019-2020/girafarig.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        cardImg: '../../../assets/cards/2019-2020/ditto-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/articuno-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/articuno-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/professor-elm-lecture.png',
+        cardImg: '../../../assets/cards/2019-2020/professor-elm-lecture.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mars.png',
+        cardImg: '../../../assets/cards/2019-2020/mars.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lt-surge.png',
+        cardImg: '../../../assets/cards/2019-2020/lt-surge.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        cardImg: '../../../assets/cards/2019-2020/tate-n-liza.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/brocks-grit.png',
+        cardImg: '../../../assets/cards/2019-2020/brocks-grit.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/crushing-hammer.png',
+        cardImg: '../../../assets/cards/2019-2020/crushing-hammer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/chipchip-ice-axe.png',
+        cardImg: '../../../assets/cards/2019-2020/chipchip-ice-axe.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-water.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-water.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-recycle.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-recycle.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -3435,83 +3435,83 @@ let masters = [
     type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/malamar.png',
+        cardImg: '../../../assets/cards/2019-2020/malamar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/inkay.png',
+        cardImg: '../../../assets/cards/2019-2020/inkay.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giratina-distortion-door.png',
+        cardImg: '../../../assets/cards/2019-2020/giratina-distortion-door.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        cardImg: '../../../assets/cards/2019-2020/ditto-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/necrozma-ultra.png',
+        cardImg: '../../../assets/cards/2019-2020/necrozma-ultra.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/gengar-mimikyu-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/erikas-hospitality.png',
+        cardImg: '../../../assets/cards/2019-2020/erikas-hospitality.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/07.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-metal.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-metal.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-beast-p.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-beast-p.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -3525,103 +3525,103 @@ let masters = [
         type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/sigilyph-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/sigilyph-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zapdos.png',
+        cardImg: '../../../assets/cards/2019-2020/zapdos.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cyrus-p.png',
+        cardImg: '../../../assets/cards/2019-2020/cyrus-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -3635,87 +3635,87 @@ let masters = [
         type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/blacephalon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/blacephalon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volcanion.png',
+        cardImg: '../../../assets/cards/2019-2020/volcanion.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/beast-ring.png',
+        cardImg: '../../../assets/cards/2019-2020/beast-ring.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fiery-flint.png',
+        cardImg: '../../../assets/cards/2019-2020/fiery-flint.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/15.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-beast-p.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-beast-p.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -3729,87 +3729,87 @@ let masters = [
     type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heatran-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ninetales.png',
+        cardImg: '../../../assets/cards/2019-2020/ninetales.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/vulpix.png',
+        cardImg: '../../../assets/cards/2019-2020/vulpix.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/victini-prism.png',
+        cardImg: '../../../assets/cards/2019-2020/victini-prism.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/turtonator.png',
+        cardImg: '../../../assets/cards/2019-2020/turtonator.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/12.png'
       }
     ]
@@ -3823,83 +3823,83 @@ let masters = [
     type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heatran-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ninetales.png',
+        cardImg: '../../../assets/cards/2019-2020/ninetales.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/vulpix.png',
+        cardImg: '../../../assets/cards/2019-2020/vulpix.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/victini-prism.png',
+        cardImg: '../../../assets/cards/2019-2020/victini-prism.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/turtonator.png',
+        cardImg: '../../../assets/cards/2019-2020/turtonator.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/15.png'
       }
     ]
@@ -3913,103 +3913,103 @@ let masters = [
     type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/solgaleo-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/latios-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/latios-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/deoxys-espeon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
+        cardImg: '../../../assets/cards/2019-2020/naganadel-gx-dragon.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dargonite-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dargonite-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greninja-gx-detective-pikachu.png',
+        cardImg: '../../../assets/cards/2019-2020/greninja-gx-detective-pikachu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/marshadow.png',
+        cardImg: '../../../assets/cards/2019-2020/marshadow.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/coach-trainer.png',
+        cardImg: '../../../assets/cards/2019-2020/coach-trainer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/07.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-rainbow.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-rainbow.png',
         numImg: '../../../assets/04.png'
       }
     ]
@@ -4023,95 +4023,95 @@ let masters = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/judge.png',
+        cardImg: '../../../assets/cards/2019-2020/judge.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/choice-helmet.png',
+        cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -4125,99 +4125,99 @@ let masters = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/judge.png',
+        cardImg: '../../../assets/cards/2019-2020/judge.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -4231,103 +4231,103 @@ let masters = [
         type: 'fairy',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/gardevoir-sylveon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gardevoir-sylveon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lugia-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/lugia-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mismagius.png',
+        cardImg: '../../../assets/cards/2019-2020/mismagius.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/misdrevous.png',
+        cardImg: '../../../assets/cards/2019-2020/misdrevous.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/bills-analysis.png',
+        cardImg: '../../../assets/cards/2019-2020/bills-analysis.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lusamine.png',
+        cardImg: '../../../assets/cards/2019-2020/lusamine.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mina.png',
+        cardImg: '../../../assets/cards/2019-2020/mina.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+        cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/super-scoop-up.png',
+        cardImg: '../../../assets/cards/2019-2020/super-scoop-up.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dusk-stone.png',
+        cardImg: '../../../assets/cards/2019-2020/dusk-stone.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-lightning.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-ub.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-ub.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/wondrous-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/wondrous-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fairy.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fairy.png',
         numImg: '../../../assets/09.png'
       }
     ]
@@ -4350,83 +4350,83 @@ let masters = [
         type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heatran-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/blacephalon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/blacephalon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hapu.png',
+        cardImg: '../../../assets/cards/2019-2020/hapu.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/erikas-hospitality.png',
+        cardImg: '../../../assets/cards/2019-2020/erikas-hospitality.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/12.png'
       }
     ]
@@ -4440,99 +4440,99 @@ let masters = [
         type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/malamar.png',
+        cardImg: '../../../assets/cards/2019-2020/malamar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/inkay.png',
+        cardImg: '../../../assets/cards/2019-2020/inkay.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giratina-distortion-door.png',
+        cardImg: '../../../assets/cards/2019-2020/giratina-distortion-door.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/sableye.png',
+        cardImg: '../../../assets/cards/2019-2020/sableye.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/espurr.png',
+        cardImg: '../../../assets/cards/2019-2020/espurr.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giratina-garchomp-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/giratina-garchomp-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/gengar-mimikyu-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/deoxys-espeon-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/erikas-hospitality.png',
+        cardImg: '../../../assets/cards/2019-2020/erikas-hospitality.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+        cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/spelltag.png',
+        cardImg: '../../../assets/cards/2019-2020/spelltag.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/06.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fighting.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fighting.png',
         numImg: '../../../assets/02.png'
       }
     ]
@@ -4546,79 +4546,79 @@ let masters = [
         type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/blacephalon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/blacephalon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/persian-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/persian-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/meowth.png',
+        cardImg: '../../../assets/cards/2019-2020/meowth.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lt-surge.png',
+        cardImg: '../../../assets/cards/2019-2020/lt-surge.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/beast-ring.png',
+        cardImg: '../../../assets/cards/2019-2020/beast-ring.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/15.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-beast-p.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-beast-p.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -4632,112 +4632,112 @@ let masters = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/necrozma-dawn-wings.png',
+        cardImg: '../../../assets/cards/2019-2020/necrozma-dawn-wings.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zapdos.png',
+        cardImg: '../../../assets/cards/2019-2020/zapdos.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/elektross.png',
+        cardImg: '../../../assets/cards/2019-2020/elektross.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cyrus-p.png',
+        cardImg: '../../../assets/cards/2019-2020/cyrus-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/03.png'
       },
       
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -4751,87 +4751,87 @@ let masters = [
         type: 'psychic',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/gengar-mimikyu-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gengar-mimikyu-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/omastar.png',
+        cardImg: '../../../assets/cards/2019-2020/omastar.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/coach-trainer.png',
+        cardImg: '../../../assets/cards/2019-2020/coach-trainer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/bills-analysis.png',
+        cardImg: '../../../assets/cards/2019-2020/bills-analysis.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/surprise-box.png',
+        cardImg: '../../../assets/cards/2019-2020/surprise-box.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+        cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/unid-fossil.png',
+        cardImg: '../../../assets/cards/2019-2020/unid-fossil.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-spinner.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/rare-candy.png',
+        cardImg: '../../../assets/cards/2019-2020/rare-candy.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/peeking-red-card.png',
+        cardImg: '../../../assets/cards/2019-2020/peeking-red-card.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/choice-helmet.png',
+        cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
         numImg: '../../../assets/07.png'
       }
     ]
@@ -4845,79 +4845,79 @@ let masters = [
     type: 'fairy',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/gardevoir-sylveon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gardevoir-sylveon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/xerneas-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/xerneas-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/coach-trainer.png',
+        cardImg: '../../../assets/cards/2019-2020/coach-trainer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-spinner.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/choice-helmet.png',
+        cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-lightning.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-psychic.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-ub.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-ub.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fairy.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fairy.png',
         numImg: '../../../assets/10.png'
       }
     ]
@@ -4940,87 +4940,87 @@ let masters = [
     type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/blacephalon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/blacephalon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/persian-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/persian-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/meowth.png',
+        cardImg: '../../../assets/cards/2019-2020/meowth.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lt-surge.png',
+        cardImg: '../../../assets/cards/2019-2020/lt-surge.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/beast-ring.png',
+        cardImg: '../../../assets/cards/2019-2020/beast-ring.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/giant-hearth.png',
+        cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/15.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-beast-p.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-beast-p.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -5034,94 +5034,94 @@ let masters = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zapdos.png',
+        cardImg: '../../../assets/cards/2019-2020/zapdos.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/02.png'
       },
-      {  cardImg: '../../../assets/cards/2019/erikas-hospitality.png',
+      {  cardImg: '../../../assets/cards/2019-2020/erikas-hospitality.png',
       numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-      cardImg: '../../../assets/cards/2019/tag-switch.png',
+      cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
       numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -5135,91 +5135,91 @@ let masters = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zapdos.png',
+        cardImg: '../../../assets/cards/2019-2020/zapdos.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/04.png'
       },
       {  
-        cardImg: '../../../assets/cards/2019/erikas-hospitality.png',
+        cardImg: '../../../assets/cards/2019-2020/erikas-hospitality.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
         },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/12.png'
       }
     ]
@@ -5233,87 +5233,87 @@ let masters = [
     type: 'fairy',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/gardevoir-sylveon-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/gardevoir-sylveon-gx.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/xerneas-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/xerneas-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/coach-trainer.png',
+        cardImg: '../../../assets/cards/2019-2020/coach-trainer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/bills-analysis.png',
+        cardImg: '../../../assets/cards/2019-2020/bills-analysis.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mina.png',
+        cardImg: '../../../assets/cards/2019-2020/mina.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-spinner.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/choice-helmet.png',
+        cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-lightning.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-psychic.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-psychic.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fairy-charm-ub.png',
+        cardImg: '../../../assets/cards/2019-2020/fairy-charm-ub.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/wondrous-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/wondrous-lab.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fairy.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fairy.png',
         numImg: '../../../assets/10.png'
       }
     ]
@@ -5327,83 +5327,83 @@ let masters = [
     type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volcanion.png',
+        cardImg: '../../../assets/cards/2019-2020/volcanion.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/welder.png',
+        cardImg: '../../../assets/cards/2019-2020/welder.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greens-exploration.png',
+        cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
         numImg: '../../../assets/04.png'
       },      
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+        cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fire-crystal.png',
+        cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-spinner.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fiery-flint.png',
+        cardImg: '../../../assets/cards/2019-2020/fiery-flint.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+        cardImg: '../../../assets/cards/2019-2020/shrineofpunush.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/heat-factory.png',
+        cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fire.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
         numImg: '../../../assets/10.png'
       },
       {
@@ -5439,123 +5439,123 @@ let masters = [
         type: 'grass',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/rowlett-exeggcutor-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/rowlett-exeggcutor-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/shaymin.png',
+        cardImg: '../../../assets/cards/2019-2020/shaymin.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/leavanny.png',
+        cardImg: '../../../assets/cards/2019-2020/leavanny.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/swadloon.png',
+        cardImg: '../../../assets/cards/2019-2020/swadloon.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/sewaddle.png',
+        cardImg: '../../../assets/cards/2019-2020/sewaddle.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/araquanid.png',
+        cardImg: '../../../assets/cards/2019-2020/araquanid.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dewpider-gnaw.png',
+        cardImg: '../../../assets/cards/2019-2020/dewpider-gnaw.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dewpider-bubble.png',
+        cardImg: '../../../assets/cards/2019-2020/dewpider-bubble.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/munchlax.png',
+        cardImg: '../../../assets/cards/2019-2020/munchlax.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/latios-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/latios-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/steven-resolve.png',
+        cardImg: '../../../assets/cards/2019-2020/steven-resolve.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/bills-analysis.png',
+        cardImg: '../../../assets/cards/2019-2020/bills-analysis.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-fan-club.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-fan-club.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/gardenia.png',
+        cardImg: '../../../assets/cards/2019-2020/gardenia.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lusamine.png',
+        cardImg: '../../../assets/cards/2019-2020/lusamine.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/faba.png',
+        cardImg: '../../../assets/cards/2019-2020/faba.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mars.png',
+        cardImg: '../../../assets/cards/2019-2020/mars.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        cardImg: '../../../assets/cards/2019-2020/tate-n-liza.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/blues-tactics.png',
+        cardImg: '../../../assets/cards/2019-2020/blues-tactics.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/great-potion.png',
+        cardImg: '../../../assets/cards/2019-2020/great-potion.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/net-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/net-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/choice-helmet.png',
+        cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/life-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/life-forest.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-grass.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-grass.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-rainbow.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-rainbow.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-memory.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-memory.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -5569,84 +5569,84 @@ let masters = [
         type: 'water',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/blastoise-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/blastoise-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/blastoise.png',
+        cardImg: '../../../assets/cards/2019-2020/blastoise.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/squirtle.png',
+        cardImg: '../../../assets/cards/2019-2020/squirtle.png',
         numImg: '../../../assets/04.png'
       },
       
       {
-        cardImg: '../../../assets/cards/2019/volcanion-p.png',
+        cardImg: '../../../assets/cards/2019-2020/volcanion-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/keldeo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/keldeo-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/greninja-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/greninja-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/kingdra-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/kingdra-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/solgaleo-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-gx.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/crasher-wake.png',
+        cardImg: '../../../assets/cards/2019-2020/crasher-wake.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/rare-candy.png',
+        cardImg: '../../../assets/cards/2019-2020/rare-candy.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-recycler.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-recycler.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-water.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-water.png',
         numImg: '../../../assets/12.png'
       }
     ]
@@ -5660,107 +5660,107 @@ let masters = [
         type: 'fighting',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+        cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/rampardos.png',
+        cardImg: '../../../assets/cards/2019-2020/rampardos.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cranidos.png',
+        cardImg: '../../../assets/cards/2019-2020/cranidos.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/omastar.png',
+        cardImg: '../../../assets/cards/2019-2020/omastar.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/omanyte.png',
+        cardImg: '../../../assets/cards/2019-2020/omanyte.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/carracosta.png',
+        cardImg: '../../../assets/cards/2019-2020/carracosta.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tirtouga.png',
+        cardImg: '../../../assets/cards/2019-2020/tirtouga.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/aerodactyl.png',
+        cardImg: '../../../assets/cards/2019-2020/aerodactyl.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/bills-analysis.png',
+        cardImg: '../../../assets/cards/2019-2020/bills-analysis.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/brocks-grit.png',
+        cardImg: '../../../assets/cards/2019-2020/brocks-grit.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reds-challenge.png',
+        cardImg: '../../../assets/cards/2019-2020/reds-challenge.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/unid-fossil.png',
+        cardImg: '../../../assets/cards/2019-2020/unid-fossil.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/rare-candy.png',
+        cardImg: '../../../assets/cards/2019-2020/rare-candy.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/fossil-excavation-map.png',
+        cardImg: '../../../assets/cards/2019-2020/fossil-excavation-map.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/research-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/research-lab.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/martial-arts-dojo.png',
+        cardImg: '../../../assets/cards/2019-2020/martial-arts-dojo.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/escapeboard.png',
+        cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/karate-belt.png',
+        cardImg: '../../../assets/cards/2019-2020/karate-belt.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-fighting.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-fighting.png',
         numImg: '../../../assets/09.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-super-boost.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-super-boost.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -5774,99 +5774,99 @@ let masters = [
     type: 'normal',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/oranguru-resource-manag.png',
+        cardImg: '../../../assets/cards/2019-2020/oranguru-resource-manag.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pidgeotto.png',
+        cardImg: '../../../assets/cards/2019-2020/pidgeotto.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pidgey.png',
+        cardImg: '../../../assets/cards/2019-2020/pidgey.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/girafarig.png',
+        cardImg: '../../../assets/cards/2019-2020/girafarig.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ditto-p.png',
+        cardImg: '../../../assets/cards/2019-2020/ditto-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/articuno-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/articuno-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/professor-elm-lecture.png',
+        cardImg: '../../../assets/cards/2019-2020/professor-elm-lecture.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mars.png',
+        cardImg: '../../../assets/cards/2019-2020/mars.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lt-surge.png',
+        cardImg: '../../../assets/cards/2019-2020/lt-surge.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        cardImg: '../../../assets/cards/2019-2020/tate-n-liza.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/brocks-grit.png',
+        cardImg: '../../../assets/cards/2019-2020/brocks-grit.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokegear.png',
+        cardImg: '../../../assets/cards/2019-2020/pokegear.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/crushing-hammer.png',
+        cardImg: '../../../assets/cards/2019-2020/crushing-hammer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/chipchip-ice-axe.png',
+        cardImg: '../../../assets/cards/2019-2020/chipchip-ice-axe.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/palpad.png',
+        cardImg: '../../../assets/cards/2019-2020/palpad.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/power-plant.png',
+        cardImg: '../../../assets/cards/2019-2020/power-plant.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-water.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-water.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-recycle.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-recycle.png',
         numImg: '../../../assets/01.png'
       }
     ]
@@ -5880,95 +5880,95 @@ let masters = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zapdos.png',
+        cardImg: '../../../assets/cards/2019-2020/zapdos.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/elektross.png',
+        cardImg: '../../../assets/cards/2019-2020/elektross.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/erikas-hospitality.png',
+        cardImg: '../../../assets/cards/2019-2020/erikas-hospitality.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/switch.png',
+        cardImg: '../../../assets/cards/2019-2020/switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/11.png'
       }
     ]
@@ -5985,79 +5985,79 @@ let seniors = [
       type: 'fire',
       deck: [
         {
-          cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/heatran-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+          cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/ninetales.png',
+          cardImg: '../../../assets/cards/2019-2020/ninetales.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/vulpix.png',
+          cardImg: '../../../assets/cards/2019-2020/vulpix.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/victini-prism.png',
+          cardImg: '../../../assets/cards/2019-2020/victini-prism.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/turtonator.png',
+          cardImg: '../../../assets/cards/2019-2020/turtonator.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/welder.png',
+          cardImg: '../../../assets/cards/2019-2020/welder.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/cherish-ball.png',
+          cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/acro-bike.png',
+          cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+          cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/switch.png',
+          cardImg: '../../../assets/cards/2019-2020/switch.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/fiery-flint.png',
+          cardImg: '../../../assets/cards/2019-2020/fiery-flint.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/palpad.png',
+          cardImg: '../../../assets/cards/2019-2020/palpad.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/escapeboard.png',
+          cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/giant-hearth.png',
+          cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/heat-factory.png',
+          cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/energy-fire.png',
+          cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
           numImg: '../../../assets/18.png'
         }
       ]
@@ -6071,91 +6071,91 @@ let seniors = [
         type: 'fairy',
         deck: [
           {
-            cardImg: '../../../assets/cards/2019/gardevoir-sylveon-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/gardevoir-sylveon-gx.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/coach-trainer.png',
+            cardImg: '../../../assets/cards/2019-2020/coach-trainer.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/greens-exploration.png',
+            cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/bills-analysis.png',
+            cardImg: '../../../assets/cards/2019-2020/bills-analysis.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/cynthia.png',
+            cardImg: '../../../assets/cards/2019-2020/cynthia.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/custom-catcher.png',
+            cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/pokegear.png',
+            cardImg: '../../../assets/cards/2019-2020/pokegear.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/great-potion.png',
+            cardImg: '../../../assets/cards/2019-2020/great-potion.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/super-scoop-up.png',
+            cardImg: '../../../assets/cards/2019-2020/super-scoop-up.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/cherish-ball.png',
+            cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/tag-switch.png',
+            cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/switch.png',
+            cardImg: '../../../assets/cards/2019-2020/switch.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/reset-stamp.png',
+            cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/energy-spinner.png',
+            cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/fairy-charm-lightning.png',
+            cardImg: '../../../assets/cards/2019-2020/fairy-charm-lightning.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/fairy-charm-ub.png',
+            cardImg: '../../../assets/cards/2019-2020/fairy-charm-ub.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/fairy-charm-dragon.png',
+            cardImg: '../../../assets/cards/2019-2020/fairy-charm-dragon.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/choice-helmet.png',
+            cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/giantbomb.png',
+            cardImg: '../../../assets/cards/2019-2020/giantbomb.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/power-plant.png',
+            cardImg: '../../../assets/cards/2019-2020/power-plant.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/wondrous-lab.png',
+            cardImg: '../../../assets/cards/2019-2020/wondrous-lab.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/energy-fairy.png',
+            cardImg: '../../../assets/cards/2019-2020/energy-fairy.png',
             numImg: '../../../assets/09.png'
           }
         ]
@@ -6169,103 +6169,103 @@ let seniors = [
         type: 'psychic',
         deck: [
           {
-            cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+            cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/solgaleo-gx.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/deoxys-espeon-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
+            cardImg: '../../../assets/cards/2019-2020/naganadel-gx-dragon.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/cobalion-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/cobalion-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/latios-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/latios-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/dargonite-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/dargonite-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/jirachi-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/marshadow.png',
+            cardImg: '../../../assets/cards/2019-2020/marshadow.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/welder.png',
+            cardImg: '../../../assets/cards/2019-2020/welder.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/sightseer.png',
+            cardImg: '../../../assets/cards/2019-2020/sightseer.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/bills-analysis.png',
+            cardImg: '../../../assets/cards/2019-2020/bills-analysis.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/faba.png',
+            cardImg: '../../../assets/cards/2019-2020/faba.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/judge.png',
+            cardImg: '../../../assets/cards/2019-2020/judge.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/cherish-ball.png',
+            cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/pokegear.png',
+            cardImg: '../../../assets/cards/2019-2020/pokegear.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/super-scoop-up.png',
+            cardImg: '../../../assets/cards/2019-2020/super-scoop-up.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+            cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/palpad.png',
+            cardImg: '../../../assets/cards/2019-2020/palpad.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/giant-hearth.png',
+            cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/heat-factory.png',
+            cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/energy-fire.png',
+            cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
             numImg: '../../../assets/09.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/unit-energy-lm.png',
+            cardImg: '../../../assets/cards/2019-2020/unit-energy-lm.png',
             numImg: '../../../assets/04.png'
           }
         ]
@@ -6279,103 +6279,103 @@ let seniors = [
         type: 'lightning',
         deck: [
           {
-            cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+            cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+            cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/tapufini.png',
+            cardImg: '../../../assets/cards/2019-2020/tapufini.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+            cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/zapdos.png',
+            cardImg: '../../../assets/cards/2019-2020/zapdos.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/cynthia.png',
+            cardImg: '../../../assets/cards/2019-2020/cynthia.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/volkner.png',
+            cardImg: '../../../assets/cards/2019-2020/volkner.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/lillie.png',
+            cardImg: '../../../assets/cards/2019-2020/lillie.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/custom-catcher.png',
+            cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/electropower.png',
+            cardImg: '../../../assets/cards/2019-2020/electropower.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+            cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/energy-switch.png',
+            cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+            cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/reset-stamp.png',
+            cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/super-scoop-up.png',
+            cardImg: '../../../assets/cards/2019-2020/super-scoop-up.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/tag-switch.png',
+            cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/stadiumnav.png',
+            cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/cherish-ball.png',
+            cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/switch.png',
+            cardImg: '../../../assets/cards/2019-2020/switch.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+            cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+            cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/energy-lightning.png',
+            cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
             numImg: '../../../assets/11.png'
           }
         ]
@@ -6389,87 +6389,87 @@ let seniors = [
         type: 'fire',
         deck: [
           {
-            cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/volcanion.png',
+            cardImg: '../../../assets/cards/2019-2020/volcanion.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/welder.png',
+            cardImg: '../../../assets/cards/2019-2020/welder.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/greens-exploration.png',
+            cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/lysandre-p.png',
+            cardImg: '../../../assets/cards/2019-2020/lysandre-p.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/custom-catcher.png',
+            cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/acro-bike.png',
+            cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+            cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/pokegear.png',
+            cardImg: '../../../assets/cards/2019-2020/pokegear.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/great-potion.png',
+            cardImg: '../../../assets/cards/2019-2020/great-potion.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/fire-crystal.png',
+            cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/cherish-ball.png',
+            cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/fiery-flint.png',
+            cardImg: '../../../assets/cards/2019-2020/fiery-flint.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/reset-stamp.png',
+            cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/switch.png',
+            cardImg: '../../../assets/cards/2019-2020/switch.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/choice-helmet.png',
+            cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+            cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/power-plant.png',
+            cardImg: '../../../assets/cards/2019-2020/power-plant.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+            cardImg: '../../../assets/cards/2019-2020/shrineofpunush.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/heat-factory.png',
+            cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/energy-fire.png',
+            cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
             numImg: '../../../assets/11.png'
           }
         ]
@@ -6483,99 +6483,99 @@ let seniors = [
         type: 'lightning',
         deck: [
       {
-        cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+        cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/necrozma-dawn-wings.png',
+        cardImg: '../../../assets/cards/2019-2020/necrozma-dawn-wings.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+        cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/zapdos.png',
+        cardImg: '../../../assets/cards/2019-2020/zapdos.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+        cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/mew.png',
+        cardImg: '../../../assets/cards/2019-2020/mew.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volkner.png',
+        cardImg: '../../../assets/cards/2019-2020/volkner.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electropower.png',
+        cardImg: '../../../assets/cards/2019-2020/electropower.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+        cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cherish-ball.png',
+        cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tag-switch.png',
+        cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/stadiumnav.png',
+        cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+        cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+        cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-lightning.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
         numImg: '../../../assets/12.png'
       }
         ]
@@ -6589,107 +6589,107 @@ let seniors = [
         type: 'psychic',
         deck: [
           {
-            cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+            cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/solgaleo-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/deoxys-espeon-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
+            cardImg: '../../../assets/cards/2019-2020/naganadel-gx-dragon.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/latios-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/latios-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/jirachi-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/dargonite-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/dargonite-gx.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/marshadow.png',
+            cardImg: '../../../assets/cards/2019-2020/marshadow.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/mew.png',
+            cardImg: '../../../assets/cards/2019-2020/mew.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/tapufini.png',
+            cardImg: '../../../assets/cards/2019-2020/tapufini.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/wobbufet.png',
+            cardImg: '../../../assets/cards/2019-2020/wobbufet.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/welder.png',
+            cardImg: '../../../assets/cards/2019-2020/welder.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/lillie.png',
+            cardImg: '../../../assets/cards/2019-2020/lillie.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/cherish-ball.png',
+            cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/custom-catcher.png',
+            cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+            cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/acro-bike.png',
+            cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/switch.png',
+            cardImg: '../../../assets/cards/2019-2020/switch.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/reset-stamp.png',
+            cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/fire-crystal.png',
+            cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/viridian-forest.png',
+            cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/escapeboard.png',
+            cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/energy-fire.png',
+            cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
             numImg: '../../../assets/08.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/energy-psychic.png',
+            cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
             numImg: '../../../assets/04.png'
           }
         ]
@@ -6703,83 +6703,83 @@ let seniors = [
         type: 'fire',
         deck: [
           {
-            cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+            cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/volcanion.png',
+            cardImg: '../../../assets/cards/2019-2020/volcanion.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/welder.png',
+            cardImg: '../../../assets/cards/2019-2020/welder.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/greens-exploration.png',
+            cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/custom-catcher.png',
+            cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/acro-bike.png',
+            cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+            cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/pokegear.png',
+            cardImg: '../../../assets/cards/2019-2020/pokegear.png',
             numImg: '../../../assets/04.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/great-potion.png',
+            cardImg: '../../../assets/cards/2019-2020/great-potion.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/fire-crystal.png',
+            cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
             numImg: '../../../assets/03.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/cherish-ball.png',
+            cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/fiery-flint.png',
+            cardImg: '../../../assets/cards/2019-2020/fiery-flint.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/reset-stamp.png',
+            cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
             numImg: '../../../assets/02.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/switch.png',
+            cardImg: '../../../assets/cards/2019-2020/switch.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/choice-helmet.png',
+            cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+            cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/power-plant.png',
+            cardImg: '../../../assets/cards/2019-2020/power-plant.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+            cardImg: '../../../assets/cards/2019-2020/shrineofpunush.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/heat-factory.png',
+            cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
             numImg: '../../../assets/01.png'
           },
           {
-            cardImg: '../../../assets/cards/2019/energy-fire.png',
+            cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
             numImg: '../../../assets/11.png'
           }
         ]
@@ -6796,107 +6796,107 @@ let juniors = [
       type: 'lightning',
       deck: [
     {
-      cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+      cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+      cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+      cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+      cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+      cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+      cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/mew.png',
+      cardImg: '../../../assets/cards/2019-2020/mew.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/tapufini.png',
+      cardImg: '../../../assets/cards/2019-2020/tapufini.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/marshadow.png',
+      cardImg: '../../../assets/cards/2019-2020/marshadow.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/volkner.png',
+      cardImg: '../../../assets/cards/2019-2020/volkner.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/judge.png',
+      cardImg: '../../../assets/cards/2019-2020/judge.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/cynthia.png',
+      cardImg: '../../../assets/cards/2019-2020/cynthia.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/custom-catcher.png',
+      cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/electropower.png',
+      cardImg: '../../../assets/cards/2019-2020/electropower.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+      cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/energy-switch.png',
+      cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+      cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/cherish-ball.png',
+      cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/tag-switch.png',
+      cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/reset-stamp.png',
+      cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/stadiumnav.png',
+      cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/switch.png',
+      cardImg: '../../../assets/cards/2019-2020/switch.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+      cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/power-plant.png',
+      cardImg: '../../../assets/cards/2019-2020/power-plant.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+      cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/energy-lightning.png',
+      cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
       numImg: '../../../assets/11.png'
     }
       ]
@@ -6910,79 +6910,79 @@ let juniors = [
       type: 'fire',
       deck: [
         {
-          cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/volcanion.png',
+          cardImg: '../../../assets/cards/2019-2020/volcanion.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/welder.png',
+          cardImg: '../../../assets/cards/2019-2020/welder.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/greens-exploration.png',
+          cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/custom-catcher.png',
+          cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/acro-bike.png',
+          cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+          cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/pokegear.png',
+          cardImg: '../../../assets/cards/2019-2020/pokegear.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/great-potion.png',
+          cardImg: '../../../assets/cards/2019-2020/great-potion.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/fire-crystal.png',
+          cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/cherish-ball.png',
+          cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/fiery-flint.png',
+          cardImg: '../../../assets/cards/2019-2020/fiery-flint.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/reset-stamp.png',
+          cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/switch.png',
+          cardImg: '../../../assets/cards/2019-2020/switch.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/choice-helmet.png',
+          cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/power-plant.png',
+          cardImg: '../../../assets/cards/2019-2020/power-plant.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+          cardImg: '../../../assets/cards/2019-2020/shrineofpunush.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/heat-factory.png',
+          cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/energy-fire.png',
+          cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
           numImg: '../../../assets/11.png'
         }
       ]
@@ -6996,83 +6996,83 @@ let juniors = [
       type: 'fire',
       deck: [
         {
-          cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/volcanion.png',
+          cardImg: '../../../assets/cards/2019-2020/volcanion.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/welder.png',
+          cardImg: '../../../assets/cards/2019-2020/welder.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/greens-exploration.png',
+          cardImg: '../../../assets/cards/2019-2020/greens-exploration.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/custom-catcher.png',
+          cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/acro-bike.png',
+          cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/mixed-herbs.png',
+          cardImg: '../../../assets/cards/2019-2020/mixed-herbs.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/pokegear.png',
+          cardImg: '../../../assets/cards/2019-2020/pokegear.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/fire-crystal.png',
+          cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/cherish-ball.png',
+          cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/great-potion.png',
+          cardImg: '../../../assets/cards/2019-2020/great-potion.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/reset-stamp.png',
+          cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/switch.png',
+          cardImg: '../../../assets/cards/2019-2020/switch.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/fiery-flint.png',
+          cardImg: '../../../assets/cards/2019-2020/fiery-flint.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/energy-spinner.png',
+          cardImg: '../../../assets/cards/2019-2020/energy-spinner.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/choice-helmet.png',
+          cardImg: '../../../assets/cards/2019-2020/choice-helmet.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/power-plant.png',
+          cardImg: '../../../assets/cards/2019-2020/power-plant.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/shrineofpunush.png',
+          cardImg: '../../../assets/cards/2019-2020/shrineofpunush.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/heat-factory.png',
+          cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/energy-fire.png',
+          cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
           numImg: '../../../assets/11.png'
         }
       ]
@@ -7086,103 +7086,103 @@ let juniors = [
       type: 'psychic',
       deck: [
         {
-          cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+          cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/solgaleo-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/deoxys-espeon-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/naganadel-gx-dragon.png',
+          cardImg: '../../../assets/cards/2019-2020/naganadel-gx-dragon.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/latios-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/latios-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/jirachi-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/dargonite-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/dargonite-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/muk-alolan-muk-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/muk-alolan-muk-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+          cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/mewtwo.png',
+          cardImg: '../../../assets/cards/2019-2020/mewtwo.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/welder.png',
+          cardImg: '../../../assets/cards/2019-2020/welder.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/judge.png',
+          cardImg: '../../../assets/cards/2019-2020/judge.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/cherish-ball.png',
+          cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/acro-bike.png',
+          cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/switch.png',
+          cardImg: '../../../assets/cards/2019-2020/switch.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/mysterious-treasure.png',
+          cardImg: '../../../assets/cards/2019-2020/mysterious-treasure.png',
           numImg: '../../../assets/02.png'
         }, 
         {
-          cardImg: '../../../assets/cards/2019/energy-recycler.png',
+          cardImg: '../../../assets/cards/2019-2020/energy-recycler.png',
           numImg: '../../../assets/02.png'
         }, 
         {
-          cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+          cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
           numImg: '../../../assets/02.png'
         }, 
         {
-          cardImg: '../../../assets/cards/2019/reset-stamp.png',
+          cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/escapeboard.png',
+          cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/giant-hearth.png',
+          cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/energy-fire.png',
+          cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
           numImg: '../../../assets/08.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/energy-psychic.png',
+          cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
           numImg: '../../../assets/04.png'
         }
       ]
@@ -7196,99 +7196,99 @@ let juniors = [
       type: 'lightning',
       deck: [
     {
-      cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+      cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+      cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+      cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+      cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+      cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/necrozma-dawn-wings.png',
+      cardImg: '../../../assets/cards/2019-2020/necrozma-dawn-wings.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+      cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/zapdos.png',
+      cardImg: '../../../assets/cards/2019-2020/zapdos.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/volkner.png',
+      cardImg: '../../../assets/cards/2019-2020/volkner.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/lillie.png',
+      cardImg: '../../../assets/cards/2019-2020/lillie.png',
       numImg: '../../../assets/03.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/cynthia.png',
+      cardImg: '../../../assets/cards/2019-2020/cynthia.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/erikas-hospitality.png',
+      cardImg: '../../../assets/cards/2019-2020/erikas-hospitality.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/custom-catcher.png',
+      cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/electropower.png',
+      cardImg: '../../../assets/cards/2019-2020/electropower.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+      cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
       numImg: '../../../assets/03.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/energy-switch.png',
+      cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
       numImg: '../../../assets/03.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+      cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/cherish-ball.png',
+      cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/reset-stamp.png',
+      cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/tag-switch.png',
+      cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/stadiumnav.png',
+      cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+      cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
       numImg: '../../../assets/03.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+      cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/energy-lightning.png',
+      cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
       numImg: '../../../assets/11.png'
     }
       ]
@@ -7302,104 +7302,104 @@ let juniors = [
       type: 'lightning',
       deck: [
     {
-      cardImg: '../../../assets/cards/2019/pikachu-zekrom-gx.png',
+      cardImg: '../../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/raichu-alolan-raichu.png',
+      cardImg: '../../../assets/cards/2019-2020/raichu-alolan-raichu.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+      cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
       numImg: '../../../assets/03.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/zeraora-gx.png',
+      cardImg: '../../../assets/cards/2019-2020/zeraora-gx.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+      cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/tapukoko-p.png',
+      cardImg: '../../../assets/cards/2019-2020/tapukoko-p.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/tapufini.png',
+      cardImg: '../../../assets/cards/2019-2020/tapufini.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/mew.png',
+      cardImg: '../../../assets/cards/2019-2020/mew.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/marshadow.png',
+      cardImg: '../../../assets/cards/2019-2020/marshadow.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/zapdos.png',
+      cardImg: '../../../assets/cards/2019-2020/zapdos.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/volkner.png',
+      cardImg: '../../../assets/cards/2019-2020/volkner.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/cynthia.png',
+      cardImg: '../../../assets/cards/2019-2020/cynthia.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/lillie.png',
+      cardImg: '../../../assets/cards/2019-2020/lillie.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/custom-catcher.png',
+      cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/electropower.png',
+      cardImg: '../../../assets/cards/2019-2020/electropower.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/electromagnetic-radar.png',
+      cardImg: '../../../assets/cards/2019-2020/electromagnetic-radar.png',
       numImg: '../../../assets/04.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/energy-switch.png',
+      cardImg: '../../../assets/cards/2019-2020/energy-switch.png',
       numImg: '../../../assets/03.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+      cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
       numImg: '../../../assets/03.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/reset-stamp.png',
+      cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/switch.png',
+      cardImg: '../../../assets/cards/2019-2020/switch.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/tag-switch.png',
+      cardImg: '../../../assets/cards/2019-2020/tag-switch.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/stadiumnav.png',
+      cardImg: '../../../assets/cards/2019-2020/stadiumnav.png',
       numImg: '../../../assets/01.png'
     },
 
     {
-      cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+      cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
       numImg: '../../../assets/02.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/thunder-mtn.png',
+      cardImg: '../../../assets/cards/2019-2020/thunder-mtn.png',
       numImg: '../../../assets/01.png'
     },
     {
-      cardImg: '../../../assets/cards/2019/energy-lightning.png',
+      cardImg: '../../../assets/cards/2019-2020/energy-lightning.png',
       numImg: '../../../assets/11.png'
     }
       ]
@@ -7413,99 +7413,99 @@ let juniors = [
           type: 'water',
       deck: [
         {
-          cardImg: '../../../assets/cards/2019/quagsire.png',
+          cardImg: '../../../assets/cards/2019-2020/quagsire.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/wooper.png',
+          cardImg: '../../../assets/cards/2019-2020/wooper.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/wooper-ground.png',
+          cardImg: '../../../assets/cards/2019-2020/wooper-ground.png',
           numImg: '../../../assets/01.png'
         },
       {
-        cardImg: '../../../assets/cards/2019/naganadel.png',
+        cardImg: '../../../assets/cards/2019-2020/naganadel.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/poipole-belt.png',
+        cardImg: '../../../assets/cards/2019-2020/poipole-belt.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/poipole-eye.png',
+        cardImg: '../../../assets/cards/2019-2020/poipole-eye.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/poipole-spit.png',
+        cardImg: '../../../assets/cards/2019-2020/poipole-spit.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/keldeo-gx.png',
+        cardImg: '../../../assets/cards/2019-2020/keldeo-gx.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/kyurem.png',
+        cardImg: '../../../assets/cards/2019-2020/kyurem.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/volcanion-p.png',
+        cardImg: '../../../assets/cards/2019-2020/volcanion-p.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/cynthia.png',
+        cardImg: '../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/lillie.png',
+        cardImg: '../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/blues-tactics.png',
+        cardImg: '../../../assets/cards/2019-2020/blues-tactics.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/tate-n-liza.png',
+        cardImg: '../../../assets/cards/2019-2020/tate-n-liza.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/crushing-hammer.png',
+        cardImg: '../../../assets/cards/2019-2020/crushing-hammer.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/custom-catcher.png',
+        cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/acro-bike.png',
+        cardImg: '../../../assets/cards/2019-2020/acro-bike.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+        cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/reset-stamp.png',
+        cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/pokenav.png',
+        cardImg: '../../../assets/cards/2019-2020/pokenav.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/blizzard-town.png',
+        cardImg: '../../../assets/cards/2019-2020/blizzard-town.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/ultra-space.png',
+        cardImg: '../../../assets/cards/2019-2020/ultra-space.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/viridian-forest.png',
+        cardImg: '../../../assets/cards/2019-2020/viridian-forest.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2019/energy-water.png',
+        cardImg: '../../../assets/cards/2019-2020/energy-water.png',
         numImg: '../../../assets/10.png'
       },
     ]
@@ -7519,127 +7519,127 @@ let juniors = [
       type: 'psychic',
       deck: [
         {
-          cardImg: '../../../assets/cards/2019/mewtwo-mew.png',
+          cardImg: '../../../assets/cards/2019-2020/mewtwo-mew.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/dedenne-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/dedenne-gx.png',
           numImg: '../../../assets/03.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/solgaleo-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/solgaleo-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/reshiram-charizard-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/reshiram-charizard-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/deoxys-espeon-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/deoxys-espeon-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/latios-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/latios-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/jirachi-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/jirachi-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/dargonite-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/dargonite-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/blaziken-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/blaziken-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/altaria-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/altaria-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/heatran-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/heatran-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/cobalion-gx.png',
+          cardImg: '../../../assets/cards/2019-2020/cobalion-gx.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/jirachi-stellar-wish.png',
+          cardImg: '../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+          cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/mew.png',
+          cardImg: '../../../assets/cards/2019-2020/mew.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/hoopa-evil-abomanatino.png',
+          cardImg: '../../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/welder.png',
+          cardImg: '../../../assets/cards/2019-2020/welder.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/hapu.png',
+          cardImg: '../../../assets/cards/2019-2020/hapu.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/reds-challenge.png',
+          cardImg: '../../../assets/cards/2019-2020/reds-challenge.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/cherish-ball.png',
+          cardImg: '../../../assets/cards/2019-2020/cherish-ball.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/custom-catcher.png',
+          cardImg: '../../../assets/cards/2019-2020/custom-catcher.png',
           numImg: '../../../assets/04.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/switch.png',
+          cardImg: '../../../assets/cards/2019-2020/switch.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/pokemon-comm.png',
+          cardImg: '../../../assets/cards/2019-2020/pokemon-comm.png',
           numImg: '../../../assets/02.png'
         }, 
         {
-          cardImg: '../../../assets/cards/2019/reset-stamp.png',
+          cardImg: '../../../assets/cards/2019-2020/reset-stamp.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/fire-crystal.png',
+          cardImg: '../../../assets/cards/2019-2020/fire-crystal.png',
           numImg: '../../../assets/01.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/escapeboard.png',
+          cardImg: '../../../assets/cards/2019-2020/escapeboard.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/giant-hearth.png',
+          cardImg: '../../../assets/cards/2019-2020/giant-hearth.png',
           numImg: '../../../assets/02.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/lysandre-lab.png',
+          cardImg: '../../../assets/cards/2019-2020/lysandre-lab.png',
           numImg: '../../../assets/01.png'
         },
           {
-            cardImg: '../../../assets/cards/2019/heat-factory.png',
+            cardImg: '../../../assets/cards/2019-2020/heat-factory.png',
             numImg: '../../../assets/01.png'
           },
         {
-          cardImg: '../../../assets/cards/2019/energy-fire.png',
+          cardImg: '../../../assets/cards/2019-2020/energy-fire.png',
           numImg: '../../../assets/08.png'
         },
         {
-          cardImg: '../../../assets/cards/2019/energy-psychic.png',
+          cardImg: '../../../assets/cards/2019-2020/energy-psychic.png',
           numImg: '../../../assets/04.png'
         }
       ]
