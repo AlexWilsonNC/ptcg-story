@@ -1405,6 +1405,454 @@ let masters = [
       },
     ]
   },
+  {
+    firstName: 'Tyler Matthews',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/palkia-origin.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Devin Ardissono',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../../assets/sprites/genesect.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Scotty Chesser',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../../assets/sprites/genesect.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Cyrus McCane',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/malamar-vmax.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Nathaniel Kaplan',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Aaron Tarbell',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blissey.png',
+    sprite2: '../../../../assets/sprites/miltank.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'John Wanggaard',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Franco Takahashi',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Calvin Connor',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Dominic Balagna',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Diego Varea',
+    flag: '../../../../assets/flags/peru.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Andrew Martin',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Brandon Salazar',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Ian Robb',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/pikachu-gmax.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Adam Hawkins',
+    flag: '../../../../assets/flags/uk.png',
+    sprite1: '../../../../assets/sprites/miltank.png',
+    sprite2: '../../../../assets/sprites/cinccino.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Matthew Browning',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Zach Lesage',
+    flag: '../../../../assets/flags/canada.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: "Jimmy O'Brien",
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/palkia-origin.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Ethan Hegyi',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/pikachu-gmax.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Natalie Miller',
+    flag: '../../../../assets/flags/australia.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Andrew Hendrick',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Andrew Wisniewsky',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blissey.png',
+    sprite2: '../../../../assets/sprites/miltank.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Noah Sakadjian',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Sawyer Melban',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/pikachu-gmax.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Dillon DiAngelo',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../../assets/sprites/genesect.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Jeremy Castro',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/regigigas.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Seth Wagner',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../../assets/sprites/genesect.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'James Hart',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Zach Laska',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Samuel Weyers',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../../assets/sprites/genesect.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Jake Gearhart',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tanner Caplinger',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../../assets/sprites/genesect.png',
+    list: '../../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
 ]
 
 let seniors = [
