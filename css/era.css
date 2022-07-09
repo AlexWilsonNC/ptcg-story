@@ -35,6 +35,13 @@
     list-style: none;
     box-shadow: 5px 5px 10px 1.5px rgba(0, 0, 0, 0.3);
 }
+.deckss-left {
+    width:45%;
+}
+.deckss-right {
+    width:50%;
+    margin-left: 30px;
+}
 /* .auto-day2-area2 {
     width: 100%;
     margin-top: 20px;
@@ -42,6 +49,7 @@
 #event-toc ul {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 #event-toc p {
     margin-bottom: 5px;
@@ -55,6 +63,10 @@
 }
 #event-toc li a:hover {
     color: rgb(189, 129, 0);
+}
+
+.arrow-a i {
+    font-size: 30px;
 }
 
 .decks-main {
@@ -164,15 +176,11 @@
 .left-vs-set {
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
-    background-image: linear-gradient(to right, 
-    rgba(0,0,0,0.3), rgba(0,0,0,0.8));
     width:33%;
 }
 .right-vs-set {
     border-top-right-radius: 25px;
     border-bottom-right-radius: 25px;
-    background-image: linear-gradient(to left, 
-    rgba(0,0,0,0.3), rgba(0,0,0,0.8));
     width:33%;
 }
 .specific-format h3 {
@@ -189,6 +197,53 @@
     height: 120px;
 }
 
+/************************/
+
+.left-vs-mewtwo-movie {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/mewtwo-movie-promo.jpg);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-wigglytuff {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/wigglytuff.jpg);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-scyther {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/scyther.jpg);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-blastoise {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/blastoise.jpg);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-hitmonchan {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/hitmonchan.jpg);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-electabuzz {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/electabuzz.jpg);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+/************************/
+
 @media screen and (max-width: 1551px) {
     .deck-box {
         width: 70%;
@@ -203,6 +258,11 @@
     }
     .num-2 {
         width: 35px;
+    }
+}
+@media screen and (max-width: 1271px) {
+    .specific-format {
+        width: 80%;height:115px;
     }
 }
 @media screen and (max-width: 1150px) {
@@ -221,6 +281,11 @@
         width: 69.5%;
     }
 }
+@media screen and (max-width: 850px) {
+    .specific-format h3 {
+        font-size: 22px;
+    }
+}
 @media screen and (max-width: 812px) {
     .deck-box {
         width: 85%;
@@ -237,6 +302,22 @@
     }
 }
 @media screen and (max-width: 550px) {
+    .top-era-selector h2 {
+        font-size: 18px;
+    }
+    .top-era-selector p {
+        font-size: 12px;
+    }
+    .format-sets img {
+        height: 35px;
+        margin: 0px 10px;
+    }
+    .decks-main h3 {
+        font-size: 22px;
+    }
+    .arrow-a i {
+        font-size: 20px;
+    }
     .deck-box {
         width: 80%;
     }
@@ -254,5 +335,11 @@
         left: 44%;
         margin-right: -50%;
         transform: scale(600%);
+    }
+    #event-toc ul {
+        font-size: 10px;
+    }
+    #event-toc {
+        width: 65%;
     }
 }
