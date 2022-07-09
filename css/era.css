@@ -28,10 +28,9 @@
     margin: 25px 0px 20px 0px;
 }
 #event-toc {
-    width: 350px;
     border-radius: 10px;
     border: 1px solid grey;
-    padding: 10px;
+    padding: 10px 35px;
     list-style: none;
     box-shadow: 5px 5px 10px 1.5px rgba(0, 0, 0, 0.3);
 }
@@ -130,6 +129,11 @@
     display: none;
 }
 
+@media screen and (max-width: 1551px) {
+    .deck-box {
+        width: 70%;
+    }
+}
 @media screen and (min-width: 1151px) {
     .decks-main p {
         width: 67.5%;
