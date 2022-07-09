@@ -69,8 +69,15 @@
 .arrow-a i {
     font-size: 30px;
 }
+.set-yr-page {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 25px;
+}
 .set-top-page {
     font-size: 36px;
+    margin-top: 10px;
+    text-align: center;
 }
 
 .decks-main {
@@ -158,6 +165,11 @@
     left:0;
 } */
 
+/* .format-sets {
+    max-width: 75%;
+    display: flex;
+    justify-content: center;
+} */
 .format-sets img {
     height: 55px;
     margin: 0px 10px;
