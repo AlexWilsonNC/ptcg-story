@@ -1,0 +1,87 @@
+.left-vs-mewtwo-movie {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/mewtwo-movie-promo.jpg);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-wigglytuff {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/wigglytuff.jpg);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-scyther {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/scyther.jpg);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-blastoise {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/blastoise.jpg);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-hitmonchan {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/hitmonchan.jpg);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-electabuzz {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/electabuzz.jpg);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+/************************************************/
+
+.left-vs-dark-vileplume {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/dark-vileplume.jpg);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-muk {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/muk.jpg);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-mewtwo-promo2 {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/mewtwo-promo2.jpg);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-rocket-zapdos {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/rockets-zapdos.jpg);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-rocket-gyarados {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/dark-gyarados.jpg);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-erika-venusaur {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/erika-venusaur.jpg);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
