@@ -142,3 +142,18 @@
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+.left-vs-jirachi {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/dx.009.jirachi.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-admin {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/tr.086.rockets_admin.jpg);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
