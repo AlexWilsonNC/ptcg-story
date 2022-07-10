@@ -160,11 +160,9 @@
     display: none;
 }
 
-/* .era-footer {
-    position: absolute;
-    bottom:0;
-    left:0;
-} */
+.era-footer {
+margin-top: auto;
+}
 
 /* .format-sets {
     max-width: 75%;
