@@ -285,3 +285,73 @@
     background-position: center center;
     background-repeat: no-repeat;
 }
+.right-vs-oranguru {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/oranguru-resource-manag.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-reshizard {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/reshiram-charizard-gx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-zoroark {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/zoroark-gx.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-lycanroc {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/lycanroc-gx-midnight.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-necrozma {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/necrozma-gx.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-rayquaza-gx {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/rayquaza-gx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-blacephalon-gx {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/blacephalon-gx.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-granbull {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/granbull.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-tapu-bulu {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/tapu-bulu-gx.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-buzzwole-gx {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/buzzwole-gx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
