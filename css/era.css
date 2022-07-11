@@ -273,7 +273,8 @@ margin-top: auto;
     }
 }
 @media screen and (max-width: 1271px) {
-    .specific-format {
+    .specific-format,
+    .expanded-format {
         width: 80%;height:115px;
     }
 }
@@ -294,7 +295,8 @@ margin-top: auto;
     }
 }
 @media screen and (max-width: 850px) {
-    .specific-format h3 {
+    .specific-format h3,
+    .expanded-format h3 {
         font-size: 22px;
     }
 }
@@ -358,10 +360,12 @@ margin-top: auto;
         width:40%;
         margin-left: 0px;
     }
-    .specific-format {
+    .specific-format,
+    .expanded-format {
         width: 95%;height:75px;
     }
-    .specific-format h3 {
+    .specific-format h3,
+    .expanded-format h3 {
         font-size: 16px;
         width: 45%;
     }
