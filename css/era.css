@@ -329,6 +329,10 @@ margin-top: auto;
         margin-left: 0px;
     }
     .specific-format {
-        width: 93%;height:100px;
+        width: 95%;height:75px;
+    }
+    .specific-format h3 {
+        font-size: 18px;
+        width: 45%;
     }
 }
