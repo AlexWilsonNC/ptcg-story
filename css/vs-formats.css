@@ -157,3 +157,131 @@
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+
+
+
+
+
+
+
+
+.left-vs-palkia-vstar {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/palkia-vmax-origin-forme.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-flying-pikachu {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/flying-pikachu-vmax.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-rs-urshifu {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/rs-urshifu-vmax.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-arceus-vstar {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/arceus-vstar.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-mew-vmax {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/mew-vmax.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-gengar-vmax {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/gengar-vmax.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-ir-caly {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/ice-rider-calyrex-vmax.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-sr-caly {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/calyrex-vmax-shadow-rider.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-zacian-v {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/zacian-v.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-pikarom {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/pikachu-zekrom-gx.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-adp {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/adp-gx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-lucmetal {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/lucario-melmetal-gx.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-mewthree {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/mewtwo-mew.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-eternatus {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/eternatus-vmax.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-blacephalon-baby {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/baby-blacephalon.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-tinachomp {
+    background-image: linear-gradient(to right, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/giratina-garchomp-gx.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-malamar {
+    background-image: linear-gradient(to left, transparent, rgba(0,0,0,0) 70%, rgba(0,0,0,0.2) 75%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.6) 85%, rgba(0,0,0,0.7) 90%, rgba(0,0,0,1) 100%), url(../assets/vs-formats/malamar.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
