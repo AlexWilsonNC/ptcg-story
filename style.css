@@ -184,7 +184,7 @@ hr {
 .image-text {
     color: #fff;
     padding: 20px 50px;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.8);
     border-radius: 15px;
     text-align: center;
     width: 50%;
@@ -307,6 +307,8 @@ hr {
 .oth-red {
     color:rgb(255, 116, 116);
 }
+
+
 
 @media screen and (max-width: 1150px) {
     #nav-right {
