@@ -208,6 +208,111 @@
     background-position: center center;
     background-repeat: no-repeat;
 }
+.left-vs-buzzwole {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/buzzwole.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-lele {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/tapu-lele-gx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-trump-card {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/lysandres-trump-card.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-exeggutor {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/exeggutor.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-radiant-grninja {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/radiant-greninja.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-m2vunion {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/mewtwo-v-unvion-topright.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-gardevoir-gx {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/gardevoir-gx.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-espeon {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/espeon-gx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-gardey-sylveon {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/gardevoir-sylveon-gx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-audino {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/m-audino-ex.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-manaphy {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/manaphy-ex.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-palkialvx {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/palkia-lvx-lost-cyclone.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-flygon {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/flygon-lvx.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-infernapelvx {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/infernape-lvx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-machamp {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/machamp-lvx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
 .left-vs-ir-caly {
     background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/ice-rider-calyrex-vmax.png);
     background-size: cover; /* or contain depending on what you want */
@@ -718,13 +823,6 @@
     background-repeat: no-repeat;
     width:33%;height:100%;
 }
-.right-vs-gardey-sylveon {
-    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/gardevoir-sylveon-gx.png);
-    width:33%;height:100%;
-    background-size: cover; /* or contain depending on what you want */
-    background-position: center center;
-    background-repeat: no-repeat;
-}
 .left-vs-trevenant-break {
     background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/trevenant-break.png);
     background-size: cover; /* or contain depending on what you want */
@@ -816,6 +914,13 @@
     background-repeat: no-repeat;
     width:33%;height:100%;
 }
+.left-vs-tinachomp-exp {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/giratina-garchomp-gx.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
 .right-vs-seismitoad-expanded {
     background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/seismitoad-ex.png);
     width:33%;height:100%;
@@ -825,6 +930,13 @@
 }
 .right-vs-snorlax-block {
     background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/snorlax-block.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-pidgeotto {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/pidgeotto.png);
     width:33%;height:100%;
     background-size: cover; /* or contain depending on what you want */
     background-position: center center;
