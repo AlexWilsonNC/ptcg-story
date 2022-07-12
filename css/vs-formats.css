@@ -823,3 +823,10 @@
     background-position: center center;
     background-repeat: no-repeat;
 }
+.right-vs-snorlax-block {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/snorlax-block.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
