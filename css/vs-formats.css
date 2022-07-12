@@ -474,6 +474,48 @@
     background-position: center center;
     background-repeat: no-repeat;
 }
+.left-vs-donphan {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/donphan-prime.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-dialga-lvx {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/dialga-lvx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-gyarados {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/gyarados.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-gengar-lvx {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/gengar-lvx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-sableye {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/sableye-overgear.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-garchomp {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/garchomp-lvx.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
 .left-vs-umbreon-vmax {
     background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/umbreon-vmax.png);
     background-size: cover; /* or contain depending on what you want */
@@ -497,6 +539,27 @@
 }
 .right-vs-pyroar {
     background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/pyroar.png);
+    width:33%;height:100%;
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-zekrom {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/zekrom-fa.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-vileplume-hgss {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/vileplume-hgss.png);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-luxray {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/luxray.png);
     width:33%;height:100%;
     background-size: cover; /* or contain depending on what you want */
     background-position: center center;
