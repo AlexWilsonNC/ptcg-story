@@ -20,6 +20,17 @@
     flex-direction: column;
     align-items: center;
     margin: 0px 5px 40px 5px;
+    transition: ease all 0.15s;
+}
+.worlds-box:hover > img,
+.nats-box:hover img {
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.7);
+}
+.worlds-box:hover > p,
+.nats-box:hover p,
+.others-box:hover p {
+    box-shadow: 3px 3px 7px rgba(0,0,0,0.7);
+    color: rgb(189, 129, 0);
 }
 .others-box {
     display: flex;
@@ -36,6 +47,7 @@
     height: 180px;
     border: 2px solid black;
     border-radius: 4px;
+    transition: ease all 0.2s;
 }
 .worlds-box p,
 .others-box p {
@@ -45,6 +57,7 @@
     color:white;
     border-radius: 15px;
     padding: 5px 35px;
+    transition: ease all 0.15s;
 }
 .others-box p {
     width: 70%;
@@ -307,7 +320,7 @@ li {
 }
 .videos-section a img:hover {
     cursor: pointer;
-    box-shadow: 5px 5px 5px rgb(29, 29, 29);
+    box-shadow: 5px 5px 10px rgba(29, 29, 29, 0.9);
  }
 .videos-section p {
     margin-top: 5px;
