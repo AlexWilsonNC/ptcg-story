@@ -334,8 +334,9 @@ margin-top: auto;
     .top-era-selector p {
         font-size: 12px;
     }
-    .format-sets img {
-        height: 35px;
+    .format-sets img,
+    .format-sets2 img {
+        height: auto;width:15vw;
         margin: 0px 10px;
     }
     .decks-main h3 {
