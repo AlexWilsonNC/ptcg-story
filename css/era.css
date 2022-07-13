@@ -183,6 +183,10 @@ margin-top: auto;
     width: 10vw;    margin: 10px 10px;
 }
 
+.small-format-text {
+    font-size: 18px;
+}
+
 .yrs-formats {
     display: flex;
     flex-direction: column;
@@ -304,6 +308,9 @@ margin-top: auto;
     .expanded-format h3 {
         font-size: 22px;
     }
+    .small-format-text {
+        font-size: 15px;
+    }
 }
 @media screen and (max-width: 812px) {
     .deck-box {
@@ -333,6 +340,9 @@ margin-top: auto;
     }
     .decks-main h3 {
         font-size: 22px;
+    }
+    .small-format-text {
+        font-size: 10px;
     }
     .arrow-a i {
         font-size: 20px;
