@@ -1,6 +1,7 @@
 .contain-worlds {
     display: flex;
     justify-content: center;
+    margin-top: 25px;
 }
 .worlds-icons {
     display: flex;
@@ -167,6 +168,7 @@
     flex-direction: column;
     align-items: center;
     margin-top: 15px;
+    background-color: #fff;
 }
 .casters-zone {
     width: 80%;
