@@ -30,7 +30,7 @@
 .nats-box:hover p,
 .others-box:hover p {
     box-shadow: 3px 3px 7px rgba(0,0,0,0.7);
-    color: rgb(189, 129, 0);
+    color: rgb(187, 173, 45);
 }
 .others-box {
     display: flex;

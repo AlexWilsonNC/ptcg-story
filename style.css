@@ -282,30 +282,38 @@ hr {
 } */
 .oth-pink {
     color:rgb(255, 107, 235);
+    /* color:rgb(255, 197, 247); */
 }
 .oth-violet {
-    color:rgb(210, 112, 255);
+    /* color:rgb(210, 112, 255); */
+    color:rgb(236, 196, 255);
 }
 .oth-purple {
-    color:rgb(167, 99, 255);
+    /* color:rgb(167, 99, 255); */
+    color:rgb(220, 194, 255);
 }
 .oth-blue {
-    color:rgb(109, 119, 255);
+    /* color:rgb(109, 119, 255); */
+    color:rgb(196, 200, 255);
 }
 .oth-light-blue {
-    color:rgb(102, 219, 255);
+    /* color:rgb(102, 219, 255); */
+    color:rgb(187, 239, 255);
 }
 .oth-green {
-    color:rgb(118, 255, 114);
+    /* color:rgb(118, 255, 114); */
+    color:rgb(189, 255, 186);
 }
 .oth-yellow {
-    color:rgb(255, 244, 95);
+    /* color:rgb(255, 244, 95); */
+    color:rgb(255, 250, 184);
 }
 .oth-orange {
     color:rgb(255, 175, 101);
 }
 .oth-red {
-    color:rgb(255, 116, 116);
+    /* color:rgb(255, 116, 116); */
+    color:rgb(255, 203, 203);
 }
 
 
