@@ -101,11 +101,28 @@
         display: none;
     }
     .set-num-cards {
-        width: 5%;
+        width: 2%;
+    }
+    .set-name p,
+    .top-set p {
+        font-size: 12px;
+    }
+    /* .top-set p {
+        padding: 15px 0px;
+    } */
+    .set p {
+        margin: 0px;
+        padding: 0px;
     }
 }
 @media screen and (max-width: 600px) {
     .table-outline {
         width: 95%;
+    }
+    .set-art img {
+        transform: scale(0.47);
+    }
+    .set-num-cards {
+        margin-left: 15px;
     }
 }

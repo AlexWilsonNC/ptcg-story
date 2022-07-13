@@ -65,6 +65,10 @@
 #event-toc li a:hover {
     color: rgb(189, 129, 0);
 }
+.small-1 {
+    width: 10%;
+    height: auto;
+}
 
 .arrow-a i {
     font-size: 30px;
@@ -170,12 +174,13 @@ margin-top: auto;
     justify-content: center;
 } */
 .format-sets img {
-    height: 55px;
+    height: auto;
+    width: 10vw;
     margin: 0px 10px;
 }
 .format-sets2 img {
-    height: 40px;
-    margin: 10px 10px;
+    height: auto;
+    width: 10vw;    margin: 10px 10px;
 }
 
 .yrs-formats {
