@@ -428,6 +428,14 @@ li {
     justify-content: center;
     align-items: flex-end;
     margin: 2.5px;
+    /* border-radius */
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    /* box-shadow */
+    -webkit-box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
+    -moz-box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
+    box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
 }
 .pok-card-small {
     position: relative;
