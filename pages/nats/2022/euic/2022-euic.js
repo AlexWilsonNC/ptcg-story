@@ -1095,7 +1095,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Lorenzo F',
+    firstName: 'Lorenzo Fulco',
     flag: '../../../../assets/flags/italy.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/urshifu-rapid-strike-gmax.png',
@@ -1243,7 +1243,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Noah B',
+    firstName: 'Noah Brown',
     flag: '../../../../assets/flags/uk.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/moltres-galar.png',
@@ -1471,7 +1471,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Antoni L',
+    firstName: 'Antoni Liszyk',
     flag: '../../../../assets/flags/poland.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/lycanroc-dusk.png',
