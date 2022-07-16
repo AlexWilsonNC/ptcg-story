@@ -6551,7 +6551,7 @@ let seniors = [
     firstName: ' Justin T.',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6565,7 +6565,7 @@ let seniors = [
     firstName: 'João Gabriel P.',
     flag: '../../../../assets/flags/brazil.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6579,7 +6579,7 @@ let seniors = [
     firstName: 'Michael D.',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6593,7 +6593,7 @@ let seniors = [
     firstName: 'Sebastian E.',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6607,7 +6607,7 @@ let seniors = [
     firstName: 'Cameron R.',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6879,14 +6879,134 @@ let juniors = [
   {
     firstName: 'Luka L.',
     flag: '../../../../assets/flags/france.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: '',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'water',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2022-2023',
+        cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/arceus-v.png',
         numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/inteleon-shady-dealings.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/drizzile.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/sobble.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/crobat-v.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/dunsparce.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/cherens-care.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/bosss-orders-giovanni.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/marnie.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/melony.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/professor-research-rowan.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/roxanne.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/raihan.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/avery.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/level-ball.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/ultra-ball.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/scoop-up-net.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/evolution-incense.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/ordinary-rod.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/pal-pad.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/tool-scrapper.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/big-charm.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/choice-belt.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/path-to-the-peak.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/collapsed-stadium.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/water-energy-brs.png',
+        numImg: '../../../../assets/06.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/double-turbo-energy.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/capture-energy.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/new-energy/powerful-energy.png',
+        numImg: '../../../../assets/01.png'
       },
     ]
   },
@@ -6894,7 +7014,7 @@ let juniors = [
     firstName: 'Edison C.',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6908,7 +7028,7 @@ let juniors = [
     firstName: 'Remi L.',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6922,7 +7042,7 @@ let juniors = [
     firstName: 'Spencer P.',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6936,7 +7056,7 @@ let juniors = [
     firstName: 'Zahid M.',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6950,7 +7070,7 @@ let juniors = [
     firstName: 'Theodore H.',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6964,7 +7084,7 @@ let juniors = [
     firstName: 'Henrique G.',
     flag: '../../../../assets/flags/brazil.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
