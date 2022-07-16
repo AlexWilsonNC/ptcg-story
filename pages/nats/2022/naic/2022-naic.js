@@ -6550,8 +6550,8 @@ let seniors = [
   {
     firstName: ' Justin T.',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/mew.png',
+    sprite2: '../../../../assets/sprites/genesect.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6564,8 +6564,8 @@ let seniors = [
   {
     firstName: 'João Gabriel P.',
     flag: '../../../../assets/flags/brazil.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/raikou.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6578,8 +6578,8 @@ let seniors = [
   {
     firstName: 'Michael D.',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/mew.png',
+    sprite2: '../../../../assets/sprites/genesect.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6592,8 +6592,8 @@ let seniors = [
   {
     firstName: 'Sebastian E.',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6606,8 +6606,8 @@ let seniors = [
   {
     firstName: 'Cameron R.',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/blissey.png',
+    sprite2: '../../../../assets/sprites/miltank.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
