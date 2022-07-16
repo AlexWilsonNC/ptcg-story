@@ -1698,7 +1698,7 @@ let juniors = [
     flag: '../../../../assets/flags/france.png',
     sprite1: '../../../../assets/sprites/malamar.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
-    list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
