@@ -388,6 +388,13 @@ margin-top: auto;
     .num-2 {
         width: 17px;
     }
+    .decks-main h3 {
+        font-size: 20px;
+        border-radius: 11px;
+    }
+    .diff-decks-btns p {
+        font-size: 12px;
+    }
 }
 @media screen and (max-width: 550px) {
     .top-era-selector h2 {
@@ -401,8 +408,8 @@ margin-top: auto;
         height: auto;width:15vw;
         margin: 0px 10px;
     }
-    .decks-main h3 {
-        font-size: 22px;
+    .diff-decks-btns p {
+        font-size: 10px;
     }
     .small-format-text {
         font-size: 10px;
