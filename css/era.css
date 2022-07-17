@@ -23,6 +23,12 @@
     border-radius: 15px;
     padding: 5px 35px;
 }
+.format-deck-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 55%;
+}
 #ToC2 {
     display: flex;
     justify-content: center;
@@ -266,6 +272,27 @@ margin-top: auto;
     height: 120px;
 }
 
+.diff-decks-btns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    /* margin-left: 1000px; */
+}
+.deck-build {
+    font-size: 14px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0px 5px 10px;
+}
+.build-box2 {
+    display: none;
+}
+.descrip-box2 {
+    display: none;
+}
+
 /************************/
 
 
@@ -276,9 +303,12 @@ margin-top: auto;
     .deck-box {
         width: 70%;
     }
+    .format-deck-title {
+        width: 70%;
+    }
 }
 @media screen and (min-width: 1151px) {
-    .decks-main p {
+    .deck-description {
         width: 67.5%;
     }
     .pok-card-small2 {
@@ -286,6 +316,22 @@ margin-top: auto;
     }
     .num-2 {
         width: 35px;
+    }
+}
+@media screen and (min-width: 1402px) {
+    .deck-box {
+        width: 76%;
+    }
+    .format-deck-title {
+        width: 76%;
+    }
+}
+@media screen and (max-width: 1401px) {
+    .deck-box {
+        width: 85%;
+    }
+    .format-deck-title {
+        width: 85%;
     }
 }
 @media screen and (max-width: 1271px) {
@@ -298,7 +344,10 @@ margin-top: auto;
     .deck-box {
         width: 70%;
     }
-    .decks-main p {
+    .format-deck-title {
+        width: 70%;
+    }
+    .deck-description {
         width: 65.5%;
     }
 }
@@ -306,7 +355,10 @@ margin-top: auto;
     .deck-box {
         width: 80%;
     }
-    .decks-main p {
+    .format-deck-title {
+        width: 80%;
+    }
+    .deck-description {
         width: 69.5%;
     }
 }
@@ -323,7 +375,10 @@ margin-top: auto;
     .deck-box {
         width: 85%;
     }
-    .decks-main p {
+    .format-deck-title {
+        width: 85%;
+    }
+    .deck-description {
         width: 79.5%;
         font-size: 14px;
     }
@@ -358,7 +413,10 @@ margin-top: auto;
     .deck-box {
         width: 80%;
     }
-    .decks-main p {
+    .format-deck-title {
+        width: 80%;
+    }
+    .deck-description {
         width: 80.5%;
         font-size: 12px;
     }
