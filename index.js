@@ -44,7 +44,7 @@ cardTouch.forEach(card => {
 //     descBox2.style.display = 'flex';
 // }
 
-{/* <button class="deckbuild1" data-targetButton="theIdOfTheButtonBesideThis" data-targetOn="idOfImgToShow"  data-targetOff="idOfImgToHide"></button>
+{/* <button class="deckbuild1" data-targetButton="theIdOfTheButtonBesideThis" data-targetOn="idOfImgToShow"  data-targetOff="idOfImgToHide"></button> */}
 
 document.querySelectorAll('.deckbuild1').forEach(elem => elem.addEventListener('click', () => {
     elem.classList.add('dark-bg');
@@ -65,7 +65,7 @@ document.querySelectorAll('.deckbuild2').forEach(elem => elem.addEventListener('
     buildBox1.style.display = 'none';
     descBox1.style.display = 'none';
     descBox2.style.display = 'flex';
-})) */}
+})) 
 
 // deckbuild1.addEventListener('click', changeToBuild1)
 // deckbuild2.addEventListener('click', changeToBuild2)
