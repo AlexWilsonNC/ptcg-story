@@ -163,7 +163,7 @@ box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;}
     left: 47%;
     margin-right: -50%;
     transform: translate(-50%, -50%);   
-    z-index: 2000000;
+    z-index: 200;
     transform: scale(400%);
     /* transition: ease-in-out all 0.2s; */
 }
@@ -173,7 +173,7 @@ box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;}
     top: 0;left: 0;
     background-color: rgba(0,0,0,0.9);
     background: rgba(0,0,0,0.9);
-    z-index: 1150000;
+    z-index: 180;
     display: none;
 }
 
