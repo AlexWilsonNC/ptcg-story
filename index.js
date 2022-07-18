@@ -44,8 +44,6 @@ cardTouch.forEach(card => {
 //     descBox2.style.display = 'flex';
 // }
 
-{/* <button class="deckbuild1" data-targetButton="theIdOfTheButtonBesideThis" data-targetOn="idOfImgToShow"  data-targetOff="idOfImgToHide"></button> */}
-
 document.querySelectorAll('.deckbuild1').forEach(elem => elem.addEventListener('click', () => {
     elem.classList.add('dark-bg');
     elem.getAttribute("data-targetButton").classList.remove('dark-bg');

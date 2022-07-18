@@ -11,7 +11,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/groudon.png',
     list: '../../../assets/list-icon.png',
-    type: 'fighting',
+    type: 'fire',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/magmas-groudon.png',
@@ -237,7 +237,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/groudon.png',
     list: '../../../assets/list-icon.png',
-    type: 'fighting',
+    type: 'fire',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/magmas-groudon.png',
@@ -1740,7 +1740,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/groudon.png',
     list: '../../../assets/list-icon.png',
-    type: 'fighting',
+    type: 'fire',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/magmas-groudon.png',
@@ -2819,7 +2819,7 @@ let juniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/groudon.png',
     list: '../../../assets/list-icon.png',
-    type: 'fighting',
+    type: 'fire',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/magmas-groudon.png',
@@ -3048,7 +3048,7 @@ let juniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/groudon.png',
     list: '../../../assets/list-icon.png',
-    type: 'fighting',
+    type: 'fire',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/magmas-groudon.png',

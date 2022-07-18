@@ -285,6 +285,7 @@ margin-top: auto;
     border-radius: 10px;
     text-align: center;
     margin: 0px 5px 10px;
+    border-style: none;
 }
 .build-box2 {
     display: none;
