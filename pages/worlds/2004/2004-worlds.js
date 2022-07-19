@@ -1143,13 +1143,13 @@ let masters = [
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/e-reader/darkness-energy.jpg',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/e-reader/grass-energy.jpg',
+        numImg: '../../../assets/01.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/e-reader/grass-energy.jpg',
-        numImg: '../../../assets/01.png',
+        cardImg: '../../../assets/cards/e-reader/darkness-energy.jpg',
+        numImg: '../../../assets/04.png',
         oldCard: true
       },
     ]
