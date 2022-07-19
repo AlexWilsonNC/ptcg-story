@@ -2787,8 +2787,9 @@ let seniors = [
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
-        numImg: '../../../assets/01.png'
+        cardImg: '../../../assets/cards/2004-2006/hl.085.ancient_technical_machine_rock.jpg',
+        numImg: '../../../assets/01.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/ancient-tomb.png',
