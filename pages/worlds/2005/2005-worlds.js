@@ -210,10 +210,6 @@ let masters = [
       {
         cardImg: '../../../assets/cards/old-energy/rainbow-energy-e-reader.png',
         numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/old-energy',
-        numImg: '../../../assets/04.png'
       }
     ]
   },
