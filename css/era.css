@@ -328,7 +328,7 @@ margin-top: auto;
 }
 @media screen and (min-width: 1151px) {
     .deck-description {
-        width: 67.5%;
+        width: 63.5%;
     }
     .pok-card-small2 {
         width: 105px;
@@ -339,7 +339,7 @@ margin-top: auto;
 }
 @media screen and (min-width: 1402px) {
     .deck-box {
-        width: 76%;
+        width: 63%;
     }
     .format-deck-title {
         width: 76%;
