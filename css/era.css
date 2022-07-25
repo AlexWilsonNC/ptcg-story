@@ -316,6 +316,12 @@ margin-top: auto;
     display: none;
 }
 
+.builds-num {
+    font-size: 8px;
+    position: relative;
+    top: -7px;
+}
+
 /************************/
 
 
@@ -496,5 +502,10 @@ margin-top: auto;
     }
     .yrs-formats {
         margin: 25px 0px;
+    }
+    .builds-num {
+        font-size: 6px;
+        position: relative;
+        top: -5px;
     }
 }
