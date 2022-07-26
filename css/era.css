@@ -115,11 +115,24 @@
     border-radius: 10px;
     border-top: none;
     margin-top: -7.5px;
-    z-index: -1;
     background-color: #313131;
     color:#fff;
     font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+.deck-description a {
+    margin-bottom: 10px;
+    font-style: italic;
+    color:rgb(0, 145, 197);
+}
+.deck-description p:nth-child(1) {
+    margin-bottom: 10px;
+    font-style: italic;
+    color:rgb(187, 173, 45);
+}
+
 .deck-box {
     width: 55%;
     border: 3px solid #000;
@@ -129,6 +142,7 @@
     justify-content: center;
     flex-wrap: wrap;
     padding: 15px 6px;
+    z-index: 1;
 }
 .pokemon-card2 {
     position: relative;
