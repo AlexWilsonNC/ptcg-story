@@ -468,7 +468,12 @@ li {
 }
 .ex-era-card {
     border-radius: 3%;
-    background-color: rgb(170, 189, 196);
+    background-color: rgb(196, 186, 170);
+    padding: 1px;
+}
+.delta-era-card {
+    border-radius: 3%;
+    background-color: rgb(201, 157, 0);
     padding: 1px;
 }
 .dp-card {
