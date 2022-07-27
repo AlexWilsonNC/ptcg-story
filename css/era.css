@@ -322,13 +322,17 @@ margin-top: auto;
 .build-box2,
 .build-box4,
 .build-box6, 
-.build-box8 {
+.build-box8,
+.build-box10,
+.build-box105 {
     display: none;
 }
 .descrip-box2,
 .descrip-box4,
 .descrip-box6,
-.descrip-box8 {
+.descrip-box8,
+.descrip-box10,
+.descrip-box105 {
     display: none;
 }
 
