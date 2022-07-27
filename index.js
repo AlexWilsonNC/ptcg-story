@@ -202,6 +202,8 @@ function changeToBuild105() {
     buildBox10.style.display = 'none';
     buildBox9.style.display = 'none';
     descBox9.style.display = 'none';
+    buildBox106.style.display = 'none';
+    descBox106.style.display = 'none';
     descBox10.style.display = 'none';
     descBox105.style.display = 'flex';
     buildBox105.style.display = 'flex';
