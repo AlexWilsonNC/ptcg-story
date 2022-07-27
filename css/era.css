@@ -324,7 +324,8 @@ margin-top: auto;
 .build-box6, 
 .build-box8,
 .build-box10,
-.build-box105 {
+.build-box105,
+.build-box106 {
     display: none;
 }
 .descrip-box2,
@@ -332,7 +333,8 @@ margin-top: auto;
 .descrip-box6,
 .descrip-box8,
 .descrip-box10,
-.descrip-box105 {
+.descrip-box105,
+.descrip-box106 {
     display: none;
 }
 
@@ -340,6 +342,7 @@ margin-top: auto;
     font-size: 8px;
     position: relative;
     top: -7px;
+    color:blue;
 }
 .message-us {
     font-weight: bold;
