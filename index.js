@@ -52,6 +52,19 @@ cardTouch.forEach(card => {
     })
 });
 
+// cardTouch.forEach(card => {
+//     card.addEventListener('click', () => {
+//         card.querySelector('.pok-card-small2').classList.add('large-card');
+//         darkBackground.forEach(dbg => dbg.style.display = 'block');
+//         if (card.querySelector('.pok-card-small2').classList.contains('large-card')) {
+//             darkBackground.forEach(dbg => dbg.addEventListener('click', () => {
+//                 card.querySelector('.pok-card-small2').classList.remove('large-card');
+//                 darkBackground.forEach(dbg => dbg.style.display = 'none');
+//             })
+//         )}
+//     })
+// });
+
 // document.querySelectorAll('.deckbuild1').forEach(elem => elem.addEventListener('click', () => {
 //     elem.classList.add('dark-bg');
 //     elem.getAttribute("data-targetButton").classList.remove('dark-bg');

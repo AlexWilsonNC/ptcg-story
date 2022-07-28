@@ -142,7 +142,7 @@
     justify-content: center;
     flex-wrap: wrap;
     padding: 15px 6px;
-    z-index: 1;
+    z-index: 2;
 }
 .pokemon-card2 {
     position: relative;
@@ -178,24 +178,24 @@ box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;}
     padding:2px;
 }
 
-.large-card {
-    position: fixed;
-    top: 39%;
-    left: 47%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);   
-    z-index: 200;
-    transform: scale(400%);
-    /* transition: ease-in-out all 0.2s; */
-}
 .behind-large-card {
     width:100%;height:100%;
     position: fixed;
     top: 0;left: 0;
     background-color: rgba(0,0,0,0.9);
     background: rgba(0,0,0,0.9);
-    z-index: 180;
+    z-index: 300;
     display: none;
+}
+.large-card {
+    position: fixed;
+    top: 39%;
+    left: 47%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);   
+    z-index: 1000;
+    transform: scale(400%);
+    /* transition: ease-in-out all 0.2s; */
 }
 
 .era-footer {
