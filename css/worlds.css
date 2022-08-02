@@ -291,6 +291,16 @@ li {
     margin-left: 5px;
     width: 22px;
 }
+.promo-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+}
+.promo-card img {
+    width: 40%;
+    border-radius: 10px;
+}
 
 .gallery {
     border: 3.5px solid black;

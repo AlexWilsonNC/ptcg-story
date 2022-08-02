@@ -513,10 +513,10 @@ margin-top: auto;
     #event-toc {
         width: 70%;
     }
-    .day2-right {
+    /* .day2-right {
         width:40%;
         margin-left: 0px;
-    }
+    } */
     .specific-format,
     .expanded-format,
     .top-format-graphic,
