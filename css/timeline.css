@@ -76,6 +76,26 @@
     color: blue;
 }
 
+.two-events {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.margin-left {
+    margin-left: 25px;
+}
+.more {
+     margin-top: 26px;
+}
+.center-tl-content {
+    display: flex;
+    flex-direction: column;
+}
+/* .bullet-point-ball {
+    width: 15px;
+    margin-right: 5px;
+} */
+
 @media screen and (max-width: 600px) {
     .timeline {
         width: 95%;
@@ -90,4 +110,9 @@
     .line {
         border-radius: 3px;
     }
+    .margin-left {
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+   
 }
