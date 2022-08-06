@@ -1474,13 +1474,125 @@ let masters = [
     flag: '../../../assets/flags/mexico.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/palkia.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    list: '../../../assets/list-icon.png',
+    type: 'water',
     deck: [
       {
-        cardImg: '../../../assets/cards/2008-2010',
+        cardImg: '../../../assets/cards/2008-2010/palkia-lvx-lost-cyclone.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/palkia-sp.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/mesprit-pbind.png',
         numImg: '../../../assets/04.png'
       },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf-downer-aterial.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/mismagius.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/misdreavus.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bronzong.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/raichu-sp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/honchkrow-sp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/aarons-collection.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/power-spray.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/water-energy-capsule.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/psychic-energy-capsule.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/lightning-energy-capsule.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/dark-energy-capsule.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/call-energy.png',
+        numImg: '../../../assets/04.png'
+      }
     ]
   },
   {
