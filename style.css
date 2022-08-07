@@ -150,6 +150,9 @@ hr {
 .small-text {
     font-size: 12px;
 }
+.too-much {
+    max-width: 85%;
+}
 .italic {
     font-style: italic;
 }
@@ -430,6 +433,9 @@ hr {
         position: absolute;
         bottom:0;
         left:0;
+    }
+    .too-much {
+        max-width: 100%;
     }
 }
 @media screen and (max-width: 550px) {
