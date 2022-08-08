@@ -174,6 +174,7 @@ hr {
     font-size: 12px;
     color: rgb(49, 49, 49);
     text-align: center;
+    margin-bottom: 25px;
 }
 .hide-it-yo {
     display: none;
