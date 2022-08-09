@@ -262,6 +262,15 @@ li {
 .sprite {
     width: 55px;
 }
+
+.lcq-q li {
+    font-size: 12px;
+}
+.lead {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 .second-sprite {
     margin-left: -17.5px;
 }

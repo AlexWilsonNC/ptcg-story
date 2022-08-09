@@ -169,6 +169,9 @@ box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;}
     left: 0;
     width: 65px;
 }
+.pok-card-banned {
+    width: 130px;
+}
 .num-2 {
     position: absolute;
     width: 22px;
@@ -541,5 +544,8 @@ margin-top: auto;
     }
     .message-us {
         width: 95%;
+    }
+    .pok-card-banned {
+        width: 115px;
     }
 }
