@@ -41,7 +41,8 @@
     justify-content: center;
     margin: 25px 0px 20px 0px;
 }
-#event-toc {
+#event-toc,
+#event-toc2 {
     border-radius: 10px;
     border: 1px solid grey;
     padding: 10px 35px;
@@ -60,18 +61,22 @@
     width: 100%;
     margin-top: 20px;
 } */
-#event-toc ul {
+#event-toc ul,
+#event-toc2 ul {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-#event-toc li {
+#event-toc li,
+#event-toc2 li {
     line-height: 25px;
 }
-#event-toc li a {
+#event-toc li a,
+#event-toc2 li a {
     color: #000;
 }
-#event-toc li a:hover {
+#event-toc li a:hover,
+#event-toc2 li a:hover {
     color: rgb(189, 129, 0);
 }
 .small-1 {
@@ -365,10 +370,6 @@ margin-top: auto;
 .idontknow {
     max-width: 60%
 }
-.othbans {
-    text-align: center;
-    margin-top: 7px;
-}
 
 /************************/
 
@@ -524,11 +525,15 @@ margin-top: auto;
         margin-right: -50%;
         transform: scale(600%);
     }
-    #event-toc ul {
+    #event-toc ul,
+    #event-toc2 {
         font-size: 10px;
     }
     #event-toc {
         width: 70%;
+    }
+    #event-toc2 {
+        width: 79%;
     }
     /* .day2-right {
         width:40%;
@@ -574,11 +579,7 @@ margin-top: auto;
     .idontknow {
         max-width: 85%
     }
-    #event-toc p {
-        font-size: 8px;
-    }
-    .othbans {
-        font-size: 10px;
-        margin-top: 4px;
+    #event-toc2 p {
+        font-size: 8.7px;
     }
 }
