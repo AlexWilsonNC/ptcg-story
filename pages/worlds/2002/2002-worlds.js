@@ -7,7 +7,7 @@ const modalBottom = document.querySelector('.modal-bottom');
 let masters = [
   {
     firstName: 'Dylan Austin',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/feraligatr.png',
     sprite2: '../../../assets/sprites/slowking.png',
     list: '../../../assets/list-icon.png',
@@ -475,12 +475,372 @@ let masters = [
       },
     ]
   },
+  {
+    firstName: 'Luke Reed',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Drew Holton',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'David Hausknecht',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Jonathan Schweppe',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Tom Dolezal',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Eric Brooks',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Tony Lau',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'David Marquardt',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Michael Pramawat',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Seena Ghaziaksa',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Ioannis Giannopoulos',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Jonathan Brooks',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Joey Fulford',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Nicholas Morton',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Wayne Gralewski Jr',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Milan Musil',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Eric De Leon III',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Alex Schanz',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Yi-An Lu',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Roy Roberson',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Alessandro Caserta',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Tommy Derian',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Brain Six',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Zer-Ken Yap',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+    ]
+  },
 ]
 
 let seniors = [
   {
-    firstName: 'Mindy Lambke',
-    flag: '../../../assets/flags/unknown.png',
+    firstName: 'Mindy Lambkee',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/donphan.png',
     sprite2: '../../../assets/sprites/slowking.png',
     list: '../../../assets/list-icon.png',
@@ -575,7 +935,7 @@ let seniors = [
   },
   {
     firstName: 'Ryan Carter',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/kingdra.png',
     sprite2: '../../../assets/sprites/steelix.png',
     list: '../../../assets/list-icon.png',
@@ -685,7 +1045,7 @@ let seniors = [
   },
   {
     firstName: 'Bryan Cresswell',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/feraligatr.png',
     sprite2: '../../../assets/sprites/slowking.png',
     list: '../../../assets/list-icon.png',
@@ -784,8 +1144,8 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Jefre Robert',
-    flag: '../../../assets/flags/usa.png',
+    firstName: 'Robert Jeffre',
+    flag: '../../../assets/flags/belgium.png',
     sprite1: '../../../assets/sprites/entei.png',
     sprite2: '../../../assets/sprites/magcargo.png',
     list: '../../../assets/list-icon.png',
@@ -928,12 +1288,372 @@ let seniors = [
       },
     ]
   },
+  {
+    firstName: 'Joshuwa Hallberg',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Mikael Bondum',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Benjamin Sauk',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Brianna Bonham',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Dan Richard',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Tracy Cho',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'I-Han Lu',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Taylor Davis',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Jonathan Hausknecht',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Nicholas Chimento',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Caitlin Christian',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Nicholas Kukshtel',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Jose Eguia',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Daniel Mermelstein',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Darian Gonzalez',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Dylan Langenstein',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Shaun Banham',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Christopher Noren',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Michael Tapia',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Amy Clarke',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Dillon Jarman',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Jared Biehl',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Orion Craig',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Robbie Borchardt',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
 ]
 
 let juniors = [
   {
     firstName: 'Alex Brosseau',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/chansey.png',
     list: '../../../assets/list-icon.png',
@@ -1068,14 +1788,114 @@ let juniors = [
   },
   {
     firstName: 'Elaine Chase',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/norway.png',
     sprite1: '../../../assets/sprites/sneasel.png',
     sprite2: '../../../assets/sprites/wigglytuff.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../assets/list-icon.png',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/base-fossil',
+        cardImg: '../../../assets/cards/base-fossil/n1.025.sneasel.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.014.slowking.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.014.slowking.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.024.murkrow.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n2.066.tyrogue.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.071.computer_search.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.074.item_finder.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.075.lass_.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.085.energy_charge.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.095.switch.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.086.focus_band.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.097.sprout_tower.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.104.darkness_energy.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.105.recycle_energy.jpg',
         numImg: '../../../assets/04.png',
         oldCard: true
       },
