@@ -477,7 +477,7 @@ let masters = [
   },
   {
     firstName: 'Luke Reed',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
@@ -612,7 +612,7 @@ let masters = [
   },
   {
     firstName: 'Seena Ghaziaksa',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
@@ -642,7 +642,7 @@ let masters = [
   },
   {
     firstName: 'Jonathan Brooks',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
@@ -672,7 +672,7 @@ let masters = [
   },
   {
     firstName: 'Nicholas Morton',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
@@ -792,7 +792,7 @@ let masters = [
   },
   {
     firstName: 'Tommy Derian',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
@@ -1144,7 +1144,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Robert Jeffre',
+    firstName: 'Jefre Robert',
     flag: '../../../assets/flags/belgium.png',
     sprite1: '../../../assets/sprites/entei.png',
     sprite2: '../../../assets/sprites/magcargo.png',
@@ -1425,7 +1425,7 @@ let seniors = [
   },
   {
     firstName: 'Nicholas Chimento',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
@@ -1620,7 +1620,7 @@ let seniors = [
   },
   {
     firstName: 'Orion Craig',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
@@ -1788,7 +1788,7 @@ let juniors = [
   },
   {
     firstName: 'Elaine Chase',
-    flag: '../../../assets/flags/unknown.png',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/sneasel.png',
     sprite2: '../../../assets/sprites/wigglytuff.png',
     list: '../../../assets/sprites/blank.png',
