@@ -152,14 +152,15 @@
     justify-content: center;
     align-items: flex-end;
     margin: 2.5px;
-/* border-radius */
--webkit-border-radius: 20px;
--moz-border-radius: 20px;
-border-radius: 20px;
-/* box-shadow */
--webkit-box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
--moz-box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
-box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;}
+    /* border-radius */
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    /* box-shadow */
+    -webkit-box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
+    -moz-box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
+    box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
+}
 .pokemon-card2:hover {
     cursor: pointer;
 }
@@ -171,6 +172,12 @@ box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;}
 }
 .pok-card-banned {
     width: 130px;
+}
+.pok-card-banned-era {
+    width: 100px;
+}
+.pok-card-small2-banned  {
+    width: 220px;
 }
 .num-2 {
     position: absolute;
@@ -354,6 +361,13 @@ margin-top: auto;
 }
 .opace {
     opacity: 0.7;
+}
+
+.errata-img {
+    max-width: 75%;
+}
+.idontknow {
+    max-width: 60%
 }
 
 /************************/
@@ -547,5 +561,17 @@ margin-top: auto;
     }
     .pok-card-banned {
         width: 115px;
+    }
+    .pok-card-banned-era {
+        width: 80px;
+    }
+    .pok-card-small2-banned  {
+        width: 80px;
+    }
+    .errata-img {
+        max-width: 94%;
+    }
+    .idontknow {
+        max-width: 85%
     }
 }

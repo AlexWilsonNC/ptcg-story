@@ -1400,6 +1400,11 @@ let masters = [
         oldCard: true
       },
       {
+        cardImg: '../../../assets/cards/e-reader/underground-expedition.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
         cardImg: '../../../assets/cards/2004-2006/lanette-net-search-e-reader.png',
         numImg: '../../../assets/01.png'
       },
@@ -1464,10 +1469,6 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/e-reader/rainbow-energy.jpg',
-        numImg: '../../../assets/01.png'
-      },
-      {
-        cardImg: '../../../assets/cards/energy/question-mark.png',
         numImg: '../../../assets/01.png'
       },
     ]
