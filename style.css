@@ -16,6 +16,7 @@ html,body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    scroll-behavior: smooth;
 }
 /* body {
     background-image: url(./assets/subtle-rombus-white-gray-pattern-background_1017-25098.webp);

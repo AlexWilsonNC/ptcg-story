@@ -124,6 +124,10 @@
 .auto-day2-area2 ol {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+}
+.day2-right-worlds {
+    width: 70%;
 }
 .day2-right {
     margin-left: 80px;
@@ -300,7 +304,8 @@ li {
     margin-left: 5px;
     width: 22px;
 }
-.promo-card {
+.promo-card,
+.promo-card2 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -308,6 +313,10 @@ li {
 }
 .promo-card img {
     width: 40%;
+    border-radius: 5px;
+}
+.promo-card2 img {
+    width: 60%;
     border-radius: 5px;
 }
 
@@ -623,6 +632,9 @@ li {
     .others-icons {
         width: 75%;
     }
+    .day2-right-worlds {
+        width: 50%;
+    }
 }
 @media screen and (max-width: 1300px) {
     .modal {
@@ -675,6 +687,15 @@ li {
     }
     .others-box p {
         width: 70%;
+    }
+    .day2-right-worlds {
+        width: 40%;
+    }
+    .rating-zone {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
     }
 }
 @media screen and (max-width: 950px) {
@@ -1016,6 +1037,12 @@ li {
 @media screen and (max-width: 550px) {
     .day2-right {
         margin-left: 90px;
+    }
+    .rating-zone {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
     }
 }
 
