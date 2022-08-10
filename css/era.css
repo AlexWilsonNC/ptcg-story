@@ -179,6 +179,7 @@
 }
 .pok-card-small2-banned  {
     width: 220px;
+    margin-bottom: -7px;
 }
 .num-2 {
     position: absolute;
@@ -367,8 +368,28 @@ margin-top: auto;
 .errata-img {
     max-width: 75%;
 }
-.idontknow {
-    max-width: 60%
+.red-outline {
+    border: 2px solid red;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px 0px;
+    width: 55%;
+    margin: 15px 0px;
+}
+.red-outline .deck-description {
+    width: 80%;
+    padding: 20px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+.red-outline .deck-description p {
+    transform: scale(0.95);
+}
+.moved-up {
+    position: relative;
+    margin-top: -37px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 /************************/
@@ -514,6 +535,9 @@ margin-top: auto;
         width: 80.5%;
         font-size: 12px;
     }
+    .deck-description p {
+        text-align: center;
+    }
     .pok-card-small2 {
         width: 53px;
     }
@@ -581,5 +605,14 @@ margin-top: auto;
     }
     #event-toc2 p {
         font-size: 8.7px;
+    }
+    .red-outline {
+        border: 1px solid red;
+        padding: 15px 0px;
+        width: 90%;
+        margin: 15px 0px;
+    }
+    .moved-up {
+        margin-top: -33px;
     }
 }
