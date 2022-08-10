@@ -49,6 +49,7 @@
     border: 2px solid black;
     border-radius: 4px;
     transition: ease all 0.2s;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
 }
 .worlds-box p,
 .others-box p {
@@ -161,7 +162,22 @@
     width: 180px;
 }
 .worlds-logo4 {
-    width: 100px;
+    width: 250px;
+}
+.worlds-logo5 {
+    width: 150px;
+}
+.worlds-logo6 {
+    width: 270px;
+}
+.worlds-logo7 {
+    width: 220px;
+}
+.worlds-logo8 {
+    width: 239px;
+}
+.worlds-logo9 {
+    width: 290px;
 }
 .worlds-loc {
     width: 100%;
