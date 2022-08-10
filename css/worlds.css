@@ -121,6 +121,9 @@
     width: 100%;
     margin-top: 20px;
 }
+.auto-day2-area-2022 {
+    width: 100%;
+}
 .auto-day2-area2 ol {
     display: flex;
     flex-direction: row;
@@ -131,6 +134,9 @@
 }
 .day2-right {
     margin-left: 80px;
+}
+.auto-day2-area-2022 .rating-zone {
+    width: 40%;
 }
 .rating-zone {
     display: flex;
@@ -149,6 +155,12 @@
 }
 .worlds-logo,
 .worlds-logo2 {
+    width: 100px;
+}
+.worlds-logo3 {
+    width: 180px;
+}
+.worlds-logo4 {
     width: 100px;
 }
 .worlds-loc {
