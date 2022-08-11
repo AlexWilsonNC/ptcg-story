@@ -153,6 +153,51 @@
     color:rgb(187, 173, 45);
 }
 
+.rules-description {
+    width: 40.5%;
+    text-align: start;
+    padding: 20px 10px 10px;
+    border-radius: 10px;
+    background-color: #313131;
+    color:#fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.center-rules {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+.weakness-hr {
+    width: 45%;
+    margin: 10px 0px;
+}
+.weak-resist {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 50%;
+}
+.reg-txt {
+    margin: 8px 0px;
+    font-size: 20px;
+}
+.red-outline .rules-description {
+    width: 80%;
+    padding: 20px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+.parenthases {
+    margin: -2px 0px 8px 25px;
+    font-size: 18px;
+}
+.heads-tails {
+    margin: -2px 0px 8px 45px;
+    font-size: 16px;
+}
+
 .deck-box {
     width: 55%;
     border: 3px solid #000;
@@ -451,6 +496,9 @@ margin-top: auto;
     .format-deck-title {
         width: 76%;
     }
+    .rules-description {
+        width: 100%;
+    }
 }
 @media screen and (max-width: 1401px) {
     .deck-box {
@@ -458,6 +506,9 @@ margin-top: auto;
     }
     .format-deck-title {
         width: 85%;
+    }
+    .red-outline {
+        width: 80%;
     }
 }
 @media screen and (max-width: 1271px) {
@@ -494,6 +545,21 @@ margin-top: auto;
     }
     .pok-card-small2-banned  {
         width: 128px;
+    }
+    .reg-txt {
+        margin: 8px 0px;
+        font-size: 17px;
+    }
+    .parenthases {
+        margin: -2px 0px 8px 25px;
+        font-size: 14px;
+    }
+    .heads-tails {
+        margin: -2px 0px 8px 45px;
+        font-size: 12px;
+    }
+    .weak-resist {
+        width: 70%;
     }
 }
 @media screen and (max-width: 850px) {
@@ -649,5 +715,23 @@ margin-top: auto;
     .toc-top-box h2 {
         padding: 6px 35px;
         font-size: 18px;
+    }
+    .reg-txt {
+        margin: 8px 0px;
+        font-size: 14px;
+    }
+    .parenthases {
+        margin: -2px 0px 8px 25px;
+        font-size: 11px;
+    }
+    .heads-tails {
+        margin: -2px 0px 8px 45px;
+        font-size: 9px;
+    }
+    .weak-resist {
+        width: 100%;
+    }
+    .weakness-hr {
+        width: 70%;
     }
 }
