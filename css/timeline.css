@@ -11,7 +11,7 @@
 .timeline-yr h3 {
     font-size: 36px;
     padding: 6px 0px 6px 30px;
-    background-color: #1c2d3c;
+    background-image: linear-gradient(to bottom right, #1c2d3c, #17466f);
     color: white;
     border-bottom-right-radius: 15px;
     border-top-right-radius: 15px;

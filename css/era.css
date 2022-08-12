@@ -24,8 +24,7 @@
 
 .format {
     font-size: 26px;
-    margin: 10px 0px 10px;
-    background-image: linear-gradient(to bottom right, rgb(62, 28, 28), rgb(137, 123, 0));    
+    margin: 10px 0px 10px;    
     color:white;
     border-radius: 15px;
     padding: 5px 35px;
@@ -132,12 +131,9 @@
 .deck-description {
     width: 40.5%;
     text-align: start;
-    border: 1px solid #000;
     padding: 20px 10px 10px;
     border-radius: 10px;
-    border-top: none;
     margin-top: -7.5px;
-    background-image: linear-gradient(to top right, rgb(15, 10, 20), rgb(8, 8, 48));
     color:#fff;
     font-size: 20px;
     display: flex;
@@ -145,6 +141,7 @@
     align-items: center;
 }
 .deck-description a {
+    margin-top: 7px;
     margin-bottom: 10px;
     font-style: italic;
     color:rgb(0, 145, 197);
@@ -158,9 +155,9 @@
 .rules-description {
     width: 40.5%;
     text-align: start;
-    padding: 20px 10px 10px;
+    padding: 20px 0px 10px;
     border-radius: 10px;
-    background-image: linear-gradient(to top right, rgb(15, 10, 20), rgb(8, 8, 48));
+    background-color: transparent;
     color:#fff;
     display: flex;
     flex-direction: column;
@@ -175,6 +172,7 @@
 .weakness-hr {
     width: 45%;
     margin: 10px 0px;
+    color: white;
 }
 .weak-resist {
     display: flex;
@@ -189,7 +187,6 @@
 .red-outline .rules-description {
     width: 80%;
     padding: 20px;
-    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 .parenthases {
     margin: -2px 0px 8px 25px;
@@ -200,9 +197,17 @@
     font-size: 16px;
 }
 
+.psychic-box {
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    background-image: linear-gradient(to bottom right, black, rgb(86, 0, 82));
+}
 .deck-box {
-    width: 55%;
-    border: 3px solid #000;
+    /* border: 3px solid #000; */
     border-radius: 15px;
     display: flex;
     flex-direction: row;
@@ -431,11 +436,21 @@ margin-top: auto;
     opacity: 0.7;
 }
 
+.dark-blue-bg {
+    background-image: linear-gradient(to top right, rgb(101, 28, 173), rgb(21, 21, 129));
+}
+.dark-red-bg {
+    background-image: linear-gradient(to top left, rgb(149, 0, 0), rgb(218, 125, 4));
+}
+.dark-orange-bg {
+    background-image: linear-gradient(to top right, rgb(255, 94, 0), rgb(220, 224, 0));
+}
+
 .errata-img {
     max-width: 75%;
 }
 .red-outline {
-    border: 2px solid rgb(20, 7, 78);
+    background-image: linear-gradient(to top right, rgb(129, 45, 213), rgb(0, 0, 106));
     border-radius: 15px;
     display: flex;
     align-items: center;
@@ -443,21 +458,22 @@ margin-top: auto;
     padding: 15px 0px;
     width: 55%;
     margin: 15px 0px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
 .red-outline .deck-description {
     width: 80%;
     padding: 20px;
-    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    /* box-shadow: 5px 5px 10px rgba(0,0,0,0.5); */
 }
 .red-outline .deck-description p {
     transform: scale(0.95);
 }
-.moved-up {
+/* .moved-up {
     position: relative;
     margin-top: -37px;
     margin-left: 15px;
     margin-right: 15px;
-}
+} */
 .banned-eras {
     max-width: 75%;
 }
@@ -494,7 +510,7 @@ margin-top: auto;
 }
 @media screen and (min-width: 1402px) {
     .deck-box {
-        width: 75%;
+        width: 90%;
     }
     .format-deck-title {
         width: 76%;
@@ -736,5 +752,9 @@ margin-top: auto;
     }
     .weakness-hr {
         width: 70%;
+    }
+    .format {
+        font-size: 22px;
+        margin: 0px 0px 0px;  
     }
 }
