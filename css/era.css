@@ -25,7 +25,7 @@
 .format {
     font-size: 26px;
     margin: 10px 0px 10px;
-    background-color: rgb(49, 49, 49);
+    background-image: linear-gradient(to bottom right, rgb(62, 28, 28), rgb(137, 123, 0));    
     color:white;
     border-radius: 15px;
     padding: 5px 35px;
@@ -54,6 +54,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    /* border-radius: 15px; */
+
 }
 .toc-top-box h2 {
     color: white;
@@ -61,7 +63,7 @@
 }
 #event-toc,
 #event-toc2 {
-    border: 1px solid grey;
+    border: 1px solid rgb(8, 4, 32);
     list-style: none;
     box-shadow: 5px 5px 10px 1.5px rgba(0, 0, 0, 0.3);
     padding: 30px 45px 10px;
@@ -135,7 +137,7 @@
     border-radius: 10px;
     border-top: none;
     margin-top: -7.5px;
-    background-color: #313131;
+    background-image: linear-gradient(to top right, rgb(15, 10, 20), rgb(8, 8, 48));
     color:#fff;
     font-size: 20px;
     display: flex;
@@ -158,7 +160,7 @@
     text-align: start;
     padding: 20px 10px 10px;
     border-radius: 10px;
-    background-color: #313131;
+    background-image: linear-gradient(to top right, rgb(15, 10, 20), rgb(8, 8, 48));
     color:#fff;
     display: flex;
     flex-direction: column;
@@ -433,7 +435,8 @@ margin-top: auto;
     max-width: 75%;
 }
 .red-outline {
-    border: 2px solid red;
+    border: 2px solid rgb(20, 7, 78);
+    border-radius: 15px;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -700,7 +703,7 @@ margin-top: auto;
         font-size: 8.7px;
     }
     .red-outline {
-        border: 1px solid red;
+        border: 1px solid rgb(20, 7, 78);
         padding: 15px 0px;
         width: 90%;
         margin: 15px 0px;
@@ -718,15 +721,15 @@ margin-top: auto;
     }
     .reg-txt {
         margin: 8px 0px;
-        font-size: 14px;
+        font-size: 9px;
     }
     .parenthases {
         margin: -2px 0px 8px 25px;
-        font-size: 11px;
+        font-size: 8px;
     }
     .heads-tails {
         margin: -2px 0px 8px 45px;
-        font-size: 9px;
+        font-size: 7px;
     }
     .weak-resist {
         width: 100%;
