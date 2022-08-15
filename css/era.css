@@ -172,7 +172,7 @@
 .weakness-hr {
     width: 45%;
     margin: 10px 0px;
-    color: white;
+    border-bottom: 1px solid white;
 }
 .weak-resist {
     display: flex;
@@ -191,6 +191,14 @@
 .parenthases {
     margin: -2px 0px 8px 25px;
     font-size: 18px;
+    color: white;
+}
+.format-era-txt {
+    margin-top: -4px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: white;
+    text-align: center;
 }
 .heads-tails {
     margin: -2px 0px 8px 45px;
@@ -442,21 +450,39 @@ margin-top: auto;
 .opace {
     opacity: 0.7;
 }
+.hide-rules {
+    display: none;
+}
 
+.rule-hover:hover {
+    cursor: pointer;
+}
 .dark-blue-bg {
-    background-image: linear-gradient(to top right, rgb(101, 28, 173), rgb(21, 21, 129));
+    background-image: linear-gradient(to top right, #000428 , #004e92);
+}
+.dark-augurn-bg {
+    background-image: linear-gradient(to top left, #aa076b , #61045f);
 }
 .dark-red-bg {
-    background-image: linear-gradient(to top left, rgb(149, 0, 0), rgb(218, 125, 4));
+    background-image: linear-gradient(to top left, rgb(169, 0, 0), rgb(218, 125, 4));
 }
 .dark-teal-bg {
-    background-image: linear-gradient(to top right, rgb(0, 184, 3), rgb(0, 99, 174));
+    background-image: linear-gradient(to top right, #154200, #549a00);
 }
 .dark-orange-bg {
-    background-image: linear-gradient(to top right, rgb(208, 0, 219), rgb(230, 130, 0));
+    background-image: linear-gradient(to top left, rgb(208, 0, 219), rgb(230, 130, 0));
 }
 .dark-green-bg {
-    background-image: linear-gradient(to top right, rgb(0, 169, 112), rgb(0, 51, 191));
+    background-image: linear-gradient(to top right, rgb(0, 136, 91), rgb(0, 51, 191));
+}
+.dark-lightblue-bg {
+    background-image: linear-gradient(to top right, #004570 , #0093b4);
+}
+.dark-mauve-bg {
+    background-image: linear-gradient(to top left, #3e2158 , #85537e);
+}
+.dark-love-bg {
+    background-image: linear-gradient(to top left, #ffaf7b, #d76d77, #3a1c71);
 }
 
 .errata-img {
@@ -748,11 +774,11 @@ margin-top: auto;
     }
     .reg-txt {
         margin: 8px 0px;
-        font-size: 9px;
+        font-size: 10px;
     }
     .parenthases {
         margin: -2px 0px 8px 25px;
-        font-size: 8px;
+        font-size: 9px;
     }
     .heads-tails {
         margin: -2px 0px 8px 45px;
@@ -771,5 +797,9 @@ margin-top: auto;
     .gradient-box {
         width: 95%;
         border-radius: 12px;
+    }
+    .format-era-txt {
+        margin-top: -4px;
+        font-size: 10px;
     }
 }
