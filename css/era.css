@@ -449,8 +449,14 @@ margin-top: auto;
 .dark-red-bg {
     background-image: linear-gradient(to top left, rgb(149, 0, 0), rgb(218, 125, 4));
 }
+.dark-teal-bg {
+    background-image: linear-gradient(to top right, rgb(0, 184, 3), rgb(0, 99, 174));
+}
 .dark-orange-bg {
-    background-image: linear-gradient(to top right, rgb(255, 94, 0), rgb(220, 224, 0));
+    background-image: linear-gradient(to top right, rgb(208, 0, 219), rgb(230, 130, 0));
+}
+.dark-green-bg {
+    background-image: linear-gradient(to top right, rgb(0, 169, 112), rgb(0, 51, 191));
 }
 
 .errata-img {
