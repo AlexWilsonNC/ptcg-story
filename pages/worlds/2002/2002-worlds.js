@@ -613,8 +613,8 @@ let masters = [
   {
     firstName: 'Seena Ghaziaksa',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite1: '../../../assets/sprites/donphan.png',
+    sprite2: '../../../assets/sprites/slowking.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
