@@ -5333,7 +5333,7 @@ let seniors = [
     flag: '../../../../assets/flags',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/mewtwo-mew-tagteam.png',
-    list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -5347,7 +5347,7 @@ let seniors = [
     flag: '../../../../assets/flags',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/reshiram-charizard-tagteam.png',
-    list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -5356,90 +5356,90 @@ let seniors = [
       },
     ]
   },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
 ]
 
 let juniors = [
@@ -5448,7 +5448,7 @@ let juniors = [
     flag: '../../../../assets/flags',
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
-    list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -5462,7 +5462,7 @@ let juniors = [
     flag: '../../../../assets/flags',
     sprite1: '../../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../../assets/sprites/malamar.png',
-    list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -5471,90 +5471,90 @@ let juniors = [
       },
     ]
   },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'eeeeeeeeeeeeeeeeeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    list: '../../../../assets/list-icon.png',
-    type: '',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
+  // {
+  //   firstName: 'eeeeeeeeeeeeeeeeeee',
+  //   flag: '../../../../assets/flags',
+  //   sprite1: '../../../../assets/sprites',
+  //   sprite2: '../../../../assets/sprites',
+  //   list: '../../../../assets/list-icon.png',
+  //   type: '',
+  //   deck: [
+  //     {
+  //       cardImg: '../../../../assets/cards/2019-2020',
+  //       numImg: '../../../../assets/04.png'
+  //     },
+  //   ]
+  // },
 ]
 
 //masters
