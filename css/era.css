@@ -28,7 +28,7 @@
     color:white;
     border-radius: 15px;
     padding: 5px 35px;
-    background-color: grey;
+    background-color: #313131;
 }
 .format-banned {
     font-size: 26px;
@@ -149,7 +149,20 @@
     align-items: center;
     background-image: linear-gradient(to top right, #000428 , #004e92);
 }
-.deck-description a {
+.deck-description-banned {
+    width: 40.5%;
+    text-align: start;
+    padding: 20px 10px 10px;
+    border-radius: 10px;
+    margin-top: -7.5px;
+    color:#fff;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.deck-description a,
+.deck-description-banned a {
     margin-top: 7px;
     margin-bottom: 10px;
     font-style: italic;
@@ -516,13 +529,15 @@ margin-top: auto;
     margin: 15px 0px;
     box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
 }
-.red-outline .deck-description {
+.red-outline .deck-description,
+.red-outline .deck-description-banned {
     width: 80%;
     padding: 20px;
-    background-color: transparent;
+    background-color: none;
     /* box-shadow: 5px 5px 10px rgba(0,0,0,0.5); */
 }
-.red-outline .deck-description p {
+.red-outline .deck-description p,
+.red-outline .deck-description-banned p {
     transform: scale(0.95);
 }
 /* .moved-up {
@@ -555,7 +570,8 @@ margin-top: auto;
     }
 } */
 @media screen and (min-width: 1151px) {
-    .deck-description {
+    .deck-description,
+    .deck-description-banned {
         width: 63.5%;
     }
     .pok-card-small2 {
@@ -602,7 +618,8 @@ margin-top: auto;
     .format-deck-title {
         width: 70%;
     }
-    .deck-description {
+    .deck-description,
+    .deck-description-banned {
         width: 65.5%;
     }
 }
@@ -613,7 +630,8 @@ margin-top: auto;
     .format-deck-title {
         width: 80%;
     }
-    .deck-description {
+    .deck-description,
+    .deck-description-banned {
         width: 69.5%;
     }
     .red-outline {
@@ -656,7 +674,8 @@ margin-top: auto;
     .format-deck-title {
         width: 85%;
     }
-    .deck-description {
+    .deck-description,
+    .deck-description-banned {
         width: 79.5%;
         font-size: 14px;
     }
@@ -704,11 +723,13 @@ margin-top: auto;
     .format-deck-title {
         width: 80%;
     }
-    .deck-description {
+    .deck-description,
+    .deck-description-banned {
         width: 80.5%;
         font-size: 12px;
     }
-    .deck-description p {
+    .deck-description p,
+    .deck-description-banned p {
         text-align: center;
     }
     .pok-card-small2 {
