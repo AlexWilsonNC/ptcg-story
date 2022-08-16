@@ -6229,7 +6229,7 @@ let seniors = [
 let juniors = [
   {
     firstName: 'Lucas Oldale',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/canada.png',
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
@@ -6327,7 +6327,7 @@ let juniors = [
   },
   {
     firstName: 'Pedro Cavalcanti',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/brazil.png',
     sprite1: '../../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../../assets/sprites/malamar.png',
     list: '../../../../assets/list-icon.png',
