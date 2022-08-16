@@ -6907,7 +6907,7 @@ let seniors = [
     flag: '../../../../assets/flags/france.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
       {
@@ -6921,7 +6921,7 @@ let seniors = [
     flag: '../../../../assets/flags/slovakia.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/urshifu-rapid-strike-gmax.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
       {
@@ -6935,7 +6935,7 @@ let seniors = [
     flag: '../../../../assets/flags/uk.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/whimsicott.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
       {
@@ -6949,7 +6949,7 @@ let seniors = [
     flag: '../../../../assets/flags/italy.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/moltres-galar.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
       {
@@ -7097,7 +7097,7 @@ let seniors = [
     flag: '../../../../assets/flags/spain.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     type: '',
     deck: [
       {
