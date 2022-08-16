@@ -6903,7 +6903,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Roberto C',
+    firstName: 'Roberto Costanzo',
     flag: '../../../../assets/flags/france.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
@@ -6917,10 +6917,10 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Simon B',
+    firstName: 'Simon Belanyi',
     flag: '../../../../assets/flags/slovakia.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/urshifu-rapid-strike-gmax.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -6931,7 +6931,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Alexander C',
+    firstName: 'Alexander Calder',
     flag: '../../../../assets/flags/uk.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/whimsicott.png',
@@ -6945,7 +6945,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Fabio B',
+    firstName: 'Fabio Battistella',
     flag: '../../../../assets/flags/italy.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/moltres-galar.png',
@@ -7093,7 +7093,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Julio S',
+    firstName: 'Julio Rodríguez',
     flag: '../../../../assets/flags/spain.png',
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
