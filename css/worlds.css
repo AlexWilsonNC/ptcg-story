@@ -943,6 +943,15 @@ li {
     .event-results {
         align-items: center;
     }
+    .cs-plus-ap p {
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .modal-x p {
+        font-family: 'Permanent Marker', cursive;
+        margin-bottom: 5px;
+        padding: 0px 2px;
+    }
     .hidden-prize-left {
         width: 60%;
     }
