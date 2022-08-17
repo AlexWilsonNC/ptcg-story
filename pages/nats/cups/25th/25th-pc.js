@@ -90,7 +90,7 @@ let masters = [
   {
     firstName: 'Gustavo Wada',
     flag: '../../../../assets/flags/brazil.png',
-    sprite1: '../../../../assets/sprites/victini.png',
+    sprite1: '../../../../assets/sprites/victini-vmax.png',
     sprite2: '../../../../assets/sprites/moltres-galar.png',
     list: '../../../../assets/list-icon.png',
     type: '',
