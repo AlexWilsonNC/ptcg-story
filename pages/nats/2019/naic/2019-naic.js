@@ -1154,8 +1154,8 @@ let juniors = [
   {
     firstName: 'Jaysen Metersky',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/reshiram-charizard-tagteam.png',
-    sprite2: '../../../../assets/sprites',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/reshiram-charizard-tagteam.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
