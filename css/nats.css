@@ -89,6 +89,7 @@
     border: 1px solid black;
     border-radius: 12px;
     padding: 10px 0px 10px 35px;
+    box-shadow: 5px 5px 10px rgba(11, 4, 30, 0.4);
 }
 .country-name {
     display: flex;
@@ -161,5 +162,12 @@
     }
     .country-txt {
         font-size: 16px;
+    }
+    .other-nats {
+        padding: 5px 10px 5px 15px;
+    }
+    .country-indiv {
+        width: 100%;
+        margin: 0px 5px 25px;
     }
 }
