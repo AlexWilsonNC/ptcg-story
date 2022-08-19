@@ -21,8 +21,37 @@
     padding: 5px 35px;
     transition: ease all 0.15s;
 }
+.country-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.country-box img {
+    width: 570px;
+    height: 240px;
+    border: 4px solid black;
+    border-radius: 25px;
+    transition: ease all 0.15s;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+}
+.country-txt {
+    width: 60%;
+    margin: 25px 0px;
+    text-align: center;
+    font-size: 18px;
+}
+.center-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .thin {
     width: 200px;
+}
+
+.worlds-icon ol li {
+    display: flex;
+    flex-direction: row;
 }
 
 .travel-stipends {
@@ -46,6 +75,56 @@
     max-width: 65%;
 }
 
+.other-nats {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 5px 50px 5px 60px;
+}
+.country-indiv {
+    width: 350px;
+    margin: 0px 15px 25px;
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 10px 0px 10px 35px;
+}
+.country-name {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: -17px;
+}
+.country-hr {
+    width: 96%;
+    margin: 10px 0px 5px -15px;
+}
+.country-list-item {
+    margin-left: 15px
+}
+.country-deck-icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.country-poke {
+    display: flex;
+    flex-direction: row;
+    margin-top: -15px;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 585px) {
+    .country-box img {
+        width: 84%;
+        height: auto;
+        border: 3px solid black;
+        border-radius: 20px;
+    }
+}
 @media screen and (max-width: 530px) {
     .nats-box {
         display: flex;
@@ -79,5 +158,8 @@
     .stipeds-left p,
     .stipeds-right p {
         font-size: 14px;
+    }
+    .country-txt {
+        font-size: 16px;
     }
 }
