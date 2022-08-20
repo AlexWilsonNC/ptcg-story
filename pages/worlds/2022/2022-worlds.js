@@ -126,11 +126,11 @@ let masters = [
     ]
   },
   {
-    firstName: 'nammeeeee',
-    flag: '../../../assets/flags',
+    firstName: 'Calvin Connor',
+    flag: '../../../assets/flags/usa.png',
     record: '6-2-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/palkia-origin.png',  
+    sprite1: '../../../assets/sprites/inteleon.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
