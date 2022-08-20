@@ -8,8 +8,954 @@ let masters = [
   {
     firstName: 'nammeeeee',
     flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',  
+    record: '6-2-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nammeeeee',
+    flag: '../../../assets/flags',
+    record: '6-2-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nammeeeee',
+    flag: '../../../assets/flags',
+    record: '6-2-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nammeeeee',
+    flag: '../../../assets/flags',
+    record: '6-2-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nammeeeee',
+    flag: '../../../assets/flags',
+    record: '6-2-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nammeeeee',
+    flag: '../../../assets/flags',
+    record: '6-2-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nammeeeee',
+    flag: '../../../assets/flags',
+    record: '6-2-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nammeeeee',
+    flag: '../../../assets/flags',
+    record: '6-2-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'nammeeeee',
+    flag: '../../../assets/flags',
+    record: '6-2-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Toyoaki Fujita',
+    flag: '../../../assets/flags/japan.png',
+    record: '6-2-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Grant Manley',
+    flag: '../../../assets/flags/usa.png',
+    record: '6-2-0',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/calyrex-ice-rider.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Lucas Calzà',
+    flag: '../../../assets/flags/italy.png',
+    record: '6-2-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Adam Hawkins',
+    flag: '../../../assets/flags/uk.png',
+    record: '6-2-0',
+    sprite1: '../../../assets/sprites/arceus.png',
+    sprite2: '../../../assets/sprites/aggron-vmax.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Miloslav Posledni',
+    flag: '../../../assets/flags/czech-republic.png',
+    record: '5-1-2',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/jolteon.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Ross Cawthon',
+    flag: '../../../assets/flags/usa.png',
+    record: '5-1-2',
+    sprite1: '../../../assets/sprites/charizard-shiny.png',
+    sprite2: '../../../assets/sprites/inteleon.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Isaiah Bradner',
+    flag: '../../../assets/flags/usa.png',
+    record: '5-1-2',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/inteleon.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Pablo Meza',
+    flag: '../../../assets/flags/mexico.png',
+    record: '5-1-2',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/regigigas.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Cristian Sarnataro',
+    flag: '../../../assets/flags/italy.png',
+    record: '5-1-2',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Haru Nishikawa',
+    flag: '../../../assets/flags/japan-usa.png',
+    record: '5-2-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Asaki Hasegawa',
+    flag: '../../../assets/flags/japan.png',
+    record: '5-2-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tomoki Masuda',
+    flag: '../../../assets/flags/japan.png',
+    record: '5-2-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Caleb Patton',
+    flag: '../../../assets/flags/usa.png',
+    record: '5-2-1',
+    sprite1: '../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../assets/sprites/genesect.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Takuya Baba',
+    flag: '../../../assets/flags/japan.png',
+    record: '5-2-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Mehdi Hafi',
+    flag: '../../../assets/flags/france.png',
+    record: '5-2-1',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/jolteon.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Keito Yoshihara',
+    flag: '../../../assets/flags/japan.png',
+    record: '5-2-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Azul Griego',
+    flag: '../../../assets/flags/usa.png',
+    record: '5-2-1',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/calyrex-ice-rider.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Owyn Kamerman',
+    flag: '../../../assets/flags/netherlands.png',
+    record: '5-2-1',
+    sprite1: '../../../assets/sprites/arceus.png',
+    sprite2: '../../../assets/sprites/pikachu-gmax.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Gabriel Smart',
+    flag: '../../../assets/flags/usa.png',
+    record: '5-2-1',
+    sprite1: '../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../assets/sprites/genesect.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Steven Mao',
+    flag: '../../../assets/flags/germany.png',
+    record: '5-2-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Kenki Tago',
+    flag: '../../../assets/flags/japan.png',
+    record: '5-2-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Christian LaBella',
+    flag: '../../../assets/flags/canada.png',
+    record: '5-2-1',
+    sprite1: '../../../assets/sprites/arceus.png',
+    sprite2: '../../../assets/sprites/duraludon-gmax.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tim Bartels',
+    flag: '../../../assets/flags/germany.png',
+    record: '5-2-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'João Zambrano',
+    flag: '../../../assets/flags/brazil.png',
+    record: '5-2-1',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/inteleon.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Pedro Torres',
+    flag: '../../../assets/flags/spain.png',
+    record: '5-2-1',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/jolteon.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tseng Hsiang',
+    flag: '../../../assets/flags/taiwan.png',
+    record: '5-2-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Piper Lepine',
+    flag: '../../../assets/flags/usa.png',
+    record: '5-2-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Caleb Gedemer',
+    flag: '../../../assets/flags/usa.png',
+    record: '5-2-1',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/calyrex-ice-rider.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Brent Tonisson',
+    flag: '../../../assets/flags/australia.png',
+    record: '5-2-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Ryuki Okada',
+    flag: '../../../assets/flags/japan.png',
+    record: '5-3-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Boulay Antoine',
+    flag: '../../../assets/flags/japan.png',
+    record: '5-3-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tomoya Tanaka',
+    flag: '../../../assets/flags/japan.png',
+    record: '5-3-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Fabien Pujol',
+    flag: '../../../assets/flags/france.png',
+    record: '5-3-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Pedro Pertusi',
+    flag: '../../../assets/flags/brazil.png',
+    record: '5-3-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'JW Kriewall',
+    flag: '../../../assets/flags/usa.png',
+    record: '5-3-0',
+    sprite1: '../../../assets/sprites/arceus.png',
+    sprite2: '../../../assets/sprites/pikachu-gmax.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Logan Madden',
+    flag: '../../../assets/flags/uk.png',
+    record: '5-3-0',
+    sprite1: '../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../assets/sprites/genesect.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Angus Johnson',
+    flag: '../../../assets/flags/australia.png',
+    record: '5-3-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Shoichi Saito',
+    flag: '../../../assets/flags/japan.png',
+    record: '4-1-3',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Rui Sato',
+    flag: '../../../assets/flags/japan.png',
+    record: '5-3-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Rowan Stavenow',
+    flag: '../../../assets/flags/canada.png',
+    record: '5-3-0',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tsai Yung-Ta',
+    flag: '../../../assets/flags/taiwan.png',
+    record: '4-2-2',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Shinnosuke Sato',
+    flag: '../../../assets/flags/japan.png',
+    record: '4-2-2',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Dan Hugar',
+    flag: '../../../assets/flags/usa.png',
+    record: '4-2-2',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tu Cheng-Tai',
+    flag: '../../../assets/flags/taiwan.png',
+    record: '4-2-2',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Cobi Kawasaki',
+    flag: '../../../assets/flags/usa.png',
+    record: '4-2-2',
+    sprite1: '../../../assets/sprites/charizard-shiny.png',
+    sprite2: '../../../assets/sprites/inteleon.png',  
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Takuma Tominaga',
+    flag: '../../../assets/flags/japan.png',
+    record: '4-2-2',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Fabrizio Silva',
+    flag: '../../../assets/flags/peru.png',
+    record: '4-3-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Christian Fontenot',
+    flag: '../../../assets/flags/denmark.png',
+    record: '4-3-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Manuel Jorach',
+    flag: '../../../assets/flags/germany.png',
+    record: '4-3-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Kaisei Takata',
+    flag: '../../../assets/flags/japan.png',
+    record: '4-3-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tanner Hurley',
+    flag: '../../../assets/flags/usa.png',
+    record: '4-3-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Haruto Masubuchi',
+    flag: '../../../assets/flags/japan.png',
+    record: '4-3-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Takuya Hasegawa',
+    flag: '../../../assets/flags/japan.png',
+    record: '4-3-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Syahmi Razak',
+    flag: '../../../assets/flags/liberia-malaysia.png',
+    record: '4-3-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Luca Clavadetscher',
+    flag: '../../../assets/flags/switzerland.png',
+    record: '4-3-1',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -25,8 +971,9 @@ let seniors = [
   {
     firstName: 'nammeeeee',
     flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',  
+    record: '6-2',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -42,8 +989,9 @@ let juniors = [
   {
     firstName: 'nammeeeee',
     flag: '../../../assets/flags',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',  
+    record: '6-2',
+    sprite2: '../../../assets/sprites/blank.png',  
+    sprite1: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
