@@ -48,6 +48,12 @@
     justify-content: center;
     margin: 25px 0px 20px 0px;
 }
+#ToCline {
+    display: flex;
+    position: absolute;
+    margin-top: 30vh;
+    margin-left: 50px;
+}
 /* .toc-wallpaper {
     position: relative;
     height: 300px;
@@ -62,6 +68,8 @@
     justify-content: center;
     align-items: center;
     /* border-radius: 15px; */
+}
+.toc-top-box-line {
 
 }
 .toc-top-box h2 {
@@ -76,6 +84,14 @@
     padding: 30px 45px 10px;
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 10px;
+}
+#event-toc2line {
+    border: 1px solid rgb(8, 4, 32);
+    list-style: none;
+    box-shadow: 5px 5px 10px 1.5px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 30px 45px 10px;
+    width: 200px;
 }
 .deckss-left {
     width:45%;

@@ -6,11 +6,11 @@ const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
   {
-    firstName: 'nammeeeee',
-    flag: '../../../assets/flags',
-    record: '6-2-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    firstName: 'Ondřej Škubal',
+    flag: '../../../assets/flags/czech-republic.png',
+    record: '9-0-2',
+    sprite1: '../../../assets/sprites/arceus.png',
+    sprite2: '../../../assets/sprites/pikachu-gmax.png',  
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -21,11 +21,11 @@ let masters = [
     ]
   },
   {
-    firstName: 'nammeeeee',
-    flag: '../../../assets/flags',
-    record: '6-2-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    firstName: 'Daichi Shimada',
+    flag: '../../../assets/flags/japan.png',
+    record: '9-1-1',
+    sprite1: '../../../assets/sprites/arceus.png',
+    sprite2: '../../../assets/sprites/pikachu-gmax.png',  
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -36,11 +36,11 @@ let masters = [
     ]
   },
   {
-    firstName: 'nammeeeee',
-    flag: '../../../assets/flags',
-    record: '6-2-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    firstName: 'Ryota Ishiyama',
+    flag: '../../../assets/flags/japan.png',
+    record: '8-2-0',
+    sprite1: '../../../assets/sprites/arceus.png',
+    sprite2: '../../../assets/sprites/pikachu-gmax.png',  
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -51,11 +51,11 @@ let masters = [
     ]
   },
   {
-    firstName: 'nammeeeee',
-    flag: '../../../assets/flags',
-    record: '6-2-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    firstName: 'James Cox',
+    flag: '../../../assets/flags/australia.png',
+    record: '7-2-1',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/inteleon.png',  
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -66,11 +66,11 @@ let masters = [
     ]
   },
   {
-    firstName: 'nammeeeee',
-    flag: '../../../assets/flags',
-    record: '6-2-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    firstName: 'Andrew Estrada',
+    flag: '../../../assets/flags/canada.png',
+    record: '6-2-1',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/inteleon.png',  
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -81,11 +81,11 @@ let masters = [
     ]
   },
   {
-    firstName: 'nammeeeee',
-    flag: '../../../assets/flags',
-    record: '6-2-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    firstName: 'André Chiasson',
+    flag: '../../../assets/flags/canada.png',
+    record: '6-2-1',
+    sprite1: '../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../assets/sprites/genesect.png',  
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -96,11 +96,11 @@ let masters = [
     ]
   },
   {
-    firstName: 'nammeeeee',
-    flag: '../../../assets/flags',
-    record: '6-2-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    firstName: 'Kaiwen Cabbabe',
+    flag: '../../../assets/flags/australia.png',
+    record: '6-2-1',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/inteleon.png',  
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -111,11 +111,11 @@ let masters = [
     ]
   },
   {
-    firstName: 'nammeeeee',
-    flag: '../../../assets/flags',
-    record: '6-2-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    firstName: 'Otavio Gouveia',
+    flag: '../../../assets/flags/brazil.png',
+    record: '6-2-1',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/inteleon.png',  
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -128,9 +128,9 @@ let masters = [
   {
     firstName: 'Calvin Connor',
     flag: '../../../assets/flags/usa.png',
-    record: '6-2-0',
-    sprite2: '../../../assets/sprites/palkia-origin.png',  
-    sprite1: '../../../assets/sprites/inteleon.png',
+    record: '6-2-1',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/inteleon.png',  
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -144,8 +144,8 @@ let masters = [
     firstName: 'Toyoaki Fujita',
     flag: '../../../assets/flags/japan.png',
     record: '6-2-0',
-    sprite2: '../../../assets/sprites/blank.png',  
     sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/blank.png',  
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -174,8 +174,8 @@ let masters = [
     firstName: 'Lucas Calzà',
     flag: '../../../assets/flags/italy.png',
     record: '6-2-0',
-    sprite2: '../../../assets/sprites/blank.png',  
     sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/blank.png',  
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -1050,7 +1050,7 @@ function displayList(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2022 Worlds";
+                    document.querySelector('.playerName').innerHTML = item.firstName + " " + "(" + item.record + ")" + " - 2022 Worlds";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
@@ -1174,7 +1174,7 @@ function displayList2(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2022 Worlds";
+                    document.querySelector('.playerName').innerHTML = item.firstName + " " + "(" + item.record + ")" + " - 2022 Worlds";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
@@ -1297,7 +1297,7 @@ function displayList3(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2022 Worlds";
+                    document.querySelector('.playerName').innerHTML = item.firstName + " " + "(" + item.record + ")" + " - 2022 Worlds";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
