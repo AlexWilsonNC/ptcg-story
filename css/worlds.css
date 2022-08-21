@@ -961,6 +961,9 @@ li {
     .event-results {
         align-items: center;
     }
+    .country-txt {
+        font-size: 16px;
+    }
     .cs-plus-ap p {
         font-size: 14px;
         font-weight: bold;
