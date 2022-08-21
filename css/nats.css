@@ -1,4 +1,5 @@
-.nats-box {
+.nats-box,
+.japan-box {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -11,8 +12,10 @@
     border-radius: 5px;
     transition: ease all 0.15s;
     box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+    /* display: block; */
 }
-.nats-box p {
+.nats-box p,
+.japan-box p {
     font-size: 26px;
     margin-top: 10px;
     background-color: rgb(49, 49, 49);
@@ -21,6 +24,19 @@
     padding: 5px 35px;
     transition: ease all 0.15s;
 }
+.up-up {
+    margin-top: -2px;
+}
+
+.japan-box img {
+    width: 300px;
+    height: 160px;
+    border: 2px solid black;
+    border-radius: 5px;
+    transition: ease all 0.15s;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+}
+
 .country-box {
     display: flex;
     flex-direction: column;
@@ -146,7 +162,8 @@
     }
 }
 @media screen and (max-width: 530px) {
-    .nats-box {
+    .nats-box,
+    .japan-box {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -161,8 +178,22 @@
         border: 1.5px solid black;
         border-radius: 4px;
     }
+    .japan-box img {
+        width: 164px;
+        height: 85px;
+        border: 1.5px solid black;
+        border-radius: 4px;
+    }
     .nats-box p {
         font-size: 16px;
+        margin-top: 5px;
+        background-color: rgb(49, 49, 49);
+        color:white;
+        border-radius: 10px;
+        padding: 3px 15px;
+    }
+    .japan-box p {
+        font-size: 13px;
         margin-top: 5px;
         background-color: rgb(49, 49, 49);
         color:white;
@@ -188,5 +219,8 @@
     .country-indiv {
         width: 100%;
         margin: 0px 5px 25px;
+    }
+    .up-up {
+        margin-top: -7px;
     }
 }

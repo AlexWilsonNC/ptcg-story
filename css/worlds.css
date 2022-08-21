@@ -284,6 +284,10 @@ li {
     margin-right: 10px;
     border-radius: 5px;
 }
+.flag-size-large {
+    width: 30px;
+    border-radius: 5px;
+}
 .results-list-item {
     display: flex;
     flex-direction: row;
@@ -299,7 +303,7 @@ li {
 }
 .sprite {
     width: 55px;
-    height: 45.3px;
+    /* height: 45.3px; */
 }
 
 .lcq-q li {
