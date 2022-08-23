@@ -3424,7 +3424,7 @@ let seniors = [
     firstName: 'Ojvind Svinhufvud',
     flag: '../../../assets/flags/finland.png',
     sprite1: '../../../assets/sprites/donphan.png',
-    sprite2: '../../../assets/sprites/entei.png',
+    sprite2: '../../../assets/sprites/manectric.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
     deck: [
