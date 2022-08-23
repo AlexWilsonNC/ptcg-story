@@ -3702,12 +3702,12 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/inteleon-quick-shooting.png',
-        numImg: '../../../../assets/01.png'
-      },
-      {
         cardImg: '../../../../assets/cards/2022-2023/inteleon-shady-dealings.png',
         numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/inteleon-quick-shooting.png',
+        numImg: '../../../../assets/01.png'
       },
       {
         cardImg: '../../../../assets/cards/2022-2023/drizzile.png',
