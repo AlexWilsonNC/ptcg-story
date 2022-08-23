@@ -1330,92 +1330,92 @@ let masters = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023',
+        cardImg: '../../../assets/cards/2022-2023/radiant-greninja.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/crobat-v.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/starmie-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/empoleon-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/lumineon-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/professor-research-rowan.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/marnie.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/melony.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/bosss-orders-cyrus.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/roxanne.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/irida.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/quick-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023',
+        cardImg: '../../../assets/cards/2022-2023/ultra-ball.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/2022-2023/trekking-shoes.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/2022-2023/capacious-bucket.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/2022-2023/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/2022-2023/pal-pad.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/2022-2023/memory-capsule.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/2022-2023/choice-belt.png',
+        numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/2022-2023/air-balloon.png',
+        numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/2022-2023/shopping-center.png',
+        numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/new-energy/water-energy-brs.png',
+        numImg: '../../../assets/07.png'
       },
     ]
   },
@@ -1426,11 +1426,123 @@ let masters = [
     sprite1: '../../../assets/sprites/charizard-shiny.png',
     sprite2: '../../../assets/sprites/inteleon.png',  
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2022-2023',
+        cardImg: '../../../assets/cards/2022-2023/radiant-charizard.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/inteleon-shady-dealings.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/drizzile.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/sobble.png',
         numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/mew.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/snorlax.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/manaphy.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/zigzagoon-galarian.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/irida.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/raihan.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/klara.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/bosss-orders-cyrus.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/cross-switcher.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/scoop-up-net.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/level-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/quick-ball.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/evolution-incense.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/energy-search.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/heavy-ball-hisuian.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/rescue-carrier.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/rare-candy-go.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/tool-scrapper.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/choice-belt.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/air-balloon.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/magma-basin.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/fire-energy-brs.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/water-energy-brs.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/twin-energy.png',
+        numImg: '../../../assets/01.png'
       },
     ]
   },
