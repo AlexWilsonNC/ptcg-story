@@ -450,6 +450,10 @@ li {
 .cs-plus-ap p {
     font-size: 18px;
     font-weight: bold;
+    background-color: rgba(0,0,0,0.8);
+    padding: 7px 15px;
+    border-radius: 15px;
+    color: white;
 }
 .behind-modal {
     width:100%;height:100%;
@@ -491,7 +495,7 @@ li {
 .modal-x {
     font-size: 18px;
     padding: 10px;
-    margin-top: -10px;
+    /* margin-top: -10px; */
     color: white;
     background-color: rgba(0,0,0,0.8);
     border: 1px solid rgb(163, 163, 163);
@@ -499,13 +503,14 @@ li {
     padding: 5px 13px 5px 13px;
     font-weight: bold;
     box-shadow: 0.5px 0.5px 10px rgba(175, 0, 0, 0.2);
+    transition: ease all 0.1s;
 }
 .modal-x p {
     font-family: 'Permanent Marker', cursive;
 }
 .modal-x:hover {
     cursor: pointer;
-    color: rgb(188, 0, 0);
+    color: rgb(114, 20, 20);
     border: 1px solid rgba(175, 0, 0, 0.7);
 }
 .modal-bottom {
@@ -774,6 +779,10 @@ li {
     }
 }
 @media screen and (max-width: 780px) {
+    .cs-plus-ap p {
+        font-size: 16px;
+        font-weight: bold;
+    }
     .summary,
     .event-results {
         display: flex;
@@ -966,12 +975,12 @@ li {
         font-size: 16px;
     }
     .cs-plus-ap p {
-        font-size: 14px;
+        font-size: 13px;
         font-weight: bold;
     }
     .modal-x p {
         font-family: 'Permanent Marker', cursive;
-        margin-bottom: 5px;
+        margin-bottom: 6px;
         padding: 0px 2px;
     }
     .hidden-prize-left {

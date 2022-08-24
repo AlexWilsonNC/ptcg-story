@@ -1113,7 +1113,7 @@ let masters = [
     sprite1: '../../../assets/sprites/regigigas.png',
     sprite2: '../../../assets/sprites/abomasnow.png',
     list: '../../../assets/list-icon.png',
-    type: 'metal',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2008-2010/regigigas-lvx.png',
