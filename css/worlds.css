@@ -450,7 +450,7 @@ li {
 .cs-plus-ap p {
     font-size: 18px;
     font-weight: bold;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0,0,0,0.7);
     padding: 7px 15px;
     border-radius: 15px;
     color: white;
@@ -530,9 +530,9 @@ li {
     align-items: flex-end;
     margin: 2.5px;
     /* border-radius */
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
     /* box-shadow */
     -webkit-box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
     -moz-box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
