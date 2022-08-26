@@ -125,7 +125,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blissey.png',
     list: '../../../assets/list-icon.png',
-    type: 'metal',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2007-2008/blissey.png',
@@ -1082,8 +1082,8 @@ let masters = [
   {
     firstName: 'Karl Peters',
     flag: '../../../assets/flags/germany.png',
-    sprite1: '../../../assets/sprites/leafeon.png',
-    sprite2: '../../../assets/sprites/magmortar.png',
+    sprite1: '../../../assets/sprites/magmortar.png',
+    sprite2: '../../../assets/sprites/leafeon.png',
     list: '../../../assets/list-icon.png',
     type: 'fire',
     deck: [
@@ -1580,7 +1580,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blissey.png',
     list: '../../../assets/list-icon.png',
-    type: 'metal',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2007-2008/blissey.png',

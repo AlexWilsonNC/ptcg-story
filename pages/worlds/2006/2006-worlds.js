@@ -101,7 +101,7 @@ let masters = [
     sprite1: '../../../assets/sprites/eevee-no-heart.png',
     sprite2: '../../../assets/sprites/pidgeot.png',
     list: '../../../assets/list-icon.png',
-    type: 'dark',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/flareon-ex.png',
@@ -683,7 +683,7 @@ let masters = [
     sprite1: '../../../assets/sprites/tyranitar.png',
     sprite2: '../../../assets/sprites/electrode.png',
     list: '../../../assets/list-icon.png',
-    type: 'fighting',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/dark-tyranitar.png',
@@ -2097,7 +2097,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/nidoqueen.png',
     list: '../../../assets/list-icon.png',
-    type: 'dark',
+    type: 'grass',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/nidoqueen-fighting.png',
@@ -2460,7 +2460,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/flareon.png',
     sprite2: '../../../assets/sprites/ariados.png',
     list: '../../../assets/list-icon.png',
-    type: 'fire',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/flareon-ex.png',
@@ -3431,7 +3431,7 @@ let juniors = [
     sprite1: '../../../assets/sprites/flareon.png',
     sprite2: '../../../assets/sprites/ariados.png',
     list: '../../../assets/list-icon.png',
-    type: 'fire',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/flareon-ex.png',

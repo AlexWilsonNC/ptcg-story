@@ -2317,7 +2317,7 @@ let masters = [
     sprite1: '../../../assets/sprites/garchomp.png',
     sprite2: '../../../assets/sprites/dusknoir.png',
     list: '../../../assets/list-icon.png',
-    type: 'metal',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2008-2010/garchomp.png',

@@ -129,7 +129,7 @@ let masters = [
     sprite1: '../../../assets/sprites/flygon.png',
     sprite2: '../../../assets/sprites/machamp.png',
     list: '../../../assets/list-icon.png',
-    type: 'fightning',
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../../assets/cards/2008-2010/flygon-lvx.png',
@@ -259,7 +259,7 @@ let masters = [
     sprite1: '../../../assets/sprites/flygon.png',
     sprite2: '../../../assets/sprites/machamp.png',
     list: '../../../assets/list-icon.png',
-    type: 'fightning',
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../../assets/cards/2008-2010/flygon-lvx.png',
@@ -635,7 +635,7 @@ let masters = [
     sprite1: '../../../assets/sprites/flygon.png',
     sprite2: '../../../assets/sprites/palkia.png',
     list: '../../../assets/list-icon.png',
-    type: 'metal',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2008-2010/flygon-lvx.png',
@@ -1325,7 +1325,7 @@ let masters = [
     sprite1: '../../../assets/sprites/flygon.png',
     sprite2: '../../../assets/sprites/palkia.png',
     list: '../../../assets/list-icon.png',
-    type: 'metal',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2008-2010/flygon-lvx.png',
@@ -1629,7 +1629,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/palkia.png',
     list: '../../../assets/list-icon.png',
-    type: 'metal',
+    type: 'water',
     deck: [
       {
         cardImg: '../../../assets/cards/2008-2010/palkia-lvx-lost-cyclone.png',
@@ -1924,7 +1924,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/flygon.png',
     sprite2: '../../../assets/sprites/palkia.png',
     list: '../../../assets/list-icon.png',
-    type: 'metal',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2008-2010/flygon-lvx.png',
@@ -2046,7 +2046,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/flygon.png',
     sprite2: '../../../assets/sprites/palkia.png',
     list: '../../../assets/list-icon.png',
-    type: 'metal',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2008-2010/flygon-lvx.png',

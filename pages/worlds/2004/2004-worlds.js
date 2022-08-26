@@ -11,7 +11,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/groudon.png',
     list: '../../../assets/list-icon.png',
-    type: 'fire',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/ma.009.team_magmas_groudon.jpg',
@@ -251,7 +251,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/groudon.png',
     list: '../../../assets/list-icon.png',
-    type: 'fire',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/ma.009.team_magmas_groudon.jpg',
@@ -1359,7 +1359,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/02.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/igglybuff.png',
@@ -1469,7 +1469,8 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/e-reader/rainbow-energy.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
     ]
   },
@@ -1479,7 +1480,7 @@ let masters = [
     sprite1: '../../../assets/sprites/medicham.png',
     sprite2: '../../../assets/sprites/lanturn.png',
     list: '../../../assets/list-icon.png',
-    type: 'lightning',
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/medicham.png',
@@ -1812,7 +1813,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/groudon.png',
     list: '../../../assets/list-icon.png',
-    type: 'fire',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/ma.009.team_magmas_groudon.jpg',
@@ -2924,7 +2925,7 @@ let juniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/groudon.png',
     list: '../../../assets/list-icon.png',
-    type: 'fire',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/ma.009.team_magmas_groudon.jpg',
@@ -3084,7 +3085,7 @@ let juniors = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/02.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/wobbuffet-safegaurd.png',
@@ -3168,7 +3169,7 @@ let juniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/groudon.png',
     list: '../../../assets/list-icon.png',
-    type: 'fire',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2004-2006/ma.009.team_magmas_groudon.jpg',

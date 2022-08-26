@@ -1657,7 +1657,7 @@ let juniors = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/chansey.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../assets/cards/base-fossil/bs.003.chansey.jpg',

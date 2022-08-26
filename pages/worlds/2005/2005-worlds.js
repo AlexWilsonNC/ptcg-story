@@ -1491,18 +1491,6 @@ let seniors = [
     type: 'lightning',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006/magmar.png',
-        numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2004-2006/electrode-ex.png',
-        numImg: '../../../assets/03.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2004-2006/voltorb-recharge.png',
-        numImg: '../../../assets/03.png'
-      },
-      {
         cardImg: '../../../assets/cards/2004-2006/zapdos-ex.png',
         numImg: '../../../assets/02.png'
       },
@@ -1517,6 +1505,18 @@ let seniors = [
       {
         cardImg: '../../../assets/cards/2004-2006/rayquaza-star.png',
         numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/magmar.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/electrode-ex.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/voltorb-recharge.png',
+        numImg: '../../../assets/03.png'
       },
       {
         cardImg: '../../../assets/cards/2004-2006/tv-reporter-e-reader.png',
