@@ -1209,7 +1209,7 @@ let masters = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/inteleon.png',  
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -1534,7 +1534,7 @@ let masters = [
     sprite1: '../../../assets/sprites/charizard-shiny.png',
     sprite2: '../../../assets/sprites/inteleon.png',  
     list: '../../../assets/list-icon.png',
-    type: 'fire',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2022-2023/radiant-charizard.png',

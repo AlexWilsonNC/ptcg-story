@@ -2657,9 +2657,7 @@ function displayList2(array = []) {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
         }
 
-        if (item.type == 'normal') {
-          document.querySelector('.playerName').style.color = "black";
-        }
+         
 
         for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];
@@ -2786,9 +2784,7 @@ function displayList3(array = []) {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
         }
 
-        if (item.type == 'normal') {
-          document.querySelector('.playerName').style.color = "black";
-        }
+         
 
         for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];

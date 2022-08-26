@@ -706,7 +706,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/mewtwo-mew-tagteam.png',
     sprite2: '../../../../assets/sprites/weavile.png',
     list: '../../../../assets/list-icon.png',
-    type: 'psychic',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../../assets/cards/2021-2022/mewtwo-mew-tagteam.png',

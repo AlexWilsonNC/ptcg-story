@@ -431,7 +431,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -545,7 +545,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -761,7 +761,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -875,7 +875,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -981,7 +981,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/magcargo.png',
     sprite2: '../../../../assets/sprites/oranguru.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dark',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/magcargo-gx.png',
@@ -1217,7 +1217,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -1327,7 +1327,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -1645,7 +1645,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -1763,7 +1763,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -2273,7 +2273,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -2379,7 +2379,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -2823,7 +2823,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -3053,7 +3053,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -3159,7 +3159,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -3269,7 +3269,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -3381,7 +3381,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -3495,7 +3495,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -3735,7 +3735,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -3849,7 +3849,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -4179,7 +4179,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -4499,7 +4499,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -4719,7 +4719,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -4839,7 +4839,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -5177,7 +5177,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -5778,7 +5778,7 @@ let seniors = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -5888,7 +5888,7 @@ let seniors = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -6010,7 +6010,7 @@ let seniors = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -6233,7 +6233,7 @@ let juniors = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -6453,7 +6453,7 @@ let juniors = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -6665,7 +6665,7 @@ let juniors = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',
@@ -6771,7 +6771,7 @@ let juniors = [
     sprite1: '../../../../assets/sprites/adp.png',
     sprite2: '../../../../assets/sprites/zacian-crowned.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dragon',
+    type: 'metal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2019-2020/adp-gx.png',

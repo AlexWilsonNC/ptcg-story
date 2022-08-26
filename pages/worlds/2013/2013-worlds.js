@@ -101,7 +101,7 @@ let masters = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/kyurem.png',
@@ -509,7 +509,7 @@ let masters = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/kyurem.png',
@@ -607,7 +607,7 @@ let masters = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/kyurem.png',
@@ -1095,7 +1095,7 @@ let masters = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/kyurem.png',
@@ -1365,7 +1365,7 @@ let masters = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/kyurem.png',
@@ -1455,7 +1455,7 @@ let masters = [
     sprite1: '../../../assets/sprites/lugia.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/lugia-ex-plasma.png',
@@ -1557,7 +1557,7 @@ let masters = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/kyurem.png',
@@ -1655,7 +1655,7 @@ let masters = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/kyurem.png',
@@ -2066,7 +2066,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/kyurem.png',
@@ -2258,8 +2258,16 @@ let seniors = [
     sprite1: '../../../assets/sprites/accelgor.png',
     sprite2: '../../../assets/sprites/gothitelle.png',
     list: '../../../assets/list-icon.png',
-    type: 'psychic',
+    type: 'grass',
     deck: [
+      {
+        cardImg: '../../../assets/cards/2014-2016/accelgor.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/shelmet.png',
+        numImg: '../../../assets/03.png'
+      },
       {
         cardImg: '../../../assets/cards/2014-2016/gothitelle.png',
         numImg: '../../../assets/03.png'
@@ -2271,14 +2279,6 @@ let seniors = [
       {
         cardImg: '../../../assets/cards/2014-2016/gothita.png',
         numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2014-2016/accelgor.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2014-2016/shelmet.png',
-        numImg: '../../../assets/03.png'
       },
       {
         cardImg: '../../../assets/cards/2014-2016/mew-ex.png',
@@ -2596,7 +2596,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/kyurem.png',
@@ -2911,7 +2911,7 @@ let juniors = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/kyurem.png',
@@ -3111,7 +3111,7 @@ let juniors = [
     sprite1: '../../../assets/sprites/kyurem.png',
     sprite2: '../../../assets/sprites/deoxys.png',
     list: '../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/kyurem.png',
@@ -3523,9 +3523,7 @@ function displayList(array = []) {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
         }
 
-        if (item.type == 'normal') {
-          document.querySelector('.playerName').style.color = "black";
-        }
+         
 
         for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];
@@ -3657,9 +3655,7 @@ function displayList2(array = []) {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
         }
 
-        if (item.type == 'normal') {
-          document.querySelector('.playerName').style.color = "black";
-        }
+         
 
         for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];
@@ -3785,9 +3781,7 @@ function displayList3(array = []) {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
         }
 
-        if (item.type == 'normal') {
-          document.querySelector('.playerName').style.color = "black";
-        }
+         
 
         for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];

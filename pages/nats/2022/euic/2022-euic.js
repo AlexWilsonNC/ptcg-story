@@ -645,7 +645,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/sylveon-vmax.png',
     list: '../../../../assets/list-icon.png',
-    type: 'metal',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -1063,7 +1063,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/beedrill.png',
     list: '../../../../assets/list-icon.png',
-    type: 'grass',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -1399,7 +1399,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -1529,7 +1529,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -1835,7 +1835,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -1971,7 +1971,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/beedrill.png',
     list: '../../../../assets/list-icon.png',
-    type: 'metal',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -2463,7 +2463,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/arceus.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dark',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -2603,7 +2603,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -3165,7 +3165,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/beedrill.png',
     list: '../../../../assets/list-icon.png',
-    type: 'grass',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -3503,7 +3503,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -4453,7 +4453,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -4767,7 +4767,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -5761,7 +5761,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dark',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -6241,7 +6241,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dark',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -6908,7 +6908,7 @@ let seniors = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -7550,7 +7550,7 @@ let seniors = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -8009,7 +8009,7 @@ let juniors = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -8445,7 +8445,7 @@ let juniors = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -8799,7 +8799,7 @@ let juniors = [
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
-    type: 'water',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023/arceus-vstar.png',
