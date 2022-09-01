@@ -778,6 +778,34 @@ li {
         width: 70px;
     }
 }
+@media screen and (max-width: 803px) {
+    .worlds-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0px 3px 15px 3px;
+    }
+    .worlds-box img {
+        width: 150px;
+        height: 90px;
+        border: 1.5px solid black;
+        border-radius: 4px;
+    }
+    .worlds-box p {
+        font-size: 16px;
+        margin-top: 5px;
+        background-color: rgb(49, 49, 49);
+        color:white;
+        border-radius: 10px;
+        padding: 3px 15px;
+    }
+    .worlds-icons {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        width: 90%;
+    }
+}
 @media screen and (max-width: 780px) {
     .cs-plus-ap p {
         font-size: 16px;
@@ -1030,32 +1058,7 @@ li {
     .results-right {
         margin-top: 25px;
     }
-    .worlds-box {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin: 0px 3px 15px 3px;
-    }
-    .worlds-box img {
-        width: 150px;
-        height: 90px;
-        border: 1.5px solid black;
-        border-radius: 4px;
-    }
-    .worlds-box p {
-        font-size: 16px;
-        margin-top: 5px;
-        background-color: rgb(49, 49, 49);
-        color:white;
-        border-radius: 10px;
-        padding: 3px 15px;
-    }
-    .worlds-icons {
-        display: flex;
-        justify-content: space-around;
-        flex-wrap: wrap;
-        width: 90%;
-    }
+
     .worlds-hr {
         display: none;
     }
