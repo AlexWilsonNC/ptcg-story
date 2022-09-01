@@ -806,6 +806,14 @@ li {
         width: 90%;
     }
 }
+@media screen and (max-width: 803px) {
+    .hidden-poke {
+        display: block;
+    }
+    .big-pika {
+        display: block;
+    }
+}
 @media screen and (max-width: 780px) {
     .cs-plus-ap p {
         font-size: 16px;
@@ -1064,12 +1072,6 @@ li {
     }
     .casters-zone p {
         width: 88%;
-    }
-    .hidden-poke {
-        display: block;
-    }
-    .big-pika {
-        display: block;
     }
     .gallery {
         width: 97%;
