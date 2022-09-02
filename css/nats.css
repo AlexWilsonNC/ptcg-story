@@ -158,6 +158,43 @@
     margin-left: 10px;
 }
 
+@media screen and (max-width: 1164px) {
+    .nats-box,
+    .japan-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0px 3px 15px 3px;
+    }
+    .nats-box img {
+        width: 210px;
+        height: 90px;
+        border: 1.5px solid black;
+        border-radius: 4px;
+    }
+    .japan-box img {
+        width: 230px;
+        height: 120px;
+        border: 1.5px solid black;
+        border-radius: 4px;
+    }
+    .nats-box p {
+        font-size: 16.5px;
+        margin-top: 5px;
+        background-color: rgb(49, 49, 49);
+        color:white;
+        border-radius: 10px;
+        padding: 3px 15px;
+    }
+    .japan-box p {
+        font-size: 16.5px;
+        margin: 5px 0px 12px;
+        background-color: rgb(49, 49, 49);
+        color:white;
+        border-radius: 10px;
+        padding: 3px 15px;
+    }
+}
 @media screen and (max-width: 803px) {
     .nats-box,
     .japan-box {
@@ -229,5 +266,42 @@
     }
     .up-up {
         margin-top: -7px;
+    }
+}
+@media screen and (max-width: 370px) {
+    .nats-box,
+    .japan-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0px 3px 15px 3px;
+    }
+    .nats-box img {
+        width: 120px;
+        height: 55px;
+        border: 1.5px solid black;
+        border-radius: 4px;
+    }
+    .japan-box img {
+        width: 120px;
+        height: 65px;
+        border: 1.5px solid black;
+        border-radius: 4px;
+    }
+    .nats-box p {
+        font-size: 12px;
+        margin-top: 5px;
+        background-color: rgb(49, 49, 49);
+        color:white;
+        border-radius: 10px;
+        padding: 3px 15px;
+    }
+    .japan-box p {
+        font-size: 9px;
+        margin: 5px 0px 12px;
+        background-color: rgb(49, 49, 49);
+        color:white;
+        border-radius: 10px;
+        padding: 3px 15px;
     }
 }
