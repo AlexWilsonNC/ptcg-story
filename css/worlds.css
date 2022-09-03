@@ -349,6 +349,7 @@ li {
     flex-direction: column;
     align-items: center;
     margin-top: 15px;
+    text-align: center;
 }
 .promo-card img {
     width: 40%;
@@ -834,6 +835,25 @@ li {
         display: flex;
         justify-content: center;
     } */
+    /* .sets {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        width: 0%;
+    }
+    .left-set {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        width: 0%;
+    }
+    .right-set {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        width: 0%;
+    } */
     .hidden-poke {
         display: block;
         top: 150px;
@@ -1217,6 +1237,19 @@ li {
         opacity: 0.4;
         margin-top: -10px;
     }
+    .set-icon {
+        width: 15px;
+    }
+    .set-logo {
+        width: 75px;
+    }
+    .auto-day2-area2 ol {
+        font-size: 10px;
+    }
+    .promo-card p,
+    .promo-card2 p {
+        font-size: 12px;
+}
 }
 @media screen and (max-width: 364px) {
     .set-btn {
