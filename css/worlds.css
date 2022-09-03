@@ -608,10 +608,6 @@ li {
     display: none;
     position: absolute;
     z-index: -100;
-    top: 150px;
-    right: 0;
-    width: 280px;
-    opacity: 0.4;
 }
 .big-pika {
     display: none;
@@ -799,6 +795,9 @@ li {
     .pok-card-small {
         width: 70px;
     }
+    .contain-worlds {
+        margin-top: 10px;
+    }
 }
 @media screen and (max-width: 803px) {
     .worlds-box {
@@ -828,15 +827,32 @@ li {
         width: 90%;
     }
 }
-@media screen and (max-width: 803px) {
+/* @media screen and (min-height: 900px) {
+    .hidden-poke {
+        top: 150px;
+        right: 0;
+        width: 280px;
+        opacity: 0.4;
+    }
+    .big-pika {
+        top: 150px;
+        right: 0;
+        width: 310px;
+        opacity: 0.4;
+    }
+} */
+@media screen and (max-width: 780px) {
     .hidden-poke {
         display: block;
+        top: 150px;
+        right: 0;
+        width: 480px;
+        height: auto;
+        opacity: 0.4;
     }
     .big-pika {
         display: block;
     }
-}
-@media screen and (max-width: 780px) {
     .cs-plus-ap p {
         font-size: 16px;
         font-weight: bold;
@@ -1023,6 +1039,14 @@ li {
     .set-logo {
         width: 125px;
     }
+    .hidden-poke {
+        display: block;
+        top: 150px;
+        right: 0;
+        width: 280px;
+        height: auto;
+        opacity: 0.4;
+    }
 }
 @media screen and (max-width: 530px) {
     .summary,
@@ -1125,15 +1149,6 @@ li {
         padding: 5px 10px 0px 10px;
     }
 }
-@media screen and (min-height: 900px) {
-    .hidden-poke {
-        top: 150px;
-    }
-    .big-pika {
-        top: 150px;
-    }
-}
-
 @media screen and (max-width: 550px) {
     .day2-right {
         margin-left: 90px;
@@ -1143,6 +1158,9 @@ li {
         flex-direction: row;
         justify-content: space-between;
         width: 100%;
+    }
+    .set-btn {
+        font-size: 14px;
     }
 }
 @media screen and (max-width: 370px) {
@@ -1174,5 +1192,10 @@ li {
         justify-content: space-around;
         flex-wrap: wrap;
         width: 90%;
+    }
+}
+@media screen and (max-width: 364px) {
+    .set-btn {
+        font-size: 12px;
     }
 }
