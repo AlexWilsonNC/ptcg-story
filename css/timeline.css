@@ -96,6 +96,11 @@
     margin-right: 5px;
 } */
 
+@media screen and (max-width: 900px) {
+    .timeline {
+        width: 70%;
+    }
+}
 @media screen and (max-width: 600px) {
     .timeline {
         width: 95%;
@@ -114,4 +119,27 @@
         margin-left: 10px;
         margin-top: 15px;
     } 
+}
+@media screen and (max-width: 400px) {
+    .flag-n-date img {
+        margin-right: 10px;
+        height: 22px; width: auto;
+    }
+    .flag-n-date p {
+        font-size: 14px;
+        color: rgb(0, 136, 255);
+        font-weight: bold;
+    }
+    .timeline-yr h3 {
+        font-size: 26px;
+    }
+    .tl-content {
+        font-size: 17px;
+    }
+    .single-event a {
+        font-size: 14px;
+    }
+    .tl-content-img {
+        width: 240px;
+    }
 }
