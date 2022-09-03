@@ -863,6 +863,12 @@ margin-top: auto;
         font-size: 10px;
     }
 }
+@media screen and (max-width: 385px) {
+    .toc-top-box h2 {
+        padding: 6px 35px;
+        font-size: 14px;
+    }
+}
 /* @media screen and (max-width: 380px) {
     .format h3 {
         font-size: 11px;
