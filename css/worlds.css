@@ -828,6 +828,12 @@ li {
     }
 }
 @media screen and (max-width: 780px) {
+    /* .event-content {
+        width: 90%;
+        max-width: 90%;
+        display: flex;
+        justify-content: center;
+    } */
     .hidden-poke {
         display: block;
         top: 150px;
@@ -851,7 +857,6 @@ li {
     .summary,
     .event-results {
         display: flex;
-        flex-direction: column;
         align-items: space-between;
         flex-wrap: wrap;
     }
