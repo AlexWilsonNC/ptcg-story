@@ -613,6 +613,9 @@ margin-top: auto;
     .rules-description {
         width: 100%;
     }
+    .pok-card-small2 {
+        width: 115px;
+    }
 }
 @media screen and (max-width: 1401px) {
     .deck-box {
