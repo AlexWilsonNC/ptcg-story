@@ -652,6 +652,11 @@ margin-top: auto;
     .deck-box {
         width: 80%;
     }
+    .format-sets img,
+    .format-sets2 img {
+        height: auto;width:15vw;
+        margin: 0px 10px;
+    }
     .format-deck-title {
         width: 80%;
     }
@@ -727,11 +732,6 @@ margin-top: auto;
     }
     .top-era-selector p {
         font-size: 12px;
-    }
-    .format-sets img,
-    .format-sets2 img {
-        height: auto;width:15vw;
-        margin: 0px 10px;
     }
     .diff-decks-btns p {
         font-size: 10px;
