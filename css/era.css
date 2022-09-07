@@ -21,7 +21,6 @@
     color: #fff;
 }
 
-
 .format {
     font-size: 26px;
     margin: 10px 0px 10px;    
@@ -164,6 +163,10 @@
     flex-direction: column;
     align-items: center;
     background-image: linear-gradient(to top right, #000428 , #004e92);
+}
+.deck-description p {
+    max-width: 87%;
+    line-height: 1.5;
 }
 .deck-description-banned {
     width: 40.5%;
@@ -651,6 +654,7 @@ margin-top: auto;
     .deck-description,
     .deck-description-banned {
         width: 65.5%;
+        font-size: 14px;
     }
 }
 @media screen and (max-width: 930px) {
@@ -718,6 +722,10 @@ margin-top: auto;
     .yrs-formats {
         margin: 25px 0px;
     }
+    .deck-description,
+    .deck-description-banned {
+        width: 79.5%;
+    }
 }
 @media screen and (max-width: 812px) {
     .deck-box {
@@ -725,11 +733,6 @@ margin-top: auto;
     }
     .format-deck-title {
         width: 85%;
-    }
-    .deck-description,
-    .deck-description-banned {
-        width: 79.5%;
-        font-size: 14px;
     }
     .pok-card-small2 {
         width: 55px;
