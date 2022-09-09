@@ -16,6 +16,8 @@ const deckbuild105 = document.querySelector('.deckbuild105');
 const deckbuild106 = document.querySelector('.deckbuild106');
 const deckbuild100 = document.querySelector('.deckbuild100');
 const deckbuild200 = document.querySelector('.deckbuild200');
+const deckbuildA = document.querySelector('.deckbuilda');
+const deckbuildB = document.querySelector('.deckbuildb');
 const buildBox1 = document.querySelector('.build-box1');
 const buildBox2 = document.querySelector('.build-box2');
 const buildBox3 = document.querySelector('.build-box3');
@@ -32,6 +34,8 @@ const buildBox105 = document.querySelector('.build-box105');
 const buildBox106 = document.querySelector('.build-box106');
 const descBox100 = document.querySelector('.descrip-box100');
 const descBox200 = document.querySelector('.descrip-box200');
+const buildBoxA = document.querySelector('.build-boxa');
+const buildBoxB = document.querySelector('.build-boxb');
 const descBox1 = document.querySelector('.descrip-box1');
 const descBox2 = document.querySelector('.descrip-box2');
 const descBox3 = document.querySelector('.descrip-box3');
@@ -44,6 +48,8 @@ const descBox9 = document.querySelector('.descrip-box9');
 const descBox10 = document.querySelector('.descrip-box10');
 const descBox105 = document.querySelector('.descrip-box105');
 const descBox106 = document.querySelector('.descrip-box106');
+const descBoxA = document.querySelector('.descrip-boxa');
+const descBoxB = document.querySelector('.descrip-boxb');
 
 cardTouch.forEach(card => {
     card.addEventListener('click', () => {
@@ -267,6 +273,27 @@ function changeToBuild106() {
     buildBox105.style.display = 'none';
 }
 
+function changeToBuildA() {
+    deckbuildA.classList.add('dark-bg');
+    deckbuildB.classList.remove('dark-bg');
+    deckbuildB.classList.add('light-bg');
+
+    buildBoxA.style.display = 'flex';
+    buildBoxB.style.display = 'none';
+    descBoxA.style.display = 'flex';
+    descBoxB.style.display = 'none';
+}
+function changeToBuildB() {
+    deckbuildB.classList.add('dark-bg');
+    deckbuildA.classList.remove('dark-bg');
+    deckbuildA.classList.add('light-bg');
+
+    buildBoxB.style.display = 'flex';
+    buildBoxA.style.display = 'none';
+    descBoxA.style.display = 'none';
+    descBoxB.style.display = 'flex';
+}
+
 deckbuild1.addEventListener('click', changeToBuild1)
 deckbuild2.addEventListener('click', changeToBuild2)
 deckbuild3.addEventListener('click', changeToBuild3)
@@ -279,5 +306,8 @@ deckbuild9.addEventListener('click', changeToBuild9)
 deckbuild10.addEventListener('click', changeToBuild10)
 deckbuild105.addEventListener('click', changeToBuild105)
 deckbuild106.addEventListener('click', changeToBuild106)
+deckbuildA.addEventListener('click', changeToBuildA)
+deckbuildB.addEventListener('click', changeToBuildB)
+
 deckbuild100.addEventListener('click', changeToBuild100)
 deckbuild200.addEventListener('click', changeToBuild200)
