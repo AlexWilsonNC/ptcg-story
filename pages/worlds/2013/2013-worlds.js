@@ -720,7 +720,7 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/tynamo.png',
+        cardImg: '../../../assets/cards/2010-2012/tynamo-nvi.png',
         numImg: '../../../assets/04.png'
       },
       {
