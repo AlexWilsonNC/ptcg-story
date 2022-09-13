@@ -1226,11 +1226,11 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/keldeo-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/sableye-junk-hunt.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/sableye-junk-hunt.png',
+        cardImg: '../../../assets/cards/2014-2016/keldeo-ex.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -2258,7 +2258,7 @@ let seniors = [
     sprite1: '../../../assets/sprites/accelgor.png',
     sprite2: '../../../assets/sprites/gothitelle.png',
     list: '../../../assets/list-icon.png',
-    type: 'grass',
+    type: 'psychic',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/accelgor.png',
