@@ -318,7 +318,7 @@ let masters = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -532,7 +532,7 @@ let masters = [
         numImg: '../../../assets/07.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/04.png'
       }
     ]
@@ -626,7 +626,7 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/04.png'
       },
       {
@@ -1000,7 +1000,7 @@ let masters = [
         numImg: '../../../assets/08.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/04.png'
       }
     ]
@@ -1110,7 +1110,7 @@ let masters = [
         numImg: '../../../assets/07.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/04.png'
       }
     ]
@@ -1149,7 +1149,7 @@ let masters = [
     sprite1: '../../../assets/sprites/raichu.png',
     sprite2: '../../../assets/sprites/landorus-therian.png',
     list: '../../../assets/list-icon.png',
-    type: 'lightning',
+    type: 'fighting',
     deck: [
       {
         cardImg: '../../../assets/cards/2014-2016/raichu.png',
@@ -1382,7 +1382,7 @@ let masters = [
         numImg: '../../../assets/09.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/03.png'
       }
     ]
@@ -1488,7 +1488,7 @@ let masters = [
         numImg: '../../../assets/08.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/03.png'
       }
     ]
@@ -1604,7 +1604,7 @@ let masters = [
         numImg: '../../../assets/07.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/04.png'
       }
     ]
@@ -1808,7 +1808,7 @@ let masters = [
         numImg: '../../../assets/08.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/04.png'
       }
     ]
@@ -1894,7 +1894,7 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/04.png'
       },
       {
@@ -2156,7 +2156,7 @@ let masters = [
         numImg: '../../../assets/08.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/04.png'
       }
     ]
@@ -2576,7 +2576,7 @@ let seniors = [
     firstName: 'Grant Manley',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/landorus-therian.png',
-    sprite2: '../../../assets/sprites/mewtwo.png',
+    sprite2: '../../../assets/sprites/toxicroak.png',
     list: '../../../assets/list-icon.png',
     type: '',
     deck: [
@@ -2585,7 +2585,7 @@ let seniors = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mewtwo-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/toxicroak-ex.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -2593,7 +2593,7 @@ let seniors = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/toxicroak-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/mewtwo-ex.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -2779,7 +2779,7 @@ let seniors = [
         numImg: '../../../assets/08.png'
       },
       {
-        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
         numImg: '../../../assets/03.png'
       }
     ]
