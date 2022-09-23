@@ -410,6 +410,11 @@ margin-top: auto;
     box-shadow: 5px 5px 5px rgba(9, 16, 74, 0.7);
     transition: ease all 0.19s;
 }
+/* .worlds-expanded-txt {
+    position: absolute;
+    left: 57.5%;
+    color: black;
+} */
 .left-vs-set {
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
