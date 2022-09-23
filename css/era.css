@@ -366,10 +366,6 @@ margin-top: auto;
     width: 10vw;    margin: 10px 10px;
 }
 
-.small-format-text {
-    font-size: 18px;
-}
-
 .yrs-formats {
     display: flex;
     flex-direction: column;
@@ -410,11 +406,36 @@ margin-top: auto;
     box-shadow: 5px 5px 5px rgba(9, 16, 74, 0.7);
     transition: ease all 0.19s;
 }
-/* .worlds-expanded-txt {
-    position: absolute;
-    left: 57.5%;
+.worlds-expanded-txt h4 {
+    font-size: 28px;
+}
+.worlds-expanded-txt p {
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.worlds-expanded-txt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    text-align: center;
+    transition: ease all 0.19s;
+}
+.standard-blk-txt {
+    color: white;
+}
+.worlds-blk-txt {
+    color: rgb(255, 227, 170);
+}
+.expanded-blk-txt {
     color: black;
-} */
+}
+.white-blk-txt {
+    color: white;
+}
+.black-blk-txt {
+    color: black;
+}
 .left-vs-set {
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
@@ -447,10 +468,16 @@ margin-top: auto;
 .specific-format:hover > h3 {
     color: rgb(187, 173, 45);
 }
+.specific-format:hover > .worlds-expanded-txt {
+    color: rgb(187, 173, 45);
+}
 .expanded-format:hover {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 .expanded-format:hover > h3 {
+    color: rgb(0, 52, 125);
+}
+.expanded-format:hover > .worlds-expanded-txt {
     color: rgb(0, 52, 125);
 }
 .specific-format img,
@@ -641,6 +668,15 @@ margin-top: auto;
         width: 80%;
     }
 }
+@media screen and (max-width: 1334px) {
+    .worlds-expanded-txt h4 {
+        font-size: 24px;
+    }
+    .specific-format h3,
+    .top-format-graphic h3 {
+        font-size: 24px;
+    }
+}
 @media screen and (max-width: 1271px) {
     .specific-format,
     .expanded-format,
@@ -707,9 +743,6 @@ margin-top: auto;
     .top-format-expanded-graphic h3 {
         font-size: 22px;
     } */
-    .small-format-text {
-        font-size: 15px;
-    }
     .specific-format,
     .expanded-format,
     .top-format-graphic,
@@ -723,6 +756,16 @@ margin-top: auto;
     .top-format-expanded-graphic h3 {
         font-size: 16px;
         width: 45%;
+    }
+    .worlds-expanded-txt {
+        width: 45%;
+    }
+    .worlds-expanded-txt h4 {
+        font-size: 16px;
+    }
+    .worlds-expanded-txt p {
+        font-size: 10px;
+        margin-bottom: 3px;
     }
     .yrs-formats {
         margin: 25px 0px;
@@ -764,9 +807,6 @@ margin-top: auto;
         font-size: 12px;
     }
     .diff-decks-btns p {
-        font-size: 10px;
-    }
-    .small-format-text {
         font-size: 10px;
     }
     .arrow-a i {
@@ -877,6 +917,21 @@ margin-top: auto;
     .format-era-txt {
         margin-top: -4px;
         font-size: 10px;
+    }
+}
+@media screen and (max-width: 462px) {
+    .specific-format h3,
+    .expanded-format h3,
+    .top-format-graphic h3,
+    .top-format-expanded-graphic h3 {
+        font-size: 13px;
+    }
+    .worlds-expanded-txt h4 {
+        font-size: 13px;
+    }
+    .worlds-expanded-txt p {
+        font-size: 9px;
+        margin-bottom: 3px;
     }
 }
 @media screen and (max-width: 385px) {
