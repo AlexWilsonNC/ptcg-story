@@ -293,39 +293,38 @@ hr {
     background-color: rgb(37, 37, 37);
 } */
 .oth-pink {
-    color:rgb(255, 63, 229);
-    /* color:rgb(255, 197, 247); */
+    /* color:rgb(255, 63, 229); */
+    color:rgba(255, 63, 229, 0.5);
 }
 .oth-violet {
     /* color:rgb(210, 112, 255); */
-    color:rgb(236, 196, 255);
+    color:rgba(210, 112, 255, 0.5);
 }
 .oth-purple {
     /* color:rgb(167, 99, 255); */
-    color:rgb(220, 194, 255);
+    color:rgba(167, 99, 255, 0.5);
 }
 .oth-blue {
-    /* color:rgb(109, 119, 255); */
-    color:rgb(196, 200, 255);
+    /* color:rgb(67, 77, 223); */
+    color:rgba(67, 77, 223, 0.5);
 }
 .oth-light-blue {
     color:rgb(102, 219, 255);
-    /* color:rgb(187, 239, 255); */
 }
 .oth-green {
     color:rgb(71, 255, 64);
-    /* color:rgb(189, 255, 186); */
 }
 .oth-yellow {
     color:rgb(255, 242, 58);
-    /* color:rgb(255, 250, 184); */
 }
 .oth-orange {
     color:rgb(255, 154, 59);
 }
 .oth-red {
     color:rgb(255, 58, 58);
-    /* color:rgb(255, 203, 203); */
+}
+.oth-hot-red {
+    color:rgb(237, 12, 136);
 }
 
 .era-footer {
