@@ -406,16 +406,16 @@ let masters = [
     type: 'psychic',
     deck: [
       {
+        cardImg: '../../../assets/cards/2014-2016/gengar-ex.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
         cardImg: '../../../assets/cards/2014-2016/trevenant.png',
         numImg: '../../../assets/04.png'
       },
       {
         cardImg: '../../../assets/cards/2014-2016/phantump-astonish.png',
         numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2014-2016/gengar-ex.png',
-        numImg: '../../../assets/03.png'
       },
       {
         cardImg: '../../../assets/cards/2014-2016/shaymin-ex.png',
@@ -516,7 +516,7 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mew-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/mew-ex-ltr.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -1120,7 +1120,7 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mew-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/mew-ex-ltr.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -1352,7 +1352,7 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mew-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/mew-ex-ltr.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -1434,16 +1434,16 @@ let masters = [
     type: 'psychic',
     deck: [
       {
+        cardImg: '../../../assets/cards/2014-2016/gengar-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
         cardImg: '../../../assets/cards/2014-2016/trevenant.png',
         numImg: '../../../assets/03.png'
       },
       {
         cardImg: '../../../assets/cards/2014-2016/phantump-astonish.png',
         numImg: '../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2014-2016/gengar-ex.png',
-        numImg: '../../../assets/02.png'
       },
       {
         cardImg: '../../../assets/cards/2014-2016/shaymin-ex.png',
@@ -1498,7 +1498,7 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/crushing-hammer.png',
+        cardImg: '../../../assets/cards/2014-2016/crushing-hammer-xy.png',
         numImg: '../../../assets/03.png'
       },
       {
@@ -1564,7 +1564,7 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/mew-ex.png',
+        cardImg: '../../../assets/cards/2014-2016/mew-ex-ltr.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -2220,7 +2220,7 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/crushing-hammer.png',
+        cardImg: '../../../assets/cards/2014-2016/crushing-hammer-xy.png',
         numImg: '../../../assets/03.png'
       },
       {
