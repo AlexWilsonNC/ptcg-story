@@ -549,6 +549,7 @@ margin-top: auto;
     font-weight: bold;
     max-width: 70%;
     text-align: center;
+    font-size: 16px;
 }
 .opace {
     opacity: 0.7;
@@ -813,6 +814,10 @@ margin-top: auto;
     .diff-decks-btns p {
         font-size: 12px;
     }
+    .message-us {
+        max-width: 80%;
+        font-size: 12px;
+    }
 }
 @media screen and (max-width: 550px) {
     .top-era-selector h2 {
@@ -872,7 +877,8 @@ margin-top: auto;
         top: -5px;
     }
     .message-us {
-        width: 95%;
+        max-width: 95%;
+        font-size: 10px;
     }
     .pok-card-banned {
         width: 115px;
