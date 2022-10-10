@@ -82,7 +82,7 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rare-candy.png',
+        cardImg: '../../../assets/cards/2018-17/rare-candy-sum.png',
         numImg: '../../../assets/03.png'
       },
       {
@@ -710,7 +710,7 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rare-candy.png',
+        cardImg: '../../../assets/cards/2018-17/rare-candy-sum.png',
         numImg: '../../../assets/03.png'
       },
       {
@@ -1837,7 +1837,7 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rare-candy.png',
+        cardImg: '../../../assets/cards/2018-17/rare-candy-sum.png',
         numImg: '../../../assets/03.png'
       },
       {
@@ -2737,7 +2737,7 @@ let seniors = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rare-candy.png',
+        cardImg: '../../../assets/cards/2018-17/rare-candy-sum.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -3059,7 +3059,7 @@ let seniors = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rare-candy.png',
+        cardImg: '../../../assets/cards/2018-17/rare-candy-sum.png',
         numImg: '../../../assets/04.png'
       },
       {
@@ -3360,7 +3360,7 @@ let juniors = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rare-candy.png',
+        cardImg: '../../../assets/cards/2018-17/rare-candy-sum.png',
         numImg: '../../../assets/04.png'
       },
       {
@@ -3462,7 +3462,7 @@ let juniors = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rare-candy.png',
+        cardImg: '../../../assets/cards/2018-17/rare-candy-sum.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -3670,7 +3670,7 @@ let juniors = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rare-candy.png',
+        cardImg: '../../../assets/cards/2018-17/rare-candy-sum.png',
         numImg: '../../../assets/03.png'
       },
       {
@@ -3920,7 +3920,7 @@ let juniors = [
     type: 'fairy',
     deck: [
       {
-        cardImg: '../../../assets/cards/2018-17/xerneas.png',
+        cardImg: '../../../assets/cards/2014-2016/xerneas-rainbow-force.png',
         numImg: '../../../assets/04.png'
       },
       {
@@ -4102,7 +4102,7 @@ let juniors = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/rare-candy.png',
+        cardImg: '../../../assets/cards/2018-17/rare-candy-sum.png',
         numImg: '../../../assets/03.png'
       },
       {
