@@ -5,14 +5,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel='icon' href='"https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png"' type='image/x-icon' alt='logo'>
+    <link rel='icon' href='"https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png"' type='image/x-icon' alt='logo'>
 
-    <meta property='og:title' content='PTCG Legends'/>
-    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg'/>
-    <meta property='og:description' content='blah blah'/>
-    <meta property='og:url' content='www.ptcglegends.com'/>
+    <meta property='og:title' content='PTCG Legends' />
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg' />
+    <meta property='og:description' content='blah blah' />
+    <meta property='og:url' content='www.ptcglegends.com' />
     <meta property='og:image:width' content='1200' />
-    <meta property='og:image:height' content='627' />    <title>PTCG Legends | Expansions</title>
+    <meta property='og:image:height' content='627' />
+    <title>PTCG Legends | Deck Search</title>
     <link rel="stylesheet" href="../../style.css">
     <link rel="stylesheet" href="../../css/worlds.css">
     <link rel="stylesheet" href="../../css/deck-search.css">
@@ -42,108 +43,43 @@
         </div>
     </nav>
 
+    <div style='display: flex;justify-content: center;'>
+        <div class='search-sec'>
+            <label for="site-search">Deck Search:</label>
+            <input type="search" id="site-search" name="q">
+            <button>Search</button>
+        </div>
+    </div>
+
     <div class='toc-around'>
-        <div class='toc-top-box2'><h2>Table of Contents</h2></div>
+        <h2>All Decks Alphabetically:</h2>
+        <div class='toc-img-spread' style='list-style: none;'>
+            <div class='center-format'>
+                <div class='top-format-graphic'>
+                    <p>Alolan Ninetales GX</p>
+                    <div class='alolan-nintales'></div>
+                </div>
+                <div class='top-format-graphic'>
+                    <p>Mega Rayquaza EX</p>
+                    <div class='mega-ray'></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class='toc-around'>
+        <h2>All Decks Alphabestically:</h2>
         <div class='toc-img-spread' style='list-style: none;'>
             <a href='#donphan'>
                 <img src='../../assets/sprites/blank.png' class='invisible-toc-img'>
-                <img src='../../assets/toc-pokemon/donphan.png' class='second-toc-img'>
+                <img src='../../assets/toc-pokemon-circles/aegislash-ex.png' class='second-toc-img'>
             </a>
             <a href='#exeggutor'>
-                <img src='../../assets/toc-pokemon/dragalge.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/exeggutor.png' class='second-toc-img'>
+                <img src='../../assets/toc-pokemon-circles/dragalge.png' class='first-toc-img'>
+                <img src='../../assets/toc-pokemon-circles/exeggutor.png' class='second-toc-img'>
             </a>
-            <a href='#fairybox'>
-                <img src='../../assets/toc-pokemon/m-manectric-ex.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/aromatisse.png' class='second-toc-img'>
-            </a>
-            <a href='#falrechu'>
-                <img src='../../assets/toc-pokemon/raichu.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/flareon-plasma.png' class='second-toc-img'>
-            </a>
-            <a href='#florges'>
-                <img src='../../assets/toc-pokemon/xerneas.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/florges-ex.png' class='second-toc-img'>
-            </a>
-            <a href='#ggartrev'>
-                <img src='../../assets/toc-pokemon/trevenant.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/gengar-ex.png' class='second-toc-img'>
-            </a>
-            <a href='#mandytric'>
-                <img src='../../assets/toc-pokemon/manectric-ex.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/landorus-ex.png' class='second-toc-img'>
-            </a>                   
-            <a href='#landsbatss'>
-                <img src='../../assets/toc-pokemon/crobat.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/landorus-ex.png' class='second-toc-img'>
-            </a>
-            <a href='#manedos'>
-                <img src='../../assets/toc-pokemon/zapdos-ltr.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/m-manectric-ex.png' class='second-toc-img'>
-            </a>
-            <a href='#kangfy'>
-                <img src='../../assets/toc-pokemon/aromatisse.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/m-kangaskhan-ex.png' class='second-toc-img'>
-            </a>                 
-            <a href='#metalbox'>
-                <img src='../../assets/toc-pokemon/aegislash-ex.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/bronzong.png' class='second-toc-img'>
-            </a>
-            <a href='#mewtwobat'>
-                <img src='../../assets/toc-pokemon/crobat.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/mewtwo-ex.png' class='second-toc-img'>
-            </a>
-            <a href='#nightmarch'>
-                <img src='../../assets/toc-pokemon/joltik.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/pumpkaboo.png' class='second-toc-img'>
-            </a>
-            <a href='#nmaeevee'>
-                <img src='../../assets/toc-pokemon/flareon-plasma.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/pumpkaboo.png' class='second-toc-img'>
-            </a>
-            <a href='#pyroar'>
-                <img src='../../assets/sprites/blank.png' class='invisible-toc-img'>
-                <img src='../../assets/toc-pokemon/pyroar.png' class='second-toc-img'>
-            </a>
-            <a href='#hawla'>
-                <img src='../../assets/sprites/blank.png' class='invisible-toc-img'>
-                <img src='../../assets/toc-pokemon/hawlucha.png' class='second-toc-img'>
-            </a>
-            <a href='#toadgarb'>
-                <img src='../../assets/toc-pokemon/garbodor-ltr.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/seismitoad-ex.png' class='second-toc-img'>
-            </a>
-            <a href='#toadtrics'>
-                <img src='../../assets/toc-pokemon/manectric-ex.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/seismitoad-ex.png' class='second-toc-img'>
-            </a>
-            <a href='#toadpuff'>
-                <img src='../../assets/toc-pokemon/slurpuff.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/seismitoad-ex.png' class='second-toc-img'>
-            </a>
-            <a href='#toolsdroppin'>
-                <img src='../../assets/toc-pokemon/sigilyph-toolbox.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/trubbish-tool-drop.png' class='second-toc-img'>
-            </a>
-            <a href='#virgen'>
-                <img src='../../assets/toc-pokemon/genesect-ex-plasma.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/virizion-ex.png' class='second-toc-img'>
-            </a>
-            <a href='#wobbbats'>
-                <img src='../../assets/toc-pokemon/crobat.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/wobbuffet.png' class='second-toc-img'>
-            </a>
-            <a href='#yvels'>
-                <img src='../../assets/sprites/blank.png' class='invisible-toc-img'>
-                <img src='../../assets/toc-pokemon/yveltal-ex.png' class='second-toc-img'>
-            </a>
-            <a href='#yveltaltric'>
-                <img src='../../assets/toc-pokemon/m-manectric-ex.png' class='first-toc-img'>
-                <img src='../../assets/toc-pokemon/yveltal-ex.png' class='second-toc-img'>
-            </a>
-
         </div>
-    </div>
+    </div> -->
 
     <br>
     <p class='copyright'>All images on this page are owned and copyrighted by TPCI.</p>
@@ -161,7 +97,7 @@
     </footer>
 
     <script src='./js/close-alert.js'></script>
-    <script src="index.js"></script>
+    <script src="./deck-search.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     <script type="text/javascript">
         window.addEventListener('scroll', function () {

@@ -271,7 +271,7 @@ hr {
     border-radius: 10px;
     border-style: none;  
     margin-bottom: 15px;
-    transition: ease-in-out 0.3s;
+    transition: ease-in-out 0.15s;
 }
 .home-btns:hover {
     cursor: pointer;

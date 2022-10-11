@@ -5,12 +5,11 @@
 }
 .toc-img-spread {
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    flex-direction: column;
+    justify-content: center;
     width: 50%;
-    border: 1px solid rgb(8, 4, 32);
-    box-shadow: 5px 5px 10px 1.5px rgba(0, 0, 0, 0.3);
+    /* border: 1px solid rgb(8, 4, 32);
+    box-shadow: 5px 5px 10px 1.5px rgba(0, 0, 0, 0.3); */
     padding: 30px 45px 10px;
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 10px;
@@ -29,7 +28,7 @@
     height: 50px;
     /* background-color: white;
     padding: 2px; */
-    border-radius: 38%;
+    border-radius: 50%;
     border: 1px solid black;
     box-shadow: 1px 2.5px 5px rgba(0,0,0,0.8);
 }
@@ -43,4 +42,68 @@
     border-radius: 50%;
     border: 1px solid black;
     box-shadow: 1px 2.5px 5px rgba(0,0,0,0.8);
+}
+
+.search-sec {
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 25px 0px;
+}
+
+.deck-search-deck {
+    width: 600px;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+}
+.deck-search-deck p {
+    width: 40%;
+}
+.deck-search-deck img {
+    width: 60%;
+}
+
+/*  */
+
+.center-format {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+}
+.top-format-graphic {
+    width: 80%;height:115px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #313131;
+    margin-bottom: 35px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(23, 12, 44, 0.7);
+    transition: ease all 0.19s;
+    color: white;
+}
+.top-format-graphic p {
+    font-size: 24px;
+    font-weight: bold;
+    width: 38%;
+    text-align: center;
+}
+.alolan-nintales {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/deck-search/ninetales-gx-alolan.png);
+    width:62%;height:100%;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+.mega-ray {
+    background-image: linear-gradient(to left, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/deck-search/mega-rayquaza-ex.png);
+    width:62%;height:100%;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
 }
