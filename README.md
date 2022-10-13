@@ -1,2 +1,2 @@
 # ptcg-story
-Pokemon TCG History
+Pokémon TCG History
