@@ -26,6 +26,13 @@
     background-repeat: no-repeat;
     width:33%;height:100%;
 }
+.left-vs-donphan-n1 {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/n1.021.donphan.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
 .left-vs-laser {
     background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/hypnotoxic-laser.png);
     background-size: cover;

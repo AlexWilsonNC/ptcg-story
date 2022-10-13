@@ -1901,6 +1901,312 @@ let juniors = [
       // },
     ]
   },
+  {
+    firstName: 'Heidi Craig',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Dakota Williams',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Jeremy Borchardt',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Jason Grabher-Meyer',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Mike Boozer',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Dallas Dalton',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Jeffery Mermelstein',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Jason Klaczynski',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Chris Fulop',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'John Chimento',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Matthew Yuen',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Wai-Lam Wong',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Eskil Vestre',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Julia Sprenz',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Bobby Darien',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Chao Lei',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Gordon Fong',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Damon Edmondson',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Kevin Lee',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Craig Ting',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Terry Kamm',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Brian Fulop',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Erich Dela Cruz',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Michael Gills',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Craig Simpson',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Jesus Cortez',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Jonathan Smith',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'David Brooks',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Roy Robertson',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Richard Langenstein',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Steve Perucca',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Bob Paxon',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Richard Walkowski',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Jeff Reynolds',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
 ]
 
 //masters
