@@ -547,10 +547,14 @@ margin-top: auto;
     font-weight: bolder;
 }
 .builds-num {
-    font-size: 8px;
+    font-size: 10px;
     position: relative;
     top: -7px;
-    color:blue;
+    margin-left: 2px;
+    color:rgb(0, 26, 255);
+    border: 1px solid rgba(0, 0, 0, 0.315);
+    border-radius: 50%;
+    padding: 0px 3.6px 0px 0.8px;
 }
 .message-us {
     font-weight: bold;
@@ -882,6 +886,7 @@ margin-top: auto;
         font-size: 6px;
         position: relative;
         top: -5px;
+        padding: 0px 2.5px 0px 0.6px;
     }
     .message-us {
         max-width: 95%;
