@@ -2254,7 +2254,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Alex Hill',
+    firstName: 'Alexander Hill',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/trevenant.png',
     sprite2: '../../../assets/sprites/gengar.png',
