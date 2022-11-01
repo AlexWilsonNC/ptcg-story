@@ -525,7 +525,8 @@ margin-top: auto;
 .build-box105,
 .build-boxd,
 .build-boxf,
-.build-box106 {
+.build-box106,
+.build-boxh {
     display: none;
 }
 .descrip-box2,
@@ -538,7 +539,8 @@ margin-top: auto;
 .descrip-box105,
 .descrip-boxd,
 .descrip-boxf,
-.descrip-box106 {
+.descrip-box106,
+.descrip-boxh {
     display: none;
 }
 
