@@ -2506,12 +2506,116 @@ let masters = [
     record: '5-2-1',
     sprite1: '../../../assets/sprites/palkia-origin.png',
     sprite2: '../../../assets/sprites/calyrex-ice-rider.png',  
-    list: '../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../assets/list-icon.png',
+    type: 'water',
     deck: [
       {
-        cardImg: '../../../assets/cards/2022-2023',
+        cardImg: '../../../assets/cards/2022-2023/ice-rider-calyrex-vmax.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/ice-rider-calyrex-v.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/palkia-vmax-origin-forme.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/palkia-v-origin-forme.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/bibarel.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/bidoof.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/radiant-greninja.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/empoleon-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/crobat-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/mew.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/pumpkaboo.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/pyukumuku.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/irida.png',
         numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/melony.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/cross-switcher.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/quick-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/ultra-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/trekking-shoes.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/capacious-bucket.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/battle-vip-pass.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/canceling-cologne.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/switch.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/tool-scrapper.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/choice-belt.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/air-balloon.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/training-court.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/water-energy-brs.png',
+        numImg: '../../../assets/08.png'
       },
     ]
   },
@@ -3122,12 +3226,112 @@ let masters = [
     record: '5-2-1',
     sprite1: '../../../assets/sprites/palkia-origin.png',
     sprite2: '../../../assets/sprites/jolteon.png',  
-    list: '../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../assets/list-icon.png',
+    type: 'water',
     deck: [
       {
-        cardImg: '../../../assets/cards/2022-2023',
+        cardImg: '../../../assets/cards/2022-2023/palkia-vmax-origin-forme.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/palkia-v-origin-forme.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/jolteon.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/eevee.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/radiant-greninja.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/crobat-v.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/starmie-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/empoleon-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/lumineon-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/professor-research-rowan.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/marnie.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/melony.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/bosss-orders-cyrus.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/roxanne.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/irida.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/quick-ball.png',
         numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/ultra-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/trekking-shoes.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/capacious-bucket.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/pal-pad.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/memory-capsule.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/choice-belt.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/air-balloon.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/shopping-center.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/water-energy-brs.png',
+        numImg: '../../../assets/07.png'
       },
     ]
   },
@@ -3135,8 +3339,8 @@ let masters = [
     firstName: 'Tseng Hsiang',
     flag: '../../../assets/flags/taiwan.png',
     record: '5-2-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -3150,14 +3354,150 @@ let masters = [
     firstName: 'Piper Lepine',
     flag: '../../../assets/flags/usa.png',
     record: '5-2-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/sprites/blank.png',
-    type: '',
+    sprite1: '../../../assets/sprites/charizard-shiny.png',  
+    sprite2: '../../../assets/sprites/inteleon.png',
+    list: '../../../assets/list-icon.png',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2022-2023',
+        cardImg: '../../../assets/cards/2022-2023/radiant-charizard.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/inteleon-shady-dealings.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/inteleon-quick-shooting.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/drizzile.png',
         numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/sobble.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/rs-urshifu-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/zapdos-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/galarian-moltres-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/moltres.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/hoopa.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/mew.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/snorlax.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/manaphy.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/raihan.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/bosss-orders-cyrus.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/klara.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/irida.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/scoop-up-net.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/level-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/quick-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/evolution-incense.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/energy-search.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/heavy-ball-hisuian.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/pal-pad.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/choice-belt.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/air-balloon.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/cape-of-toughness.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/magma-basin.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/training-court.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/dark-energy-brs.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/fire-energy-brs.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/water-energy-brs.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/lightning-energy-brs.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/fighting-energy-brs.png',
+        numImg: '../../../assets/01.png'
       },
     ]
   },
@@ -3180,8 +3520,8 @@ let masters = [
     firstName: 'Brent Tonisson',
     flag: '../../../assets/flags/australia.png',
     record: '5-2-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -3195,9 +3535,9 @@ let masters = [
     firstName: 'Ryuki Okada',
     flag: '../../../assets/flags/japan.png',
     record: '5-3-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3210,9 +3550,9 @@ let masters = [
     firstName: 'Boulay Antoine',
     flag: '../../../assets/flags/japan.png',
     record: '5-3-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3225,9 +3565,9 @@ let masters = [
     firstName: 'Tomoya Tanaka',
     flag: '../../../assets/flags/japan.png',
     record: '5-3-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3240,14 +3580,114 @@ let masters = [
     firstName: 'Fabien Pujol',
     flag: '../../../assets/flags/france.png',
     record: '5-3-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
+    sprite1: '../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../assets/sprites/jolteon.png', 
     list: '../../../assets/list-icon.png',
-    type: '',
+    type: 'water',
     deck: [
       {
-        cardImg: '../../../assets/cards/2022-2023',
+        cardImg: '../../../assets/cards/2022-2023/palkia-vmax-origin-forme.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/palkia-v-origin-forme.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/jolteon.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/eevee.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/radiant-greninja.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/crobat-v.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/starmie-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/empoleon-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/lumineon-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/professor-research-rowan.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/marnie.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/melony.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/bosss-orders-cyrus.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/roxanne.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/irida.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/quick-ball.png',
         numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/ultra-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/trekking-shoes.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/capacious-bucket.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/ordinary-rod.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/pal-pad.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/memory-capsule.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/choice-belt.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/air-balloon.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/shopping-center.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/water-energy-brs.png',
+        numImg: '../../../assets/07.png'
       },
     ]
   },
@@ -3255,9 +3695,9 @@ let masters = [
     firstName: 'Pedro Pertusi',
     flag: '../../../assets/flags/brazil.png',
     record: '5-3-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3285,8 +3725,8 @@ let masters = [
     firstName: 'Logan Madden',
     flag: '../../../assets/flags/uk.png',
     record: '5-3-0',
-    sprite1: '../../../assets/sprites/mew-vmax.png',
-    sprite2: '../../../assets/sprites/genesect.png',  
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -3300,9 +3740,9 @@ let masters = [
     firstName: 'Angus Johnson',
     flag: '../../../assets/flags/australia.png',
     record: '5-3-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3315,9 +3755,9 @@ let masters = [
     firstName: 'Shoichi Saito',
     flag: '../../../assets/flags/japan.png',
     record: '4-1-3',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3330,9 +3770,9 @@ let masters = [
     firstName: 'Rui Sato',
     flag: '../../../assets/flags/japan.png',
     record: '5-3-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3345,9 +3785,9 @@ let masters = [
     firstName: 'Rowan Stavenow',
     flag: '../../../assets/flags/canada.png',
     record: '5-3-0',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3360,9 +3800,9 @@ let masters = [
     firstName: 'Tsai Yung-Ta',
     flag: '../../../assets/flags/taiwan.png',
     record: '4-2-2',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3375,9 +3815,9 @@ let masters = [
     firstName: 'Shinnosuke Sato',
     flag: '../../../assets/flags/japan.png',
     record: '4-2-2',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3390,9 +3830,9 @@ let masters = [
     firstName: 'Dan Hugar',
     flag: '../../../assets/flags/usa.png',
     record: '4-2-2',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3405,9 +3845,9 @@ let masters = [
     firstName: 'Tu Cheng-Tai',
     flag: '../../../assets/flags/taiwan.png',
     record: '4-2-2',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3435,9 +3875,9 @@ let masters = [
     firstName: 'Takuma Tominaga',
     flag: '../../../assets/flags/japan.png',
     record: '4-2-2',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3450,9 +3890,9 @@ let masters = [
     firstName: 'Fabrizio Silva',
     flag: '../../../assets/flags/peru.png',
     record: '4-3-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3465,9 +3905,9 @@ let masters = [
     firstName: 'Christian Fontenot',
     flag: '../../../assets/flags/denmark.png',
     record: '4-3-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3480,9 +3920,9 @@ let masters = [
     firstName: 'Manuel Jorach',
     flag: '../../../assets/flags/germany.png',
     record: '4-3-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3495,9 +3935,9 @@ let masters = [
     firstName: 'Kaisei Takata',
     flag: '../../../assets/flags/japan.png',
     record: '4-3-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3510,9 +3950,9 @@ let masters = [
     firstName: 'Tanner Hurley',
     flag: '../../../assets/flags/usa.png',
     record: '4-3-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3525,9 +3965,9 @@ let masters = [
     firstName: 'Haruto Masubuchi',
     flag: '../../../assets/flags/japan.png',
     record: '4-3-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3540,9 +3980,9 @@ let masters = [
     firstName: 'Takuya Hasegawa',
     flag: '../../../assets/flags/japan.png',
     record: '4-3-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3555,9 +3995,9 @@ let masters = [
     firstName: 'Syahmi Razak',
     flag: '../../../assets/flags/liberia-malaysia.png',
     record: '4-3-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
@@ -3570,9 +4010,9 @@ let masters = [
     firstName: 'Luca Clavadetscher',
     flag: '../../../assets/flags/switzerland.png',
     record: '4-3-1',
-    sprite2: '../../../assets/sprites/blank.png',  
-    sprite1: '../../../assets/sprites/blank.png',
-    list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',  
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
