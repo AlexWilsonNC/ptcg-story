@@ -1,8 +1,8 @@
 window.onload = () => {
-    let all = document.getElementsByClassName("zoomed"),
+    let worldsall = document.getElementsByClassName("pok-card-small"),
         zoombox = document.getElementById("zoom-card-box");
    
-    if (all.length>0) { for (let i of all) {
+    if (worldsall.length>0) { for (let i of worldsall) {
       i.onclick = () => {
         let clone = i.cloneNode();
         clone.className = "";
@@ -16,4 +16,3 @@ window.onload = () => {
         zoombox.className = "";
     };
   };
-  
