@@ -1,7 +1,3 @@
-const cardTouch = document.querySelectorAll('.pokemon-card2');
-// const cardImage = document.querySelectorAll('.pok-card-small2');
-const darkBackground = document.querySelector('.behind-large-card');
-
 const deckbuild1 = document.querySelector('.deckbuild1');
 const deckbuild2 = document.querySelector('.deckbuild2');
 const deckbuild3 = document.querySelector('.deckbuild3');
@@ -35,19 +31,6 @@ const descBoxA = document.querySelector('.descrip-boxa');
 const descBoxB = document.querySelector('.descrip-boxb');
 const descBoxC = document.querySelector('.descrip-boxc');
 const descBoxD = document.querySelector('.descrip-boxd');
-
-cardTouch.forEach(card => {
-    card.addEventListener('click', () => {
-        card.querySelector('.pok-card-small2').classList.add('large-card');
-        darkBackground.style.display = 'block';
-        if (card.querySelector('.pok-card-small2').classList.contains('large-card')) {
-            darkBackground.addEventListener('click', () => {
-                card.querySelector('.pok-card-small2').classList.remove('large-card');
-                darkBackground.style.display = 'none';
-            })
-        }
-    })
-});
 
 function changeToBuild1() {
     deckbuild1.classList.add('dark-bg');

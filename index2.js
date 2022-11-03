@@ -1,7 +1,3 @@
-const cardTouch = document.querySelectorAll('.pokemon-card2');
-// const cardImage = document.querySelectorAll('.pok-card-small2');
-const darkBackground = document.querySelector('.behind-large-card');
-
 const deckbuild1 = document.querySelector('.deckbuild1');
 const deckbuild2 = document.querySelector('.deckbuild2');
 const deckbuild3 = document.querySelector('.deckbuild3');
@@ -38,53 +34,6 @@ const descBox9 = document.querySelector('.descrip-box9');
 const descBox10 = document.querySelector('.descrip-box10');
 const descBox105 = document.querySelector('.descrip-box105');
 const descBox106 = document.querySelector('.descrip-box106');
-
-cardTouch.forEach(card => {
-    card.addEventListener('click', () => {
-        card.querySelector('.pok-card-small2').classList.add('large-card');
-        darkBackground.style.display = 'block';
-        if (card.querySelector('.pok-card-small2').classList.contains('large-card')) {
-            darkBackground.addEventListener('click', () => {
-                card.querySelector('.pok-card-small2').classList.remove('large-card');
-                darkBackground.style.display = 'none';
-            })
-        }
-    })
-});
-
-// cardTouch.forEach(card => {
-//     card.addEventListener('click', () => {
-//         card.querySelector('.pok-card-small2').classList.add('large-card');
-//         darkBackground.forEach(dbg => dbg.style.display = 'block');
-//         if (card.querySelector('.pok-card-small2').classList.contains('large-card')) {
-//             darkBackground.forEach(dbg => dbg.addEventListener('click', () => {
-//                 card.querySelector('.pok-card-small2').classList.remove('large-card');
-//                 darkBackground.forEach(dbg => dbg.style.display = 'none');
-//             })
-//         )}
-//     })
-// });
-
-// document.querySelectorAll('.deckbuild1').forEach(elem => elem.addEventListener('click', () => {
-//     elem.classList.add('dark-bg');
-//     elem.getAttribute("data-targetButton").classList.remove('dark-bg');
-//     elem.getAttribute("data-targetButton").classList.add('light-bg');
-
-//     document.getElementById(elem.getAttribute("data-targetOn")).style.display = 'flex';
-//     document.getElementById(data-targetOff).style.display = 'none';
-//     descBox1.style.display = 'flex';
-//     descBox2.style.display = 'none';
-// }))
-// document.querySelectorAll('.deckbuild2').forEach(elem => elem.addEventListener('click', () => {
-//     deckbuild2.classList.add('dark-bg');
-//     deckbuild1.classList.remove('dark-bg');
-//     deckbuild1.classList.add('light-bg');
-
-//     buildBox2.style.display = 'flex';
-//     buildBox1.style.display = 'none';
-//     descBox1.style.display = 'none';
-//     descBox2.style.display = 'flex';
-// })) 
 
 function changeToBuild100() {
     deckbuild100.classList.add('dark-bg');
