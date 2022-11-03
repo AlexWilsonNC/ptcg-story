@@ -556,22 +556,22 @@ li {
     width: 105px;
 }
 .old-card {
-    border-radius: 3%;
+    border-radius: 3.5%;
     background-color: rgb(255, 210, 0);
     padding: 1px;
 }
 .ex-era-card {
-    border-radius: 3%;
+    border-radius: 3.5%;
     background-color: rgb(196, 186, 170);
     padding: 1px;
 }
 .delta-era-card {
-    border-radius: 3%;
+    border-radius: 3.5%;
     background-color: rgb(201, 157, 0);
     padding: 1px;
 }
 .dp-card {
-    border-radius: 3%;
+    border-radius: 3.5%;
     background-color: rgb(227, 220, 106);
     padding: 1px;
 }
@@ -579,7 +579,9 @@ li {
     border-radius: 4%;
 }
 .semi-radius-card {
-    border-radius: 2%;
+    border-radius: 3.5%;
+    background-color: rgb(255, 210, 0);
+    padding: 0.5px;
 }
 .num-1 {
     position: absolute;
