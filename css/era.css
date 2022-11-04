@@ -658,7 +658,7 @@ margin-top: auto;
    
     visibility: hidden;
     opacity: 0;
-    transition: opacity ease 0.4s;
+    transition: opacity ease 0.3s;
   }
    
   #zoom-card-box.show {
