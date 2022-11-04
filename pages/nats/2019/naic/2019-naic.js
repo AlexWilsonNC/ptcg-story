@@ -156,7 +156,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Ondrej Skubal',
+    firstName: 'Ondřej Škubal',
     flag: '../../../../assets/flags/czech-republic.png',
     sprite1: '../../../../assets/sprites/spiritomb.png',
     sprite2: '../../../../assets/sprites/umbreon.png',
