@@ -583,6 +583,11 @@ li {
     background-color: rgb(255, 210, 0);
     padding: 0.5px;
 }
+.semi-ex-card {
+    border-radius: 3.5%;
+    background-color: rgb(196, 186, 170);
+    padding: 0.5px;
+}
 .num-1 {
     position: absolute;
     width: 35px;
