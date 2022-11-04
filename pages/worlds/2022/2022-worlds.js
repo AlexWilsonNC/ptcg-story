@@ -5540,7 +5540,7 @@ let seniors = [
     flag: '../../../assets/flags/france.png',
     record: '7-2-1',
     sprite1: '../../../assets/sprites/arceus.png',  
-    sprite2: '../../../assets/sprites/pikachu-gmax.png',
+    sprite2: '../../../assets/sprites/lucario.png',
     list: '../../../assets/list-icon.png',
     type: 'normal',
     deck: [
@@ -5553,19 +5553,19 @@ let seniors = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023/flying-pikachu-vmax.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../assets/cards/2022-2023/flying-pikachu-v.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
         cardImg: '../../../assets/cards/2022-2023/lucario-vstar.png',
         numImg: '../../../assets/02.png'
       },
       {
         cardImg: '../../../assets/cards/2022-2023/lucario-v-asr.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/flying-pikachu-vmax.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/flying-pikachu-v.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -6721,6 +6721,10 @@ function displayList(array = []) {
   for (let i = 0; i < array.length; i++) {
     let item = array[i];
 
+    // let zoomBox = document.createElement('div');
+    // zoomBox.classList.add('zoom-card-box');
+    // console.log(zoomBox)
+
     let item_element = document.createElement('li');
     item_element.classList.add('player-list-hover');
     let title = document.createElement('li');
@@ -6761,7 +6765,7 @@ function displayList(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " " + "(" + item.record + ")" + " - 2022 Worlds";
+        document.querySelector('.playerName').innerHTML = item.firstName + " " + "(" + item.record + ")" + " - 2022 Worlds";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
