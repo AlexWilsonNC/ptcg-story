@@ -605,7 +605,8 @@ li {
     transition: 0.2s ease all;
 }
 .set-btn:hover {
-    background-color: rgb(49, 49, 49);
+    background-color: rgb(67, 67, 67);
+    color: rgb(187, 173, 45);
 }
 .set-btn-small {
     padding: 5px 15px;
