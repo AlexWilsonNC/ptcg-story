@@ -377,7 +377,27 @@ margin-top: auto;
 }
 .format-sets2 img {
     height: auto;
-    width: 10vw;    margin: 10px 10px;
+    width: 10vw;    
+    margin: 10px 10px;
+}
+
+.sets-plus-promos {
+    display: flex; 
+    justify-content: center;
+    max-width: 75%;
+}
+.promo-alignment {
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    margin-top: 5px; 
+    justify-content: center;
+}
+.promo-alignment img {
+    width: 10%;
+}
+.promo-alignment strong {
+    margin-left: 7px;
 }
 
 .yrs-formats {

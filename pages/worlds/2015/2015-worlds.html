@@ -53,6 +53,7 @@
     </div>
 
     <div class='contain-event'>
+         <div id="zoom-card-box"></div>
         <div class='event-content'>
             <div class='summary'>
                 <div class='summ-left'>
@@ -173,13 +174,13 @@
                             <div class='left-set'>
                                 <img src='../../../assets/sets/bw7-boundaries-crossed-icon.png' class='set-icon'
                                     alt='set-icon'>
-                                <img src='../../../assets/sets/bw7-boundaries-crossed.png' class='set-logo shrink-icon'
+                                <img src='../../../assets/sets/bw7-boundaries-crossed.png' class='set-logo  '
                                     alt='set-logo'>
                             </div>
                             <div class='right-set'>
                                 <img src='../../../assets/sets/bw8-plasmastorm-icon.png' class='set-icon'
                                     alt='set-icon'>
-                                <img src='../../../assets/sets/bw8-plasmastorm.png' class='set-logo shrink-icon'
+                                <img src='../../../assets/sets/bw8-plasmastorm.png' class='set-logo  '
                                     alt='set-logo'>
                             </div>
                         </div>
@@ -187,13 +188,13 @@
                             <div class='left-set'>
                                 <img src='../../../assets/sets/bw9-plasma-freeze-icon.png' class='set-icon'
                                 alt='set-icon'>
-                            <img src='../../../assets/sets/bw9-plasma-freeze.png' class='set-logo shrink-icon'
+                            <img src='../../../assets/sets/bw9-plasma-freeze.png' class='set-logo  '
                                 alt='set-logo'>
                             </div>
                             <div class='right-set'>
                                 <img src='../../../assets/sets/bw10-plasma-blast-icon.png' class='set-icon'
                                 alt='set-icon'>
-                            <img src='../../../assets/sets/bw10-plasma-blast.png' class='set-logo shrink-icon'
+                            <img src='../../../assets/sets/bw10-plasma-blast.png' class='set-logo  '
                                 alt='set-logo'>
                             </div>
                         </div>
@@ -201,13 +202,13 @@
                             <div class='left-set'>
                                 <img src='../../../assets/sets/bw11-ltr-icon.png' class='set-icon'
                                     alt='set-icon'>
-                                <img src='../../../assets/sets/bw11-ltr.png' class='set-logo shrink-icon'
+                                <img src='../../../assets/sets/bw11-ltr.png' class='set-logo  '
                                     alt='set-logo'>
                             </div>
                             <div class='right-set'>
                                 <img src='../../../assets/sets/xyp-starter-set-icon.png' class='set-icon'
                                     alt='set-icon'>
-                                <img src='../../../assets/sets/xyp-starter-set.png' class='set-logo shrink-icon'
+                                <img src='../../../assets/sets/xyp-starter-set.png' class='set-logo  '
                                     alt='set-logo'>
                             </div>
                         </div>
@@ -215,14 +216,14 @@
                             <div class='left-set'>
                                 <img src='../../../assets/sets/xy1-xy-icon.png' class='set-icon'
                                 alt='set-icon'>
-                            <img src='../../../assets/sets/xy1-xy.png' class='set-logo shrink-icon'
+                            <img src='../../../assets/sets/xy1-xy.png' class='set-logo  '
                                 alt='set-logo'>
                                 
                             </div>
                             <div class='right-set'>
                                 <img src='../../../assets/sets/xy2-flashfire-icon.png' class='set-icon'
                                     alt='set-icon'>
-                                <img src='../../../assets/sets/xy2-flashfire.png' class='set-logo shrink-icon'
+                                <img src='../../../assets/sets/xy2-flashfire.png' class='set-logo  '
                                     alt='set-logo'>
                             </div>
                         </div>
@@ -230,14 +231,14 @@
                             <div class='left-set'>
                                 <img src='../../../assets/sets/xy3-furious-fists-icon.png' class='set-icon'
                                     alt='set-icon'>
-                                <img src='../../../assets/sets/xy3-furious-fists.png' class='set-logo shrink-icon'
+                                <img src='../../../assets/sets/xy3-furious-fists.png' class='set-logo  '
                                     alt='set-logo'>
                                 
                             </div>
                             <div class='right-set'>
                                 <img src='../../../assets/sets/xy4-phantom-forces-icon.png' class='set-icon'
                                     alt='set-icon'>
-                                <img src='../../../assets/sets/xy4-phantom-forces.png' class='set-logo shrink-icon'
+                                <img src='../../../assets/sets/xy4-phantom-forces.png' class='set-logo  '
                                     alt='set-logo'>
                             </div>
                         </div>
@@ -245,13 +246,13 @@
                             <div class='left-set'>
                                 <img src='../../../assets/sets/xy5-primal-clash-icon.png' class='set-icon'
                                     alt='set-icon'>
-                                <img src='../../../assets/sets/xy5-primal-clash.png' class='set-logo shrink-icon'
+                                <img src='../../../assets/sets/xy5-primal-clash.png' class='set-logo  '
                                     alt='set-logo'>
                             </div>
                             <div class='right-set'>
                                 <img src='../../../assets/sets/xy6-roaring-skies-icon.png' class='set-icon'
                                 alt='set-icon'>
-                            <img src='../../../assets/sets/xy6-roaring-skies.png' class='set-logo shrink-icon'
+                            <img src='../../../assets/sets/xy6-roaring-skies.png' class='set-logo  '
                                 alt='set-logo'>
                                 
                             </div>
@@ -471,7 +472,7 @@
                     <div class='promo-card'>
                         <h3>Event's Promo Card</h3>
                         <p>Set of multilingual Champions Festival</p>
-                        <img src='../../../assets/promos/2015-worlds.jpg'>
+                        <img src='../../../assets/promos/2015-worlds.jpg' class='zoomed'>
                     </div>
                 </div>
             </div>
@@ -491,7 +492,7 @@
     </footer>
 
     <script src='./js/close-alert.js'></script>
-    <script src="index.js"></script>
+    <script src="../../../zoom.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     <script type="text/javascript">
         window.addEventListener('scroll', function () {
