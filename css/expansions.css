@@ -68,6 +68,9 @@
     width: 20%;
     border-right: 1px solid black;
 }
+.set-en-date {
+    font-weight: 600;
+}
 
 @media screen and (max-width: 1250px) {
     .table-outline {
