@@ -352,14 +352,15 @@ li {
     margin-top: 15px;
     text-align: center;
 }
-.promo-card img {
-    width: 40%;
+.promo-card img,
+.promo-card2 img {
+    width: 210px;
     border-radius: 5px;
 }
-.promo-card2 img {
+/* .promo-card2 img {
     width: 60%;
     border-radius: 5px;
-}
+} */
 
 .gallery {
     border: 3.5px solid black;
