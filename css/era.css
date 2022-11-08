@@ -406,30 +406,34 @@ margin-top: auto;
 .promo-alignment-worlds img {
     width: 10%;
 }
+.legal-promos {
+    padding: 5px 13px;
+    border-radius: 13px;
+    background-color: rgb(68, 68, 68);
+    color: white;
+    margin-left: 15px;
+    font-size: 18px;
+}
 @media screen and (max-width: 950px) {
-    .promo-alignment-worlds strong {
+    .legal-promos {
         margin-left: 15px;
         font-size: 14px;
     }
 }
 @media screen and (max-width: 570px) {
-    .promo-alignment-worlds strong {
+    .legal-promos {
         margin-left: 15px;
         font-size: 16px;
     }
 }
 @media screen and (max-width: 380px) {
-    .promo-alignment-worlds strong {
+    .legal-promos {
         margin-left: 10px;
         font-size: 12px;
     }
 }
 .promo-alignment strong {
     margin-left: 7px;
-}
-.promo-alignment-worlds strong {
-    margin-left: 15px;
-    font-size: 18px;
 }
 
 .yrs-formats {

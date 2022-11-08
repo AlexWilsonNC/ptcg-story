@@ -801,12 +801,12 @@ li {
         width: 100%;
     }
 }
-@media screen and (max-width: 950px) {
+/* @media screen and (max-width: 950px) {
     .two-sets {
         display: flex;
         flex-direction: column;
    }
-}
+} */
 @media screen and (max-width: 900px) {
     .event-content {
         width: 90%;
@@ -1039,6 +1039,10 @@ li {
     .two-sets {
         display: flex;
         flex-direction: row;
+    }
+    .set-logo {
+        width: 120px;
+        height: auto;
     }
 }
 @media screen and (max-width: 620px) {
