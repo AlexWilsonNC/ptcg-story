@@ -427,6 +427,10 @@ margin-top: auto;
 .promo-alignment strong {
     margin-left: 7px;
 }
+.promo-alignment-worlds strong {
+    margin-left: 15px;
+    font-size: 18px;
+}
 
 .yrs-formats {
     display: flex;
