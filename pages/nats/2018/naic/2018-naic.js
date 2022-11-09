@@ -246,10 +246,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'William Azevedo',
+    flag: '../../../../assets/flags/brazil.png',
+    sprite1: '../../../../assets/sprites/zoroark.png',
+    sprite2: '../../../../assets/sprites/golisopod.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -261,10 +261,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Alex Schemanske',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/buzzwole.png',
+    sprite2: '../../../../assets/sprites/garbodor.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -276,10 +276,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Tran Nguyen',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/garbodor.png',
+    sprite2: '../../../../assets/sprites/buzzwole.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -291,10 +291,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Michael Laundrie',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/buzzwole.png',
+    sprite2: '../../../../assets/sprites/garbodor.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -306,10 +306,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Michael Pramawat',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/buzzwole.png',
+    sprite2: '../../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -321,10 +321,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Cody Graham',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/buzzwole.png',
+    sprite2: '../../../../assets/sprites/garbodor.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -336,10 +336,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Philip Schulz',
+    flag: '../../../../assets/flags/germany.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/zoroark.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -351,10 +351,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Pedro Torres',
+    flag: '../../../../assets/flags/spain.png',
+    sprite1: '../../../../assets/sprites/zoroark.png',
+    sprite2: '../../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -366,10 +366,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Dalton Didelot',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/malamar.png',
+    sprite2: '../../../../assets/sprites/necrozma-ultra.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -381,10 +381,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Daniel Altavilla',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/buzzwole.png',
+    sprite2: '../../../../assets/sprites/garbodor.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -396,10 +396,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Alexander Hill',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/buzzwole.png',
+    sprite2: '../../../../assets/sprites/garbodor.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -411,10 +411,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Boston Moreland',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/hoopa-unbound.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -426,10 +426,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'John Kettler',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/zoroark.png',
+    sprite2: '../../../../assets/sprites/golisopod.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -441,10 +441,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Nick Capobianco',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/malamar.png',
+    sprite2: '../../../../assets/sprites/lugia-shiny.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -456,10 +456,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Brian Miller',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/zoroark.png',
+    sprite2: '../../../../assets/sprites/golisopod.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -471,10 +471,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
+    firstName: 'Lance Bradshaw',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/buzzwole.png',
+    sprite2: '../../../../assets/sprites/lycanroc-midnight.png',
     // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
     type: '',
