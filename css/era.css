@@ -719,6 +719,10 @@ margin-top: auto;
     cursor: pointer;
 }
 
+/* .invert {
+    transform: rotate(90deg);
+} */
+
 /************************/
 
 #zoom-card-box {
