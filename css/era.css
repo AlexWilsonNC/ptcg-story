@@ -404,7 +404,7 @@ margin-top: auto;
     width: 10%;
 }
 .promo-alignment-worlds img {
-    width: 10%;
+    width: 30px;
 }
 .legal-promos, 
 .legal-promos-hgss {
@@ -432,6 +432,9 @@ margin-top: auto;
         font-size: 14px;
         margin-top: -10px;
     }
+    .promo-alignment-worlds img {
+        width: 20px;
+    }
 }
 @media screen and (max-width: 380px) {
     .legal-promos {
@@ -441,6 +444,9 @@ margin-top: auto;
     .legal-promos-hgss {
         margin-left: 09px;
         font-size: 10px;
+    }
+    .promo-alignment-worlds img {
+        width: 15px;
     }
 }
 .promo-alignment strong {
