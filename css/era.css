@@ -715,6 +715,10 @@ margin-top: auto;
     max-width: 75%;
 }
 
+.zoomed:hover {
+    cursor: pointer;
+}
+
 /************************/
 
 #zoom-card-box {
