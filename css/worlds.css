@@ -436,6 +436,7 @@ li {
     transform: translate(-50%, -50%);    
     /* transition: all ease 2s; */
     z-index: 100;
+    background-image: url(../assets/dark-bg.png) !important;
 }
 .modal-top {
     display: flex;
