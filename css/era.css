@@ -380,6 +380,9 @@ margin-top: auto;
     align-items: center;
     flex-direction: column;
 }
+.format-sets-promo li {
+    margin: 3px 0px;
+}
 .format-sets-promo img {
     height: auto;
     width: 2vw;
