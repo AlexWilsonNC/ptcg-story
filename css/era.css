@@ -375,6 +375,17 @@ margin-top: auto;
     width: 5vw;
     margin: 5px 10px;
 }
+.format-sets-promo {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.format-sets-promo img {
+    height: auto;
+    width: 2vw;
+    margin-top: 10px;
+    margin-right: 10px;
+}
 .format-sets2 img {
     height: auto;
     width: 10vw;    
@@ -860,6 +871,12 @@ margin-top: auto;
     .deck-box {
         width: 80%;
     }
+    .format-sets-promo img {
+        height: auto;
+        width: 4vw;
+        margin-top: 10px;
+        margin-right: 10px;
+    }
     .format-sets img,
     .format-sets2 img {
         height: auto;width:15vw;
@@ -1096,6 +1113,14 @@ margin-top: auto;
     .worlds-expanded-txt p {
         font-size: 9px;
         margin-bottom: 3px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .format-sets-promo img {
+        height: auto;
+        width: 5vw;
+        margin-top: 10px;
+        margin-right: 10px;
     }
 }
 @media screen and (max-width: 385px) {
