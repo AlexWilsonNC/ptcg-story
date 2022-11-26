@@ -27,6 +27,9 @@
 .up-up {
     margin-top: -2px;
 }
+.opace {
+    opacity: 0.7;
+}
 
 .japan-box img {
     width: 300px;

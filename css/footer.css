@@ -17,14 +17,35 @@ footer a {
     color: #fff;
     font-size: 18px;
 }
+
+.foot-mid {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 50%;
+    margin: 40px 0px 35px; 
+}
+.foot-mid img {
+   width: 45px; 
+}
+
 #foot-bottom {
     color: #fff;
     text-align: center;
-    margin: 40px 50px 20px;
+    margin: 0px 50px 20px;
     font-size: 11px;
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 1190px) {
+    .foot-mid {
+        width: 60%;
+        margin: 40px 0px 35px; 
+    }
+    .foot-mid img {
+       width: 40px; 
+    }
+}
+@media screen and (max-width: 670px) {
     footer {
         margin-top: 5px;
     }
@@ -35,7 +56,12 @@ footer a {
         font-size: 11px;
     }
     #foot-bottom {
-        margin: 14px 20px;
         font-size: 6px;
     }
+    .foot-mid {
+        width: 70%;
+    }
+    .foot-mid img {
+        width: 30px; 
+     }
 }

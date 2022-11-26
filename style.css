@@ -18,6 +18,10 @@ html,body{
     flex-direction: column;
     scroll-behavior: smooth;
 }
+.home-twitter-icon {
+    width: 40px;
+    height: auto;
+}
 /* body {
     background-image: url(./assets/subtle-rombus-white-gray-pattern-background_1017-25098.webp);
     background-repeat: no-repeat;
@@ -278,6 +282,47 @@ hr {
     background-color: rgb(80, 75, 49);
 }
 
+/* .leon-zard {
+    width: 45%;
+    height: auto;
+    border-radius: 10px;
+} */
+.social-contact-icons {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    justify-content: space-around;
+    margin: 50px 0px;
+}
+.email img,
+.discord img {
+    width: 90px;
+    height: 90px;
+}
+.twitter img {
+    width: 91px;
+    height: 90px;
+}
+.socials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 15%;
+    transition: ease all 0.2s;
+}
+.socials:hover {
+    opacity: 0.7;
+}
+.socials p {
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.hide-big {
+    display: none;
+}
+
 .other-logos {
     /* color: rgb(43, 86, 134); */
     font-size: 150px;
@@ -391,6 +436,30 @@ hr {
         width: 70%;
     }
 }
+@media screen and (max-width: 850px) {
+    .social-contact-icons {
+        display: flex;
+        flex-direction: row;
+        width: 90%;
+        justify-content: space-around;
+        margin: 25px 0px;
+    }
+    .email img,
+    .discord img {
+        width: 70px;
+        height: 70px;
+    }
+    .twitter img {
+        width: 71px;
+        height: 70px;
+    }
+    .socials {
+        width: 15%;
+    }
+    .socials p {
+        font-size: 16px;
+    }
+}
 @media screen and (max-width: 780px) {
     .other-logos {
         font-size: 90px;
@@ -410,6 +479,11 @@ hr {
     }
     #center-a-container p {
         width: 80%;
+    }
+    .leon-zard {
+        width: 65%;
+        height: auto;
+        border-radius: 10px;
     }
 }
 @media screen and (max-width: 600px) {
@@ -437,6 +511,35 @@ hr {
     }
     .too-much {
         max-width: 100%;
+    }
+    /* */
+    .hide-small {
+        display: none;
+    }
+    .hide-big {
+        display: flex;
+    }
+    .social-contact-icons {
+        display: flex;
+        flex-direction: row;
+        width: 95%;
+        justify-content: space-around;
+        margin: 25px 0px;
+    }
+    .email img,
+    .discord img {
+        width: 70px;
+        height: 70px;
+    }
+    .twitter img {
+        width: 71px;
+        height: 70px;
+    }
+    .socials {
+        width: 15%;
+    }
+    .socials p {
+        font-size: 16px;
     }
 }
 @media screen and (max-width: 550px) {
@@ -468,5 +571,8 @@ hr {
     }
     #nav-left {
         margin-bottom: 4px;
+    }
+    .socials p {
+        font-size: 14px;
     }
 }
