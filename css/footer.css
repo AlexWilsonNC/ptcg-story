@@ -27,6 +27,7 @@ footer a {
 }
 .foot-mid img {
    width: 45px; 
+   border-radius: 8px;
 }
 
 #foot-bottom {
