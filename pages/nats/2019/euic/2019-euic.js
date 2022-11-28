@@ -600,12 +600,12 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
+        cardImg: '../../../../assets/cards/2019-2020/lucario-gx.png',
+        numImg: '../../../../assets/02.png'
       },
       {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
+        cardImg: '../../../../assets/cards/2019-2020/riolu.png',
+        numImg: '../../../../assets/02.png'
       },
       {
         cardImg: '../../../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
@@ -616,92 +616,92 @@ let masters = [
         numImg: '../../../../assets/02.png'
       },
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2019-2020/tapu-lele-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/alolan-muk.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/alolan-grimer-division.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/ditto-p.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/oranguru-resource-manag.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/lillie.png',
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2019-2020/cynthia.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/guzma.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/acerola.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/judge.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/mallow.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/ultra-ball.png',
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2019-2020/nest-ball.png',
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2019-2020/pokemon-comm.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/rescue-stretcher.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/switch.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/judge-whistle.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/palpad.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/lysandre-lab.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/fighting-energy-teu.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020',
-        numImg: '../../../../assets/04.png'
+        cardImg: '../../../../assets/cards/energy/rainbow-energy-cel.png',
+        numImg: '../../../../assets/01.png'
       },
     ]
   },
