@@ -5886,7 +5886,7 @@ let masters = [
     ]
   },
 ]
-// https://www.pokemon.com/us/play-pokemon/internationals/2020/latin-america/tcg-senior/
+
 let seniors = [
   {
     firstName: 'Tanner Hurley',
