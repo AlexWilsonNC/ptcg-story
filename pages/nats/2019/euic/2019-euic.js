@@ -832,7 +832,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/28-17/eevee.png',
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -1354,7 +1354,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/28-17/eevee.png',
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -1456,7 +1456,7 @@ let masters = [
         numImg: '../../../../assets/02.png'
       },
       {
-        cardImg: '../../../../assets/cards/28-17/eevee.png',
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
         numImg: '../../../../assets/02.png'
       },
       {
@@ -3407,7 +3407,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/28-17/eevee.png',
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -3736,7 +3736,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/28-17/eevee.png',
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -3964,7 +3964,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/28-17/eevee.png',
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -4693,7 +4693,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/28-17/eevee.png',
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -4991,7 +4991,7 @@ let masters = [
         numImg: '../../../../assets/02.png'
       },
       {
-        cardImg: '../../../../assets/cards/28-17/eevee.png',
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
         numImg: '../../../../assets/02.png'
       },
       {
@@ -5458,7 +5458,7 @@ let masters = [
         numImg: '../../../../assets/02.png'
       },
       {
-        cardImg: '../../../../assets/cards/28-17/eevee.png',
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
         numImg: '../../../../assets/02.png'
       },
       {
@@ -5686,7 +5686,7 @@ let masters = [
         numImg: '../../../../assets/02.png'
       },
       {
-        cardImg: '../../../../assets/cards/28-17/eevee.png',
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
         numImg: '../../../../assets/02.png'
       },
       {
