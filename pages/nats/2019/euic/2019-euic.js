@@ -587,7 +587,7 @@ let masters = [
     firstName: 'Arjan Nagel',
     flag: '../../../../assets/flags/netherlands.png',
     sprite1: '../../../../assets/sprites/zoroark.png',
-    sprite2: '../../../../assets/sprites/lucario.png',
+    sprite2: '../../../../assets/sprites/lycanroc-midnight.png',
     list: '../../../../assets/list-icon.png',
     type: 'dark',
     deck: [
@@ -600,19 +600,19 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2019-2020/lucario-gx.png',
-        numImg: '../../../../assets/02.png'
-      },
-      {
-        cardImg: '../../../../assets/cards/2019-2020/riolu.png',
-        numImg: '../../../../assets/02.png'
-      },
-      {
         cardImg: '../../../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
         numImg: '../../../../assets/02.png'
       },
       {
         cardImg: '../../../../assets/cards/2019-2020/rockruff.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/lucario-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/riolu.png',
         numImg: '../../../../assets/02.png'
       },
       {
