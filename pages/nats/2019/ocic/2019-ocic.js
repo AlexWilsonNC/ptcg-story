@@ -1308,7 +1308,7 @@ let masters = [
   {
     firstName: 'Sam Chen',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/zapdos.png',
     sprite2: '../../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../../assets/list-icon.png',
     type: 'lightning',
@@ -1625,7 +1625,7 @@ let masters = [
   {
     firstName: 'Pedro Torres',
     flag: '../../../../assets/flags/spain.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/zapdos.png',
     sprite2: '../../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../../assets/list-icon.png',
     type: 'lightning',
@@ -1787,7 +1787,7 @@ let masters = [
   {
     firstName: 'Fabien Pujol',
     flag: '../../../../assets/flags/france.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/zapdos.png',
     sprite2: '../../../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../../../assets/list-icon.png',
     type: 'lightning',
