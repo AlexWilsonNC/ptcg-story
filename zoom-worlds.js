@@ -1,8 +1,8 @@
 window.onload = () => {
-    let all = document.getElementsByClassName("pok-card-small"),
+    let card = document.getElementsByClassName("pok-card-small"),
         zoombox = document.getElementsByClassName("zoom-card-box");
    
-    if (all.length > 0) { for (let i of all) {
+    if (card.length > 0) { for (let i of card) {
       i.onclick = () => {
         let clone = i.cloneNode();
         clone.className = "";
