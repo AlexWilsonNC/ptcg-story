@@ -4317,12 +4317,103 @@ let masters = [
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/passimian.png',
     sprite2: '../../../../assets/sprites/tapu-koko.png',
-    // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/passimian-team-play.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/passimian-huddle.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-koko-flying-flip.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/jirachi-stellar-wish.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/victini-v-beatdown.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/diancie-p.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/lillie.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/cynthia.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/guzma.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/kukui.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/erikas-hospitality.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/gladion.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/nest-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/rescue-stretcher.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/energy-loto.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/counter-catcher.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/switch.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/choice-band.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/escapeboard.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/shrineofpunush.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/counter-energy.png',
         numImg: '../../../../assets/04.png'
       },
     ]
