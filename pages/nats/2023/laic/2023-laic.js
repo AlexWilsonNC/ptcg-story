@@ -111,7 +111,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Agustin Campo',
+    firstName: 'Agustín Campo',
     flag: '../../../../assets/flags/argentina.png',
     sprite1: '../../../../assets/sprites/lugia.png',
     sprite2: '../../../../assets/sprites/archeops.png',
