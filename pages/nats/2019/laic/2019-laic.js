@@ -7221,13 +7221,88 @@ let juniors = [
     flag: '../../../../assets/flags/brazil.png',
     sprite1: '../../../../assets/sprites/blacephalon.png',
     sprite2: '../../../../assets/sprites/naganadel.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'fire',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/blacephalon-gx.png',
         numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/naganadel.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/poipole-eye.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/cynthia.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/sightseer.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/kiawe.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/beast-ring.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/acro-bike.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/mysterious-treasure.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/energy-switch-ces.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rescue-stretcher.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/choice-band.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-space.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/heat-factory.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-fire.png',
+        numImg: '../../../../assets/16.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-beast-p.png',
+        numImg: '../../../../assets/01.png'
       },
     ]
   },
@@ -7236,13 +7311,96 @@ let juniors = [
     flag: '../../../../assets/flags/brazil.png',
     sprite1: '../../../../assets/sprites/malamar.png',
     sprite2: '../../../../assets/sprites/tapu-koko.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'psychic',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/malamar.png',
         numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/inkay.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-koko-flying-flip.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/giratina-distortion-door.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/shining-arceus.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/necrozma-gx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/onix.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/marshadow-let-loose.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/cynthia.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/mysterious-treasure.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/acro-bike.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/nest-ball.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rescue-stretcher.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/spelltag.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/shrineofpunush.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-psychic.png',
+        numImg: '../../../../assets/10.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
+        numImg: '../../../../assets/02.png'
       },
     ]
   },
@@ -7251,12 +7409,123 @@ let juniors = [
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/zoroark.png',
     sprite2: '../../../../assets/sprites/lycanroc-midnight.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2019-2020/zoroark-gx.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/zorua.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/lycanroc-gx-midnight.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rockruff-corner.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rockruff-promo.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/tapu-lele-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/naganadel.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/alolan-muk.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/ditto-p.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/deoxys.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/cynthia.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/professor-elm-lecture.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/guzma.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/kukui.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/acerola.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/judge.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/mallow.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/great-ball.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/timer-ball.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/field-blower.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/multi-switch.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/rescue-stretcher.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/palpad.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/choice-band.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/counter-gain.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/devoured-field.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-fighting.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -7266,13 +7535,104 @@ let juniors = [
     flag: '../../../../assets/flags/france.png',
     sprite1: '../../../../assets/sprites/passimian.png',
     sprite2: '../../../../assets/sprites/tapu-koko.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'fighting',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/passimian-team-play.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/passimian-huddle.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-koko-flying-flip.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/deoxys.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/mimikyu.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/oranguru-instruct.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/victini-v-beatdown.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/cynthia.png',
         numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/lillie.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/guzma.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/tate-n-liza.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/nest-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/rescue-stretcher.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/energy-loto.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/acro-bike.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/counter-catcher.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/ultra-ball.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/choice-band.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/escapeboard.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/shrineofpunush.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/counter-energy.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/rainbow-energy-cel.png',
+        numImg: '../../../../assets/01.png'
       },
     ]
   },
@@ -7281,13 +7641,108 @@ let juniors = [
     flag: '../../../../assets/flags/canada.png',
     sprite1: '../../../../assets/sprites/malamar.png',
     sprite2: '../../../../assets/sprites/marshadow.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'psychic',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2019-2020/malamar.png',
         numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/inkay.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/marshadow-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/necrozma-gx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/necrozma-dawn-wings.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/tapu-lele-gx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/marshadow-let-loose.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/chimecho.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/giratina-distortion-door.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/lunala-p.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/deoxys.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/mimikyu.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/oricorio-energy.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/lillie.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/cynthia.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/guzma.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/mysterious-treasure.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/acro-bike.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/rescue-stretcher.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/nest-ball.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/friend-ball.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/escape-rope.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/escapeboard.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-psychic.png',
+        numImg: '../../../../assets/10.png'
       },
     ]
   },
@@ -7296,13 +7751,80 @@ let juniors = [
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/malamar.png',
     sprite2: '../../../../assets/sprites/tapu-koko.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'psychic',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/malamar.png',
         numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/inkay.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-koko-flying-flip.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/giratina-distortion-door.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/necrozma-gx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/marshadow-let-loose.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/cynthia.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/sightseer.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/mysterious-treasure.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/acro-bike.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/nest-ball.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rescue-stretcher.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/spelltag.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-psychic.png',
+        numImg: '../../../../assets/11.png'
       },
     ]
   },
@@ -7425,13 +7947,88 @@ let juniors = [
     flag: '../../../../assets/flags/denmark.png',
     sprite1: '../../../../assets/sprites/blacephalon.png',
     sprite2: '../../../../assets/sprites/naganadel.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'fire',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/blacephalon-gx.png',
         numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/naganadel.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/poipole-eye.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/marshadow-let-loose.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/cynthia.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/sophacles.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/plumeria.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/sightseer.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/beast-ring.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/mysterious-treasure.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/energy-switch-ces.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/lysandre-lab.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-space.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2019-2020/heat-factory.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-fire.png',
+        numImg: '../../../../assets/16.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-beast-p.png',
+        numImg: '../../../../assets/01.png'
       },
     ]
   },
