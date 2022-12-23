@@ -469,7 +469,8 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2008-2010/chatot.png',
@@ -763,7 +764,8 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2008-2010/dragonite.png',
@@ -1011,7 +1013,8 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2008-2010/bronzong.png',
@@ -1311,7 +1314,8 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2008-2010/absol.png',
@@ -1565,7 +1569,8 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2008-2010/unown-quick.png',
@@ -1769,7 +1774,8 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2008-2010/unown-quick.png',
@@ -2045,7 +2051,8 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2008-2010/chatot.png',
@@ -2542,7 +2549,8 @@ let seniors = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2008-2010/chatot.png',
@@ -2896,7 +2904,8 @@ let seniors = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2008-2010/unown-quick.png',
@@ -3174,7 +3183,8 @@ let seniors = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2008-2010/bronzong.png',
@@ -3747,7 +3757,8 @@ let juniors = [
       },
       {
         cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
-        numImg: '../../../assets/01.png'
+        numImg: '../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
@@ -4321,6 +4332,13 @@ let juniors = [
               pokeCard.classList.add('pok-card-small')
               pokeCard.setAttribute('src', deck.cardImg);
 
+              if (deck.oldCard === true) {
+                pokeCard.classList.add('old-card')
+              }
+              if (deck.oldCard === true) {
+                pokeCard.classList.add('radius-card')
+              }
+
               // cardSpace.forEach(card => {
               //   card.addEventListener('click', () => {
               //     pokeCard.classList.add('large-card')
@@ -4452,6 +4470,13 @@ function displayList2(array = []) {
           let pokeCard = document.createElement('img');
           pokeCard.classList.add('pok-card-small')
           pokeCard.setAttribute('src', deck.cardImg);
+          
+          if (deck.oldCard === true) {
+            pokeCard.classList.add('old-card')
+          }
+          if (deck.oldCard === true) {
+            pokeCard.classList.add('radius-card')
+          }
 
           let numberCounter = document.createElement('img');
           numberCounter.classList.add('num-1')
@@ -4578,6 +4603,13 @@ function displayList3(array = []) {
           let pokeCard = document.createElement('img');
           pokeCard.classList.add('pok-card-small')
           pokeCard.setAttribute('src', deck.cardImg);
+
+          if (deck.oldCard === true) {
+            pokeCard.classList.add('old-card')
+          }
+          if (deck.oldCard === true) {
+            pokeCard.classList.add('radius-card')
+          }
 
           // pokeCard.onclick = function() {
           //   document.querySelector('.pok-card-small').style.width = '500px';
