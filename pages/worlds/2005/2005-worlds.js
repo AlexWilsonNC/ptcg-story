@@ -1499,7 +1499,7 @@ let seniors = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2004-2006/rayquaza-ex.png',
+        cardImg: '../../../assets/cards/2004-2006/rayquaza-ex-dragon-burst.png',
         numImg: '../../../assets/02.png'
       },
       {
