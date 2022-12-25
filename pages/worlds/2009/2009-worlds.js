@@ -3130,19 +3130,19 @@ let juniors = [
                 cardSpace.remove();
               })
             }
-            document.querySelectorAll('.pokemon-card').forEach(card => {
-              console.log('here')
-              card.addEventListener('click', () => {
-                  card.querySelector('.pok-card-small').classList.add('large-card');
-                  document.querySelector('.second-behind-modal').style.display = 'block';
-                  if (card.querySelector('.pok-card-small').classList.contains('large-card')) {
-                    document.querySelector('.second-behind-modal').addEventListener('click', () => {
-                          card.querySelector('.pok-card-small').classList.remove('large-card');
-                          document.querySelector('.second-behind-modal').style.display = 'none';
-                      })
-                  }
-              })
-            });
+            // document.querySelectorAll('.pokemon-card').forEach(card => {
+            //   console.log('here')
+            //   card.addEventListener('click', () => {
+            //       card.querySelector('.pok-card-small').classList.add('large-card');
+            //       document.querySelector('.second-behind-modal').style.display = 'block';
+            //       if (card.querySelector('.pok-card-small').classList.contains('large-card')) {
+            //         document.querySelector('.second-behind-modal').addEventListener('click', () => {
+            //               card.querySelector('.pok-card-small').classList.remove('large-card');
+            //               document.querySelector('.second-behind-modal').style.display = 'none';
+            //           })
+            //       }
+            //   })
+            // });
           })
         }
 
@@ -3256,19 +3256,19 @@ function displayList2(array = []) {
             cardSpace.remove();
           })
         }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          console.log('here')
-          card.addEventListener('click', () => {
-              card.querySelector('.pok-card-small').classList.add('large-card');
-              document.querySelector('.second-behind-modal').style.display = 'block';
-              if (card.querySelector('.pok-card-small').classList.contains('large-card')) {
-                document.querySelector('.second-behind-modal').addEventListener('click', () => {
-                      card.querySelector('.pok-card-small').classList.remove('large-card');
-                      document.querySelector('.second-behind-modal').style.display = 'none';
-                  })
-              }
-          })
-        });
+        // document.querySelectorAll('.pokemon-card').forEach(card => {
+        //   console.log('here')
+        //   card.addEventListener('click', () => {
+        //       card.querySelector('.pok-card-small').classList.add('large-card');
+        //       document.querySelector('.second-behind-modal').style.display = 'block';
+        //       if (card.querySelector('.pok-card-small').classList.contains('large-card')) {
+        //         document.querySelector('.second-behind-modal').addEventListener('click', () => {
+        //               card.querySelector('.pok-card-small').classList.remove('large-card');
+        //               document.querySelector('.second-behind-modal').style.display = 'none';
+        //           })
+        //       }
+        //   })
+        // });
       })
     }
 
@@ -3386,19 +3386,19 @@ function displayList3(array = []) {
             cardSpace.remove();
           })
         }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          console.log('here')
-          card.addEventListener('click', () => {
-              card.querySelector('.pok-card-small').classList.add('large-card');
-              document.querySelector('.second-behind-modal').style.display = 'block';
-              if (card.querySelector('.pok-card-small').classList.contains('large-card')) {
-                document.querySelector('.second-behind-modal').addEventListener('click', () => {
-                      card.querySelector('.pok-card-small').classList.remove('large-card');
-                      document.querySelector('.second-behind-modal').style.display = 'none';
-                  })
-              }
-          })
-        });
+        // document.querySelectorAll('.pokemon-card').forEach(card => {
+        //   console.log('here')
+        //   card.addEventListener('click', () => {
+        //       card.querySelector('.pok-card-small').classList.add('large-card');
+        //       document.querySelector('.second-behind-modal').style.display = 'block';
+        //       if (card.querySelector('.pok-card-small').classList.contains('large-card')) {
+        //         document.querySelector('.second-behind-modal').addEventListener('click', () => {
+        //               card.querySelector('.pok-card-small').classList.remove('large-card');
+        //               document.querySelector('.second-behind-modal').style.display = 'none';
+        //           })
+        //       }
+        //   })
+        // });
       })
     }
 
