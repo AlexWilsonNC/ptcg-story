@@ -3459,7 +3459,7 @@ let seniors = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/eevee.png',
+        cardImg: '../../../assets/cards/2014-2016/eevee-plf.png',
         numImg: '../../../assets/02.png'
       },
       {
