@@ -1647,7 +1647,7 @@ let masters = [
                 numImg: '../../../../assets/01.png'
             },
             {
-                cardImg: '../../../../assets/cards/energy/dp-darkness-energy.png',
+                cardImg: '../../../../assets/cards/energy/darkness-energy-hgss.png',
                 numImg: '../../../../assets/04.png'
             },
             {
