@@ -937,7 +937,7 @@ let masters = [
   },
   {
     firstName: 'Jimmy Wuyts',
-    flag: '../../../assets/flags/germany.png',
+    flag: '../../../assets/flags/belgium.png',
     sprite1: '../../../assets/sprites/volcanion.png',
     sprite2: '../../../assets/sprites/turtonator.png',
     list: '../../../assets/list-icon.png',
