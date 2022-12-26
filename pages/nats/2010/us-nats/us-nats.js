@@ -909,7 +909,8 @@ let masters = [
       },
       {
         cardImg: '../../../../assets/cards/2008-2010/mt.115.team_galactics_wager.jpg',
-        numImg: '../../../../assets/01.png'
+        numImg: '../../../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../../../assets/cards/2008-2010/poke-turn.png',
