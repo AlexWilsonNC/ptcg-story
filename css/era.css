@@ -692,6 +692,16 @@ margin-top: auto;
 .dark-love-bg {
     background-image: linear-gradient(to top left, #ffaf7b, #d76d77, #3a1c71);
 }
+.dark-17-bg {
+    background-image: linear-gradient(to top right, #9600FF, #AEBAF8);
+}
+
+.highlighted {
+    background-color: rgba(128, 128, 128, 0.554);
+    padding: 3px 4px;
+    border-radius: 5px;
+    text-shadow: 2px 2px 5px black;
+}
 
 .errata-img {
     max-width: 75%;
