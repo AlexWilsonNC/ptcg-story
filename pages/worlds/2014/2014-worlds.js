@@ -3330,7 +3330,7 @@ let juniors = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/jirachi.png',
+        cardImg: '../../../assets/cards/2014-2016/jirachi-ex.png',
         numImg: '../../../assets/01.png'
       },
       {
