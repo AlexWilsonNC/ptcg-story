@@ -161,12 +161,16 @@ function changeToBuildD() {
 
 deckbuild1.addEventListener('click', changeToBuild1)
 deckbuild2.addEventListener('click', changeToBuild2)
+
 deckbuild3.addEventListener('click', changeToBuild3)
 deckbuild4.addEventListener('click', changeToBuild4)
+
 deckbuild7.addEventListener('click', changeToBuild7)
 deckbuild8.addEventListener('click', changeToBuild8)
 deckbuild85.addEventListener('click', changeToBuild85)
+
 deckbuildA.addEventListener('click', changeToBuildA)
 deckbuildB.addEventListener('click', changeToBuildB)
+
 deckbuildC.addEventListener('click', changeToBuildC)
 deckbuildD.addEventListener('click', changeToBuildD)
