@@ -2279,20 +2279,20 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Isaiah Ruf',
+    firstName: 'Isaiah Rufus',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/gengar.png',
+    sprite1: '../../../../assets/sprites/gengar.png',
+    sprite2: '../../../../assets/sprites/garchomp.png',
     list: '../../../../assets/list-icon.png',
     type: 'psychic',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2008-2010/gengar-fainting-spell.png',
-        numImg: '../../../../assets/03.png'
+        cardImg: '../../../../assets/cards/2008-2010/gengar-lvx.png',
+        numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2008-2010/gengar-curse.png',
-        numImg: '../../../../assets/01.png'
+        cardImg: '../../../../assets/cards/2008-2010/gengar-fainting-spell.png',
+        numImg: '../../../../assets/03.png'
       },
       {
         cardImg: '../../../../assets/cards/2008-2010/haunter-hypnosis.png',
