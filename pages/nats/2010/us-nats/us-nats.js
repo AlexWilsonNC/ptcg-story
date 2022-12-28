@@ -2263,6 +2263,412 @@ let seniors = [
       },
     ]
   },
+  {
+    firstName: 'Chuck L.',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/jumpluff.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Isaiah Ruf',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/gengar.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'psychic',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010/gengar-fainting-spell.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/gengar-curse.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/haunter-hypnosis.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/gastly.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/garchomp-lvx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/garchomp-c.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/giratina.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/mewtwo-lvx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/mewtwo.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/claydol.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/baltoy-fighting.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/cyrus-conspiracy.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/palmers-contribution.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/judge-hgss.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/looker.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/rare-candy-hgss.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/pokemon-communication-hgss.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/sp-radar.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/energy-gain.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/hgss-energy-psychic.png',
+        numImg: '../../../../assets/05.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/call-energy.png',
+        numImg: '../../../../assets/03.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Andrew Krekeler',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../../assets/sprites/azelf.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'psychic',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010/gardevoir-lvx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/gardevoir-psychic-lock.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/gallade.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/kirlia.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/ralts-future-sight.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/spiritomb.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/azelf-lvx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/azelf-downer-aterial.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/mesprit-pbind.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/dusknoir.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/duskull-shiny.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/claydol.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/baltoy-fighting.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/unown-quick.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/judge-hgss.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/poke-collector.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/palmers-contribution.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/rare-candy-hgss.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/night-maintenance.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/warp-point.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/expert-belt.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/hgss-energy-psychic.png',
+        numImg: '../../../../assets/05.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/hgss-energy-fighting.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/call-energy.png',
+        numImg: '../../../../assets/03.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Geoffrey Sauk',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/gyarados.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Jeffrey H.',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/luxray.png',
+    sprite2: '../../../../assets/sprites/garchomp.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2008-2010',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
 ]
 
 let juniors = [
@@ -2345,7 +2751,7 @@ function displayList(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2022 NAIC";
+                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2010 US Nats";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -2482,7 +2888,7 @@ function displayList2(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2022 NAIC";
+                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2010 US Nats";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -2618,7 +3024,7 @@ function displayList3(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2022 NAIC";
+                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2010 US Nats";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
