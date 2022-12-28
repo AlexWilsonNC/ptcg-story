@@ -2219,7 +2219,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Spencer B.',
+    firstName: 'Spencer Brown',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/luxray.png',
     sprite2: '../../../../assets/sprites/garchomp.png',
