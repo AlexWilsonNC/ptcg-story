@@ -2219,7 +2219,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Spencer B',
+    firstName: 'Spencer B.',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/luxray.png',
     sprite2: '../../../../assets/sprites/garchomp.png',
@@ -2249,7 +2249,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Aylam R',
+    firstName: 'Aylam R.',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/gengar.png',
