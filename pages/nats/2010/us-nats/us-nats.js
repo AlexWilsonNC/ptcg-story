@@ -2535,7 +2535,7 @@ let seniors = [
     ]
   },
   {
-    firstName: '--',
+    firstName: 'Eric Wu',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/hyphen.png',
@@ -2580,10 +2580,10 @@ let seniors = [
     ]
   },
   {
-    firstName: '--',
+    firstName: 'Thomas Arena',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite2: '../../../../assets/sprites/gengar.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -2595,10 +2595,10 @@ let seniors = [
     ]
   },
   {
-    firstName: '--',
+    firstName: 'Kyle M.',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/luxray.png',
+    sprite2: '../../../../assets/sprites/garchomp.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -2610,10 +2610,10 @@ let seniors = [
     ]
   },
   {
-    firstName: '--',
+    firstName: 'Brandon Jones',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../../assets/sprites/azelf.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -2625,10 +2625,10 @@ let seniors = [
     ]
   },
   {
-    firstName: '--',
+    firstName: 'Tim H.',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/kingdra.png',
+    sprite2: '../../../../assets/sprites/machamp.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -2640,10 +2640,10 @@ let seniors = [
     ]
   },
   {
-    firstName: '--',
+    firstName: 'George W.',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/luxray.png',
+    sprite2: '../../../../assets/sprites/garchomp.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -2655,7 +2655,7 @@ let seniors = [
     ]
   },
   {
-    firstName: '--',
+    firstName: 'Ty Wheeler',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/hyphen.png',
@@ -2883,7 +2883,7 @@ let juniors = [
     ]
   },
   {
-    firstName: '--',
+    firstName: 'Ian Whiton',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/hyphen.png',
