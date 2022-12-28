@@ -803,7 +803,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/03.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/e-reader/oracle.jpg',
