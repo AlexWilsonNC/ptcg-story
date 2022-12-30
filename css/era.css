@@ -612,6 +612,7 @@ margin-top: auto;
 .build-boxd,
 .build-boxf,
 .build-box106,
+.build-box107,
 .build-boxh {
     display: none;
 }
@@ -626,6 +627,7 @@ margin-top: auto;
 .descrip-boxd,
 .descrip-boxf,
 .descrip-box106,
+.descrip-box107,
 .descrip-boxh {
     display: none;
 }
