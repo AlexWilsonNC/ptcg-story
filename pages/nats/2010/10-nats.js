@@ -729,62 +729,7 @@ let juniors = [
             },
         ]
     },
-    {
-        firstName: '--',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/hyphen.png',
-        // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../../assets/cards/2008-2010',
-                numImg: '../../../assets/04.png'
-            },
-        ]
-    },
-    {
-        firstName: '--',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/hyphen.png',
-        // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../../assets/cards/2008-2010',
-                numImg: '../../../assets/04.png'
-            },
-        ]
-    },
-    {
-        firstName: '--',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/hyphen.png',
-        // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../../assets/cards/2008-2010',
-                numImg: '../../../assets/04.png'
-            },
-        ]
-    },
-    {
-        firstName: '--',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/hyphen.png',
-        // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../../assets/cards/2008-2010',
-                numImg: '../../../assets/04.png'
-            },
-        ]
-    },
+   
 ]
 
 //masters
