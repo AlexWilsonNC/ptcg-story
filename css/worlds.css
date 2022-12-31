@@ -295,6 +295,7 @@ li {
     align-items: center;
     justify-content: space-between;
     margin-bottom: 5px;
+    height: 50px;
 }
 .player-deck-icons {
     display: flex;
