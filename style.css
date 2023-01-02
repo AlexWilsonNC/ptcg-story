@@ -137,21 +137,24 @@ hr {
     justify-content: center;
     align-items: center;
     background-color: rgb(49, 49, 49);
-    padding: 15px 0px;
+    border-bottom: 4px solid rgb(49, 49, 49);
 }
 .extra-nav a {
     color:white;
     margin: 0px 50px;
     transition: ease all 0.2s;
+    padding: 15px 0px 11px;
+    display: block;
 }
 .extra-nav a:hover {
-    text-decoration: underline;
+    border-bottom: 4px solid rgb(224, 160, 22);
 }
 .active-extra {
     background: linear-gradient(to top right, rgb(224, 160, 22), rgb(255, 224, 120));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: bolder;
+    border-bottom: 4px solid rgb(224, 160, 22);
 }
 
 .small-text {
@@ -472,12 +475,10 @@ hr {
     }
 }
 @media screen and (max-width: 750px) {
-    .extra-nav {
-        padding: 15px 0px;
-    }
     .extra-nav a {
         margin: 0px 30px;
         font-size: 14px;
+        padding: 15px 0px 11px;
     }
     #center-a-container h1,
     #center-a-container h2 {
