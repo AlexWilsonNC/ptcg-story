@@ -338,20 +338,16 @@ hr {
     background-color: rgb(37, 37, 37);
 } */
 .oth-pink {
-    /* color:rgb(255, 63, 229); */
-    color:rgba(255, 63, 229, 0.5);
+    color:rgb(255, 63, 229);
 }
 .oth-violet {
-    /* color:rgb(210, 112, 255); */
-    color:rgba(210, 112, 255, 0.5);
+    color:rgb(210, 112, 255);
 }
 .oth-purple {
-    /* color:rgb(167, 99, 255); */
-    color:rgba(167, 99, 255, 0.5);
+    color:rgb(167, 99, 255);
 }
 .oth-blue {
-    /* color:rgb(67, 77, 223); */
-    color:rgba(67, 77, 223, 0.5);
+    color:rgb(67, 77, 223);
 }
 .oth-light-blue {
     color:rgb(102, 219, 255);
