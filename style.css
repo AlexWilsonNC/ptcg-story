@@ -98,11 +98,7 @@ hr {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-.active-extra {
-    background: linear-gradient(to top right, rgb(224, 160, 22), rgb(255, 224, 120));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
+
 .me {
     border-radius: 10px;
     width: 100px;
@@ -136,7 +132,7 @@ hr {
     justify-content: center;
 }
 .extra-nav {
-    width: 100%;
+    width: 70%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -150,6 +146,12 @@ hr {
 }
 .extra-nav a:hover {
     text-decoration: underline;
+}
+.active-extra {
+    background: linear-gradient(to top right, rgb(224, 160, 22), rgb(255, 224, 120));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;
 }
 
 .small-text {
@@ -395,6 +397,10 @@ hr {
     .other-logos {
         font-size: 120px;
     }
+    .extra-nav {
+        width: 80%;
+        max-width: 80%;
+    }
 }
 @media screen and (max-width: 900px) {
     #nav-right {
@@ -430,6 +436,10 @@ hr {
     .image-text,
     .image-text-creator {
         width: 70%;
+    }
+    .extra-nav {
+        width: 100%;
+        max-width: 100%;
     }
 }
 @media screen and (max-width: 850px) {
