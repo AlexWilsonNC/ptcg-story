@@ -15,7 +15,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -30,7 +30,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -45,7 +45,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -60,7 +60,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -75,7 +75,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -90,7 +90,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -105,7 +105,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -120,7 +120,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -135,7 +135,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -150,7 +150,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -165,7 +165,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -180,7 +180,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -195,7 +195,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -210,7 +210,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -225,7 +225,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -240,7 +240,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -255,7 +255,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -270,7 +270,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -285,7 +285,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -300,7 +300,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -315,7 +315,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -330,7 +330,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -345,7 +345,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -360,7 +360,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -375,7 +375,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -390,7 +390,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -405,7 +405,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -420,7 +420,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -435,7 +435,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -450,7 +450,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -465,7 +465,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -480,7 +480,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -495,7 +495,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -510,7 +510,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -525,7 +525,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -540,7 +540,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -555,7 +555,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -570,7 +570,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -585,7 +585,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -600,7 +600,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -615,7 +615,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -630,7 +630,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -645,7 +645,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -660,7 +660,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -675,7 +675,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -690,7 +690,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -705,7 +705,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -720,7 +720,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -735,7 +735,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -750,7 +750,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -765,7 +765,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -780,7 +780,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -795,7 +795,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -810,7 +810,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -825,7 +825,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -840,7 +840,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -855,7 +855,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -870,7 +870,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -885,7 +885,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -900,7 +900,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -915,7 +915,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -930,7 +930,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -945,7 +945,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -960,7 +960,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -978,7 +978,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -993,7 +993,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1008,7 +1008,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1023,7 +1023,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1038,7 +1038,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1053,7 +1053,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1068,7 +1068,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1083,7 +1083,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1096,12 +1096,91 @@ let juniors = [
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/gardevoir.png',
-    // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'fairy',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/gardevoir-gx.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/gallade.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/kirlia.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ralts-kiss.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/octillery.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/remoraid-ion-pool.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/vulpix-alolan.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/n.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/professor-sycamore.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/brigette.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rare-candy-sum.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/max-potion.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/field-blower.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/super-rod.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/choice-band.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/parallel-city.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-fairy.png',
+        numImg: '../../../../assets/07.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1111,12 +1190,99 @@ let juniors = [
     flag: '../../../../assets/flags/denmark.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/gardevoir.png',
-    // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'fairy',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/gardevoir-gx.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/gallade.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/kirlia.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ralts-kiss.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/octillery.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/remoraid-ion-pool.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/remoraid-wild-river.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/diancie.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/vulpix-alolan.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/professor-sycamore.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/n.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/acerola.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/brigette.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rare-candy-sum.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/field-blower.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/super-rod.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/choice-band.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/float-stone.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-fairy.png',
+        numImg: '../../../../assets/09.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1126,12 +1292,99 @@ let juniors = [
     flag: '../../../../assets/flags/france.png',
     sprite1: '../../../../assets/sprites/zoroark.png',
     sprite2: '../../../../assets/sprites/golisopod.png',
-    // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/zoroark-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/zoroark.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/zorua-whiny-voice.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/zorua-bkt.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/golisopod-gx.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/wimpod.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-koko-flying-flip.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/espeon-ex.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/giratina.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/n.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/acerola.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/professor-sycamore.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/brigette.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/puzzle-of-time.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/field-blower.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rescue-stretcher.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/choice-band.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/float-stone.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-grass.png',
+        numImg: '../../../../assets/07.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1139,14 +1392,97 @@ let juniors = [
   {
     firstName: 'Joao Penteado',
     flag: '../../../../assets/flags/brazil.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/gardevoir.png',
-    // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-    type: '',
+    sprite1: '../../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../../assets/sprites/sylveon.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'fairy',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/gardevoir-gx.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/gallade.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/kirlia-psychic.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ralts-kiss.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/sylveon-gx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/oranguru.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/n.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/professor-sycamore.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/brigette.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/max-potion.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rare-candy-sum.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/field-blower.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/super-rod.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/choice-band.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/float-stone.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/parallel-city.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-fairy.png',
+        numImg: '../../../../assets/08.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1156,12 +1492,95 @@ let juniors = [
     flag: '../../../../assets/flags/germany.png',
     sprite1: '../../../../assets/sprites/golisopod.png',
     sprite2: '../../../../assets/sprites/garbodor.png',
-    // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'grass',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/golisopod-gx.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/wimpod.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/garbodor-garbotoxin.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/garbodor-trashalanche.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/trubbish-acid-spray.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/buzzwole-gx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/celesteela-gx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/n.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/professor-sycamore.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/acerola.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/brigette.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/heavy-ball.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rescue-stretcher.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/field-blower.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/choice-band.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/float-stone.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-grass.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-rainbow.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1171,12 +1590,99 @@ let juniors = [
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/registeel.png',
     sprite2: '../../../../assets/sprites/scizor.png',
-    // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'metal',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/registeel.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/celesteela-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2014-2016/scizor-ex.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/kartana-gx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/drampa-gx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2014-2016/mew.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2014-2016/cobalion.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/dhelmise.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/oranguru.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/n.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/professor-sycamore.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/max-elixir.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/switch.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/super-rod.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/field-blower.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/choice-band.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/float-stone.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-metal.png',
+        numImg: '../../../../assets/10.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1184,14 +1690,109 @@ let juniors = [
   {
     firstName: 'Mariano Franco',
     flag: '../../../../assets/flags/italy.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/gardevoir.png',
-    // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-    type: '',
+    sprite1: '../../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../../assets/sprites/xerneas-active.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'fairy',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/gardevoir-gx.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/gallade.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/kirlia.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ralts-kiss.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/xerneas-break.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2014-2016/xerneas-sts.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/octillery.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/remoraid-wild-river.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/espeon-ex.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/n.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/professor-sycamore.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/brigette.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/acerola.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/fisherman.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rare-candy-sum.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/evosoda.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rescue-stretcher.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/field-blower.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/choice-band.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/fairy-garden.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-fairy.png',
+        numImg: '../../../../assets/08.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -1199,14 +1800,105 @@ let juniors = [
   {
     firstName: 'Krystal Florendo',
     flag: '../../../../assets/flags/canada.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/gardevoir.png',
-    // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-    type: '',
+    sprite1: '../../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../../assets/sprites/sylveon.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'fairy',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2019-2020',
+        cardImg: '../../../../assets/cards/2018-17/gardevoir-gx.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/gallade.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/kirlia.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ralts-kiss.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/sylveon-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/eevee.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/tapu-lele-gx.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/octillery.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/remoraid-ion-pool.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/mr-mime-fairy.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/n.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/professor-sycamore.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/guzma.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/brigette.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/acerola.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/ultra-ball.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/rare-candy-sum.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/field-blower.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/super-rod.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/choice-band.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/float-stone.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2018-17/parallel-city.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/energy-fairy.png',
+        numImg: '../../../../assets/08.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/dce.png',
         numImg: '../../../../assets/04.png'
       },
     ]
