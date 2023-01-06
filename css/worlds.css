@@ -192,6 +192,7 @@
 }
 .prizing-header {
     margin-top: 15px;
+    display: flex;
 }
 .prize-zone {
     display: flex;
@@ -357,12 +358,9 @@ li {
 .promo-card img,
 .promo-card2 img {
     width: 210px;
+    height: auto;
     border-radius: 5px;
 }
-/* .promo-card2 img {
-    width: 60%;
-    border-radius: 5px;
-} */
 
 .gallery {
     border: 3.5px solid black;
@@ -574,6 +572,9 @@ li {
     border-radius: 3.5%;
     background-color: rgb(201, 157, 0);
     padding: 1px;
+}
+.small-only {
+    display: none;
 }
 .dp-card {
     border-radius: 3.5%;
@@ -916,19 +917,46 @@ li {
         justify-content: space-between;
         align-items: center;
         width: 0%;
+    } */
+    .promo-card img,
+    .promo-card2 img {
+        width: 180px;
+        height: auto;
+        border-radius: 5px;
+    }
+    .auto-day2-area-2022 h3{
+        text-align: center;
+    }
+    .center-small-only {
+        justify-content: center;
+    }
+    .small-only {
+        display: flex;
+        justify-content: center;
+    }
+    .cp-area {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .auto-day2-area2 h3 {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    .auto-day2-area2 ol {
+        margin-left: 50px;
     }
     .left-set {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        width: 0%;
+        width: 50%;
+        justify-content: center;
     }
     .right-set {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        width: 0%;
-    } */
+        width: 50%;
+        justify-content: center;
+    }
     .hidden-poke {
         display: block;
         top: 150px;
@@ -990,12 +1018,8 @@ li {
         width: 100%;
     }
     .auto-day2-area {
-        width: 50%;
-        margin-left: 50px;
-    }
-    .auto-day2-area2 ol,
-    .auto-day2-area2 h3 {
-        margin-left: 50px;
+        width: 60%;
+        text-align: center;
     }
     .hidden-top-summ {
         width: 100%;
@@ -1027,7 +1051,8 @@ li {
         display: flex;
     }
     .prizing-header {
-        margin-left: 20px;
+        margin-left: 0px;
+        justify-content: center;
     }
     .hidden-prizing {
         display: flex;
@@ -1065,7 +1090,8 @@ li {
         align-items: center;
         width: 100%;
     }
-    h5 {
+    h5,
+    .hidden-item {
         font-size: 20px;
         text-align: center;
         padding-bottom: 8px;
@@ -1073,6 +1099,7 @@ li {
     .hidden-cast {
         display: flex;
         flex-direction: column;
+        margin-top: 15px;
     }
     .top-cast,
     .bottom-cast {
@@ -1092,6 +1119,11 @@ li {
     .set-logo {
         width: 120px;
         height: auto;
+    }
+    .sets {
+        display: flex;
+        justify-content: center;
+        text-align: center;
     }
 }
 @media screen and (max-width: 620px) {
@@ -1189,11 +1221,6 @@ li {
         width: 100%;
         margin-left: 0px;
     }
-    .auto-day2-area2 ol,
-    .auto-day2-area2 h3 {
-        margin-left: 0px;
-        margin-left: 10px;
-    }
     .auto-day2-area2 ol {
         font-size: 14px;
     }
@@ -1266,6 +1293,11 @@ li {
         font-size: 14px;
     }
 }
+@media screen and (max-width: 430px) {
+    .auto-day2-area2 ol {
+        margin-left: 30px;
+    }
+}
 @media screen and (max-width: 370px) {
     .others-box {
         width: 130px;
@@ -1296,6 +1328,7 @@ li {
         flex-wrap: wrap;
         width: 90%;
     }
+
 }
 @media screen and (max-width: 380px) {
     .hidden-poke {
@@ -1323,15 +1356,21 @@ li {
         width: 75px;
     }
     .auto-day2-area2 ol {
-        font-size: 10px;
+        font-size: 12px;
     }
     .promo-card p,
     .promo-card2 p {
         font-size: 12px;
-}
+    }
+    .rating-zone p {
+        font-size: 12px;
+    }
 }
 @media screen and (max-width: 364px) {
     .set-btn {
         font-size: 12px;
+    }
+    .auto-day2-area2 ol {
+        margin-left: 25px;
     }
 }
