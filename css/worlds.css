@@ -578,7 +578,8 @@ li {
     padding: 1px;
 }
 .small-only {
-    display: none;
+    display: flex;
+justify-content: flex-start;
 }
 .dp-card {
     border-radius: 3.5%;
@@ -944,7 +945,6 @@ li {
         justify-content: center;
     }
     .small-only {
-        display: flex;
         justify-content: center;
     }
     .cp-area {
