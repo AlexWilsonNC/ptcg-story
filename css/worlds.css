@@ -1088,7 +1088,10 @@ li {
         display: flex;
         flex-direction: column;
         align-items: center;
+        border: 1px solid grey;
         width: 100%;
+        max-width: 100%;
+        border-radius: 25px;
     }
     h5,
     .hidden-item {
