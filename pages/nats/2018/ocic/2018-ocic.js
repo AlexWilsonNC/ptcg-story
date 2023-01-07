@@ -478,7 +478,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -576,7 +576,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -756,7 +756,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -842,7 +842,7 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/02.png'
       },
       {
@@ -2606,7 +2606,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -3322,7 +3322,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -3620,7 +3620,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -3953,7 +3953,7 @@ let seniors = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -4129,7 +4129,7 @@ let seniors = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/02.png'
       },
       {
@@ -4329,7 +4329,7 @@ let seniors = [
         numImg: '../../../../assets/02.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/02.png'
       },
       {
@@ -5018,7 +5018,7 @@ let juniors = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/01.png'
       },
       {
@@ -5316,7 +5316,7 @@ let juniors = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/02.png'
       },
       {
@@ -5426,7 +5426,7 @@ let juniors = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2018-17/lillie.png',
+        cardImg: '../../../../assets/cards/2018-17/lillie-sum.png',
         numImg: '../../../../assets/01.png'
       },
       {
