@@ -1331,14 +1331,14 @@ justify-content: flex-start;
         height: 16px;
     }
     .list-icon {
-        width: 17px;
+        width: 19px;
         height: auto;
     }
-    .sprite,
+    /* .sprite,
     .second-sprite {
         width: 48px;
         height: auto;
-    }
+    } */
 }
 @media screen and (max-width: 370px) {
     .others-box {
