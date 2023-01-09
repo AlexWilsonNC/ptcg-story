@@ -1322,6 +1322,24 @@ justify-content: flex-start;
         margin-left: 30px;
     }
 }
+@media screen and (max-width: 420px) {
+    .name-n-flag {
+        font-size: 14px;
+    }
+    .flag-size {
+        width: 16px;
+        height: 16px;
+    }
+    .list-icon {
+        width: 17px;
+        height: auto;
+    }
+    .sprite,
+    .second-sprite {
+        width: 48px;
+        height: auto;
+    }
+}
 @media screen and (max-width: 370px) {
     .others-box {
         width: 130px;
