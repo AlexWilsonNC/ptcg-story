@@ -2537,8 +2537,8 @@ let seniors = [
   {
     firstName: 'Eric Wu',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../../assets/sprites/gallade.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
@@ -2677,13 +2677,117 @@ let juniors = [
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/gengar.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: '',
+    list: '../../../../assets/list-icon.png',
+    type: 'psychic',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2008-2010',
+        cardImg: '../../../../assets/cards/2008-2010/gengar-lvx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/gengar-fainting-spell.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/ar.041.haunter.jpg',
+        numImg: '../../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/haunter-smog.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/gastly.png',
         numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/nidoqueen.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/nidorina-2008.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/nidoran-f.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/mewtwo-lvx.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/mewtwo.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/claydol.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/baltoy-fighting.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/unown-guard.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/looker.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/rare-candy-hgss.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/pokemon-communication-hgss.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/night-maintenance.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2008-2010/broken-time-space.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/hgss-energy-psychic.png',
+        numImg: '../../../../assets/07.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/energy/call-energy.png',
+        numImg: '../../../../assets/03.png'
       },
     ]
   },
@@ -2703,10 +2807,10 @@ let juniors = [
     ]
   },
   {
-    firstName: '--',
+    firstName: 'Henry S.',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/luxray.png',
+    sprite2: '../../../../assets/sprites/blaziken.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: '',
