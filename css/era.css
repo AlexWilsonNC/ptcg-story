@@ -1,6 +1,11 @@
+.contain-top-era-selector {
+    display: flex;
+    justify-content: center;
+}
 .top-era-selector {
-    width: 100%;
+    width: 70%;
     background-color: #313131;
+    /* border-bottom: 4px solid rgb(49, 49, 49); */
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -8,17 +13,23 @@
     padding: 10px 0px;
 }
 .top-era-selector h2 a {
-    color: rgb(187, 173, 45);
+    color: white;
     transition: ease all 0.2s;
 }
 .top-era-selector h2 a:hover {
-    color: rgb(229, 225, 187);
+    /* color: rgb(224, 160, 22); */
+    border-bottom: 4px solid rgb(224, 160, 22);
 }
+
 .arrow-a {
     display: flex;
     justify-content: center;
     align-items: center;
     color: #fff;
+    transition: ease all 0.2s;
+}
+.arrow-a:hover {
+    color: rgb(224, 160, 22);
 }
 
 .format {
@@ -882,6 +893,12 @@ margin-top: auto;
         font-size: 14px;
     }
 }
+@media screen and (max-width: 1050px) {
+    .top-era-selector {
+        width: 80%;
+        max-width: 80%;
+    }
+}
 @media screen and (max-width: 930px) {
     .deck-box {
         width: 80%;
@@ -924,6 +941,12 @@ margin-top: auto;
     }
     .weak-resist {
         width: 70%;
+    }
+}
+@media screen and (max-width: 900px) {
+    .top-era-selector {
+        width: 100%;
+        max-width: 100%;;
     }
 }
 @media screen and (max-width: 850px) {
