@@ -172,8 +172,8 @@ function changeToBuild9() {
     buildBox106.style.display = 'none';
     descBox107.style.display = 'none';
     buildBox107.style.display = 'none';
-    deckbuild108.classList.remove('dark-bg');
-    deckbuild108.classList.add('light-bg');
+    descBox108.style.display = 'none';
+    buildBox108.style.display = 'none';
 }
 function changeToBuild10() {
     deckbuild10.classList.add('dark-bg');
@@ -198,8 +198,8 @@ function changeToBuild10() {
     buildBox106.style.display = 'none';
     descBox107.style.display = 'none';
     buildBox107.style.display = 'none';
-    deckbuild108.classList.remove('dark-bg');
-    deckbuild108.classList.add('light-bg');
+    descBox108.style.display = 'none';
+    buildBox108.style.display = 'none';
 }
 function changeToBuild105() {
     deckbuild105.classList.add('dark-bg');
@@ -224,8 +224,8 @@ function changeToBuild105() {
     buildBox105.style.display = 'flex';
     descBox107.style.display = 'none';
     buildBox107.style.display = 'none';
-    deckbuild108.classList.remove('dark-bg');
-    deckbuild108.classList.add('light-bg');
+    descBox108.style.display = 'none';
+    buildBox108.style.display = 'none';
 }
 function changeToBuild106() {
     deckbuild106.classList.add('dark-bg');
@@ -250,8 +250,8 @@ function changeToBuild106() {
     buildBox105.style.display = 'none';
     descBox107.style.display = 'none';
     buildBox107.style.display = 'none';
-    deckbuild108.classList.remove('dark-bg');
-    deckbuild108.classList.add('light-bg');
+    descBox108.style.display = 'none';
+    buildBox108.style.display = 'none';
 }
 function changeToBuild107() {
     deckbuild107.classList.add('dark-bg');
@@ -276,10 +276,8 @@ function changeToBuild107() {
     descBox106.style.display = 'none';
     descBox105.style.display = 'none';
     buildBox105.style.display = 'none';
-    deckbuild106.classList.remove('dark-bg');
-    deckbuild106.classList.add('light-bg');
-    deckbuild108.classList.remove('dark-bg');
-    deckbuild108.classList.add('light-bg');
+    descBox108.style.display = 'none';
+    buildBox108.style.display = 'none';
 }
 function changeToBuild108() {
     deckbuild108.classList.add('dark-bg');
@@ -304,8 +302,6 @@ function changeToBuild108() {
     descBox106.style.display = 'none';
     descBox105.style.display = 'none';
     buildBox105.style.display = 'none';
-    deckbuild106.classList.remove('dark-bg');
-    deckbuild106.classList.add('light-bg');
     descBox107.style.display = 'none';
     buildBox107.style.display = 'none';
 }
