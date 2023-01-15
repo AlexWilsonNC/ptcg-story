@@ -11,10 +11,15 @@ const deckbuild10 = document.querySelector('.deckbuild10');
 const deckbuild105 = document.querySelector('.deckbuild105');
 const deckbuild106 = document.querySelector('.deckbuild106');
 const deckbuild107 = document.querySelector('.deckbuild107');
+const deckbuild108 = document.querySelector('.deckbuild108');
 const deckbuildA = document.querySelector('.deckbuilda');
 const deckbuildB = document.querySelector('.deckbuildb');
 const deckbuildC = document.querySelector('.deckbuildc');
 const deckbuildD = document.querySelector('.deckbuildd');
+const deckbuildE = document.querySelector('.deckbuilde');
+const deckbuildF = document.querySelector('.deckbuildf');
+const deckbuildG = document.querySelector('.deckbuildg');
+const deckbuildH = document.querySelector('.deckbuildh');
 
 const buildBox1 = document.querySelector('.build-box1');
 const buildBox2 = document.querySelector('.build-box2');
@@ -29,10 +34,15 @@ const buildBox10 = document.querySelector('.build-box10');
 const buildBox105 = document.querySelector('.build-box105');
 const buildBox106 = document.querySelector('.build-box106');
 const buildBox107 = document.querySelector('.build-box107');
+const buildBox108 = document.querySelector('.build-box108');
 const buildBoxA = document.querySelector('.build-boxa');
 const buildBoxB = document.querySelector('.build-boxb');
 const buildBoxC = document.querySelector('.build-boxc');
 const buildBoxD = document.querySelector('.build-boxd');
+const buildBoxE = document.querySelector('.build-boxe');
+const buildBoxF = document.querySelector('.build-boxf');
+const buildBoxG = document.querySelector('.build-boxg');
+const buildBoxH = document.querySelector('.build-boxh');
 
 const descBox1 = document.querySelector('.descrip-box1');
 const descBox2 = document.querySelector('.descrip-box2');
@@ -47,10 +57,15 @@ const descBox10 = document.querySelector('.descrip-box10');
 const descBox105 = document.querySelector('.descrip-box105');
 const descBox106 = document.querySelector('.descrip-box106'); 
 const descBox107 = document.querySelector('.descrip-box107'); 
+const descBox108 = document.querySelector('.descrip-box108'); 
 const descBoxA = document.querySelector('.descrip-boxa');
 const descBoxB = document.querySelector('.descrip-boxb');
 const descBoxC = document.querySelector('.descrip-boxc');
 const descBoxD = document.querySelector('.descrip-boxd');
+const descBoxE = document.querySelector('.descrip-boxe');
+const descBoxF = document.querySelector('.descrip-boxf');
+const descBoxG = document.querySelector('.descrip-boxg');
+const descBoxH = document.querySelector('.descrip-boxh');
 
 function changeToBuild1() {
     deckbuild1.classList.add('dark-bg');
@@ -144,6 +159,8 @@ function changeToBuild9() {
     deckbuild106.classList.remove('dark-bg');
     deckbuild107.classList.add('light-bg');
     deckbuild107.classList.remove('dark-bg');
+    deckbuild108.classList.remove('dark-bg');
+    deckbuild108.classList.add('light-bg');
 
     buildBox9.style.display = 'flex';
     buildBox10.style.display = 'none';
@@ -155,6 +172,8 @@ function changeToBuild9() {
     buildBox106.style.display = 'none';
     descBox107.style.display = 'none';
     buildBox107.style.display = 'none';
+    deckbuild108.classList.remove('dark-bg');
+    deckbuild108.classList.add('light-bg');
 }
 function changeToBuild10() {
     deckbuild10.classList.add('dark-bg');
@@ -166,6 +185,8 @@ function changeToBuild10() {
     deckbuild106.classList.remove('dark-bg');
     deckbuild107.classList.add('light-bg');
     deckbuild107.classList.remove('dark-bg');
+    deckbuild108.classList.remove('dark-bg');
+    deckbuild108.classList.add('light-bg');
 
     buildBox10.style.display = 'flex';
     buildBox9.style.display = 'none';
@@ -177,6 +198,8 @@ function changeToBuild10() {
     buildBox106.style.display = 'none';
     descBox107.style.display = 'none';
     buildBox107.style.display = 'none';
+    deckbuild108.classList.remove('dark-bg');
+    deckbuild108.classList.add('light-bg');
 }
 function changeToBuild105() {
     deckbuild105.classList.add('dark-bg');
@@ -188,6 +211,8 @@ function changeToBuild105() {
     deckbuild106.classList.add('light-bg');
     deckbuild107.classList.add('light-bg');
     deckbuild107.classList.remove('dark-bg');
+    deckbuild108.classList.remove('dark-bg');
+    deckbuild108.classList.add('light-bg');
 
     buildBox10.style.display = 'none';
     buildBox9.style.display = 'none';
@@ -199,6 +224,8 @@ function changeToBuild105() {
     buildBox105.style.display = 'flex';
     descBox107.style.display = 'none';
     buildBox107.style.display = 'none';
+    deckbuild108.classList.remove('dark-bg');
+    deckbuild108.classList.add('light-bg');
 }
 function changeToBuild106() {
     deckbuild106.classList.add('dark-bg');
@@ -210,6 +237,8 @@ function changeToBuild106() {
     deckbuild105.classList.remove('dark-bg');
     deckbuild107.classList.add('light-bg');
     deckbuild107.classList.remove('dark-bg');
+    deckbuild108.classList.remove('dark-bg');
+    deckbuild108.classList.add('light-bg');
 
     buildBox10.style.display = 'none';
     buildBox9.style.display = 'none';
@@ -221,6 +250,8 @@ function changeToBuild106() {
     buildBox105.style.display = 'none';
     descBox107.style.display = 'none';
     buildBox107.style.display = 'none';
+    deckbuild108.classList.remove('dark-bg');
+    deckbuild108.classList.add('light-bg');
 }
 function changeToBuild107() {
     deckbuild107.classList.add('dark-bg');
@@ -232,6 +263,8 @@ function changeToBuild107() {
     deckbuild105.classList.remove('dark-bg');
     deckbuild106.classList.remove('dark-bg');
     deckbuild106.classList.add('light-bg');
+    deckbuild108.classList.remove('dark-bg');
+    deckbuild108.classList.add('light-bg');
 
     buildBox10.style.display = 'none';
     buildBox9.style.display = 'none';
@@ -245,6 +278,36 @@ function changeToBuild107() {
     buildBox105.style.display = 'none';
     deckbuild106.classList.remove('dark-bg');
     deckbuild106.classList.add('light-bg');
+    deckbuild108.classList.remove('dark-bg');
+    deckbuild108.classList.add('light-bg');
+}
+function changeToBuild108() {
+    deckbuild108.classList.add('dark-bg');
+    deckbuild10.classList.add('light-bg');
+    deckbuild10.classList.remove('dark-bg');
+    deckbuild9.classList.remove('dark-bg');
+    deckbuild9.classList.add('light-bg');
+    deckbuild105.classList.add('light-bg');
+    deckbuild105.classList.remove('dark-bg');
+    deckbuild106.classList.remove('dark-bg');
+    deckbuild106.classList.add('light-bg');
+    deckbuild107.classList.add('light-bg');
+    deckbuild107.classList.remove('dark-bg');
+
+    buildBox10.style.display = 'none';
+    buildBox9.style.display = 'none';
+    descBox9.style.display = 'none';
+    descBox10.style.display = 'none';
+    descBox108.style.display = 'flex';
+    buildBox108.style.display = 'flex';
+    buildBox106.style.display = 'none';
+    descBox106.style.display = 'none';
+    descBox105.style.display = 'none';
+    buildBox105.style.display = 'none';
+    deckbuild106.classList.remove('dark-bg');
+    deckbuild106.classList.add('light-bg');
+    descBox107.style.display = 'none';
+    buildBox107.style.display = 'none';
 }
 
 function changeToBuildA() {
@@ -289,6 +352,48 @@ function changeToBuildD() {
     descBoxD.style.display = 'flex';
 }
 
+function changeToBuildE() {
+    deckbuildE.classList.add('dark-bg');
+    deckbuildF.classList.remove('dark-bg');
+    deckbuildF.classList.add('light-bg');
+
+    buildBoxE.style.display = 'flex';
+    buildBoxF.style.display = 'none';
+    descBoxE.style.display = 'flex';
+    descBoxF.style.display = 'none';
+}
+function changeToBuildF() {
+    deckbuildF.classList.add('dark-bg');
+    deckbuildE.classList.remove('dark-bg');
+    deckbuildE.classList.add('light-bg');
+
+    buildBoxF.style.display = 'flex';
+    buildBoxE.style.display = 'none';
+    descBoxE.style.display = 'none';
+    descBoxF.style.display = 'flex';
+}
+
+function changeToBuildG() {
+    deckbuildG.classList.add('dark-bg');
+    deckbuildH.classList.remove('dark-bg');
+    deckbuildH.classList.add('light-bg');
+
+    buildBoxG.style.display = 'flex';
+    buildBoxH.style.display = 'none';
+    descBoxG.style.display = 'flex';
+    descBoxH.style.display = 'none';
+}
+function changeToBuildH() {
+    deckbuildH.classList.add('dark-bg');
+    deckbuildG.classList.remove('dark-bg');
+    deckbuildG.classList.add('light-bg');
+
+    buildBoxH.style.display = 'flex';
+    buildBoxG.style.display = 'none';
+    descBoxG.style.display = 'none';
+    descBoxH.style.display = 'flex';
+}
+
 deckbuild1.addEventListener('click', changeToBuild1)
 deckbuild2.addEventListener('click', changeToBuild2)
 
@@ -306,9 +411,16 @@ deckbuild10.addEventListener('click', changeToBuild10)
 deckbuild105.addEventListener('click', changeToBuild105)
 deckbuild106.addEventListener('click', changeToBuild106)
 deckbuild107.addEventListener('click', changeToBuild107)
+deckbuild108.addEventListener('click', changeToBuild108)
 
 deckbuildA.addEventListener('click', changeToBuildA)
 deckbuildB.addEventListener('click', changeToBuildB)
 
 deckbuildC.addEventListener('click', changeToBuildC)
 deckbuildD.addEventListener('click', changeToBuildD)
+
+deckbuildE.addEventListener('click', changeToBuildE)
+deckbuildF.addEventListener('click', changeToBuildF)
+
+deckbuildG.addEventListener('click', changeToBuildG)
+deckbuildH.addEventListener('click', changeToBuildH)
