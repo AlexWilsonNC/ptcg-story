@@ -2419,7 +2419,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Calvin Conno',
+    firstName: 'Calvin Connor',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/joltik.png',
     sprite2: '../../../assets/sprites/vespiquen.png',
@@ -2973,10 +2973,10 @@ let seniors = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../assets/flags/unknown.png',
+    firstName: 'Jon Eng',
+    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite2: '../../../assets/sprites/greninja.png',
     list: '../../../assets/sprites/blank.png',
     type: '',
     deck: [
