@@ -2971,6 +2971,146 @@ let seniors = [
         numImg: '../../../assets/04.png'
       }
     ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2014-2016',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Alex Bobenrieth',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/yveltal.png',
+    sprite2: '../../../assets/sprites/zoroark.png',
+    list: '../../../assets/list-icon.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2014-2016/yveltal-fright-night.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/yveltal-sts.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/yveltal-ex-shiny.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/zoroark-stand-in.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/zorua-confuse.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/zorua-hand.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/gallade.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/shaymin-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/jirachi.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/az.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/xerosic.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/maxie-hidden-ball-trick.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/delinquent.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/hex-maniac.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/vs-seeker.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/puzzle-of-time.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/battle-compressor.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/trainers-mail.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/bursting-balloon.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/float-stone.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/parallel-city.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/reverse-valley.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-dark.png',
+        numImg: '../../../assets/07.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-dce.png',
+        numImg: '../../../assets/04.png'
+      },
+    ]
   }
 ]
 
