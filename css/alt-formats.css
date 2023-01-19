@@ -74,6 +74,11 @@
         height: 100px;
     }
 }
+@media screen and (max-width: 723px) {
+    .alternate-formats {
+        width: 91%;
+    }
+}
 @media screen and (max-width: 546px) {
     .alternate-formats {
         width: 85%;
