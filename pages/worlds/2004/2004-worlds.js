@@ -1803,6 +1803,147 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
     ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    list: '../../../assets/sprites/blank.png',
+    type: '',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Pablo Meza',
+    flag: '../../../assets/flags/mexico.png',
+    sprite1: '../../../assets/sprites/medicham.png',
+    sprite2: '../../../assets/sprites/lanturn.png',
+    list: '../../../assets/list-icon.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006/medicham.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/meditite-jab.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.038.lanturn.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/chinchou-pounf.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.001.banette.jpg',
+        numImg: '../../../assets/02.png',
+        semiRadiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/shuppet-selfie.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.092.stevens_advice.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/tv-reporter-e-reader.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/elms-training-method.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/oracle.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pokemon-reversal.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/ex.150.strength_charm.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.085.ancient_technical_machine_rock.jpg',
+        numImg: '../../../assets/01.png',
+        semiRadiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
+        numImg: '../../../assets/02.png',
+        semiRadiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/magnetic-storm.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/lightning-energy.jpg',
+        numImg: '../../../assets/07.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/psychic-energy.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/fighting-energy.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/double-rainbow-old.png',
+        numImg: '../../../assets/04.png'
+      },
+    ]
   }
 ]
 
@@ -3872,8 +4013,9 @@ let juniors = [
               if (deck.radiusCard === true) {
                 pokeCard.classList.add('radius-card')
               }
-              // if (deck.semiRadiusCard === true) {
-              //   pokeCard.classList.add('semi-radius-card')
+              if (deck.semiRadiusCard === true) {
+                pokeCard.classList.add('semi-radius-card')
+              }
 
               // cardSpace.forEach(card => {
               //   card.addEventListener('click', () => {
