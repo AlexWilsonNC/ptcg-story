@@ -3,12 +3,14 @@
     justify-content: center;
     margin-top: 25px;
 }
+
 .worlds-icons {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     width: 80%;
 }
+
 .others-icons {
     display: flex;
     justify-content: space-around;
@@ -16,6 +18,7 @@
     width: 60%;
     margin-top: 50px;
 }
+
 .worlds-box {
     display: flex;
     flex-direction: column;
@@ -23,16 +26,19 @@
     margin: 0px 5px 40px 5px;
     transition: ease all 0.15s;
 }
-.worlds-box:hover > img,
+
+.worlds-box:hover>img,
 .nats-box:hover img {
-    box-shadow: 5px 5px 10px rgba(0,0,0,0.7);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.7);
 }
-.worlds-box:hover > p,
+
+.worlds-box:hover>p,
 .nats-box:hover p,
 .others-box:hover p {
-    box-shadow: 3px 3px 7px rgba(0,0,0,0.7);
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.7);
     color: rgb(187, 173, 45);
 }
+
 .others-box {
     display: flex;
     flex-direction: column;
@@ -40,28 +46,32 @@
     width: 300px;
     margin-bottom: 60px;
 }
+
 .deck-rd img {
     border-radius: 5px;
 }
+
 .worlds-box img {
     width: 300px;
     height: 180px;
     border: 2px solid black;
     border-radius: 4px;
     transition: ease all 0.2s;
-    box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
 }
+
 .worlds-box p,
 .others-box p,
 .alternate-formats p {
     font-size: 26px;
     margin-top: 10px;
     background-color: rgb(49, 49, 49);
-    color:white;
+    color: white;
     border-radius: 15px;
     padding: 5px 35px;
     transition: ease all 0.15s;
 }
+
 .others-box p {
     width: 70%;
     text-align: center;
@@ -69,9 +79,10 @@
 }
 
 .hidden-hr {
-    width:90%;
+    width: 90%;
     display: none;
 }
+
 .hidden-big-hr {
     width: 100%;
     display: none;
@@ -82,10 +93,12 @@
     justify-content: center;
     margin: 25px 0px;
 }
+
 .event-content {
     width: 70%;
     max-width: 70%;
 }
+
 .summary,
 .event-results {
     display: flex;
@@ -93,12 +106,15 @@
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
 .summ-left {
     width: 65%;
 }
+
 .summ-left * {
     margin-bottom: 5px;
 }
+
 /* .worlds-hr {
     width: 55%;
     margin-left: 10px;
@@ -107,30 +123,38 @@
 .worlds-hr {
     display: none;
 }
+
 .worlds-paragraph {
     width: 80%;
     margin-top: 20px;
 }
+
 .awardee-paragraph {
     width: 80%;
 }
+
 .cp-area {
     margin-top: 20px;
 }
+
 .cp {
     width: 80%;
 }
+
 .auto-day2-area {
     width: 50%;
 }
+
 .auto-day2-area2,
 .auto-day2-area3 {
     width: 100%;
     margin-top: 20px;
 }
+
 .auto-day2-area-2022 {
     width: 100%;
 }
+
 .auto-day2-area2 ol,
 .auto-day2-area3 ol {
     display: flex;
@@ -138,30 +162,37 @@
     justify-content: space-between;
     margin-left: 20px;
 }
+
 .day2-right-worlds {
     width: 70%;
 }
+
 .day2-right {
     margin-left: 80px;
 }
+
 .auto-day2-area-2022 .rating-zone {
     width: 40%;
 }
+
 .rating-zone {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: 80%;
 }
+
 .summ-right {
     width: 35%;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+
 .summ-right * {
     margin-bottom: 7px;
 }
+
 /* .summ-left p:nth-child(1) {
     margin-left: 250px;
 } */
@@ -169,38 +200,49 @@
 .worlds-logo2 {
     width: 100px;
 }
+
 .worlds-logo3 {
     width: 180px;
 }
+
 .worlds-logo4 {
     width: 250px;
 }
+
 .worlds-logo5 {
     width: 150px;
 }
+
 .worlds-logo10 {
     width: 130px;
 }
+
 .worlds-logo6 {
     width: 270px;
 }
+
 .worlds-logo7 {
     width: 220px;
 }
+
 .worlds-logo8 {
     width: 239px;
 }
+
 .worlds-logo9 {
     width: 290px;
 }
+
 .worlds-loc {
     width: 100%;
     border-radius: 10px;
 }
+
 .prizing-header {
     margin-top: 15px;
     display: flex;
 }
+
 .prize-zone {
     display: flex;
     flex-direction: row;
@@ -208,6 +250,7 @@
     justify-content: space-between;
     width: 60%;
 }
+
 .cast-box {
     border: 1px solid rgb(167, 167, 167);
     border-radius: 25px;
@@ -218,6 +261,7 @@
     background-color: #fff;
     width: 80%;
 }
+
 .casters-zone {
     width: 80%;
     display: flex;
@@ -226,6 +270,7 @@
     justify-content: space-between;
     text-align: center;
 }
+
 .casters-zone img {
     width: 75px;
     height: 75px;
@@ -236,68 +281,84 @@
 .results-left {
     width: 40%;
 }
+
 .results-right {
     width: 50%;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
+
 .center {
     text-align: center;
 }
+
 .underline {
     text-decoration: underline;
 }
+
 .divisions {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     margin-top: 10px;
 }
+
 .divisions p {
     padding: 5px 10px;
     border-radius: 10px;
 }
+
 .light-bg {
     background-color: rgb(226, 226, 226);
 }
+
 .dark-bg {
     background-color: rgb(156, 156, 156);
 }
+
 .light-bg:hover {
     box-shadow: 2px 2px 2px darkgray;
     cursor: pointer;
 }
+
 .results-left ol {
     margin-top: 15px;
 }
+
 li {
     color: black;
     transition: ease all 0.1s;
 }
+
 .player-list-hover:hover {
     background-color: rgb(226, 226, 226);
     border-radius: 10px;
     cursor: pointer;
 }
+
 .name-n-flag {
     display: flex;
     flex-direction: row;
     align-items: center;
     padding-left: 15px;
 }
+
 .name-n-flag {
     font-size: 18px;
 }
+
 .flag-size {
     width: 20px;
     margin-right: 10px;
     border-radius: 5px;
 }
+
 .flag-size-large {
     width: 30px;
     border-radius: 5px;
 }
+
 .results-list-item {
     display: flex;
     flex-direction: row;
@@ -307,12 +368,14 @@ li {
     height: 50px;
     width: 100%;
 }
+
 .player-deck-icons {
     display: flex;
     flex-direction: row;
     align-items: center;
     margin-top: -5px;
 }
+
 .sprite {
     width: 55px;
     /* height: 45.3px; */
@@ -321,6 +384,7 @@ li {
 .lcq-q li {
     font-size: 12px;
 }
+
 .lead {
     font-weight: bold;
     text-decoration: underline;
@@ -329,6 +393,7 @@ li {
 .second-sprite {
     margin-left: -17.5px;
 }
+
 .masters-meta,
 .center-seniors-meta,
 .center-juniors-meta {
@@ -336,23 +401,28 @@ li {
     align-items: center;
     flex-direction: column;
 }
+
 .meta-chart {
     width: 100%;
     margin: 15px 0px;
 }
+
 .small-meta-chart {
     width: 50%;
     margin: 15px 0px;
 
 }
+
 .under-meta-chart {
     width: 200px;
     margin: 15px auto;
 }
+
 .list-icon {
     padding-right: 15px;
     width: 22px;
 }
+
 .promo-card,
 .promo-card2 {
     display: flex;
@@ -361,6 +431,7 @@ li {
     margin-top: 15px;
     text-align: center;
 }
+
 .promo-card img,
 .promo-card2 img {
     width: 210px;
@@ -375,12 +446,14 @@ li {
     border-bottom-right-radius: 10px;
     background-color: rgb(48, 48, 48);
 }
+
 .videos-section {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 25px;
 }
+
 .videos-section a,
 .videos-section div {
     display: flex;
@@ -389,6 +462,7 @@ li {
     color: black;
     margin-bottom: 15px;
 }
+
 .videos-section img {
     width: 500px;
     margin-top: 5px;
@@ -396,10 +470,12 @@ li {
     border: 3.5px solid black;
     border-radius: 2px;
 }
+
 .videos-section a img:hover {
     cursor: pointer;
     box-shadow: 5px 5px 10px rgba(29, 29, 29, 0.9);
- }
+}
+
 .videos-section p {
     margin-top: 5px;
     width: 60%;
@@ -408,12 +484,13 @@ li {
     font-style: italic;
     line-height: 22px;
 }
+
 .videos-section h3 {
     background-color: rgb(49, 49, 49);
     border-radius: 12px;
     color: #fff;
     padding: 5px 35px;
-}    
+}
 
 .seniors-ol,
 .juniors-ol,
@@ -427,6 +504,7 @@ li {
 #modal-section {
     display: none;
 }
+
 .modal {
     width: 90%;
     max-height: 85vh;
@@ -439,53 +517,65 @@ li {
     top: 50%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -50%);    
+    transform: translate(-50%, -50%);
     /* transition: all ease 2s; */
     z-index: 100;
     background-image: url(../assets/dark-bg.png) !important;
 }
+
 .modal-top {
     display: flex;
     justify-content: space-between;
 }
+
 .cs-plus-ap {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
 }
+
 .cs-plus-ap * {
     margin-right: 10px;
     color: white;
 }
+
 .cs-plus-ap p {
     font-size: 18px;
     font-weight: bold;
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 7px 15px;
     border-radius: 15px;
     color: white;
 }
+
 .behind-modal {
-    width:100%;height:100%;
+    width: 100%;
+    height: 100%;
     position: fixed;
-    top: 0;left: 0;
-    background-color: rgba(0,0,0,0.8);
-    background: rgba(0,0,0,0.8);
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.8);
     z-index: 30;
     display: none;
 }
+
 .behind-modal:hover {
     cursor: pointer;
 }
+
 .second-behind-modal {
-    width:100%;height:100%;
+    width: 100%;
+    height: 100%;
     position: fixed;
-    top: 0;left: 0;
-    background-color: rgba(0,0,0,0.9);
-    background: rgba(0,0,0,0.9);
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.9);
+    background: rgba(0, 0, 0, 0.9);
     z-index: 90;
     display: none;
 }
+
 .second-behind-modal:hover {
     cursor: pointer;
 }
@@ -495,12 +585,14 @@ li {
     flex-direction: column;
     align-items: center;
 }
+
 .country-txt {
     max-width: 75%;
     margin: 0px 0px;
     text-align: center;
     font-size: 18px;
 }
+
 .country-txt2 {
     max-width: 75%;
     margin: 25px 0px;
@@ -514,7 +606,7 @@ li {
     padding: 10px;
     /* margin-top: -10px; */
     color: white;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0, 0, 0, 0.8);
     border: 1px solid rgb(163, 163, 163);
     border-radius: 50%;
     padding: 5px 13px 5px 13px;
@@ -522,14 +614,17 @@ li {
     box-shadow: 0.5px 0.5px 10px rgba(175, 0, 0, 0.2);
     transition: ease all 0.1s;
 }
+
 .modal-x p {
     font-family: 'Permanent Marker', cursive;
 }
+
 .modal-x:hover {
     cursor: pointer;
     color: rgb(187, 173, 45);
     border: 1px solid rgb(187, 173, 45);
 }
+
 .modal-bottom {
     display: flex;
     flex-direction: row;
@@ -538,6 +633,7 @@ li {
     width: 100%;
     margin-top: 10px;
 }
+
 .pokemon-card {
     position: relative;
     top: 0;
@@ -551,63 +647,74 @@ li {
     -moz-border-radius: 3px;
     border-radius: 3px;
     /* box-shadow */
-    -webkit-box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
-    -moz-box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
-    box-shadow: rgba(0,0,0,0.8) 2px 2px 7px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.8) 2px 2px 7px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.8) 2px 2px 7px;
+    box-shadow: rgba(0, 0, 0, 0.8) 2px 2px 7px;
 }
+
 .pokemon-card:hover {
     cursor: pointer;
 }
+
 .pok-card-small {
     position: relative;
     top: 0;
     left: 0;
     width: 105px;
 }
+
 .old-card {
     border-radius: 3.5%;
     background-color: rgb(255, 210, 0);
     padding: 1px;
 }
+
 .ex-era-card {
     border-radius: 3.5%;
     background-color: rgb(196, 186, 170);
     padding: 1px;
 }
+
 .delta-era-card {
     border-radius: 3.5%;
     background-color: rgb(201, 157, 0);
     padding: 1px;
 }
+
 .small-only {
     display: flex;
-justify-content: flex-start;
+    justify-content: flex-start;
 }
+
 .dp-card {
     border-radius: 3.5%;
     background-color: rgb(227, 220, 106);
     padding: 1px;
 }
+
 .radius-card {
     border-radius: 4%;
 }
+
 .semi-radius-card {
     border-radius: 3.5%;
     background-color: rgb(255, 210, 0);
     padding: 0.5px;
 }
+
 .semi-ex-card {
     border-radius: 3.5%;
     background-color: rgb(196, 186, 170);
     padding: 0.5px;
 }
+
 .num-1 {
     position: absolute;
     width: 35px;
     margin-bottom: 10px;
     background-color: black;
     border-radius: 50%;
-    padding:2px;
+    padding: 2px;
 }
 
 .set-btn {
@@ -617,10 +724,12 @@ justify-content: flex-start;
     padding: 5px 15px;
     transition: 0.2s ease all;
 }
+
 .set-btn:hover {
     background-color: rgb(67, 67, 67);
     color: rgb(187, 173, 45);
 }
+
 .set-btn-small {
     padding: 5px 15px;
     font-size: 14px;
@@ -629,15 +738,18 @@ justify-content: flex-start;
 .hidden-top-summ {
     display: none;
 }
+
 .hidden-prizing,
 .hidden-item {
     display: none;
 }
+
 .hidden-poke {
     display: none;
     position: absolute;
     z-index: -100;
 }
+
 .big-pika {
     display: none;
     position: absolute;
@@ -647,20 +759,25 @@ justify-content: flex-start;
     width: 310px;
     opacity: 0.4;
 }
+
 .hidden-cast-box {
     display: none;
 }
+
 .reverse {
-    transform:scaleX(-1);
+    transform: scaleX(-1);
 }
+
 .medium {
     width: 200px;
 }
+
 .fb-img {
     border: 1px solid rgb(180, 180, 180);
     border-radius: 10px;
     padding: 5px;
 }
+
 .twohundred {
     width: 60%;
     margin: 0px auto;
@@ -671,30 +788,36 @@ justify-content: flex-start;
     flex-direction: column;
     justify-content: flex-start;
 }
+
 .two-sets {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
 }
+
 .left-set {
     display: flex;
     flex-direction: row;
     align-items: center;
     width: 50%;
 }
+
 .right-set {
     display: flex;
     flex-direction: row;
     align-items: center;
     width: 50%;
 }
+
 .set-icon {
     width: 30px;
 }
+
 .large-set-icon {
     width: 17px;
 }
+
 .set-logo {
     height: auto;
     width: 10vw;
@@ -703,48 +826,53 @@ justify-content: flex-start;
 
 
 #zoom-card-box {
-    position: fixed; z-index: 1999;
+    position: fixed;
+    z-index: 1999;
     height: 100vh;
     width: 100vw;
-    top: 0; left: 0;
-   
+    top: 0;
+    left: 0;
+
     background: rgba(0, 0, 0, 0.9);
-   
+
     display: flex;
     align-items: center;
     justify-content: center;
-   
+
     visibility: hidden;
     opacity: 0;
     transition: opacity ease 0.3s;
-  }
-   
-  #zoom-card-box.show {
+}
+
+#zoom-card-box.show {
     visibility: visible;
     opacity: 1;
-  }
-   
-  #zoom-card-box img {
+}
+
+#zoom-card-box img {
     width: auto;
     height: 90%;
     object-fit: cover;
-  }
-  @media screen and (max-width: 700px) {
+}
+
+@media screen and (max-width: 700px) {
     #zoom-card-box img {
         height: 70%;
-      }
-  }
-  @media screen and (max-width: 600px) {
+    }
+}
+
+@media screen and (max-width: 600px) {
     #zoom-card-box img {
         height: 60%;
-      }
-  }
-  @media screen and (max-width: 500px) {
+    }
+}
+
+@media screen and (max-width: 500px) {
     #zoom-card-box img {
         height: auto;
         width: 85%;
-      }
-  }
+    }
+}
 
 @media screen and (min-width: 1600px) {
     .set-logo {
@@ -752,9 +880,11 @@ justify-content: flex-start;
         width: 7vw;
     }
 }
+
 .old-logo {
     margin-bottom: -5px;
 }
+
 /* .  {
     height: auto;
     width: 10vw;
@@ -763,42 +893,52 @@ justify-content: flex-start;
 
 @media screen and (min-width: 1650px) {
     .modal {
-     width: 60%;
+        width: 60%;
     }
 }
+
 @media screen and (max-width: 1550px) {
     .others-icons {
         width: 75%;
     }
+
     .day2-right-worlds {
         width: 50%;
     }
 }
+
 @media screen and (max-width: 1300px) {
     .modal {
-     width: 80%;
+        width: 80%;
     }
 }
+
 @media screen and (max-width: 1250px) {
     .auto-day2-area {
         width: 70%;
     }
+
     .prize-zone {
         width: 80%;
     }
+
     .results-left {
         width: 50%;
     }
+
     .results-right {
         width: 45%;
     }
+
     .pok-card-small {
         width: 80px;
     }
+
     .others-icons {
         width: 90%;
     }
 }
+
 @media screen and (max-width: 1190px) {
     .worlds-box {
         display: flex;
@@ -806,15 +946,18 @@ justify-content: flex-start;
         align-items: center;
         margin: 0px 3px 15px 3px;
     }
+
     .worlds-box img {
         width: 230px;
         height: 132px;
     }
+
     .worlds-box p,
     .alternate-formats p {
         font-size: 18px;
         margin-top: 5px;
     }
+
     .worlds-icons {
         display: flex;
         justify-content: space-around;
@@ -822,24 +965,30 @@ justify-content: flex-start;
         width: 90%;
     }
 }
+
 @media screen and (max-width: 1050px) {
     .event-content {
         width: 80%;
         max-width: 80%;
     }
+
     .modal {
         width: 90%;
     }
+
     .num-1 {
         width: 25px;
     }
+
     .others-icons {
         width: 100%;
     }
+
     .others-box {
         width: 250px;
         margin-bottom: 40px;
     }
+
     .worlds-box p,
     .others-box p,
     .alternate-formats p {
@@ -847,12 +996,15 @@ justify-content: flex-start;
         border-radius: 10px;
         padding: 5px 25px;
     }
+
     .others-box p {
         width: 70%;
     }
+
     .day2-right-worlds {
         width: 40%;
     }
+
     .rating-zone {
         display: flex;
         flex-direction: row;
@@ -860,6 +1012,7 @@ justify-content: flex-start;
         width: 100%;
     }
 }
+
 /* @media screen and (max-width: 950px) {
     .two-sets {
         display: flex;
@@ -871,20 +1024,25 @@ justify-content: flex-start;
         width: 90%;
         max-width: 90%;
     }
+
     .results-left {
         width: 45%;
     }
+
     .summary,
     .event-results {
-    justify-content: space-around;
+        justify-content: space-around;
     }
+
     .pok-card-small {
         width: 70px;
     }
+
     .contain-worlds {
         margin-top: 10px;
     }
 }
+
 @media screen and (max-width: 803px) {
     .worlds-box {
         display: flex;
@@ -892,21 +1050,24 @@ justify-content: flex-start;
         align-items: center;
         margin: 0px 3px 15px 3px;
     }
+
     .worlds-box img {
         width: 150px;
         height: 90px;
         border: 1.5px solid black;
         border-radius: 4px;
     }
+
     .worlds-box p,
     .alternate-formats p {
         font-size: 16px;
         margin-top: 5px;
         background-color: rgb(49, 49, 49);
-        color:white;
+        color: white;
         border-radius: 10px;
         padding: 3px 15px;
     }
+
     .worlds-icons {
         display: flex;
         justify-content: space-around;
@@ -914,7 +1075,9 @@ justify-content: flex-start;
         width: 90%;
     }
 }
+
 @media screen and (max-width: 780px) {
+
     /* .event-content {
         width: 90%;
         max-width: 90%;
@@ -932,55 +1095,68 @@ justify-content: flex-start;
         display: flex;
         margin-bottom: 15px;
     }
+
     .promo-card img,
     .promo-card2 img {
         width: 180px;
         height: auto;
         border-radius: 5px;
     }
+
     .promo-card p,
     .promo-card2 p {
         font-size: 16px;
         margin-bottom: 10px;
     }
-    .auto-day2-area-2022 h3{
+
+    .auto-day2-area-2022 h3 {
         text-align: center;
     }
+
     .center-small-only {
         justify-content: center;
     }
+
     .small-only {
         justify-content: center;
     }
+
     .cp-area {
         display: flex;
         align-items: center;
         flex-direction: column;
     }
+
     .auto-day2-area2 h3,
     .auto-day2-area3 h3 {
         text-align: center;
         margin-bottom: 15px;
     }
+
     .auto-day2-area3 {
         display: flex;
         flex-direction: column;
         align-items: center;
     }
+
     h3 {
         font-size: 20px;
     }
+
     .auto-day2-area2 ol {
         margin-left: 50px;
     }
+
     .left-set {
         width: 50%;
         justify-content: center;
     }
+
     .right-set {
         width: 50%;
         justify-content: center;
     }
+
     .hidden-poke {
         display: block;
         top: 150px;
@@ -989,6 +1165,7 @@ justify-content: flex-start;
         height: auto;
         opacity: 0.4;
     }
+
     .big-pika {
         display: block;
         top: 150px;
@@ -997,55 +1174,69 @@ justify-content: flex-start;
         height: auto;
         opacity: 0.4;
     }
+
     .cs-plus-ap p {
         font-size: 16px;
         font-weight: bold;
     }
+
     .summary,
     .event-results {
         display: flex;
         align-items: space-between;
         flex-wrap: wrap;
     }
+
     .others-box {
         width: 200px;
         margin-bottom: 40px;
     }
+
     .worlds-box p,
     .others-box p,
     .alternate-formats p {
         font-size: 18px;
         padding: 5px 15px;
     }
+
     .others-box p {
         width: 70%;
     }
+
     .results-left {
         width: 90%;
     }
+
     .results-right {
         width: 90%;
     }
+
     .summ-left {
         width: 100%;
     }
+
     .worlds-hr {
         width: 60%;
     }
+
     .worlds-paragraph {
         width: 100%;
         margin-top: 20px;
     }
+
     .awardee-paragraph {
         width: 100%;
     }
+
     .cp {
         width: 100%;
     }
+
     .auto-day2-area {
         width: 60%;
         text-align: center;
     }
+
     .hidden-top-summ {
         width: 100%;
         display: flex;
@@ -1053,38 +1244,47 @@ justify-content: flex-start;
         align-items: flex-start;
         justify-content: space-between;
     }
+
     .worlds-loc2 {
         width: 200px;
         border-radius: 10px;
     }
+
     .hidden-loc {
         display: flex;
         flex-direction: column;
         align-items: flex-start;
         margin-top: 15px;
     }
+
     .hide-it {
         display: none;
     }
+
     .hidden-prize-left {
         width: 40%;
     }
+
     .hidden-prize-right {
         width: 50%;
     }
+
     .hidden-item {
         display: flex;
     }
+
     .prizing-header {
         margin-left: 0px;
         justify-content: center;
     }
+
     .hidden-prizing {
         display: flex;
         flex-direction: row;
         justify-content: space-around;
         align-items: center;
     }
+
     .cast-box {
         border: 0px solid grey;
         width: 100%;
@@ -1095,6 +1295,7 @@ justify-content: flex-start;
         flex-direction: row;
         /* flex-wrap: wrap; */
     }
+
     .casters-zone {
         width: 100%;
         display: flex;
@@ -1103,12 +1304,15 @@ justify-content: flex-start;
         justify-content: space-around;
         margin-left: 0px;
     }
+
     .cast-box {
         display: none;
     }
+
     .summ-right {
         width: 100%;
     }
+
     .hidden-cast-box {
         display: flex;
         flex-direction: column;
@@ -1118,83 +1322,102 @@ justify-content: flex-start;
         max-width: 100%;
         border-radius: 25px; */
     }
+
     h5,
     .hidden-item {
         font-size: 20px;
         text-align: center;
         padding-bottom: 8px;
     }
+
     .hidden-cast {
         display: flex;
         flex-direction: column;
         margin-top: 15px;
     }
+
     .top-cast,
     .bottom-cast {
         display: flex;
         justify-content: space-around;
     }
+
     .casters-zone p {
         width: 80%;
     }
+
     .gallery {
         width: 100%;
     }
+
     .two-sets {
         display: flex;
         flex-direction: row;
     }
+
     .set-logo {
         width: 120px;
         height: auto;
     }
+
     .sets {
         display: flex;
         justify-content: center;
         text-align: center;
     }
 }
+
 @media screen and (max-width: 620px) {
     .modal {
         width: 80%;
     }
+
     .pok-card-small {
         width: 50px;
     }
+
     .num-1 {
         width: 17px;
         /* padding: 1px; */
     }
 }
+
 @media screen and (max-width: 600px) {
     .others-box {
         width: 150px;
         margin-bottom: 25px;
     }
+
     .worlds-box p,
     .others-box p,
     .alternate-formats p {
         font-size: 14px;
         padding: 5px 7px;
     }
+
     .others-box p {
         width: 80%;
     }
+
     .others-icons {
         width: 85%;
         margin-top: 20px;
     }
 }
-@media screen and (max-width: 570px) {  
+
+@media screen and (max-width: 570px) {
     .set-icon {
         width: 20px;
     }
+
     .large-set-icon {
         width: 12px;
     }
+
     .set-logo {
         width: 125px;
     }
+
     .hidden-poke {
         display: block;
         top: 150px;
@@ -1203,6 +1426,7 @@ justify-content: flex-start;
         height: auto;
         opacity: 0.4;
     }
+
     .big-pika {
         display: block;
         top: 150px;
@@ -1212,164 +1436,235 @@ justify-content: flex-start;
         opacity: 0.4;
     }
 }
+
 @media screen and (max-width: 530px) {
+
     .summary,
     .event-results {
         align-items: center;
     }
+
     .country-txt {
         font-size: 16px;
     }
+
     .cs-plus-ap p {
         font-size: 13px;
         font-weight: bold;
     }
+
     .modal-x p {
         font-family: 'Permanent Marker', cursive;
         margin-bottom: 6px;
         padding: 0px 2px;
     }
+
     .hidden-prize-left {
         width: 60%;
     }
+
     .hidden-prize-right {
         width: 45%;
     }
+
     .hidden-hr {
         display: flex;
     }
+
     .prizing-header {
         margin-bottom: 10px;
         margin-left: 0px;
     }
+
     .auto-day2-area {
         width: 80%;
         margin-left: 0px;
     }
+
     .auto-day2-area2 {
         width: 100%;
         margin-left: 0px;
     }
+
     .auto-day2-area2 ol {
         font-size: 14px;
     }
+
     .results-left {
         width: 100%;
         margin: 0px auto;
     }
+
     .masters-ol,
     .seniors-ol,
     .juniors-ol {
         margin-left: 20px;
     }
+
     .list-icon {
         padding-right: 0px;
     }
+
     .player-deck-icons {
-        margin-left: 20px;  
+        margin-left: 20px;
     }
+
     .results-right {
         margin-top: 25px;
     }
+
     .worlds-hr {
         display: none;
     }
+
     .casters-zone p {
         width: 88%;
     }
+
     .gallery {
         width: 97%;
     }
+
     .videos-section a img {
         width: 95%;
     }
+
     .videos-section a p {
         width: 90%;
     }
+
     .shrink-it {
         width: 100%;
     }
+
     .results-right {
         margin-bottom: 15px;
     }
+
     .modal {
         width: 86%;
         padding: 25px 12px;
     }
+
     .pok-card-small {
         width: 55px;
     }
+
     .num-1 {
         width: 17px;
         margin-bottom: 2.5px;
     }
+
     .modal-x {
         font-size: 14px;
         padding: 5px 10px 0px 10px;
     }
 }
+
 @media screen and (max-width: 550px) {
     .day2-right {
         margin-left: 90px;
     }
+
     .rating-zone {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
         width: 100%;
     }
+
     .set-btn {
         font-size: 14px;
     }
 }
+
 @media screen and (max-width: 430px) {
     .auto-day2-area2 ol {
         margin-left: 30px;
     }
 }
+
 @media screen and (max-width: 420px) {
     .name-n-flag {
         font-size: 14px;
     }
+
     .flag-size {
         width: 16px;
         height: 16px;
     }
+
     .list-icon {
         width: 19px;
         height: auto;
     }
+
     /* .sprite,
     .second-sprite {
         width: 48px;
         height: auto;
     } */
 }
+
+@media screen and (max-width: 418px) {
+/* screen and (max-height: 790px) { */
+    .pok-card-small {
+        width: 52px;
+    }
+    .num-1 {
+        width: 15px;
+    }
+}
+@media screen and (max-width: 331px) {
+/* screen and (max-height: 790px) { */
+    .pok-card-small {
+        width: 45px;
+    }
+    .num-1 {
+        width: 14px;
+    }
+}
+@media screen and (max-width: 290px) {
+/* screen and (max-height: 790px) { */
+    .pok-card-small {
+        width: 40px;
+    }
+    .modal-top p {
+        font-size: 11px;
+    }
+}
+
 @media screen and (max-width: 370px) {
     .others-box {
         width: 130px;
         margin-bottom: 25px;
     }
+
     .worlds-box p,
     .others-box p,
     .alternate-formats p {
         font-size: 12px;
         padding: 5px 15px;
     }
+
     .others-box p {
         width: 80%;
     }
+
     .others-icons {
         width: 95%;
         margin-top: 20px;
     }
+
     .worlds-box {
         margin: 0px 3px 15px 3px;
     }
+
     .worlds-box img {
         width: 117px;
         height: 70px;
     }
+
     .worlds-icons {
         display: flex;
         justify-content: space-around;
@@ -1378,6 +1673,7 @@ justify-content: flex-start;
     }
 
 }
+
 @media screen and (max-width: 380px) {
     .hidden-poke {
         display: block;
@@ -1388,6 +1684,7 @@ justify-content: flex-start;
         opacity: 0.4;
         margin-top: 25px;
     }
+
     .big-pika {
         display: block;
         top: 150px;
@@ -1397,27 +1694,34 @@ justify-content: flex-start;
         opacity: 0.4;
         margin-top: -10px;
     }
+
     .set-icon {
         width: 15px;
     }
+
     .set-logo {
         width: 75px;
     }
+
     .auto-day2-area2 ol {
         font-size: 12px;
     }
+
     .promo-card p,
     .promo-card2 p {
         font-size: 12px;
     }
+
     .rating-zone p {
         font-size: 12px;
     }
 }
+
 @media screen and (max-width: 364px) {
     .set-btn {
         font-size: 12px;
     }
+
     .auto-day2-area2 ol {
         margin-left: 25px;
     }
