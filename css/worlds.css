@@ -1627,7 +1627,7 @@ li {
 @media screen and (max-width: 290px) {
 /* screen and (max-height: 790px) { */
     .pok-card-small {
-        width: 40px;
+        width: 39px;
     }
     .modal-top p {
         font-size: 11px;
