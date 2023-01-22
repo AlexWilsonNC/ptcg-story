@@ -1634,6 +1634,31 @@ li {
     }
 }
 
+@media screen and (max-height: 700px) {
+        .pok-card-small {
+            width: 50px;
+        }
+        /* .modal-top p {
+            font-size: 11px;
+        } */
+    }
+@media screen and (max-height: 680px) {
+        .pok-card-small {
+            width: 48px;
+        }
+        /* .modal-top p {
+            font-size: 11px;
+        } */
+    }
+@media screen and (max-height: 650px) {
+        .pok-card-small {
+            width: 46px;
+        }
+        /* .modal-top p {
+            font-size: 11px;
+        } */
+    }
+
 @media screen and (max-width: 370px) {
     .others-box {
         width: 130px;
