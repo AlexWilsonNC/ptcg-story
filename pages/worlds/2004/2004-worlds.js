@@ -174,7 +174,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/rayquaza-ex.png',
@@ -434,7 +434,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/bellossom.png',
@@ -558,7 +558,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/03.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/dx.009.jirachi.png',
@@ -918,7 +918,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/wobbuffet-safegaurd.png',
@@ -1216,7 +1216,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/hl.092.stevens_advice.png',
@@ -1506,7 +1506,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/hl.092.stevens_advice.png',
@@ -1595,7 +1595,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/hl.092.stevens_advice.png',
@@ -2109,7 +2109,7 @@ let seniors = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/e-reader/oracle.jpg',
@@ -2224,7 +2224,7 @@ let seniors = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/bellossom.png',
@@ -2327,7 +2327,7 @@ let seniors = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/rayquaza-ex.png',
@@ -2469,7 +2469,7 @@ let seniors = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/jirachi-dual.png',
@@ -2751,7 +2751,7 @@ let seniors = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/hl.092.stevens_advice.png',
@@ -2872,7 +2872,7 @@ let seniors = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/2004-2006/delcatty.png',
@@ -3463,7 +3463,7 @@ let juniors = [
       {
         cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
         numImg: '../../../assets/04.png',
-        radiusCard: true
+        oldCard: true
       },
       {
         cardImg: '../../../assets/cards/e-reader/oracle.jpg',
