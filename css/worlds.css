@@ -1345,12 +1345,13 @@ li {
         display: flex;
         flex-direction: column;
         margin-top: 15px;
+        width: 70%;
     }
 
     .top-cast,
     .bottom-cast {
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
     }
 
     .casters-zone p {
@@ -1624,6 +1625,9 @@ li {
     }
     .num-1 {
         width: 15px;
+    }
+    .hidden-cast {
+        width: 100%;
     }
 }
 @media screen and (max-width: 368px) {
