@@ -122,8 +122,8 @@ let masters = [
   {
     firstName: 'Cody Walinski',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/greninja.png',
-    sprite2: '../../../assets/sprites/talonflame.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/greninja.png',
     list: '../../../assets/list-icon.png',
     type: 'water',
     deck: [
@@ -428,8 +428,8 @@ let masters = [
   {
     firstName: 'Bert Wolters',
     flag: '../../../assets/flags/netherlands.png',
-    sprite1: '../../../assets/sprites/greninja.png',
-    sprite2: '../../../assets/sprites/talonflame.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/greninja.png',
     list: '../../../assets/list-icon.png',
     type: 'water',
     deck: [
@@ -2755,8 +2755,8 @@ let seniors = [
   {
     firstName: 'Tanner Hurley',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/greninja.png',
-    sprite2: '../../../assets/sprites/talonflame.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/greninja.png',
     list: '../../../assets/list-icon.png',
     type: 'water',
     deck: [
