@@ -3344,7 +3344,7 @@ let seniors = [
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/volcanion.png',
     list: '../../../../assets/list-icon.png',
-    type: 'dark',
+    type: 'fire',
     deck: [
       {
         cardImg: '../../../../assets/cards/2014-2016/volcanion-ex.png',
