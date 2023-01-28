@@ -1804,7 +1804,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Angel Torres',
+    firstName: 'Ángel Torres',
     flag: '../../../../assets/flags/spain.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/volcanion.png',
