@@ -15,8 +15,116 @@ let masters = [
         type: 'dark',
         deck: [
             {
-                cardImg: '../../../assets/cards/2014-2016',
-                numImg: '../../../assets/04.png'
+                cardImg: '../../../assets/cards/2014-2016/yveltal-ex-shiny.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/yveltal-generations.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/yveltal-fright-night.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/zoroark-break.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/zoroark-stand-in.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/zorua-confuse.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/shaymin-ex.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/seismitoad-ex.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/druddigon.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/jirachi.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/n.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/hex-maniac.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/giovannis-scheme.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/az.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/vs-seeker.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/trainers-mail.png',
+                numImg: '../../../assets/03.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/max-elixir.png',
+                numImg: '../../../assets/03.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/super-rod.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/startling-megaphone.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/float-stone.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/ffb.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/reverse-valley.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/energy/dark-energy-generations.png',
+                numImg: '../../../assets/07.png',
+            },
+            {
+                cardImg: '../../../assets/cards/energy/xy-dce.png',
+                numImg: '../../../assets/04.png',
             },
         ]
     },
@@ -24,7 +132,7 @@ let masters = [
         firstName: 'Shane Quinn',
         sprite1: '../../../assets/sprites/bronzong.png',
         sprite2: '../../../assets/sprites/genesect.png',
-        list: '../../../assets/list-icon.png',
+        list: '../../../assets/hyphen.png',
         type: 'dark',
         deck: [
             {
@@ -63,7 +171,7 @@ let masters = [
         firstName: 'Sameer Sangwan',
         sprite1: '../../../assets/sprites/bronzong.png',
         sprite2: '../../../assets/sprites/genesect.png',
-        list: '../../../assets/list-icon.png',
+        list: '../../../assets/hyphen.png',
         type: 'dark',
         deck: [
             {
@@ -76,7 +184,7 @@ let masters = [
         firstName: 'Matty Masefield',
         sprite1: '../../../assets/sprites/zygarde-complete.png',
         sprite2: '../../../assets/sprites/vileplume.png',
-        list: '../../../assets/list-icon.png',
+        list: '../../../assets/hyphen.png',
         type: 'dark',
         deck: [
             {
@@ -89,7 +197,7 @@ let masters = [
         firstName: 'Brendan Vagg',
         sprite1: '../../../assets/sprites/seismitoad.png',
         sprite2: '../../../assets/sprites/giratina-origin.png',
-        list: '../../../assets/list-icon.png',
+        list: '../../../assets/hyphen.png',
         type: 'dark',
         deck: [
             {
@@ -102,7 +210,7 @@ let masters = [
         firstName: 'Daniel Collins',
         sprite1: '../../../assets/sprites/jolteon.png',
         sprite2: '../../../assets/sprites/garbodor.png',
-        list: '../../../assets/list-icon.png',
+        list: '../../../assets/hyphen.png',
         type: 'dark',
         deck: [
             {
