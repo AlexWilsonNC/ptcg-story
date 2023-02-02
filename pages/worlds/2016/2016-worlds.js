@@ -1881,7 +1881,7 @@ let masters = [
     firstName: 'Se Jun Park',
     flag: '../../../assets/flags/korea.png',
     sprite1: '../../../assets/sprites/zygarde-complete.png',
-    sprite2: '../../../assets/sprites/carbink.png',
+    sprite2: '../../../assets/sprites/vileplume.png',
     list: '../../../assets/list-icon.png',
     type: 'fighting',
     deck: [
