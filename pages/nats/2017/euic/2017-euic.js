@@ -1754,8 +1754,8 @@ let masters = [
   {
     firstName: 'Tristan Wagner',
     flag: '../../../../assets/flags/netherlands.png',
-    sprite1: '../../../../assets/sprites/carbink.png',
-    sprite2: '../../../../assets/sprites/vileplume.png',
+    sprite1: '../../../../assets/sprites/zygarde-complete.png',
+    sprite2: '../../../../assets/sprites/carbink.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: 'dark',
