@@ -128,11 +128,11 @@ let masters = [
                 numImg: '../../../../assets/03.png',
             },
             {
-                cardImg: '../../../../assets/cards/2014-2016/hoopa-ex.png',
-                numImg: '../../../../assets/01.png',
-            },
+              cardImg: '../../../../assets/cards/2014-2016/latios-ex.png',
+              numImg: '../../../../assets/01.png',
+          },
             {
-                cardImg: '../../../../assets/cards/2014-2016/latios-ex.png',
+                cardImg: '../../../../assets/cards/2014-2016/hoopa-ex.png',
                 numImg: '../../../../assets/01.png',
             },
             {
