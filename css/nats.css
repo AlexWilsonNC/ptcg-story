@@ -231,7 +231,7 @@
         height: 200px;
     }
     .other-cont-box p {
-        font-size: 24px;
+        font-size: 22px;
     }
 }
 @media screen and (max-width: 803px) {
@@ -295,7 +295,7 @@
         height: 180px;
     }
     .other-cont-box p {
-        font-size: 20px;
+        font-size: 18px;
     }
 }
 @media screen and (max-width: 530px) {
@@ -329,7 +329,7 @@
         height: 170px;
     }
     .other-cont-box p {
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 @media screen and (max-width: 370px) {
@@ -373,6 +373,6 @@
         height: 150px;
     }
     .other-cont-box p {
-        font-size: 16px;
+        font-size: 14px;
     }
 }
