@@ -2065,9 +2065,9 @@ let juniors = [
 
 let fourEvent = [
     {
-        firstName: 'eeee',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Kevin Ponthieux',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/trevenant.png',
         list: '../../../assets/list-icon.png',
         type: 'dark',
         deck: [
@@ -2078,9 +2078,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'eeee',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Simone Zucchelli',
+        sprite1: '../../../assets/sprites/bronzong.png',
+        sprite2: '../../../assets/sprites/genesect.png',
         list: '../../../assets/list-icon.png',
         type: 'dark',
         deck: [
@@ -2091,9 +2091,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'eeee',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Nicolo Castignoli',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/greninja.png',
         list: '../../../assets/list-icon.png',
         type: 'dark',
         deck: [
@@ -2104,9 +2104,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'eeee',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Simone Soldo',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/greninja.png',
         list: '../../../assets/list-icon.png',
         type: 'dark',
         deck: [
@@ -2117,9 +2117,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'eeee',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Riccardo Maganza',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/greninja.png',
         list: '../../../assets/list-icon.png',
         type: 'dark',
         deck: [
@@ -2130,9 +2130,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'eeee',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Simone Canziani',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/vespiquen.png',
         list: '../../../assets/list-icon.png',
         type: 'dark',
         deck: [
@@ -2143,9 +2143,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'eeee',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Vincenzo Gerardi',
+        sprite1: '../../../assets/sprites/seismitoad.png',
+        sprite2: '../../../assets/sprites/manaphy.png',
         list: '../../../assets/list-icon.png',
         type: 'dark',
         deck: [
@@ -2156,9 +2156,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'eeee',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Gianluca Cipriano',
+        sprite1: '../../../assets/sprites/joltik.png',
+        sprite2: '../../../assets/sprites/vespiquen.png',
         list: '../../../assets/list-icon.png',
         type: 'dark',
         deck: [

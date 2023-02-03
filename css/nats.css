@@ -94,6 +94,7 @@
     transition: max-height 0.2s ease-out;
     background-color: #f1f1f1;
     text-align: center;
+    width:30%;
   }
   .country-content h4 {
     margin-left: -20px;
@@ -267,6 +268,11 @@
         flex-direction: column;
     }
 }
+@media screen and (max-width: 1300px) {
+    .country-content {
+        width:40%;
+      }
+}
 @media screen and (max-width: 1164px) {
     .nats-box,
     .japan-box {
@@ -316,6 +322,9 @@
     .collapsible-alt {
         width: 60%;
     }
+    .country-content {
+        width:45%;
+      }
 }
 @media screen and (max-width: 900px) {
     .country-name {
@@ -367,6 +376,9 @@
     .collapsible-alt {
         width: 70%;
     }
+    .country-content {
+        width:55%;
+      }
 }
 @media screen and (max-width: 780px) {
     .travel-stipends {
@@ -396,8 +408,11 @@
     }
     .collapsible,
     .collapsible-alt {
-        width: 80%;
+        width: 90%;
     }
+    .country-content {
+        width:75%;
+      }
 }
 @media screen and (max-width: 530px) {
     .covid-award {
