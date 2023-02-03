@@ -38,8 +38,7 @@
             <a class="inactive" href="../../worlds/worlds">Worlds</a>
             <a class="active" href="./../nats">Major Events</a>
             <a class="inactive" href="../../eras/decks-by-era">Decks by Era</a>
-            <a class="inactive other-tab" href="../../other/other-main">Other <i
-                    class="fas fa-chevron-down"></i></a>
+            <a class="inactive other-tab" href="../../other/other-main">Other <i class="fas fa-chevron-down"></i></a>
         </div>
     </nav>
 
@@ -62,69 +61,56 @@
         </div>
     </div>
     <div class='behind-modal'></div>
-   
+
 
     <div class='center-column'>
-        <hr class='other-hr'>
-        <p style='font-weight:bold;' class='country-txt'>Other countries' Nationals results below:</p>
+        <p style='font-weight:bold;' class='country-txt'>2016 Global National Results:</p>
     </div>
-
-    <div class='other-nats'>
-        <div class='other-nats'>
-            <div class='country-indiv'>
-                <div class='country-name'>
-                    <img src='../../../assets/flags/australia.png' alt='flag' class='flag-size'>
-                    <p style='font-weight: bold;'>Australia <span class='light-set'>(Format: XY - FCO)</span></p>
-                </div>
-                <hr class='country-hr'>
-                <ol class='uk-masters-ol'>
-                </ol>
+    <div class='collapse-bts'>
+        <button type="button" class="collapsible">
+            <div class='country-name'>
+                <img src='../../../assets/flags/australia.png' alt='flag' class='flag-size'>
+                <p style='font-weight: bold;'>Australia</p>
             </div>
+        </button>
+        <div class="country-content">
+            <h4 style='margin-top: 5px;margin-bottom: 5px;'>July 2 - 3, 2016</h4>
+            <h4 style='margin-bottom: 5px;'>157 Players</h4>
+            <h4 style='margin-bottom: 5px;'>XY - Fates Collide</h4>
+            <ol class='uk-masters-ol'>
+            </ol>
+        </div>
 
-            <div class='country-indiv'>
-                <div class='country-name'>
-                    <img src='../../../assets/flags/france.png' alt='flag' class='flag-size'>
-                    <p style='font-weight: bold;'>France <span class='light-set'>(Format: XY - GEN)</span></p>
-                </div>
-                <hr class='country-hr'>
-                <ol class='uk-seniors-ol'>
-                </ol>
+        <button type="button" class="collapsible-alt">
+            <div class='country-name'>
+                <img src='../../../assets/flags/france.png' alt='flag' class='flag-size'>
+                <p style='font-weight: bold;'>France</p>
             </div>
+        </button>
+        <div class="country-content">
+            <h4 style='margin-top: 5px;margin-bottom: 5px;'>May 14 - 15, 2016</h4>
+            <h4 style='margin-bottom: 5px;'>136 Players</h4>
+            <h4 style='margin-bottom: 5px;'>XY - Generations</h4>
+            <ol class='uk-seniors-ol'>
+            </ol>
+        </div>
 
-            <!-- <div class='country-indiv'>
-                <div class='country-name'>
-                    <img src='../../../assets/flags/germany.png' alt='flag' class='flag-size'>
-                    <p style='font-weight: bold;'>Germany <span class='light-set'>(Format: XY - GEN)</span></p>
-                </div>
-                <hr class='country-hr'>
-                <ol class='uk-juniors-ol'>
-                </ol>
-            </div> -->
-
-            <!-- <div class='country-indiv'>
-                <div class='country-name'>
-                    <img src='../../../assets/flags/italy.png' alt='flag' class='flag-size'>
-                    <p style='font-weight: bold;'>Italy</p>
-                </div>
-                <hr class='country-hr'>
-                <ol class='four-ol'>
-                </ol>
-            </div> -->
-
-            <!-- <div class='country-indiv'>
-                <div class='country-name'>
-                    <img src='../../../assets/flags/uk.png' alt='flag' class='flag-size'>
-                    <p style='font-weight: bold;'>UK</p>
-                </div>
-                <hr class='country-hr'>
-                <ol class='five-ol'>
-                </ol>
-            </div> -->
+        <button type="button" class="collapsible">
+            <div class='country-name'>
+                <img src='../../../assets/flags/germany.png' alt='flag' class='flag-size'>
+                <p style='font-weight: bold;'>Germany</p>
+            </div>
+        </button>
+        <div class="country-content">
+            <h4 style='margin-top: 5px;margin-bottom: 5px;'>May 21 - 22, 2016</h4>
+            <h4 style='margin-bottom: 5px;'>138 Players</h4>
+            <h4 style='margin-bottom: 5px;'>XY - Generations</h4>
+            <ol class='uk-juniors-ol'>
+            </ol>
         </div>
     </div>
 
-    <!-- <p class='copyright'>Credit for other countries' Nationals results gathered by <a
-            href='https://ptcgarchive.com/' target='_'>PTCGArchive.com</a></p> -->
+    <div style='margin:10px 0px;'></div>
 
     <footer class='era-footer'>
         <div id='foot-top'>
@@ -148,6 +134,35 @@
             Play! Pokémon, The Pokémon Company, or TPCI. It is simply a place for Pokémon TCG fans to look back in time
             at events from the greatest game in history!</div>
     </footer>
+
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var collAlt = document.getElementsByClassName("collapsible-alt");
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function () {
+                this.classList.toggle("hello");
+                var content = this.nextElementSibling;
+                if (content.style.maxHeight) {
+                    content.style.maxHeight = null;
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                }
+            });
+        }
+        for (i = 0; i < collAlt.length; i++) {
+            collAlt[i].addEventListener("click", function () {
+                this.classList.toggle("hello");
+                var content = this.nextElementSibling;
+                if (content.style.maxHeight) {
+                    content.style.maxHeight = null;
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                }
+            });
+        }
+    </script>
 
     <script src='./js/close-alert.js'></script>
     <script src="./16-nats.js"></script>

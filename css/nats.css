@@ -31,6 +31,74 @@
     opacity: 0.7;
 }
 
+.collapse-bts {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 50%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+  }
+  .collapsible-alt {
+    background-color: rgb(157, 157, 157);
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 50%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+  }
+  
+  .hello, .collapsible:hover {
+    background-color: #555;
+    /* color: rgb(187, 173, 45); */
+  }
+  .hello, .collapsible-alt:hover {
+    background-color: #555;
+    /* color: rgb(187, 173, 45); */
+  }
+  
+  .collapsible:after,
+  .collapsible-alt:after {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .hello:after {
+    content: "\2212";
+  }
+  
+  .country-content {
+    padding: 0px 20px 0px 50px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #f1f1f1;
+    text-align: center;
+  }
+  .country-content h4 {
+    margin-left: -20px;
+  }
+
 .light-set {
     font-weight: 100;
 }
@@ -148,7 +216,8 @@
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
-    margin-left: -17px;
+    margin-left: 20px;
+    font-size: 20px;
 }
 .title-flag {
     display: flex;
@@ -233,6 +302,17 @@
     .other-cont-box p {
         font-size: 22px;
     }
+    .collapsible {
+        width: 60%;
+    }
+    .collapsible-alt {
+        width: 60%;
+    }
+}
+@media screen and (max-width: 900px) {
+    .country-name {
+        font-size: 16px;
+    }
 }
 @media screen and (max-width: 803px) {
     .nats-box,
@@ -270,6 +350,12 @@
         border-radius: 10px;
         padding: 3px 15px;
     }
+    .collapsible {
+        width: 70%;
+    }
+    .collapsible-alt {
+        width: 70%;
+    }
 }
 @media screen and (max-width: 780px) {
     .travel-stipends {
@@ -297,6 +383,10 @@
     .other-cont-box p {
         font-size: 18px;
     }
+    .collapsible,
+    .collapsible-alt {
+        width: 80%;
+    }
 }
 @media screen and (max-width: 530px) {
     .covid-award {
@@ -319,6 +409,9 @@
     .up-up {
         margin-top: -7px;
     }
+    .country-name {
+        margin-left: 10px;
+    }
 }
 @media screen and (max-width: 400px) {
     .stipend-rating-zone p {
@@ -330,6 +423,14 @@
     }
     .other-cont-box p {
         font-size: 16px;
+    }
+    .collapsible,
+    .collapsible-alt {
+        width: 90%;
+    }
+    .country-name {
+        margin-left: 5px;
+        font-size: 13px;
     }
 }
 @media screen and (max-width: 370px) {
