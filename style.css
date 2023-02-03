@@ -54,6 +54,7 @@ hr {
     /* background-color: transparent; */
     position: sticky;
     background-color: #fff;
+    font-weight: 600;
     /* margin-bottom: 15px; */
     /* box-shadow: 1px 1px 25px rgba(0,0,0,0.2); */
 }
