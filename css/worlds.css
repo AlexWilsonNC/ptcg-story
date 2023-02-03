@@ -31,7 +31,8 @@
     margin-top: 50px;
 }
 
-.worlds-box {
+.worlds-box,
+.other-cont-box {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -58,6 +59,13 @@
     width: 300px;
     margin-bottom: 60px;
 }
+.other-cont-box:hover>img,
+.other-cont-box:hover>p {
+    -webkit-box-shadow: rgba(255, 255, 255, 0.8) 2px 2px 7px;
+    -moz-box-shadow: rgba(255, 255, 255, 0.8) 2px 2px 7px;
+    box-shadow: rgba(255, 255, 255, 0.8) 2px 2px 7px;
+    color: rgb(187, 173, 45);
+}
 
 .deck-rd img {
     border-radius: 5px;
@@ -70,6 +78,24 @@
     border-radius: 4px;
     transition: ease all 0.2s;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+.other-cont-box img {
+    width: 410px;
+    height: 260px;
+    border-radius: 10px;
+    border: 3px solid white;
+}
+.other-cont-box p {
+    font-size: 30px;
+    margin-top: 10px;
+    background-color: rgb(49, 49, 49);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid white;
+    padding: 5px 35px;
+    transition: ease all 0.15s;
+    text-align: center;
 }
 
 .worlds-box p,
@@ -590,6 +616,21 @@ li {
 }
 
 .second-behind-modal:hover {
+    cursor: pointer;
+}
+
+.behind-modal3 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.9);
+    background: rgba(0, 0, 0, 0.9);
+    z-index: 30;
+    display: none;
+}
+.behind-modal3:hover {
     cursor: pointer;
 }
 
