@@ -150,6 +150,12 @@
     flex-direction: column;
     align-items: center;
 }
+.center-column img {
+    margin-bottom: 25px;
+    width: 350px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
 .thin {
     width: 200px;
 }
@@ -333,6 +339,9 @@
     .country-txt2 {
         font-size: 18px;
     }
+    .center-column img {
+        width: 280px;
+    }
 }
 @media screen and (max-width: 803px) {
     .nats-box,
@@ -458,6 +467,12 @@
         margin-left: 5px;
         font-size: 13px;
     }
+    .center-column img {
+        width: 225px;
+    }
+    .country-content {
+        background-color: transparent;
+      }
 }
 @media screen and (max-width: 370px) {
     .nats-box,
