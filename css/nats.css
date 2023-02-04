@@ -218,14 +218,14 @@
     justify-content: space-around;
     padding: 5px 50px 5px 60px;
 }
-.country-indiv {
+/* .country-indiv {
     width: 350px;
     margin: 0px 15px 25px;
     border: 1px solid black;
     border-radius: 12px;
     padding: 10px 0px 10px 35px;
     box-shadow: 5px 5px 10px rgba(11, 4, 30, 0.4);
-}
+} */
 .country-name {
     display: flex;
     flex-direction: row;
@@ -249,11 +249,11 @@
     width: 80%;
     margin: 10px 0px 10px 0px;
 }
-.country-list-item {
+/* .country-list-item {
     margin-left: 15px;
     margin-bottom: 5px;
     min-height: 30.5px
-}
+} */
 .country-deck-icons {
     display: flex;
     flex-direction: row;
