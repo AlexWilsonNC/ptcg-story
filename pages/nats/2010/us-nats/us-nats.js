@@ -4397,7 +4397,7 @@ let juniors = [
     ]
   },
   {
-    firstName: 'Max Armitage',
+    firstName: 'Maximilian Armitage',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/machamp.png',
