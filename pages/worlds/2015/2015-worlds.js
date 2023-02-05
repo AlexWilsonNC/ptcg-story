@@ -2678,10 +2678,6 @@ let masters = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/computer-search.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
         cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
         numImg: '../../../assets/04.png'
       },
@@ -2703,6 +2699,10 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2014-2016/az.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/computer-search.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -2806,10 +2806,6 @@ let masters = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/computer-search.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
         cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
         numImg: '../../../assets/04.png'
       },
@@ -2831,6 +2827,10 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2014-2016/az.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/computer-search.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -3279,7 +3279,7 @@ let seniors = [
   {
     firstName: 'Calvin Connor',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
+    sprite1: '../../../assets/sprites/bronzong.png',
     sprite2: '../../../assets/sprites/klinklang.png',
     list: '../../../assets/list-icon.png',
     type: 'metal',
