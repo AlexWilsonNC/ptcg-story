@@ -1437,9 +1437,9 @@ let juniors = [
 
 let fourEvent = [
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Chase Moloney',
+        sprite1: '../../../assets/sprites/bronzong.png',
+        sprite2: '../../../assets/sprites/aegislash.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1451,9 +1451,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Matthew Koo',
+        sprite1: '../../../assets/sprites/raichu.png',
+        sprite2: '../../../assets/sprites/crobat.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1465,9 +1465,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Aneil Saini',
+        sprite1: '../../../assets/sprites/landorus-therian.png',
+        sprite2: '../../../assets/sprites/raichu.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1479,9 +1479,110 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Rob Davies',
+        sprite1: '../../../assets/sprites/yveltal.png',
+        sprite2: '../../../assets/sprites/crobat.png',
+        list: '../../../assets/list-icon.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016/yveltal.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/crobat.png',
+                numImg: '../../../assets/03.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/golbat.png',
+                numImg: '../../../assets/03.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/zubat-free-flight.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/leafeon.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/eevee-signs-of-evo.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/absol-plasma.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/shaymin-ex.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/n-promo.png',
+                numImg: '../../../assets/03.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/colress.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/az.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/dowsing-machine.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/vs-seeker.png',
+                numImg: '../../../assets/03.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/repeat-ball.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/sacred-ash.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/silver-bangle.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+                numImg: '../../../assets/03.png',
+            },
+            {
+                cardImg: '../../../assets/cards/energy/xy-energy-dark.png',
+                numImg: '../../../assets/11.png',
+            },
+        ]
+    },
+    {
+        firstName: 'Ciaran Farah',
+        sprite1: '../../../assets/sprites/raichu.png',
+        sprite2: '../../../assets/sprites/crobat.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1493,9 +1594,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Jason Greenberg',
+        sprite1: '../../../assets/sprites/seismitoad.png',
+        sprite2: '../../../assets/sprites/crobat.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1507,9 +1608,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Andrew Estrada',
+        sprite1: '../../../assets/sprites/landorus-therian.png',
+        sprite2: '../../../assets/sprites/crobat.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1521,23 +1622,9 @@ let fourEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
-        // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../../assets/cards/2014-2016',
-                numImg: '../../../assets/04.png',
-            },
-        ]
-    },
-    {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Chris Venier',
+        sprite1: '../../../assets/sprites/raichu.png',
+        sprite2: '../../../assets/sprites/crobat.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
