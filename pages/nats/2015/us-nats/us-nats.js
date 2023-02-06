@@ -2631,7 +2631,7 @@ let masters = [
   {
     firstName: 'Henry Ross-Clunis',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/landorus-therian.png',
     sprite2: '../../../../assets/sprites/crobat.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -4053,7 +4053,7 @@ let masters = [
   {
     firstName: 'Jeff Garrison',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/landorus-therian.png',
     sprite2: '../../../../assets/sprites/crobat.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -4083,7 +4083,7 @@ let masters = [
   {
     firstName: 'Jimmy McClure',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/landorus-therian.png',
     sprite2: '../../../../assets/sprites/crobat.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -4364,7 +4364,7 @@ let masters = [
   {
     firstName: 'Andrew Jackson',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/landorus-therian.png',
     sprite2: '../../../../assets/sprites/crobat.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
