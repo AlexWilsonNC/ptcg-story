@@ -727,7 +727,7 @@ let juniors = [
         ]
     },
     {
-        firstName: 'Niklas Lehnert-Rappel',
+        firstName: 'Niklas L-Rappel',
         sprite1: '../../../assets/sprites/bronzong.png',
         sprite2: '../../../assets/sprites/aegislash.png',
         list: '../../../assets/list-icon.png',
