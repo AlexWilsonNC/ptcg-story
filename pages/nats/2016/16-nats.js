@@ -133,7 +133,7 @@ let masters = [
         firstName: 'Shane Quinn',
         sprite1: '../../../assets/sprites/bronzong.png',
         sprite2: '../../../assets/sprites/genesect.png',
-        list: '../../../assets/hyphen.png',
+        list: '../../../assets/sprites/blank.png',
         type: 'dark',
         deck: [
             {
@@ -348,7 +348,7 @@ let masters = [
         firstName: 'Sameer Sangwan',
         sprite1: '../../../assets/sprites/bronzong.png',
         sprite2: '../../../assets/sprites/genesect.png',
-        list: '../../../assets/hyphen.png',
+        list: '../../../assets/sprites/blank.png',
         type: 'dark',
         deck: [
             {
@@ -361,7 +361,7 @@ let masters = [
         firstName: 'Matty Masefield',
         sprite1: '../../../assets/sprites/zygarde-complete.png',
         sprite2: '../../../assets/sprites/vileplume.png',
-        list: '../../../assets/hyphen.png',
+        list: '../../../assets/sprites/blank.png',
         type: 'dark',
         deck: [
             {
@@ -374,7 +374,7 @@ let masters = [
         firstName: 'Brendan Vagg',
         sprite1: '../../../assets/sprites/seismitoad.png',
         sprite2: '../../../assets/sprites/giratina-origin.png',
-        list: '../../../assets/hyphen.png',
+        list: '../../../assets/sprites/blank.png',
         type: 'dark',
         deck: [
             {
@@ -387,7 +387,7 @@ let masters = [
         firstName: 'Daniel Collins',
         sprite1: '../../../assets/sprites/jolteon.png',
         sprite2: '../../../assets/sprites/garbodor.png',
-        list: '../../../assets/hyphen.png',
+        list: '../../../assets/sprites/blank.png',
         type: 'dark',
         deck: [
             {
