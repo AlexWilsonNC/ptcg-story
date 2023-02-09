@@ -31,6 +31,11 @@
     opacity: 0.7;
 }
 
+/* .coming-soon {
+    position:absolute;
+    font-weight: bold;
+} */
+
 .collapse-bts {
     display: flex;
     align-items: center;

@@ -4811,7 +4811,7 @@ let masters = [
   },
   {
     firstName: 'Manuel Jorach',
-    flag: '../../../assets/flags/germany.png',
+    flag: '../../../assets/flags/austria.png',
     record: '4-3-1',
     sprite1: '../../../assets/sprites/blank.png',  
     sprite2: '../../../assets/sprites/stonjourner.png',
