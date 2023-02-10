@@ -21,6 +21,19 @@
     border-bottom: 4px solid rgb(224, 160, 22);
 }
 
+.more {display: none;}
+.myBtn {
+    margin-top: 7px;
+    transform: scale(0.9);
+}
+.meep {
+    transform: scale(0.9);
+}
+.myBtn:hover {
+    cursor: pointer;
+    color: rgb(224, 160, 22); 
+}
+
 .arrow-a {
     display: flex;
     justify-content: center;
