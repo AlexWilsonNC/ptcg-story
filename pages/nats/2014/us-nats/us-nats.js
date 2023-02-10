@@ -21,8 +21,23 @@ let masters = [
     ]
   },
   {
+    firstName: 'Michael Pramawat',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/pyroar.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+          cardImg: '../../../../assets/cards/2014-2016',
+          numImg: '../../../../assets/04.png',
+      },
+    ]
+  },
+  {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -37,7 +52,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -52,7 +67,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -67,7 +82,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -82,7 +97,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -97,7 +112,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -112,7 +127,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -127,7 +142,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -142,7 +157,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -157,7 +172,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -172,7 +187,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -187,7 +202,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -202,7 +217,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -217,22 +232,7 @@ let masters = [
   },
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
-    sprite1: '../../../../assets/sprites',
-    sprite2: '../../../../assets/sprites',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-          cardImg: '../../../../assets/cards/2014-2016',
-          numImg: '../../../../assets/04.png',
-      },
-    ]
-  },
-  {
-    firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -250,7 +250,7 @@ let masters = [
 let seniors = [
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
@@ -268,7 +268,7 @@ let seniors = [
 let juniors = [
   {
     firstName: 'eeee',
-    flag: '../../../../assets/flags',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites',
     sprite2: '../../../../assets/sprites',
     // list: '../../../../assets/list-icon.png',
