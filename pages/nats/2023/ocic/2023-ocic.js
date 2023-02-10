@@ -90,8 +90,8 @@ let masters = [
     ]
   },
   {
-    firstName: 'Magnus Pedersen',
-    flag: '../../../../assets/flags/denmark.png',
+    firstName: 'Takuto Itagaki',
+    flag: '../../../../assets/flags/japan.png',
     sprite1: '../../../../assets/sprites/palkia-origin.png',
     sprite2: '../../../../assets/sprites/inteleon.png',
     list: '../../../../assets/list-icon.png',
