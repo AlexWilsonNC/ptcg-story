@@ -34,10 +34,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'Pedro Torres',
-    flag: '../../../../assets/flags/spain.png',
-    sprite1: '../../../../assets/sprites/comfey.png',
-    sprite2: '../../../../assets/sprites/sableye.png',
+    firstName: 'Grant Manley',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/duraludon-gmax.png',
     list: '../../../../assets/list-icon.png',
     type: 'normal',
     deck: [
@@ -48,10 +48,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'Grant Manley',
-    flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/arceus.png',
-    sprite2: '../../../../assets/sprites/duraludon-gmax.png',
+    firstName: 'Pedro Torres',
+    flag: '../../../../assets/flags/spain.png',
+    sprite1: '../../../../assets/sprites/comfey.png',
+    sprite2: '../../../../assets/sprites/sableye.png',
     list: '../../../../assets/list-icon.png',
     type: 'normal',
     deck: [
