@@ -6,6 +6,216 @@ const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
   {
+    firstName: 'Julius Brunfeldt',
+    flag: '../../../../assets/flags/finland.png',
+    sprite1: '../../../../assets/sprites/lugia.png',
+    sprite2: '../../../../assets/sprites/archeops.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Isaiah Bradner',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/lugia.png',
+    sprite2: '../../../../assets/sprites/archeops.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Pedro Torres',
+    flag: '../../../../assets/flags/spain.png',
+    sprite1: '../../../../assets/sprites/comfey.png',
+    sprite2: '../../../../assets/sprites/sableye.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Grant Manley',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/duraludon-gmax.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Sander Wojcik',
+    flag: '../../../../assets/flags/netherlands.png',
+    sprite1: '../../../../assets/sprites/orbeetle-gmax.png',
+    sprite2: '../../../../assets/sprites/rotom.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Brent Tonisson',
+    flag: '../../../../assets/flags/australia.png',
+    sprite1: '../../../../assets/sprites/lugia.png',
+    sprite2: '../../../../assets/sprites/archeops.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Magnus Pedersen',
+    flag: '../../../../assets/flags/denmark.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/inteleon.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Natalie Millar',
+    flag: '../../../../assets/flags/australia.png',
+    sprite1: '../../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../../assets/sprites/genesect.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Azul Griego',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/arceus.png',
+    sprite2: '../../../../assets/sprites/duraludon-gmax.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Tord Reklev',
+    flag: '../../../../assets/flags/norway.png',
+    sprite1: '../../../../assets/sprites/lugia.png',
+    sprite2: '../../../../assets/sprites/archeops.png',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../../assets/flags',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../../assets/flags',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../../assets/flags',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../../assets/flags',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../../assets/flags',
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    list: '../../../../assets/list-icon.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
     firstName: 'eeee',
     flag: '../../../../assets/flags',
     sprite1: '../../../../assets/sprites',
