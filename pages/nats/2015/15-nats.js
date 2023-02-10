@@ -1639,9 +1639,9 @@ let fourEvent = [
 
 let fiveEvent = [
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Felippo Colamorea',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/hyphen.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1653,9 +1653,9 @@ let fiveEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: '--',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/hyphen.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1667,9 +1667,9 @@ let fiveEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: '--',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/hyphen.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1681,9 +1681,9 @@ let fiveEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: '--',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/hyphen.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1695,9 +1695,126 @@ let fiveEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Kim Pobega',
+        sprite1: '../../../assets/sprites/exeggutor.png',
+        sprite2: '../../../assets/sprites/garbodor.png',
+        list: '../../../assets/list-icon.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016/exeggutor.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/exeggcute.png',
+                numImg: '../../../assets/03.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/garbodor-ltr.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/trubbish-pound.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/shaymin-ex.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/seismitoad-ex.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/virizion-ex.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/jirachi-ex.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/professor-sycamore.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/n-promo.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/az.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/wally.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/team-flare-grunt.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/xerosic.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/lysandres-trump-card.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/computer-search.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/vs-seeker.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/crushing-hammer-xy.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/battle-compressor.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/muscle-band.png',
+                numImg: '../../../assets/03.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/float-stone-bw.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
+                cardImg: '../../../assets/cards/energy/xy-energy-grass.png',
+                numImg: '../../../assets/04.png',
+            },
+            {
+                cardImg: '../../../assets/cards/energy/dce-xy1.png',
+                numImg: '../../../assets/03.png',
+            },
+        ]
+    },
+    {
+        firstName: '--',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/hyphen.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1709,9 +1826,9 @@ let fiveEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: '--',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/hyphen.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
@@ -1723,23 +1840,9 @@ let fiveEvent = [
         ]
     },
     {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
-        // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
-        type: 'dark',
-        deck: [
-            {
-                cardImg: '../../../assets/cards/2014-2016',
-                numImg: '../../../assets/04.png',
-            },
-        ]
-    },
-    {
-        firstName: 'EEEE',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: '--',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/hyphen.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'dark',
