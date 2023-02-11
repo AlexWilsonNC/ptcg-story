@@ -1199,8 +1199,8 @@ let seniors = [
   {
     firstName: 'Jeremiah Williams',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/yveltal.png',
+    sprite1: '../../../../assets/sprites/yveltal.png',
+    sprite2: '../../../../assets/sprites/darkrai.png',
     list: '../../../../assets/list-icon.png',
     type: 'dark',
     deck: [
