@@ -82,7 +82,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -200,7 +200,7 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/03.png'
       },
       {
@@ -354,7 +354,7 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/03.png'
       },
       {
@@ -428,7 +428,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -602,7 +602,7 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/03.png'
       },
       {
@@ -720,7 +720,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -866,7 +866,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -1004,7 +1004,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -1122,7 +1122,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -1228,7 +1228,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -1466,7 +1466,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -1580,7 +1580,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -1682,7 +1682,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -1776,7 +1776,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -1898,7 +1898,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -2046,7 +2046,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -2160,7 +2160,7 @@ let masters = [
         numImg: '../../../../assets/02.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -2282,7 +2282,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -2416,7 +2416,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -2538,7 +2538,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -2670,7 +2670,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -2764,7 +2764,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -2890,7 +2890,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/02.png'
       },
       {
@@ -2964,7 +2964,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -3102,7 +3102,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -3224,7 +3224,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -3326,7 +3326,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -3452,7 +3452,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -3578,7 +3578,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -3710,7 +3710,7 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/03.png'
       },
       {
@@ -3806,7 +3806,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -3920,7 +3920,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -4054,7 +4054,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -4136,7 +4136,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -4310,7 +4310,7 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/02.png'
       },
       {
@@ -4398,7 +4398,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -4520,7 +4520,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -4614,7 +4614,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -4712,7 +4712,7 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -4826,7 +4826,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -4960,7 +4960,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -5086,7 +5086,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -5196,7 +5196,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -5404,7 +5404,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -5576,7 +5576,7 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/03.png'
       },
       {
@@ -5702,7 +5702,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -5832,7 +5832,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -5950,7 +5950,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -6056,7 +6056,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -6182,7 +6182,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -6312,7 +6312,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -6414,7 +6414,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -6512,7 +6512,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -6606,7 +6606,7 @@ let masters = [
         numImg: '../../../../assets/03.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -6712,7 +6712,7 @@ let masters = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -6861,7 +6861,7 @@ let seniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -6971,7 +6971,7 @@ let seniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -7105,7 +7105,7 @@ let seniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -7215,7 +7215,7 @@ let seniors = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -7349,7 +7349,7 @@ let seniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -7491,7 +7491,7 @@ let seniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -7605,7 +7605,7 @@ let seniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -7727,7 +7727,7 @@ let seniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -7951,7 +7951,7 @@ let seniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -8064,7 +8064,7 @@ let juniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -8284,7 +8284,7 @@ let juniors = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -8394,7 +8394,7 @@ let juniors = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/03.png'
       },
       {
@@ -8512,7 +8512,7 @@ let juniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -8634,7 +8634,7 @@ let juniors = [
         numImg: '../../../../assets/04.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -8724,7 +8724,7 @@ let juniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
@@ -8862,7 +8862,7 @@ let juniors = [
         numImg: '../../../../assets/01.png'
       },
       {
-        cardImg: '../../../../assets/cards/2022-2023/quick-ball.png',
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
         numImg: '../../../../assets/04.png'
       },
       {
