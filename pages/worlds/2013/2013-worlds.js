@@ -2341,7 +2341,7 @@ let seniors = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/pokemon-communication-dex.png',
+        cardImg: '../../../assets/cards/2014-2016/pokemon-communication-bw.png',
         numImg: '../../../assets/02.png'
       },
       {
