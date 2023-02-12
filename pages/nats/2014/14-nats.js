@@ -220,7 +220,7 @@ let seniors = [
     {
         firstName: 'Bryan de Vries',
         sprite1: '../../../assets/sprites/yveltal.png',
-        sprite2: '../../../assets/sprites/darkrai.png',
+        sprite2: '../../../assets/sprites/garbodor.png',
         list: '../../../assets/list-icon.png',
         type: 'dark',
         deck: [
