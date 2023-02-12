@@ -179,6 +179,12 @@
 .cp {
     width: 80%;
 }
+.cp-last {
+    width: 50%;
+    border: 1px solid rgb(183, 183, 183);
+    border-radius: 5px;
+    padding: 5px;
+}
 
 .auto-day2-area {
     width: 50%;
