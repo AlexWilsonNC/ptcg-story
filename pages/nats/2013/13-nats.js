@@ -721,9 +721,273 @@ let juniors = [
 
 let fourEvent = [
     {
-        firstName: 'eeee',
-        sprite1: '../../../assets/sprites',
-        sprite2: '../../../assets/sprites',
+        firstName: 'Mehdi Hafi',
+        sprite1: '../../../assets/sprites/landorus-therian.png',
+        sprite2: '../../../assets/sprites/tornadus.png',
+        list: '../../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016/landorus-ex.png',
+                numImg: '../../../assets/03.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2010-2012/tornadus-ex.png',
+                numImg: '../../../assets/03.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/mewtwo-ex.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/terrakion-nvi.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/professor-juniper.png',
+                numImg: '../../../assets/04.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/n-dex.png',
+                numImg: '../../../assets/03.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/skyla-bw.png',
+                numImg: '../../../assets/03.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/colress.png',
+                numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/bianca.png',
+                numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/computer-search.png',
+                numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/pokemon-catcher.png',
+                numImg: '../../../assets/04.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+                numImg: '../../../assets/04.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/switch-bw.png',
+                numImg: '../../../assets/04.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/ultra-ball-bw.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/bicycle.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/energy-switch-bw.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/pluspower.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/energy-search.png',
+                numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/max-potion-bw.png',
+                numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+                numImg: '../../../assets/03.png'
+            },
+            {
+                cardImg: '../../../assets/cards/energy/bw-energy-fighting.png',
+                numImg: '../../../assets/08.png'
+            },
+            {
+                cardImg: '../../../assets/cards/energy/dce-bw.png',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Antoine Avenard',
+        sprite1: '../../../assets/sprites/keldeo-resolute.png',
+        sprite2: '../../../assets/sprites/blastoise.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Herve Guillemet',
+        sprite1: '../../../assets/sprites/darkrai.png',
+        sprite2: '../../../assets/sprites/sableye.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Stéphane Ivanoff',
+        sprite1: '../../../assets/sprites/landorus-therian.png',
+        sprite2: '../../../assets/sprites/tornadus.png',
+        list: '../../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016/landorus-ex.png',
+                numImg: '../../../assets/03.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2010-2012/tornadus-ex.png',
+                numImg: '../../../assets/03.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/mewtwo-ex.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/terrakion-nvi.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/professor-juniper.png',
+                numImg: '../../../assets/04.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/n-dex.png',
+                numImg: '../../../assets/03.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/skyla-bw.png',
+                numImg: '../../../assets/03.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/colress.png',
+                numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/bianca.png',
+                numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/computer-search.png',
+                numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/pokemon-catcher.png',
+                numImg: '../../../assets/04.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/hypnotoxic-laser.png',
+                numImg: '../../../assets/04.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/switch-bw.png',
+                numImg: '../../../assets/04.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/ultra-ball-bw.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/bicycle.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/energy-switch-bw.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/pluspower.png',
+                numImg: '../../../assets/02.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/energy-search.png',
+                numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/max-potion-bw.png',
+                numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2014-2016/virbank-city-gym.png',
+                numImg: '../../../assets/03.png'
+            },
+            {
+                cardImg: '../../../assets/cards/energy/bw-energy-fighting.png',
+                numImg: '../../../assets/08.png'
+            },
+            {
+                cardImg: '../../../assets/cards/energy/dce-bw.png',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Anthony Coutinho',
+        sprite1: '../../../assets/sprites/landorus-therian.png',
+        sprite2: '../../../assets/sprites/garbodor.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Tony Nguyen',
+        sprite1: '../../../assets/sprites/landorus-therian.png',
+        sprite2: '../../../assets/sprites/tornadus.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Caroline Gianasso',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/klinklang.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Corentin Gaudfrain',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/klinklang.png',
         // list: '../../../assets/list-icon.png',
         list: '../../../assets/sprites/blank.png',
         type: 'normal',
