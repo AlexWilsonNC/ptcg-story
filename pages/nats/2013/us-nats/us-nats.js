@@ -1167,7 +1167,7 @@ let masters = [
   {
     firstName: 'Nathan Shaw',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/thundurus-therian.png',
     sprite2: '../../../../assets/sprites/deoxys.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -1182,7 +1182,7 @@ let masters = [
   {
     firstName: 'Dylan Dreyer',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/thundurus-therian.png',
     sprite2: '../../../../assets/sprites/deoxys.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -1197,7 +1197,7 @@ let masters = [
   {
     firstName: 'Andy Kay',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/thundurus-therian.png',
     sprite2: '../../../../assets/sprites/deoxys.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -1227,7 +1227,7 @@ let masters = [
   {
     firstName: 'Alexander Gardner',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/thundurus-therian.png',
     sprite2: '../../../../assets/sprites/deoxys.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -1272,7 +1272,7 @@ let masters = [
   {
     firstName: 'Brad Gustas',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/thundurus-therian.png',
     sprite2: '../../../../assets/sprites/deoxys.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -1287,7 +1287,7 @@ let masters = [
   {
     firstName: 'Daniel Lopez',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/thundurus-therian.png',
     sprite2: '../../../../assets/sprites/deoxys.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -1302,7 +1302,7 @@ let masters = [
   {
     firstName: 'Dustin Zimmerman',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/thundurus-therian.png',
     sprite2: '../../../../assets/sprites/deoxys.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -1317,7 +1317,7 @@ let masters = [
   {
     firstName: 'Cory Cullimore',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/thundurus-therian.png',
     sprite2: '../../../../assets/sprites/deoxys.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -1468,7 +1468,7 @@ let masters = [
   {
     firstName: 'Zakary Krekeler',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/thundurus-therian.png',
     sprite2: '../../../../assets/sprites/deoxys.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
@@ -1890,7 +1890,7 @@ let masters = [
   {
     firstName: 'Alexander Hill',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/kyurem.png',
     sprite2: '../../../../assets/sprites/deoxys.png',
     list: '../../../../assets/list-icon.png',
     type: 'dark',
