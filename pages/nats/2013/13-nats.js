@@ -998,6 +998,118 @@ let fourEvent = [
             },
         ]
     },
+    {
+        firstName: 'Thomas Badell',
+        sprite1: '../../../assets/sprites/landorus-therian.png',
+        sprite2: '../../../assets/sprites/tornadus.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Christophe Caron',
+        sprite1: '../../../assets/sprites/keldeo-resolute.png',
+        sprite2: '../../../assets/sprites/blastoise.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Adrien Thiry',
+        sprite1: '../../../assets/sprites/landorus-therian.png',
+        sprite2: '../../../assets/sprites/tornadus.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Matthieu Cornillon',
+        sprite1: '../../../assets/sprites/keldeo-resolute.png',
+        sprite2: '../../../assets/sprites/blastoise.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Boris Gisselere',
+        sprite1: '../../../assets/sprites/darkrai.png',
+        sprite2: '../../../assets/sprites/sableye.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Justine Woitrain',
+        sprite1: '../../../assets/sprites/blank.png',
+        sprite2: '../../../assets/sprites/klinklang.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Kenny Amari',
+        sprite1: '../../../assets/sprites/empoleon.png',
+        sprite2: '../../../assets/sprites/dusknoir.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Yann Rivière',
+        sprite1: '../../../assets/sprites/tornadus.png',
+        sprite2: '../../../assets/sprites/bouffalant.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../../assets/cards/2014-2016',
+                numImg: '../../../assets/04.png'
+            },
+        ]
+    },
 ]
 
 let fiveEvent = [
