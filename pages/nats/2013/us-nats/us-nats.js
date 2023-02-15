@@ -2149,8 +2149,8 @@ let seniors = [
   {
     firstName: 'Xander Pero',
     flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite1: '../../../../assets/sprites/keldeo-resolute.png',
+    sprite2: '../../../../assets/sprites/blastoise.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: 'dark',
