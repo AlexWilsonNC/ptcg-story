@@ -29,15 +29,114 @@ let masters = [
         firstName: 'Karl Blake',
         sprite1: '../../../assets/sprites/mismagius.png',
         sprite2: '../../../assets/sprites/vileplume.png',
-        // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+        list: '../../../assets/list-icon.png',
         type: 'normal',
         deck: [
             {
-                cardImg: '../../../assets/cards/2010-2012',
-                numImg: '../../../assets/04.png',
+              cardImg: '../../../assets/cards/2010-2012/mismagius.png',
+              numImg: '../../../assets/02.png'
             },
-        ]
+            {
+              cardImg: '../../../assets/cards/2010-2012/misdreavus.png',
+              numImg: '../../../assets/02.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/vileplume.png',
+              numImg: '../../../assets/02.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/oddish.png',
+              numImg: '../../../assets/03.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/darkrai-ex.png',
+              numImg: '../../../assets/02.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/mewtwo-ex.png',
+              numImg: '../../../assets/02.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/terrakion-nvi.png',
+              numImg: '../../../assets/02.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/virizion.png',
+              numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2010-2012/espeon.png',
+                numImg: '../../../assets/01.png'
+              },
+              {
+                cardImg: '../../../assets/cards/2010-2012/eevee-cff.png',
+                numImg: '../../../assets/01.png'
+              },
+              {
+                cardImg: '../../../assets/cards/2010-2012/shaymin-ex-nxd.png',
+                numImg: '../../../assets/01.png'
+              },
+            {
+              cardImg: '../../../assets/cards/2010-2012/cleffa-col.png',
+              numImg: '../../../assets/01.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/pichu.png',
+              numImg: '../../../assets/01.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/poke-collector.png',
+              numImg: '../../../assets/04.png'
+            },
+            {
+                cardImg: '../../../assets/cards/2010-2012/twins.png',
+                numImg: '../../../assets/04.png'
+              },
+            {
+              cardImg: '../../../assets/cards/2010-2012/pont.png',
+              numImg: '../../../assets/03.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/n-bw.png',
+              numImg: '../../../assets/03.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/seeker.png',
+              numImg: '../../../assets/02.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/cheren.png',
+              numImg: '../../../assets/01.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/rare-candy-bw.png',
+              numImg: '../../../assets/04.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/pokemon-communication-bw.png',
+              numImg: '../../../assets/04.png'
+            },
+            {
+              cardImg: '../../../assets/cards/2010-2012/pokemon-catcher.png',
+              numImg: '../../../assets/01.png'
+            },
+            {
+                cardImg: '../../../assets/cards/energy/bw-energy-psychic.png',
+                numImg: '../../../assets/01.png'
+              },
+            {
+              cardImg: '../../../assets/cards/energy/prism-energy.png',
+              numImg: '../../../assets/04.png'
+            },
+            {
+              cardImg: '../../../assets/cards/energy/rainbow-energy-hgss.png',
+              numImg: '../../../assets/04.png'
+            },
+            {
+              cardImg: '../../../assets/cards/energy/dce-bw.png',
+              numImg: '../../../assets/04.png'
+            },
+          ]
     },
     {
         firstName: 'Sami Sekkoum',
