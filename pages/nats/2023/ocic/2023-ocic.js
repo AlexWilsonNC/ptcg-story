@@ -36,13 +36,13 @@ let masters = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    firstName: 'Owyn Kamerman',
+    flag: '../../../../assets/flags/netherlands.png',
+    sprite1: '../../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../../assets/sprites/genesect.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
-    type: 'dark',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023',
