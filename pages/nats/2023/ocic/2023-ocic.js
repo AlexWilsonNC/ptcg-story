@@ -472,8 +472,8 @@ let masters = [
   {
     firstName: 'Takuto Itagaki',
     flag: '../../../../assets/flags/japan.png',
-    sprite1: '../../../../assets/sprites/goodra-hisui.png',
-    sprite2: '../../../../assets/sprites/comfey.png',
+    sprite1: '../../../../assets/sprites/yveltal.png',
+    sprite2: '../../../../assets/sprites/eldegoss.png',
     list: '../../../../assets/list-icon.png',
     type: 'dark',
     deck: [
