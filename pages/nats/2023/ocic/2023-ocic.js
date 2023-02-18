@@ -66,13 +66,13 @@ let masters = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    firstName: 'Raz Wolpe',
+    flag: '../../../../assets/flags/isreal.png',
+    sprite1: '../../../../assets/sprites/lugia.png',
+    sprite2: '../../../../assets/sprites/archeops.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
-    type: 'dark',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023',
