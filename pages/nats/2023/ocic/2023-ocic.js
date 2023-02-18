@@ -141,21 +141,6 @@ let masters = [
     ]
   },
   {
-    firstName: 'Grant Shen',
-    flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/lugia.png',
-    sprite2: '../../../../assets/sprites/archeops.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2022-2023',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
     firstName: 'Grant Manley',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/comfey.png',
