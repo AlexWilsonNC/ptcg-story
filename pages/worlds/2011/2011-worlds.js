@@ -540,7 +540,7 @@ let masters = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2010-2012/tyrogue.png',
+        cardImg: '../../../assets/cards/2010-2012/tyrogue-col.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -1860,7 +1860,7 @@ let juniors = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2010-2012/tyrogue.png',
+        cardImg: '../../../assets/cards/2010-2012/tyrogue-col.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -2130,7 +2130,7 @@ let juniors = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2010-2012/tyrogue.png',
+        cardImg: '../../../assets/cards/2010-2012/tyrogue-col.png',
         numImg: '../../../assets/01.png'
       },
       {

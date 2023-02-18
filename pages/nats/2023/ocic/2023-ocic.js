@@ -608,7 +608,7 @@ let masters = [
   {
     firstName: 'Peter Ghionis',
     flag: '../../../../assets/flags/australia.png',
-    sprite1: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/jirachi-shiny.png',
     sprite2: '../../../../assets/sprites/regigigas.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
