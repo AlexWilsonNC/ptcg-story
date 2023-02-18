@@ -306,21 +306,6 @@ let masters = [
     ]
   },
   {
-    firstName: 'Azul Griego',
-    flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/comfey.png',
-    sprite2: '../../../../assets/sprites/sableye.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2022-2023',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
     firstName: 'Takuto Itagaki',
     flag: '../../../../assets/flags/japan.png',
     sprite1: '../../../../assets/sprites/goodra-hisui.png',
