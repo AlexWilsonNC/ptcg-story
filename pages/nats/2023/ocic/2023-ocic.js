@@ -51,13 +51,13 @@ let masters = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
+    firstName: 'Rahul Reddy',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite2: '../../../../assets/sprites/regigigas.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
-    type: 'dark',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023',
