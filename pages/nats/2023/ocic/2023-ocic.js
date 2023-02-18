@@ -324,6 +324,10 @@ let masters = [
         numImg: '../../../../assets/04.png'
       },
       {
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
         cardImg: '../../../../assets/cards/2022-2023/escape-rope.png',
         numImg: '../../../../assets/02.png'
       },
@@ -339,10 +343,6 @@ let masters = [
         cardImg: '../../../../assets/cards/2022-2023/ordinary-rod.png',
         numImg: '../../../../assets/02.png'
       },
-        {
-          cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
-          numImg: '../../../../assets/02.png'
-        },
         {
           cardImg: '../../../../assets/cards/2022-2023/heavy-ball-hisuian.png',
           numImg: '../../../../assets/01.png'
@@ -377,7 +377,7 @@ let masters = [
       },
       {
         cardImg: '../../../../assets/cards/new-energy/capture-energy.png',
-        numImg: '../../../../assets/02.png'
+        numImg: '../../../../assets/01.png'
       },
     ]
   },
