@@ -6,6 +6,126 @@ const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
   {
+    firstName: '--',
+    flag: '../../../../assets/flags/unknown.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/unknown.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/unknown.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/unknown.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/unknown.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/unknown.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/unknown.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../../assets/flags/unknown.png',
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
     firstName: 'Taketo Seki',
     flag: '../../../../assets/flags/japan.png',
     sprite1: '../../../../assets/sprites/lugia.png',
@@ -51,51 +171,6 @@ let masters = [
     ]
   },
   {
-    firstName: 'Pedro Torres',
-    flag: '../../../../assets/flags/spain.png',
-    sprite1: '../../../../assets/sprites/comfey.png',
-    sprite2: '../../../../assets/sprites/sableye.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2022-2023',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Yerco Valencia',
-    flag: '../../../../assets/flags/chile.png',
-    sprite1: '../../../../assets/sprites/lugia.png',
-    sprite2: '../../../../assets/sprites/archeops.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2022-2023',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Raz Wolpe',
-    flag: '../../../../assets/flags/isreal.png',
-    sprite1: '../../../../assets/sprites/lugia.png',
-    sprite2: '../../../../assets/sprites/archeops.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2022-2023',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
     firstName: 'Ciaran Farah',
     flag: '../../../../assets/flags/canada.png',
     sprite1: '../../../../assets/sprites/lugia.png',
@@ -126,40 +201,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'Regan Retzloff',
-    flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/lugia.png',
-    sprite2: '../../../../assets/sprites/archeops.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2022-2023',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
     firstName: 'Mads Jensen',
     flag: '../../../../assets/flags/denmark.png',
     sprite1: '../../../../assets/sprites/lugia.png',
     sprite2: '../../../../assets/sprites/archeops.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2022-2023',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Owyn Kamerman',
-    flag: '../../../../assets/flags/netherlands.png',
-    sprite1: '../../../../assets/sprites/mew-vmax.png',
-    sprite2: '../../../../assets/sprites/genesect.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: 'normal',
@@ -336,21 +381,6 @@ let masters = [
     ]
   },
   {
-    firstName: 'Ryan Antonucci',
-    flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/comfey.png',
-    sprite2: '../../../../assets/sprites/sableye.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2022-2023',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
     firstName: 'Christian Hasbani',
     flag: '../../../../assets/flags/australia.png',
     sprite1: '../../../../assets/sprites/vikavolt.png',
@@ -370,21 +400,6 @@ let masters = [
     flag: '../../../../assets/flags/brazil.png',
     sprite1: '../../../../assets/sprites/lugia.png',
     sprite2: '../../../../assets/sprites/archeops.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2022-2023',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Rahul Reddy',
-    flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/regigigas.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: 'normal',
@@ -472,21 +487,6 @@ let masters = [
   },
   {
     firstName: 'Elliot Gantner',
-    flag: '../../../../assets/flags/usa.png',
-    sprite1: '../../../../assets/sprites/lugia.png',
-    sprite2: '../../../../assets/sprites/archeops.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../../assets/cards/2022-2023',
-        numImg: '../../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jon Eng',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/lugia.png',
     sprite2: '../../../../assets/sprites/archeops.png',
@@ -895,6 +895,36 @@ let masters = [
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/lugia.png',
     sprite2: '../../../../assets/sprites/archeops.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Jon Eng',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/lugia.png',
+    sprite2: '../../../../assets/sprites/archeops.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../../assets/cards/2022-2023',
+        numImg: '../../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Ryan Antonucci',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/comfey.png',
+    sprite2: '../../../../assets/sprites/sableye.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: 'normal',
