@@ -81,10 +81,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'Yerco Valencia',
-    flag: '../../../../assets/flags/chile.png',
-    sprite1: '../../../../assets/sprites/lugia.png',
-    sprite2: '../../../../assets/sprites/archeops.png',
+    firstName: 'Pedro Torres',
+    flag: '../../../../assets/flags/spain.png',
+    sprite1: '../../../../assets/sprites/comfey.png',
+    sprite2: '../../../../assets/sprites/sableye.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: 'normal',
@@ -96,13 +96,13 @@ let masters = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    firstName: 'Yerco Valencia',
+    flag: '../../../../assets/flags/chile.png',
+    sprite1: '../../../../assets/sprites/lugia.png',
+    sprite2: '../../../../assets/sprites/archeops.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
-    type: 'dark',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023',
