@@ -4086,8 +4086,8 @@ let seniors = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
+    firstName: 'Chawinnut N',
+    flag: '../../../../assets/flags/thailand.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/hyphen.png',
     // list: '../../../../assets/list-icon.png',
@@ -4361,8 +4361,8 @@ let seniors = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
+    firstName: 'Ryan A',
+    flag: '../../../../assets/flags/australia.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/hyphen.png',
     // list: '../../../../assets/list-icon.png',
@@ -4900,8 +4900,8 @@ let juniors = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
+    firstName: 'Luke B',
+    flag: '../../../../assets/flags/australia.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/hyphen.png',
     // list: '../../../../assets/list-icon.png',
@@ -4915,8 +4915,8 @@ let juniors = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
+    firstName: 'Ricky Y',
+    flag: '../../../../assets/flags/australia.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/hyphen.png',
     // list: '../../../../assets/list-icon.png',
@@ -4930,8 +4930,8 @@ let juniors = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
+    firstName: 'Jan J',
+    flag: '../../../../assets/flags/poland.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/hyphen.png',
     // list: '../../../../assets/list-icon.png',
@@ -4945,8 +4945,8 @@ let juniors = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
+    firstName: 'Manik S',
+    flag: '../../../../assets/flags/australia.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/hyphen.png',
     // list: '../../../../assets/list-icon.png',
