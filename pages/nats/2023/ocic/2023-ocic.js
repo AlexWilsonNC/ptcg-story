@@ -4718,10 +4718,10 @@ let masters = [
 
 let seniors = [
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
+    firstName: 'Polaris A',
+    flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    sprite2: '../../../../assets/sprites/vikavolt.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: 'dark',
@@ -4733,10 +4733,10 @@ let seniors = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    firstName: 'Yuichi M',
+    flag: '../../../../assets/flags/australia.png',
+    sprite1: '../../../../assets/sprites/comfey.png',
+    sprite2: '../../../../assets/sprites/sableye.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: 'dark',
