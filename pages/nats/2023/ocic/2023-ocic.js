@@ -4848,7 +4848,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Yuichi M',
+    firstName: 'Yuichi Matsuo',
     flag: '../../../../assets/flags/australia.png',
     sprite1: '../../../../assets/sprites/comfey.png',
     sprite2: '../../../../assets/sprites/sableye.png',
@@ -4863,7 +4863,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Neo E',
+    firstName: 'Neo Eriandsson',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/hyphen.png',
@@ -5012,7 +5012,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Chawinnut N',
+    firstName: 'Chawinnut Neamkasipong',
     flag: '../../../../assets/flags/thailand.png',
     sprite1: '../../../../assets/sprites/lugia.png',
     sprite2: '../../../../assets/sprites/archeops.png',
@@ -5027,7 +5027,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Marley Sylvester S',
+    firstName: 'Marley Skyum',
     flag: '../../../../assets/flags/denmark.png',
     sprite1: '../../../../assets/sprites/lugia.png',
     sprite2: '../../../../assets/sprites/archeops.png',
@@ -5287,7 +5287,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Ryan A',
+    firstName: 'Ryan Anderson',
     flag: '../../../../assets/flags/australia.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/hyphen.png',
