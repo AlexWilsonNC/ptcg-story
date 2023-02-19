@@ -6,13 +6,13 @@ const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    firstName: 'Azul Griego',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/comfey.png',
+    sprite2: '../../../../assets/sprites/sableye.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
-    type: 'dark',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023',
@@ -21,13 +21,13 @@ let masters = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../../assets/flags/unknown.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/hyphen.png',
+    firstName: 'Regan Retzloff',
+    flag: '../../../../assets/flags/usa.png',
+    sprite1: '../../../../assets/sprites/lugia.png',
+    sprite2: '../../../../assets/sprites/archeops.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
-    type: 'dark',
+    type: 'normal',
     deck: [
       {
         cardImg: '../../../../assets/cards/2022-2023',
@@ -1495,12 +1495,127 @@ let masters = [
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/vikavolt.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../../assets/cards/2022-2023',
+        cardImg: '../../../../assets/cards/2022-2023/mew.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/vikavolt-v.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/raikou-v.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/drapion-v.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/lumineon-v.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/crobat-v.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/zapdos.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/radiant-greninja.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/zigzagoon-galarian.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/melony.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/bosss-orders-cyrus.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/judge.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/cross-switcher.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/scoop-up-net.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/trekking-shoes-crz.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/quick-ball-fus.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/battle-vip-pass.png',
+        numImg: '../../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/energy-search.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/escape-rope.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/switch-cart.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/heavy-ball-hisuian.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/lost-vacuum-crz.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/sky-seal-stone.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/forest-seal-stone.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/air-balloon.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/cape-of-toughness.png',
+        numImg: '../../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/2022-2023/path-to-the-peak.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/new-energy/water-energy-brs.png',
+        numImg: '../../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/new-energy/lightning-energy-brs.png',
+        numImg: '../../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../../assets/cards/new-energy/speed-energy.png',
         numImg: '../../../../assets/04.png'
       },
     ]
@@ -4718,7 +4833,7 @@ let masters = [
 
 let seniors = [
   {
-    firstName: 'Polaris A',
+    firstName: 'Polaris Altares',
     flag: '../../../../assets/flags/usa.png',
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/vikavolt.png',
