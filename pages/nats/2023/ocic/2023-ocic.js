@@ -2791,8 +2791,8 @@ let masters = [
   {
     firstName: 'Paul Coletta',
     flag: '../../../../assets/flags/australia.png',
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/flaaffy.png',
+    sprite1: '../../../../assets/sprites/comfey.png',
+    sprite2: '../../../../assets/sprites/sableye.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     type: 'dark',
@@ -2946,7 +2946,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Kye Edmondston',
+    firstName: 'Kyle Edmondston',
     flag: '../../../../assets/flags/australia.png',
     sprite1: '../../../../assets/sprites/comfey.png',
     sprite2: '../../../../assets/sprites/sableye.png',
