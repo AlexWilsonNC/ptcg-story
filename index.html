@@ -41,10 +41,10 @@
             </a>
         </div>
         <div id="nav-right">
-            <a class="inactive" href="./pages/worlds/worlds">Worlds</a>
-            <a class="inactive" href="./pages/nats/nats">Major Events</a>
-            <a class="inactive" href="./pages/eras/decks-by-era">Decks by Era</a>
-            <a class="inactive other-tab" href="./pages/other/other-main">Other <i class="fas fa-chevron-down"></i></a>
+            <a class="inactive" href="./worlds/main">Worlds</a>
+            <a class="inactive" href="./major-events/main">Major Events</a>
+            <a class="inactive" href="./decks-by-era/main">Decks by Era</a>
+            <a class="inactive other-tab" href="./other/main">Other <i class="fas fa-chevron-down"></i></a>
         </div>
     </nav>
 
@@ -62,7 +62,7 @@
                 <h2>Decks from Every Era</h2>
                 <p>Want to look back at your favorite decks? More than 1,000 decks from throughout the years can be found here.
                     Warning: there's a lot of them, try not to get lost...</p>
-                <a href='./pages/eras/decks-by-era'>
+                <a href='./decks-by-era/main'>
                     <button class='home-btns'>Explore</button>
                 </a>
             </div>
@@ -73,7 +73,7 @@
                 <p>Each event's info, final results data, event image galleries, all available streams and event
                     coverage from each event, plus stories & social media posts from players and staff, all found here!
                 </p>
-                <a href='./pages/worlds/worlds'>
+                <a href='./worlds/main'>
                     <button class='home-btns'>Explore</button>
                 </a>
             </div>
@@ -104,10 +104,10 @@
 
     <footer class='era-footer'>
         <div id='foot-top'>
-            <a href="./pages/worlds/worlds">Worlds</a>
-            <a href="./pages/nats/nats">Major Events</a>
-            <a href="./pages/eras/decks-by-era">Decks by Era</a>
-            <a href='./pages/contact'>Contact</a>
+            <a href="./worlds/main">Worlds</a>
+            <a href="./major-events/main">Major Events</a>
+            <a href="./decks-bymain">Decks by Era</a>
+            <a href='./contact'>Contact</a>
         </div>
         <div class='foot-mid'>
             <a href='mailto:ptcglegends@gmail.com'>
@@ -124,16 +124,7 @@
             Play! Pokémon, The Pokémon Company, or TPCI. It is simply a place for Pokémon TCG fans to look back in time
             at events from the greatest game in history!</div>
     </footer>
-
-    <script src='./js/close-alert.js'></script>
-    <script src="index.js"></script>
-    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-    <script type="text/javascript">
-        window.addEventListener('scroll', function () {
-            var scroll = document.querySelector('.scrollTop');
-            scroll.classList.toggle('active', window.scrollY > 300)
-        });
-    </script>
+     
 </body>
 
 </html>

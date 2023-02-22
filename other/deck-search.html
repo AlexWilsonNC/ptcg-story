@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+
+    <meta property='og:title' content='PTCG Legends' />
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg' />
+    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
+    <meta property='og:url' content='www.ptcglegends.com' />
+    <meta property='og:image:width' content='1200' />
+    <meta property='og:image:height' content='627' />
+    <title>PTCG Legends | Deck Search</title>
+    <link rel="stylesheet" href="../../style.css">
+    <link rel="stylesheet" href="../../css/worlds.css">
+    <link rel="stylesheet" href="../../css/deck-search.css">
+    <link rel="stylesheet" href="../../css/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav id="top-nav">
+        <div id="nav-left">
+            <a href="../../home">
+                <img src="../../assets/trophy-icon.png" alt="pokeball logo">
+                <h1>PTCG <span class='legends'>Legends</span></h1>
+            </a>
+        </div>
+        <div id="nav-right">
+            <a class="inactive" href="../worlds/main">Worlds</a>
+            <a class="inactive" href="../nats/nats">Major Events</a>
+            <a class="inactive" href="../decks-by-era/main">Decks by Era</a>
+            <a class="active other-tab" href="./other-main">Other <i class="fas fa-chevron-down"></i></a>
+        </div>
+    </nav>
+
+    <div style='display: flex;justify-content: center;'>
+        <div class='search-sec'>
+            <label for="site-search">Deck Search:</label>
+            <input type="search" id="site-search" name="q">
+            <button>Search</button>
+        </div>
+    </div>
+
+    <div class='toc-around'>
+        <h2>All Decks Alphabetically:</h2>
+        <div class='toc-img-spread' style='list-style: none;'>
+            <div class='center-format'>
+                <div class='top-format-graphic'>
+                    <p>Alolan Ninetales GX</p>
+                    <div class='alolan-nintales'></div>
+                </div>
+                <div class='top-format-graphic'>
+                    <p>Mega Rayquaza EX</p>
+                    <div class='mega-ray'></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class='toc-around'>
+        <h2>All Decks Alphabestically:</h2>
+        <div class='toc-img-spread' style='list-style: none;'>
+            <a href='#donphan'>
+                <img src='../../assets/sprites/blank.png' class='invisible-toc-img'>
+                <img src='../../assets/toc-pokemon-circles/aegislash-ex.png' class='second-toc-img'>
+            </a>
+            <a href='#exeggutor'>
+                <img src='../../assets/toc-pokemon-circles/dragalge.png' class='first-toc-img'>
+                <img src='../../assets/toc-pokemon-circles/exeggutor.png' class='second-toc-img'>
+            </a>
+        </div>
+    </div> -->
+
+    <br>
+    <p class='copyright'>All images on this page are owned and copyrighted by TPCI.</p>
+
+    <footer class='era-footer'>
+        <div id='foot-top'>
+            <a href="../worlds/main">Worlds</a>
+            <a href="../nats/nats">Major Events</a>
+            <a href="../decks-by-era/main">Decks by Era</a>
+            <a href='../other-main'>Contact</a>
+        </div>
+        <div class='foot-mid'>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                <img src='../../assets/twitter-circle.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                <img src='../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+        </div>
+        <div id='foot-bottom'>This website is in no way related, nor correlated, to
+            Play! Pokémon, The Pokémon Company, or TPCI. It is simply a place for Pokémon TCG fans to look back in time
+            at events from the greatest game in history!</div>
+    </footer>
+
+     
+    <script src="./deck-search.js"></script>
+     
+</body>
+
+</html>
