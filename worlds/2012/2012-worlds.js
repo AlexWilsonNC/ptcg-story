@@ -1196,13 +1196,101 @@ let masters = [
     flag: '../../assets/flags/sweden.png',
     sprite1: '../../assets/sprites/chandelure.png',
     sprite2: '../../assets/sprites/accelgor.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    list: '../../assets/list-icon.png',
+    type: 'psychic',
     deck: [
       {
-        cardImg: '../../assets/cards/2010-2012',
+        cardImg: '../../assets/cards/2010-2012/mew-prime.png',
         numImg: '../../assets/04.png'
       },
+      {
+        cardImg: '../../assets/cards/2010-2012/accelgor.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/chandelure.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/lampent.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/litwick.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/vileplume.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/gloom.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/oddish.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/darkrai-ex.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/relicanth.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/pichu.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/shaymin.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/twins.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/pont.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/sages-training.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/rare-candy-bw.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/tropical-beach.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/dce-bw.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/darkness-energy-hgss.png',
+        numImg: '../../assets/02.png'
+      }
     ]
   }
 ]
