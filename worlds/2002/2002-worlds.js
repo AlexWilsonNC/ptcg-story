@@ -611,7 +611,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Seena Ghaziaksa',
+    firstName: 'Seena Ghaziasksa',
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/donphan.png',
     sprite2: '../../assets/sprites/slowking.png',
