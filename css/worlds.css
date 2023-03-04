@@ -1105,8 +1105,15 @@ li {
 
 @media screen and (max-width: 812px) {
     .old-card {
-        border-radius: 3.5%;
-        background-color: rgb(255, 210, 0);
+        padding: 0.5px;
+    }
+    .dp-card {
+        padding: 0.5px;
+    }
+    .delta-era-card {
+        padding: 0.5px;
+    }
+    .ex-era-card {
         padding: 0.5px;
     }
 }
