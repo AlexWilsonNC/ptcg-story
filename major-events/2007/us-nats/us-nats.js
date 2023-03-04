@@ -1405,16 +1405,12 @@ let seniors = [
         numImg: '../../../assets/01.png',
       },
       {
-        cardImg: '../../../assets/cards/2007-2008/machoke-karate-chop.png',
-        numImg: '../../../assets/01.png',
-      },
-      {
         cardImg: '../../../assets/cards/2007-2008/machoke-steady-punch.png',
-        numImg: '../../../assets/01.png',
+        numImg: '../../../assets/02.png',
       },
       {
         cardImg: '../../../assets/cards/2007-2008/machop.png',
-        numImg: '../../../assets/03.png',
+        numImg: '../../../assets/04.png',
       },
       {
         cardImg: '../../../assets/cards/2007-2008/lucario.png',
@@ -1425,12 +1421,12 @@ let seniors = [
         numImg: '../../../assets/04.png',
       },
       {
-        cardImg: '../../../assets/cards/2007-2008/celios-network.png',
+        cardImg: '../../../assets/cards/2007-2008/castaway.png',
         numImg: '../../../assets/03.png',
       },
       {
-        cardImg: '../../../assets/cards/2007-2008/castaway.png',
-        numImg: '../../../assets/02.png',
+        cardImg: '../../../assets/cards/2007-2008/holon-adventurer.png',
+        numImg: '../../../assets/03.png',
       },
       {
         cardImg: '../../../assets/cards/2007-2008/holon-mentor.png',
@@ -1441,23 +1437,11 @@ let seniors = [
         numImg: '../../../assets/01.png',
       },
       {
-        cardImg: '../../../assets/cards/2007-2008/holon-adventurer.png',
-        numImg: '../../../assets/01.png',
-      },
-      {
-        cardImg: '../../../assets/cards/2007-2008/holons-farmer.png',
-        numImg: '../../../assets/01.png',
-      },
-      {
         cardImg: '../../../assets/cards/2007-2008/holon-lass.png',
         numImg: '../../../assets/01.png',
       },
       {
         cardImg: '../../../assets/cards/2007-2008/mr-briney-compassion.png',
-        numImg: '../../../assets/01.png',
-      },
-      {
-        cardImg: '../../../assets/cards/2007-2008/scott.png',
         numImg: '../../../assets/01.png',
       },
       {
@@ -1474,19 +1458,19 @@ let seniors = [
       },
       {
         cardImg: '../../../assets/cards/2007-2008/cessation-crystal.png',
-        numImg: '../../../assets/02.png',
+        numImg: '../../../assets/03.png',
       },
       {
-        cardImg: '../../../assets/cards/2007-2008/energy-root.png',
+        cardImg: '../../../assets/cards/2007-2008/crystal-shard-2007.png',
         numImg: '../../../assets/01.png',
       },
       {
         cardImg: '../../../assets/cards/2007-2008/cursed-stone.png',
-        numImg: '../../../assets/04.png',
+        numImg: '../../../assets/03.png',
       },
       {
         cardImg: '../../../assets/cards/old-energy/fighting-energy-power-keepers.png',
-        numImg: '../../../assets/12.png',
+        numImg: '../../../assets/13.png',
       },
       {
         cardImg: '../../../assets/cards/old-energy/double-rainbow-energy.png',
@@ -1542,9 +1526,9 @@ let seniors = [
   {
     firstName: 'Kevin White',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
-    // list: '../../../assets/list-icon.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png', four corners?
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
     deck: [
