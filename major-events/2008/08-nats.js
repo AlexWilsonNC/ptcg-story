@@ -220,93 +220,93 @@ let masters = [
         type: 'dark',
         deck: [
             {
-              cardImg: '../../assets/cards/2007-2008/dp.120.empoleon_lv_x.jpg',
-              numImg: '../../assets/01.png',
-              exCard: true
+                cardImg: '../../assets/cards/2007-2008/dp.120.empoleon_lv_x.jpg',
+                numImg: '../../assets/01.png',
+                exCard: true
             },
             {
-              cardImg: '../../assets/cards/2007-2008/empoleon-dual-splash.png',
-              numImg: '../../assets/03.png'
+                cardImg: '../../assets/cards/2007-2008/empoleon-dual-splash.png',
+                numImg: '../../assets/03.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/prinplup.png',
-              numImg: '../../assets/03.png'
+                cardImg: '../../assets/cards/2007-2008/prinplup.png',
+                numImg: '../../assets/03.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/piplup.png',
-              numImg: '../../assets/04.png',
-              radiusCard: true
+                cardImg: '../../assets/cards/2007-2008/piplup.png',
+                numImg: '../../assets/04.png',
+                radiusCard: true
             },
             {
-              cardImg: '../../assets/cards/2007-2008/omastar.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/omastar.png',
+                numImg: '../../assets/02.png'
             },
             {
-              cardImg: '../../assets/cards/2008-2010/md.069.omanyte.jpg',
-              numImg: '../../assets/01.png',
-              oldCard: true
+                cardImg: '../../assets/cards/2008-2010/md.069.omanyte.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
             },
             {
-              cardImg: '../../assets/cards/2007-2008/claydol.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/claydol.png',
+                numImg: '../../assets/02.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/baltoy-fighting.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/baltoy-fighting.png',
+                numImg: '../../assets/02.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/unown-quick.png',
-              numImg: '../../assets/01.png'
+                cardImg: '../../assets/cards/2007-2008/unown-quick.png',
+                numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/phione.png',
-              numImg: '../../assets/01.png'
+                cardImg: '../../assets/cards/2007-2008/phione.png',
+                numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/chatot.png',
-              numImg: '../../assets/01.png'
+                cardImg: '../../assets/cards/2007-2008/chatot.png',
+                numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/castform.png',
-              numImg: '../../assets/01.png'
+                cardImg: '../../assets/cards/2007-2008/castform.png',
+                numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/roseannes-research.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/2007-2008/roseannes-research.png',
+                numImg: '../../assets/04.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/bebes-search.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/2007-2008/bebes-search.png',
+                numImg: '../../assets/04.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/rare-candy-2008.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/2007-2008/rare-candy-2008.png',
+                numImg: '../../assets/04.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/warp-point.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/warp-point.png',
+                numImg: '../../assets/02.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/helix-fossil.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/helix-fossil.png',
+                numImg: '../../assets/02.png'
             },
             {
-              cardImg: '../../assets/cards/energy/water-energy-capsule.png',
-              numImg: '../../assets/08.png'
+                cardImg: '../../assets/cards/energy/water-energy-capsule.png',
+                numImg: '../../assets/08.png'
             },
             {
-              cardImg: '../../assets/cards/energy/call-energy.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/energy/call-energy.png',
+                numImg: '../../assets/04.png'
             },
             {
-              cardImg: '../../assets/cards/energy/scramble-energy-promo.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/energy/scramble-energy-promo.png',
+                numImg: '../../assets/04.png'
             },
             {
-              cardImg: '../../assets/cards/energy/question-mark.png',
-              numImg: '../../assets/06.png'
+                cardImg: '../../assets/cards/energy/question-mark.png',
+                numImg: '../../assets/06.png'
             },
-          ]
+        ]
     },
     {
         firstName: 'Nick Lote',
@@ -344,114 +344,217 @@ let masters = [
         type: 'dark',
         deck: [
             {
-              cardImg: '../../assets/cards/2007-2008/gardevoir-lvx.png',
-              numImg: '../../assets/01.png'
+                cardImg: '../../assets/cards/2007-2008/gardevoir-lvx.png',
+                numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/gardevoir-psychic-lock.png',
-              numImg: '../../assets/03.png'
+                cardImg: '../../assets/cards/2007-2008/gardevoir-psychic-lock.png',
+                numImg: '../../assets/03.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/gallade.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/gallade.png',
+                numImg: '../../assets/02.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/kirlia.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/kirlia.png',
+                numImg: '../../assets/02.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/ralts.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/2007-2008/ralts.png',
+                numImg: '../../assets/04.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/claydol.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/claydol.png',
+                numImg: '../../assets/02.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/baltoy-fighting.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/baltoy-fighting.png',
+                numImg: '../../assets/02.png'
             },
             {
                 cardImg: '../../assets/cards/2007-2008/pachirisu.png',
                 numImg: '../../assets/03.png'
-              },
-              {
-                cardImg: '../../assets/cards/2007-2008/phione.png',
-                numImg: '../../assets/02.png'
-              },
-            {
-              cardImg: '../../assets/cards/2007-2008/omastar.png',
-              numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/celios-network.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/2007-2008/phione.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/omastar.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/celios-network.png',
+                numImg: '../../assets/04.png'
             },
             {
                 cardImg: '../../assets/cards/2007-2008/oaks-visit.png',
                 numImg: '../../assets/03.png'
-              },
+            },
             {
-              cardImg: '../../assets/cards/2007-2008/team-galactic-wager.png',
-              numImg: '../../assets/03.png'
+                cardImg: '../../assets/cards/2007-2008/team-galactic-wager.png',
+                numImg: '../../assets/03.png'
             },
             {
                 cardImg: '../../assets/cards/2007-2008/roseannes-research.png',
                 numImg: '../../assets/02.png'
-              },
+            },
             {
-              cardImg: '../../assets/cards/2007-2008/rare-candy-2008.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/2007-2008/rare-candy-2008.png',
+                numImg: '../../assets/04.png'
             },
             {
                 cardImg: '../../assets/cards/2007-2008/windstorm.png',
                 numImg: '../../assets/02.png'
-              },
-              {
+            },
+            {
                 cardImg: '../../assets/cards/2007-2008/night-maintenance.png',
                 numImg: '../../assets/02.png'
-              },
-            {
-              cardImg: '../../assets/cards/2007-2008/warp-point.png',
-              numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/helix-fossil.png',
-              numImg: '../../assets/01.png'
+                cardImg: '../../assets/cards/2007-2008/warp-point.png',
+                numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/energy/psychic-energy-capsule.png',
-              numImg: '../../assets/07.png'
+                cardImg: '../../assets/cards/2007-2008/helix-fossil.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/psychic-energy-capsule.png',
+                numImg: '../../assets/07.png'
             },
             {
                 cardImg: '../../assets/cards/energy/fighting-energy-capsule.png',
                 numImg: '../../assets/02.png'
-              },
+            },
             {
-              cardImg: '../../assets/cards/energy/double-rainbow-energy.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/energy/double-rainbow-energy.png',
+                numImg: '../../assets/04.png'
             },
             {
                 cardImg: '../../assets/cards/energy/call-energy.png',
                 numImg: '../../assets/02.png'
-              },
-            {
-              cardImg: '../../assets/cards/energy/scramble-energy-promo.png',
-              numImg: '../../assets/01.png'
             },
-          ]
+            {
+                cardImg: '../../assets/cards/energy/scramble-energy-promo.png',
+                numImg: '../../assets/01.png'
+            },
+        ]
     },
     {
         firstName: 'Ryan Tur',
-        sprite1: '../../assets/sprites/empoleon.png',
-        sprite2: '../../assets/sprites/bronzong.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/sprites/empoleon.png',
+        list: '../../assets/list-icon.png',
         type: 'dark',
         deck: [
             {
-                cardImg: '../../assets/cards/2008-2010',
+                cardImg: '../../assets/cards/2007-2008/dp.120.empoleon_lv_x.jpg',
+                numImg: '../../assets/01.png',
+                exCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/empoleon-dual-splash.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/empoleon-ice-blade.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/prinplup.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/piplup-berry.png',
                 numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/mt.026.gyarados.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/magikarp.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/cg.005.dugtrio.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/sw.085.diglett.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/palkia-lvx.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/palkia.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/claydol.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/baltoy-fighting.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/pachirisu.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/celios-network.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/roseannes-research.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/stevens-advice.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/bebes-search.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/rare-candy-2008.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/switch.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/night-maintenance.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/time-space-distortion.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/water-energy-capsule.png',
+                numImg: '../../assets/10.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/scramble-energy-promo.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/old-energy/holon-energy-wp.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/question-mark.png',
+                numImg: '../../assets/02.png'
             },
         ]
     },
@@ -592,105 +695,222 @@ let seniors = [
         type: 'dark',
         deck: [
             {
-              cardImg: '../../assets/cards/2007-2008/empoleon-dual-splash.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/2007-2008/empoleon-dual-splash.png',
+                numImg: '../../assets/04.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/prinplup.png',
-              numImg: '../../assets/03.png'
+                cardImg: '../../assets/cards/2007-2008/prinplup.png',
+                numImg: '../../assets/03.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/piplup.png',
-              numImg: '../../assets/04.png',
-              radiusCard: true
+                cardImg: '../../assets/cards/2007-2008/piplup.png',
+                numImg: '../../assets/04.png',
+                radiusCard: true
             },
             {
                 cardImg: '../../assets/cards/2007-2008/phione.png',
                 numImg: '../../assets/03.png'
-              },
-            {
-              cardImg: '../../assets/cards/2007-2008/omastar.png',
-              numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/2008-2010/md.069.omanyte.jpg',
-              numImg: '../../assets/01.png',
-              oldCard: true
+                cardImg: '../../assets/cards/2007-2008/omastar.png',
+                numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/claydol.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2008-2010/md.069.omanyte.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
             },
             {
-              cardImg: '../../assets/cards/2007-2008/baltoy-fighting.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/claydol.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/baltoy-fighting.png',
+                numImg: '../../assets/02.png'
             },
             {
                 cardImg: '../../assets/cards/2008-2010/sw.019.suicune.jpg',
                 numImg: '../../assets/01.png',
                 oldCard: true
-              },
-            {
-              cardImg: '../../assets/cards/2007-2008/chatot.png',
-              numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/roseannes-research.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/2007-2008/chatot.png',
+                numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/celios-network.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/2007-2008/roseannes-research.png',
+                numImg: '../../assets/04.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/oaks-visit.png',
-              numImg: '../../assets/03.png'
+                cardImg: '../../assets/cards/2007-2008/celios-network.png',
+                numImg: '../../assets/04.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/stevens-advice.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/oaks-visit.png',
+                numImg: '../../assets/03.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/team-galactic-wager.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/stevens-advice.png',
+                numImg: '../../assets/02.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/rare-candy-2008.png',
-              numImg: '../../assets/04.png'
+                cardImg: '../../assets/cards/2007-2008/team-galactic-wager.png',
+                numImg: '../../assets/02.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/warp-point.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2007-2008/rare-candy-2008.png',
+                numImg: '../../assets/04.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/night-maintenance.png',
-              numImg: '../../assets/01.png'
+                cardImg: '../../assets/cards/2007-2008/warp-point.png',
+                numImg: '../../assets/02.png'
             },
             {
-              cardImg: '../../assets/cards/2007-2008/helix-fossil.png',
-              numImg: '../../assets/01.png'
+                cardImg: '../../assets/cards/2007-2008/night-maintenance.png',
+                numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/energy/water-energy-capsule.png',
-              numImg: '../../assets/10.png'
+                cardImg: '../../assets/cards/2007-2008/helix-fossil.png',
+                numImg: '../../assets/01.png'
             },
             {
-              cardImg: '../../assets/cards/energy/call-energy.png',
-              numImg: '../../assets/03.png'
+                cardImg: '../../assets/cards/energy/water-energy-capsule.png',
+                numImg: '../../assets/10.png'
             },
             {
-              cardImg: '../../assets/cards/energy/scramble-energy-promo.png',
-              numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/energy/call-energy.png',
+                numImg: '../../assets/03.png'
             },
-          ]
+            {
+                cardImg: '../../assets/cards/energy/scramble-energy-promo.png',
+                numImg: '../../assets/02.png'
+            },
+        ]
     },
 ]
 
 let juniors = [
     {
-        firstName: 'eeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
+        firstName: 'Aaron C',
+        sprite1: '../../assets/sprites/gardevoir.png',
+        sprite2: '../../assets/sprites/gallade.png',
+        list: '../../assets/list-icon.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2007-2008/gardevoir-lvx.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/gardevoir-psychic-lock.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/gallade.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/kirlia.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/ralts.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/furret.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/sentret.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/claydol.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/baltoy-fighting.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/dusknoir.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/duskull.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/tauros.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/celios-network.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/team-galactic-wager.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/stevens-advice.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/roseannes-research.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/rare-candy-2008.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/night-maintenance.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/warp-point.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/windstorm.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/strangth-charm.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/lake-boundary.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/psychic-energy-capsule.png',
+                numImg: '../../assets/05.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/fighting-energy-capsule.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/double-rainbow-energy.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/scramble-energy-promo.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/cyclone-energy-dp.png',
+                numImg: '../../assets/02.png'
+            },
+        ]
+    },
+    {
+        firstName: '--',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/hyphen.png',
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
@@ -705,11 +925,266 @@ let juniors = [
 
 let fourEvent = [
     {
-        firstName: 'eeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
+        firstName: 'Finn Looft',
+        sprite1: '../../assets/sprites/absol.png',
+        sprite2: '../../assets/sprites/gallade.png',
+        list: '../../assets/list-icon.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2008-2010/absol.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/gallade.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/gardevoir-lvx.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/df.093.gardevoir_ex.jpg',
+                numImg: '../../assets/01.png',
+                exCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/gardevoir-psychic-lock.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/kirlia.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/ralts-smack.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/ralts-hypnosis.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/claydol.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/baltoy-fighting.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/aarons-collection.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/castaway.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/roseannes-research.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/team-galactic-wager.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/stevens-advice.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/felicitys-drawing.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/elms-training-method.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/rare-candy-2008.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/warp-point.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/windstorm.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/night-maintenance.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/cessation-crystal.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/strangth-charm.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/psychic-energy-capsule.png',
+                numImg: '../../assets/05.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/fire-energy-capsule.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/fighting-energy-capsule.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/dark-energy-capsule.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/double-rainbow-energy.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/scramble-energy.png',
+                numImg: '../../assets/02.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Tobias Thesing',
+        sprite1: '../../assets/sprites/empoleon.png',
+        sprite2: '../../assets/sprites/bronzong.png',
+        list: '../../assets/list-icon.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2007-2008/dp.120.empoleon_lv_x.jpg',
+                numImg: '../../assets/01.png',
+                exCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/empoleon-dual-splash.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/prinplup.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/piplup.png',
+                numImg: '../../assets/03.png',
+                radiusCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/bronzong.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/bronzor.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/claydol.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/baltoy-fighting.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/pachirisu.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/phione.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/absol-ex.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/omastar.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/celios-network.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/bebes-search.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/stevens-advice.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/team-galactic-wager.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/rare-candy-2008.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/warp-point.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/night-maintenance.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/windstorm.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/pk.085.mysterious_fossil.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/battle-fronteir.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/water-energy-capsule.png',
+                numImg: '../../assets/07.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/call-energy.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/scramble-energy-promo.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/double-rainbow-energy.png',
+                numImg: '../../assets/03.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Karl Peters',
+        sprite1: '../../assets/sprites/gardevoir.png',
+        sprite2: '../../assets/sprites/gallade.png',
         // // list../../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2008-2010',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Robin Gimbel',
+        sprite1: '../../assets/sprites/gardevoir.png',
+        sprite2: '../../assets/sprites/gallade.png',
+        // // list../../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
         deck: [
@@ -728,7 +1203,6 @@ let fiveEvent = [
         sprite2: '../../assets/sprites',
         // // list../../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
-        list: '../../assets/sprites/blank.png',
         type: 'dark',
         deck: [
             {
@@ -746,9 +1220,7 @@ let sixEvent = [
         sprite2: '../../assets/sprites',
         // // list../../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
-        list: '../../assets/sprites/blank.png',
         // list: '../../assets/sprites/blank.png',
-        list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
             {
@@ -766,9 +1238,7 @@ let sevenEvent = [
         sprite2: '../../assets/sprites',
         // // list../../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
-        list: '../../assets/sprites/blank.png',
         // list: '../../assets/sprites/blank.png',
-        list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
             {
@@ -786,9 +1256,7 @@ let eightEvent = [
         sprite2: '../../assets/sprites',
         // // list../../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
-        list: '../../assets/sprites/blank.png',
         // list: '../../assets/sprites/blank.png',
-        list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
             {
@@ -806,9 +1274,7 @@ let nineEvent = [
         sprite2: '../../assets/sprites',
         // // list../../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
-        list: '../../assets/sprites/blank.png',
         // list: '../../assets/sprites/blank.png',
-        list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
             {
@@ -862,7 +1328,7 @@ function displayList(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2009 UK Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2008 UK Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
@@ -983,7 +1449,7 @@ function displayList2(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2011 Sweden Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2008 UK Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
@@ -1105,7 +1571,7 @@ function displayList3(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2009 UK Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2008 Australia Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
@@ -1227,7 +1693,7 @@ function displayList4(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2011 Germany Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2008 Germany Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
