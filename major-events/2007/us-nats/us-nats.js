@@ -470,6 +470,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/2007-2008/banette-ex.png',
         numImg: '../../../assets/04.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/2007-2008/banette.png',

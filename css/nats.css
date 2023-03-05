@@ -224,7 +224,9 @@
 .hidden-nat20091,
 .hidden-nat20092,
 .hidden-nat2008-1,
-.hidden-nat2008-2 {
+.hidden-nat2008-2,
+.hidden-nat2007-1,
+.hidden-nat2007-2 {
     display: none;
     /* transform: scale(1.2); */
 }

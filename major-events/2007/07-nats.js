@@ -19,12 +19,12 @@ let masters = [
         type: 'dark',
         deck: [
             {
-                cardImg: '../../assets/cards/2007-2008/flygon-ex-psychic.png',
-                numImg: '../../assets/02.png',
-            },
-            {
                 cardImg: '../../assets/cards/2007-2008/flygon-grass.png',
                 numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/flygon-ex-psychic.png',
+                numImg: '../../assets/02.png',
             },
             {
                 cardImg: '../../assets/cards/2007-2008/vibrava-psychic.png',
