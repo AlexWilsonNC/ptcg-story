@@ -289,14 +289,133 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/lugia.png',
     sprite2: '../../../assets/sprites/blastoise.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/2004-2006/lugia-ex.png',
+        numImg: '../../../assets/01.png'
       },
+      {
+        cardImg: '../../../assets/cards/2004-2006/blastoise-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/wartortle.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/squirtle.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/steelix-ex.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/onix-tunneling.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgeot.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgeotto.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgey.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/jirachi.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/jirachi-dual.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/mew-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/latias-star.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/castform.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-magneton.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-magnemite.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/celios-network.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rockets-admin.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-mentor.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-scientist.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-farmer.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rare-candy-2006.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/holon-transeiver.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/swoop-teleporter.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pokemon-retriever.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/warp-point.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/power-tree.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/island-cave.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/giant-stump.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/water-energy-holon-phantoms.png',
+        numImg: '../../../assets/08.png'
+      }
     ]
   },
   {
@@ -1223,7 +1342,7 @@ function displayList(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2007 US Nats";
+        document.querySelector('.playerName').innerHTML = item.firstName + " - 2006 US Nats";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -1360,7 +1479,7 @@ function displayList2(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2007 US Nats";
+        document.querySelector('.playerName').innerHTML = item.firstName + " - 2006 US Nats";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -1496,7 +1615,7 @@ function displayList3(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2007 US Nats";
+        document.querySelector('.playerName').innerHTML = item.firstName + " - 2006 US Nats";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
