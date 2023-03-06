@@ -6157,19 +6157,24 @@ function displayList(array = []) {
             cardSpace.remove();
           })
         }
-        // document.querySelectorAll('.pokemon-card').forEach(card => {
-        //   console.log('here')
-        //   card.addEventListener('click', () => {
-        //       card.querySelector('.pok-card-small').classList.add('large-card');
-        //       document.querySelector('.second-behind-modal').style.display = 'block';
-        //       if (card.querySelector('.pok-card-small').classList.contains('large-card')) {
-        //         document.querySelector('.second-behind-modal').addEventListener('click', () => {
-        //               card.querySelector('.pok-card-small').classList.remove('large-card');
-        //               document.querySelector('.second-behind-modal').style.display = 'none';
-        //           })
-        //       }
-        //   })
-        // });
+        document.querySelectorAll('.pokemon-card').forEach(card => {
+          let meep = document.getElementsByClassName("pok-card-small"),
+          zoombox = document.getElementById("zoom-card-box");
+         
+          if (meep.length > 0) { for (let i of meep) {
+            i.onclick = () => {
+              let clone = i.cloneNode();
+              clone.className = "";
+              zoombox.innerHTML = "";
+              zoombox.appendChild(clone);
+              zoombox.className = "show";
+            };
+          }}
+         
+          zoombox.onclick = () => {
+            zoombox.className = "";
+          };
+        });
       })
     }
 
@@ -6294,19 +6299,24 @@ function displayList2(array = []) {
             cardSpace.remove();
           })
         }
-        // document.querySelectorAll('.pokemon-card').forEach(card => {
-        //   console.log('here')
-        //   card.addEventListener('click', () => {
-        //       card.querySelector('.pok-card-small').classList.add('large-card');
-        //       document.querySelector('.second-behind-modal').style.display = 'block';
-        //       if (card.querySelector('.pok-card-small').classList.contains('large-card')) {
-        //         document.querySelector('.second-behind-modal').addEventListener('click', () => {
-        //               card.querySelector('.pok-card-small').classList.remove('large-card');
-        //               document.querySelector('.second-behind-modal').style.display = 'none';
-        //           })
-        //       }
-        //   })
-        // });
+        document.querySelectorAll('.pokemon-card').forEach(card => {
+          let meep = document.getElementsByClassName("pok-card-small"),
+          zoombox = document.getElementById("zoom-card-box");
+         
+          if (meep.length > 0) { for (let i of meep) {
+            i.onclick = () => {
+              let clone = i.cloneNode();
+              clone.className = "";
+              zoombox.innerHTML = "";
+              zoombox.appendChild(clone);
+              zoombox.className = "show";
+            };
+          }}
+         
+          zoombox.onclick = () => {
+            zoombox.className = "";
+          };
+        });
       })
     }
     seniorList.appendChild(item_element);
@@ -6430,19 +6440,24 @@ function displayList3(array = []) {
             cardSpace.remove();
           })
         }
-        // document.querySelectorAll('.pokemon-card').forEach(card => {
-        //   console.log('here')
-        //   card.addEventListener('click', () => {
-        //       card.querySelector('.pok-card-small').classList.add('large-card');
-        //       document.querySelector('.second-behind-modal').style.display = 'block';
-        //       if (card.querySelector('.pok-card-small').classList.contains('large-card')) {
-        //         document.querySelector('.second-behind-modal').addEventListener('click', () => {
-        //               card.querySelector('.pok-card-small').classList.remove('large-card');
-        //               document.querySelector('.second-behind-modal').style.display = 'none';
-        //           })
-        //       }
-        //   })
-        // });
+        document.querySelectorAll('.pokemon-card').forEach(card => {
+          let meep = document.getElementsByClassName("pok-card-small"),
+          zoombox = document.getElementById("zoom-card-box");
+         
+          if (meep.length > 0) { for (let i of meep) {
+            i.onclick = () => {
+              let clone = i.cloneNode();
+              clone.className = "";
+              zoombox.innerHTML = "";
+              zoombox.appendChild(clone);
+              zoombox.className = "show";
+            };
+          }}
+         
+          zoombox.onclick = () => {
+            zoombox.className = "";
+          };
+        });
       })
     }
     juniorList.appendChild(item_element);

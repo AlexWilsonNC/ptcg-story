@@ -1,6 +1,6 @@
 window.onload = () => {
     let card = document.getElementsByClassName("zoomed"),
-        zoombox = document.getElementById("zoom-card-box");
+    zoombox = document.getElementById("zoom-card-box");
    
     if (card.length > 0) { for (let i of card) {
       i.onclick = () => {
@@ -9,7 +9,14 @@ window.onload = () => {
         zoombox.innerHTML = "";
         zoombox.appendChild(clone);
         zoombox.className = "show";
-
+      };
+    }}
+   
+    zoombox.onclick = () => {
+      zoombox.className = "";
+    };
+  };
+  
         // document.body.style.position = 'fixed';
         // document.body.style.top = `-${window.scrollY}px`;
 
@@ -20,11 +27,3 @@ window.onload = () => {
         // document.body.style.position = '';
         // document.body.style.top = '';
         // window.scrollTo(0, parseInt(scrollY || '0') * -1);
-      };
-    }}
-   
-    zoombox.onclick = () => {
-        zoombox.className = "";
-    };
-  };
-  

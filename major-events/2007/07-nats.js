@@ -1168,6 +1168,24 @@ function displayList(array = []) {
                         cardSpace.remove();
                     })
                 }
+                document.querySelectorAll('.pokemon-card').forEach(card => {
+                    let meep = document.getElementsByClassName("pok-card-small"),
+                    zoombox = document.getElementById("zoom-card-box");
+                   
+                    if (meep.length > 0) { for (let i of meep) {
+                      i.onclick = () => {
+                        let clone = i.cloneNode();
+                        clone.className = "";
+                        zoombox.innerHTML = "";
+                        zoombox.appendChild(clone);
+                        zoombox.className = "show";
+                      };
+                    }}
+                   
+                    zoombox.onclick = () => {
+                      zoombox.className = "";
+                    };
+                  });
             })
         }
 
@@ -1290,6 +1308,24 @@ function displayList2(array = []) {
                         cardSpace.remove();
                     })
                 }
+                document.querySelectorAll('.pokemon-card').forEach(card => {
+                    let meep = document.getElementsByClassName("pok-card-small"),
+                    zoombox = document.getElementById("zoom-card-box");
+                   
+                    if (meep.length > 0) { for (let i of meep) {
+                      i.onclick = () => {
+                        let clone = i.cloneNode();
+                        clone.className = "";
+                        zoombox.innerHTML = "";
+                        zoombox.appendChild(clone);
+                        zoombox.className = "show";
+                      };
+                    }}
+                   
+                    zoombox.onclick = () => {
+                      zoombox.className = "";
+                    };
+                  });
             })
         }
 
@@ -1412,6 +1448,24 @@ function displayList3(array = []) {
                         cardSpace.remove();
                     })
                 }
+                document.querySelectorAll('.pokemon-card').forEach(card => {
+                    let meep = document.getElementsByClassName("pok-card-small"),
+                    zoombox = document.getElementById("zoom-card-box");
+                   
+                    if (meep.length > 0) { for (let i of meep) {
+                      i.onclick = () => {
+                        let clone = i.cloneNode();
+                        clone.className = "";
+                        zoombox.innerHTML = "";
+                        zoombox.appendChild(clone);
+                        zoombox.className = "show";
+                      };
+                    }}
+                   
+                    zoombox.onclick = () => {
+                      zoombox.className = "";
+                    };
+                  });
             })
         }
 
@@ -1534,6 +1588,24 @@ function displayList4(array = []) {
                         cardSpace.remove();
                     })
                 }
+                document.querySelectorAll('.pokemon-card').forEach(card => {
+                    let meep = document.getElementsByClassName("pok-card-small"),
+                    zoombox = document.getElementById("zoom-card-box");
+                   
+                    if (meep.length > 0) { for (let i of meep) {
+                      i.onclick = () => {
+                        let clone = i.cloneNode();
+                        clone.className = "";
+                        zoombox.innerHTML = "";
+                        zoombox.appendChild(clone);
+                        zoombox.className = "show";
+                      };
+                    }}
+                   
+                    zoombox.onclick = () => {
+                      zoombox.className = "";
+                    };
+                  });
             })
         }
 
@@ -1656,6 +1728,24 @@ function displayList5(array = []) {
                         cardSpace.remove();
                     })
                 }
+                document.querySelectorAll('.pokemon-card').forEach(card => {
+                    let meep = document.getElementsByClassName("pok-card-small"),
+                    zoombox = document.getElementById("zoom-card-box");
+                   
+                    if (meep.length > 0) { for (let i of meep) {
+                      i.onclick = () => {
+                        let clone = i.cloneNode();
+                        clone.className = "";
+                        zoombox.innerHTML = "";
+                        zoombox.appendChild(clone);
+                        zoombox.className = "show";
+                      };
+                    }}
+                   
+                    zoombox.onclick = () => {
+                      zoombox.className = "";
+                    };
+                  });
             })
         }
 
@@ -1778,6 +1868,24 @@ function displayList6(array = []) {
                         cardSpace.remove();
                     })
                 }
+                document.querySelectorAll('.pokemon-card').forEach(card => {
+                    let meep = document.getElementsByClassName("pok-card-small"),
+                    zoombox = document.getElementById("zoom-card-box");
+                   
+                    if (meep.length > 0) { for (let i of meep) {
+                      i.onclick = () => {
+                        let clone = i.cloneNode();
+                        clone.className = "";
+                        zoombox.innerHTML = "";
+                        zoombox.appendChild(clone);
+                        zoombox.className = "show";
+                      };
+                    }}
+                   
+                    zoombox.onclick = () => {
+                      zoombox.className = "";
+                    };
+                  });
             })
         }
 
@@ -1900,6 +2008,24 @@ function displayList7(array = []) {
                         cardSpace.remove();
                     })
                 }
+                document.querySelectorAll('.pokemon-card').forEach(card => {
+                    let meep = document.getElementsByClassName("pok-card-small"),
+                    zoombox = document.getElementById("zoom-card-box");
+                   
+                    if (meep.length > 0) { for (let i of meep) {
+                      i.onclick = () => {
+                        let clone = i.cloneNode();
+                        clone.className = "";
+                        zoombox.innerHTML = "";
+                        zoombox.appendChild(clone);
+                        zoombox.className = "show";
+                      };
+                    }}
+                   
+                    zoombox.onclick = () => {
+                      zoombox.className = "";
+                    };
+                  });
             })
         }
 
@@ -2022,6 +2148,24 @@ function displayList8(array = []) {
                         cardSpace.remove();
                     })
                 }
+                document.querySelectorAll('.pokemon-card').forEach(card => {
+                    let meep = document.getElementsByClassName("pok-card-small"),
+                    zoombox = document.getElementById("zoom-card-box");
+                   
+                    if (meep.length > 0) { for (let i of meep) {
+                      i.onclick = () => {
+                        let clone = i.cloneNode();
+                        clone.className = "";
+                        zoombox.innerHTML = "";
+                        zoombox.appendChild(clone);
+                        zoombox.className = "show";
+                      };
+                    }}
+                   
+                    zoombox.onclick = () => {
+                      zoombox.className = "";
+                    };
+                  });
             })
         }
 
@@ -2144,6 +2288,24 @@ function displayList9(array = []) {
                         cardSpace.remove();
                     })
                 }
+                document.querySelectorAll('.pokemon-card').forEach(card => {
+                    let meep = document.getElementsByClassName("pok-card-small"),
+                    zoombox = document.getElementById("zoom-card-box");
+                   
+                    if (meep.length > 0) { for (let i of meep) {
+                      i.onclick = () => {
+                        let clone = i.cloneNode();
+                        clone.className = "";
+                        zoombox.innerHTML = "";
+                        zoombox.appendChild(clone);
+                        zoombox.className = "show";
+                      };
+                    }}
+                   
+                    zoombox.onclick = () => {
+                      zoombox.className = "";
+                    };
+                  });
             })
         }
 
