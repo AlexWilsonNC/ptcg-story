@@ -9,6 +9,7 @@ const natSelector2009 = document.querySelector('.open-country-nats2009');
 const natSelector2008 = document.querySelector('.open-country-nats2008');
 const natSelector2007 = document.querySelector('.open-country-nats2007');
 const natSelector2006 = document.querySelector('.open-country-nats2006');
+const natSelector2005 = document.querySelector('.open-country-nats2005');
 
 function showOtherNats() {
 
@@ -170,6 +171,20 @@ function showOtherNats2006() {
         document.querySelector('.hidden-nat2006-2').style.display = 'none';
     })
 }
+function showOtherNats2005() {
+
+    document.querySelector('.hidden-nat2005-1').style.display = 'block';
+    document.querySelector('.hidden-nat2005-2').style.display = 'block';
+
+
+    document.querySelector('.behind-modal3').style.display = 'block';
+
+    behind.addEventListener('click', () => {
+        behind.style.display = 'none';
+        document.querySelector('.hidden-nat2005-1').style.display = 'none';
+        document.querySelector('.hidden-nat2005-2').style.display = 'none';
+    })
+}
 
 const behind = document.querySelector('.behind-modal3');
 
@@ -184,3 +199,4 @@ natSelector2009.addEventListener('click', showOtherNats2009)
 natSelector2008.addEventListener('click', showOtherNats2008)
 natSelector2007.addEventListener('click', showOtherNats2007)
 natSelector2006.addEventListener('click', showOtherNats2006)
+natSelector2005.addEventListener('click', showOtherNats2005)
