@@ -1,0 +1,68 @@
+.conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list {
+    width: 80%;
+    height: auto;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: top;
+    margin-bottom: 25px;
+}
+.card {
+    height: 40px;
+    width: 350px;
+    border: 1px solid black;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;  
+    overflow: hidden;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.card-count,
+.card-name {
+    font-size: 16px;
+}
+.card-count {
+    width: 7%;
+}
+.card-name {
+    width: 48%;
+    white-space: nowrap;
+}
+.card img {
+    height: 100%;
+    width: 45%;
+    object-fit: cover;
+    object-position: 95% 20%;
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 10 90 100" xml:space="preserve"><style type="text/css">.blur{filter:url(%23softedge);}</style><filter id="softedge"><feGaussianBlur stdDeviation="3.5"></feGaussianBlur></filter><g class="blur"><rect x="10" y="10" width="80" height="100"/></g></svg>'); 
+}
+
+@media screen and (max-width: 390px) {
+    .list {
+        width: 100%;
+        height: auto;
+        padding: 0px;
+    }
+    .card {
+        height: 35px;
+        width: 280px;
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    
+    }
+    .card-count,
+.card-name {
+    font-size: 10px;
+}
+}
