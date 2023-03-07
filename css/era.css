@@ -797,16 +797,46 @@ margin-top: auto;
     opacity: 0;
     transition: opacity ease 0.3s;
   }
+#zoom-card-box-break {
+    position: fixed; z-index: 1999;
+    height: 100vh;
+    width: 100vw;
+    top: 0; left: 0;
    
+    background: rgba(0, 0, 0, 0.9);
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity ease 0.3s;
+  }
+
   #zoom-card-box.show {
     visibility: visible;
     opacity: 1;
   }
+  #zoom-card-box-break.show {
+    visibility: visible;
+    opacity: 1;
+  }
+  .poke-break {
+    transform: rotate(90deg);
+  }
+
    
   #zoom-card-box img {
     width: auto;
     height: 90%;
     object-fit: cover;
+  }
+  #zoom-card-box-break img {
+    width: auto;
+    height: 90%;
+    object-fit: cover;
+    margin-left: -15px;
   }
   @media screen and (max-width: 700px) {
     #zoom-card-box img {
@@ -961,6 +991,9 @@ margin-top: auto;
     .weak-resist {
         width: 70%;
     }
+    #zoom-card-box-break img {
+        height: 70%;
+      }
 }
 @media screen and (max-width: 900px) {
     .top-era-selector {
@@ -1031,6 +1064,9 @@ margin-top: auto;
         max-width: 80%;
         font-size: 12px;
     }
+    #zoom-card-box-break img {
+        height: 50%;
+      }
 }
 @media screen and (max-width: 550px) {
     .top-era-selector h2 {
@@ -1156,6 +1192,9 @@ margin-top: auto;
         margin-top: -4px;
         font-size: 10px;
     }
+    #zoom-card-box-break img {
+        height: 47%;
+      }
 }
 @media screen and (max-width: 462px) {
     .specific-format h3,
@@ -1171,6 +1210,9 @@ margin-top: auto;
         font-size: 9px;
         margin-bottom: 3px;
     }
+    #zoom-card-box-break img {
+        height: 42%;
+      }
 }
 @media screen and (max-width: 400px) {
     .format-sets-promo img {
@@ -1179,15 +1221,23 @@ margin-top: auto;
         margin-top: 10px;
         margin-right: 10px;
     }
+    #zoom-card-box-break img {
+        height: 38%;
+        margin-left: 0px;
+      }
 }
 @media screen and (max-width: 385px) {
     .toc-top-box h2 {
         padding: 6px 35px;
         font-size: 14px;
     }
+    #zoom-card-box-break img {
+        height: 38%;
+      }
 }
-/* @media screen and (max-width: 380px) {
-    .format h3 {
-        font-size: 11px;
-    }
-} */
+@media screen and (max-width: 366px) {
+    #zoom-card-box-break img {
+        height: 35%;
+        margin-left: -20px;
+      }
+}

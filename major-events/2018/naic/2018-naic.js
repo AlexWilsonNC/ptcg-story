@@ -785,7 +785,8 @@ let masters = [
     deck: [
       {
         cardImg: '../../../assets/cards/2018-17/yveltal-break.png',
-        numImg: '../../../assets/02.png'
+        numImg: '../../../assets/02.png',
+        // breakCard: true
       },
       {
         cardImg: '../../../assets/cards/2018-17/yveltal.png',
@@ -3360,7 +3361,8 @@ let masters = [
     deck: [
       {
         cardImg: '../../../assets/cards/2018-17/yveltal-break.png',
-        numImg: '../../../assets/03.png'
+        numImg: '../../../assets/03.png',
+        // breakCard: true
       },
       {
         cardImg: '../../../assets/cards/2018-17/yveltal.png',
@@ -5574,6 +5576,10 @@ function displayList(array = []) {
           pokeCard.classList.add('pok-card-small')
           pokeCard.setAttribute('src', deck.cardImg);
 
+          // if (deck.breakCard === true) {
+          //   pokeCard.classList.add('poke-break')
+          // }
+
           let numberCounter = document.createElement('img');
           numberCounter.classList.add('num-1')
           numberCounter.setAttribute('src', deck.numImg);
@@ -5596,6 +5602,7 @@ function displayList(array = []) {
         document.querySelectorAll('.pokemon-card').forEach(card => {
           let meep = document.getElementsByClassName("pok-card-small"),
           zoombox = document.getElementById("zoom-card-box");
+          zoomboxBreak = document.getElementById("zoom-card-box-break");
          
           if (meep.length > 0) { for (let i of meep) {
             i.onclick = () => {
@@ -5606,10 +5613,27 @@ function displayList(array = []) {
               zoombox.className = "show";
             };
           }}
+
+          // const pokeBreak = document.getElementsByClassName("break-pokemon");
+
+          // if (pokeBreak.length > 0) {
+          //   for (let i of pokeBreak) {
+          //     i.onclick = () => {
+          //       let clone = i.cloneNode();
+          //       clone.className = "poke-break";
+          //       zoomboxBreak.innerHTML = "";
+          //       zoomboxBreak.appendChild(clone);
+          //       zoomboxBreak.className = "show";
+          //     };
+          //   }
+          // }
          
           zoombox.onclick = () => {
             zoombox.className = "";
           };
+          // zoomboxBreak.onclick = () => {
+          //   zoomboxBreak.className = "";
+          // };
         });
       })
     }
