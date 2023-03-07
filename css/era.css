@@ -824,6 +824,7 @@ margin-top: auto;
   }
   .poke-break {
     transform: rotate(90deg);
+    /* transition: ease all 0.5s; */
   }
 
    
