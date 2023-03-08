@@ -547,10 +547,28 @@ li {
     flex-direction: column;
 }
 
+.bottom-options {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 15px;
+}
+.switcher-text {
+    background-color: rgb(132, 132, 132);
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 17px;
+    text-shadow: 1px 1px 2px black;
+}
+
 #modal-section {
     display: none;
 }
-
 .modal {
     width: 90%;
     max-height: 85vh;
@@ -568,7 +586,6 @@ li {
     z-index: 100;
     background-image: url(../assets/dark-bg.png) !important;
 }
-
 .modal-top {
     display: flex;
     justify-content: space-between;

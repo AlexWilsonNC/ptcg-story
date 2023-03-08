@@ -828,6 +828,7 @@ let boss = [
         numImg: '../../../assets/04.png'
       },
       {
+        cardName: 'Alcramie VMAX',
         cardImg: '../../../assets/cards/2021-2022/alcramie-vmax.png',
         numImg: '../../../assets/02.png'
       },
@@ -960,32 +961,6 @@ function displayList(array = []) {
         document.querySelector('.behind-modal').style.display = 'block';
         document.querySelector('.playerName').innerHTML = item.firstName + " - PC Invitational";
 
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == '') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
         for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];
 
@@ -1089,34 +1064,7 @@ for (let i = 0; i < array.length; i++) {
       document.querySelector('#modal-section').style.display = "flex";
       document.querySelector('.modal').style.display = 'block';
       document.querySelector('.behind-modal').style.display = 'block';
-                  document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Worlds";
-
-      if (item.type == 'psychic') {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-      } else if (item.type == 'fire') {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-      } else if (item.type == 'fairy') {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-      } else if (item.type == 'normal') {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-      } else if (item.type == 'lightning') {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-      } else if (item.type == 'dark') {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-      } else if (item.type == 'dragon') {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-      } else if (item.type == 'fighting') {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-      } else if (item.type == 'grass') {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-      } else if (item.type == 'metal') {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-      } else if (item.type == 'water') {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-      } else {
-        document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-      }
-
+                  document.querySelector('.playerName').innerHTML = item.firstName + " - PC Invitational";
       
       for (let i = 0; i < item.deck.length; i++) {
         let deck = item.deck[i];
@@ -1146,6 +1094,24 @@ for (let i = 0; i < array.length; i++) {
           behind.style.display = 'none';
           cardSpace.remove();
         })
+        document.querySelectorAll('.pokemon-card').forEach(card => {
+          let meep = document.getElementsByClassName("pok-card-small"),
+          zoombox = document.getElementById("zoom-card-box");
+         
+          if (meep.length > 0) { for (let i of meep) {
+            i.onclick = () => {
+              let clone = i.cloneNode();
+              clone.className = "";
+              zoombox.innerHTML = "";
+              zoombox.appendChild(clone);
+              zoombox.className = "show";
+            };
+          }}
+         
+          zoombox.onclick = () => {
+            zoombox.className = "";
+          };
+        });
       }
     })
   }
@@ -1155,6 +1121,7 @@ for (let i = 0; i < array.length; i++) {
 }
 
 const modal = document.querySelector('.modal');
+const switcher = document.querySelector('.modal-switcher');
 const modalX = document.querySelector('.modal-x');
 const behind = document.querySelector('.behind-modal');
 
