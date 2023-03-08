@@ -1,10 +1,5 @@
-.conteiner {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 .list {
-    width: 80%;
+    width: 100%;
     height: auto;
     padding: 5px;
     display: flex;
@@ -15,9 +10,11 @@
 }
 .card,
 .card-45,
-.card-25 {
+.card-25,
+.card-base-trainer,
+.card-base-energy {
     height: 45px;
-    width: 325px;
+    width: 300px;
     border: 1px solid black;
     background-color: white;
     margin: 4px 7px;
@@ -66,6 +63,20 @@
     width: 50%;
     object-fit: cover;
     object-position: 13px 25%;
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 10 49 100" xml:space="preserve"><style type="text/css">.blur{filter:url(%23softedge);}</style><filter id="softedge"><feGaussianBlur stdDeviation="4"></feGaussianBlur></filter><g class="blur"><rect x="14" y="10" width="80" height="100"/></g></svg>'); 
+}
+.card-base-trainer img {
+    height: 100%;
+    width: 50%;
+    object-fit: cover;
+    object-position: 13px 40%;
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 10 49 100" xml:space="preserve"><style type="text/css">.blur{filter:url(%23softedge);}</style><filter id="softedge"><feGaussianBlur stdDeviation="4"></feGaussianBlur></filter><g class="blur"><rect x="14" y="10" width="80" height="100"/></g></svg>'); 
+}
+.card-base-energy img {
+    height: 100%;
+    width: 50%;
+    object-fit: cover;
+    object-position: 13px 65%;
     -webkit-mask-image: url('data:image/svg+xml;utf8,<svg preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 10 49 100" xml:space="preserve"><style type="text/css">.blur{filter:url(%23softedge);}</style><filter id="softedge"><feGaussianBlur stdDeviation="4"></feGaussianBlur></filter><g class="blur"><rect x="14" y="10" width="80" height="100"/></g></svg>'); 
 }
 

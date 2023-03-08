@@ -550,8 +550,8 @@ li {
 .bottom-options {
     display: flex;
     justify-content: space-between;
-    width: 100%;
-    margin-top: 15px;
+    width: 90%;
+    margin-top: -35px;
 }
 .switcher-text {
     background-color: rgb(132, 132, 132);
@@ -560,6 +560,8 @@ li {
     justify-content: space-around;
     align-items: center;
     padding: 10px 15px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.518);
     border-radius: 10px;
     font-weight: bold;
     font-size: 17px;
