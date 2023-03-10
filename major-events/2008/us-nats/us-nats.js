@@ -1122,7 +1122,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Tad W', // luke sherman?
+    firstName: 'Luke Sherman', // tad w?
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',

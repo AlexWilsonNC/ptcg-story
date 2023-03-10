@@ -639,7 +639,7 @@ let juniors = [
     ]
   },
   {
-    firstName: 'Geoffrey Sauk',
+    firstName: 'Andrew Krekeler',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
@@ -654,7 +654,7 @@ let juniors = [
     ]
   },
   {
-    firstName: '--',
+    firstName: 'Geoffrey Sauk',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
