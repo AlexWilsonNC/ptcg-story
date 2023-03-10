@@ -1122,7 +1122,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Tad W',
+    firstName: 'Tad W', // luke sherman?
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
@@ -1245,7 +1245,7 @@ let juniors = [
     ]
   },
   {
-    firstName: 'Jason C',
+    firstName: 'Jason Cross',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',

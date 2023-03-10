@@ -810,6 +810,66 @@ let masters = [
 
 let seniors = [
   {
+    firstName: 'Bobby Malec',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Jonathan Bristow',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/flareon.png',
+    sprite2: '../../../assets/sprites/ariados.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Pablo Kingsley',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/nidoqueen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Blaine Dollar',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/dragonite.png',
+    sprite2: '../../../assets/sprites/electrode.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
     firstName: 'Jeff V',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/tyranitar.png',
@@ -870,21 +930,6 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Blaine D',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/dragonite.png',
-    sprite2: '../../../assets/sprites/electrode.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
     firstName: 'Patrick T',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/metagross.png',
@@ -919,21 +964,6 @@ let seniors = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/ludicolo.png',
     sprite2: '../../../assets/sprites/magcargo.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Pablo K',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/nidoqueen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -1005,36 +1035,6 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Jonathan B',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/flareon.png',
-    sprite2: '../../../assets/sprites/ariados.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Bobby Malec',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/lugia.png',
-    sprite2: '../../../assets/sprites/blastoise.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
     firstName: 'Matt L',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/flareon.png',
@@ -1068,7 +1068,7 @@ let juniors = [
     ]
   },
   {
-    firstName: 'Dave R',
+    firstName: 'Dave Richard',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/banette.png',
@@ -1083,7 +1083,7 @@ let juniors = [
     ]
   },
   {
-    firstName: 'Ben C',
+    firstName: 'Ben Capriola',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/lunatone.png',
     sprite2: '../../../assets/sprites/solrock.png',
@@ -1098,7 +1098,7 @@ let juniors = [
     ]
   },
   {
-    firstName: 'Matt S',
+    firstName: 'Matt Sbaa',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/flareon.png',
     sprite2: '../../../assets/sprites/ariados.png',
