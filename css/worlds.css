@@ -936,6 +936,40 @@ li {
     object-fit: cover;
 }
 
+.book-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+.booklet {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.booklet-set,
+.booklet-set-large,
+.booklet-set-indiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+.booklet-set img {
+    width: 20%;
+    margin: 7.5px 5px;
+    box-shadow: 2px 2px 4px black;
+}
+.booklet-set-large img {
+    width: 60%;
+    margin: 7.5px 0px;
+    box-shadow: 2px 2px 4px black;
+}
+.booklet-set-indiv img {
+    height: 300px; width: auto;
+    margin: 7.5px 0px;
+    box-shadow: 2px 2px 4px black;
+}
+
 @media screen and (max-width: 700px) {
     #zoom-card-box img {
         height: 70%;
@@ -1001,6 +1035,9 @@ li {
 
     .prize-zone {
         width: 80%;
+    }
+    .booklet-set img {
+        width: 30%;
     }
 
     .results-left {
@@ -1152,6 +1189,9 @@ li {
         border: 1.5px solid black;
         border-radius: 4px;
     }
+.booklet-set-indiv img {
+    height: 250px; width: auto;
+}
 
     .worlds-box p,
     .alternate-formats p {
@@ -1463,6 +1503,11 @@ li {
     }
 }
 
+@media screen and (max-width: 670px) {
+    .booklet-set-indiv img {
+    height: 220px; width: auto;
+    }
+}
 @media screen and (max-width: 620px) {
     .modal {
         width: 80%;
@@ -1530,6 +1575,13 @@ li {
         width: 280px;
         height: auto;
         opacity: 0.4;
+    }
+    .booklet-set img {
+        width: 40%;
+        margin: 7.5px 2px;
+    }
+    .booklet-set-large img {
+        width: 70%;
     }
 }
 
@@ -1673,7 +1725,11 @@ li {
         font-size: 14px;
     }
 }
-
+@media screen and (max-width: 500px) {
+    .booklet-set-indiv img {
+    height: 180px; width: auto;
+    }
+}
 @media screen and (max-width: 430px) {
     .auto-day2-area2 ol {
         margin-left: 30px;
@@ -1694,7 +1750,9 @@ li {
         width: 19px;
         height: auto;
     }
-
+ .booklet-set-indiv img {
+    height: 160px; width: auto;
+    }
     /* .sprite,
     .second-sprite {
         width: 48px;
@@ -1712,6 +1770,9 @@ li {
     }
     .hidden-cast {
         width: 100%;
+    }
+    .worlds-booklet-text {
+        font-size: 20px;
     }
 }
 @media screen and (max-width: 368px) {
