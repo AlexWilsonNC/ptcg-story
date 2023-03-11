@@ -967,7 +967,7 @@ li {
     box-shadow: 2px 2px 4px black;
 }
 .booklet-set-indiv img {
-    height: 300px; width: auto;
+    height: 425px; width: auto;
     margin: 7.5px 0px;
     box-shadow: 2px 2px 4px black;
 }
@@ -1192,7 +1192,7 @@ li {
         border-radius: 4px;
     }
 .booklet-set-indiv img {
-    height: 250px; width: auto;
+    height: 300px; width: auto;
 }
 
     .worlds-box p,
@@ -1507,7 +1507,7 @@ li {
 
 @media screen and (max-width: 670px) {
     .booklet-set-indiv img {
-    height: 220px; width: auto;
+    height: 250px; width: auto;
     }
 }
 @media screen and (max-width: 620px) {
@@ -1729,7 +1729,7 @@ li {
 }
 @media screen and (max-width: 500px) {
     .booklet-set-indiv img {
-    height: 180px; width: auto;
+    height: 225px; width: auto;
     }
 }
 @media screen and (max-width: 430px) {
@@ -1753,7 +1753,7 @@ li {
         height: auto;
     }
  .booklet-set-indiv img {
-    height: 160px; width: auto;
+    height: 200px; width: auto;
     }
     /* .sprite,
     .second-sprite {
