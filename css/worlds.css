@@ -949,6 +949,9 @@ li {
     flex-wrap: wrap;
     flex-direction: column;
 }
+.contrasted img {
+    filter: contrast(1.2);     
+}
 .booklet-set,
 .booklet-set-large,
 .booklet-set-indiv {
