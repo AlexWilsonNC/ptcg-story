@@ -214,7 +214,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -339,7 +339,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -354,7 +354,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -369,7 +369,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -484,7 +484,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -499,7 +499,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -514,7 +514,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -529,7 +529,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -544,7 +544,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -559,7 +559,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -574,7 +574,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -589,7 +589,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -604,7 +604,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -619,7 +619,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -634,7 +634,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -649,7 +649,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -664,7 +664,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -679,7 +679,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -694,7 +694,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -709,7 +709,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -724,7 +724,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -739,7 +739,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -754,7 +754,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -769,7 +769,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -784,7 +784,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -799,7 +799,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -814,7 +814,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -829,7 +829,7 @@ let masters = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/03.png',
         oldCard: true
       },
@@ -1237,7 +1237,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1252,7 +1252,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1267,7 +1267,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1282,7 +1282,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1297,7 +1297,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1312,7 +1312,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1327,7 +1327,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1342,7 +1342,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1357,7 +1357,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1366,13 +1366,13 @@ let seniors = [
   {
     firstName: 'Tracy Cho',
     flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/typhlosion.png',
+    sprite2: '../../assets/sprites/moltres.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1387,7 +1387,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1402,7 +1402,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1417,7 +1417,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1427,13 +1427,88 @@ let seniors = [
     firstName: 'Nicholas Chimento',
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    sprite2: '../../assets/sprites/ampharos.png',
+    list: '../../assets/list-icon.png',
+    type: 'lightning',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil/n3.001.ampharos.jpg',
         numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n3.028.flaaffy.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.065.mareep.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.012.pichu_.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/wizards_black_star_promos.023.zapdos.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n2.053.caterpie.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.100.double_gust.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.077.pokemon_trader.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.076.pokemon_breeder.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.086.focus_band.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.093.gold_berry.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.100.lightning_energy.jpg',
+        numImg: '../../assets/16.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.104.darkness_energy.jpg',
+        numImg: '../../assets/01.png',
         oldCard: true
       },
     ]
@@ -1447,7 +1522,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1462,7 +1537,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1471,13 +1546,13 @@ let seniors = [
   {
     firstName: 'Jose Eguia',
     flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/blastoise.png',
+    sprite2: '../../assets/sprites/steelix.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1492,7 +1567,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1501,13 +1576,13 @@ let seniors = [
   {
     firstName: 'Darian Gonzalez',
     flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/feraligatr.png',
+    sprite2: '../../assets/sprites/parasect.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1522,7 +1597,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1537,7 +1612,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1552,7 +1627,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1567,7 +1642,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1582,7 +1657,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1597,7 +1672,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1606,13 +1681,13 @@ let seniors = [
   {
     firstName: 'Jared Biehl',
     flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/blastoise.png',
+    sprite2: '../../assets/sprites/steelix.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1621,13 +1696,13 @@ let seniors = [
   {
     firstName: 'Orion Craig',
     flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/entei.png',
+    sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1642,7 +1717,7 @@ let seniors = [
     type: '',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil/',
+        cardImg: '../../assets/cards/base-fossil',
         numImg: '../../assets/04.png',
         oldCard: true
       },
@@ -1905,7 +1980,7 @@ let juniors = [
     firstName: 'Heidi Craig',
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/zapdos.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
@@ -1914,7 +1989,7 @@ let juniors = [
     firstName: 'Dakota Williams',
     flag: '../../assets/flags/unknown.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/clefable.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
@@ -1986,10 +2061,116 @@ let juniors = [
     firstName: 'John Chimento',
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/sprites/zapdos.png',
+    list: '../../assets/list-icon.png',
     type: 'dark',
-    deck: []
+    deck: [
+      {
+        cardImg: '../../assets/cards/base-fossil/g2.015.rockets_zapdos.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n2.040.igglybuff.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n2.066.tyrogue.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/ju.038.lickitung.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.075.lass_.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/wizards_black_star_promos.042.pokemon_tower.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/g1.126.trash_exchange.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.093.gold_berry.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.100.lightning_energy.jpg',
+        numImg: '../../assets/10.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.019.metal_energy.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+    ]
   },
   {
     firstName: 'Matthew Yuen',
@@ -2261,9 +2442,9 @@ let juniors = [
   },
   {
     firstName: 'Roy Robertson',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/blissey.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
@@ -2279,9 +2460,9 @@ let juniors = [
   },
   {
     firstName: 'Steve Perucca',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/charizard.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
