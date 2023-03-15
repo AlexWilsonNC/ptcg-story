@@ -507,7 +507,7 @@ let masters = [
   },
   {
     firstName: 'David Hausknecht', //https://www.pojo.com/DeckGarage/Decks/August2002/PokemonPosts/My%20Ultimate%20Worlds%20Experience.htm
-    flag: '../../assets/flags/usa.png',
+    flag: '../../assets/flags/unknown.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/list-icon.png',
@@ -2082,7 +2082,7 @@ let juniors = [
   },
   {
     firstName: 'Dakota Williams',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/clefable.png',
     list: '../../assets/sprites/blank.png',
