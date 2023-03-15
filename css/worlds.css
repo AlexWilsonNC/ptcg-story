@@ -281,6 +281,8 @@
 .worlds-loc {
     width: 100%;
     border-radius: 10px;
+    border: 2px solid black;
+
 }
 
 .prizing-header {
@@ -1395,6 +1397,7 @@ li {
     .worlds-loc2 {
         width: 200px;
         border-radius: 10px;
+        border: 1px solid black;
     }
 
     .hidden-loc {
