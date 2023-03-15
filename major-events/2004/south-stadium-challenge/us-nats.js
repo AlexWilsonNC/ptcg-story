@@ -6,24 +6,9 @@ const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
   {
-    firstName: 'Eric Virgen',
+    firstName: 'Denise Barlock',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blaziken.png',
-    sprite2: '../../../assets/sprites/rayquaza.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Chad H',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/metagross.png',
+    sprite1: '../../../assets/sprites/crobat.png',
     sprite2: '../../../assets/sprites/gorebyss.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
@@ -36,7 +21,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Kevin Tran',
+    firstName: 'Robert Eguia',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/gardevoir.png',
@@ -51,10 +36,10 @@ let masters = [
     ]
   },
   {
-    firstName: 'Chris Silver',
+    firstName: 'Dana Lynch',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blaziken.png',
-    sprite2: '../../../assets/sprites/rayquaza.png',
+    sprite2: '../../../assets/sprites/salamence.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -66,193 +51,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Ryan W',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blaziken.png',
-    sprite2: '../../../assets/sprites/rayquaza.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Chung L ',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blaziken.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: '--',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: '--',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-]
-
-let seniors = [
-  {
-    firstName: 'Stuart B',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/gardevoir.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Mike C',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blaziken.png',
-    sprite2: '../../../assets/sprites/rayquaza.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Jon Brooks',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/shiftry.png',
-    sprite2: '../../../assets/sprites/ninetales.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Andrew Knaack',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blaziken.png',
-    sprite2: '../../../assets/sprites/rayquaza.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: 'Ross Cawthon',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/salamence.png',
-    sprite2: '../../../assets/sprites/metagross.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: '--',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: '--',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-  {
-    firstName: '--',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
-      },
-    ]
-  },
-]
-
-let juniors = [
-  {
-    firstName: 'Rachael B',
+    firstName: 'Pat Kennedy',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/lanturn.png',
@@ -267,10 +66,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'Reed W',
+    firstName: 'Devin Jackson',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/swampert.png',
+    sprite2: '../../../assets/sprites/shiftry.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -282,9 +81,297 @@ let juniors = [
     ]
   },
   {
-    firstName: 'Josh G',
+    firstName: 'Brad Allred',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/muk.png',
+    sprite1: '../../../assets/sprites/blaziken.png',
+    sprite2: '../../../assets/sprites/rayquaza.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'John Kettler',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blaziken.png',
+    sprite2: '../../../assets/sprites/rayquaza.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Danny Fish',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blaziken.png',
+    sprite2: '../../../assets/sprites/rayquaza.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'William Hung',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/exploud.png',
+    list: '../../../assets/list-icon.png',
+    type: 'psychic',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.006.exploud.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.039.loudred.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.082.whismur.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/wobbuffet-safegaurd.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/ss.054.wynaut.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/copycat.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/stevens-advice.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/mr-briney-compassion-e-reader.png',
+        numImg: '../../../assets/02.png'
+      },
+            {
+        cardImg: '../../../assets/cards/e-reader/oracle.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/nurse.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pokemon-reversal-e-reader.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rare-candy-e-reader.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/friend-ball.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.085.ancient_technical_machine_rock.jpg',
+        numImg: '../../../assets/04.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/desert-ruins.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.101.psychic_energy.jpg',
+        numImg: '../../../assets/12.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/boost-energy.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+]
+
+let seniors = [
+  {
+    firstName: 'Tyler Ninomura',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Aaron Curry',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blaziken.png',
+    sprite2: '../../../assets/sprites/rayquaza.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Jordan D',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blaziken.png',
+    sprite2: '../../../assets/sprites/ninetales.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Ryan Soles',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blaziken.png',
+    sprite2: '../../../assets/sprites/rayquaza.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Zach Simmons',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/metagross.png',
+    sprite2: '../../../assets/sprites/gorebyss.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Andrew L',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blaziken.png',
+    sprite2: '../../../assets/sprites/rayquaza.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Dylan L',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blaziken.png',
+    sprite2: '../../../assets/sprites/rayquaza.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'Heather L',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/gardevoir.png',
+    sprite2: '../../../assets/sprites/milotic.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+]
+
+let juniors = [
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/metagross.png',
     sprite2: '../../../assets/sprites/wobbuffet.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
@@ -297,10 +384,25 @@ let juniors = [
     ]
   },
   {
-    firstName: 'Patrick W',
+    firstName: '--',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/machamp.png',
-    sprite2: '../../../assets/sprites/aggron.png',
+    sprite1: '../../../assets/sprites/ampharos.png',
+    sprite2: '../../../assets/sprites/lanturn.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2004-2006',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/metagross.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -360,7 +462,7 @@ function displayList(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 US Nats";
+        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 SCS";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -502,7 +604,7 @@ function displayList2(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 US Nats";
+        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 SCS";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -643,7 +745,7 @@ function displayList3(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 US Nats";
+        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 SCS";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
