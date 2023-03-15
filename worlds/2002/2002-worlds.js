@@ -491,7 +491,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Drew Holton',
+    firstName: 'Drew Holton', //https://www.pojo.com/DeckGarage/Decks/August2002/PokemonPosts/My%20Ultimate%20Worlds%20Experience.htm
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
