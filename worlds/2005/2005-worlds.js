@@ -1717,7 +1717,7 @@ let seniors = [
       ]
     },
     {
-      firstName: 'Paris Garavaglia',
+      firstName: 'Paris Garavaglia', //www.pojo.com/KillerDecks/2004/Worlds%202004%20Tourney%20Report%20for%20Hedge.htm
       flag: '../../assets/flags/usa.png',
       sprite1: '../../assets/sprites/blastoise.png',
       sprite2: '../../assets/sprites/deoxys.png',

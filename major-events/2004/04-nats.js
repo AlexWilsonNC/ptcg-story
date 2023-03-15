@@ -897,9 +897,183 @@ let sixEvent = [
 
 let sevenEvent = [
     {
-        firstName: 'eeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
+        firstName: 'Ivan Grixti',
+        sprite1: '../../assets/sprites/espeon.png',
+        sprite2: '../../assets/sprites/hitmonchan.png',
+        // // list../../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        // list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2004-2006',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Carlos Cachia',
+        sprite1: '../../assets/sprites/aerodactyl.png',
+        sprite2: '../../assets/sprites/egg.png',
+        // // list../../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        // list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2004-2006',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Alexander Farrugia', //https://www.pojo.com/KillerDecks/2004/National%20Malta%20Pokemon%20Tournament.htm
+        sprite1: '../../assets/sprites/wigglytuff.png',
+        sprite2: '../../assets/sprites/scyther.png',
+        list: '../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/base-fossil/ju.032.wigglytuff.jpg',
+                numImg: '../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/ju.054.jigglypuff.jpg',
+                numImg: '../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/ju.026.scyther.jpg',
+                numImg: '../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+                numImg: '../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/g2.069.erikas_jigglypuff.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/g1.042.erikas_dratini.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/n1.012.pichu_.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/n2.066.tyrogue.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
+                numImg: '../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/bs.071.computer_search.jpg',
+                numImg: '../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/bs.074.item_finder.jpg',
+                numImg: '../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/bs.079.super_energy_removal.jpg',
+                numImg: '../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/bs.084.pluspower.jpg',
+                numImg: '../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
+                numImg: '../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/e-reader/aq.130.pokemon_fan_club.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/n1.085.energy_charge.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/bs.095.switch.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/n1.086.focus_band.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/n1.093.gold_berry.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/dr.086.low_pressure_system.jpg',
+                numImg: '../../assets/01.png',
+                radiusCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/bs.099.grass_energy.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
+                numImg: '../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/n1.105.recycle_energy.jpg',
+                numImg: '../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/e-reader/boost-energy.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/e-reader/warp-energy.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+        ]
+    },
+    {
+        firstName: 'Glenn Steer',
+        sprite1: '../../assets/sprites/swampert.png',
+        sprite2: '../../assets/sprites/wailord.png',
         // // list../../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         // list: '../../assets/sprites/blank.png',
@@ -1831,7 +2005,7 @@ function displayList7(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Denmark Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 Malta Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
