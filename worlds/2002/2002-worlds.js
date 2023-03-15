@@ -491,7 +491,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Drew Holton', //https://www.pojo.com/DeckGarage/Decks/August2002/PokemonPosts/My%20Ultimate%20Worlds%20Experience.htm
+    firstName: 'Drew Holton',
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
@@ -506,15 +506,110 @@ let masters = [
     ]
   },
   {
-    firstName: 'David Hausknecht',
-    flag: '../../assets/flags/unknown.png',
+    firstName: 'David Hausknecht', //https://www.pojo.com/DeckGarage/Decks/August2002/PokemonPosts/My%20Ultimate%20Worlds%20Experience.htm
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    sprite2: '../../assets/sprites/blastoise.png',
+    list: '../../assets/list-icon.png',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../assets/cards/base-fossil',
+        cardImg: '../../assets/cards/base-fossil/ro.003.dark_blastoise.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/lc.039.dark_wartortle.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.063.squirtle.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n2.066.tyrogue.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.022.elekid.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n3.049.qwilfish.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.091.bill_.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.100.double_gust.jpg',
+        numImg: '../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.077.pokemon_trader.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/ro.073.the_bosss_way.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.090.time_capsule.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.093.gold_berry.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.086.focus_band.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n3.061.healing_field.jpg',
+        numImg: '../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n3.063.rockets_hideout.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/bs.102.water_energy.jpg',
+        numImg: '../../assets/10.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.104.darkness_energy.jpg',
+        numImg: '../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/base-fossil/n1.019.metal_energy.jpg',
         numImg: '../../assets/03.png',
         oldCard: true
       },
