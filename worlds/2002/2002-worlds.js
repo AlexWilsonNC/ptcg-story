@@ -2926,7 +2926,7 @@ function displayList3(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2002 Worlds";
+        document.querySelector('.playerName').innerHTML = item.firstName + " - 2002 Worlds PC";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
