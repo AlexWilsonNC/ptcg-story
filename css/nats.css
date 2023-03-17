@@ -54,6 +54,7 @@
     display: flex;
     text-align: center;
     justify-content: space-between;
+    text-shadow: 1px 1px 3px black;
   }
   .collapsible2 {
     background-color: #777;
@@ -82,6 +83,7 @@
     display: flex;
     text-align: center;
     justify-content: space-between;
+    text-shadow: 1px 1px 3px black;
   }
   
   .hello, .collapsible:hover {
@@ -100,6 +102,7 @@
     font-weight: bold;
     float: right;
     margin-left: 5px;
+    text-shadow: 1px 1px 3px black;
   }
   .collapsible2:after {
     content: '\002B';
@@ -107,6 +110,7 @@
     font-weight: bold;
     float: right;
     margin-left: 5px;
+    text-shadow: 1px 1px 3px black;
   }
   
   .hello:after {
