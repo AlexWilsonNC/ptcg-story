@@ -94,6 +94,9 @@
     background-color: #555;
     /* color: rgb(187, 173, 45); */
   }
+  .hello, .collapsible2:hover {
+    filter:grayscale(1);
+  }
   
   .collapsible:after,
   .collapsible-alt:after {
