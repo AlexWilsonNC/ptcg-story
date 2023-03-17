@@ -55,6 +55,20 @@
     text-align: center;
     justify-content: space-between;
   }
+  .collapsible2 {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 60%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+  }
   .collapsible-alt {
     background-color: rgb(157, 157, 157);
     color: white;
@@ -87,6 +101,13 @@
     float: right;
     margin-left: 5px;
   }
+  .collapsible2:after {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
   
   .hello:after {
     content: "\2212";
@@ -103,6 +124,15 @@
   }
   .country-content h4 {
     margin-left: -20px;
+  }
+
+  .country-content2 {
+    padding: 0px 5px 0px 30px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #f1f1f1;
+    width:57%;
   }
 
 .light-set {
@@ -293,6 +323,7 @@
     margin-top: -15px;
     margin-left: 10px;
 }
+
 @media screen and (max-width: 1400px) {
     .stipeds-left,
     .stipeds-right {
@@ -305,6 +336,14 @@
     .country-content {
         width:40%;
       }
+}
+@media screen and (max-width: 1200px) {
+    .collapsible2 {
+        width: 70%;
+      }
+    .country-content2 {
+        width: 66%;
+    }
 }
 @media screen and (max-width: 1164px) {
     .nats-box,
@@ -427,6 +466,17 @@
     .stipeds-right {
         text-align: center;
     }
+    .collapsible2 {
+        width: 80%;
+      }
+    .country-content2 {
+        width: 74%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .country-content2 h4 {
+        font-size: 14px;
+    }
 }
 @media screen and (max-width: 585px) {
     .country-box img {
@@ -449,6 +499,23 @@
     .country-content {
         width:75%;
       }
+    .collapsible2 {
+        width: 90%;
+    }
+    .country-content2 {
+        width: 83%;
+    }
+    .country-content2 a {
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .country-content2 {
+        padding: 0px 5px 0px 15px;
+    }
+    .country-content2 a {
+        font-size: 9px;
+    }
 }
 @media screen and (max-width: 530px) {
     .covid-award {
@@ -473,6 +540,14 @@
     }
     .country-name {
         margin-left: 10px;
+    }
+}
+@media screen and (max-width: 500px) {
+    .collapsible2 {
+        width: 92%;
+    }
+    .country-content2 {
+        width: 86%;
     }
 }
 @media screen and (max-width: 400px) {

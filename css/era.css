@@ -236,7 +236,6 @@
     padding: 20px 0px 10px;
     border-radius: 10px;
     background-color: transparent;
-    color:#fff;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -250,7 +249,7 @@
 .weakness-hr {
     width: 45%;
     margin: 10px 0px;
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid black;
     border-top: none;
 }
 .weak-resist {
@@ -263,25 +262,23 @@
     margin: 8px 0px;
     font-size: 20px;
 }
-.red-outline .rules-description {
-    width: 80%;
-    padding: 20px;
-}
 .parenthases {
     margin: -2px 0px 8px 25px;
     font-size: 18px;
-    color: white;
 }
 .format-era-txt {
     margin-top: -4px;
     margin-bottom: 20px;
     font-size: 18px;
-    color: white;
     text-align: center;
 }
 .heads-tails {
     margin: -2px 0px 8px 45px;
     font-size: 16px;
+}
+.red-outline .rules-description {
+    width: 80%;
+    padding: 20px;
 }
 
 .gradient-box {
@@ -452,6 +449,45 @@ margin-top: auto;
     color: white;
     margin-left: 15px;
     font-size: 18px;
+}
+@media screen and (max-width: 1435px) {
+    .reg-txt {
+        margin: 8px 0px;
+        font-size: 16px;
+    }
+    .parenthases {
+        margin: -2px 0px 8px 25px;
+        font-size: 15px;
+    }
+    .format-era-txt {
+        margin-top: -4px;
+        margin-bottom: 20px;
+        font-size: 15px;
+        text-align: center;
+    }
+    .heads-tails {
+        margin: -2px 0px 8px 45px;
+        font-size: 13px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .reg-txt {
+        margin: 8px 0px;
+        font-size: 14px;
+    }
+    .parenthases {
+        margin: -2px 0px 8px 25px;
+        font-size: 13px;
+    }
+    .format-era-txt {
+        margin-top: -4px;
+        margin-bottom: 20px;
+        font-size: 13px;
+    }
+    .heads-tails {
+        margin: -2px 0px 8px 45px;
+        font-size: 11px;
+    }
 }
 @media screen and (max-width: 950px) {
     .legal-promos,
@@ -697,42 +733,57 @@ margin-top: auto;
     cursor: pointer;
 }
 .dark-blue-bg {
-    background-image: linear-gradient(to top right, #000428 , #004e92);
-    /* transition: ease all 2s; */
-}
-.dark-augurn-bg {
-    background-image: linear-gradient(to top left, #aa076b , #61045f);
-}
-.dark-red-bg {
-    background-image: linear-gradient(to top right, rgb(169, 0, 0), rgb(218, 125, 4));
-}
-.dark-teal-bg {
-    background-image: linear-gradient(to top right, #614385, #516395);
-}
-.dark-orange-bg {
-    background-image: linear-gradient(to top left, rgb(208, 0, 219), rgb(230, 130, 0));
-}
-.dark-green-bg {
-    background-image: linear-gradient(to top right, rgb(0, 136, 91), rgb(0, 51, 191));
+    background-image: linear-gradient(to top right, #440000, #440000, #920000);
 }
 .dark-lightblue-bg {
-    background-image: linear-gradient(to top left, #004570 , #0093b4);
+    background-image: linear-gradient(to top right, #7c0000, #7c0000, #c80000);
+}
+.dark-red-bg {
+    background-image: linear-gradient(to top right, rgb(169, 42, 0), rgb(169, 42, 0), rgb(218, 125, 4));
+}
+.dark-orange-bg {
+    background-image: linear-gradient(to top right, rgb(165, 143, 0), rgb(165, 143, 0), rgb(255, 235, 15));
+}
+.dark-green-bg {
+    background-image: linear-gradient(to top right, rgb(57, 122, 0), rgb(57, 122, 0), rgb(137, 222, 0));
 }
 .dark-mauve-bg {
-    background-image: linear-gradient(to top left, #3e2158 , #85537e);
+    background-image: linear-gradient(to top right, #21583f, #215857, #28d2b6);
 }
-.dark-love-bg {
-    background-image: linear-gradient(to top left, #ffaf7b, #d76d77, #3a1c71);
+.dark-augurn-bg {
+    background-image: linear-gradient(to top right, #0748aa, #0748aa, #177fe7);
 }
 .dark-17-bg {
-    background-image: linear-gradient(to top right, #9600FF, #AEBAF8);
+    background-image: linear-gradient(to top right, #390c92, #390c92, #6d1af2);
+}
+.dark-love-bg {
+    background-image: linear-gradient(to top right, #5a0c92, #5a0c92, #981af2);
+}
+.dark-teal-bg {
+    background-image: linear-gradient(to top right, #9d2aa7, #9d2aa7, #f04cff);
+}
+.dark-blue-bg,
+.dark-lightblue-bg,
+.dark-red-bg,
+.dark-orange-bg,
+.dark-green-bg,
+.dark-mauve-bg,
+.dark-augurn-bg,
+.dark-17-bg,
+.dark-love-bg,
+.dark-teal-bg {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 .highlighted {
     background-color: rgba(128, 128, 128, 0.554);
     padding: 3px 4px;
     border-radius: 5px;
-    text-shadow: 2px 2px 5px black;
+    color: white;
+    text-shadow: 2px 2px 4px black;
 }
 
 .errata-img {
@@ -979,15 +1030,20 @@ margin-top: auto;
     }
     .reg-txt {
         margin: 8px 0px;
-        font-size: 17px;
+        font-size: 14px;
     }
     .parenthases {
         margin: -2px 0px 8px 25px;
-        font-size: 14px;
+        font-size: 13px;
+    }
+    .format-era-txt {
+        margin-top: -4px;
+        margin-bottom: 20px;
+        font-size: 13px;
     }
     .heads-tails {
         margin: -2px 0px 8px 45px;
-        font-size: 12px;
+        font-size: 11px;
     }
     .weak-resist {
         width: 70%;
@@ -1009,6 +1065,11 @@ margin-top: auto;
     .top-format-expanded-graphic h3 {
         font-size: 22px;
     } */
+    .meeple {
+        font-size: 12px;
+        max-width: 80%;
+        text-align: center;
+    }
     .specific-format,
     .expanded-format,
     .top-format-graphic,
@@ -1068,6 +1129,28 @@ margin-top: auto;
     #zoom-card-box-break img {
         height: 50%;
       }
+}
+@media screen and (max-width: 585px) {
+    .reg-txt {
+        margin: 8px 0px;
+        font-size: 12px;
+    }
+    .parenthases {
+        margin: -2px 0px 8px 25px;
+        font-size: 10px;
+    }
+    .format-era-txt {
+        margin-top: -4px;
+        margin-bottom: 20px;
+        font-size: 10px;
+    }
+    .heads-tails {
+        margin: -2px 0px 8px 45px;
+        font-size: 9px;
+    }
+    .meeple {
+        font-size: 10px;
+    }
 }
 @media screen and (max-width: 550px) {
     .top-era-selector h2 {
