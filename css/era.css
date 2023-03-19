@@ -766,6 +766,9 @@ margin-top: auto;
 .dark-teal-bg {
     background-image: linear-gradient(to top right, #9d2aa7, #9d2aa7, #f04cff);
 }
+.new-banned-color {
+    background-image: linear-gradient(to top right, #000925, #00509b);
+}
 .dark-blue-bg,
 .dark-lightblue-bg,
 .dark-red-bg,
