@@ -223,11 +223,13 @@
     margin-top: 10px;
     font-style: italic;
     color:rgb(255, 233, 65);
+    text-align: center;
 }
 .deck-description p:nth-child(1) {
     margin-bottom: 10px;
     font-style: italic;
     color:rgb(187, 173, 45);
+    text-align: center;
 }
 
 .rules-description {

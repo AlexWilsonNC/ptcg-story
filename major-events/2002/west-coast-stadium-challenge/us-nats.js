@@ -15,8 +15,9 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
       },
     ]
   },
@@ -30,8 +31,9 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
       },
     ]
   },
@@ -45,8 +47,9 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
       },
     ]
   },
@@ -60,8 +63,9 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
       },
     ]
   },
@@ -70,13 +74,88 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/entei.png',
     sprite2: '../../../assets/sprites/magcargo.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    list: '../../../assets/list-icon.png',
+    type: 'fire',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/base-fossil/n3.006.entei_.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n3.017.entei_.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n3.033.magcargo.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n4.082.slugma.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n3.053.slugma.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/g1.114.mistys_wrath.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.100.double_gust.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.077.pokemon_trader.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.090.time_capsule.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.093.gold_berry.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.086.focus_band.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n3.061.healing_field.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.098.fire_energy.jpg',
+        numImg: '../../../assets/21.png',
+        oldCard: true
       },
     ]
   },
@@ -90,8 +169,9 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
       },
     ]
   },
@@ -100,13 +180,93 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/feraligatr.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    list: '../../../assets/list-icon.png',
+    type: 'water',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.032.croconaw.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.081.totodile.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.012.pichu_.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.023.magby_.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n2.066.tyrogue.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/g1.114.mistys_wrath.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/g1.126.trash_exchange.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.100.double_gust.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/g1.118.secret_mission.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.090.time_capsule.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.086.focus_band.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n3.061.healing_field.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/wizards_black_star_promos.041.lucky_stadium.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/bs.102.water_energy.jpg',
+        numImg: '../../../assets/16.png',
+        oldCard: true
       },
     ]
   },
@@ -120,8 +280,9 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
       },
     ]
   },
@@ -138,8 +299,9 @@ let seniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
       },
     ]
   },
@@ -156,8 +318,9 @@ let juniors = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
-        numImg: '../../../assets/04.png'
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
       },
     ]
   },
@@ -207,7 +370,7 @@ function displayList(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 US Nats";
+        document.querySelector('.playerName').innerHTML = item.firstName + " - 2002 WCSC";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -346,7 +509,7 @@ function displayList2(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 US Nats";
+        document.querySelector('.playerName').innerHTML = item.firstName + " - 2002 WCSC";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -484,7 +647,7 @@ function displayList3(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 US Nats";
+        document.querySelector('.playerName').innerHTML = item.firstName + " - 2002 WCSC";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
