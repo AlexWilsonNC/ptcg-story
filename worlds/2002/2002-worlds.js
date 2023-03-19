@@ -2584,11 +2584,74 @@ let juniors = [
     firstName: 'Jeff Reynolds',
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/sprites/feraligatr.png',
+    list: '../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Mel Borchardt',
+    flag: '../../assets/flags/unknown.png',
+    sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
   },
+  {
+    firstName: 'Faisal Kahn',
+    flag: '../../assets/flags/unknown.png',
+    sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/hyphen.png',
+    list: '../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Doug Bui',
+    flag: '../../assets/flags/unknown.png',
+    sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/hyphen.png',
+    list: '../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Kierin Chase',
+    flag: '../../assets/flags/unknown.png',
+    sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/hyphen.png',
+    list: '../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Shawn Gettys',
+    flag: '../../assets/flags/unknown.png',
+    sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/hyphen.png',
+    list: '../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  {
+    firstName: 'Matt Catalano',
+    flag: '../../assets/flags/unknown.png',
+    sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/hyphen.png',
+    list: '../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: []
+  },
+  // {
+  //   firstName: 'eeeeee',
+  //   flag: '../../assets/flags/unknown.png',
+  //   sprite1: '../../assets/sprites/blank.png',
+  //   sprite2: '../../assets/hyphen.png',
+  //   list: '../../assets/sprites/blank.png',
+  //   type: 'dark',
+  //   deck: []
+  // },
 ]
 
 //masters
