@@ -38,19 +38,98 @@ let masters = [
     ]
   },
    {
-    firstName: 'Kevin Cheng',
+    firstName: 'Kevin Chang',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/golduck.png',
     sprite2: '../../../assets/sprites/slowking.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
+                cardImg: '../../../assets/cards/base-fossil/ro.037.dark_golduck.jpg',
+                numImg: '../../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/wizards_black_star_promos.020.psyduck.jpg',
+                numImg: '../../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/n1.014.slowking.jpg',
+                numImg: '../../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/n1.073.slowpoke.jpg',
+                numImg: '../../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+                numImg: '../../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg',
+                numImg: '../../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/n1.024.murkrow.jpg',
+                numImg: '../../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
+                numImg: '../../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/bs.077.pokemon_trader.jpg',
+                numImg: '../../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/n1.100.double_gust.jpg',
+                numImg: '../../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/g1.114.mistys_wrath.jpg',
+                numImg: '../../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/n1.090.time_capsule.jpg',
+                numImg: '../../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/n1.086.focus_band.jpg',
+                numImg: '../../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/n3.063.rockets_hideout.jpg',
+                numImg: '../../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/wizards_black_star_promos.040.pokemon_center.jpg',
+                numImg: '../../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/bs.101.psychic_energy.jpg',
+                numImg: '../../../assets/12.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../../assets/cards/base-fossil/n1.104.darkness_energy.jpg',
+                numImg: '../../../assets/03.png',
+                oldCard: true
+            },
     ]
   },
    {
