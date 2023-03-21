@@ -703,6 +703,9 @@ li {
 .modal-x p {
     font-family: 'Permanent Marker', cursive;
 }
+.four-ol {
+    display: none;
+}
 
 .modal-x:hover {
     cursor: pointer;
