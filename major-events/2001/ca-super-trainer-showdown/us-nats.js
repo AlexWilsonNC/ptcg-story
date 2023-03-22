@@ -1916,7 +1916,7 @@ let fourEvent = [
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil/n1.069.onix_.jpg',
+        cardImg: '../../../assets/cards/base-fossil/si.003.onix_.jpg',
         numImg: '../../../assets/04.png',
         oldCard: true
       },
