@@ -1343,8 +1343,7 @@ let seniors = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/espeon.png',
     sprite2: '../../../assets/sprites/slowking.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
@@ -1368,68 +1367,68 @@ let seniors = [
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
+        cardImg: '../../../assets/cards/base-fossil/n3.003.celebi.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n2.040.igglybuff.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.020.cleffa.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
         numImg: '../../../assets/04.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
+        cardImg: '../../../assets/cards/base-fossil/g1.114.mistys_wrath.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.101.moo_moo_milk.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.100.double_gust.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/g2.116.master_ball.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.093.gold_berry.jpg',
         numImg: '../../../assets/04.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/base-fossil/g2.109.resistance_gym.jpg',
+        numImg: '../../../assets/03.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/base-fossil/bs.101.psychic_energy.jpg',
+        numImg: '../../../assets/20.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/base-fossil/ro.081.full_heal_energy.jpg',
+        numImg: '../../../assets/02.png',
         oldCard: true
       },
     ]
