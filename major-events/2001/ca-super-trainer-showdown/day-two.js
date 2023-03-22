@@ -967,8 +967,8 @@ let seniors = [
   {
     firstName: 'Jonathan Recktenwald',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/umbreon.png',
-    sprite2: '../../../assets/sprites/slowking.png',
+    sprite1: '../../../assets/sprites/slowking.png',
+    sprite2: '../../../assets/sprites/umbreon.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
@@ -1986,7 +1986,7 @@ let juniors = [
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil/g2.038.erikas_bellsprout.jpg',
+        cardImg: '../../../assets/cards/base-fossil/g1.076.erikas_bellsprout.jpg',
         numImg: '../../../assets/02.png',
         oldCard: true
       },

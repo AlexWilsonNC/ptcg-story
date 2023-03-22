@@ -490,8 +490,8 @@ let seniors = [
   {
     firstName: 'Johnathan Recktenwald',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite1: '../../../assets/sprites/umbreon.png',
+    sprite2: '../../../assets/sprites/slowking.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -523,12 +523,7 @@ let seniors = [
       },
       {
         cardImg: '../../../assets/cards/base-fossil/g1.076.erikas_bellsprout.jpg',
-        numImg: '../../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil/g2.038.erikas_bellsprout.jpg',
-        numImg: '../../../assets/02.png',
+        numImg: '../../../assets/04.png',
         oldCard: true
       },
       {
@@ -589,7 +584,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'eeeee',
+    firstName: 'Alex Schanz',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
@@ -605,7 +600,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'eeeee',
+    firstName: 'Michael Perucca',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
@@ -621,7 +616,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'eeeee',
+    firstName: 'Brandon Miller',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
@@ -1717,12 +1712,7 @@ let fourEvent = [
       },
       {
         cardImg: '../../../assets/cards/base-fossil/g1.076.erikas_bellsprout.jpg',
-        numImg: '../../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil/g2.038.erikas_bellsprout.jpg',
-        numImg: '../../../assets/02.png',
+        numImg: '../../../assets/04.png',
         oldCard: true
       },
       {
