@@ -6,42 +6,10 @@ const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
   {
-    firstName: 'Jeremy Borchardt',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/steelix.png',
-    sprite2: '../../../assets/sprites/slowking.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-    ]
-  },
-  {
-    firstName: 'Chris Fulop',
+    firstName: 'Tom Hanley',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/feraligatr.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-    ]
-  },
-  {
-    firstName: 'Ben Zoz',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -70,7 +38,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Andrés Rodriquez',
+    firstName: 'Rudy Rodriquez',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/feraligatr.png',
@@ -86,10 +54,58 @@ let masters = [
     ]
   },
   {
-    firstName: 'Alvin Leu',
+    firstName: 'Matt Tyler',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/feraligatr.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Frank Moore',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'David Nishijimu',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Chris Fulop',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -117,11 +133,14 @@ let masters = [
       },
     ]
   },
+]
+
+let seniors = [
   {
-    firstName: 'Thian Hoang',
+    firstName: 'Tom Liesegang',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite1: '../../../assets/sprites/typhlosion.png',
+    sprite2: '../../../assets/sprites/arcanine.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -133,11 +152,8 @@ let masters = [
       },
     ]
   },
-]
-
-let seniors = [
   {
-    firstName: 'Josh Goldstein',
+    firstName: 'Aaron Gerardo',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/feraligatr.png',
@@ -155,24 +171,8 @@ let seniors = [
   {
     firstName: 'Phil Mondiello',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/mewtwo.png',
-    sprite2: '../../../assets/sprites/slowking.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-    ]
-  },
-  {
-    firstName: 'Chris Peditto',
-    flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/feraligatr.png',
+    sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -185,7 +185,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Jared Passanante',
+    firstName: 'Robert Frac',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
@@ -201,7 +201,39 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Daniel Deardoff',
+    firstName: 'Devin P-Robson',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/typhlosion.png',
+    sprite2: '../../../assets/sprites/arcanine.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Alex Brosseau',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/typhlosion.png',
+    sprite2: '../../../assets/sprites/arcanine.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/base-fossil',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Dylan Austin',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
@@ -217,39 +249,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Matt Toeniskoetter',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/feraligatr.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-    ]
-  },
-  {
-    firstName: 'Chris Vilches',
-    flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-    ]
-  },
-  {
-    firstName: 'Jimmy O’Brien',
+    firstName: 'Brian Six',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/hyphen.png',
@@ -268,10 +268,10 @@ let seniors = [
 
 let juniors = [
   {
-    firstName: 'eeee',
+    firstName: 'Jonathan Brooks',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/blastoise.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -284,10 +284,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'eeee',
+    firstName: 'Mindy Lambkee',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -300,10 +300,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'eeee',
+    firstName: 'John Nhuyen',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -316,10 +316,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'eeee',
+    firstName: 'Stephanie Borchardt',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -332,10 +332,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'eeee',
+    firstName: 'Ryan Lucero',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -348,10 +348,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'eeee',
+    firstName: 'Nathan Kessel',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -364,10 +364,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'eeee',
+    firstName: 'Joshua Cartagena',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -380,10 +380,10 @@ let juniors = [
     ]
   },
   {
-    firstName: 'eeee',
+    firstName: 'Joseph Barone',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -412,9 +412,7 @@ function displayList(array = []) {
     let playerName = document.createElement('div');
     playerName.classList.add('name-n-flag');
 
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
+
     
     let deck = document.createElement('div');
     deck.classList.add('player-deck-icons');
@@ -432,7 +430,6 @@ function displayList(array = []) {
     
     item_element.appendChild(title);
     title.appendChild(playerName);
-    playerName.appendChild(flagImg);
     playerName.append(item.firstName);
     title.appendChild(deck);
     deck.appendChild(firstSprite);
@@ -541,9 +538,7 @@ function displayList2(array = []) {
     let playerName = document.createElement('div');
     playerName.classList.add('name-n-flag');
 
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
+
     
     let deck = document.createElement('div');
     deck.classList.add('player-deck-icons');
@@ -561,7 +556,6 @@ function displayList2(array = []) {
     
     item_element.appendChild(title);
     title.appendChild(playerName);
-    playerName.appendChild(flagImg);
     playerName.append(item.firstName);
     title.appendChild(deck);
     deck.appendChild(firstSprite);
@@ -669,9 +663,7 @@ function displayList3(array = []) {
     let playerName = document.createElement('div');
     playerName.classList.add('name-n-flag');
 
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
+
     
     let deck = document.createElement('div');
     deck.classList.add('player-deck-icons');
@@ -689,7 +681,6 @@ function displayList3(array = []) {
     
     item_element.appendChild(title);
     title.appendChild(playerName);
-    playerName.appendChild(flagImg);
     playerName.append(item.firstName);
     title.appendChild(deck);
     deck.appendChild(firstSprite);
