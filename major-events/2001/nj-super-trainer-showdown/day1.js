@@ -14,6 +14,11 @@ let masters = [
     type: 'dark',
     deck: [
       {
+        cardImg: '../../../assets/cards/base-fossil/g2.015.rockets_zapdos.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
         cardImg: '../../../assets/cards/base-fossil/n1.014.slowking.jpg',
         numImg: '../../../assets/03.png',
         oldCard: true
@@ -31,11 +36,6 @@ let masters = [
       {
         cardImg: '../../../assets/cards/base-fossil/n1.069.onix_.jpg',
         numImg: '../../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil/g2.015.rockets_zapdos.jpg',
-        numImg: '../../../assets/04.png',
         oldCard: true
       },
       {
@@ -196,6 +196,11 @@ let masters = [
         oldCard: true
       },
       {
+        cardImg: '../../../assets/cards/base-fossil/n1.030.clefairy.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
         cardImg: '../../../assets/cards/base-fossil/n1.020.cleffa.jpg',
         numImg: '../../../assets/04.png',
         oldCard: true
@@ -203,11 +208,6 @@ let masters = [
       {
         cardImg: '../../../assets/cards/base-fossil/g2.075.giovannis_nidoran_female.jpg',
         numImg: '../../../assets/02.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil/n1.030.clefairy.jpg',
-        numImg: '../../../assets/01.png',
         oldCard: true
       },
       {
@@ -259,101 +259,95 @@ let masters = [
   },
   {
     firstName: 'Andrés Rodriquez',
-    flag: '../../../assets/flags/usa.png',
+    flag: '../../../assets/flags/usa.png', // https://www.pojo.com/Features/ECSTS2001/ECSTS-Feraligatr-A.Rodriquez.htm
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/feraligatr.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/base-fossil/n3.004.crobat.jpg',
+        cardImg: '../../../assets/cards/base-fossil/n1.005.feraligatr.jpg',
         numImg: '../../../assets/03.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil/n3.029.golbat.jpg',
+        cardImg: '../../../assets/cards/base-fossil/n1.032.croconaw.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.081.totodile.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.020.cleffa.jpg',
         numImg: '../../../assets/03.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil/ro.070.zubat_.jpg',
+        cardImg: '../../../assets/cards/base-fossil/n1.022.elekid.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.023.magby_.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/base-fossil/n1.096.professor_elm.jpg',
         numImg: '../../../assets/04.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
+        cardImg: '../../../assets/cards/base-fossil/g1.118.secret_mission.jpg',
         numImg: '../../../assets/04.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
+        cardImg: '../../../assets/cards/base-fossil/n1.100.double_gust.jpg',
         numImg: '../../../assets/04.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/base-fossil/g1.114.mistys_wrath.jpg',
+        numImg: '../../../assets/03.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/base-fossil/g1.126.trash_exchange.jpg',
+        numImg: '../../../assets/03.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg',
+        numImg: '../../../assets/02.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/base-fossil/n1.093.gold_berry.jpg',
+        numImg: '../../../assets/03.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/base-fossil/g1.104.the_rockets_training_gym.jpg',
+        numImg: '../../../assets/02.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/base-fossil/g1.124.narrow_gym.jpg',
+        numImg: '../../../assets/02.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/base-fossil/bs.102.water_energy.jpg',
+        numImg: '../../../assets/15.png',
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
-        oldCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/base-fossil',
-        numImg: '../../../assets/04.png',
+        cardImg: '../../../assets/cards/base-fossil/n1.104.darkness_energy.jpg',
+        numImg: '../../../assets/01.png',
         oldCard: true
       },
     ]
@@ -507,7 +501,7 @@ let seniors = [
   {
     firstName: 'Phil Mondiello',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/mewtwo.png',
+    sprite1: '../../../assets/sprites/steelix.png',
     sprite2: '../../../assets/sprites/slowking.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
