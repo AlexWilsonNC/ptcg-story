@@ -141,6 +141,9 @@
 .hello, .collapse-select:hover {
   background-color: rgb(70, 70, 70);
 }
+.meep, .set-white-box:hover {
+  background-color: rgb(189, 189, 189);
+}
 .collapse-select:after {
   content: '\002B';
   color: white;
@@ -164,6 +167,7 @@
 }
 .set-logo {
     height:35px;width:auto;
+    padding-left: 10px;
 }
 .search-open {
   max-height: 0;
@@ -184,18 +188,18 @@
 .set-cube {
     height:200px;width:175px;
     border-radius: 25px;
-    background-color: rgb(109, 109, 109);
+    background-color: rgba(0, 0, 0, 0.5);
     margin: 7.5px 10px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     overflow: hidden
 }
-.cubed-img {
+/* .cubed-img {
     flex-shrink: 0;
     width: 400px;
-    min-height: 100%;
+    height: 70%;
 }
 .crowwwnnn {
     flex-shrink: 0;
@@ -206,10 +210,105 @@
     flex-shrink: 0;
     width: 120%;
     min-height: 100%;
-}
-/* .set-cube p {
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.596);
-    width: 100%;
-    padding: 40px 0px;
 } */
+.set-cube p {
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    height:25%;width:100%;
+    padding-top: 10px;
+}
+.crown-zenith {
+    background: url(../assets/set-filter/crown-zenith.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.silver-tempest {
+    background: url(../assets/set-filter/silver-tempest.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.lost-origin {
+    background: url(../assets/set-filter/lost-origin.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.pokemon-go {
+    background: url(../assets/set-filter/pokemon-go_cleanup.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.astral-radiance {
+    background: url(../assets/set-filter/astral-radiance.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.brilliant-stars {
+    background: url(../assets/set-filter/brilliant-stars.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.fusion-strike {
+    background: url(../assets/set-filter/fusion-strike.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.celebrations {
+    background: url(../assets/set-filter/celebrations.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.evolving-skies {
+    background: url(../assets/set-filter/evolving-skies.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.chilling-reign {
+    background: url(../assets/set-filter/chilling-reign.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.battle-styles {
+    background: url(../assets/set-filter/battle-styles.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.shining-fates {
+    background: url(../assets/set-filter/shining-fates.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.vivid-voltage {
+    background: url(../assets/set-filter/vivid-voltage.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.champions-path {
+    background: url(../assets/set-filter/champions-path.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.darkness-ablaze {
+    background: url(../assets/set-filter/darkness-ablaze.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.rebel-clash {
+    background: url(../assets/set-filter/rebel-clash.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.sword-shield {
+    background: url(../assets/set-filter/sword-shield.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.guardians-rising {
+    background: url(../assets/set-filter/guardians-rising.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
+.sun-moon {
+    background: url(../assets/set-filter/sun-moon.jpg) no-repeat center;
+    object-fit: contain;
+    background-size: cover;
+}
