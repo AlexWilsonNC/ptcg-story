@@ -568,7 +568,22 @@
 .great-encounters:hover,
 .secret-wonders:hover,
 .mysterious-treasures:hover,
-.diamond-pearl:hover
+.power-keepers:hover,
+.dragon-fronteirs:hover,
+.crystal-gaurdians:hover,
+.holon-phantoms:hover,
+.legend-maker:hover,
+.delta-species:hover,
+.unseen-forces:hover,
+.emerald:hover,
+.deoxys:hover,
+.rocket-returns:hover,
+.firered-leafgreen:hover,
+.hidden-legends:hover,
+.magma-aqua:hover,
+.dragon:hover,
+.sandstorm:hover,
+.ruby-sapphire:hover
 {
     background-size: auto 112%;
 }
@@ -1044,6 +1059,104 @@
 }
 .diamond-pearl {
     background: url(../assets/set-filter/dp/diamon-pearl.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+
+/* RS */
+.power-keepers {
+    background: url(../assets/set-filter/rs/power-keepers.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.dragon-fronteirs {
+    background: url(../assets/set-filter/rs/dragon-frontiers.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.crystal-gaurdians {
+    background: url(../assets/set-filter/rs/crystal-guardians.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.holon-phantoms {
+    background: url(../assets/set-filter/rs/holon-phantoms.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.legend-maker {
+    background: url(../assets/set-filter/rs/legend-maker.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.delta-species {
+    background: url(../assets/set-filter/rs/delta-species.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.unseen-forces {
+    background: url(../assets/set-filter/rs/unseen-forces.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.emerald {
+    background: url(../assets/set-filter/rs/emerald.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.deoxys {
+    background: url(../assets/set-filter/rs/deoxys.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.rocket-returns {
+    background: url(../assets/set-filter/rs/team-rocket-returns.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.firered-leafgreen {
+    background: url(../assets/set-filter/rs/firered-leafgreen.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.hidden-legends {
+    background: url(../assets/set-filter/rs/hidden-legends.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.magma-aqua {
+    background: url(../assets/set-filter/rs/magma-aqua.webp) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.dragon {
+    background: url(../assets/set-filter/rs/dragon.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.sandstorm {
+    background: url(../assets/set-filter/rs/sandstorm.webp) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.ruby-sapphire {
+    background: url(../assets/set-filter/rs/ruby-sapphire.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
