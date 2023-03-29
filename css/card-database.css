@@ -553,7 +553,23 @@
 .primal-clash:hover,
 .furious-fists:hover,
 .flashfire:hover,
-.xy:hover {
+.call-of-legends:hover,
+.triumphant:hover,
+.undaunted:hover,
+.unleashed:hover,
+.hgss:hover,
+.arceus:hover,
+.supreme-victors:hover,
+.rising-rivals:hover,
+.platinum:hover,
+.stormfront:hover,
+.legends-awakened:hover,
+.majestic-dawn:hover,
+.great-encounters:hover,
+.secret-wonders:hover,
+.mysterious-treasures:hover,
+.diamond-pearl:hover
+{
     background-size: auto 112%;
 }
 
@@ -928,6 +944,106 @@
 }
 .black-white {
     background: url(../assets/set-filter/bw/black-white.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+
+/* hgss */
+.call-of-legends {
+    background: url(../assets/set-filter/hgss/call-of-legends.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.triumphant {
+    background: url(../assets/set-filter/hgss/triumphant.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.undaunted {
+    background: url(../assets/set-filter/hgss/undaunted.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.unleashed {
+    background: url(../assets/set-filter/hgss/unleashed.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.hgss {
+    background: url(../assets/set-filter/hgss/hgss.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+
+/* DP */
+.arceus {
+    background: url(../assets/set-filter/dp/platinum-arceus.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.supreme-victors {
+    background: url(../assets/set-filter/dp/supreme-victors.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.rising-rivals {
+    background: url(../assets/set-filter/dp/rising-rivals.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.platinum {
+    background: url(../assets/set-filter/dp/platinum.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.stormfront {
+    background: url(../assets/set-filter/dp/stormfront.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.legends-awakened {
+    background: url(../assets/set-filter/dp/legends-awakened.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.majestic-dawn {
+    background: url(../assets/set-filter/dp/majestic-dawn.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.great-encounters {
+    background: url(../assets/set-filter/dp/great-encounters.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.secret-wonders {
+    background: url(../assets/set-filter/dp/secret-wonders.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.mysterious-treasures {
+    background: url(../assets/set-filter/dp/mysterious-treasures.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.diamond-pearl {
+    background: url(../assets/set-filter/dp/diamon-pearl.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
