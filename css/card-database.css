@@ -493,6 +493,8 @@
     }
 }
 
+/************************************************************************/
+
 .crown-zenith:hover, 
 .silver-tempest:hover, 
 .lost-origin:hover, 
@@ -526,7 +528,32 @@
 .burning-shadows:hover, 
 .guardians-rising:hover, 
 .sun-moon:hover,
-.scarlet-violet:hover {
+.scarlet-violet:hover,
+.legendary-treasures:hover,
+.plasma-blast:hover,
+.plasma-freeze:hover,
+.plasma-storm:hover,
+.boundaries-crossed:hover,
+.dragon-vault:hover,
+.dragons-exalted:hover,
+.dark-explorers:hover,
+.next-destinies:hover,
+.noble-victories:hover,
+.emerging-powers:hover,
+.black-white:hover,
+.evolutions:hover,
+.steam-seige:hover,
+.fates-collide:hover,
+.generations:hover,
+.breakpoint:hover,
+.breakthrough:hover,
+.ancient-origins:hover,
+.roaring-skies:hover,
+.double-crises:hover,
+.primal-clash:hover,
+.furious-fists:hover,
+.flashfire:hover,
+.xy:hover {
     background-size: auto 112%;
 }
 
@@ -832,3 +859,76 @@
     transition: ease all 0.3s;
 }
 
+/* Black & White */
+.legendary-treasures {
+    background: url(../assets/set-filter/bw/legendary-treasures.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.plasma-blast {
+    background: url(../assets/set-filter/bw/plasma-blast.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.plasma-freeze {
+    background: url(../assets/set-filter/bw/plasma-freeze.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.plasma-storm {
+    background: url(../assets/set-filter/bw/plasma-storm.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.boundaries-crossed {
+    background: url(../assets/set-filter/bw/boundaries-crossed.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.dragon-vault {
+    background: url(../assets/set-filter/bw/dragon-vault.jfif) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.dragons-exalted {
+    background: url(../assets/set-filter/bw/dragons-exalted.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.dark-explorers {
+    background: url(../assets/set-filter/bw/dark-explorers.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.next-destinies {
+    background: url(../assets/set-filter/bw/next-destinies.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.noble-victories {
+    background: url(../assets/set-filter/bw/noble-victories.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.emerging-powers {
+    background: url(../assets/set-filter/bw/emerging-powers.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.black-white {
+    background: url(../assets/set-filter/bw/black-white.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
