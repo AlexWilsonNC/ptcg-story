@@ -266,6 +266,13 @@
     justify-content: flex-start;
     width: 200px;height: auto;
     margin: 1px 0px;
+    /* transition: ease all 0.2s; */
+}
+.regular-type {
+    transition: ease all 0.2s;
+}
+.type-and-word:hover {
+    cursor: pointer;
 }
 .type-and-word img {
     width: 40px;height:auto;
@@ -273,6 +280,23 @@
 .type-and-word p {
     font-size: 18px;
     margin-left: 5px;
+}
+.regular-type:hover img {
+    filter: opacity(0.4) grayscale(1);
+}
+.regular-type:hover p {
+    color: rgb(114, 114, 114);
+}
+.deselect {
+    /* border-radius: 50%; */
+    transition: ease all 0.2s;
+    background-color: rgb(0, 69, 121);
+}
+.bleepbbop:hover .deselect {
+    background-color: rgb(63, 147, 211);
+}
+.bleepbbop:hover p {
+    color: rgb(114, 114, 114);
 }
 
 @media screen and (min-width: 1250px) {
@@ -641,102 +665,119 @@
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .silver-tempest {
     background: url(../assets/set-filter/swsh/silver-tempest.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .lost-origin {
     background: url(../assets/set-filter/swsh/lost-origin.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .pokemon-go {
     background: url(../assets/set-filter/swsh/pokemon-go_cleanup.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .astral-radiance {
     background: url(../assets/set-filter/swsh/astral-radiance.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .brilliant-stars {
     background: url(../assets/set-filter/swsh/brilliant-stars.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .fusion-strike {
     background: url(../assets/set-filter/swsh/fusion-strike.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .celebrations {
     background: url(../assets/set-filter/swsh/celebrations.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .evolving-skies {
     background: url(../assets/set-filter/swsh/evolving-skies.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .chilling-reign {
     background: url(../assets/set-filter/swsh/chilling-reign.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .battle-styles {
     background: url(../assets/set-filter/swsh/battle-styles.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .shining-fates {
     background: url(../assets/set-filter/swsh/shining-fates.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .vivid-voltage {
     background: url(../assets/set-filter/swsh/vivid-voltage.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .champions-path {
     background: url(../assets/set-filter/swsh/champions-path.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .darkness-ablaze {
     background: url(../assets/set-filter/swsh/darkness-ablaze.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .rebel-clash {
     background: url(../assets/set-filter/swsh/rebel-clash.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .sword-shield {
     background: url(../assets/set-filter/swsh/sword-shield.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 
 /* sun moon */
@@ -745,108 +786,126 @@
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .sun-moon {
     background: url(../assets/set-filter/sm/sun-moon.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .cosmic-eclipse {
     background: url(../assets/set-filter/sm/sm-cosmic-eclipse.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .hidden-fates {
     background: url(../assets/set-filter/sm/sm-hidden-fates.png) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .unified-minds {
     background: url(../assets/set-filter/sm/sm-unified-minds.png) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .unbroken-bonds {
     background: url(../assets/set-filter/sm/sm-unbroken-bonds.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .detective-pikachu {
     background: url(../assets/set-filter/sm/sm-detective-pikachu.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .team-up {
     background: url(../assets/set-filter/sm/sm-team-up.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .lost-thunder {
     background: url(../assets/set-filter/sm/sm-lost-thunder.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .dragon-majesty {
     background: url(../assets/set-filter/sm/sm-dragon-majesty.jfif) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .celestial-storm {
     background: url(../assets/set-filter/sm/sm-celestial-storm_cleanup.png) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .forbidden-light {
     background: url(../assets/set-filter/sm/sm-forbidden-light.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .ultra-prism {
     background: url(../assets/set-filter/sm/sm-ultra-prism.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .crimson-invasion {
     background: url(../assets/set-filter/sm/sm-crimson-invasion.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .shining-legends {
     background: url(../assets/set-filter/sm/sm-shining-legends.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .burning-shadows {
     background: url(../assets/set-filter/sm/sm-burning-shadows.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .guardians-rising {
     background: url(../assets/set-filter/sm/guardians-rising.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .sun-moon {
     background: url(../assets/set-filter/sm/sun-moon.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 
 /* xy */
@@ -855,78 +914,91 @@
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .steam-seige {
     background: url(../assets/set-filter/xy/steam-seige.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .fates-collide {
     background: url(../assets/set-filter/xy/fates-collide.jfif) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .generations {
     background: url(../assets/set-filter/xy/generations.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .breakpoint {
     background: url(../assets/set-filter/xy/breakpoint.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .breakthrough {
     background: url(../assets/set-filter/xy/breakthrough.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .ancient-origins {
     background: url(../assets/set-filter/xy/ancient-origins.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .roaring-skies {
     background: url(../assets/set-filter/xy/roaring-skies.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .double-crises {
     background: url(../assets/set-filter/xy/double-crisis.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .primal-clash {
     background: url(../assets/set-filter/xy/primal-clash.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .furious-fists {
     background: url(../assets/set-filter/xy/furious-fists.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .flashfire {
     background: url(../assets/set-filter/xy/flashfire.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .xy {
     background: url(../assets/set-filter/xy/xy.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 
 /* Scarlet & Violet */
@@ -935,6 +1007,7 @@
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 
 /* Black & White */
@@ -943,72 +1016,84 @@
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .plasma-blast {
     background: url(../assets/set-filter/bw/plasma-blast.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .plasma-freeze {
     background: url(../assets/set-filter/bw/plasma-freeze.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .plasma-storm {
     background: url(../assets/set-filter/bw/plasma-storm.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .boundaries-crossed {
     background: url(../assets/set-filter/bw/boundaries-crossed.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .dragon-vault {
     background: url(../assets/set-filter/bw/dragon-vault.jfif) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .dragons-exalted {
     background: url(../assets/set-filter/bw/dragons-exalted.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .dark-explorers {
     background: url(../assets/set-filter/bw/dark-explorers.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .next-destinies {
     background: url(../assets/set-filter/bw/next-destinies.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .noble-victories {
     background: url(../assets/set-filter/bw/noble-victories.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .emerging-powers {
     background: url(../assets/set-filter/bw/emerging-powers.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .black-white {
     background: url(../assets/set-filter/bw/black-white.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 
 /* hgss */
@@ -1017,30 +1102,35 @@
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .triumphant {
     background: url(../assets/set-filter/hgss/triumphant.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .undaunted {
     background: url(../assets/set-filter/hgss/undaunted.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .unleashed {
     background: url(../assets/set-filter/hgss/unleashed.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .hgss {
     background: url(../assets/set-filter/hgss/hgss.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 
 /* DP */
@@ -1049,66 +1139,77 @@
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .supreme-victors {
     background: url(../assets/set-filter/dp/supreme-victors.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .rising-rivals {
     background: url(../assets/set-filter/dp/rising-rivals.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .platinum {
     background: url(../assets/set-filter/dp/platinum.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .stormfront {
     background: url(../assets/set-filter/dp/stormfront.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .legends-awakened {
     background: url(../assets/set-filter/dp/legends-awakened.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .majestic-dawn {
     background: url(../assets/set-filter/dp/majestic-dawn.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .great-encounters {
     background: url(../assets/set-filter/dp/great-encounters.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .secret-wonders {
     background: url(../assets/set-filter/dp/secret-wonders.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .mysterious-treasures {
     background: url(../assets/set-filter/dp/mysterious-treasures.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .diamond-pearl {
     background: url(../assets/set-filter/dp/diamon-pearl.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 
 /* RS */
@@ -1117,96 +1218,112 @@
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .dragon-fronteirs {
     background: url(../assets/set-filter/rs/dragon-frontiers.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .crystal-gaurdians {
     background: url(../assets/set-filter/rs/crystal-guardians.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .holon-phantoms {
     background: url(../assets/set-filter/rs/holon-phantoms.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .legend-maker {
     background: url(../assets/set-filter/rs/legend-maker.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .delta-species {
     background: url(../assets/set-filter/rs/delta-species.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .unseen-forces {
     background: url(../assets/set-filter/rs/unseen-forces.png) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .emerald {
     background: url(../assets/set-filter/rs/emerald.png) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .deoxys {
     background: url(../assets/set-filter/rs/deoxys.png) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .rocket-returns {
     background: url(../assets/set-filter/rs/team-rocket-returns.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .firered-leafgreen {
     background: url(../assets/set-filter/rs/firered-leafgreen.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .hidden-legends {
     background: url(../assets/set-filter/rs/hidden-legends.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .magma-aqua {
     background: url(../assets/set-filter/rs/magma-aqua.webp) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .dragon {
     background: url(../assets/set-filter/rs/dragon.png) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .sandstorm {
     background: url(../assets/set-filter/rs/sandstorm.webp) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .ruby-sapphire {
     background: url(../assets/set-filter/rs/ruby-sapphire.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 
 /* wotc */
@@ -1215,88 +1332,103 @@
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .aquapolis {
     background: url(../assets/set-filter/wotc/aquapolis.png) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .expedition {
     background: url(../assets/set-filter/wotc/expedition.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .legendary-collection {
     background: url(../assets/set-filter/wotc/legendary-collection.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .destiny {
     background: url(../assets/set-filter/wotc/destiny.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .revelation {
     background: url(../assets/set-filter/wotc/revelation.png) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .discovery {
     background: url(../assets/set-filter/wotc/discovery.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .genesis {
     background: url(../assets/set-filter/wotc/genesis.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .gym-challenge {
     background: url(../assets/set-filter/wotc/gym-challenge.png) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .gym-heroes {
     background: url(../assets/set-filter/wotc/gym-heroes.webp) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .team-rocket {
     background: url(../assets/set-filter/wotc/team-rocket.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .base-set2 {
     background: url(../assets/set-filter/wotc/base-set2.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .fossil {
     background: url(../assets/set-filter/wotc/fossil.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .jungle {
     background: url(../assets/set-filter/wotc/jungle.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
 .base-set {
     background: url(../assets/set-filter/wotc/base-set.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
+    content-visibility: auto;
 }
