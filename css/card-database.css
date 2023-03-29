@@ -245,6 +245,36 @@
     margin-bottom: 10px;
 }
 
+.all-types {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%;
+    padding: 10px 0px;
+}
+.type-row-one {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+}
+.type-and-word {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 200px;height: auto;
+    margin: 1px 0px;
+}
+.type-and-word img {
+    width: 40px;height:auto;
+}
+.type-and-word p {
+    font-size: 18px;
+    margin-left: 5px;
+}
+
 @media screen and (min-width: 1250px) {
     .database-searcher {
         width: 1100px;
@@ -583,6 +613,23 @@
 .magma-aqua:hover,
 .dragon:hover,
 .sandstorm:hover,
+.diamond-pearl:hover,
+.xy:hover,
+.skyridge:hover,
+.aquapolis:hover,
+.expedition:hover,
+.legendary-collection:hover,
+.destiny:hover,
+.revelation:hover,
+.discovery:hover,
+.genesis:hover,
+.gym-challenge:hover,
+.gym-heroes:hover,
+.fossil:hover,
+.team-rocket:hover,
+.base-set2:hover,
+.jungle:hover,
+.base-set:hover,
 .ruby-sapphire:hover
 {
     background-size: auto 112%;
@@ -1157,6 +1204,98 @@
 }
 .ruby-sapphire {
     background: url(../assets/set-filter/rs/ruby-sapphire.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+
+/* wotc */
+.skyridge {
+    background: url(../assets/set-filter/wotc/skyridge.webp) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.aquapolis {
+    background: url(../assets/set-filter/wotc/aquapolis.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.expedition {
+    background: url(../assets/set-filter/wotc/expedition.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.legendary-collection {
+    background: url(../assets/set-filter/wotc/legendary-collection.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.destiny {
+    background: url(../assets/set-filter/wotc/destiny.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.revelation {
+    background: url(../assets/set-filter/wotc/revelation.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.discovery {
+    background: url(../assets/set-filter/wotc/discovery.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.genesis {
+    background: url(../assets/set-filter/wotc/genesis.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.gym-challenge {
+    background: url(../assets/set-filter/wotc/gym-challenge.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.gym-heroes {
+    background: url(../assets/set-filter/wotc/gym-heroes.webp) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.team-rocket {
+    background: url(../assets/set-filter/wotc/team-rocket.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.base-set2 {
+    background: url(../assets/set-filter/wotc/base-set2.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.fossil {
+    background: url(../assets/set-filter/wotc/fossil.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.jungle {
+    background: url(../assets/set-filter/wotc/jungle.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.base-set {
+    background: url(../assets/set-filter/wotc/base-set.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
