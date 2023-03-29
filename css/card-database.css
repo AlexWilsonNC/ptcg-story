@@ -575,10 +575,11 @@
 }
 @media screen and (min-width: 321px) and (max-width: 363px) {
     .set-cube {
-        /* border-radius: 14px; */
+        border-radius: 12px;
         height:95px;
         width:80px;
         margin: 3px 4px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
     }
 }
 
