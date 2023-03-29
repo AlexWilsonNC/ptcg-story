@@ -304,7 +304,12 @@
         width: 1100px;
     }
 }
-@media screen and (max-width: 1250px) {
+@media screen and (min-width: 1250px) {
+    .all-types {
+        width: 80%;
+    }
+}
+@media screen and (max-width: 1100px) {
     .live-set img {
         width: 200px
     }
@@ -335,6 +340,13 @@
     }
     .pogo {
         width: 60px; height:37px;
+    }
+    .type-and-word img {
+        width: 30px;height:auto;
+    }
+    .type-and-word p {
+        font-size: 15px;
+        margin-left: 5px;
     }
 }
 @media screen and (max-width: 750px) {
@@ -463,6 +475,12 @@
     .live-set img {
         width: 125px
     }
+    .type-and-word img {
+        width: 20px;height:auto;
+    }
+    .type-and-word p {
+        font-size: 12px;
+    }
 }
 @media screen and (max-width: 439px) {
     .set-cube {
@@ -488,6 +506,9 @@
     .all-cards img {
         width: 80px;
         border-radius: 4px;
+    }
+    .type-and-word p {
+        font-size: 11px;
     }
 }
 @media screen and (min-width: 321px) and (max-width: 398px) {
