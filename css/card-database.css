@@ -757,6 +757,72 @@
     object-fit: contain;
     transition: ease all 0.3s;
 }
+.fates-collide {
+    background: url(../assets/set-filter/xy/fates-collide.jfif) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.generations {
+    background: url(../assets/set-filter/xy/generations.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.breakpoint {
+    background: url(../assets/set-filter/xy/breakpoint.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.breakthrough {
+    background: url(../assets/set-filter/xy/breakthrough.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.ancient-origins {
+    background: url(../assets/set-filter/xy/ancient-origins.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.roaring-skies {
+    background: url(../assets/set-filter/xy/roaring-skies.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.double-crises {
+    background: url(../assets/set-filter/xy/double-crisis.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.primal-clash {
+    background: url(../assets/set-filter/xy/primal-clash.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.furious-fists {
+    background: url(../assets/set-filter/xy/furious-fists.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.flashfire {
+    background: url(../assets/set-filter/xy/flashfire.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
+.xy {
+    background: url(../assets/set-filter/xy/xy.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+}
 
 /* Scarlet & Violet */
 .scarlet-violet {
