@@ -1,4 +1,4 @@
-// fetch('https://api.pokemontcg.io/v2/sets').then(res => { console.log('List of All Sets', res.json()) })
+fetch('https://api.pokemontcg.io/v2/sets').then(res => { console.log('List of All Sets', res.json()) })
 
 // const allStandardLegalCards = [];
 // let page = 1;
