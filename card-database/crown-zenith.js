@@ -16784,6 +16784,7 @@ function displayList(array = []) {
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
         let img = document.createElement('img');
+        img.classList.add('database-card-in-list');
         img.setAttribute('src', item.images.small);
         setsOl.appendChild(img);
 
@@ -16792,6 +16793,26 @@ function displayList(array = []) {
         imgLogo.setAttribute('src', item.set.images.logo);
         liveSetLogo.appendChild(imgLogo);
     }
-    
 }
+
+window.onload = () => {
+    let card = document.getElementsByClassName("database-card-in-list"),
+    zoombox = document.getElementById("zoomed-bg");
+  
+    if (card.length > 0) {
+      for (let i of card) {
+        i.onclick = () => {
+          let clone = i.cloneNode();
+          clone.className = "";
+          zoombox.innerHTML = "";
+          zoombox.appendChild(clone);
+          zoombox.className = "show";
+        };
+      }
+    }
+    zoombox.onclick = () => {
+        zoombox.className = "";
+      };
+}
+
 displayList(arraySet);
