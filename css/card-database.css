@@ -324,17 +324,14 @@
 
     background: rgba(0, 0, 0, 0.9);
 
-    display: flex;
+    display: none;
     align-items: center;
     justify-content: center;
 
-    visibility: hidden;
-    opacity: 0;
     transition: all ease 0.3s;
 }
 #zoomed-bg.show {
-    visibility: visible;
-    opacity: 1;
+    display: flex;
 }
 #zoomed-bg img {
     width: auto;
