@@ -43,7 +43,9 @@
         </div>
     </nav>
 
-    <div id='zoomed-bg'></div>
+    <div id='zoomed-bg'>
+        <img id='insert-zoomed-img' src='' alt='zoomed in card'>
+    </div>
 
     <div class='database-container'>
         <div class='database-searcher'>
@@ -81,9 +83,9 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <div class='set-cube scarlet-violet'>
+                            <a class='set-cube scarlet-violet' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sv1.png'></p>
-                            </div>
+                            </a>
                         </div>
                     </div>
 
@@ -95,74 +97,57 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <div class='set-cube crown-zenith'>
-                                <!-- <p>Crown<br>Zenith</p> -->
+                            <a class='set-cube crown-zenith' onclick="displayList(crownZenith)" href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/crown-zenith.png'></p>
-                            </div>
-                            <div class='set-cube silver-tempest'>
-                                <!-- <p>Silver<br>Tempest</p> -->
+                            </a>
+                            <a class='set-cube silver-tempest' onclick="displaySilverTempest(silverTempest)" href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh12-silver-tempest.png'></p>
-                            </div>
-                            <div class='set-cube lost-origin'>
-                                <!-- <p>Lost<br>Origin</p> -->
+                            </a>
+                            <a class='set-cube lost-origin' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh11-lost-origin.png'></p>
-                            </div>
-                            <div class='set-cube pokemon-go'>
-                                <!-- <p>Pokémon<br>GO</p> -->
+                            </a>
+                            <a class='set-cube pokemon-go' href='#scroll-here'>
                                 <p><img class='pogo' src='./assets/sets/pokemon-go.webp'></p>
-                            </div>
-                            <div class='set-cube astral-radiance'>
-                                <!-- <p>Astral<br>Radiance</p> -->
+                            </a>
+                            <a class='set-cube astral-radiance' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh10-astral-radiance.png'></p>
-                            </div>
-                            <div class='set-cube brilliant-stars'>
-                                <!-- <p>Brilliant<br>Stars</p> -->
+                            </a>
+                            <a class='set-cube brilliant-stars' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh9-brilliant-stars.png'></p>
-                            </div>
-                            <div class='set-cube fusion-strike'>
-                                <!-- <p>Fusion<br>Strike</p> -->
+                            </a>
+                            <a class='set-cube fusion-strike' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh8-fusion-strike.png'></p>
-                            </div>
-                            <div class='set-cube celebrations' style='line-height: 40px;'>
-                                <!-- <p>Celebrations</p> -->
+                            </a>
+                            <a class='set-cube celebrations' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sshp-celebrations.png'></p>
-                            </div>
-                            <div class='set-cube evolving-skies'>
-                                <!-- <p>Evolving<br>Skies</p> -->
+                            </a>
+                            <a class='set-cube evolving-skies' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh7-evolving-skies.png'></p>
-                            </div>
-                            <div class='set-cube chilling-reign'>
-                                <!-- <p>Chilling<br>Reign</p> -->
+                            </a>
+                            <a class='set-cube chilling-reign' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh6-chilling-reign.png'></p>
-                            </div>
-                            <div class='set-cube battle-styles'>
-                                <!-- <p>Battle<br>Styles</p> -->
+                            </a>
+                            <a class='set-cube battle-styles' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh5-battle-styles.png'></p>
-                            </div>
-                            <div class='set-cube shining-fates'>
-                                <!-- <p>Shining<br>Fates</p> -->
+                            </a>
+                            <a class='set-cube shining-fates' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sshp-shining-fates.png'></p>
-                            </div>
-                            <div class='set-cube vivid-voltage'>
-                                <!-- <p>Vivid<br>Voltage</p> -->
+                            </a>
+                            <a class='set-cube vivid-voltage' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh4-vivid-voltage.png'></p>
-                            </div>
-                            <div class='set-cube champions-path'>
-                                <!-- <p>Champions<br>Path</p> -->
+                            </a>
+                            <a class='set-cube champions-path' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh-champions-path.png'></p>
-                            </div>
-                            <div class='set-cube darkness-ablaze'>
-                                <!-- <p>Darkness<br>Ablaze</p> -->
+                            </a>
+                            <a class='set-cube darkness-ablaze' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh3-darkness-ablaze.png'></p>
-                            </div>
-                            <div class='set-cube rebel-clash'>
-                                <!-- <p>Rebel<br>Clash</p> -->
+                            </a>
+                            <a class='set-cube rebel-clash' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh2-rebel-clash.png'></p>
-                            </div>
-                            <div class='set-cube sword-shield'>
-                                <!-- <p>Sword &<br>Shield</p> -->
+                            </a>
+                            <a class='set-cube sword-shield' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ssh1.webp'></p>
-                            </div>
+                            </a>
                         </div>
                     </div>
 
@@ -174,70 +159,54 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <div class='set-cube cosmic-eclipse'>
-                                <!-- <p>Cosmic<br>Eclipse</p> -->
+                            <a class='set-cube cosmic-eclipse' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/cosmic-eclipse.png'></p>
-                            </div>
-                            <div class='set-cube hidden-fates'>
-                                <!-- <p>Hidden<br>Fates</p> -->
+                            </a>
+                            <a class='set-cube hidden-fates' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/hidden-fates.png'></p>
-                            </div>
-                            <div class='set-cube unified-minds'>
-                                <!-- <p>Unified<br>Minds</p> -->
+                            </a>
+                            <a class='set-cube unified-minds' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sm11-unified-minds.png'></p>
-                            </div>
-                            <div class='set-cube unbroken-bonds'>
-                                <!-- <p>Unbroken<br>Bonds</p> -->
+                            </a>
+                            <a class='set-cube unbroken-bonds' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sm10-unbroken-bonds.png'></p>
-                            </div>
-                            <div class='set-cube detective-pikachu'>
-                                <!-- <p>Detective<br>Pikachu</p> -->
+                            </a>
+                            <a class='set-cube detective-pikachu' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/detective-pikachu.png'></p>
-                            </div>
-                            <div class='set-cube team-up'>
-                                <!-- <p>Teamp<br>Up</p> -->
+                            </a>
+                            <a class='set-cube team-up' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sm9-team-up.png'></p>
-                            </div>
-                            <div class='set-cube lost-thunder'>
-                                <!-- <p>Lost<br>Thunder</p> -->
+                            </a>
+                            <a class='set-cube lost-thunder' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sm8-lost-thunder.png'></p>
-                            </div>
-                            <div class='set-cube dragon-majesty'>
-                                <!-- <p>Dragon<br>Majesty</p> -->
+                            </a>
+                            <a class='set-cube dragon-majesty' href='#scroll-here'>
                                 <p><img class='pogo' src='./assets/sets/smp-dragon-magesty.png'></p>
-                            </div>
-                            <div class='set-cube celestial-storm'>
-                                <!-- <p>Celestial<br>Storm</p> -->
+                            </a>
+                            <a class='set-cube celestial-storm' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sm7-celestial-storm.png'></p>
-                            </div>
-                            <div class='set-cube forbidden-light'>
-                                <!-- <p>Forbidden<br>Light</p> -->
+                            </a>
+                            <a class='set-cube forbidden-light' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sm6-forbidden-light.png'></p>
-                            </div>
-                            <div class='set-cube ultra-prism'>
-                                <!-- <p>Ultra<br>Prism</p> -->
+                            </a>
+                            <a class='set-cube ultra-prism' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sm5-ultra-prism.png'></p>
-                            </div>
-                            <div class='set-cube crimson-invasion'>
-                                <!-- <p>Crimson<br>Invasion</p> -->
+                            </a>
+                            <a class='set-cube crimson-invasion' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sm4-crimson-invasion.png'></p>
-                            </div>
-                            <div class='set-cube shining-legends'>
-                                <!-- <p>Shining<br>Legends</p> -->
+                            </a>
+                            <a class='set-cube shining-legends' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/smp-shining-legends.png'></p>
-                            </div>
-                            <div class='set-cube burning-shadows'>
-                                <!-- <p>Burning<br>Shadows</p> -->
+                            </a>
+                            <a class='set-cube burning-shadows' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sm3-burning-shadows.png'></p>
-                            </div>
-                            <div class='set-cube guardians-rising'>
-                                <!-- <p>Guardians<br>Rising</p> -->
+                            </a>
+                            <a class='set-cube guardians-rising' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sm2-gaurdians-rising.png'></p>
-                            </div>
-                            <div class='set-cube sun-moon'>
-                                <!-- <p>Sun &<br>Moon</p> -->
+                            </a>
+                            <a class='set-cube sun-moon' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/sm1-sm.png'></p>
-                            </div>
+                            </a>
                         </div>
                     </div>
 
@@ -249,48 +218,45 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <div class='set-cube evolutions'>
+                            <a class='set-cube evolutions' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xy12-evolutions.png'></p>
-                            </div>
-                            <div class='set-cube steam-seige'>
+                            </a>
+                            <a class='set-cube steam-seige' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xy11-steam-seige.png'></p>
-                            </div>
-                            <div class='set-cube fates-collide'>
+                            </a>
+                            <a class='set-cube fates-collide' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xy10-fates-collide.png'></p>
-                            </div>
-                            <div class='set-cube generations'>
+                            </a>
+                            <a class='set-cube generations' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xyp-generations.png'></p>
-                            </div>
-                            <div class='set-cube breakpoint'>
+                            </a>
+                            <a class='set-cube breakpoint' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xy9-breakpoint.png'></p>
-                            </div>
-                            <div class='set-cube breakthrough'>
+                            </a>
+                            <a class='set-cube breakthrough' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xy8-breakthrough.png'></p>
-                            </div>
-                            <div class='set-cube ancient-origins'>
+                            </a>
+                            <a class='set-cube ancient-origins' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xy7-ancient-origins.png'></p>
-                            </div>
-                            <div class='set-cube roaring-skies'>
+                            </a>
+                            <a class='set-cube roaring-skies' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xy6-roaring-skies.png'></p>
-                            </div>
-                            <div class='set-cube double-crises'>
+                            </a>
+                            <a class='set-cube double-crises' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xyp-double-crises.png'></p>
-                            </div>
-                            <div class='set-cube primal-clash'>
+                            </a>
+                            <a class='set-cube primal-clash' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xy5-primal-clash.png'></p>
-                            </div>
-                            <div class='set-cube furious-fists'>
+                            </a>
+                            <a class='set-cube furious-fists' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xy3-furious-fists.png'></p>
-                            </div>
-                            <div class='set-cube flashfire'>
+                            </a>
+                            <a class='set-cube flashfire' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xy2-flashfire.png'></p>
-                            </div>
-                            <div class='set-cube xy'>
+                            </a>
+                            <a class='set-cube xy' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/xy1-xy.png'></p>
-                            </div>
-                            <!-- <div class='set-cube kalos-starter-set'>
-                                <p><img class='setit' src='./assets/sets/xyp-starter-set.png'></p>
-                            </div> -->
+                            </a>
                         </div>
                     </div>
 
@@ -302,42 +268,42 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <div class='set-cube legendary-treasures'>
+                            <a class='set-cube legendary-treasures' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bw11-ltr.png'></p>
-                            </div>
-                            <div class='set-cube plasma-blast'>
+                            </a>
+                            <a class='set-cube plasma-blast' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bw10-plasma-blast.png'></p>
-                            </div>
-                            <div class='set-cube plasma-freeze'>
+                            </a>
+                            <a class='set-cube plasma-freeze' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bw9-plasma-freeze.png'></p>
-                            </div>
-                            <div class='set-cube plasma-storm'>
+                            </a>
+                            <a class='set-cube plasma-storm' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bw8-plasmastorm.png'></p>
-                            </div>
-                            <div class='set-cube boundaries-crossed'>
+                            </a>
+                            <a class='set-cube boundaries-crossed' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bw7-boundaries-crossed.png'></p>
-                            </div>
-                            <div class='set-cube dragon-vault'>
+                            </a>
+                            <a class='set-cube dragon-vault' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bwp-dragon-vault.png'></p>
-                            </div>
-                            <div class='set-cube dragons-exalted'>
+                            </a>
+                            <a class='set-cube dragons-exalted' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bw6-dragons-exalted.png'></p>
-                            </div>
-                            <div class='set-cube dark-explorers'>
+                            </a>
+                            <a class='set-cube dark-explorers' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bw5-dark-explorers.png'></p>
-                            </div>
-                            <div class='set-cube next-destinies'>
+                            </a>
+                            <a class='set-cube next-destinies' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bw4-next-destinies.png'></p>
-                            </div>
-                            <div class='set-cube noble-victories'>
+                            </a>
+                            <a class='set-cube noble-victories' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bw3-noble-victories.png'></p>
-                            </div>
-                            <div class='set-cube emerging-powers'>
+                            </a>
+                            <a class='set-cube emerging-powers' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bw2-emerging-powers.png'></p>
-                            </div>
-                            <div class='set-cube black-white'>
+                            </a>
+                            <a class='set-cube black-white' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/bw1-bw.png'></p>
-                            </div>
+                            </a>
                         </div>
                     </div>
 
@@ -349,21 +315,21 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <div class='set-cube call-of-legends'>
+                            <a class='set-cube call-of-legends' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/hs5-col.png'></p>
-                            </div>
-                            <div class='set-cube triumphant'>
+                            </a>
+                            <a class='set-cube triumphant' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/hs4-triumphant.png'></p>
-                            </div>
-                            <div class='set-cube undaunted'>
+                            </a>
+                            <a class='set-cube undaunted' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/hs3-undaunted.png'></p>
-                            </div>
-                            <div class='set-cube unleashed'>
+                            </a>
+                            <a class='set-cube unleashed' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/hs2-unleashed.png'></p>
-                            </div>
-                            <div class='set-cube hgss'>
+                            </a>
+                            <a class='set-cube hgss' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/hs1-hgss.png'></p>
-                            </div>
+                            </a>
                         </div>
                     </div>
 
@@ -375,39 +341,39 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <div class='set-cube arceus'>
+                            <a class='set-cube arceus' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/dp11-arceus.png'></p>
-                            </div>
-                            <div class='set-cube supreme-victors'>
+                            </a>
+                            <a class='set-cube supreme-victors' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/dp10-supreme-victors.png'></p>
-                            </div>
-                            <div class='set-cube rising-rivals'>
+                            </a>
+                            <a class='set-cube rising-rivals' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/dp9-rising-rivals.png'></p>
-                            </div>
-                            <div class='set-cube platinum'>
+                            </a>
+                            <a class='set-cube platinum' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/dp8-platinum.png'></p>
-                            </div>
-                            <div class='set-cube stormfront'>
+                            </a>
+                            <a class='set-cube stormfront' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/dp7-stormfront.png'></p>
-                            </div>
-                            <div class='set-cube legends-awakened'>
+                            </a>
+                            <a class='set-cube legends-awakened' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/dp6-legends-awakened.png'></p>
-                            </div>
-                            <div class='set-cube majestic-dawn'>
+                            </a>
+                            <a class='set-cube majestic-dawn' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/dp5-majestic-dawn.png'></p>
-                            </div>
-                            <div class='set-cube great-encounters'>
+                            </a>
+                            <a class='set-cube great-encounters' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/dp4-great-encounters.png'></p>
-                            </div>
-                            <div class='set-cube secret-wonders'>
+                            </a>
+                            <a class='set-cube secret-wonders' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/dp3-secret-wonders.png'></p>
-                            </div>
-                            <div class='set-cube mysterious-treasures'>
+                            </a>
+                            <a class='set-cube mysterious-treasures' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/dp2-mysterious-treasures.png'></p>
-                            </div>
-                            <div class='set-cube diamond-pearl'>
+                            </a>
+                            <a class='set-cube diamond-pearl' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/dp1-diamond-pearl.png'></p>
-                            </div>
+                            </a>
                         </div>
                     </div>
 
@@ -419,54 +385,54 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <div class='set-cube power-keepers'>
+                            <a class='set-cube power-keepers' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex16-power-keepers.png'></p>
-                            </div>
-                            <div class='set-cube dragon-fronteirs'>
+                            </a>
+                            <a class='set-cube dragon-fronteirs' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex15-dragon-fronteirs.png'></p>
-                            </div>
-                            <div class='set-cube crystal-gaurdians'>
+                            </a>
+                            <a class='set-cube crystal-gaurdians' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex14-crystal-gaurdians.png'></p>
-                            </div>
-                            <div class='set-cube holon-phantoms'>
+                            </a>
+                            <a class='set-cube holon-phantoms' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex13-holon-phantoms.png'></p>
-                            </div>
-                            <div class='set-cube legend-maker'>
+                            </a>
+                            <a class='set-cube legend-maker' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex12-legend-maker.png'></p>
-                            </div>
-                            <div class='set-cube delta-species'>
+                            </a>
+                            <a class='set-cube delta-species' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex11-delta-species.png'></p>
-                            </div>
-                            <div class='set-cube unseen-forces'>
+                            </a>
+                            <a class='set-cube unseen-forces' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex10-unseen-forces.png'></p>
-                            </div>
-                            <div class='set-cube emerald'>
+                            </a>
+                            <a class='set-cube emerald' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex9-emerald.png'></p>
-                            </div>
-                            <div class='set-cube deoxys'>
+                            </a>
+                            <a class='set-cube deoxys' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex8-deoxys.png'></p>
-                            </div>
-                            <div class='set-cube rocket-returns'>
+                            </a>
+                            <a class='set-cube rocket-returns' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex7-rocket-rerturns.png'></p>
-                            </div>
-                            <div class='set-cube firered-leafgreen'>
+                            </a>
+                            <a class='set-cube firered-leafgreen' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex6-firered-leafgreen.png'></p>
-                            </div>
-                            <div class='set-cube hidden-legends'>
+                            </a>
+                            <a class='set-cube hidden-legends' href='#scroll-here'>
                                 <p><img class='pogo' src='./assets/sets/ex5-hidden-legends.png'></p>
-                            </div>
-                            <div class='set-cube magma-aqua'>
+                            </a>
+                            <a class='set-cube magma-aqua' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex4-magma-aqua.png'></p>
-                            </div>
-                            <div class='set-cube dragon'>
+                            </a>
+                            <a class='set-cube dragon' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex3-dragon.webp'></p>
-                            </div>
-                            <div class='set-cube sandstorm'>
+                            </a>
+                            <a class='set-cube sandstorm' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex2-sandstorm.webp'></p>
-                            </div>
-                            <div class='set-cube ruby-sapphire'>
+                            </a>
+                            <a class='set-cube ruby-sapphire' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/ex1-ruby-sapphire.png'></p>
-                            </div>
+                            </a>
                         </div>
                     </div>
 
@@ -478,51 +444,51 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <div class='set-cube skyridge'>
+                            <a class='set-cube skyridge' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/skyridge.png'></p>
-                            </div>
-                            <div class='set-cube aquapolis'>
+                            </a>
+                            <a class='set-cube aquapolis' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/aquaopolis.webp'></p>
-                            </div>
-                            <div class='set-cube expedition'>
+                            </a>
+                            <a class='set-cube expedition' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/expedition1.png'></p>
-                            </div>
-                            <div class='set-cube legendary-collection'>
+                            </a>
+                            <a class='set-cube legendary-collection' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/legendary-collection.png'></p>
-                            </div>
-                            <div class='set-cube destiny'>
+                            </a>
+                            <a class='set-cube destiny' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/neo-destiny.png'></p>
-                            </div>
-                            <div class='set-cube revelation'>
+                            </a>
+                            <a class='set-cube revelation' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/neo-revelation.webp'></p>
-                            </div>
-                            <div class='set-cube discovery'>
+                            </a>
+                            <a class='set-cube discovery' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/neo-discovery.png'></p>
-                            </div>
-                            <div class='set-cube genesis'>
+                            </a>
+                            <a class='set-cube genesis' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/neo-genesis.png'></p>
-                            </div>
-                            <div class='set-cube gym-challenge'>
+                            </a>
+                            <a class='set-cube gym-challenge' href='#scroll-here'>
                                 <p><img class='pogo' src='./assets/sets/gym-challenge.png'></p>
-                            </div>
-                            <div class='set-cube gym-heroes'>
+                            </a>
+                            <a class='set-cube gym-heroes' href='#scroll-here'>
                                 <p><img class='pogo' src='./assets/sets/gym-heroes.png'></p>
-                            </div>
-                            <div class='set-cube team-rocket'>
+                            </a>
+                            <a class='set-cube team-rocket' href='#scroll-here'>
                                 <p><img class='setit' src='./assets/sets/team-rocket.png'></p>
-                            </div>
-                            <div class='set-cube base-set2'>
+                            </a>
+                            <a class='set-cube base-set2' href='#scroll-here'>
                                 <p><img class='pogo' src='./assets/sets/base-set2.webp'></p>
-                            </div>
-                            <div class='set-cube fossil'>
+                            </a>
+                            <a class='set-cube fossil' href='#scroll-here'>
                                 <p><img class='pogo' src='./assets/sets/fossil.webp'></p>
-                            </div>
-                            <div class='set-cube jungle'>
+                            </a>
+                            <a class='set-cube jungle' href='#scroll-here'>
                                 <p><img class='pogo' src='./assets/sets/jungle.webp'></p>
-                            </div>
-                            <div class='set-cube base-set'>
+                            </a>
+                            <a class='set-cube base-set' onclick="displayBaseList(baseSet)" href='#scroll-here'>
                                 <p><img class='pogo' src='./assets/sets/base-set.png'></p>
-                            </div>
+                            </a>
                         </div>
                     </div>
 
@@ -615,12 +581,15 @@
 
         </div>
 
-        <div class='live-set'>
+        <div class='set-info'>
+            <div class='live-set'></div>
             <!-- Generated set logo -->
+            <p class='release-date'></p>
+            <p class='card-count'></p>
         </div>
         <hr class='seperator'>
 
-        <div class='all-cards'>
+        <div class='all-cards' id='scroll-here'>
             <!-- Generated list of cards -->
         </div>
     </div>
@@ -647,8 +616,7 @@
     </footer>
 
     <script src='./card-database.js'></script>
-    <!-- <script src='./card-database/base-set.js'></script> -->
-    <script src='./card-database/crown-zenith.js'></script>
+    <script src='./card-database/api-sets.js'></script>
 
     <script>
         var coll = document.getElementsByClassName("collapse-select");
