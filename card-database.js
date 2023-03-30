@@ -4,7 +4,7 @@
 // let page = 1;
 
 // const getCards = () => {
-//     const url = 'https://api.pokemontcg.io/v2/cards?q=set.id:swsh4';
+//     const url = 'https://api.pokemontcg.io/v2/cards?q=set.id:swsh1';
 //     fetch(url, {
 //         headers: {
 //             "X-Api-key": "c7d98093-9347-4504-92d8-0387131ab03b",
@@ -28,10 +28,10 @@
 // };
 // getCards();
 
-// if (history.scrollRestoration) {
-//     history.scrollRestoration = 'manual';
-// } else {
-//     window.onbeforeunload = function () {
-//         window.scrollTo(0, 0);
-//     }
-// }
+if (history.scrollRestoration) {
+    history.scrollRestoration = 'manual';
+} else {
+    window.onbeforeunload = function () {
+        window.scrollTo(0, 0);
+    }
+}
