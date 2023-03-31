@@ -10,6 +10,9 @@
     color: white;
     text-shadow: 1px 1px 3px black;
 }
+.margin-left {
+    margin-left: 13px;
+}
 .db-hr1 {
     width: 35%;height:2px;
     background-color: rgb(70, 70, 70);
@@ -266,6 +269,25 @@
 .set-cube:hover {
     cursor: pointer;
 }
+.set-cube-skinny {
+    height:100px;width:175px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 7.5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 5px 5px 15px black;
+}
+.set-cube-skinny img {
+    transform: scale(1.3);
+    transition: ease all 0.3s;
+}
+.white-cube {
+    background-color: white;
+}
 .setit {
     width: 100px;height:auto;
 }
@@ -409,6 +431,9 @@
         height:150px;
         width:125px;
     }
+    .set-cube-skinny {
+        height:75px;width:125px;
+    }
     .setit {
         width: 75px;height:auto;
     }
@@ -429,6 +454,9 @@
 @media screen and (max-width: 750px) {
     .search {
         width: 150px;height:15px;
+    }
+    .margin-left {
+        font-size: 18px;
     }
     .top-section img {
         width:175px;
@@ -500,6 +528,10 @@
         height:113px;
         width:100px;
         box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.845);
+    }
+    .set-cube-skinny {
+        height:56.5px;width:100px;
+        border-radius: 20px;
     }
     .setit {
         width: 60px;height:auto;
@@ -617,6 +649,9 @@
         font-size: 12px;
         text-align: center;
     }
+    .margin-left {
+        font-size: 16px;
+    }
     .all-types {
         padding: 0px;
     }
@@ -664,6 +699,10 @@
         height:105px;
         width:90px;
     }
+    .set-cube-skinny {
+        height:45px;width:90px;
+        border-radius: 15px;
+    }
     .set-cube p {
         padding-top: 5px;
     }
@@ -681,6 +720,10 @@
         width:80px;
         margin: 3px 4px;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    }
+    .set-cube-skinny {
+        height:45px;
+        width:80px;
     }
 }
 
@@ -749,7 +792,6 @@
 .triumphant:hover,
 .undaunted:hover,
 .unleashed:hover,
-.rumble:hover,
 .hgss:hover,
 .arceus:hover,
 .supreme-victors:hover,
@@ -793,9 +835,25 @@
 .base-set2:hover,
 .jungle:hover,
 .base-set:hover,
+.futsal:hover,
+.rumble:hover,
 .ruby-sapphire:hover
 {
     background-size: auto 112%;
+}
+
+.kalos-starter:hover,
+.pop9:hover,
+.pop8:hover,
+.pop7:hover,
+.pop6:hover,
+.pop5:hover,
+.pop4:hover,
+.pop3:hover,
+.pop2:hover,
+.pop1:hover,
+.southernisland:hover {
+    transform: scale(1.5);
 }
 
 /* sword shield */
@@ -1279,7 +1337,7 @@
     content-visibility: auto;
 }
 .rumble {
-    background: url(../assets/set-filter/hgss/rumble.png) no-repeat center;
+    background: url(../assets/set-filter/rumble.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
@@ -1559,6 +1617,13 @@
 }
 .base-set2 {
     background: url(../assets/set-filter/wotc/base-set2.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.futsal {
+    background: url(../assets/set-filter/futsol.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
