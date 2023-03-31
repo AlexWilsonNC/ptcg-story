@@ -740,6 +740,7 @@
 .breakthrough:hover,
 .ancient-origins:hover,
 .roaring-skies:hover,
+.phantom-forces:hover,
 .double-crises:hover,
 .primal-clash:hover,
 .furious-fists:hover,
@@ -1090,6 +1091,13 @@
 }
 .ancient-origins {
     background: url(../assets/set-filter/xy/ancient-origins.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+.phantom-forces {
+    background: url(../assets/set-filter/xy/phantom-forces.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
