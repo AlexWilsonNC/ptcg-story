@@ -67,6 +67,21 @@
     color: rgb(190, 190, 190);
 }
 
+.scroll-top-btn {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    background-color: black;
+    border-radius: 12px;
+    font-size: 30px;
+    color:white;
+    padding: 10px 15px;
+    transition: ease all 0.2s;
+}
+.scroll-top-btn:hover {
+    background-color: rgb(61, 61, 86);
+}
+
 .database-container{
     display: flex;
     flex-direction: column;
@@ -466,6 +481,16 @@
     .card-count {
         font-size: 14px;
     }
+    .seperator {
+        height: 2px;
+    }
+    .scroll-top-btn {
+        bottom: 37px;
+        right: 37px;
+        border-radius: 10px;
+        font-size: 24px;
+        padding: 10px 13px;
+    }
 }
 @media screen and (max-width: 695px) {
     .set-cube {
@@ -547,6 +572,12 @@
     }
     .type-and-word p {
         font-size: 12px;
+    }
+    .scroll-top-btn {
+        bottom: 20px;
+        right: 20px;
+        font-size: 22px;
+        padding: 9px 13px;
     }
 }
 @media screen and (max-width: 439px) {
