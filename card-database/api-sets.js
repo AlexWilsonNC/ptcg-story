@@ -15911,8 +15911,6 @@ let zoomedImg = document.getElementById("insert-zoomed-img");
 let card = document.getElementsByClassName("database-card-in-list"),
     zoombox = document.getElementById("zoomed-bg");
 
-const setBase = document.getElementsByClassName('base-set');
-
 function displayList(array = []) {
     setsOl.innerHTML = '';
     for (let i = 0; i < array.length; i++) {

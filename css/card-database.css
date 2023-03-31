@@ -285,6 +285,30 @@
     transform: scale(1.3);
     transition: ease all 0.3s;
 }
+.set-cube-promo {
+    height:200px;width:175px;
+    border-radius: 25px;
+    background-color: rgba(32, 32, 32, 0.5);
+    margin: 7.5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 5px 5px 15px black;
+}
+.set-cube-promo p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(2px) saturate(90%);
+    text-align: center;
+    height:100%;width:100%;
+}
+.set-cube-promo img {
+    width: 70%
+}
 .white-cube {
     background-color: white;
 }
@@ -411,7 +435,8 @@
     }
 }
 @media screen and (max-width: 930px) {
-    .set-cube {
+    .set-cube,
+    .set-cube-promo {
         height:175px;
         width:150px;
     }
@@ -427,7 +452,8 @@
     }
 }
 @media screen and (max-width: 813px) {
-    .set-cube {
+    .set-cube,
+    .set-cube-promo {
         height:150px;
         width:125px;
     }
@@ -524,13 +550,14 @@
     }
 }
 @media screen and (max-width: 695px) {
-    .set-cube {
+    .set-cube,
+    .set-cube-promo {
         height:113px;
         width:100px;
         box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.845);
     }
     .set-cube-skinny {
-        height:56.5px;width:100px;
+        height:65px;width:100px;
         border-radius: 20px;
     }
     .setit {
@@ -616,7 +643,8 @@
     }
 }
 @media screen and (max-width: 439px) {
-    .set-cube {
+    .set-cube,
+    .set-cube-promo {
         border-radius: 15px;
         margin: 5px 6px;
         box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.6);
@@ -694,13 +722,14 @@
     .set-logo5 {
         height:30px;width:80px;
     }
-    .set-cube {
+    .set-cube,
+    .set-cube-promo {
         border-radius: 14px;
         height:105px;
         width:90px;
     }
     .set-cube-skinny {
-        height:45px;width:90px;
+        height:60px;width:90px;
         border-radius: 15px;
     }
     .set-cube p {
@@ -714,7 +743,8 @@
     }
 }
 @media screen and (min-width: 321px) and (max-width: 363px) {
-    .set-cube {
+    .set-cube,
+    .set-cube-promo {
         border-radius: 12px;
         height:95px;
         width:80px;
@@ -722,7 +752,7 @@
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
     }
     .set-cube-skinny {
-        height:45px;
+        height:55px;
         width:80px;
     }
 }
@@ -837,6 +867,7 @@
 .base-set:hover,
 .futsal:hover,
 .rumble:hover,
+.promo:hover,
 .ruby-sapphire:hover
 {
     background-size: auto 112%;
@@ -1417,6 +1448,14 @@
 }
 .diamond-pearl {
     background: url(../assets/set-filter/dp/diamon-pearl.jpg) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+
+.promo {
+    background: url(../assets/set-filter/card-back.jpg) no-repeat center;
     background-size: auto 100%;
     object-fit: contain;
     transition: ease all 0.3s;
