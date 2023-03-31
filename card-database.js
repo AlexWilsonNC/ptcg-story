@@ -1,14 +1,14 @@
 // fetch('https://api.pokemontcg.io/v2/sets').then(res => { console.log('List of All Sets', res.json()) })
-fetch('https://api.pokemontcg.io/v2/cards?q=set.id:hgss1').then(res => { console.log('Download New Set', res.json()) })
+fetch('https://api.pokemontcg.io/v2/cards?q=set.id:p1').then(res => { console.log('Download New Set', res.json()) })
 
-heartgoldSoulsilver.forEach(cardObject => {
+rubySapphire.forEach(cardObject => {
     delete cardObject.tcgplayer;
     delete cardObject.cardmarket;
     delete cardObject.level;
     delete cardObject.retreatCost;
     delete cardObject.set.updatedAt;
 })
-console.log('Edited Set Object - Removing Values', heartgoldSoulsilver)
+console.log('Edited Set Object - Removing Values', rubySapphire)
 
 // const allStandardLegalCards = [];
 // let page = 1;
