@@ -1,14 +1,14 @@
 // fetch('https://api.pokemontcg.io/v2/sets').then(res => { console.log('List of All Sets', res.json()) })
-// fetch('https://api.pokemontcg.io/v2/cards?q=set.id:pl1').then(res => { console.log('Download New Set', res.json()) })
+// fetch('https://api.pokemontcg.io/v2/cards?q=set.id:sv1').then(res => { console.log('Download New Set', res.json()) })
 
-// platinum.forEach(cardObject => {
+// sv1.forEach(cardObject => {
 //     delete cardObject.tcgplayer;
 //     delete cardObject.cardmarket;
 //     delete cardObject.level;
 //     delete cardObject.retreatCost;
 //     delete cardObject.set.updatedAt;
 // })
-// console.log('Edited Set Object - Removing Values', platinum)
+// console.log('Edited Set Object - Removing Values', sv1)
 
 // const allStandardLegalCards = [];
 // let page = 1;
