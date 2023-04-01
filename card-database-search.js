@@ -1,39 +1,150 @@
-const pokemonCard = [...pop1, ...pop2, ...pop3, ...pop4, ...pop5, ...pop6, ...pop7, ...pop8, ...pop9, ...southernIslands, ...rumble, ...kalos, ...futsal, ...promoWotc, ...baseSet, ...jungle, ...fossil, ...baseSet2, ...teamRocket, ...gymHeroes, ...gymChallenge, ...genesis, ...discovery, ...revelation, ...destiny, ...legendaryCollection, ...expedition, ...aquapolis, ...skyridge, ...promoRs, ...rubySapphire, ...sandstorm, ...dragon, ...magmaAqua, ...hiddenLegends, ...fireredLeafgreen, ...teamRocketReturns, ...deoxys, ...emerald, ...unseenForces, ...deltaSpecies, ...legendMaker, ...holonPhantoms, ...crystalGuardians, ...dragonFrontiers, ...powerKeepers, ...promoDp, ...diamondPearl, ...mysteriousTreasures, ...secretWonders, ...greatEncounters, ...majesticDawn, ...legendsAwakened, ...stormfront, ...platinum, ...risingRivals, ...supremeVictors, ...arceus, ...promoHgSs, ...heartgoldSoulsilver, ...unleashed, ...undaunted, ...triumphant, ...callOfLegends, ...blackWhite, ...promoBw, ...emergingPowers, ...nobleVictories, ...nextDestinies, ...darkExplorers, ...dragonsExalted, ...dragonVault, ...boundariesCrossed, ...plasmaStorm, ...plasmaFreeze, ...plasmaBlast, ...legendaryTreasures, ...promoXy, ...xySet, ...flashfire, ...furiousFists, ...phantomForces, ...primalClash, ...doubleCrisis, ...roaringSkies, ...ancientOrigins, ...breakthrough, ...breakpoint, ...generations, ...fatesCollide, ...steamSiege, ...evolutions, ...promoSm, ...sunMoon, ...guardiansRising, ...burningShadows, ...shiningLegends, ...crimsonInvasion, ...ultraPrism, ...forbiddenLight, ...celestialStorm, ...dragonMajesty, ...lostThunder, ...teamUp, ...detectivePikachu, ...unbrokenBonds, ...unifiedMinds, ...hiddenFates, ...cosmicEclipse, ...promoSwSh, ...swordShield, ...rebelClash, ...darknessAblaze, ...championsPath, ...vividVoltage, ...shiningFates, ...battleStyles, ...chillingReign, ...evolvingSkies, ...celebrations, ...fusionStrike, ...brilliantStars, ...astralRadiance, ...pokemonGo, ...lostOrigin, ...silverTempest, ...crownZenith, ...sv1, ...promoSv];
-   // const pokemonCard = [...blackWhite, ...sv1]
-// const pokemonCard = [
-//     {
-//       id: 1,
-//       name: 'Pikachu',
-//       img: 'https://images.pokemontcg.io/sm3/40.png',
-//     },
- 
-//     {
-//       id: 2,
-//       name: 'Charmander',
-//       img: 'https://images.pokemontcg.io/sm3/18a.png',
-//     }
-//  ];
+const pokemonCard = [
+   ...sv1,
+   ...promoSv,
+   ...crownZenith,
+   ...silverTempest,
+   ...lostOrigin,
+   ...pokemonGo,
+   ...astralRadiance,
+   ...brilliantStars,
+   ...fusionStrike,
+   ...celebrations,
+   ...evolvingSkies,
+   ...chillingReign,
+   ...battleStyles,
+   ...shiningFates,
+   ...vividVoltage,
+   ...championsPath,
+   ...futsal,
+   ...darknessAblaze,
+   ...rebelClash,
+   ...swordShield,
+   ...promoSwSh,
+   ...cosmicEclipse,
+   ...hiddenFates,
+   ...unifiedMinds,
+   ...unbrokenBonds,
+   ...detectivePikachu,
+   ...teamUp,
+   ...lostThunder,
+   ...dragonMajesty,
+   ...celestialStorm,
+   ...forbiddenLight,
+   ...ultraPrism,
+   ...crimsonInvasion,
+   ...shiningLegends,
+   ...burningShadows,
+   ...guardiansRising,
+   ...sunMoon,
+   ...promoSm,
+   ...evolutions,
+   ...steamSiege,
+   ...fatesCollide,
+   ...generations,
+   ...breakpoint,
+   ...breakthrough,
+   ...ancientOrigins,
+   ...roaringSkies,
+   ...doubleCrisis,
+   ...primalClash,
+   ...phantomForces,
+   ...furiousFists,
+   ...flashfire,
+   ...xySet,
+   ...kalos,
+   ...promoXy,
+   ...legendaryTreasures,
+   ...plasmaBlast,
+   ...plasmaFreeze,
+   ...plasmaStorm,
+   ...boundariesCrossed,
+   ...dragonVault,
+   ...dragonsExalted,
+   ...darkExplorers,
+   ...nextDestinies,
+   ...nobleVictories,
+   ...emergingPowers,
+   ...blackWhite,
+   ...promoBw,
+   ...callOfLegends,
+   ...triumphant,
+   ...undaunted,
+   ...unleashed,
+   ...heartgoldSoulsilver,
+   ...promoHgSs,
+   ...rumble,
+   ...arceus,
+   ...supremeVictors,
+   ...risingRivals,
+   ...pop9,
+   ...platinum,
+   ...stormfront,
+   ...legendsAwakened,
+   ...pop8,
+   ...majesticDawn,
+   ...pop7,
+   ...greatEncounters,
+   ...secretWonders,
+   ...pop6,
+   ...mysteriousTreasures,
+   ...diamondPearl,
+   ...promoDp,
+   ...pop5,
+   ...powerKeepers,
+   ...dragonFrontiers,
+   ...crystalGuardians,
+   ...pop4,
+   ...holonPhantoms,
+   ...pop3,
+   ...legendMaker,
+   ...deltaSpecies,
+   ...pop2,
+   ...unseenForces,
+   ...emerald,
+   ...deoxys,
+   ...teamRocketReturns,
+   ...pop1,
+   ...fireredLeafgreen,
+   ...hiddenLegends,
+   ...magmaAqua,
+   ...dragon,
+   ...sandstorm,
+   ...rubySapphire,
+   ...promoRs,
+   ...skyridge,
+   ...aquapolis,
+   ...expedition,
+   ...legendaryCollection,
+   ...destiny,
+   ...revelation,
+   ...southernIslands,
+   ...discovery,
+   ...genesis,
+   ...gymChallenge,
+   ...gymHeroes,
+   ...teamRocket,
+   ...baseSet2,
+   ...fossil,
+   ...jungle,
+   ...baseSet,
+   ...promoWotc
+];
 
 const searchField = document.querySelector('#search');
 // const setsOl = document.querySelector('.all-cards'); // where cards get displayed
 
 searchField.addEventListener('input', (e) => {
-  
-  if(e.target.value === '') {
-     setsOl.innerHTML = '';
-     return;
-  }
-  
-  const searchResults = pokemonCard.filter(poke => poke.name?.toLowerCase().includes(e.target.value.toLowerCase()));
-  
-  setsOl.innerHTML = '';
-  
-//   searchResults.forEach((element, index) => {
-//      const p = document.createElement('p');
-//      p.textContent = (index + 1) + '. ' + element.name;
-//      setsOl.appendChild(p);
-//   });
-  searchResults.forEach((poke) => {
+
+   if (e.target.value === '') {
+      setsOl.innerHTML = '';
+      return;
+   }
+
+   const searchResults = pokemonCard.filter(poke => poke.name?.toLowerCase().includes(e.target.value.toLowerCase()));
+
+   setsOl.innerHTML = '';
+
+   searchResults.forEach((poke) => {
       let meep = document.createElement('img');
       meep.classList.add('database-card-in-list');
       meep.setAttribute('src', poke.images.small);
@@ -45,5 +156,5 @@ searchField.addEventListener('input', (e) => {
       zoombox.onclick = () => {
          zoombox.className = "";
       };
-  });
+   });
 });
