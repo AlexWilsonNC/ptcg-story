@@ -606,6 +606,10 @@
         text-align: center;
         text-decoration: underline;
     }
+    .database-searcher {
+        margin-top: -21px;
+        width: 88%;
+    }
     .db-hr1 {
         display: none;
     }
