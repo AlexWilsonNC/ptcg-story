@@ -1,27 +1,25 @@
-let crownZenith = [
+let sv1 = [
     {
-        "id": "swsh12pt5-1",
-        "name": "Oddish",
+        "id": "sv1-1",
+        "name": "Pineco",
         "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
-        "hp": "50",
+        "hp": 60,
         "types": [
             "Grass"
         ],
-        "evolvesTo": [
-            "Gloom"
-        ],
         "attacks": [
             {
-                "name": "Leaf Boomerang",
                 "cost": [
+                    "Colorless",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 1,
-                "damage": "10×",
-                "text": "Flip 2 coins. This attack does 10 damage for each heads."
+                "name": "Guard Press",
+                "damage": "10",
+                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
@@ -30,69 +28,73 @@ let crownZenith = [
                 "value": "×2"
             }
         ],
-        "convertedRetreatCost": 1,
+        "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
         "number": "1",
-        "artist": "ryoma uratsuka",
+        "artist": "Shigenori Negishi",
         "rarity": "Common",
-        "flavorText": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
         "nationalPokedexNumbers": [
-            43
+            204
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/1.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/1_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/1.png",
+            "large": "https://images.pokemontcg.io/sv1/1_hires.png"
         }
     },
     {
-        "id": "swsh12pt5-2",
-        "name": "Gloom",
+        "id": "sv1-2",
+        "name": "Heracross",
         "supertype": "Pokémon",
         "subtypes": [
-            "Stage 1"
+            "Basic"
         ],
-        "hp": "70",
+        "hp": 120,
         "types": [
             "Grass"
         ],
-        "evolvesFrom": "Oddish",
-        "evolvesTo": [
-            "Vileplume",
-            "Bellossom"
-        ],
         "attacks": [
             {
-                "name": "Offensive Scent",
                 "cost": [
                     "Grass",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+                "name": "Superpowered Throw",
+                "damage": "10+",
+                "text": "This attack does 30 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Horn Attack",
+                "damage": "90",
+                "text": "",
+                "convertedEnergyCost": 3
             }
         ],
         "weaknesses": [
@@ -101,65 +103,61 @@ let crownZenith = [
                 "value": "×2"
             }
         ],
-        "convertedRetreatCost": 1,
+        "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
         "number": "2",
-        "artist": "Kyoko Umemoto",
+        "artist": "Taira Akitsu",
         "rarity": "Uncommon",
-        "flavorText": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
         "nationalPokedexNumbers": [
-            44
+            214
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/2.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/2_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/2.png",
+            "large": "https://images.pokemontcg.io/sv1/2_hires.png"
         }
     },
     {
-        "id": "swsh12pt5-3",
-        "name": "Bellossom",
+        "id": "sv1-3",
+        "name": "Shroomish",
         "supertype": "Pokémon",
         "subtypes": [
-            "Stage 2"
+            "Basic"
         ],
-        "hp": "120",
+        "hp": 60,
         "types": [
             "Grass"
         ],
-        "evolvesFrom": "Gloom",
         "attacks": [
             {
-                "name": "Flower Spin",
                 "cost": [
-                    "Grass",
-                    "Colorless"
+                    "Grass"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "80×",
-                "text": "Flip 3 coins. This attack does 80 damage for each heads. Switch this Pokémon with 1 of your Benched Pokémon."
+                "name": "Absorb",
+                "damage": "10",
+                "text": "Heal 10 damage from this Pokémon.",
+                "convertedEnergyCost": 1
             }
         ],
         "weaknesses": [
@@ -170,75 +168,60 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
         "number": "3",
-        "artist": "Nagomi Nijo",
-        "rarity": "Rare",
-        "flavorText": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+        "artist": "kurumitsu",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            182
+            285
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/3.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/3_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/3.png",
+            "large": "https://images.pokemontcg.io/sv1/3_hires.png"
         }
     },
     {
-        "id": "swsh12pt5-4",
-        "name": "Tangela",
+        "id": "sv1-4",
+        "name": "Breloom",
         "supertype": "Pokémon",
         "subtypes": [
-            "Basic"
+            "Stage 1"
         ],
-        "hp": "80",
+        "hp": 110,
         "types": [
             "Grass"
         ],
-        "evolvesTo": [
-            "Tangrowth"
-        ],
+        "evolvesFrom": "Shroomish",
         "attacks": [
             {
-                "name": "Beat",
                 "cost": [
-                    "Colorless"
+                    "Grass"
                 ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Vine Whip",
-                "cost": [
-                    "Grass",
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
+                "name": "Mach Cross",
                 "damage": "60",
-                "text": ""
+                "text": "",
+                "convertedEnergyCost": 1
             }
         ],
         "weaknesses": [
@@ -247,76 +230,69 @@ let crownZenith = [
                 "value": "×2"
             }
         ],
-        "convertedRetreatCost": 2,
+        "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
         "number": "4",
-        "artist": "kurumitsu",
-        "rarity": "Common",
-        "flavorText": "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.",
+        "artist": "Ryuta Fuse",
+        "rarity": "Uncommon",
         "nationalPokedexNumbers": [
-            114
+            286
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/4.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/4_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/4.png",
+            "large": "https://images.pokemontcg.io/sv1/4_hires.png"
         }
     },
     {
-        "id": "swsh12pt5-5",
-        "name": "Tangrowth",
+        "id": "sv1-5",
+        "name": "Cacnea",
         "supertype": "Pokémon",
         "subtypes": [
-            "Stage 1"
+            "Basic"
         ],
-        "hp": "150",
+        "hp": 60,
         "types": [
             "Grass"
         ],
-        "evolvesFrom": "Tangela",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon."
+            }
+        ],
         "attacks": [
             {
-                "name": "Suctioning Vines",
                 "cost": [
-                    "Grass",
+                    "Colorless",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": "Heal 30 damage from this Pokémon."
-            },
-            {
-                "name": "Hammer In",
-                "cost": [
-                    "Grass",
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "130",
-                "text": ""
+                "name": "Light Punch",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
@@ -325,66 +301,71 @@ let crownZenith = [
                 "value": "×2"
             }
         ],
-        "convertedRetreatCost": 4,
+        "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
         "number": "5",
-        "artist": "zig",
-        "rarity": "Rare",
-        "flavorText": "Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.",
+        "artist": "Tika Matsuno",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            465
+            331
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/5.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/5_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/5.png",
+            "large": "https://images.pokemontcg.io/sv1/5_hires.png"
         }
     },
     {
-        "id": "swsh12pt5-6",
-        "name": "Scyther",
+        "id": "sv1-6",
+        "name": "Cacturne",
         "supertype": "Pokémon",
         "subtypes": [
-            "Basic"
+            "Stage 1"
         ],
-        "hp": "80",
+        "hp": 130,
         "types": [
             "Grass"
         ],
-        "evolvesTo": [
-            "Scizor"
+        "evolvesFrom": "Cacnea",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon."
+            }
         ],
         "attacks": [
             {
-                "name": "Mach Cut",
                 "cost": [
+                    "Colorless",
+                    "Colorless",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": "Discard a Special Energy from your opponent's Active Pokémon."
+                "name": "Spike Shot",
+                "damage": "110",
+                "text": "",
+                "convertedEnergyCost": 3
             }
         ],
         "weaknesses": [
@@ -393,67 +374,71 @@ let crownZenith = [
                 "value": "×2"
             }
         ],
-        "convertedRetreatCost": 1,
+        "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
         "number": "6",
-        "artist": "Narumi Sato",
-        "rarity": "Common",
-        "flavorText": "As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree.",
+        "artist": "DOM",
+        "rarity": "Uncommon",
         "nationalPokedexNumbers": [
-            123
+            332
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/6.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/6_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/6.png",
+            "large": "https://images.pokemontcg.io/sv1/6_hires.png"
         }
     },
     {
-        "id": "swsh12pt5-7",
-        "name": "Sunkern",
+        "id": "sv1-7",
+        "name": "Tropius",
         "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
-        "hp": "40",
+        "hp": 100,
         "types": [
             "Grass"
         ],
-        "evolvesTo": [
-            "Sunflora"
-        ],
         "attacks": [
             {
-                "name": "Seed Bomb",
                 "cost": [
-                    "Colorless",
+                    "Grass"
+                ],
+                "name": "Fresh-Picked Fruit",
+                "damage": "",
+                "text": "Heal 60 damage from 1 of your Benched Pokémon.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
+                "name": "Razor Leaf",
+                "damage": "50",
+                "text": "",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
@@ -464,75 +449,67 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
         "number": "7",
-        "artist": "ryoma uratsuka",
+        "artist": "aoki",
         "rarity": "Common",
-        "flavorText": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
         "nationalPokedexNumbers": [
-            191
+            357
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/7.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/7_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/7.png",
+            "large": "https://images.pokemontcg.io/sv1/7_hires.png"
         }
     },
     {
-        "id": "swsh12pt5-8",
-        "name": "Yanma",
+        "id": "sv1-8",
+        "name": "Scatterbug",
         "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
-        "hp": "70",
+        "hp": 30,
         "types": [
             "Grass"
         ],
-        "evolvesTo": [
-            "Yanmega"
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "This Pokémon can evolve during your first turn or the turn you play it."
+            }
         ],
         "attacks": [
             {
-                "name": "Swoop Across",
                 "cost": [
+                    "Grass",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Cutting Wind",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": ""
+                "name": "Tackle",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
@@ -543,73 +520,68 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
         "number": "8",
-        "artist": "Shin Nagasawa",
+        "artist": "sowsow",
         "rarity": "Common",
-        "flavorText": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
         "nationalPokedexNumbers": [
-            193
+            664
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/8.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/8_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/8.png",
+            "large": "https://images.pokemontcg.io/sv1/8_hires.png"
         }
     },
     {
-        "id": "swsh12pt5-9",
-        "name": "Yanmega",
+        "id": "sv1-9",
+        "name": "Spewpa",
         "supertype": "Pokémon",
         "subtypes": [
             "Stage 1"
         ],
-        "hp": "130",
+        "hp": 70,
         "types": [
             "Grass"
         ],
-        "evolvesFrom": "Yanma",
+        "evolvesFrom": "Scatterbug",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "This Pokémon can evolve during your first turn or the turn you play it."
+            }
+        ],
         "attacks": [
             {
-                "name": "Shoot Through",
                 "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Jet Wing",
-                "cost": [
-                    "Grass",
                     "Grass",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "160",
-                "text": "During your next turn, this Pokémon can't attack."
+                "name": "Bug Bite",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
@@ -618,10678 +590,2643 @@ let crownZenith = [
                 "value": "×2"
             }
         ],
+        "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
         "number": "9",
-        "artist": "KIYOTAKA OSHIYAMA",
-        "rarity": "Rare",
-        "flavorText": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
-        "nationalPokedexNumbers": [
-            469
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/9.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/9_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-10",
-        "name": "Kricketot",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Kricketune"
-        ],
-        "attacks": [
-            {
-                "name": "Trip Over",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10+",
-                "text": "Flip a coin. If heads, this attack does 20 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "10",
-        "artist": "Shigenori Negishi",
-        "rarity": "Common",
-        "flavorText": "When its antennae hit each other, it sounds like the music of a xylophone.",
-        "nationalPokedexNumbers": [
-            401
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/10.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/10_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-11",
-        "name": "Cherubi",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Cherrim"
-        ],
-        "attacks": [
-            {
-                "name": "Leafage",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "11",
-        "artist": "Lee HyunJung",
-        "rarity": "Common",
-        "flavorText": "The deeper a Cherubi's red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!",
-        "nationalPokedexNumbers": [
-            420
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/11.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/11_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-12",
-        "name": "Carnivine",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "90",
-        "types": [
-            "Grass"
-        ],
-        "attacks": [
-            {
-                "name": "Festering Saliva",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Your opponent's Active Pokémon is now Burned and Poisoned."
-            },
-            {
-                "name": "Bind Down",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "40",
-                "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "12",
-        "artist": "Shibuzoh.",
-        "rarity": "Uncommon",
-        "flavorText": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
-        "nationalPokedexNumbers": [
-            455
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/12.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/12_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-13",
-        "name": "Leafeon V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "210",
-        "types": [
-            "Grass"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Leaf Guard",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
-            },
-            {
-                "name": "Slashing Strike",
-                "cost": [
-                    "Grass",
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "180",
-                "text": "During your next turn, this Pokémon can't use Slashing Strike."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "13",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            470
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/13.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/13_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-14",
-        "name": "Leafeon VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "260",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Leafeon V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Ivy Star",
-                "text": "During your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon. (You can't use more than 1 VSTAR Power in a game.)",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Leaf Guard",
-                "cost": [
-                    "Grass",
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "180",
-                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "14",
-        "artist": "PLANETA Hiiragi",
-        "rarity": "Rare Holo VSTAR",
-        "nationalPokedexNumbers": [
-            470
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/14.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/14_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-15",
-        "name": "Grubbin",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Charjabug"
-        ],
-        "attacks": [
-            {
-                "name": "Energize",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Attach a Lightning Energy card from your discard pile to this Pokémon."
-            },
-            {
-                "name": "Surprise Attack",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "50",
-                "text": "Flip a coin. If tails, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "15",
-        "artist": "Atsuko Nishida",
-        "rarity": "Common",
-        "flavorText": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap.",
-        "nationalPokedexNumbers": [
-            736
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/15.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/15_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-16",
-        "name": "Zarude",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "120",
-        "types": [
-            "Grass"
-        ],
-        "attacks": [
-            {
-                "name": "Drag Off",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. This attack does 20 damage to the new Active Pokémon."
-            },
-            {
-                "name": "Triple Whip",
-                "cost": [
-                    "Grass",
-                    "Grass"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70×",
-                "text": "Flip 3 coins. This attack does 70 damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "16",
-        "artist": "Shiburingaru",
-        "rarity": "Rare Holo",
-        "flavorText": "Within dense forests, this Pokémon lives in a pack with others of its kind. It's incredibly aggressive, and the other Pokémon of the forest fear it.",
-        "nationalPokedexNumbers": [
-            893
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/16.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/16_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-17",
-        "name": "Calyrex",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "110",
-        "types": [
-            "Grass"
-        ],
-        "attacks": [
-            {
-                "name": "King's Instructions",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
-            },
-            {
-                "name": "Bloomshine",
-                "cost": [
-                    "Grass",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": "Heal 20 damage from each of your Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "17",
-        "artist": "Nurikabe",
-        "rarity": "Rare Holo",
-        "flavorText": "Calyrex is a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.",
-        "nationalPokedexNumbers": [
-            898
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/17.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/17_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-18",
-        "name": "Charizard V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "220",
-        "types": [
-            "Fire"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Incinerate",
-                "cost": [
-                    "Fire",
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
-            },
-            {
-                "name": "Heat Blast",
-                "cost": [
-                    "Fire",
-                    "Fire",
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "180",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "18",
-        "artist": "N-DESIGN Inc.",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            6
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/18.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/18_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-19",
-        "name": "Charizard VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "280",
-        "types": [
-            "Fire"
-        ],
-        "evolvesFrom": "Charizard V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Explosive Fire",
-                "cost": [
-                    "Fire",
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "130+",
-                "text": "If this Pokémon has any damage counters on it, this attack does 100 more damage."
-            },
-            {
-                "name": "Star Blaze",
-                "cost": [
-                    "Fire",
-                    "Fire",
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "320",
-                "text": "Discard 2 Energy from this Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "19",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo VSTAR",
-        "nationalPokedexNumbers": [
-            6
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/19.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/19_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-20",
-        "name": "Radiant Charizard",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "Radiant"
-        ],
-        "hp": "160",
-        "types": [
-            "Fire"
-        ],
-        "rules": [
-            "Radiant Pokémon Rule: You can't have more than 1 Radiant Pokémon in your deck."
-        ],
-        "abilities": [
-            {
-                "name": "Excited Heart",
-                "text": "This Pokémon's attacks cost Colorless less for each Prize card your opponent has taken.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Combustion Blast",
-                "cost": [
-                    "Fire",
-                    "Colorless",
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 5,
-                "damage": "250",
-                "text": "During your next turn, this Pokémon can't use Combustion Blast."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "20",
-        "artist": "Kouki Saitou",
-        "rarity": "Radiant Rare",
-        "flavorText": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
-        "nationalPokedexNumbers": [
-            6
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/20.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/20_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-21",
-        "name": "Entei",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "120",
-        "types": [
-            "Fire"
-        ],
-        "abilities": [
-            {
-                "name": "Explosive Heat Dash",
-                "text": "If this Pokémon has any Fire Energy attached, it has no Retreat Cost.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Claw Slash",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "21",
-        "artist": "Nisota Niso",
-        "rarity": "Rare Holo",
-        "flavorText": "It is said that when it roars, a volcano erupts somewhere around the globe.",
-        "nationalPokedexNumbers": [
-            244
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/21.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/21_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-22",
-        "name": "Simisear V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "210",
-        "types": [
-            "Fire"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Bursting Power",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": "You may attach up to 2 basic Energy cards from your hand to your Pokémon in any way you like."
-            },
-            {
-                "name": "Flare Juggling",
-                "cost": [
-                    "Fire",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90+",
-                "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "22",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            514
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/22.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/22_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-23",
-        "name": "Simisear VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "260",
-        "types": [
-            "Fire"
-        ],
-        "evolvesFrom": "Simisear V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Fireball Fever",
-                "cost": [
-                    "Fire",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "40+",
-                "text": "You may discard up to 5 cards from the top of your deck. This attack does 40 more damage for each card you discarded in this way."
-            },
-            {
-                "name": "Ember Star",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30×",
-                "text": "This attack does 30 damage for each Energy card in your discard pile. (You can't use more than 1 VSTAR Power in a game.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "23",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo VSTAR",
-        "nationalPokedexNumbers": [
-            514
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/23.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/23_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-24",
-        "name": "Larvesta",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "80",
-        "types": [
-            "Fire"
-        ],
-        "evolvesTo": [
-            "Volcarona"
-        ],
-        "attacks": [
-            {
-                "name": "Live Coal",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "24",
-        "artist": "Tika Matsuno",
-        "rarity": "Common",
-        "flavorText": "The people of ancient times believed that Larvesta fell from the sun.",
-        "nationalPokedexNumbers": [
-            636
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/24.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/24_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-25",
-        "name": "Volcarona",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "130",
-        "types": [
-            "Fire"
-        ],
-        "evolvesFrom": "Larvesta",
-        "attacks": [
-            {
-                "name": "Will-O-Wisp",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "40",
-                "text": ""
-            },
-            {
-                "name": "Volcanic Heat",
-                "cost": [
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "120",
-                "text": "During your next turn, this Pokémon can't attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "25",
-        "artist": "Yuya Oka",
-        "rarity": "Rare",
-        "flavorText": "Volcarona scatters burning scales. Some say it does this to start fires. Others say it's trying to rescue those that suffer in the cold.",
-        "nationalPokedexNumbers": [
-            637
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/25.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/25_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-26",
-        "name": "Volcanion",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "130",
-        "types": [
-            "Fire"
-        ],
-        "attacks": [
-            {
-                "name": "Hammer In",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Hydro Burn",
-                "cost": [
-                    "Fire",
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80+",
-                "text": "If this Pokémon has any Water Energy attached, this attack does 80 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "26",
-        "artist": "Shiburingaru",
-        "rarity": "Rare Holo",
-        "flavorText": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
-        "nationalPokedexNumbers": [
-            721
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/26.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/26_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-27",
-        "name": "Salandit",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Fire"
-        ],
-        "evolvesTo": [
-            "Salazzle"
-        ],
-        "attacks": [
-            {
-                "name": "Call for Family",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
-            },
-            {
-                "name": "Scratch",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "27",
-        "artist": "Sekio",
-        "rarity": "Common",
-        "flavorText": "Its venom sacs produce a fluid that this Pokémon then heats up with the flame in its tail. This process creates Salandit's poisonous gas.",
-        "nationalPokedexNumbers": [
-            757
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/27.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/27_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-28",
-        "name": "Salazzle",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Fire"
-        ],
-        "evolvesFrom": "Salandit",
-        "attacks": [
-            {
-                "name": "Tail Trickery",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": "Your opponent's Active Pokémon is now Confused."
-            },
-            {
-                "name": "Super Singe",
-                "cost": [
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "60",
-                "text": "Your opponent's Active Pokémon is now Burned."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "28",
-        "artist": "aoki",
-        "rarity": "Uncommon",
-        "flavorText": "Only female Salazzle exist. They emit a gas laden with pheromones to captivate male Salandit.",
-        "nationalPokedexNumbers": [
-            758
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/28.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/28_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-29",
-        "name": "Seel",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Water"
-        ],
-        "evolvesTo": [
-            "Dewgong"
-        ],
-        "attacks": [
-            {
-                "name": "Headbutt",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Rain Splash",
-                "cost": [
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "29",
         "artist": "Kagemaru Himeno",
         "rarity": "Common",
-        "flavorText": "Thanks to its thick fat, cold seas don't bother it at all, but it gets tired pretty easily in warm waters.",
         "nationalPokedexNumbers": [
-            86
+            665
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/29.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/29_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/9.png",
+            "large": "https://images.pokemontcg.io/sv1/9_hires.png"
         }
     },
     {
-        "id": "swsh12pt5-30",
-        "name": "Galarian Mr. Mime",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "80",
-        "types": [
-            "Water"
-        ],
-        "attacks": [
-            {
-                "name": "Pound",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Find It",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "",
-                "text": "Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "30",
-        "artist": "Shigenori Negishi",
-        "rarity": "Common",
-        "flavorText": "It can radiate chilliness from the bottoms of its feet. It'll spend the whole day tap-dancing on a frozen floor.",
-        "nationalPokedexNumbers": [
-            122
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/30.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/30_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-31",
-        "name": "Wailmer",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "120",
-        "types": [
-            "Water"
-        ],
-        "evolvesTo": [
-            "Wailord"
-        ],
-        "attacks": [
-            {
-                "name": "Nap",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Heal 30 damage from this Pokémon."
-            },
-            {
-                "name": "Water Gun",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "31",
-        "artist": "kodama",
-        "rarity": "Common",
-        "flavorText": "It shows off by spraying jets of seawater from the nostrils above its eyes. It eats a solid ton of Wishiwashi every day.",
-        "nationalPokedexNumbers": [
-            320
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/31.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/31_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-32",
-        "name": "Wailord",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "220",
-        "types": [
-            "Water"
-        ],
-        "evolvesFrom": "Wailmer",
-        "attacks": [
-            {
-                "name": "Bubble Drain",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80",
-                "text": "Heal 30 damage from this Pokémon."
-            },
-            {
-                "name": "Heavy Impact",
-                "cost": [
-                    "Water",
-                    "Water",
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 5,
-                "damage": "180",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 4,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "32",
-        "artist": "KIYOTAKA OSHIYAMA",
-        "rarity": "Rare",
-        "flavorText": "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
-        "nationalPokedexNumbers": [
-            321
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/32.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/32_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-33",
-        "name": "Corphish",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Water"
-        ],
-        "evolvesTo": [
-            "Crawdaunt"
-        ],
-        "attacks": [
-            {
-                "name": "Water Gun",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Crabhammer",
-                "cost": [
-                    "Water",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "33",
-        "artist": "0313",
-        "rarity": "Common",
-        "flavorText": "No matter how dirty the water in the river, it will adapt and thrive. It has a strong will to survive.",
-        "nationalPokedexNumbers": [
-            341
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/33.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/33_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-34",
-        "name": "Snorunt",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Water"
-        ],
-        "evolvesTo": [
-            "Glalie",
-            "Froslass"
-        ],
-        "attacks": [
-            {
-                "name": "Headbutt",
-                "cost": [
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "34",
-        "artist": "otumami",
-        "rarity": "Common",
-        "flavorText": "It can only survive in cold areas. It bounces happily around, even in environments as cold as -150 degrees Fahrenheit.",
-        "nationalPokedexNumbers": [
-            361
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/34.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/34_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-35",
-        "name": "Luvdisc",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Water"
-        ],
-        "attacks": [
-            {
-                "name": "Emotional Draw",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Shuffle your hand into your deck. Then, draw 5 cards."
-            },
-            {
-                "name": "Tackle",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "35",
-        "artist": "Miki Tanaka",
-        "rarity": "Common",
-        "flavorText": "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola's branches.",
-        "nationalPokedexNumbers": [
-            370
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/35.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/35_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-36",
-        "name": "Kyogre",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "140",
-        "types": [
-            "Water"
-        ],
-        "attacks": [
-            {
-                "name": "Wave Summoning",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for a Water Energy card and attach it to this Pokémon. Then, shuffle your deck."
-            },
-            {
-                "name": "Dynamic Wave",
-                "cost": [
-                    "Water",
-                    "Water",
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "",
-                "text": "Put 3 Energy attached to this Pokémon into your hand. This attack does 180 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "36",
-        "artist": "Kouki Saitou",
-        "rarity": "Rare Holo",
-        "flavorText": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
-        "nationalPokedexNumbers": [
-            382
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/36.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/36_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-37",
-        "name": "Kyogre V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "230",
-        "types": [
-            "Water"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Dual Splash",
-                "cost": [
-                    "Water",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "",
-                "text": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Aqua Typhoon",
-                "cost": [
-                    "Water",
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "210",
-                "text": "During your next turn, this Pokémon can't use Aqua Typhoon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "37",
-        "artist": "PLANETA Tsuji",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            382
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/37.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/37_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-38",
-        "name": "Glaceon V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "210",
-        "types": [
-            "Water"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Frost Charge",
-                "cost": [
-                    "Water"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "Search your deck for a Water Energy card and attach it to this Pokémon. Then, shuffle your deck."
-            },
-            {
-                "name": "Freezing Wind",
-                "cost": [
-                    "Water",
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "130",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "38",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            471
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/38.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/38_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-39",
-        "name": "Shinx",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "Rapid Strike"
-        ],
-        "hp": "60",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Luxio"
-        ],
-        "attacks": [
-            {
-                "name": "Rear Kick",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "39",
-        "artist": "Mina Nakai",
-        "rarity": "Common",
-        "flavorText": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
-        "nationalPokedexNumbers": [
-            403
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/39.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/39_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-40",
-        "name": "Shinx",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Luxio"
-        ],
-        "attacks": [
-            {
-                "name": "Thunder Jolt",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "This Pokémon also does 10 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "40",
-        "artist": "0313",
-        "rarity": "Common",
-        "flavorText": "This Pokémon generates electricity by contracting its muscles. Excited trembling is a sign that Shinx is generating a tremendous amount of electricity.",
-        "nationalPokedexNumbers": [
-            403
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/40.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/40_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-41",
-        "name": "Luxio",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1",
-            "Rapid Strike"
-        ],
-        "hp": "80",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Shinx",
-        "evolvesTo": [
-            "Luxray"
-        ],
-        "attacks": [
-            {
-                "name": "Jumping Kick",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Head Bolt",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "41",
-        "artist": "Shibuzoh.",
-        "rarity": "Uncommon",
-        "flavorText": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
-        "nationalPokedexNumbers": [
-            404
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/41.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/41_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-42",
-        "name": "Luxio",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Shinx",
-        "evolvesTo": [
-            "Luxray"
-        ],
-        "attacks": [
-            {
-                "name": "Shorting Spark",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "This attack does 90 damage to each of your opponent's Pokémon that has a Pokémon Tool attached. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Bite",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "40",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "42",
-        "artist": "Eri Yamaki",
-        "rarity": "Uncommon",
-        "flavorText": "By joining its tail with that of another Luxio, this Pokémon can receive some of the other Luxio's electricity and power up its own electric blasts.",
-        "nationalPokedexNumbers": [
-            404
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/42.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/42_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-43",
-        "name": "Luxray",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 2",
-            "Rapid Strike"
-        ],
-        "hp": "150",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Luxio",
-        "attacks": [
-            {
-                "name": "Electrostep",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "This attack does 40 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Switch this Pokémon with 1 of your Benched Pokémon."
-            },
-            {
-                "name": "Scar Strikes",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "100+",
-                "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 100 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "43",
-        "artist": "sui",
-        "rarity": "Rare",
-        "flavorText": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
-        "nationalPokedexNumbers": [
-            405
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/43.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/43_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-44",
-        "name": "Luxray",
+        "id": "sv1-10",
+        "name": "Vivillon",
         "supertype": "Pokémon",
         "subtypes": [
             "Stage 2"
         ],
-        "hp": "160",
+        "hp": 120,
         "types": [
-            "Lightning"
+            "Grass"
         ],
-        "evolvesFrom": "Luxio",
-        "abilities": [
-            {
-                "name": "Explosiveness",
-                "text": "If this Pokémon is in your hand when you are setting up to play, you may put it face down as your Active Pokémon.",
-                "type": "Ability"
-            }
-        ],
+        "evolvesFrom": "Spewpa",
         "attacks": [
             {
-                "name": "Seeking Fang",
                 "cost": [
+                    "Grass"
+                ],
+                "name": "Miracle Powder",
+                "damage": "50",
+                "text": "Flip a coin. If heads, choose a Special Condition. Your opponent's Active Pokémon is now affected by that Special Condition.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 1,
-                "damage": "50",
-                "text": "Search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck."
+                "name": "Bug Buzz",
+                "damage": "110",
+                "text": "",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
             {
-                "type": "Fighting",
+                "type": "Fire",
                 "value": "×2"
             }
         ],
+        "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "44",
-        "artist": "Ryota Murayama",
-        "rarity": "Rare",
-        "flavorText": "Luxray can see through solid objects. It will instantly spot prey trying to hide behind walls, even if the walls are thick.",
+        "number": "10",
+        "artist": "Atsuko Nishida",
+        "rarity": "Uncommon",
         "nationalPokedexNumbers": [
-            405
+            666
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/44.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/44_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/10.png",
+            "large": "https://images.pokemontcg.io/sv1/10_hires.png"
         }
     },
     {
-        "id": "swsh12pt5-45",
-        "name": "Rotom V",
+        "id": "sv1-11",
+        "name": "Skiddo",
         "supertype": "Pokémon",
         "subtypes": [
-            "Basic",
-            "V"
+            "Basic"
         ],
-        "hp": "190",
+        "hp": 60,
         "types": [
-            "Lightning"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Instant Charge",
-                "text": "Once during your turn, you may draw 3 cards. If you use this Ability, your turn ends.",
-                "type": "Ability"
-            }
+            "Grass"
         ],
         "attacks": [
             {
-                "name": "Scrap Short",
                 "cost": [
-                    "Lightning",
-                    "Lightning"
+                    "Grass"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "40+",
-                "text": "Put any number of Pokémon Tool cards from your discard pile in the Lost Zone. This attack does 40 more damage for each card you put in the Lost Zone in this way."
+                "name": "Vine Whip",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Smash Kick",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
             {
-                "type": "Fighting",
+                "type": "Fire",
                 "value": "×2"
             }
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "11",
+        "artist": "Tika Matsuno",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            672
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/11.png",
+            "large": "https://images.pokemontcg.io/sv1/11_hires.png"
+        }
+    },
+    {
+        "id": "sv1-12",
+        "name": "Gogoat",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 130,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Skiddo",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Rising Lunge",
+                "damage": "30+",
+                "text": "Flip a coin. If heads, this attack does 30 more damage.",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Solar Beam",
+                "damage": "110",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "12",
+        "artist": "Gemi",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            673
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/12.png",
+            "large": "https://images.pokemontcg.io/sv1/12_hires.png"
+        }
+    },
+    {
+        "id": "sv1-13",
+        "name": "Sprigatito",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Scratch",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Leafage",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "13",
+        "artist": "Saya Tsuruta",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            906
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/13.png",
+            "large": "https://images.pokemontcg.io/sv1/13_hires.png"
+        }
+    },
+    {
+        "id": "sv1-14",
+        "name": "Floragato",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Sprigatito",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Slash",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Leaf Step",
+                "damage": "60",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "14",
+        "artist": "Kouki Saitou",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            907
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/14.png",
+            "large": "https://images.pokemontcg.io/sv1/14_hires.png"
+        }
+    },
+    {
+        "id": "sv1-15",
+        "name": "Meowscarada",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": 160,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Floragato",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Trick Cape",
+                "damage": "40",
+                "text": "You may put an Energy attached to your opponent's Active Pokémon into their hand.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Flower Blast",
+                "damage": "130",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "15",
+        "artist": "Ryota Murayama",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            908
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/15.png",
+            "large": "https://images.pokemontcg.io/sv1/15_hires.png"
+        }
+    },
+    {
+        "id": "sv1-16",
+        "name": "Tarountula",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "String Haul",
+                "damage": "",
+                "text": "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Bug Bite",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "16",
+        "artist": "Tika Matsuno",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            917
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/16.png",
+            "large": "https://images.pokemontcg.io/sv1/16_hires.png"
+        }
+    },
+    {
+        "id": "sv1-17",
+        "name": "Tarountula",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "String Shot",
+                "damage": "20",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "17",
+        "artist": "Pani Kobayashi",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            917
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/17.png",
+            "large": "https://images.pokemontcg.io/sv1/17_hires.png"
+        }
+    },
+    {
+        "id": "sv1-18",
+        "name": "Tarountula",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Surprise Attack",
+                "damage": "30",
+                "text": "Flip a coin. If tails, this attack does nothing.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "18",
+        "artist": "Kouki Saitou",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            917
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/18.png",
+            "large": "https://images.pokemontcg.io/sv1/18_hires.png"
+        }
+    },
+    {
+        "id": "sv1-19",
+        "name": "Spidops ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 260,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Tarountula",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Your opponent's Active Pokémon's Retreat Cost is Colorless more."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Wire Hang",
+                "damage": "90+",
+                "text": "This attack does 30 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "19",
+        "artist": "takuyoa",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            918
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/19.png",
+            "large": "https://images.pokemontcg.io/sv1/19_hires.png"
+        }
+    },
+    {
+        "id": "sv1-20",
+        "name": "Smoliv",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 50,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "20",
+        "artist": "yuu",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            928
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/20.png",
+            "large": "https://images.pokemontcg.io/sv1/20_hires.png"
+        }
+    },
+    {
+        "id": "sv1-21",
+        "name": "Smoliv",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Nutrients",
+                "damage": "",
+                "text": "Heal 30 damage from 1 of your Pokémon.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Spray Fluid",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "21",
+        "artist": "Shibuzoh.",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            928
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/21.png",
+            "large": "https://images.pokemontcg.io/sv1/21_hires.png"
+        }
+    },
+    {
+        "id": "sv1-22",
+        "name": "Dolliv",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Smoliv",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Slap",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Apply Oil",
+                "damage": "40",
+                "text": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "22",
+        "artist": "Mina Nakai",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            929
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/22.png",
+            "large": "https://images.pokemontcg.io/sv1/22_hires.png"
+        }
+    },
+    {
+        "id": "sv1-23",
+        "name": "Arboliva",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": 150,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Dolliv",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may heal all damage from 1 of your Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Solar Beam",
+                "damage": "150",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "23",
+        "artist": "Kouki Saitou",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            930
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/23.png",
+            "large": "https://images.pokemontcg.io/sv1/23_hires.png"
+        }
+    },
+    {
+        "id": "sv1-24",
+        "name": "Toedscool",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 50,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Furious Kicks",
+                "damage": "10×",
+                "text": "Flip 3 coins. This attack does 10 damage for each heads.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "24",
+        "artist": "Shin Nagasawa",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            948
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/24.png",
+            "large": "https://images.pokemontcg.io/sv1/24_hires.png"
+        }
+    },
+    {
+        "id": "sv1-25",
+        "name": "Toedscool",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Spore",
+                "damage": "",
+                "text": "Your opponent's Active Pokémon is now Asleep.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ram",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "25",
+        "artist": "Tika Matsuno",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            948
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/25.png",
+            "large": "https://images.pokemontcg.io/sv1/25_hires.png"
+        }
+    },
+    {
+        "id": "sv1-26",
+        "name": "Toedscruel",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 120,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Toedscool",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Eerie Tentacles",
+                "damage": "30",
+                "text": "You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Triple Smash",
+                "damage": "80×",
+                "text": "Flip 3 coins. This attack does 80 damage for each heads.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "26",
+        "artist": "nagimiso",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            949
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/26.png",
+            "large": "https://images.pokemontcg.io/sv1/26_hires.png"
+        }
+    },
+    {
+        "id": "sv1-27",
+        "name": "Capsakid",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Slightly Spicy",
+                "damage": "10",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "27",
+        "artist": "Kouki Saitou",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            951
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/27.png",
+            "large": "https://images.pokemontcg.io/sv1/27_hires.png"
+        }
+    },
+    {
+        "id": "sv1-28",
+        "name": "Capsakid",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Increasing Spice",
+                "damage": "",
+                "text": "Search your deck for a Basic Fire Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Playful Kick",
+                "damage": "50",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "28",
+        "artist": "GIDORA",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            951
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/28.png",
+            "large": "https://images.pokemontcg.io/sv1/28_hires.png"
+        }
+    },
+    {
+        "id": "sv1-29",
+        "name": "Scovillain",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 110,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Capsakid",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Hot Bite",
+                "damage": "20",
+                "text": "Your opponent's Active Pokémon is now Burned.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Super Spicy Breath",
+                "damage": "90+",
+                "text": "If this Pokémon has any Fire Energy attached, this attack does 90 more damage.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "29",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            952
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/29.png",
+            "large": "https://images.pokemontcg.io/sv1/29_hires.png"
+        }
+    },
+    {
+        "id": "sv1-30",
+        "name": "Growlithe",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Relentless Flames",
+                "damage": "30×",
+                "text": "Flip a coin until you get tails. This attack does 30 damage for each heads.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "30",
+        "artist": "kawayoo",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            58
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/30.png",
+            "large": "https://images.pokemontcg.io/sv1/30_hires.png"
+        }
+    },
+    {
+        "id": "sv1-31",
+        "name": "Growlithe",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 90,
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Stoke",
+                "damage": "",
+                "text": "Search your deck for up to 2 Basic Fire Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Fire Claws",
+                "damage": "70",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "31",
+        "artist": "Tika Matsuno",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            58
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/31.png",
+            "large": "https://images.pokemontcg.io/sv1/31_hires.png"
+        }
+    },
+    {
+        "id": "sv1-32",
+        "name": "Arcanine ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Tera ex"
+        ],
+        "hp": 280,
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Growlithe",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Raging Claws",
+                "damage": "30+",
+                "text": "This attack does 10 more damage for each damage counter on this Pokémon.",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Bright Flame",
+                "damage": "250",
+                "text": "Discard 2 Fire Energy from this Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "32",
+        "artist": "5ban Graphics",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            59
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/32.png",
+            "large": "https://images.pokemontcg.io/sv1/32_hires.png"
+        }
+    },
+    {
+        "id": "sv1-33",
+        "name": "Houndour",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Flare",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "33",
+        "artist": "nagimiso",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            228
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/33.png",
+            "large": "https://images.pokemontcg.io/sv1/33_hires.png"
+        }
+    },
+    {
+        "id": "sv1-34",
+        "name": "Houndoom",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 120,
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Houndour",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Sharp Fang",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Fire Blast",
+                "damage": "150",
+                "text": "Discard an Energy from this Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "34",
+        "artist": "hncl",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            229
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/34.png",
+            "large": "https://images.pokemontcg.io/sv1/34_hires.png"
+        }
+    },
+    {
+        "id": "sv1-35",
+        "name": "Torkoal",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 130,
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Stampede",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Concentrated Fire",
+                "damage": "80×",
+                "text": "Flip a coin for each Fire Energy attached to this Pokémon. This attack does 80 damage for each heads.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "35",
+        "artist": "Kurata So",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            324
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/35.png",
+            "large": "https://images.pokemontcg.io/sv1/35_hires.png"
+        }
+    },
+    {
+        "id": "sv1-36",
+        "name": "Fuecoco",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 80,
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Gnaw",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Combustion",
+                "damage": "50",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "36",
+        "artist": "Akira Komayama",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            909
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/36.png",
+            "large": "https://images.pokemontcg.io/sv1/36_hires.png"
+        }
+    },
+    {
+        "id": "sv1-37",
+        "name": "Crocalor",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 100,
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Fuecoco",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "damage": "50",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Rolling Tackle",
+                "damage": "100",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "37",
+        "artist": "kantaro",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            910
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/37.png",
+            "large": "https://images.pokemontcg.io/sv1/37_hires.png"
+        }
+    },
+    {
+        "id": "sv1-38",
+        "name": "Skeledirge",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": 180,
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Crocalor",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Passionate Singing",
+                "damage": "50",
+                "text": "Attach up to 2 Basic Energy cards from your discard pile to your Pokémon in any way you like.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Blazing Shout",
+                "damage": "190",
+                "text": "This Pokémon also does 30 damage to itself.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "38",
+        "artist": "nagimiso",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            911
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/38.png",
+            "large": "https://images.pokemontcg.io/sv1/38_hires.png"
+        }
+    },
+    {
+        "id": "sv1-39",
+        "name": "Charcadet",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Ember",
+                "damage": "30",
+                "text": "Discard an Energy from this Pokémon.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "39",
+        "artist": "Souichirou Gunjima",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            935
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/39.png",
+            "large": "https://images.pokemontcg.io/sv1/39_hires.png"
+        }
+    },
+    {
+        "id": "sv1-40",
+        "name": "Charcadet",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Heat Blast",
+                "damage": "60",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "40",
+        "artist": "nagimiso",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            935
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/40.png",
+            "large": "https://images.pokemontcg.io/sv1/40_hires.png"
+        }
+    },
+    {
+        "id": "sv1-41",
+        "name": "Armarouge",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 130,
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Charcadet",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "As often as you like during your turn, you may move a Fire Energy from 1 of your Benched Pokémon to your Active Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Flame Cannon",
+                "damage": "90",
+                "text": "Your opponent's Active Pokémon is now Burned.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "41",
+        "artist": "AKIRA EGAWA",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            936
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/41.png",
+            "large": "https://images.pokemontcg.io/sv1/41_hires.png"
+        }
+    },
+    {
+        "id": "sv1-42",
+        "name": "Slowpoke",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Rest",
+                "damage": "",
+                "text": "This Pokémon is now Asleep. Heal 30 damage from it.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Headbutt",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "42",
+        "artist": "Narumi Sato",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            79
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/42.png",
+            "large": "https://images.pokemontcg.io/sv1/42_hires.png"
+        }
+    },
+    {
+        "id": "sv1-43",
+        "name": "Slowbro",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 100,
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Slowpoke",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "As often as you like during your turn, you may move 1 damage counter from 1 of your other Pokémon to this Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Bubble Drain",
+                "damage": "60",
+                "text": "Heal 30 damage from this Pokémon.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "43",
+        "artist": "Shinji Kanda",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            80
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/43.png",
+            "large": "https://images.pokemontcg.io/sv1/43_hires.png"
+        }
+    },
+    {
+        "id": "sv1-44",
+        "name": "Magikarp",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 30,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Jump",
+                "damage": "",
+                "text": "Flip a coin. If heads, this attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "44",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            129
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/44.png",
+            "large": "https://images.pokemontcg.io/sv1/44_hires.png"
+        }
+    },
+    {
+        "id": "sv1-45",
+        "name": "Gyarados ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Tera ex"
+        ],
+        "hp": 300,
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Magikarp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Waterfall",
+                "damage": "100",
+                "text": "",
+                "convertedEnergyCost": 3
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Tyrannical Tail",
+                "damage": "180+",
+                "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 180 more damage.",
+                "convertedEnergyCost": 5
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
         "number": "45",
         "artist": "5ban Graphics",
-        "rarity": "Rare Holo V",
+        "rarity": "Double Rare",
         "nationalPokedexNumbers": [
-            479
+            130
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/45.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/45_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/45.png",
+            "large": "https://images.pokemontcg.io/sv1/45_hires.png"
         }
     },
     {
-        "id": "swsh12pt5-46",
-        "name": "Rotom VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "250",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Rotom V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Conversion Star",
-                "text": "During your turn, you may use this Ability. Discard any number of cards from your hand. Then, draw that many cards. (You can't use more than 1 VSTAR Power in a game.)",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Scrap Pulse",
-                "cost": [
-                    "Lightning",
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "80+",
-                "text": "Put any number of Pokémon Tool cards from your discard pile in the Lost Zone. This attack does 40 more damage for each card you put in the Lost Zone in this way."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "46",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo VSTAR",
-        "nationalPokedexNumbers": [
-            479
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/46.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/46_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-47",
-        "name": "Emolga",
+        "id": "sv1-46",
+        "name": "Buizel",
         "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
-        "hp": "70",
-        "types": [
-            "Lightning"
-        ],
-        "attacks": [
-            {
-                "name": "Thunder Shock",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "47",
-        "artist": "Saya Tsuruta",
-        "rarity": "Common",
-        "flavorText": "As it flies, it scatters electricity around, so bird Pokémon keep their distance. That's why Emolga can keep all its food to itself.",
-        "nationalPokedexNumbers": [
-            587
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/47.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/47_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-48",
-        "name": "Eelektrik",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "80",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Tynamo",
-        "evolvesTo": [
-            "Eelektross"
-        ],
-        "abilities": [
-            {
-                "name": "Ad Hoc Shock",
-                "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Static Shock",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "48",
-        "artist": "NC Empire",
-        "rarity": "Uncommon",
-        "flavorText": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
-        "nationalPokedexNumbers": [
-            603
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/48.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/48_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-49",
-        "name": "Helioptile",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Heliolisk"
-        ],
-        "attacks": [
-            {
-                "name": "Static Shock",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Rear Kick",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "49",
-        "artist": "Oswaldo KATO",
-        "rarity": "Common",
-        "flavorText": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.",
-        "nationalPokedexNumbers": [
-            694
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/49.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/49_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-50",
-        "name": "Heliolisk",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Helioptile",
-        "attacks": [
-            {
-                "name": "Static Shock",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Wild Charge",
-                "cost": [
-                    "Lightning",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "150",
-                "text": "This Pokémon also does 50 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "50",
-        "artist": "Akira Komayama",
-        "rarity": "Rare",
-        "flavorText": "A now-vanished desert culture treasured these Pokémon. Appropriately, when Heliolisk came to the Galar region, treasure came with them.",
-        "nationalPokedexNumbers": [
-            695
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/50.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/50_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-51",
-        "name": "Radiant Charjabug",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "Radiant"
-        ],
-        "hp": "90",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Vikavolt"
-        ],
-        "rules": [
-            "Radiant Pokémon Rule: You can't have more than 1 Radiant Pokémon in your deck."
-        ],
-        "abilities": [
-            {
-                "name": "Shocking Block",
-                "text": "Whenever any player attaches an Energy card from their hand to 1 of their Pokémon V, put 2 damage counters on that Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Linear Attack",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "51",
-        "artist": "Mizue",
-        "rarity": "Radiant Rare",
-        "flavorText": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
-        "nationalPokedexNumbers": [
-            737
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/51.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/51_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-52",
-        "name": "Zeraora",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "120",
-        "types": [
-            "Lightning"
-        ],
-        "attacks": [
-            {
-                "name": "Wild Charge",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70",
-                "text": "This Pokémon also does 20 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "52",
-        "artist": "HYOGONOSUKE",
-        "rarity": "Rare",
-        "flavorText": "It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws.",
-        "nationalPokedexNumbers": [
-            807
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/52.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/52_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-53",
-        "name": "Zeraora V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "210",
-        "types": [
-            "Lightning"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Claw Slash",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            },
-            {
-                "name": "Thunderous Bolt",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "190",
-                "text": "During your next turn, this Pokémon can't attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "53",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            807
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/53.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/53_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-54",
-        "name": "Zeraora VMAX",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VMAX"
-        ],
-        "hp": "320",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Zeraora V",
-        "rules": [
-            "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Reactive Pulse",
-                "cost": [
-                    "Lightning",
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "60×",
-                "text": "This attack does 60 damage for each of your opponent's Pokémon in play that has an Ability."
-            },
-            {
-                "name": "Max Fist",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "240",
-                "text": "Discard 2 Energy from this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "54",
-        "artist": "Nisota Niso",
-        "rarity": "Rare Holo VMAX",
-        "nationalPokedexNumbers": [
-            807
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/54.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/54_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-55",
-        "name": "Zeraora VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "270",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Zeraora V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Crushing Beat",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "190",
-                "text": "You may discard a Stadium in play."
-            },
-            {
-                "name": "Lightning Storm Star",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "",
-                "text": "Choose 1 of your opponent's Pokémon 4 times. (You can choose the same Pokémon more than once.) For each time you chose a Pokémon, do 60 damage to it. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 VSTAR Power in a game.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "55",
-        "artist": "aky CG Works",
-        "rarity": "Rare Holo VSTAR",
-        "nationalPokedexNumbers": [
-            807
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/55.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/55_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-56",
-        "name": "Pincurchin",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "80",
-        "types": [
-            "Lightning"
-        ],
-        "attacks": [
-            {
-                "name": "Call for Family",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
-            },
-            {
-                "name": "Continuous Tumble",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30+",
-                "text": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "56",
-        "artist": "Saya Tsuruta",
-        "rarity": "Uncommon",
-        "flavorText": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",
-        "nationalPokedexNumbers": [
-            871
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/56.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/56_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-57",
-        "name": "Exeggcute",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Exeggutor"
-        ],
-        "attacks": [
-            {
-                "name": "Psy Bolt",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "57",
-        "artist": "zig",
-        "rarity": "Common",
-        "flavorText": "Though it may look like it's just a bunch of eggs, it's a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
-        "nationalPokedexNumbers": [
-            102
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/57.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/57_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-58",
-        "name": "Exeggutor",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "130",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Exeggcute",
-        "attacks": [
-            {
-                "name": "Powerful Storm",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "This attack does 20 damage for each Energy attached to all of your Pokémon."
-            },
-            {
-                "name": "Stampede",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "58",
-        "artist": "Toshinao Aoki",
-        "rarity": "Rare",
-        "flavorText": "Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another.",
-        "nationalPokedexNumbers": [
-            103
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/58.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/58_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-59",
-        "name": "Mewtwo",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "130",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Psypump",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Attach up to 2 Psychic Energy cards from your discard pile to 1 of your Pokémon."
-            },
-            {
-                "name": "Limit Break",
-                "cost": [
-                    "Psychic",
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90+",
-                "text": "If your opponent has 3 or fewer Prize cards remaining, this attack does 90 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "59",
-        "artist": "Atsushi Furusawa",
-        "rarity": "Rare Holo",
-        "flavorText": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
-        "nationalPokedexNumbers": [
-            150
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/59.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/59_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-60",
-        "name": "Mew V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V",
-            "Fusion Strike"
-        ],
-        "hp": "180",
-        "types": [
-            "Psychic"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Energy Mix",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Search your deck for an Energy card and attach it to 1 of your Fusion Strike Pokémon. Then, shuffle your deck."
-            },
-            {
-                "name": "Psychic Leap",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70",
-                "text": "You may shuffle this Pokémon and all attached cards into your deck."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "60",
-        "artist": "PLANETA Igarashi",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            151
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/60.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/60_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-61",
-        "name": "Girafarig",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Double Draw",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Draw 2 cards."
-            },
-            {
-                "name": "Psybeam",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": "Your opponent's Active Pokémon is now Confused."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "61",
-        "artist": "Mina Nakai",
-        "rarity": "Uncommon",
-        "flavorText": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting.",
-        "nationalPokedexNumbers": [
-            203
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/61.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/61_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-62",
-        "name": "Lunatone",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Cycle Draw",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Discard a card from your hand. If you do, draw 3 cards."
-            },
-            {
-                "name": "Moon Kinesis",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "30+",
-                "text": "This attack does 30 more damage for each Psychic Energy attached to this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "62",
-        "artist": "Narumi Sato",
-        "rarity": "Uncommon",
-        "flavorText": "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.",
-        "nationalPokedexNumbers": [
-            337
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/62.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/62_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-63",
-        "name": "Dusclops",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Duskull",
-        "evolvesTo": [
-            "Dusknoir"
-        ],
-        "attacks": [
-            {
-                "name": "Fade to Black",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "Your opponent's Active Pokémon is now Confused."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "63",
-        "artist": "DOM",
-        "rarity": "Uncommon",
-        "flavorText": "Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole.",
-        "nationalPokedexNumbers": [
-            356
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/63.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/63_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-64",
-        "name": "Tapu Lele",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "110",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Energy Burst",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20×",
-                "text": "This attack does 20 damage for each Energy attached to both Active Pokémon."
-            },
-            {
-                "name": "Spiral Drain",
-                "cost": [
-                    "Psychic",
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100",
-                "text": "Heal 30 damage from this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "64",
-        "artist": "Saya Tsuruta",
-        "rarity": "Rare Holo",
-        "flavorText": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.",
-        "nationalPokedexNumbers": [
-            786
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/64.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/64_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-65",
-        "name": "Hatterene V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "200",
-        "types": [
-            "Psychic"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Horoscope",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Look at the top 3 cards of your deck. You may attach any number of Energy cards you find there to this Pokémon. Put the other cards back in any order."
-            },
-            {
-                "name": "Teleportation Burst",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80",
-                "text": "Switch this Pokémon with 1 of your Benched Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "65",
-        "artist": "kawayoo",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            858
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/65.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/65_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-66",
-        "name": "Hatterene VMAX",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VMAX"
-        ],
-        "hp": "320",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Hatterene V",
-        "rules": [
-            "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Witch's Domain",
-                "text": "Once during your turn, you may move up to 2 damage counters from your Pokémon to your opponent's Active Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "G-Max Smite",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "150",
-                "text": "Your opponent's Active Pokémon is now Confused."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "66",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo VMAX",
-        "nationalPokedexNumbers": [
-            858
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/66.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/66_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-67",
-        "name": "Enamorus",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "120",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Draining Kiss",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": "Heal 20 damage from this Pokémon."
-            },
-            {
-                "name": "Loving Sympathy",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70+",
-                "text": "If you have the same number of cards in your hand as your opponent, this attack does 70 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "67",
-        "artist": "Jiro Sasumo",
-        "rarity": "Rare",
-        "flavorText": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui.",
-        "nationalPokedexNumbers": [
-            905
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/67.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/67_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-68",
-        "name": "Graveler",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "110",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Geodude",
-        "evolvesTo": [
-            "Golem"
-        ],
-        "attacks": [
-            {
-                "name": "Tackle",
-                "cost": [
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Boulder Crush",
-                "cost": [
-                    "Fighting",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 4,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "68",
-        "artist": "AKIRA EGAWA",
-        "rarity": "Uncommon",
-        "flavorText": "It travels by rolling down cliffs. If it falls into a river, it will explode with its last gasp.",
-        "nationalPokedexNumbers": [
-            75
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/68.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/68_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-69",
-        "name": "Solrock",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "90",
-        "types": [
-            "Fighting"
-        ],
-        "abilities": [
-            {
-                "name": "Sun Energy",
-                "text": "Once during your turn, you may attach a Psychic Energy card from your discard pile to 1 of your Lunatone.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Spinning Attack",
-                "cost": [
-                    "Fighting",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "69",
-        "artist": "OKACHEKE",
-        "rarity": "Uncommon",
-        "flavorText": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
-        "nationalPokedexNumbers": [
-            338
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/69.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/69_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-70",
-        "name": "Baltoy",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesTo": [
-            "Claydol"
-        ],
-        "attacks": [
-            {
-                "name": "Smack",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "70",
-        "artist": "Nagomi Nijo",
-        "rarity": "Common",
-        "flavorText": "It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep.",
-        "nationalPokedexNumbers": [
-            343
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/70.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/70_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-71",
-        "name": "Riolu",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesTo": [
-            "Lucario"
-        ],
-        "attacks": [
-            {
-                "name": "Low Kick",
-                "cost": [
-                    "Fighting",
-                    "Fighting"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "71",
-        "artist": "Taira Akitsu",
-        "rarity": "Common",
-        "flavorText": "It's exceedingly energetic, with enough stamina to keep running all through the night. Taking it for walks can be a challenging experience.",
-        "nationalPokedexNumbers": [
-            447
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/71.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/71_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-72",
-        "name": "Pancham",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesTo": [
-            "Pangoro"
-        ],
-        "attacks": [
-            {
-                "name": "Chop",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Psychic",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "72",
-        "artist": "Sanosuke Sakuma",
-        "rarity": "Common",
-        "flavorText": "It chooses a Pangoro as its master and then imitates its master's actions. This is how it learns to battle and hunt for prey.",
-        "nationalPokedexNumbers": [
-            674
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/72.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/72_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-73",
-        "name": "Rockruff",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesTo": [
-            "Lycanroc"
-        ],
-        "attacks": [
-            {
-                "name": "Invite Out",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon."
-            },
-            {
-                "name": "Smash Kick",
-                "cost": [
-                    "Fighting",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "73",
-        "artist": "OKACHEKE",
-        "rarity": "Common",
-        "flavorText": "This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.",
-        "nationalPokedexNumbers": [
-            744
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/73.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/73_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-74",
-        "name": "Lycanroc",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Fighting"
-        ],
-        "evolvesFrom": "Rockruff",
-        "attacks": [
-            {
-                "name": "Midnight Fang",
-                "cost": [
-                    "Fighting",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "240-",
-                "text": "This attack does 80 less damage for each Energy attached to your opponent's Active Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "74",
-        "artist": "kodama",
-        "rarity": "Rare",
-        "flavorText": "This form of Lycanroc is reckless. It charges headlong at its opponents, attacking without any care about what injuries it might receive.",
-        "nationalPokedexNumbers": [
-            745
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/74.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/74_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-75",
-        "name": "Koffing",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesTo": [
-            "Weezing"
-        ],
-        "attacks": [
-            {
-                "name": "Smog",
-                "cost": [
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": "Your opponent's Active Pokémon is now Poisoned."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "75",
-        "artist": "miki kudo",
-        "rarity": "Common",
-        "flavorText": "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now.",
-        "nationalPokedexNumbers": [
-            109
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/75.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/75_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-76",
-        "name": "Absol",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "100",
-        "types": [
-            "Darkness"
-        ],
-        "attacks": [
-            {
-                "name": "Slash",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Lost Claw",
-                "cost": [
-                    "Darkness",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": "Put a random card from your opponent's hand in the Lost Zone."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "76",
-        "artist": "Shiburingaru",
-        "rarity": "Rare Holo",
-        "flavorText": "Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.",
-        "nationalPokedexNumbers": [
-            359
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/76.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/76_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-77",
-        "name": "Purrloin",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesTo": [
-            "Liepard"
-        ],
-        "attacks": [
-            {
-                "name": "Fury Swipes",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10×",
-                "text": "Flip 3 coins. This attack does 10 damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "77",
-        "artist": "Shibuzoh.",
-        "rarity": "Common",
-        "flavorText": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.",
-        "nationalPokedexNumbers": [
-            509
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/77.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/77_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-78",
-        "name": "Liepard",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "100",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Purrloin",
-        "attacks": [
-            {
-                "name": "Fury Swipes",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "40×",
-                "text": "Flip 3 coins. This attack does 40 damage for each heads."
-            },
-            {
-                "name": "Claw Slash",
-                "cost": [
-                    "Darkness",
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "110",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "78",
-        "artist": "KEIICHIRO ITO",
-        "rarity": "Rare",
-        "flavorText": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
-        "nationalPokedexNumbers": [
-            510
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/78.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/78_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-79",
-        "name": "Krokorok",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Sandile",
-        "evolvesTo": [
-            "Krookodile"
-        ],
-        "attacks": [
-            {
-                "name": "Bite",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            },
-            {
-                "name": "Dredge Up",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "",
-                "text": "Discard the top 3 cards of your opponent's deck."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "79",
-        "artist": "Shin Nagasawa",
-        "rarity": "Uncommon",
-        "flavorText": "It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful.",
-        "nationalPokedexNumbers": [
-            552
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "D",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/79.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/79_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-80",
-        "name": "Pangoro",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "140",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Pancham",
-        "attacks": [
-            {
-                "name": "Corkscrew Punch",
-                "cost": [
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "60",
-                "text": ""
-            },
-            {
-                "name": "Wild Tackle",
-                "cost": [
-                    "Darkness",
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "160",
-                "text": "This Pokémon also does 30 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "80",
-        "artist": "Uta",
-        "rarity": "Rare",
-        "flavorText": "This Pokémon is quick to anger, and it has no problem using its prodigious strength to get its way. It lives for duels against Obstagoon.",
-        "nationalPokedexNumbers": [
-            675
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/80.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/80_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-81",
-        "name": "Skrelp",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesTo": [
-            "Dragalge"
-        ],
-        "attacks": [
-            {
-                "name": "Tackle",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Melt",
-                "cost": [
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "81",
-        "artist": "Tomokazu Komiya",
-        "rarity": "Common",
-        "flavorText": "It drifts in the ocean, blending in with floating seaweed. When other Pokémon come to feast on the seaweed, Skrelp feasts on them instead.",
-        "nationalPokedexNumbers": [
-            690
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/81.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/81_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-82",
-        "name": "Dragalge",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Skrelp",
-        "attacks": [
-            {
-                "name": "Rocket Poison",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Your opponent's Active Pokémon is now Poisoned. If this Pokémon evolved from Skrelp during this turn, put 8 damage counters on that Pokémon instead of 1 during Pokémon Checkup."
-            },
-            {
-                "name": "Razor Fin",
-                "cost": [
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "60",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "82",
-        "artist": "NC Empire",
-        "rarity": "Rare",
-        "flavorText": "Dragalge uses a poisonous liquid capable of corroding metal to send tankers that enter its territory to the bottom of the sea.",
-        "nationalPokedexNumbers": [
-            691
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/82.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/82_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-83",
-        "name": "Hoopa",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "120",
-        "types": [
-            "Darkness"
-        ],
-        "attacks": [
-            {
-                "name": "Assault Gate",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "90",
-                "text": "If this Pokémon didn't move from the Bench to the Active Spot this turn, this attack does nothing. This attack's damage isn't affected by Weakness."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "83",
-        "artist": "Souichirou Gunjima",
-        "rarity": "Rare Holo",
-        "flavorText": "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
-        "nationalPokedexNumbers": [
-            720
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "D",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/83.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/83_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-84",
-        "name": "Galarian Meowth",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Metal"
-        ],
-        "evolvesTo": [
-            "Persian"
-        ],
-        "attacks": [
-            {
-                "name": "Fasten Claws",
-                "cost": [
-                    "Metal"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10+",
-                "text": "Flip a coin. If heads, this attack does 20 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "84",
-        "artist": "miki kudo",
-        "rarity": "Common",
-        "flavorText": "Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.",
-        "nationalPokedexNumbers": [
-            52
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/84.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/84_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-85",
-        "name": "Galarian Perrserker",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Metal"
-        ],
-        "evolvesFrom": "Galarian Meowth",
-        "attacks": [
-            {
-                "name": "Sharp Claws",
-                "cost": [
-                    "Metal",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30+",
-                "text": "Flip a coin. If heads, this attack does 60 more damage."
-            },
-            {
-                "name": "Slash",
-                "cost": [
-                    "Metal",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "85",
-        "artist": "Teeziro",
-        "rarity": "Rare",
-        "flavorText": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
-        "nationalPokedexNumbers": [
-            863
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/85.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/85_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-86",
-        "name": "Scizor",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "130",
-        "types": [
-            "Metal"
-        ],
-        "evolvesFrom": "Scyther",
-        "attacks": [
-            {
-                "name": "X-Scissor",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30+",
-                "text": "Flip a coin. If heads, this attack does 30 more damage."
-            },
-            {
-                "name": "Dangerous Claws",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80+",
-                "text": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 80 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "86",
-        "artist": "kodama",
-        "rarity": "Rare",
-        "flavorText": "Bulky pincers account for one third of Scizor's body weight. A single swing of one of these pincers will crush a boulder completely.",
-        "nationalPokedexNumbers": [
-            212
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/86.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/86_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-87",
-        "name": "Aron",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Metal"
-        ],
-        "evolvesTo": [
-            "Lairon"
-        ],
-        "attacks": [
-            {
-                "name": "Ram",
-                "cost": [
-                    "Metal"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Slight Intrusion",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": "This Pokémon also does 10 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "87",
-        "artist": "sowsow",
-        "rarity": "Common",
-        "flavorText": "It eats iron ore—and sometimes railroad tracks— to build up the steel armor that protects its body.",
-        "nationalPokedexNumbers": [
-            304
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/87.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/87_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-88",
-        "name": "Lairon",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Metal"
-        ],
-        "evolvesFrom": "Aron",
-        "evolvesTo": [
-            "Aggron"
-        ],
-        "attacks": [
-            {
-                "name": "Confront",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "40",
-                "text": ""
-            },
-            {
-                "name": "Wreak Havoc",
-                "cost": [
-                    "Metal",
-                    "Metal",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "80",
-                "text": "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "88",
-        "artist": "Mina Nakai",
-        "rarity": "Uncommon",
-        "flavorText": "Lairon live in mountains brimming with spring water and iron ore, so these Pokémon often came into conflict with humans in the past.",
-        "nationalPokedexNumbers": [
-            305
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/88.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/88_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-89",
-        "name": "Aggron",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "180",
-        "types": [
-            "Metal"
-        ],
-        "evolvesFrom": "Lairon",
-        "attacks": [
-            {
-                "name": "Counter Press",
-                "cost": [
-                    "Metal",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put damage counters on the Attacking Pokémon equal to the damage done to this Pokémon."
-            },
-            {
-                "name": "Heavy Impact",
-                "cost": [
-                    "Metal",
-                    "Metal",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "180",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 4,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "89",
-        "artist": "GOSSAN",
-        "rarity": "Rare Holo",
-        "flavorText": "Aggron has a horn sharp enough to perforate thick iron sheets. It brings down its opponents by ramming into them horn first.",
-        "nationalPokedexNumbers": [
-            306
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/89.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/89_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-90",
-        "name": "Metang",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "100",
-        "types": [
-            "Metal"
-        ],
-        "evolvesFrom": "Beldum",
-        "evolvesTo": [
-            "Metagross"
-        ],
-        "attacks": [
-            {
-                "name": "Bullet Punch",
-                "cost": [
-                    "Metal",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30+",
-                "text": "Flip 2 coins. This attack does 30 more damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "90",
-        "artist": "Nisota Niso",
-        "rarity": "Uncommon",
-        "flavorText": "Two Beldum have become stuck together via their own magnetic forces. With two brains, the resulting Metang has doubled psychic powers.",
-        "nationalPokedexNumbers": [
-            375
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/90.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/90_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-91",
-        "name": "Pawniard",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Metal"
-        ],
-        "evolvesTo": [
-            "Bisharp"
-        ],
-        "attacks": [
-            {
-                "name": "Reckless Charge",
-                "cost": [
-                    "Metal"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "This Pokémon also does 10 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "91",
-        "artist": "Yuya Oka",
-        "rarity": "Common",
-        "flavorText": "It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents.",
-        "nationalPokedexNumbers": [
-            624
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/91.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/91_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-92",
-        "name": "Pawniard",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Metal"
-        ],
-        "evolvesTo": [
-            "Bisharp"
-        ],
-        "attacks": [
-            {
-                "name": "Pierce",
-                "cost": [
-                    "Metal"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "92",
-        "artist": "Yuka Morii",
-        "rarity": "Common",
-        "flavorText": "It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents.",
-        "nationalPokedexNumbers": [
-            624
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/92.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/92_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-93",
-        "name": "Bisharp",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "110",
-        "types": [
-            "Metal"
-        ],
-        "evolvesFrom": "Pawniard",
-        "attacks": [
-            {
-                "name": "Spike Draw",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": "Draw 2 cards."
-            },
-            {
-                "name": "Power Edge",
-                "cost": [
-                    "Metal",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "93",
-        "artist": "DOM",
-        "rarity": "Uncommon",
-        "flavorText": "It's accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.",
-        "nationalPokedexNumbers": [
-            625
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/93.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/93_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-94",
-        "name": "Zacian",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "130",
-        "types": [
-            "Metal"
-        ],
-        "attacks": [
-            {
-                "name": "Battle Legion",
-                "cost": [
-                    "Metal"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20+",
-                "text": "This attack does 10 more damage for each of your Benched Pokémon. This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon."
-            },
-            {
-                "name": "Slicing Blade",
-                "cost": [
-                    "Metal",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "94",
-        "artist": "nagimiso",
-        "rarity": "Rare Holo",
-        "flavorText": "Now armed with a weapon it used in ancient times, this Pokémon needs only a single strike to fell even Gigantamax Pokémon.",
-        "nationalPokedexNumbers": [
-            888
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/94.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/94_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-95",
-        "name": "Zacian V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "220",
-        "types": [
-            "Metal"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Piercing Strike",
-                "cost": [
-                    "Metal"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "40",
-                "text": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."
-            },
-            {
-                "name": "Behemoth Blade",
-                "cost": [
-                    "Metal",
-                    "Metal",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100+",
-                "text": "If your opponent's Active Pokémon is a Pokémon VMAX, this attack does 160 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "95",
-        "artist": "aky CG Works",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            888
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/95.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/95_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-96",
-        "name": "Zacian VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "270",
-        "types": [
-            "Metal"
-        ],
-        "evolvesFrom": "Zacian V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Break Edge",
-                "cost": [
-                    "Metal",
-                    "Metal",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "200",
-                "text": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."
-            },
-            {
-                "name": "Sword Star",
-                "cost": [
-                    "Metal",
-                    "Metal",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "310",
-                "text": "This Pokémon also does 30 damage to itself. (You can't use more than 1 VSTAR Power in a game.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "96",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo VSTAR",
-        "nationalPokedexNumbers": [
-            888
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/96.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/96_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-97",
-        "name": "Zamazenta",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "130",
-        "types": [
-            "Metal"
-        ],
-        "abilities": [
-            {
-                "name": "Metal Shield",
-                "text": "If this Pokémon has any Energy attached, it takes 30 less damage from attacks (after applying Weakness and Resistance).",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Retaliate",
-                "cost": [
-                    "Metal",
-                    "Metal",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100+",
-                "text": "If any of your Pokémon were Knocked Out during your opponent's last turn, this attack does 120 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "97",
-        "artist": "GIDORA",
-        "rarity": "Rare Holo",
-        "flavorText": "Its ability to deflect any attack led to it being known as the Fighting Master's Shield. It was feared and respected by all.",
-        "nationalPokedexNumbers": [
-            889
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/97.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/97_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-98",
-        "name": "Zamazenta V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "220",
-        "types": [
-            "Metal"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Regal Stance",
-                "text": "Once during your turn, you may discard your hand and draw 5 cards. If you use this Ability, your turn ends.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Revenge Blast",
-                "cost": [
-                    "Metal",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "120+",
-                "text": "This attack does 30 more damage for each Prize card your opponent has taken."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "98",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            889
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/98.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/98_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-99",
-        "name": "Zamazenta VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "270",
-        "types": [
-            "Metal"
-        ],
-        "evolvesFrom": "Zamazenta V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Shield Star",
-                "text": "During your turn, you may use this Ability. During your opponent's next turn, all of your Pokémon take 100 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). (This includes Pokémon that come into play during this turn or during your opponent's next turn.) (You can't use more than 1 VSTAR Power in a game.)",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Giga Impact",
-                "cost": [
-                    "Metal",
-                    "Metal",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "220",
-                "text": "During your next turn, this Pokémon can't attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "99",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo VSTAR",
-        "nationalPokedexNumbers": [
-            889
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/99.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/99_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-100",
-        "name": "Rayquaza V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V",
-            "Rapid Strike"
-        ],
-        "hp": "210",
-        "types": [
-            "Dragon"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Dragon Pulse",
-                "cost": [
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "40",
-                "text": "Discard the top 2 cards of your deck."
-            },
-            {
-                "name": "Spiral Burst",
-                "cost": [
-                    "Fire",
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20+",
-                "text": "You may discard up to 2 basic Fire Energy or up to 2 basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "100",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            384
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/100.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/100_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-101",
-        "name": "Rayquaza VMAX",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VMAX",
-            "Rapid Strike"
-        ],
-        "hp": "320",
-        "types": [
-            "Dragon"
-        ],
-        "evolvesFrom": "Rayquaza V",
-        "rules": [
-            "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Azure Pulse",
-                "text": "Once during your turn, you may discard your hand and draw 3 cards.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Max Burst",
-                "cost": [
-                    "Fire",
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20+",
-                "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "101",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "Rare Holo VMAX",
-        "nationalPokedexNumbers": [
-            384
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/101.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/101_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-102",
-        "name": "Rayquaza VMAX",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VMAX",
-            "Rapid Strike"
-        ],
-        "hp": "320",
-        "types": [
-            "Dragon"
-        ],
-        "evolvesFrom": "Rayquaza V",
-        "rules": [
-            "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Azure Pulse",
-                "text": "Once during your turn, you may discard your hand and draw 3 cards.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Max Burst",
-                "cost": [
-                    "Fire",
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20+",
-                "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "102",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo VMAX",
-        "nationalPokedexNumbers": [
-            384
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/102.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/102_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-103",
-        "name": "Duraludon V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V",
-            "Single Strike"
-        ],
-        "hp": "220",
-        "types": [
-            "Dragon"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Metal Claw",
-                "cost": [
-                    "Fighting",
-                    "Metal"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70",
-                "text": ""
-            },
-            {
-                "name": "Breaking Swipe",
-                "cost": [
-                    "Fighting",
-                    "Metal",
-                    "Metal"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "140",
-                "text": "During your opponent's next turn, the Defending Pokémon's attacks do 30 less damage (before applying Weakness and Resistance)."
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "103",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            884
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/103.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/103_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-104",
-        "name": "Duraludon VMAX",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VMAX",
-            "Single Strike"
-        ],
-        "hp": "330",
-        "types": [
-            "Dragon"
-        ],
-        "evolvesFrom": "Duraludon V",
-        "rules": [
-            "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Skyscraper",
-                "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have Special Energy attached.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "G-Max Pulverization",
-                "cost": [
-                    "Fighting",
-                    "Metal",
-                    "Metal"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "220",
-                "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "104",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "Rare Holo VMAX",
-        "nationalPokedexNumbers": [
-            884
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/104.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/104_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-105",
-        "name": "Radiant Eternatus",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "Radiant"
-        ],
-        "hp": "170",
-        "types": [
-            "Dragon"
-        ],
-        "rules": [
-            "Radiant Pokémon Rule: You can't have more than 1 Radiant Pokémon in your deck."
-        ],
-        "abilities": [
-            {
-                "name": "Climactic Gate",
-                "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 2 Pokémon VMAX and put them onto your Bench. Then, shuffle your deck. If you use this Ability, your turn ends.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Power Beam",
-                "cost": [
-                    "Fire",
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "200",
-                "text": ""
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "105",
-        "artist": "Kagemaru Himeno",
-        "rarity": "Radiant Rare",
-        "flavorText": "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.",
-        "nationalPokedexNumbers": [
-            890
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/105.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/105_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-106",
-        "name": "Tauros",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "110",
-        "types": [
-            "Colorless"
-        ],
-        "attacks": [
-            {
-                "name": "Smash Kick",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Adrena-Tackle",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "",
-                "text": "If this Pokémon has no damage counters on it, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "106",
-        "artist": "Kouki Saitou",
-        "rarity": "Rare",
-        "flavorText": "When Tauros begins whipping itself with its tails, it's a warning that the Pokémon is about to charge with astounding speed.",
-        "nationalPokedexNumbers": [
-            128
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/106.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/106_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-107",
-        "name": "Ditto",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "abilities": [
-            {
-                "name": "Sudden Transformation",
-                "text": "This Pokémon can use the attacks of any Basic Pokémon in your discard pile, except for Pokémon with a Rule Box (Pokémon V, Pokémon-GX, etc. have Rule Boxes). (You still need the necessary Energy to use each attack.)",
-                "type": "Ability"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "107",
-        "artist": "KIYOTAKA OSHIYAMA",
-        "rarity": "Rare Holo",
-        "flavorText": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
-        "nationalPokedexNumbers": [
-            132
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/107.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/107_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-108",
-        "name": "Eevee V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "200",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Vaporeon",
-            "Jolteon",
-            "Flareon",
-            "Sylveon",
-            "Espeon",
-            "Umbreon",
-            "Leafeon",
-            "Glaceon"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Tackle",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": ""
-            },
-            {
-                "name": "Vee Brave",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80+",
-                "text": "If your opponent's Active Pokémon is a Pokémon V, this attack does 80 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "108",
-        "artist": "You Iribi",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            133
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/108.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/108_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-109",
-        "name": "Snorlax",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "160",
-        "types": [
-            "Colorless"
-        ],
-        "attacks": [
-            {
-                "name": "Heavy Impact",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "109",
-        "artist": "Asako Ito",
-        "rarity": "Rare",
-        "flavorText": "This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it.",
-        "nationalPokedexNumbers": [
-            143
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/109.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/109_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-110",
-        "name": "Starly",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Staravia"
-        ],
-        "attacks": [
-            {
-                "name": "Claw",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "Flip a coin. If tails, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "110",
-        "artist": "Ligton",
-        "rarity": "Common",
-        "flavorText": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
-        "nationalPokedexNumbers": [
-            396
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/110.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/110_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-111",
-        "name": "Bidoof",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Bibarel"
-        ],
-        "abilities": [
-            {
-                "name": "Carefree Countenance",
-                "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Hyper Fang",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": "Flip a coin. If tails, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "111",
-        "artist": "Naoyo Kimura",
-        "rarity": "Common",
-        "flavorText": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
-        "nationalPokedexNumbers": [
-            399
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/111.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/111_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-112",
-        "name": "Chatot",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "attacks": [
-            {
-                "name": "Cycle Draw",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Discard a card from your hand. If you do, draw 2 cards."
-            },
-            {
-                "name": "Flap",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "112",
-        "artist": "sui",
-        "rarity": "Common",
-        "flavorText": "It can learn and speak human words. If they gather, they all learn the same saying.",
-        "nationalPokedexNumbers": [
-            441
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/112.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/112_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-113",
-        "name": "Regigigas V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "240",
-        "types": [
-            "Colorless"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Hammer In",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            },
-            {
-                "name": "Angry Whack",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100+",
-                "text": "This attack does 10 more damage for each damage counter on this Pokémon. This Pokémon is now Confused."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 4,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "113",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            486
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/113.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/113_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-114",
-        "name": "Regigigas VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "300",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Regigigas V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Star Guardian",
-                "text": "During your turn, if your opponent has exactly 1 Prize card remaining, you may choose 1 of your opponent's Benched Pokémon. They discard that Pokémon and all attached cards. (You can't use more than 1 VSTAR Power in a game.)",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Giga Impact",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "230",
-                "text": "During your next turn, this Pokémon can't attack."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 4,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "114",
-        "artist": "PLANETA Mochizuki",
-        "rarity": "Rare Holo VSTAR",
-        "nationalPokedexNumbers": [
-            486
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/114.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/114_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-115",
-        "name": "Shaymin",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "attacks": [
-            {
-                "name": "Gather Flowers",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Shuffle up to 2 Energy cards from your discard pile into your deck."
-            },
-            {
-                "name": "Rear Kick",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "115",
-        "artist": "Yukiko Baba",
-        "rarity": "Uncommon",
-        "flavorText": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
-        "nationalPokedexNumbers": [
-            492
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/115.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/115_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-116",
-        "name": "Stoutland V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "210",
-        "types": [
-            "Colorless"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Double Dip Fangs",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "40",
-                "text": "If your opponent's Basic Pokémon is Knocked Out by damage from this attack, take 1 more Prize card."
-            },
-            {
-                "name": "Wild Tackle",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "200",
-                "text": "This Pokémon also does 30 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "116",
-        "artist": "MUGENUP",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            508
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/116.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/116_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-117",
-        "name": "Yungoos",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Gumshoos"
-        ],
-        "attacks": [
-            {
-                "name": "Sharp Fang",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "117",
-        "artist": "Oswaldo KATO",
-        "rarity": "Common",
-        "flavorText": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
-        "nationalPokedexNumbers": [
-            734
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/117.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/117_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-118",
-        "name": "Gumshoos",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Yungoos",
-        "attacks": [
-            {
-                "name": "Stakeout Headbutt",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30+",
-                "text": "If your opponent's Active Pokémon moved from the Bench to the Active Spot during your opponent's last turn, this attack does 120 more damage."
-            },
-            {
-                "name": "Lunge Out",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "60",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "118",
-        "artist": "Mizue",
-        "rarity": "Rare",
-        "flavorText": "Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal—Rattata!",
-        "nationalPokedexNumbers": [
-            735
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/118.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/118_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-119",
-        "name": "Oranguru",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "110",
-        "types": [
-            "Colorless"
-        ],
-        "attacks": [
-            {
-                "name": "Primate Acting",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Choose a Supporter card from your opponent's discard pile and use the effect of that card as the effect of this attack."
-            },
-            {
-                "name": "Hammer In",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "119",
-        "artist": "Sekio",
-        "rarity": "Rare",
-        "flavorText": "With waves of its fan—made from leaves and its own fur—Oranguru skillfully gives instructions to other Pokémon.",
-        "nationalPokedexNumbers": [
-            765
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/119.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/119_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-120",
-        "name": "Greedent V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "210",
-        "types": [
-            "Colorless"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Body Slam",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "40",
-                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
-            },
-            {
-                "name": "Nom-Nom-Nom Incisors",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "120",
-                "text": "Draw 3 cards."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "120",
-        "artist": "Saki Hayashiro",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            820
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/120.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/120_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-121",
-        "name": "Wooloo",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Dubwool"
-        ],
-        "attacks": [
-            {
-                "name": "Rolling Rollout",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30×",
-                "text": "Flip a coin until you get tails. This attack does 30 damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "121",
-        "artist": "OKACHEKE",
-        "rarity": "Common",
-        "flavorText": "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",
-        "nationalPokedexNumbers": [
-            831
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/121.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/121_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-122",
-        "name": "Dubwool",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "120",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Wooloo",
-        "attacks": [
-            {
-                "name": "Overhead Throw",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "40",
-                "text": "This attack also does 10 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Rolling Dash",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "60+",
-                "text": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "122",
-        "artist": "Sanosuke Sakuma",
-        "rarity": "Rare",
-        "flavorText": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.",
-        "nationalPokedexNumbers": [
-            832
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/122.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/122_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-123",
-        "name": "Bea",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Discard the top 5 cards of your deck, and attach any Energy cards you discarded in this way to your Benched Fighting Pokémon in any way you like.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "123",
-        "artist": "Atsushi Furusawa",
-        "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "D",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/123.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/123_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-124",
-        "name": "Bede",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Attach a basic Energy card from your hand to 1 of your Benched Pokémon.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "124",
-        "artist": "You Iribi",
-        "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "D",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/124.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/124_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-125",
-        "name": "Crushing Hammer",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Flip a coin. If heads, discard an Energy from 1 of your opponent's Pokémon.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "125",
-        "artist": "sadaji",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/125.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/125_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-126",
-        "name": "Digging Duo",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Flip a coin. If heads, look at the bottom 8 cards of your deck and put 1 of them into your hand. If tails, look at the bottom 3 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "126",
-        "artist": "Yuu Nishida",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/126.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/126_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-127",
-        "name": "Energy Retrieval",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Put up to 2 basic Energy cards from your discard pile into your hand.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "127",
-        "artist": "Ryo Ueda",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/127.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/127_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-128",
-        "name": "Energy Search",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Search your deck for a basic Energy card, reveal it, and put it into your hand. Then, shuffle your deck.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "128",
-        "artist": "Studio Bora Inc.",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/128.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/128_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-129",
-        "name": "Energy Switch",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "129",
-        "artist": "Toyste Beach",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/129.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/129_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-130",
-        "name": "Friends in Hisui",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Draw 3 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "130",
-        "artist": "kirisAki",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/130.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/130_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-131",
-        "name": "Friends in Sinnoh",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Draw 3 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "131",
-        "artist": "Ryuta Fuse",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/131.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/131_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-132",
-        "name": "Great Ball",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "132",
-        "artist": "Toyste Beach",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/132.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/132_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-133",
-        "name": "Hop",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Draw 3 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "133",
-        "artist": "Taira Akitsu",
-        "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "D",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/133.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/133_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-134",
-        "name": "Leon",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "During this turn, your Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "134",
-        "artist": "Naoki Saito",
-        "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "D",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/134.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/134_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-135",
-        "name": "Lost Vacuum",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "You can use this card only if you put another card from your hand in the Lost Zone. Choose a Pokémon Tool attached to any Pokémon, or any Stadium in play, and put it in the Lost Zone.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "135",
-        "artist": "Amelicart",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/135.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/135_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-136",
-        "name": "Nessa",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Put up to 4 in any combination of Water Pokémon and Water Energy cards from your discard pile into your hand.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "136",
-        "artist": "Souichirou Gunjima",
-        "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "D",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/136.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/136_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-137",
-        "name": "Poké Ball",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "137",
-        "artist": "Studio Bora Inc.",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/137.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/137_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-138",
-        "name": "Pokémon Catcher",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "138",
-        "artist": "Ryo Ueda",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/138.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/138_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-139",
-        "name": "Potion",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Heal 30 damage from 1 of your Pokémon.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "139",
-        "artist": "Ryo Ueda",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/139.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/139_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-140",
-        "name": "Raihan",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "You can play this card only if any of your Pokémon were Knocked Out during your opponent's last turn. Attach a basic Energy card from your discard pile to 1 of your Pokémon. If you do, search your deck for a card and put it into your hand. Then, shuffle your deck.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "140",
-        "artist": "Hideki Ishikawa",
-        "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/140.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/140_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-141",
-        "name": "Rare Candy",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "141",
-        "artist": "Yoshinobu Saito",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/141.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/141_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-142",
-        "name": "Rescue Carrier",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Put up to 2 Pokémon, each with 90 HP or less, from your discard pile into your hand.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "142",
-        "artist": "Amelicart",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/142.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/142_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-143",
-        "name": "Sky Seal Stone",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item",
-            "Pokémon Tool"
-        ],
-        "rules": [
-            "The Pokémon V this card is attached to can use the VSTAR Power on this card. Star Order During your turn, you may use this Ability. During this turn, if your opponent's Active Pokémon VSTAR or Active Pokémon VMAX is Knocked Out by damage from an attack from your Basic Pokémon V, take 1 more Prize card. (You can't use more than 1 VSTAR Power in a game.)",
-            "You may play any number of Item cards during your turn.",
-            "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "143",
-        "artist": "AYUMI ODASHIMA",
-        "rarity": "Rare Holo",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/143.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/143_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-144",
-        "name": "Switch",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Switch your Active Pokémon with 1 of your Benched Pokémon.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "144",
-        "artist": "Studio Bora Inc.",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/144.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/144_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-145",
-        "name": "Trekking Shoes",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "Look at the top card of your deck. You may put that card into your hand. If you don't, discard that card and draw a card.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "145",
-        "artist": "Amelicart",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/145.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/145_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-146",
-        "name": "Ultra Ball",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Item"
-        ],
-        "rules": [
-            "You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
-            "You may play any number of Item cards during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "146",
-        "artist": "Amelicart",
-        "rarity": "Uncommon",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/146.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/146_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-147",
-        "name": "Elesa's Sparkle",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Fusion Strike",
-            "Supporter"
-        ],
-        "rules": [
-            "Choose up to 2 of your Fusion Strike Pokémon. For each of those Pokémon, search your deck for a Fusion Strike Energy card and attach it to that Pokémon. Then, shuffle your deck.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "147",
-        "artist": "Megumi Mizutani",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/147.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/147_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-148",
-        "name": "Friends in Hisui",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Draw 3 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "148",
-        "artist": "Kinu Nishimura",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/148.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/148_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-149",
-        "name": "Friends in Sinnoh",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Draw 3 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "149",
-        "artist": "Hideki Ishikawa",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/149.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/149_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-150",
-        "name": "Professor's Research",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Discard your hand and draw 7 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "150",
-        "artist": "Sanosuke Sakuma",
-        "rarity": "Rare Ultra",
-        "flavorText": "Professor Rowan",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "D",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/150.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/150_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-151",
-        "name": "Volo",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Discard 1 of your Benched Pokémon V and all attached cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "151",
-        "artist": "Souichirou Gunjima",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/151.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/151_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-152",
-        "name": "Grass Energy",
-        "supertype": "Energy",
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "152",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/152.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/152_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-153",
-        "name": "Fire Energy",
-        "supertype": "Energy",
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "153",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/153.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/153_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-154",
-        "name": "Water Energy",
-        "supertype": "Energy",
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "154",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/154.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/154_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-155",
-        "name": "Lightning Energy",
-        "supertype": "Energy",
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "155",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/155.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/155_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-156",
-        "name": "Psychic Energy",
-        "supertype": "Energy",
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "156",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/156.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/156_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-157",
-        "name": "Fighting Energy",
-        "supertype": "Energy",
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "157",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/157.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/157_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-158",
-        "name": "Darkness Energy",
-        "supertype": "Energy",
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "158",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/158.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/158_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-159",
-        "name": "Metal Energy",
-        "supertype": "Energy",
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "159",
-        "rarity": "Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/159.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/159_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5-160",
-        "name": "Pikachu",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Raichu"
-        ],
-        "attacks": [
-            {
-                "name": "Wild Charge",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": "This Pokémon also does 30 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5",
-            "name": "Crown Zenith",
-            "series": "Sword & Shield",
-            "printedTotal": 159,
-            "total": 160,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        "number": "160",
-        "artist": "You Iribi",
-        "rarity": "Rare Secret",
-        "flavorText": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-        "nationalPokedexNumbers": [
-            25
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5/160.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5/160_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG01",
-        "name": "Hisuian Voltorb",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Electrode"
-        ],
-        "attacks": [
-            {
-                "name": "Cheerful Charge",
-                "cost": [],
-                "convertedEnergyCost": 0,
-                "damage": "",
-                "text": "You can use this attack only if you go second, and only during your first turn. Choose up to 2 of your Benched Pokémon. For each of those Pokémon, search your deck for a basic Energy card and attach it to that Pokémon. Then, shuffle your deck."
-            },
-            {
-                "name": "Ram",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG01",
-        "artist": "HYOGONOSUKE",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh.",
-        "nationalPokedexNumbers": [
-            100
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG01.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG01_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG02",
-        "name": "Kricketune",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "90",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Kricketot",
-        "abilities": [
-            {
-                "name": "Swelling Tune",
-                "text": "Your Grass Pokémon in play, except any Kricketune, get +40 HP. You can't apply more than 1 Swelling Tune Ability at a time.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Slash",
-                "cost": [
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG02",
-        "artist": "Nurikabe",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
-        "nationalPokedexNumbers": [
-            402
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG02.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG02_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG03",
-        "name": "Magmortar",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "140",
-        "types": [
-            "Fire"
-        ],
-        "evolvesFrom": "Magmar",
-        "attacks": [
-            {
-                "name": "Mega Punch",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            },
-            {
-                "name": "Boltsplosion",
-                "cost": [
-                    "Fire",
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "120+",
-                "text": "If Electivire is on your Bench, this attack does 120 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG03",
-        "artist": "Saya Tsuruta",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.",
-        "nationalPokedexNumbers": [
-            467
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG03.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG03_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG04",
-        "name": "Oricorio",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "Fusion Strike"
-        ],
-        "hp": "90",
-        "types": [
-            "Fire"
-        ],
-        "abilities": [
-            {
-                "name": "Lesson in Zeal",
-                "text": "All of your Fusion Strike Pokémon take 20 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). You can't apply more than 1 Lesson in Zeal Ability at a time.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Glistening Droplets",
-                "cost": [
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "",
-                "text": "Put 5 damage counters on your opponent's Pokémon in any way you like."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG04",
-        "artist": "Tomokazu Komiya",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.",
-        "nationalPokedexNumbers": [
-            741
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG04.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG04_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG05",
-        "name": "Lapras",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "130",
+        "hp": 70,
         "types": [
             "Water"
         ],
         "attacks": [
             {
-                "name": "Raging Freeze",
-                "cost": [
-                    "Water",
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "110",
-                "text": "If any of your Pokémon were Knocked Out by damage from an attack from your opponent's Pokémon during their last turn, your opponent's Active Pokémon is now Paralyzed."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG05",
-        "artist": "zig",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
-        "nationalPokedexNumbers": [
-            131
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG05.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG05_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG06",
-        "name": "Manaphy",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Water"
-        ],
-        "abilities": [
-            {
-                "name": "Wave Veil",
-                "text": "Prevent all damage done to your Benched Pokémon by attacks from your opponent's Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Rain Splash",
                 "cost": [
                     "Water"
                 ],
-                "convertedEnergyCost": 1,
+                "name": "Rain Splash",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Razor Fin",
                 "damage": "20",
-                "text": ""
+                "text": "",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
@@ -11300,71 +3237,199 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG06",
-        "artist": "Taira Akitsu",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
+        "number": "46",
+        "artist": "Mizue",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            490
+            418
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG06.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG06_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/46.png",
+            "large": "https://images.pokemontcg.io/sv1/46_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG07",
-        "name": "Keldeo",
+        "id": "sv1-47",
+        "name": "Floatzel",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 120,
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Buizel",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hydro Pump",
+                "damage": "50+",
+                "text": "This attack does 20 more damage for each Water Energy attached to this Pokémon.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "47",
+        "artist": "Gemi",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            419
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/47.png",
+            "large": "https://images.pokemontcg.io/sv1/47_hires.png"
+        }
+    },
+    {
+        "id": "sv1-48",
+        "name": "Alomomola",
         "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
-        "hp": "110",
+        "hp": 120,
         "types": [
             "Water"
         ],
         "attacks": [
             {
-                "name": "Smash Kick",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": ""
-            },
-            {
-                "name": "Line Force",
                 "cost": [
                     "Water",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "10+",
-                "text": "This attack does 20 more damage for each of your Benched Pokémon."
+                "name": "Surf",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Aqua Slash",
+                "damage": "120",
+                "text": "During your next turn, this Pokémon can't attack.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "48",
+        "artist": "Shinji Kanda",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            594
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/48.png",
+            "large": "https://images.pokemontcg.io/sv1/48_hires.png"
+        }
+    },
+    {
+        "id": "sv1-49",
+        "name": "Clauncher",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Vise Grip",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
             }
         ],
         "weaknesses": [
@@ -11375,73 +3440,1160 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG07",
-        "artist": "KEIICHIRO ITO",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
+        "number": "49",
+        "artist": "miki kudo",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            647
+            692
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG07.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG07_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/49.png",
+            "large": "https://images.pokemontcg.io/sv1/49_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG08",
-        "name": "Electivire",
+        "id": "sv1-50",
+        "name": "Clawitzer",
         "supertype": "Pokémon",
         "subtypes": [
             "Stage 1"
         ],
-        "hp": "140",
+        "hp": 120,
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Clauncher",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Water Gun",
+                "damage": "50",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Aqua Cannon",
+                "damage": "160",
+                "text": "During your next turn, this Pokémon can't attack.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "50",
+        "artist": "Souichirou Gunjima",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            693
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/50.png",
+            "large": "https://images.pokemontcg.io/sv1/50_hires.png"
+        }
+    },
+    {
+        "id": "sv1-51",
+        "name": "Bruxish",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 100,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Vivid Charge",
+                "damage": "",
+                "text": "Search your deck for up to 3 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Wave Splash",
+                "damage": "60",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "51",
+        "artist": "kurumitsu",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            779
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/51.png",
+            "large": "https://images.pokemontcg.io/sv1/51_hires.png"
+        }
+    },
+    {
+        "id": "sv1-52",
+        "name": "Quaxly",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Pound",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Kick",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "52",
+        "artist": "Mizue",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            912
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/52.png",
+            "large": "https://images.pokemontcg.io/sv1/52_hires.png"
+        }
+    },
+    {
+        "id": "sv1-53",
+        "name": "Quaxwell",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 100,
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Quaxly",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Rain Splash",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Spiral Kick",
+                "damage": "70",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "53",
+        "artist": "kirisAki",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            913
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/53.png",
+            "large": "https://images.pokemontcg.io/sv1/53_hires.png"
+        }
+    },
+    {
+        "id": "sv1-54",
+        "name": "Quaquaval",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": 170,
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Quaxwell",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may attach a Basic Energy card from your hand to 1 of your Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hydro Kick",
+                "damage": "140",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "54",
+        "artist": "Kouki Saitou",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            914
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/54.png",
+            "large": "https://images.pokemontcg.io/sv1/54_hires.png"
+        }
+    },
+    {
+        "id": "sv1-55",
+        "name": "Wiglett",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 50,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Twisting Strike",
+                "damage": "10",
+                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "55",
+        "artist": "Shin Nagasawa",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            960
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/55.png",
+            "large": "https://images.pokemontcg.io/sv1/55_hires.png"
+        }
+    },
+    {
+        "id": "sv1-56",
+        "name": "Wiglett",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Dig a Little",
+                "damage": "",
+                "text": "Flip a coin. If heads, discard the top card of your opponent's deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ram",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "56",
+        "artist": "Tika Matsuno",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            960
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/56.png",
+            "large": "https://images.pokemontcg.io/sv1/56_hires.png"
+        }
+    },
+    {
+        "id": "sv1-57",
+        "name": "Wugtrio",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Wiglett",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Headbutt",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Undersea Tunnel",
+                "damage": "",
+                "text": "Flip 3 coins. For each heads, discard the top 3 cards of your opponent's deck.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "57",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            961
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/57.png",
+            "large": "https://images.pokemontcg.io/sv1/57_hires.png"
+        }
+    },
+    {
+        "id": "sv1-58",
+        "name": "Cetoddle",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 80,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "58",
+        "artist": "Shin Nagasawa",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            974
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/58.png",
+            "large": "https://images.pokemontcg.io/sv1/58_hires.png"
+        }
+    },
+    {
+        "id": "sv1-59",
+        "name": "Cetoddle",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 100,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Icicle",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Sharp Fin",
+                "damage": "60",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "59",
+        "artist": "Kouki Saitou",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            974
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/59.png",
+            "large": "https://images.pokemontcg.io/sv1/59_hires.png"
+        }
+    },
+    {
+        "id": "sv1-60",
+        "name": "Cetitan",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 180,
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Cetoddle",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hammer In",
+                "damage": "50",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Sweeping Tackle",
+                "damage": "200-",
+                "text": "This attack does 20 less damage for each damage counter on this Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "60",
+        "artist": "Anesaki Dynamic",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            975
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/60.png",
+            "large": "https://images.pokemontcg.io/sv1/60_hires.png"
+        }
+    },
+    {
+        "id": "sv1-61",
+        "name": "Dondozo",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 160,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Release Rage",
+                "damage": "50×",
+                "text": "This attack does 50 damage for each Tatsugiri in your discard pile.",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Heavy Splash",
+                "damage": "120",
+                "text": "",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "61",
+        "artist": "Souichirou Gunjima",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            977
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/61.png",
+            "large": "https://images.pokemontcg.io/sv1/61_hires.png"
+        }
+    },
+    {
+        "id": "sv1-62",
+        "name": "Tatsugiri",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Mise en Place",
+                "damage": "",
+                "text": "Search your deck for up to 2 Basic Water Energy cards and attach them to 1 of your Basic Pokémon. Then, shuffle your deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Curl Up",
+                "damage": "30",
+                "text": "Put this Pokémon and all attached cards into your hand.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "62",
+        "artist": "OKACHEKE",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            978
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/62.png",
+            "large": "https://images.pokemontcg.io/sv1/62_hires.png"
+        }
+    },
+    {
+        "id": "sv1-63",
+        "name": "Magnemite",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
         "types": [
             "Lightning"
         ],
-        "evolvesFrom": "Electabuzz",
         "attacks": [
             {
-                "name": "Explosive Bolt",
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Magnetic Switch",
+                "damage": "",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+                "convertedEnergyCost": 1
+            },
+            {
                 "cost": [
                     "Lightning"
                 ],
-                "convertedEnergyCost": 1,
-                "damage": "30+",
-                "text": "If any of your Benched Magmortar have any damage counters on them, this attack does 90 more damage."
+                "name": "Electro Ball",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "63",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            81
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/63.png",
+            "large": "https://images.pokemontcg.io/sv1/63_hires.png"
+        }
+    },
+    {
+        "id": "sv1-64",
+        "name": "Magneton",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Magnemite",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Lightning Ball",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 1
             },
             {
-                "name": "High-Voltage Current",
                 "cost": [
                     "Lightning",
-                    "Lightning",
-                    "Colorless"
+                    "Lightning"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "",
-                "text": "This attack does 50 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+                "name": "Explosion",
+                "damage": "90",
+                "text": "This Pokémon also does 90 damage to itself.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "64",
+        "artist": "Shiburingaru",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            82
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/64.png",
+            "large": "https://images.pokemontcg.io/sv1/64_hires.png"
+        }
+    },
+    {
+        "id": "sv1-65",
+        "name": "Magnezone ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 330,
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Magneton",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Energy Crush",
+                "damage": "50×",
+                "text": "This attack does 50 damage for each Energy attached to all of your opponent's Pokémon.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Pulse Launcher",
+                "damage": "220",
+                "text": "This Pokémon also does 30 damage to itself.",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
@@ -11452,789 +4604,25 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG08",
-        "artist": "Mina Nakai",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "The amount of electrical energy this Pokémon produces is proportional to the rate of its pulse. The voltage jumps while Electivire is battling.",
-        "nationalPokedexNumbers": [
-            466
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG08.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG08_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG09",
-        "name": "Toxtricity",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1",
-            "Fusion Strike"
-        ],
-        "hp": "120",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Toxel",
-        "abilities": [
-            {
-                "name": "Maximum Downer",
-                "text": "If all your Pokémon in play are Fusion Strike Pokémon, your opponent's Pokémon VMAX in play get -30 HP.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Head Bolt",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "90",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG09",
-        "artist": "Nelnal",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar.",
-        "nationalPokedexNumbers": [
-            849
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG09.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG09_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG10",
-        "name": "Mew",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Psychic"
-        ],
-        "abilities": [
-            {
-                "name": "Mysterious Tail",
-                "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Psyshot",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG10",
-        "artist": "Ryota Murayama",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
-        "nationalPokedexNumbers": [
-            151
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG10.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG10_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG11",
-        "name": "Lunatone",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Cycle Draw",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Discard a card from your hand. If you do, draw 3 cards."
-            },
-            {
-                "name": "Moon Kinesis",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "30+",
-                "text": "This attack does 30 more damage for each Psychic Energy attached to this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG11",
-        "artist": "sowsow",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.",
-        "nationalPokedexNumbers": [
-            337
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG11.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG11_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG12",
-        "name": "Deoxys",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "Fusion Strike",
-            "Single Strike",
-            "Rapid Strike"
-        ],
-        "hp": "120",
-        "types": [
-            "Psychic"
-        ],
-        "attacks": [
-            {
-                "name": "Photon Boost",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "80+",
-                "text": "If this Pokémon has any Fusion Strike Energy attached, this attack does 80 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG12",
-        "artist": "Scav",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
-        "nationalPokedexNumbers": [
-            386
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG12.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG12_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG13",
-        "name": "Diancie",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "90",
-        "types": [
-            "Psychic"
-        ],
-        "abilities": [
-            {
-                "name": "Princess's Curtain",
-                "text": "As long as this Pokémon is in the Active Spot, whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to your Benched Basic Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Spike Draw",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20",
-                "text": "Draw 2 cards."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG13",
-        "artist": "Haruko Ichikawa",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
-        "nationalPokedexNumbers": [
-            719
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG13.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG13_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG14",
-        "name": "Comfey",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Psychic"
-        ],
-        "abilities": [
-            {
-                "name": "Flower Selecting",
-                "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 2 cards of your deck and put 1 of them into your hand. Put the other card in the Lost Zone.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Spinning Attack",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG14",
-        "artist": "Yano Keiji",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won't wither once they're attached to a Comfey.",
-        "nationalPokedexNumbers": [
-            764
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG14.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG14_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG15",
-        "name": "Solrock",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "90",
-        "types": [
-            "Fighting"
-        ],
-        "abilities": [
-            {
-                "name": "Sun Energy",
-                "text": "Once during your turn, you may attach a Psychic Energy card from your discard pile to 1 of your Lunatone.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Spinning Attack",
-                "cost": [
-                    "Fighting",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG15",
-        "artist": "Nobuhiro Imagawa",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
-        "nationalPokedexNumbers": [
-            338
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG15.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG15_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG16",
-        "name": "Absol",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "100",
-        "types": [
-            "Darkness"
-        ],
-        "attacks": [
-            {
-                "name": "Swirling Disaster",
-                "cost": [
-                    "Darkness"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Claw Rend",
-                "cost": [
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "50+",
-                "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 70 more damage."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG16",
-        "artist": "Uta",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.",
-        "nationalPokedexNumbers": [
-            359
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG16.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG16_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG17",
-        "name": "Thievul",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "100",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Nickit",
-        "abilities": [
-            {
-                "name": "Baffling",
-                "text": "If your opponent has 2 or fewer Prize cards remaining, whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to your Benched Pokémon V.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Sharp Fang",
-                "cost": [
-                    "Darkness",
-                    "Darkness",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "110",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG17",
-        "artist": "NC Empire",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
-        "nationalPokedexNumbers": [
-            828
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG17.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG17_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG18",
-        "name": "Magnezone",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 2"
-        ],
-        "hp": "150",
-        "types": [
-            "Metal"
-        ],
-        "evolvesFrom": "Magneton",
-        "abilities": [
-            {
-                "name": "Giga Magnet",
-                "text": "Once during your turn, you may look at the top 6 cards of your deck and attach any number of Metal Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards back into your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Power Beam",
-                "cost": [
-                    "Metal",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "120",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG18",
-        "artist": "Shinya Komatsu",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "Some say that Magnezone receives signals from space via the antenna on its head and that it's being controlled by some mysterious being.",
+        "number": "65",
+        "artist": "hncl",
+        "rarity": "Double Rare",
         "nationalPokedexNumbers": [
             462
         ],
@@ -12243,454 +4631,1052 @@ let crownZenith = [
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG18.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG18_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/65.png",
+            "large": "https://images.pokemontcg.io/sv1/65_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG19",
-        "name": "Altaria",
+        "id": "sv1-66",
+        "name": "Mareep",
         "supertype": "Pokémon",
         "subtypes": [
-            "Stage 1"
+            "Basic"
         ],
-        "hp": "90",
+        "hp": 60,
         "types": [
-            "Dragon"
-        ],
-        "evolvesFrom": "Swablu",
-        "abilities": [
-            {
-                "name": "Tempting Tune",
-                "text": "Once during your turn, you may search your deck for a Supporter card, reveal it, shuffle your deck, then put that card on top of it.",
-                "type": "Ability"
-            }
+            "Lightning"
         ],
         "attacks": [
             {
-                "name": "Glide",
                 "cost": [
-                    "Water",
-                    "Metal"
+                    "Lightning"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "60",
-                "text": ""
-            }
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
+                "name": "Static Shock",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG19",
-        "artist": "Asako Ito",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
-        "nationalPokedexNumbers": [
-            334
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG19.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG19_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG20",
-        "name": "Latias",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "Fusion Strike"
-        ],
-        "hp": "120",
-        "types": [
-            "Dragon"
-        ],
-        "abilities": [
             {
-                "name": "Red Assist",
-                "text": "Once during your turn, you may attach a Psychic Energy card from your hand to 1 of your Latios.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Dyna Barrier",
                 "cost": [
-                    "Fire",
-                    "Psychic",
+                    "Lightning",
+                    "Colorless",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "70",
-                "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Pokémon VMAX."
+                "name": "Electro Ball",
+                "damage": "40",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
             }
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG20",
-        "artist": "Teeziro",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
+        "number": "66",
+        "artist": "Narumi Sato",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            380
+            179
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "E",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG20.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG20_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/66.png",
+            "large": "https://images.pokemontcg.io/sv1/66_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG21",
-        "name": "Hisuian Goodra",
+        "id": "sv1-67",
+        "name": "Flaaffy",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Mareep",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Thunder Shock",
+                "damage": "20",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Electro Ball",
+                "damage": "60",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "67",
+        "artist": "Kurata So",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            180
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/67.png",
+            "large": "https://images.pokemontcg.io/sv1/67_hires.png"
+        }
+    },
+    {
+        "id": "sv1-68",
+        "name": "Pachirisu",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Lightning"
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "This Pokémon can't be Paralyzed."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Everyone Discharge",
+                "damage": "10+",
+                "text": "This attack does 20 more damage for each of your Benched Lightning Pokémon. This attack's damage isn't affected by Weakness.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "68",
+        "artist": "Naoki Saito",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            417
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/68.png",
+            "large": "https://images.pokemontcg.io/sv1/68_hires.png"
+        }
+    },
+    {
+        "id": "sv1-69",
+        "name": "Rotom",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Lightning"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Linear Attack",
+                "damage": "",
+                "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "69",
+        "artist": "Nisota Niso",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            479
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/69.png",
+            "large": "https://images.pokemontcg.io/sv1/69_hires.png"
+        }
+    },
+    {
+        "id": "sv1-70",
+        "name": "Rotom",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 80,
+        "types": [
+            "Lightning"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Junk Hunt",
+                "damage": "",
+                "text": "Put an Item card from your discard pile into your hand.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Thunder Shock",
+                "damage": "20",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "70",
+        "artist": "Kouki Saitou",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            479
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/70.png",
+            "large": "https://images.pokemontcg.io/sv1/70_hires.png"
+        }
+    },
+    {
+        "id": "sv1-71",
+        "name": "Toxel",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Lightning"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Gnaw",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "71",
+        "artist": "Yuu Nishida",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            848
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/71.png",
+            "large": "https://images.pokemontcg.io/sv1/71_hires.png"
+        }
+    },
+    {
+        "id": "sv1-72",
+        "name": "Toxtricity",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 130,
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Toxel",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Yank Away",
+                "damage": "",
+                "text": "Choose 2 random cards from your opponent's hand. Your opponent reveals those cards and shuffles them into their deck.",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Thunder",
+                "damage": "120",
+                "text": "This Pokémon also does 20 damage to itself.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "72",
+        "artist": "Atsushi Furusawa",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            849
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/72.png",
+            "large": "https://images.pokemontcg.io/sv1/72_hires.png"
+        }
+    },
+    {
+        "id": "sv1-73",
+        "name": "Pawmi",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Jolt",
+                "damage": "",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "73",
+        "artist": "Tika Matsuno",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            921
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/73.png",
+            "large": "https://images.pokemontcg.io/sv1/73_hires.png"
+        }
+    },
+    {
+        "id": "sv1-74",
+        "name": "Pawmi",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Lightning"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Light Punch",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Zap Kick",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "74",
+        "artist": "kantaro",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            921
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/74.png",
+            "large": "https://images.pokemontcg.io/sv1/74_hires.png"
+        }
+    },
+    {
+        "id": "sv1-75",
+        "name": "Pawmo",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Pawmi",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Thunder Shock",
+                "damage": "30",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Head Bolt",
+                "damage": "70",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "75",
+        "artist": "Saya Tsuruta",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            922
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/75.png",
+            "large": "https://images.pokemontcg.io/sv1/75_hires.png"
+        }
+    },
+    {
+        "id": "sv1-76",
+        "name": "Pawmot",
         "supertype": "Pokémon",
         "subtypes": [
             "Stage 2"
         ],
-        "hp": "160",
+        "hp": 130,
         "types": [
-            "Dragon"
+            "Lightning"
         ],
-        "evolvesFrom": "Hisuian Sliggoo",
+        "evolvesFrom": "Pawmo",
         "abilities": [
             {
-                "name": "Metal Lodging",
-                "text": "Prevent all damage done to each of your Basic Pokémon that has any Metal Energy attached by attacks from your opponent's Pokémon V.",
-                "type": "Ability"
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may search your deck for a Basic Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck."
             }
         ],
         "attacks": [
             {
-                "name": "Heavy Impact",
                 "cost": [
-                    "Water",
-                    "Metal",
+                    "Lightning",
+                    "Lightning",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "140",
-                "text": ""
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG21",
-        "artist": "You Iribi",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy— it will fume and run riot if those dearest to it ever leave its side.",
-        "nationalPokedexNumbers": [
-            706
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG21.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG21_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG22",
-        "name": "Ditto",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Colorless"
-        ],
-        "abilities": [
-            {
-                "name": "Sudden Transformation",
-                "text": "This Pokémon can use the attacks of any Basic Pokémon in your discard pile, except for Pokémon with a Rule Box (Pokémon V, Pokémon-GX, etc. have Rule Boxes). (You still need the necessary Energy to use each attack.)",
-                "type": "Ability"
+                "name": "Electro Paws",
+                "damage": "230",
+                "text": "Discard all Energy from this Pokémon.",
+                "convertedEnergyCost": 3
             }
         ],
         "weaknesses": [
             {
                 "type": "Fighting",
                 "value": "×2"
+            }
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "76",
+        "artist": "Mizue",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            922
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/76.png",
+            "large": "https://images.pokemontcg.io/sv1/76_hires.png"
+        }
+    },
+    {
+        "id": "sv1-77",
+        "name": "Wattrel",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 50,
+        "types": [
+            "Lightning"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Collect",
+                "damage": "",
+                "text": "Draw a card.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Glide",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
             }
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG22",
-        "artist": "Miki Tanaka",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
+        "number": "77",
+        "artist": "Saya Tsuruta",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            132
+            940
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG22.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG22_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/77.png",
+            "large": "https://images.pokemontcg.io/sv1/77_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG23",
-        "name": "Dunsparce",
+        "id": "sv1-78",
+        "name": "Wattrel",
         "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
-        "hp": "60",
+        "hp": 60,
         "types": [
-            "Colorless"
-        ],
-        "abilities": [
-            {
-                "name": "Mysterious Nest",
-                "text": "Colorless Pokémon in play (both yours and your opponent's) have no Weakness.",
-                "type": "Ability"
-            }
+            "Lightning"
         ],
         "attacks": [
             {
-                "name": "Rollout",
                 "cost": [
-                    "Colorless",
-                    "Colorless"
+                    "Lightning"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
+                "name": "Static Shock",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 1
             }
         ],
         "weaknesses": [
             {
-                "type": "Fighting",
+                "type": "Lightning",
                 "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
             }
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG23",
-        "artist": "Kurata So",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky.",
+        "number": "78",
+        "artist": "Shin Nagasawa",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            206
+            940
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "E",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG23.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG23_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/78.png",
+            "large": "https://images.pokemontcg.io/sv1/78_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG24",
-        "name": "Miltank",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "110",
-        "types": [
-            "Colorless"
-        ],
-        "abilities": [
-            {
-                "name": "Miracle Body",
-                "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon V.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Rout",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "10+",
-                "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG24",
-        "artist": "Yuu Nishida",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "Miltank produces highly nutritious milk, so it's been supporting the lives of people and other Pokémon since ancient times.",
-        "nationalPokedexNumbers": [
-            241
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG24.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG24_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG25",
-        "name": "Bibarel",
+        "id": "sv1-79",
+        "name": "Kilowattrel",
         "supertype": "Pokémon",
         "subtypes": [
             "Stage 1"
         ],
-        "hp": "120",
+        "hp": 120,
         "types": [
-            "Colorless"
+            "Lightning"
         ],
-        "evolvesFrom": "Bidoof",
-        "abilities": [
-            {
-                "name": "Industrious Incisors",
-                "text": "Once during your turn, you may draw cards until you have 5 cards in your hand.",
-                "type": "Ability"
-            }
-        ],
+        "evolvesFrom": "Wattrel",
         "attacks": [
             {
-                "name": "Tail Smash",
                 "cost": [
-                    "Colorless",
                     "Colorless",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "100",
-                "text": "Flip a coin. If tails, this attack does nothing."
+                "name": "Skill Dive",
+                "damage": "",
+                "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Thunder Blast",
+                "damage": "140",
+                "text": "Discard a Lightning Energy from this Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "79",
+        "artist": "Kouki Saitou",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            941
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/79.png",
+            "large": "https://images.pokemontcg.io/sv1/79_hires.png"
+        }
+    },
+    {
+        "id": "sv1-80",
+        "name": "Miraidon",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 120,
+        "types": [
+            "Lightning"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Sharp Fang",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Lightning Laser",
+                "damage": "90",
+                "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "convertedEnergyCost": 3
             }
         ],
         "weaknesses": [
@@ -12699,67 +5685,1955 @@ let crownZenith = [
                 "value": "×2"
             }
         ],
-        "convertedRetreatCost": 2,
+        "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG25",
-        "artist": "Amelicart",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+        "number": "80",
+        "artist": "Kouki Saitou",
+        "rarity": "Rare",
         "nationalPokedexNumbers": [
-            400
+            1008
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG25.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG25_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/80.png",
+            "large": "https://images.pokemontcg.io/sv1/80_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG26",
-        "name": "Riolu",
+        "id": "sv1-81",
+        "name": "Miraidon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 220,
+        "types": [
+            "Lightning"
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may search your deck for up to 2 Basic Lightning Pokémon and put them onto your Bench. Then, shuffle your deck."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Photon Blaster",
+                "damage": "220",
+                "text": "During your next turn, this Pokémon can't attack.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "81",
+        "artist": "5ban Graphics",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            1008
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/81.png",
+            "large": "https://images.pokemontcg.io/sv1/81_hires.png"
+        }
+    },
+    {
+        "id": "sv1-82",
+        "name": "Drowzee",
         "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
-        "hp": "60",
+        "hp": 70,
         "types": [
-            "Fighting"
-        ],
-        "evolvesTo": [
-            "Lucario"
+            "Psychic"
         ],
         "attacks": [
             {
-                "name": "Low Kick",
                 "cost": [
-                    "Fighting",
+                    "Psychic"
+                ],
+                "name": "Forced Sleep",
+                "damage": "",
+                "text": "Your opponent chooses 1 of their Benched Pokémon and switches it with their Active Pokémon. The new Active Pokémon is now Asleep.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Gentle Slap",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "82",
+        "artist": "OKACHEKE",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            96
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/82.png",
+            "large": "https://images.pokemontcg.io/sv1/82_hires.png"
+        }
+    },
+    {
+        "id": "sv1-83",
+        "name": "Hypno",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 110,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Drowzee",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Pendulum Influence",
+                "damage": "",
+                "text": "Flip a coin. If heads, choose an attack from 1 of your opponent's Pokémon in play and use it as this attack.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Psychic Sphere",
+                "damage": "100",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "83",
+        "artist": "Toshinao Aoki",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            97
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/83.png",
+            "large": "https://images.pokemontcg.io/sv1/83_hires.png"
+        }
+    },
+    {
+        "id": "sv1-84",
+        "name": "Ralts",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Psyshot",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "84",
+        "artist": "Tika Matsuno",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            280
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/84.png",
+            "large": "https://images.pokemontcg.io/sv1/84_hires.png"
+        }
+    },
+    {
+        "id": "sv1-85",
+        "name": "Kirlia",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Ralts",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Magical Shot",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Psychic",
+                "damage": "60+",
+                "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "85",
+        "artist": "kawayoo",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            281
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/85.png",
+            "large": "https://images.pokemontcg.io/sv1/85_hires.png"
+        }
+    },
+    {
+        "id": "sv1-86",
+        "name": "Gardevoir ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 310,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Kirlia",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "As often as you like during your turn, you may attach a Basic Psychic Energy card from your discard pile to 1 of your Psychic Pokémon. If you attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon. You can't use this Ability on a Pokémon that would be Knocked Out."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Miracle Force",
+                "damage": "190",
+                "text": "This Pokémon recovers from all Special Conditions.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "86",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            282
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/86.png",
+            "large": "https://images.pokemontcg.io/sv1/86_hires.png"
+        }
+    },
+    {
+        "id": "sv1-87",
+        "name": "Shuppet",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Enveloping Shadow",
+                "damage": "10",
+                "text": "Flip a coin. If heads, during your opponent's next turn, they can't play any Item cards from their hand.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "87",
+        "artist": "Jerky",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            353
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/87.png",
+            "large": "https://images.pokemontcg.io/sv1/87_hires.png"
+        }
+    },
+    {
+        "id": "sv1-88",
+        "name": "Banette ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 250,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Shuppet",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Everlasting Darkness",
+                "damage": "30",
+                "text": "During your opponent's next turn, they can't play any Item cards from their hand.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Poltergeist",
+                "damage": "60×",
+                "text": "Your opponent reveals their hand. This attack does 60 damage for each Trainer card you find there.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "88",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            354
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/88.png",
+            "large": "https://images.pokemontcg.io/sv1/88_hires.png"
+        }
+    },
+    {
+        "id": "sv1-89",
+        "name": "Drifloon",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Gust",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Balloon Blast",
+                "damage": "30×",
+                "text": "This attack does 30 damage for each damage counter on this Pokémon.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "89",
+        "artist": "Taira Akitsu",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            425
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/89.png",
+            "large": "https://images.pokemontcg.io/sv1/89_hires.png"
+        }
+    },
+    {
+        "id": "sv1-90",
+        "name": "Drifblim",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 110,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Drifloon",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Gust",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Curse Spreading",
+                "damage": "",
+                "text": "Put 8 damage counters on your opponent's Pokémon in any way you like.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "90",
+        "artist": "Yuu Nishida",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            426
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/90.png",
+            "large": "https://images.pokemontcg.io/sv1/90_hires.png"
+        }
+    },
+    {
+        "id": "sv1-91",
+        "name": "Flabébé",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 40,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Pollen Shot",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "91",
+        "artist": "Mizue",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            669
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/91.png",
+            "large": "https://images.pokemontcg.io/sv1/91_hires.png"
+        }
+    },
+    {
+        "id": "sv1-92",
+        "name": "Floette",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Flabébé",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Magical Leaf",
+                "damage": "30+",
+                "text": "Flip a coin. If heads, this attack does 30 more damage, and heal 30 damage from this Pokémon.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "92",
+        "artist": "saino misaki",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            670
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/92.png",
+            "large": "https://images.pokemontcg.io/sv1/92_hires.png"
+        }
+    },
+    {
+        "id": "sv1-93",
+        "name": "Florges",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": 140,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Floette",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Your Pokémon in play have no Weakness."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Moonblast",
+                "damage": "120",
+                "text": "During your opponent's next turn, the Defending Pokémon's attacks do 30 less damage (before applying Weakness and Resistance).",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "93",
+        "artist": "Haru Akasaka",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            671
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/93.png",
+            "large": "https://images.pokemontcg.io/sv1/93_hires.png"
+        }
+    },
+    {
+        "id": "sv1-94",
+        "name": "Dedenne",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Energy Munch",
+                "damage": "30",
+                "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "94",
+        "artist": "zig",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            702
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/94.png",
+            "large": "https://images.pokemontcg.io/sv1/94_hires.png"
+        }
+    },
+    {
+        "id": "sv1-95",
+        "name": "Dedenne",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Second Bite",
+                "damage": "30+",
+                "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "95",
+        "artist": "Nelnal",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            702
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/95.png",
+            "large": "https://images.pokemontcg.io/sv1/95_hires.png"
+        }
+    },
+    {
+        "id": "sv1-96",
+        "name": "Klefki",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "As long as this Pokémon is in the Active Spot, Basic Pokémon in play (both yours and your opponent's) have no Abilities, except for Mischievous Lock."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Joust",
+                "damage": "10",
+                "text": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "96",
+        "artist": "GOSSAN",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            707
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/96.png",
+            "large": "https://images.pokemontcg.io/sv1/96_hires.png"
+        }
+    },
+    {
+        "id": "sv1-97",
+        "name": "Fidough",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 50,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Rear Kick",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "97",
+        "artist": "Mizue",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            926
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/97.png",
+            "large": "https://images.pokemontcg.io/sv1/97_hires.png"
+        }
+    },
+    {
+        "id": "sv1-98",
+        "name": "Fidough",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Springy",
+                "damage": "",
+                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Flop",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "98",
+        "artist": "Saya Tsuruta",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            926
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/98.png",
+            "large": "https://images.pokemontcg.io/sv1/98_hires.png"
+        }
+    },
+    {
+        "id": "sv1-99",
+        "name": "Dachsbun",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Fidough",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "This Pokémon can't be Burned. Prevent all damage done to this Pokémon by attacks from your opponent's Fire Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Headbutt Bounce",
+                "damage": "100",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "99",
+        "artist": "You Iribi",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            927
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/99.png",
+            "large": "https://images.pokemontcg.io/sv1/99_hires.png"
+        }
+    },
+    {
+        "id": "sv1-100",
+        "name": "Flittle",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 30,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Ram",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "100",
+        "artist": "Hitoshi Ariga",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            955
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/100.png",
+            "large": "https://images.pokemontcg.io/sv1/100_hires.png"
+        }
+    },
+    {
+        "id": "sv1-101",
+        "name": "Flittle",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 40,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Spinning Attack",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "101",
+        "artist": "Tika Matsuno",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            955
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/101.png",
+            "large": "https://images.pokemontcg.io/sv1/101_hires.png"
+        }
+    },
+    {
+        "id": "sv1-102",
+        "name": "Flittle",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 40,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Dash Off",
+                "damage": "10",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "102",
+        "artist": "Pani Kobayashi",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            955
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/102.png",
+            "large": "https://images.pokemontcg.io/sv1/102_hires.png"
+        }
+    },
+    {
+        "id": "sv1-103",
+        "name": "Espathra",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 110,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Flittle",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Eye Strength",
+                "damage": "20",
+                "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Psychic",
+                "damage": "30+",
+                "text": "This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "103",
+        "artist": "Hitoshi Ariga",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            956
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/103.png",
+            "large": "https://images.pokemontcg.io/sv1/103_hires.png"
+        }
+    },
+    {
+        "id": "sv1-104",
+        "name": "Greavard",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Graveyard Gamboling",
+                "damage": "10×",
+                "text": "This attack does 10 damage for each Psychic Pokémon in your discard pile.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "104",
+        "artist": "yuu",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            971
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/104.png",
+            "large": "https://images.pokemontcg.io/sv1/104_hires.png"
+        }
+    },
+    {
+        "id": "sv1-105",
+        "name": "Greavard",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 80,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Underworld Stroll",
+                "damage": "",
+                "text": "Your opponent reveals their hand. Choose a Supporter card you find there and put it on the bottom of their deck.",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Sharp Fang",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "105",
+        "artist": "Shin Nagasawa",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            971
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/105.png",
+            "large": "https://images.pokemontcg.io/sv1/105_hires.png"
+        }
+    },
+    {
+        "id": "sv1-106",
+        "name": "Houndstone",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 140,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Greavard",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Last Respects",
+                "damage": "80+",
+                "text": "This attack does 10 more damage for each Psychic Pokémon in your discard pile.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "106",
+        "artist": "Kouki Saitou",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            972
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/106.png",
+            "large": "https://images.pokemontcg.io/sv1/106_hires.png"
+        }
+    },
+    {
+        "id": "sv1-107",
+        "name": "Mankey",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
                     "Fighting"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
+                "name": "Monkey Beatdown",
+                "damage": "30",
+                "text": "This Pokémon also does 10 damage to itself.",
+                "convertedEnergyCost": 1
             }
         ],
         "weaknesses": [
@@ -12770,27 +7644,372 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG26",
-        "artist": "Kouki Saitou",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It's exceedingly energetic, with enough stamina to keep running all through the night. Taking it for walks can be a challenging experience.",
+        "number": "107",
+        "artist": "nagimiso",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            56
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/107.png",
+            "large": "https://images.pokemontcg.io/sv1/107_hires.png"
+        }
+    },
+    {
+        "id": "sv1-108",
+        "name": "Primeape",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Mankey",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Raging Punch",
+                "damage": "70",
+                "text": "This Pokémon also does 20 damage to itself.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "108",
+        "artist": "Ryuta Fuse",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            57
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/108.png",
+            "large": "https://images.pokemontcg.io/sv1/108_hires.png"
+        }
+    },
+    {
+        "id": "sv1-109",
+        "name": "Annihilape",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": 140,
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Primeape",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Rage Fist",
+                "damage": "70×",
+                "text": "This attack does 70 damage for each Prize card your opponent has taken.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Dynamite Punch",
+                "damage": "170",
+                "text": "This Pokémon also does 50 damage to itself.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "109",
+        "artist": "Anesaki Dynamic",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            979
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/109.png",
+            "large": "https://images.pokemontcg.io/sv1/109_hires.png"
+        }
+    },
+    {
+        "id": "sv1-110",
+        "name": "Meditite",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Feint",
+                "damage": "10",
+                "text": "This attack's damage isn't affected by Resistance.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "110",
+        "artist": "miki kudo",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            307
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/110.png",
+            "large": "https://images.pokemontcg.io/sv1/110_hires.png"
+        }
+    },
+    {
+        "id": "sv1-111",
+        "name": "Medicham",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Meditite",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Acu-Punch-Ture",
+                "damage": "30",
+                "text": "Choose 1 of your opponent's Active Pokémon's attacks. During your opponent's next turn, that Pokémon can't use that attack.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Kick Shot",
+                "damage": "90",
+                "text": "Flip a coin. If tails, this attack does nothing.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "111",
+        "artist": "Jerky",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            308
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/111.png",
+            "large": "https://images.pokemontcg.io/sv1/111_hires.png"
+        }
+    },
+    {
+        "id": "sv1-112",
+        "name": "Riolu",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Jab",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Low Kick",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "112",
+        "artist": "Naoyo Kimura",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
             447
         ],
@@ -12799,1842 +8018,190 @@ let crownZenith = [
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG26.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG26_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/112.png",
+            "large": "https://images.pokemontcg.io/sv1/112_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG27",
-        "name": "Swablu",
+        "id": "sv1-113",
+        "name": "Riolu",
         "supertype": "Pokémon",
         "subtypes": [
             "Basic"
         ],
-        "hp": "50",
+        "hp": 70,
         "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Altaria"
+            "Fighting"
         ],
         "attacks": [
             {
-                "name": "Surprise Attack",
                 "cost": [
-                    "Colorless"
+                    "Fighting"
                 ],
-                "convertedEnergyCost": 1,
-                "damage": "30",
-                "text": "Flip a coin. If tails, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG27",
-        "artist": "Kouki Saitou",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
-        "nationalPokedexNumbers": [
-            333
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG27.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG27_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG28",
-        "name": "Duskull",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesTo": [
-            "Dusclops"
-        ],
-        "attacks": [
-            {
-                "name": "Perplex",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
+                "name": "Punch",
                 "damage": "10",
-                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
+                "text": "",
+                "convertedEnergyCost": 1
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG28",
-        "artist": "Kouki Saitou",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "If it finds bad children who won't listen to their parents, it will spirit them away—or so it's said.",
-        "nationalPokedexNumbers": [
-            355
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG28.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG28_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG29",
-        "name": "Bidoof",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Colorless"
-        ],
-        "evolvesTo": [
-            "Bibarel"
-        ],
-        "abilities": [
             {
-                "name": "Carefree Countenance",
-                "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Hyper Fang",
                 "cost": [
-                    "Colorless",
+                    "Fighting",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": "Flip a coin. If tails, this attack does nothing."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG29",
-        "artist": "Kouki Saitou",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
-        "nationalPokedexNumbers": [
-            399
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG29.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG29_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG30",
-        "name": "Pikachu",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Raichu"
-        ],
-        "abilities": [
-            {
-                "name": "Pika Dash",
-                "text": "If this Pokémon has any Energy attached, it has no Retreat Cost.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Whimsy Tackle",
-                "cost": [
-                    "Lightning",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
+                "name": "Reckless Charge",
                 "damage": "50",
-                "text": "Flip a coin. If tails, this attack does nothing."
+                "text": "This Pokémon also does 20 damage to itself.",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
             {
-                "type": "Fighting",
+                "type": "Psychic",
                 "value": "×2"
             }
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG30",
-        "artist": "Kouki Saitou",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+        "number": "113",
+        "artist": "chibi",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            25
+            447
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG30.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG30_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/113.png",
+            "large": "https://images.pokemontcg.io/sv1/113_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG31",
-        "name": "Turtwig",
+        "id": "sv1-114",
+        "name": "Lucario",
         "supertype": "Pokémon",
         "subtypes": [
-            "Basic"
+            "Stage 1"
         ],
-        "hp": "80",
+        "hp": 130,
         "types": [
-            "Grass"
+            "Fighting"
         ],
-        "evolvesTo": [
-            "Grotle"
-        ],
+        "evolvesFrom": "Riolu",
         "attacks": [
             {
-                "name": "Bite",
                 "cost": [
-                    "Grass"
+                    "Fighting"
                 ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Headbutt Bounce",
-                "cost": [
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG31",
-        "artist": "Kouki Saitou",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It undertakes photosynthesis with its body, making oxygen. The leaf on its head wilts if it is thirsty.",
-        "nationalPokedexNumbers": [
-            387
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG31.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG31_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG32",
-        "name": "Paras",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "70",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Parasect"
-        ],
-        "attacks": [
-            {
-                "name": "Absorb",
-                "cost": [
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20",
-                "text": "Heal 10 damage from this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG32",
-        "artist": "Kouki Saitou",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "The mushrooms, known as tochukaso, are controlling the bug. Even if the bug bugs the mushrooms, they tell it to bug off.",
-        "nationalPokedexNumbers": [
-            46
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG32.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG32_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG33",
-        "name": "Poochyena",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesTo": [
-            "Mightyena"
-        ],
-        "attacks": [
-            {
-                "name": "Gnaw",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Slight Intrusion",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": "This Pokémon also does 10 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Grass",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG33",
-        "artist": "Kouki Saitou",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.",
-        "nationalPokedexNumbers": [
-            261
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG33.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG33_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG34",
-        "name": "Mareep",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesTo": [
-            "Flaaffy"
-        ],
-        "attacks": [
-            {
-                "name": "Rear Kick",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            },
-            {
-                "name": "Electro Ball",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG34",
-        "artist": "Kouki Saitou",
-        "rarity": "Trainer Gallery Rare Holo",
-        "flavorText": "Rubbing its fleece generates electricity. You'll want to pet it because it's cute, but if you use your bare hand, you'll get a painful shock.",
-        "nationalPokedexNumbers": [
-            179
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG34.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG34_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG35",
-        "name": "Leafeon VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "260",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Leafeon V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Ivy Star",
-                "text": "During your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon. (You can't use more than 1 VSTAR Power in a game.)",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Leaf Guard",
-                "cost": [
-                    "Grass",
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "180",
-                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG35",
-        "artist": "Jiro Sasumo",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            470
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG35.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG35_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG36",
-        "name": "Entei V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "230",
-        "types": [
-            "Fire"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Fleet-Footed",
-                "text": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Burning Rondo",
-                "cost": [
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20+",
-                "text": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG36",
-        "artist": "Shigenori Negishi",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            244
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG36.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG36_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG37",
-        "name": "Simisear VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "260",
-        "types": [
-            "Fire"
-        ],
-        "evolvesFrom": "Simisear V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Fireball Fever",
-                "cost": [
-                    "Fire",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "40+",
-                "text": "You may discard up to 5 cards from the top of your deck. This attack does 40 more damage for each card you discarded in this way."
-            },
-            {
-                "name": "Ember Star",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "30×",
-                "text": "This attack does 30 damage for each Energy card in your discard pile. (You can't use more than 1 VSTAR Power in a game.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG37",
-        "artist": "nagano",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            514
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG37.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG37_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG38",
-        "name": "Suicune V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "210",
-        "types": [
-            "Water"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Fleet-Footed",
-                "text": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Blizzard Rondo",
-                "cost": [
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20+",
-                "text": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG38",
-        "artist": "Atsushi Furusawa",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            245
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG38.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG38_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG39",
-        "name": "Lumineon V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "170",
-        "types": [
-            "Water"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Luminous Sign",
-                "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Aqua Return",
-                "cost": [
-                    "Water",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "120",
-                "text": "Shuffle this Pokémon and all attached cards into your deck."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Lightning",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG39",
-        "artist": "Jerky",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            457
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG39.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG39_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG40",
-        "name": "Glaceon VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "260",
-        "types": [
-            "Water"
-        ],
-        "evolvesFrom": "Glaceon V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Icicle Shot",
-                "cost": [
-                    "Water",
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "180",
-                "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
-            },
-            {
-                "name": "Crystal Star",
-                "cost": [
-                    "Water",
-                    "Water",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "220",
-                "text": "During your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG40",
-        "artist": "Gemi",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            471
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG40.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG40_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG41",
-        "name": "Raikou V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "200",
-        "types": [
-            "Lightning"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Fleet-Footed",
-                "text": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Lightning Rondo",
-                "cost": [
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "20+",
-                "text": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG41",
-        "artist": "nagimiso",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            243
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG41.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG41_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG42",
-        "name": "Zeraora VMAX",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VMAX"
-        ],
-        "hp": "320",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Zeraora V",
-        "rules": [
-            "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Reactive Pulse",
-                "cost": [
-                    "Lightning",
-                    "Lightning"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "60×",
-                "text": "This attack does 60 damage for each of your opponent's Pokémon in play that has an Ability."
-            },
-            {
-                "name": "Max Fist",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "240",
-                "text": "Discard 2 Energy from this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG42",
-        "artist": "aoki",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            807
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG42.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG42_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG43",
-        "name": "Zeraora VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "270",
-        "types": [
-            "Lightning"
-        ],
-        "evolvesFrom": "Zeraora V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Crushing Beat",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "190",
-                "text": "You may discard a Stadium in play."
-            },
-            {
-                "name": "Lightning Storm Star",
-                "cost": [
-                    "Lightning",
-                    "Lightning",
-                    "Lightning",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "",
-                "text": "Choose 1 of your opponent's Pokémon 4 times. (You can choose the same Pokémon more than once.) For each time you chose a Pokémon, do 60 damage to it. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 VSTAR Power in a game.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG43",
-        "artist": "Ligton",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            807
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG43.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG43_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG44",
-        "name": "Mewtwo VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "280",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Mewtwo V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Psy Purge",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "90×",
-                "text": "Discard up to 3 Psychic Energy from your Pokémon. This attack does 90 damage for each card you discarded in this way."
-            },
-            {
-                "name": "Star Raid",
-                "cost": [
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "",
-                "text": "This attack does 120 damage to each of your opponent's Pokémon V. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 VSTAR Power in a game.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG44",
-        "artist": "GOSSAN",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            150
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG44.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG44_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG45",
-        "name": "Deoxys VMAX",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VMAX"
-        ],
-        "hp": "330",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Deoxys V",
-        "rules": [
-            "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Protective DNA",
-                "text": "All of your Pokémon take 30 less damage from attacks from your opponent's Pokémon VSTAR (after applying Weakness and Resistance).",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Max Drain",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "160",
-                "text": "Heal 30 damage from this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 3,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG45",
-        "artist": "Akira Komayama",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            386
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG45.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG45_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG46",
-        "name": "Deoxys VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "270",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Deoxys V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Psychic Javelin",
-                "cost": [
-                    "Psychic",
-                    "Psychic",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "190",
-                "text": "This attack also does 60 damage to 1 of your opponent's Benched Pokémon V. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            },
-            {
-                "name": "Star Force",
-                "cost": [
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "60×",
-                "text": "This attack does 60 damage for each Energy attached to both Active Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG46",
-        "artist": "DOM",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            386
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG46.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG46_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG47",
-        "name": "Hatterene VMAX",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VMAX"
-        ],
-        "hp": "320",
-        "types": [
-            "Psychic"
-        ],
-        "evolvesFrom": "Hatterene V",
-        "rules": [
-            "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Witch's Domain",
-                "text": "Once during your turn, you may move up to 2 damage counters from your Pokémon to your opponent's Active Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "G-Max Smite",
-                "cost": [
-                    "Psychic",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "150",
-                "text": "Your opponent's Active Pokémon is now Confused."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Darkness",
-                "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Fighting",
-                "value": "-30"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG47",
-        "artist": "sui",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            858
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG47.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG47_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG48",
-        "name": "Zacian V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "220",
-        "types": [
-            "Psychic"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Roar of the Sword",
-                "text": "Once during your turn, you may search your deck for a Psychic Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck. If you use this Ability, your turn ends.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Storm Slash",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "60+",
-                "text": "This attack does 30 more damage for each Psychic Energy attached to this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Metal",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG48",
-        "artist": "Hataya",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            888
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG48.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG48_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG49",
-        "name": "Drapion V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "210",
-        "types": [
-            "Darkness"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Wild Style",
-                "text": "This Pokémon's attacks cost Colorless less for each of your opponent's Single Strike, Rapid Strike, and Fusion Strike Pokémon in play.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Dynamic Tail",
-                "cost": [
-                    "Colorless",
-                    "Colorless",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 4,
-                "damage": "190",
-                "text": "This attack also does 60 damage to 1 of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fighting",
-                "value": "×2"
-            }
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG49",
-        "artist": "Yuka Morii",
-        "rarity": "Trainer Gallery Rare Holo V",
-        "nationalPokedexNumbers": [
-            452
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG49.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG49_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG50",
-        "name": "Darkrai VSTAR",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VSTAR"
-        ],
-        "hp": "270",
-        "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Darkrai V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Star Abyss",
-                "text": "During your turn, you may put up to 2 Item cards from your discard pile into your hand. (You can't use more than 1 VSTAR Power in a game.)",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Dark Pulse",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
+                "name": "Avenging Knuckle",
                 "damage": "30+",
-                "text": "This attack does 30 more damage for each Darkness Energy attached to all of your Pokémon."
+                "text": "If any of your Fighting Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 120 more damage.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Accelerating Stab",
+                "damage": "120",
+                "text": "During your next turn, this Pokémon can't use Accelerating Stab.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "114",
+        "artist": "Nurikabe",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            448
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/114.png",
+            "large": "https://images.pokemontcg.io/sv1/114_hires.png"
+        }
+    },
+    {
+        "id": "sv1-115",
+        "name": "Sandile",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Gnaw",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Ram",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
@@ -14645,75 +8212,144 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG50",
-        "artist": "Pani Kobayashi",
-        "rarity": "Trainer Gallery Rare Holo V",
+        "number": "115",
+        "artist": "Tomokazu Komiya",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            491
+            551
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG50.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG50_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/115.png",
+            "large": "https://images.pokemontcg.io/sv1/115_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG51",
-        "name": "Hisuian Samurott V",
+        "id": "sv1-116",
+        "name": "Krokorok",
         "supertype": "Pokémon",
         "subtypes": [
-            "Basic",
-            "V"
+            "Stage 1"
         ],
-        "hp": "220",
+        "hp": 100,
         "types": [
-            "Darkness"
+            "Fighting"
         ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
+        "evolvesFrom": "Sandile",
         "attacks": [
             {
-                "name": "Basket Crash",
                 "cost": [
-                    "Darkness"
+                    "Fighting"
                 ],
-                "convertedEnergyCost": 1,
-                "damage": "",
-                "text": "Discard up to 2 Pokémon Tools from your opponent's Pokémon."
+                "name": "Payback",
+                "damage": "30+",
+                "text": "If your opponent has exactly 1 Prize card remaining, this attack does 90 more damage.",
+                "convertedEnergyCost": 1
             },
             {
-                "name": "Shadow Slash",
                 "cost": [
-                    "Darkness",
-                    "Darkness",
-                    "Darkness"
+                    "Fighting",
+                    "Fighting"
                 ],
-                "convertedEnergyCost": 3,
+                "name": "Corkscrew Punch",
+                "damage": "60",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "116",
+        "artist": "kantaro",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            552
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/116.png",
+            "large": "https://images.pokemontcg.io/sv1/116_hires.png"
+        }
+    },
+    {
+        "id": "sv1-117",
+        "name": "Krookodile",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": 170,
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Krokorok",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Chomp Chomp Bite",
+                "damage": "50",
+                "text": "Flip a coin until you get tails. For each heads, discard an Energy from your opponent's Active Pokémon.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Earthquake",
                 "damage": "180",
-                "text": "Discard an Energy from this Pokémon."
+                "text": "This attack also does 30 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
@@ -14722,74 +8358,134 @@ let crownZenith = [
                 "value": "×2"
             }
         ],
-        "convertedRetreatCost": 2,
+        "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG51",
-        "artist": "kodama",
-        "rarity": "Trainer Gallery Rare Holo V",
+        "number": "117",
+        "artist": "Misa Tsutsui",
+        "rarity": "Uncommon",
         "nationalPokedexNumbers": [
-            503
+            553
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG51.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG51_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/117.png",
+            "large": "https://images.pokemontcg.io/sv1/117_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG52",
-        "name": "Hisuian Samurott VSTAR",
+        "id": "sv1-118",
+        "name": "Hawlucha",
         "supertype": "Pokémon",
         "subtypes": [
-            "VSTAR"
+            "Basic"
         ],
-        "hp": "270",
+        "hp": 70,
         "types": [
-            "Darkness"
-        ],
-        "evolvesFrom": "Hisuian Samurott V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+            "Fighting"
         ],
         "abilities": [
             {
-                "name": "Moon Cleave Star",
-                "text": "During your turn, you may put 4 damage counters on 1 of your opponent's Pokémon. (You can't use more than 1 VSTAR Power in a game.)",
-                "type": "Ability"
+                "type": "Ability",
+                "name": "Ability",
+                "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may choose 2 of your opponent's Benched Pokémon and put 1 damage counter on each of them."
             }
         ],
         "attacks": [
             {
-                "name": "Merciless Blade",
                 "cost": [
-                    "Darkness",
-                    "Darkness"
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "110+",
-                "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 110 more damage."
+                "name": "Wing Attack",
+                "damage": "70",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "118",
+        "artist": "GOSSAN",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            701
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/118.png",
+            "large": "https://images.pokemontcg.io/sv1/118_hires.png"
+        }
+    },
+    {
+        "id": "sv1-119",
+        "name": "Silicobra",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 80,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Mud-Slap",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
@@ -14800,234 +8496,585 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG52",
-        "artist": "Shibuzoh.",
-        "rarity": "Trainer Gallery Rare Holo V",
+        "number": "119",
+        "artist": "Kouki Saitou",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            503
+            843
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG52.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG52_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/119.png",
+            "large": "https://images.pokemontcg.io/sv1/119_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG53",
-        "name": "Hoopa V",
+        "id": "sv1-120",
+        "name": "Sandaconda",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 140,
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Silicobra",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Skull Bash",
+                "damage": "120",
+                "text": "",
+                "convertedEnergyCost": 3
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Sandstorm Spray",
+                "damage": "",
+                "text": "Discard 2 Energy from this Pokémon. If you discarded any Energy in this way, your opponent shuffles their Active Pokémon and all attached cards into their deck.",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "120",
+        "artist": "Yuya Oka",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            844
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/120.png",
+            "large": "https://images.pokemontcg.io/sv1/120_hires.png"
+        }
+    },
+    {
+        "id": "sv1-121",
+        "name": "Stonjourner",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 130,
+        "types": [
+            "Fighting"
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "This Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance)."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Mega Kick",
+                "damage": "100",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "121",
+        "artist": "Yuka Morii",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            874
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/121.png",
+            "large": "https://images.pokemontcg.io/sv1/121_hires.png"
+        }
+    },
+    {
+        "id": "sv1-122",
+        "name": "Klawf",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 130,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Vise Grip",
+                "damage": "50",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Adrenaline Hammer",
+                "damage": "130",
+                "text": "This Pokémon is now Confused.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "122",
+        "artist": "nagimiso",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            950
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/122.png",
+            "large": "https://images.pokemontcg.io/sv1/122_hires.png"
+        }
+    },
+    {
+        "id": "sv1-123",
+        "name": "Great Tusk ex",
         "supertype": "Pokémon",
         "subtypes": [
             "Basic",
-            "V",
-            "Fusion Strike"
+            "ex"
         ],
-        "hp": "220",
+        "hp": 250,
         "types": [
-            "Darkness"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Two-Faced",
-                "text": "As long as this Pokémon is in play, it is Psychic and Darkness type.",
-                "type": "Ability"
-            }
+            "Fighting"
         ],
         "attacks": [
             {
-                "name": "Shadow Impact",
                 "cost": [
-                    "Darkness",
-                    "Darkness",
-                    "Colorless"
+                    "Fighting"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "170",
-                "text": "Put 3 damage counters on 1 of your Pokémon."
+                "name": "Bedrock Breaker",
+                "damage": "40",
+                "text": "Discard a Stadium in play.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Gigantic Tusks",
+                "damage": "250",
+                "text": "This Pokémon also does 50 damage to itself.",
+                "convertedEnergyCost": 3
             }
         ],
         "weaknesses": [
             {
-                "type": "Grass",
+                "type": "Psychic",
                 "value": "×2"
             }
         ],
-        "convertedRetreatCost": 2,
+        "convertedRetreatCost": 4,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG53",
-        "artist": "OKACHEKE",
-        "rarity": "Trainer Gallery Rare Holo V",
+        "number": "123",
+        "artist": "5ban Graphics",
+        "rarity": "Double Rare",
         "nationalPokedexNumbers": [
-            720
+            984
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "E",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG53.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG53_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/123.png",
+            "large": "https://images.pokemontcg.io/sv1/123_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG54",
-        "name": "Zamazenta V",
+        "id": "sv1-124",
+        "name": "Koraidon",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 130,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Claw Slash",
+                "damage": "70",
+                "text": "",
+                "convertedEnergyCost": 3
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Rampaging Fang",
+                "damage": "190",
+                "text": "Discard 3 Energy from this Pokémon.",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "124",
+        "artist": "Kouki Saitou",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            1007
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/124.png",
+            "large": "https://images.pokemontcg.io/sv1/124_hires.png"
+        }
+    },
+    {
+        "id": "sv1-125",
+        "name": "Koraidon ex",
         "supertype": "Pokémon",
         "subtypes": [
             "Basic",
-            "V"
+            "ex"
         ],
-        "hp": "220",
+        "hp": 230,
         "types": [
-            "Metal"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+            "Fighting"
         ],
         "abilities": [
             {
-                "name": "Regal Stance",
-                "text": "Once during your turn, you may discard your hand and draw 5 cards. If you use this Ability, your turn ends.",
-                "type": "Ability"
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may attach up to 2 Basic Fighting Energy cards from your discard pile to your Basic Fighting Pokémon in any way you like. If you use this Ability, your turn ends."
             }
         ],
         "attacks": [
             {
-                "name": "Revenge Blast",
                 "cost": [
-                    "Metal",
-                    "Colorless",
+                    "Fighting",
+                    "Fighting",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "120+",
-                "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+                "name": "Wild Impact",
+                "damage": "220",
+                "text": "During your next turn, this Pokémon can't attack.",
+                "convertedEnergyCost": 3
             }
         ],
         "weaknesses": [
             {
-                "type": "Fire",
+                "type": "Psychic",
                 "value": "×2"
-            }
-        ],
-        "resistances": [
-            {
-                "type": "Grass",
-                "value": "-30"
             }
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG54",
-        "artist": "Haru Akasaka",
-        "rarity": "Trainer Gallery Rare Holo V",
+        "number": "125",
+        "artist": "aky CG Works",
+        "rarity": "Double Rare",
         "nationalPokedexNumbers": [
-            889
+            1007
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG54.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG54_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/125.png",
+            "large": "https://images.pokemontcg.io/sv1/125_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG55",
-        "name": "Regigigas VSTAR",
+        "id": "sv1-126",
+        "name": "Grimer",
         "supertype": "Pokémon",
         "subtypes": [
-            "VSTAR"
+            "Basic"
         ],
-        "hp": "300",
+        "hp": 80,
         "types": [
-            "Colorless"
+            "Darkness"
         ],
-        "evolvesFrom": "Regigigas V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Super Poison Breath",
+                "damage": "50",
+                "text": "Your opponent's Active Pokémon is now Poisoned.",
+                "convertedEnergyCost": 3
+            }
         ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "126",
+        "artist": "Kouki Saitou",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            88
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/126.png",
+            "large": "https://images.pokemontcg.io/sv1/126_hires.png"
+        }
+    },
+    {
+        "id": "sv1-127",
+        "name": "Muk",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 140,
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Grimer",
         "abilities": [
             {
-                "name": "Star Guardian",
-                "text": "During your turn, if your opponent has exactly 1 Prize card remaining, you may choose 1 of your opponent's Benched Pokémon. They discard that Pokémon and all attached cards. (You can't use more than 1 VSTAR Power in a game.)",
-                "type": "Ability"
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Your opponent's Poisoned Pokémon don't recover from that Special Condition when they evolve or devolve."
             }
         ],
         "attacks": [
             {
-                "name": "Giga Impact",
                 "cost": [
+                    "Darkness",
                     "Colorless",
                     "Colorless",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "230",
-                "text": "During your next turn, this Pokémon can't attack."
+                "name": "Toxic Strike",
+                "damage": "100",
+                "text": "Your opponent's Active Pokémon is now Poisoned.",
+                "convertedEnergyCost": 4
             }
         ],
         "weaknesses": [
@@ -15038,72 +9085,70 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 4,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG55",
-        "artist": "Aya Kusube",
-        "rarity": "Trainer Gallery Rare Holo V",
+        "number": "127",
+        "artist": "Haru Akasaka",
+        "rarity": "Uncommon",
         "nationalPokedexNumbers": [
-            486
+            89
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG55.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG55_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/127.png",
+            "large": "https://images.pokemontcg.io/sv1/127_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG56",
-        "name": "Hisuian Zoroark VSTAR",
+        "id": "sv1-128",
+        "name": "Seviper",
         "supertype": "Pokémon",
         "subtypes": [
-            "VSTAR"
+            "Basic"
         ],
-        "hp": "270",
+        "hp": 120,
         "types": [
-            "Colorless"
-        ],
-        "evolvesFrom": "Hisuian Zoroark V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Phantom Star",
-                "text": "During your turn, you may discard your hand and draw 7 cards. (You can't use more than 1 VSTAR Power in a game.)",
-                "type": "Ability"
-            }
+            "Darkness"
         ],
         "attacks": [
             {
-                "name": "Ticking Curse",
                 "cost": [
+                    "Darkness"
+                ],
+                "name": "Spit Poison",
+                "damage": "",
+                "text": "Your opponent's Active Pokémon is now Poisoned.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Darkness",
                     "Colorless",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "50×",
-                "text": "This attack does 50 damage for each of your Pokémon that has any damage counters on it."
+                "name": "Venoshock",
+                "damage": "60+",
+                "text": "If your opponent's Active Pokémon is Poisoned, this attack does 120 more damage.",
+                "convertedEnergyCost": 3
             }
         ],
         "weaknesses": [
@@ -15114,502 +9159,722 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG56",
-        "artist": "SIE NANAHARA",
-        "rarity": "Trainer Gallery Rare Holo V",
+        "number": "128",
+        "artist": "sui",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            571
+            336
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG56.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG56_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/128.png",
+            "large": "https://images.pokemontcg.io/sv1/128_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG57",
-        "name": "Adaman",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "You can use this card only if you discard 2 Metal Energy cards from your hand. Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG57",
-        "artist": "Naoki Saito",
-        "rarity": "Trainer Gallery Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG57.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG57_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG58",
-        "name": "Cheren's Care",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Put 1 of your Colorless Pokémon that has any damage counters on it and all attached cards into your hand.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG58",
-        "artist": "chibi",
-        "rarity": "Trainer Gallery Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG58.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG58_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG59",
-        "name": "Colress's Experiment",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Look at the top 5 cards of your deck and put 3 of them into your hand. Put the other cards in the Lost Zone.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG59",
-        "artist": "kantaro",
-        "rarity": "Trainer Gallery Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG59.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG59_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG60",
-        "name": "Cynthia's Ambition",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Draw cards until you have 5 cards in your hand. If any of your Pokémon were Knocked Out during your opponent's last turn, draw cards until you have 8 cards in your hand instead.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG60",
-        "artist": "Atsuya Uki",
-        "rarity": "Trainer Gallery Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG60.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG60_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG61",
-        "name": "Gardenia's Vigor",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Draw 2 cards. If you drew any cards in this way, attach up to 2 Grass Energy cards from your hand to 1 of your Benched Pokémon.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG61",
-        "artist": "Yoriyuki Ikegami",
-        "rarity": "Trainer Gallery Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG61.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG61_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG62",
-        "name": "Grant",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "During this turn, your Fighting Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance). During your turn, if this Grant is in your discard pile, you may discard 2 cards, except any Grant, from your hand. If you do, put this Grant into your hand. (This effect doesn't use up your Supporter card for the turn.)",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG62",
-        "artist": "Oswaldo KATO",
-        "rarity": "Trainer Gallery Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG62.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG62_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG63",
-        "name": "Irida",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Search your deck for a Water Pokémon and an Item card, reveal them, and put them into your hand. Then, shuffle your deck.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG63",
-        "artist": "Naoki Saito",
-        "rarity": "Trainer Gallery Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG63.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG63_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG64",
-        "name": "Melony",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "Attach a Water Energy card from your discard pile to 1 of your Pokémon V. If you do, draw 3 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG64",
-        "artist": "saino misaki",
-        "rarity": "Trainer Gallery Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG64.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG64_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG65",
-        "name": "Raihan",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "You can play this card only if any of your Pokémon were Knocked Out during your opponent's last turn. Attach a basic Energy card from your discard pile to 1 of your Pokémon. If you do, search your deck for a card and put it into your hand. Then, shuffle your deck.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG65",
-        "artist": "GIDORA",
-        "rarity": "Trainer Gallery Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG65.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG65_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG66",
-        "name": "Roxanne",
-        "supertype": "Trainer",
-        "subtypes": [
-            "Supporter"
-        ],
-        "rules": [
-            "You can use this card only if your opponent has 3 or fewer Prize cards remaining. Each player shuffles their hand into their deck. Then, you draw 6 cards, and your opponent draws 2 cards.",
-            "You may play only 1 Supporter card during your turn."
-        ],
-        "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
-            }
-        },
-        "number": "GG66",
-        "artist": "Toshinao Aoki",
-        "rarity": "Trainer Gallery Rare Ultra",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "F",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG66.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG66_hires.png"
-        }
-    },
-    {
-        "id": "swsh12pt5gg-GG67",
-        "name": "Origin Forme Palkia VSTAR",
+        "id": "sv1-129",
+        "name": "Spiritomb",
         "supertype": "Pokémon",
         "subtypes": [
-            "VSTAR"
+            "Basic"
         ],
-        "hp": "280",
+        "hp": 70,
         "types": [
-            "Water"
+            "Darkness"
         ],
-        "evolvesFrom": "Origin Forme Palkia V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Taunt",
+                "damage": "",
+                "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Doom Decree",
+                "damage": "",
+                "text": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out.",
+                "convertedEnergyCost": 2
+            }
         ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "129",
+        "artist": "Naoyo Kimura",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            442
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/129.png",
+            "large": "https://images.pokemontcg.io/sv1/129_hires.png"
+        }
+    },
+    {
+        "id": "sv1-130",
+        "name": "Croagunk",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Darkness"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Beat",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Whap Down",
+                "damage": "40",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "130",
+        "artist": "Shiburingaru",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            453
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/130.png",
+            "large": "https://images.pokemontcg.io/sv1/130_hires.png"
+        }
+    },
+    {
+        "id": "sv1-131",
+        "name": "Toxicroak ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 250,
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Croagunk",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Nasty Plot",
+                "damage": "",
+                "text": "Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Toxic Ripper",
+                "damage": "120",
+                "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 6 damage counters on that Pokémon instead of 1.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "131",
+        "artist": "Nisota Niso",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            454
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/131.png",
+            "large": "https://images.pokemontcg.io/sv1/131_hires.png"
+        }
+    },
+    {
+        "id": "sv1-132",
+        "name": "Pawniard",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Darkness"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Scratch",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Pierce",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "132",
+        "artist": "sowsow",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            624
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/132.png",
+            "large": "https://images.pokemontcg.io/sv1/132_hires.png"
+        }
+    },
+    {
+        "id": "sv1-133",
+        "name": "Bisharp",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 120,
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Pawniard",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Dark Cutter",
+                "damage": "40",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Double-Edged Slash",
+                "damage": "120",
+                "text": "This Pokémon also does 30 damage to itself.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "133",
+        "artist": "Hideki Ishikawa",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            625
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/133.png",
+            "large": "https://images.pokemontcg.io/sv1/133_hires.png"
+        }
+    },
+    {
+        "id": "sv1-134",
+        "name": "Kingambit",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": 170,
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Bisharp",
         "abilities": [
             {
-                "name": "Star Portal",
-                "text": "During your turn, you may attach up to 3 Water Energy cards from your discard pile to your Water Pokémon in any way you like. (You can't use more than 1 VSTAR Power in a game.)",
-                "type": "Ability"
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Your Basic Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
             }
         ],
         "attacks": [
             {
-                "name": "Subspace Swell",
                 "cost": [
-                    "Water",
-                    "Water"
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "60+",
-                "text": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
+                "name": "Hack At",
+                "damage": "160",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "134",
+        "artist": "Anesaki Dynamic",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            983
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/134.png",
+            "large": "https://images.pokemontcg.io/sv1/134_hires.png"
+        }
+    },
+    {
+        "id": "sv1-135",
+        "name": "Maschiff",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Darkness"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Rear Kick",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Darkness Fang",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "135",
+        "artist": "kantaro",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            942
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/135.png",
+            "large": "https://images.pokemontcg.io/sv1/135_hires.png"
+        }
+    },
+    {
+        "id": "sv1-136",
+        "name": "Maschiff",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 80,
+        "types": [
+            "Darkness"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Crunch",
+                "damage": "30",
+                "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "136",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            942
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/136.png",
+            "large": "https://images.pokemontcg.io/sv1/136_hires.png"
+        }
+    },
+    {
+        "id": "sv1-137",
+        "name": "Mabosstiff",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 130,
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Maschiff",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Wild Tackle",
+                "damage": "160",
+                "text": "This Pokémon also does 30 damage to itself.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "137",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            943
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/137.png",
+            "large": "https://images.pokemontcg.io/sv1/137_hires.png"
+        }
+    },
+    {
+        "id": "sv1-138",
+        "name": "Bombirdier",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 110,
+        "types": [
+            "Darkness"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Knickknack Carrying",
+                "damage": "",
+                "text": "Search your deck for up to 3 Pokémon Tool cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Clutch",
+                "damage": "60",
+                "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+                "convertedEnergyCost": 2
             }
         ],
         "weaknesses": [
@@ -15618,79 +9883,79 @@ let crownZenith = [
                 "value": "×2"
             }
         ],
-        "convertedRetreatCost": 2,
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG67",
-        "artist": "AKIRA EGAWA",
-        "rarity": "Trainer Gallery Rare Secret",
+        "number": "138",
+        "artist": "nagimiso",
+        "rarity": "Uncommon",
         "nationalPokedexNumbers": [
-            484
+            962
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG67.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG67_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/138.png",
+            "large": "https://images.pokemontcg.io/sv1/138_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG68",
-        "name": "Origin Forme Dialga VSTAR",
+        "id": "sv1-139",
+        "name": "Forretress",
         "supertype": "Pokémon",
         "subtypes": [
-            "VSTAR"
+            "Stage 1"
         ],
-        "hp": "280",
+        "hp": 120,
         "types": [
             "Metal"
         ],
-        "evolvesFrom": "Origin Forme Dialga V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
+        "evolvesFrom": "Pineco",
         "attacks": [
             {
-                "name": "Metal Blast",
                 "cost": [
-                    "Colorless"
+                    "Metal"
                 ],
-                "convertedEnergyCost": 1,
-                "damage": "40+",
-                "text": "This attack does 40 more damage for each Metal Energy attached to this Pokémon."
+                "name": "Continuous Spin",
+                "damage": "50×",
+                "text": "Flip a coin until you get tails. This attack does 50 damage for each heads.",
+                "convertedEnergyCost": 1
             },
             {
-                "name": "Star Chronos",
                 "cost": [
                     "Metal",
-                    "Metal",
-                    "Metal",
-                    "Metal",
+                    "Colorless",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 5,
-                "damage": "220",
-                "text": "Take another turn after this one. (Skip Pokémon Checkup.) (You can't use more than 1 VSTAR Power in a game.)"
+                "name": "Rolling Shell",
+                "damage": "90",
+                "text": "During your opponent's next turn, this Pokémon takes 50 less damage from attacks (after applying Weakness and Resistance).",
+                "convertedEnergyCost": 3
             }
         ],
         "weaknesses": [
@@ -15707,147 +9972,375 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG68",
-        "artist": "AKIRA EGAWA",
-        "rarity": "Trainer Gallery Rare Secret",
+        "number": "139",
+        "artist": "Lee HyunJung",
+        "rarity": "Uncommon",
         "nationalPokedexNumbers": [
-            483
+            205
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG68.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG68_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/139.png",
+            "large": "https://images.pokemontcg.io/sv1/139_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG69",
-        "name": "Giratina VSTAR",
+        "id": "sv1-140",
+        "name": "Varoom",
         "supertype": "Pokémon",
         "subtypes": [
-            "VSTAR"
+            "Basic"
         ],
-        "hp": "280",
+        "hp": 60,
         "types": [
-            "Dragon"
-        ],
-        "evolvesFrom": "Giratina V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+            "Metal"
         ],
         "attacks": [
             {
-                "name": "Lost Impact",
                 "cost": [
-                    "Grass",
-                    "Psychic",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "280",
-                "text": "Put 2 Energy attached to your Pokémon in the Lost Zone."
-            },
-            {
-                "name": "Star Requiem",
-                "cost": [
-                    "Grass",
-                    "Psychic"
-                ],
-                "convertedEnergyCost": 2,
+                "name": "Poison Gas",
                 "damage": "",
-                "text": "You can use this attack only if you have 10 or more cards in the Lost Zone. Your opponent's Active Pokémon is Knocked Out. (You can't use more than 1 VSTAR Power in a game.)"
+                "text": "Your opponent's Active Pokémon is now Poisoned.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "140",
+        "artist": "Shin Nagasawa",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            965
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/140.png",
+            "large": "https://images.pokemontcg.io/sv1/140_hires.png"
+        }
+    },
+    {
+        "id": "sv1-141",
+        "name": "Varoom",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 80,
+        "types": [
+            "Metal"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hammer In",
+                "damage": "60",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
             }
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG69",
-        "artist": "AKIRA EGAWA",
-        "rarity": "Trainer Gallery Rare Secret",
+        "number": "141",
+        "artist": "nagimiso",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            487
+            965
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG69.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG69_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/141.png",
+            "large": "https://images.pokemontcg.io/sv1/141_hires.png"
         }
     },
     {
-        "id": "swsh12pt5gg-GG70",
-        "name": "Arceus VSTAR",
+        "id": "sv1-142",
+        "name": "Revavroom",
         "supertype": "Pokémon",
         "subtypes": [
-            "VSTAR"
+            "Stage 1"
         ],
-        "hp": "280",
+        "hp": 140,
         "types": [
-            "Colorless"
+            "Metal"
         ],
-        "evolvesFrom": "Arceus V",
-        "rules": [
-            "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
-        ],
+        "evolvesFrom": "Varoom",
         "abilities": [
             {
-                "name": "Starbirth",
-                "text": "During your turn, you may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 VSTAR Power in a game.)",
-                "type": "Ability"
+                "type": "Ability",
+                "name": "Ability",
+                "text": "You must discard an Energy card from your hand in order to use this Ability. Once during your turn, you may draw cards until you have 6 cards in your hand."
             }
         ],
         "attacks": [
             {
-                "name": "Trinity Nova",
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Knock Away",
+                "damage": "90+",
+                "text": "Flip a coin. If heads, this attack does 90 more damage.",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "142",
+        "artist": "Anesaki Dynamic",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            966
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/142.png",
+            "large": "https://images.pokemontcg.io/sv1/142_hires.png"
+        }
+    },
+    {
+        "id": "sv1-143",
+        "name": "Iron Treads ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 220,
+        "types": [
+            "Metal"
+        ],
+        "attacks": [
+            {
                 "cost": [
                     "Colorless",
                     "Colorless",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "200",
-                "text": "Search your deck for up to 3 basic Energy cards and attach them to your Pokémon V in any way you like. Then, shuffle your deck."
+                "name": "Triple Laser",
+                "damage": "",
+                "text": "This attack does 30 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "convertedEnergyCost": 3
+            },
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Cybernetic Wheels",
+                "damage": "160",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "143",
+        "artist": "5ban Graphics",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            990
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/143.png",
+            "large": "https://images.pokemontcg.io/sv1/143_hires.png"
+        }
+    },
+    {
+        "id": "sv1-144",
+        "name": "Chansey",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 110,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Pound",
+                "damage": "40",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Egg Rolling",
+                "damage": "60×",
+                "text": "Flip a coin until you get tails. This attack does 60 damage for each heads.",
+                "convertedEnergyCost": 3
             }
         ],
         "weaknesses": [
@@ -15858,38 +10351,6303 @@ let crownZenith = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield",
-            "printedTotal": 70,
-            "total": 70,
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
                 "expanded": "Legal"
             },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
+            "releaseDate": "2023/03/31",
             "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
         },
-        "number": "GG70",
-        "artist": "AKIRA EGAWA",
-        "rarity": "Trainer Gallery Rare Secret",
+        "number": "144",
+        "artist": "sui",
+        "rarity": "Common",
         "nationalPokedexNumbers": [
-            493
+            113
         ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
             "expanded": "Legal"
         },
-        "regulationMark": "F",
+        "regulationMark": "G",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh12pt5gg/GG70.png",
-            "large": "https://images.pokemontcg.io/swsh12pt5gg/GG70_hires.png"
+            "small": "https://images.pokemontcg.io/sv1/144.png",
+            "large": "https://images.pokemontcg.io/sv1/144_hires.png"
+        }
+    },
+    {
+        "id": "sv1-145",
+        "name": "Blissey",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 150,
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Chansey",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may use this Ability. Your Active Pokémon recovers from all Special Conditions."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Happy Cyclone",
+                "damage": "150",
+                "text": "Move all Energy from this Pokémon to 1 of your Benched Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "145",
+        "artist": "chibi",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            242
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/145.png",
+            "large": "https://images.pokemontcg.io/sv1/145_hires.png"
+        }
+    },
+    {
+        "id": "sv1-146",
+        "name": "Zangoose",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 90,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Slash",
+                "damage": "40",
+                "text": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "146",
+        "artist": "Yuya Oka",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            335
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/146.png",
+            "large": "https://images.pokemontcg.io/sv1/146_hires.png"
+        }
+    },
+    {
+        "id": "sv1-147",
+        "name": "Zangoose",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 110,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Drag Off",
+                "damage": "",
+                "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. This attack does 30 damage to the new Active Pokémon.",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Slashing Claw",
+                "damage": "80",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "147",
+        "artist": "aoki",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            335
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/147.png",
+            "large": "https://images.pokemontcg.io/sv1/147_hires.png"
+        }
+    },
+    {
+        "id": "sv1-148",
+        "name": "Starly",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Flap",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "148",
+        "artist": "Yuka Morii",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            396
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/148.png",
+            "large": "https://images.pokemontcg.io/sv1/148_hires.png"
+        }
+    },
+    {
+        "id": "sv1-149",
+        "name": "Staravia",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 80,
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Starly",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Wing Attack",
+                "damage": "40",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Speed Dive",
+                "damage": "80",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "149",
+        "artist": "kantaro",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            397
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/149.png",
+            "large": "https://images.pokemontcg.io/sv1/149_hires.png"
+        }
+    },
+    {
+        "id": "sv1-150",
+        "name": "Staraptor",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": 150,
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Staravia",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Tailspin Away",
+                "damage": "60",
+                "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Power Blast",
+                "damage": "180",
+                "text": "Discard an Energy from this Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "150",
+        "artist": "Atsushi Furusawa",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            398
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/150.png",
+            "large": "https://images.pokemontcg.io/sv1/150_hires.png"
+        }
+    },
+    {
+        "id": "sv1-151",
+        "name": "Skwovet",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may shuffle your hand and put it on the bottom of your deck. If you put any cards on the bottom of your deck in this way, draw a card."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "151",
+        "artist": "HYOGONOSUKE",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            819
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/151.png",
+            "large": "https://images.pokemontcg.io/sv1/151_hires.png"
+        }
+    },
+    {
+        "id": "sv1-152",
+        "name": "Greedent",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 120,
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Skwovet",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "damage": "50",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Enhanced Fang",
+                "damage": "80+",
+                "text": "If this Pokémon has a Pokémon Tool attached, this attack does 80 more damage.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "152",
+        "artist": "kantaro",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            820
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/152.png",
+            "large": "https://images.pokemontcg.io/sv1/152_hires.png"
+        }
+    },
+    {
+        "id": "sv1-153",
+        "name": "Indeedee",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 90,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Expert Nurturer",
+                "damage": "",
+                "text": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hypnoblast",
+                "damage": "30",
+                "text": "Your opponent's Active Pokémon is now Asleep.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "153",
+        "artist": "Kagemaru Himeno",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            876
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/153.png",
+            "large": "https://images.pokemontcg.io/sv1/153_hires.png"
+        }
+    },
+    {
+        "id": "sv1-154",
+        "name": "Lechonk",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Repelling Odor",
+                "damage": "",
+                "text": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Stampede",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "154",
+        "artist": "Teeziro",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            915
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/154.png",
+            "large": "https://images.pokemontcg.io/sv1/154_hires.png"
+        }
+    },
+    {
+        "id": "sv1-155",
+        "name": "Lechonk",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Collect",
+                "damage": "",
+                "text": "Draw a card.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "155",
+        "artist": "kodama",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            915
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/155.png",
+            "large": "https://images.pokemontcg.io/sv1/155_hires.png"
+        }
+    },
+    {
+        "id": "sv1-156",
+        "name": "Lechonk",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Whimsy Tackle",
+                "damage": "70",
+                "text": "Flip a coin. If tails, this attack does nothing.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "156",
+        "artist": "Mina Nakai",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            915
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/156.png",
+            "large": "https://images.pokemontcg.io/sv1/156_hires.png"
+        }
+    },
+    {
+        "id": "sv1-157",
+        "name": "Oinkologne",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 120,
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Lechonk",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ram",
+                "damage": "50",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Leg Stomp",
+                "damage": "130",
+                "text": "Flip a coin. If tails, during your next turn, this Pokémon can't attack.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "157",
+        "artist": "kirisAki",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            916
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/157.png",
+            "large": "https://images.pokemontcg.io/sv1/157_hires.png"
+        }
+    },
+    {
+        "id": "sv1-158",
+        "name": "Oinkologne ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 260,
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Lechonk",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Maddening Scent",
+                "damage": "10+",
+                "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Heavy Stomp",
+                "damage": "210",
+                "text": "Flip a coin. If tails, during your next turn, this Pokémon can't attack.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "158",
+        "artist": "aky CG Works",
+        "rarity": "Double Rare",
+        "nationalPokedexNumbers": [
+            916
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/158.png",
+            "large": "https://images.pokemontcg.io/sv1/158_hires.png"
+        }
+    },
+    {
+        "id": "sv1-159",
+        "name": "Tandemaus",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 30,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Gnaw",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "159",
+        "artist": "Pani Kobayashi",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            924
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/159.png",
+            "large": "https://images.pokemontcg.io/sv1/159_hires.png"
+        }
+    },
+    {
+        "id": "sv1-160",
+        "name": "Tandemaus",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 40,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Double Hit",
+                "damage": "30×",
+                "text": "Flip 2 coins. This attack does 30 damage for each heads.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "160",
+        "artist": "yuu",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            924
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/160.png",
+            "large": "https://images.pokemontcg.io/sv1/160_hires.png"
+        }
+    },
+    {
+        "id": "sv1-161",
+        "name": "Maushold",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Tandemaus",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Slap",
+                "damage": "40",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Family Attack",
+                "damage": "70×",
+                "text": "This attack does 70 damage for each of your Maushold in play.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "161",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            925
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/161.png",
+            "large": "https://images.pokemontcg.io/sv1/161_hires.png"
+        }
+    },
+    {
+        "id": "sv1-162",
+        "name": "Squawkabilly",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Call for Family",
+                "damage": "",
+                "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Fly",
+                "damage": "60",
+                "text": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "162",
+        "artist": "Oswaldo KATO",
+        "rarity": "Common",
+        "nationalPokedexNumbers": [
+            931
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/162.png",
+            "large": "https://images.pokemontcg.io/sv1/162_hires.png"
+        }
+    },
+    {
+        "id": "sv1-163",
+        "name": "Cyclizar",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 110,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Reckless Charge",
+                "damage": "70",
+                "text": "This Pokémon also does 10 damage to itself.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "163",
+        "artist": "AKIRA EGAWA",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            967
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/163.png",
+            "large": "https://images.pokemontcg.io/sv1/163_hires.png"
+        }
+    },
+    {
+        "id": "sv1-164",
+        "name": "Cyclizar",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 110,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Touring",
+                "damage": "",
+                "text": "Draw 2 cards.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Speed Attack",
+                "damage": "100",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "164",
+        "artist": "Ryota Murayama",
+        "rarity": "Rare",
+        "nationalPokedexNumbers": [
+            967
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/164.png",
+            "large": "https://images.pokemontcg.io/sv1/164_hires.png"
+        }
+    },
+    {
+        "id": "sv1-165",
+        "name": "Flamigo",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 110,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Flap",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Nosedive",
+                "damage": "110",
+                "text": "This Pokémon also does 20 damage to itself.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "165",
+        "artist": "kantaro",
+        "rarity": "Uncommon",
+        "nationalPokedexNumbers": [
+            973
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/165.png",
+            "large": "https://images.pokemontcg.io/sv1/165_hires.png"
+        }
+    },
+    {
+        "id": "sv1-166",
+        "name": "Arven",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "166",
+        "artist": "GIDORA",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/166.png",
+            "large": "https://images.pokemontcg.io/sv1/166_hires.png"
+        }
+    },
+    {
+        "id": "sv1-167",
+        "name": "Beach Court",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "167",
+        "artist": "Oswaldo KATO",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/167.png",
+            "large": "https://images.pokemontcg.io/sv1/167_hires.png"
+        }
+    },
+    {
+        "id": "sv1-168",
+        "name": "Crushing Hammer",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "168",
+        "artist": "Ayaka Yoshida",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/168.png",
+            "large": "https://images.pokemontcg.io/sv1/168_hires.png"
+        }
+    },
+    {
+        "id": "sv1-169",
+        "name": "Defiance Band",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "169",
+        "artist": "inose yukie",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/169.png",
+            "large": "https://images.pokemontcg.io/sv1/169_hires.png"
+        }
+    },
+    {
+        "id": "sv1-170",
+        "name": "Electric Generator",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "170",
+        "artist": "Toyste Beach",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/170.png",
+            "large": "https://images.pokemontcg.io/sv1/170_hires.png"
+        }
+    },
+    {
+        "id": "sv1-171",
+        "name": "Energy Retrieval",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "171",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/171.png",
+            "large": "https://images.pokemontcg.io/sv1/171_hires.png"
+        }
+    },
+    {
+        "id": "sv1-172",
+        "name": "Energy Search",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "172",
+        "artist": "Toyste Beach",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/172.png",
+            "large": "https://images.pokemontcg.io/sv1/172_hires.png"
+        }
+    },
+    {
+        "id": "sv1-173",
+        "name": "Energy Switch",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "173",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/173.png",
+            "large": "https://images.pokemontcg.io/sv1/173_hires.png"
+        }
+    },
+    {
+        "id": "sv1-174",
+        "name": "Exp. Share",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "174",
+        "artist": "Toyste Beach",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/174.png",
+            "large": "https://images.pokemontcg.io/sv1/174_hires.png"
+        }
+    },
+    {
+        "id": "sv1-175",
+        "name": "Jacq",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "175",
+        "artist": "GIDORA",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/175.png",
+            "large": "https://images.pokemontcg.io/sv1/175_hires.png"
+        }
+    },
+    {
+        "id": "sv1-176",
+        "name": "Judge",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "176",
+        "artist": "Hideki Ishikawa",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/176.png",
+            "large": "https://images.pokemontcg.io/sv1/176_hires.png"
+        }
+    },
+    {
+        "id": "sv1-177",
+        "name": "Katy",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "177",
+        "artist": "Akira Komayama",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/177.png",
+            "large": "https://images.pokemontcg.io/sv1/177_hires.png"
+        }
+    },
+    {
+        "id": "sv1-178",
+        "name": "Mesagoza",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "178",
+        "artist": "Oswaldo KATO",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/178.png",
+            "large": "https://images.pokemontcg.io/sv1/178_hires.png"
+        }
+    },
+    {
+        "id": "sv1-179",
+        "name": "Miriam",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "179",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/179.png",
+            "large": "https://images.pokemontcg.io/sv1/179_hires.png"
+        }
+    },
+    {
+        "id": "sv1-180",
+        "name": "Nemona",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "180",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/180.png",
+            "large": "https://images.pokemontcg.io/sv1/180_hires.png"
+        }
+    },
+    {
+        "id": "sv1-181",
+        "name": "Nest Ball",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "181",
+        "artist": "Toyste Beach",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/181.png",
+            "large": "https://images.pokemontcg.io/sv1/181_hires.png"
+        }
+    },
+    {
+        "id": "sv1-182",
+        "name": "Pal Pad",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "182",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/182.png",
+            "large": "https://images.pokemontcg.io/sv1/182_hires.png"
+        }
+    },
+    {
+        "id": "sv1-183",
+        "name": "Penny",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "183",
+        "artist": "yuu",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/183.png",
+            "large": "https://images.pokemontcg.io/sv1/183_hires.png"
+        }
+    },
+    {
+        "id": "sv1-184",
+        "name": "Picnic Basket",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "184",
+        "artist": "OKACHEKE",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/184.png",
+            "large": "https://images.pokemontcg.io/sv1/184_hires.png"
+        }
+    },
+    {
+        "id": "sv1-185",
+        "name": "Poké Ball",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "185",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/185.png",
+            "large": "https://images.pokemontcg.io/sv1/185_hires.png"
+        }
+    },
+    {
+        "id": "sv1-186",
+        "name": "Pokégear 3.0",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "186",
+        "artist": "Toyste Beach",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/186.png",
+            "large": "https://images.pokemontcg.io/sv1/186_hires.png"
+        }
+    },
+    {
+        "id": "sv1-187",
+        "name": "Pokémon Catcher",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "187",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/187.png",
+            "large": "https://images.pokemontcg.io/sv1/187_hires.png"
+        }
+    },
+    {
+        "id": "sv1-188",
+        "name": "Potion",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "188",
+        "artist": "Ayaka Yoshida",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/188.png",
+            "large": "https://images.pokemontcg.io/sv1/188_hires.png"
+        }
+    },
+    {
+        "id": "sv1-189",
+        "name": "Professor’s Research (Professor Sada)",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "189",
+        "artist": "kirisAki",
+        "rarity": "Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/189.png",
+            "large": "https://images.pokemontcg.io/sv1/189_hires.png"
+        }
+    },
+    {
+        "id": "sv1-190",
+        "name": "Professor’s Research (Professor Turo)",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "190",
+        "artist": "kirisAki",
+        "rarity": "Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/190.png",
+            "large": "https://images.pokemontcg.io/sv1/190_hires.png"
+        }
+    },
+    {
+        "id": "sv1-191",
+        "name": "Rare Candy",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "191",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/191.png",
+            "large": "https://images.pokemontcg.io/sv1/191_hires.png"
+        }
+    },
+    {
+        "id": "sv1-192",
+        "name": "Rock Chestplate",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "192",
+        "artist": "Toyste Beach",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/192.png",
+            "large": "https://images.pokemontcg.io/sv1/192_hires.png"
+        }
+    },
+    {
+        "id": "sv1-193",
+        "name": "Rocky Helmet",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "193",
+        "artist": "Ayaka Yoshida",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/193.png",
+            "large": "https://images.pokemontcg.io/sv1/193_hires.png"
+        }
+    },
+    {
+        "id": "sv1-194",
+        "name": "Switch",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "194",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Common",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/194.png",
+            "large": "https://images.pokemontcg.io/sv1/194_hires.png"
+        }
+    },
+    {
+        "id": "sv1-195",
+        "name": "Team Star Grunt",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "195",
+        "artist": "nagimiso",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/195.png",
+            "large": "https://images.pokemontcg.io/sv1/195_hires.png"
+        }
+    },
+    {
+        "id": "sv1-196",
+        "name": "Ultra Ball",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "196",
+        "artist": "Ayaka Yoshida",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/196.png",
+            "large": "https://images.pokemontcg.io/sv1/196_hires.png"
+        }
+    },
+    {
+        "id": "sv1-197",
+        "name": "Vitality Band",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "197",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/197.png",
+            "large": "https://images.pokemontcg.io/sv1/197_hires.png"
+        }
+    },
+    {
+        "id": "sv1-198",
+        "name": "Youngster",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "198",
+        "artist": "Hitoshi Ariga",
+        "rarity": "Uncommon",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/198.png",
+            "large": "https://images.pokemontcg.io/sv1/198_hires.png"
+        }
+    },
+    {
+        "id": "sv1-199",
+        "name": "Tarountula",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 40,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "String Shot",
+                "damage": "20",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "199",
+        "artist": "Miki Tanaka",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            917
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/199.png",
+            "large": "https://images.pokemontcg.io/sv1/199_hires.png"
+        }
+    },
+    {
+        "id": "sv1-200",
+        "name": "Dolliv",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Smoliv",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Slap",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Apply Oil",
+                "damage": "40",
+                "text": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "200",
+        "artist": "Oswaldo KATO",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            929
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/200.png",
+            "large": "https://images.pokemontcg.io/sv1/200_hires.png"
+        }
+    },
+    {
+        "id": "sv1-201",
+        "name": "Toedscool",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 50,
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Furious Kicks",
+                "damage": "10×",
+                "text": "Flip 3 coins. This attack does 10 damage for each heads.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "201",
+        "artist": "Akira Komayama",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            948
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/201.png",
+            "large": "https://images.pokemontcg.io/sv1/201_hires.png"
+        }
+    },
+    {
+        "id": "sv1-202",
+        "name": "Scovillain",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 110,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Capsakid",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Hot Bite",
+                "damage": "20",
+                "text": "Your opponent's Active Pokémon is now Burned.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Super Spicy Breath",
+                "damage": "90+",
+                "text": "If this Pokémon has any Fire Energy attached, this attack does 90 more damage.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "202",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            952
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/202.png",
+            "large": "https://images.pokemontcg.io/sv1/202_hires.png"
+        }
+    },
+    {
+        "id": "sv1-203",
+        "name": "Armarouge",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 130,
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Charcadet",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "As often as you like during your turn, you may move a Fire Energy from 1 of your Benched Pokémon to your Active Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Flame Cannon",
+                "damage": "90",
+                "text": "Your opponent's Active Pokémon is now Burned.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "203",
+        "artist": "nagimiso",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            936
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/203.png",
+            "large": "https://images.pokemontcg.io/sv1/203_hires.png"
+        }
+    },
+    {
+        "id": "sv1-204",
+        "name": "Slowpoke",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Rest",
+                "damage": "",
+                "text": "This Pokémon is now Asleep. Heal 30 damage from it.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Headbutt",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "204",
+        "artist": "Toshinao Aoki",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            79
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/204.png",
+            "large": "https://images.pokemontcg.io/sv1/204_hires.png"
+        }
+    },
+    {
+        "id": "sv1-205",
+        "name": "Clauncher",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Vise Grip",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "205",
+        "artist": "Shinya Komatsu",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            692
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/205.png",
+            "large": "https://images.pokemontcg.io/sv1/205_hires.png"
+        }
+    },
+    {
+        "id": "sv1-206",
+        "name": "Wiglett",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 50,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Twisting Strike",
+                "damage": "10",
+                "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "206",
+        "artist": "You Iribi",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            960
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/206.png",
+            "large": "https://images.pokemontcg.io/sv1/206_hires.png"
+        }
+    },
+    {
+        "id": "sv1-207",
+        "name": "Dondozo",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 160,
+        "types": [
+            "Water"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Release Rage",
+                "damage": "50×",
+                "text": "This attack does 50 damage for each Tatsugiri in your discard pile.",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Heavy Splash",
+                "damage": "120",
+                "text": "",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "207",
+        "artist": "AKIRA EGAWA",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            977
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/207.png",
+            "large": "https://images.pokemontcg.io/sv1/207_hires.png"
+        }
+    },
+    {
+        "id": "sv1-208",
+        "name": "Pachirisu",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Lightning"
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "This Pokémon can't be Paralyzed."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Everyone Discharge",
+                "damage": "10+",
+                "text": "This attack does 20 more damage for each of your Benched Lightning Pokémon. This attack's damage isn't affected by Weakness.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "208",
+        "artist": "zig",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            417
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/208.png",
+            "large": "https://images.pokemontcg.io/sv1/208_hires.png"
+        }
+    },
+    {
+        "id": "sv1-209",
+        "name": "Pawmot",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": 130,
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Pawmo",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may search your deck for a Basic Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Electro Paws",
+                "damage": "230",
+                "text": "Discard all Energy from this Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "209",
+        "artist": "Kouki Saitou",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            922
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/209.png",
+            "large": "https://images.pokemontcg.io/sv1/209_hires.png"
+        }
+    },
+    {
+        "id": "sv1-210",
+        "name": "Drowzee",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Forced Sleep",
+                "damage": "",
+                "text": "Your opponent chooses 1 of their Benched Pokémon and switches it with their Active Pokémon. The new Active Pokémon is now Asleep.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Gentle Slap",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "210",
+        "artist": "Tomokazu Komiya",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            96
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/210.png",
+            "large": "https://images.pokemontcg.io/sv1/210_hires.png"
+        }
+    },
+    {
+        "id": "sv1-211",
+        "name": "Ralts",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Psyshot",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "211",
+        "artist": "Jiro Sasumo",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            280
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/211.png",
+            "large": "https://images.pokemontcg.io/sv1/211_hires.png"
+        }
+    },
+    {
+        "id": "sv1-212",
+        "name": "Kirlia",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 90,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Ralts",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Magical Shot",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Psychic",
+                "damage": "60+",
+                "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "212",
+        "artist": "Jiro Sasumo",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            281
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/212.png",
+            "large": "https://images.pokemontcg.io/sv1/212_hires.png"
+        }
+    },
+    {
+        "id": "sv1-213",
+        "name": "Fidough",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Springy",
+                "damage": "",
+                "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Flop",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "213",
+        "artist": "Tika Matsuno",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            926
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/213.png",
+            "large": "https://images.pokemontcg.io/sv1/213_hires.png"
+        }
+    },
+    {
+        "id": "sv1-214",
+        "name": "Greavard",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Graveyard Gamboling",
+                "damage": "10×",
+                "text": "This attack does 10 damage for each Psychic Pokémon in your discard pile.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "214",
+        "artist": "sowsow",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            971
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/214.png",
+            "large": "https://images.pokemontcg.io/sv1/214_hires.png"
+        }
+    },
+    {
+        "id": "sv1-215",
+        "name": "Riolu",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Punch",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Reckless Charge",
+                "damage": "50",
+                "text": "This Pokémon also does 20 damage to itself.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "215",
+        "artist": "Nelnal",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            447
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/215.png",
+            "large": "https://images.pokemontcg.io/sv1/215_hires.png"
+        }
+    },
+    {
+        "id": "sv1-216",
+        "name": "Sandile",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 70,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Gnaw",
+                "damage": "10",
+                "text": "",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Ram",
+                "damage": "30",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "216",
+        "artist": "Nurikabe",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            551
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/216.png",
+            "large": "https://images.pokemontcg.io/sv1/216_hires.png"
+        }
+    },
+    {
+        "id": "sv1-217",
+        "name": "Klawf",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 130,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Vise Grip",
+                "damage": "50",
+                "text": "",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Adrenaline Hammer",
+                "damage": "130",
+                "text": "This Pokémon is now Confused.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "217",
+        "artist": "Mina Nakai",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            950
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/217.png",
+            "large": "https://images.pokemontcg.io/sv1/217_hires.png"
+        }
+    },
+    {
+        "id": "sv1-218",
+        "name": "Mabosstiff",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": 130,
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Maschiff",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Wild Tackle",
+                "damage": "160",
+                "text": "This Pokémon also does 30 damage to itself.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "218",
+        "artist": "OKACHEKE",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            943
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/218.png",
+            "large": "https://images.pokemontcg.io/sv1/218_hires.png"
+        }
+    },
+    {
+        "id": "sv1-219",
+        "name": "Bombirdier",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 110,
+        "types": [
+            "Darkness"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Knickknack Carrying",
+                "damage": "",
+                "text": "Search your deck for up to 3 Pokémon Tool cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Clutch",
+                "damage": "60",
+                "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "219",
+        "artist": "Shibuzoh.",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            962
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/219.png",
+            "large": "https://images.pokemontcg.io/sv1/219_hires.png"
+        }
+    },
+    {
+        "id": "sv1-220",
+        "name": "Kingambit",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": 170,
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Bisharp",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Your Basic Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hack At",
+                "damage": "160",
+                "text": "",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "220",
+        "artist": "Shin Nagasawa",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            983
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/220.png",
+            "large": "https://images.pokemontcg.io/sv1/220_hires.png"
+        }
+    },
+    {
+        "id": "sv1-221",
+        "name": "Starly",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Flap",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "221",
+        "artist": "saino misaki",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            396
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/221.png",
+            "large": "https://images.pokemontcg.io/sv1/221_hires.png"
+        }
+    },
+    {
+        "id": "sv1-222",
+        "name": "Skwovet",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": 60,
+        "types": [
+            "Colorless"
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may shuffle your hand and put it on the bottom of your deck. If you put any cards on the bottom of your deck in this way, draw a card."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Bite",
+                "damage": "20",
+                "text": "",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "222",
+        "artist": "Teeziro",
+        "rarity": "Illustration Rare",
+        "nationalPokedexNumbers": [
+            819
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/222.png",
+            "large": "https://images.pokemontcg.io/sv1/222_hires.png"
+        }
+    },
+    {
+        "id": "sv1-223",
+        "name": "Spidops ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 260,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Tarountula",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Your opponent's Active Pokémon's Retreat Cost is Colorless more."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Wire Hang",
+                "damage": "90+",
+                "text": "This attack does 30 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "223",
+        "artist": "takuyoa",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            918
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/223.png",
+            "large": "https://images.pokemontcg.io/sv1/223_hires.png"
+        }
+    },
+    {
+        "id": "sv1-224",
+        "name": "Arcanine ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Tera ex"
+        ],
+        "hp": 280,
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Growlithe",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Raging Claws",
+                "damage": "30+",
+                "text": "This attack does 10 more damage for each damage counter on this Pokémon.",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Bright Flame",
+                "damage": "250",
+                "text": "Discard 2 Fire Energy from this Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "224",
+        "artist": "5ban Graphics",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            59
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/224.png",
+            "large": "https://images.pokemontcg.io/sv1/224_hires.png"
+        }
+    },
+    {
+        "id": "sv1-225",
+        "name": "Gyarados ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Tera ex"
+        ],
+        "hp": 300,
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Magikarp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Waterfall",
+                "damage": "100",
+                "text": "",
+                "convertedEnergyCost": 3
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Tyrannical Tail",
+                "damage": "180+",
+                "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 180 more damage.",
+                "convertedEnergyCost": 5
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "225",
+        "artist": "5ban Graphics",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            130
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/225.png",
+            "large": "https://images.pokemontcg.io/sv1/225_hires.png"
+        }
+    },
+    {
+        "id": "sv1-226",
+        "name": "Magnezone ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 330,
+        "types": [
+            "Lightning"
+        ],
+        "evolvesFrom": "Magneton",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Energy Crush",
+                "damage": "50×",
+                "text": "This attack does 50 damage for each Energy attached to all of your opponent's Pokémon.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Pulse Launcher",
+                "damage": "220",
+                "text": "This Pokémon also does 30 damage to itself.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "226",
+        "artist": "PLANETA Tsuji",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            462
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/226.png",
+            "large": "https://images.pokemontcg.io/sv1/226_hires.png"
+        }
+    },
+    {
+        "id": "sv1-227",
+        "name": "Miraidon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 220,
+        "types": [
+            "Lightning"
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may search your deck for up to 2 Basic Lightning Pokémon and put them onto your Bench. Then, shuffle your deck."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Photon Blaster",
+                "damage": "220",
+                "text": "During your next turn, this Pokémon can't attack.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "227",
+        "artist": "5ban Graphics",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            1008
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/227.png",
+            "large": "https://images.pokemontcg.io/sv1/227_hires.png"
+        }
+    },
+    {
+        "id": "sv1-228",
+        "name": "Gardevoir ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 310,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Kirlia",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "As often as you like during your turn, you may attach a Basic Psychic Energy card from your discard pile to 1 of your Psychic Pokémon. If you attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon. You can't use this Ability on a Pokémon that would be Knocked Out."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Miracle Force",
+                "damage": "190",
+                "text": "This Pokémon recovers from all Special Conditions.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "228",
+        "artist": "N-DESIGN Inc.",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            282
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/228.png",
+            "large": "https://images.pokemontcg.io/sv1/228_hires.png"
+        }
+    },
+    {
+        "id": "sv1-229",
+        "name": "Banette ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 250,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Shuppet",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Everlasting Darkness",
+                "damage": "30",
+                "text": "During your opponent's next turn, they can't play any Item cards from their hand.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Poltergeist",
+                "damage": "60×",
+                "text": "Your opponent reveals their hand. This attack does 60 damage for each Trainer card you find there.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "229",
+        "artist": "PLANETA Mochizuki",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            354
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/229.png",
+            "large": "https://images.pokemontcg.io/sv1/229_hires.png"
+        }
+    },
+    {
+        "id": "sv1-230",
+        "name": "Great Tusk ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 250,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Bedrock Breaker",
+                "damage": "40",
+                "text": "Discard a Stadium in play.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Gigantic Tusks",
+                "damage": "250",
+                "text": "This Pokémon also does 50 damage to itself.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "230",
+        "artist": "5ban Graphics",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            984
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/230.png",
+            "large": "https://images.pokemontcg.io/sv1/230_hires.png"
+        }
+    },
+    {
+        "id": "sv1-231",
+        "name": "Koraidon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 230,
+        "types": [
+            "Fighting"
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may attach up to 2 Basic Fighting Energy cards from your discard pile to your Basic Fighting Pokémon in any way you like. If you use this Ability, your turn ends."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Wild Impact",
+                "damage": "220",
+                "text": "During your next turn, this Pokémon can't attack.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "231",
+        "artist": "aky CG Works",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            1007
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/231.png",
+            "large": "https://images.pokemontcg.io/sv1/231_hires.png"
+        }
+    },
+    {
+        "id": "sv1-232",
+        "name": "Toxicroak ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 250,
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Croagunk",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Nasty Plot",
+                "damage": "",
+                "text": "Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Toxic Ripper",
+                "damage": "120",
+                "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 6 damage counters on that Pokémon instead of 1.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "232",
+        "artist": "PLANETA Hiiragi",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            454
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/232.png",
+            "large": "https://images.pokemontcg.io/sv1/232_hires.png"
+        }
+    },
+    {
+        "id": "sv1-233",
+        "name": "Iron Treads ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 220,
+        "types": [
+            "Metal"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Triple Laser",
+                "damage": "",
+                "text": "This attack does 30 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "convertedEnergyCost": 3
+            },
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Cybernetic Wheels",
+                "damage": "160",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "233",
+        "artist": "5ban Graphics",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            990
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/233.png",
+            "large": "https://images.pokemontcg.io/sv1/233_hires.png"
+        }
+    },
+    {
+        "id": "sv1-234",
+        "name": "Oinkologne ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 260,
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Lechonk",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Maddening Scent",
+                "damage": "10+",
+                "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Heavy Stomp",
+                "damage": "210",
+                "text": "Flip a coin. If tails, during your next turn, this Pokémon can't attack.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "234",
+        "artist": "aky CG Works",
+        "rarity": "Ultra Rare",
+        "nationalPokedexNumbers": [
+            916
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/234.png",
+            "large": "https://images.pokemontcg.io/sv1/234_hires.png"
+        }
+    },
+    {
+        "id": "sv1-235",
+        "name": "Arven",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "235",
+        "artist": "GIDORA",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/235.png",
+            "large": "https://images.pokemontcg.io/sv1/235_hires.png"
+        }
+    },
+    {
+        "id": "sv1-236",
+        "name": "Jacq",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "236",
+        "artist": "GIDORA",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/236.png",
+            "large": "https://images.pokemontcg.io/sv1/236_hires.png"
+        }
+    },
+    {
+        "id": "sv1-237",
+        "name": "Katy",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "237",
+        "artist": "Akira Komayama",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/237.png",
+            "large": "https://images.pokemontcg.io/sv1/237_hires.png"
+        }
+    },
+    {
+        "id": "sv1-238",
+        "name": "Miriam",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "238",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/238.png",
+            "large": "https://images.pokemontcg.io/sv1/238_hires.png"
+        }
+    },
+    {
+        "id": "sv1-239",
+        "name": "Penny",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "239",
+        "artist": "yuu",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/239.png",
+            "large": "https://images.pokemontcg.io/sv1/239_hires.png"
+        }
+    },
+    {
+        "id": "sv1-240",
+        "name": "Professor’s Research (Professor Sada)",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "240",
+        "artist": "kirisAki",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/240.png",
+            "large": "https://images.pokemontcg.io/sv1/240_hires.png"
+        }
+    },
+    {
+        "id": "sv1-241",
+        "name": "Professor’s Research (Professor Turo)",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "241",
+        "artist": "kirisAki",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/241.png",
+            "large": "https://images.pokemontcg.io/sv1/241_hires.png"
+        }
+    },
+    {
+        "id": "sv1-242",
+        "name": "Team Star Grunt",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "242",
+        "artist": "nagimiso",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/242.png",
+            "large": "https://images.pokemontcg.io/sv1/242_hires.png"
+        }
+    },
+    {
+        "id": "sv1-243",
+        "name": "Spidops ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 260,
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Tarountula",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Your opponent's Active Pokémon's Retreat Cost is Colorless more."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Wire Hang",
+                "damage": "90+",
+                "text": "This attack does 30 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "243",
+        "artist": "Miki Tanaka",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            918
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/243.png",
+            "large": "https://images.pokemontcg.io/sv1/243_hires.png"
+        }
+    },
+    {
+        "id": "sv1-244",
+        "name": "Miraidon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 220,
+        "types": [
+            "Lightning"
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may search your deck for up to 2 Basic Lightning Pokémon and put them onto your Bench. Then, shuffle your deck."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Photon Blaster",
+                "damage": "220",
+                "text": "During your next turn, this Pokémon can't attack.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "244",
+        "artist": "kantaro",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            1008
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/244.png",
+            "large": "https://images.pokemontcg.io/sv1/244_hires.png"
+        }
+    },
+    {
+        "id": "sv1-245",
+        "name": "Gardevoir ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 310,
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Kirlia",
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "As often as you like during your turn, you may attach a Basic Psychic Energy card from your discard pile to 1 of your Psychic Pokémon. If you attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon. You can't use this Ability on a Pokémon that would be Knocked Out."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Miracle Force",
+                "damage": "190",
+                "text": "This Pokémon recovers from all Special Conditions.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "245",
+        "artist": "Jiro Sasumo",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            282
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/245.png",
+            "large": "https://images.pokemontcg.io/sv1/245_hires.png"
+        }
+    },
+    {
+        "id": "sv1-246",
+        "name": "Great Tusk ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 250,
+        "types": [
+            "Fighting"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Bedrock Breaker",
+                "damage": "40",
+                "text": "Discard a Stadium in play.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Gigantic Tusks",
+                "damage": "250",
+                "text": "This Pokémon also does 50 damage to itself.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "246",
+        "artist": "Pani Kobayashi",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            984
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/246.png",
+            "large": "https://images.pokemontcg.io/sv1/246_hires.png"
+        }
+    },
+    {
+        "id": "sv1-247",
+        "name": "Koraidon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 230,
+        "types": [
+            "Fighting"
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Ability",
+                "text": "Once during your turn, you may attach up to 2 Basic Fighting Energy cards from your discard pile to your Basic Fighting Pokémon in any way you like. If you use this Ability, your turn ends."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Wild Impact",
+                "damage": "220",
+                "text": "During your next turn, this Pokémon can't attack.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "247",
+        "artist": "Ryota Murayama",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            1007
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/247.png",
+            "large": "https://images.pokemontcg.io/sv1/247_hires.png"
+        }
+    },
+    {
+        "id": "sv1-248",
+        "name": "Iron Treads ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": 220,
+        "types": [
+            "Metal"
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Triple Laser",
+                "damage": "",
+                "text": "This attack does 30 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "convertedEnergyCost": 3
+            },
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Cybernetic Wheels",
+                "damage": "160",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "248",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            990
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/248.png",
+            "large": "https://images.pokemontcg.io/sv1/248_hires.png"
+        }
+    },
+    {
+        "id": "sv1-249",
+        "name": "Arven",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "249",
+        "artist": "kantaro",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/249.png",
+            "large": "https://images.pokemontcg.io/sv1/249_hires.png"
+        }
+    },
+    {
+        "id": "sv1-250",
+        "name": "Jacq",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 252,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "250",
+        "artist": "Oswaldo KATO",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/250.png",
+            "large": "https://images.pokemontcg.io/sv1/250_hires.png"
         }
     }
 ]
@@ -15937,4 +16695,4 @@ function displayList(array = []) {
         cardCount.innerHTML = 'Card Count: ' + array.length;
 }
 
-displayList(crownZenith);
+displayList(sv1);
