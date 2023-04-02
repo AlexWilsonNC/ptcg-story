@@ -525,6 +525,41 @@
                         </div>
                     </div>
 
+                    <!-- McDs -->
+                    <button type="button" class="set-white-box">
+                        <div class='country-name'>
+                            <img class='set-logo' loading='lazy' src='./assets/set-filter/mcdonal.png'>
+                        </div>
+                    </button>
+                    <div class='search-open'>
+                        <div class='set-organizer'>
+                            <a class='set-cube-skinny macdonalds' href='#scroll-here' onclick="displayList(mcd22)">
+                                <h3>2022</h3>
+                            </a>
+                            <a class='set-cube-skinny macdonalds' href='#scroll-here' onclick="displayList(mcd21)">
+                                <h3>2021</h3>
+                            </a>
+                            <a class='set-cube-skinny macdonalds' href='#scroll-here' onclick="displayList(mcd19)">
+                                <h3>2019</h3>
+                            </a>
+                            <a class='set-cube-skinny macdonalds' href='#scroll-here' onclick="displayList(mcd18)" style='opacity: 0.2;pointer-events: none;'>
+                                <h3>2018</h3>
+                            </a>
+                            <a class='set-cube-skinny macdonalds' href='#scroll-here' onclick="displayList(mcd17)" style='opacity: 0.2;pointer-events: none;'>
+                                <h3>2017</h3>
+                            </a>
+                            <a class='set-cube-skinny macdonalds' href='#scroll-here' onclick="displayList(mcd16)">
+                                <h3>2016</h3>
+                            </a>
+                            <a class='set-cube-skinny macdonalds' href='#scroll-here' onclick="displayList(mcd15)" style='opacity: 0.2;pointer-events: none;'>
+                                <h3>2015</h3>
+                            </a>
+                            <a class='set-cube-skinny macdonalds' href='#scroll-here' onclick="displayList(mcd14)" style='opacity: 0.2;pointer-events: none;'>
+                                <h3>2014</h3>
+                            </a>
+                        </div>
+                    </div>
+
                     <!-- other -->
                     <button type="button" class="set-white-box margin-bottom-ten">
                         <div class='country-name'>
@@ -542,8 +577,11 @@
                             <a class='set-cube-skinny rumble' href='#scroll-here' onclick="displayList(rumble)">
                                 <!-- <img class='setit' src='./assets/sets/dpp-rumble.png'> -->
                             </a>
-                            <a class='set-cube-skinny white-cube' href='#scroll-here' onclick="displayList(southernIslands)">
-                                <img class='setit southernisland' src='./assets/sets/southern-islands.png'>
+                            <a class='set-cube-skinny white-cube' href='#scroll-here' onclick="displayList(tk2)">
+                                <img class='setit tk2' src='./assets/sets/ex-trainer-kit-2.png'>
+                            </a>
+                            <a class='set-cube-skinny white-cube' href='#scroll-here' onclick="displayList(tk1)">
+                                <img class='setit tk1' src='./assets/sets/ex-trainer-kit-ll.png'>
                             </a>
                             <a class='set-cube-skinny white-cube' href='#scroll-here' onclick="displayList(pop9)">
                                 <img class='setit pop9' src='./assets/sets/popseries9.png'>
@@ -571,6 +609,12 @@
                             </a>
                             <a class='set-cube-skinny white-cube' href='#scroll-here' onclick="displayList(pop1)">
                                 <img class='setit pop1' src='./assets/sets/popseries1.png'>
+                            </a>
+                            <a class='set-cube-skinny white-cube' href='#scroll-here' onclick="displayList(bog)">
+                                <img class='pogo bog' src='./assets/sets/best-of-game-icon.png'>
+                            </a>
+                            <a class='set-cube-skinny white-cube' href='#scroll-here' onclick="displayList(southernIslands)">
+                                <img class='setit southernisland' src='./assets/sets/southern-islands.png'>
                             </a>
                         </div>
                     </div>
@@ -833,11 +877,22 @@
     <script src='./card-database/wotc/base-set.js'></script>
     <script src='./card-database/wotc/promos.js'></script>
 
+    <!-- McD -->
+    <script src='./card-database/mcd/mdc22.js'></script>
+    <script src='./card-database/mcd/mdc21.js'></script>
+    <script src='./card-database/mcd/mdc19.js'></script>
+    <script src='./card-database/mcd/mdc18.js'></script>
+    <script src='./card-database/mcd/mdc17.js'></script>
+    <script src='./card-database/mcd/mdc16.js'></script>
+    <script src='./card-database/mcd/mdc15.js'></script>
+    <script src='./card-database/mcd/mdc14.js'></script>
+
     <!-- other -->
     <script src='./card-database/other/futsal.js'></script>
     <script src='./card-database/other/kalos.js'></script>
     <script src='./card-database/other/rumble.js'></script>
-    <script src='./card-database/other/southern-islands.js'></script>
+    <script src='./card-database/other/tk2.js'></script>
+    <script src='./card-database/other/tk1.js'></script>
     <script src='./card-database/other/pop1.js'></script>
     <script src='./card-database/other/pop2.js'></script>
     <script src='./card-database/other/pop3.js'></script>
@@ -847,6 +902,8 @@
     <script src='./card-database/other/pop7.js'></script>
     <script src='./card-database/other/pop8.js'></script>
     <script src='./card-database/other/pop9.js'></script>
+    <script src='./card-database/other/bog.js'></script>
+    <script src='./card-database/other/southern-islands.js'></script>
 
     <script src='./card-database.js'></script>
     <script src='./card-database-search.js'></script>

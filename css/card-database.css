@@ -316,6 +316,11 @@
     transform: scale(1.3);
     transition: ease all 0.3s;
 }
+.set-cube-skinny h3 {
+    font-size: 22px;
+    text-shadow: none;
+    color: black;
+}
 .set-cube-promo {
     height:200px;width:175px;
     border-radius: 25px;
@@ -905,6 +910,7 @@
 .flashfire:hover,
 .call-of-legends:hover,
 .triumphant:hover,
+.macdonalds:hover,
 .undaunted:hover,
 .unleashed:hover,
 .hgss:hover,
@@ -968,6 +974,9 @@
 .pop3:hover,
 .pop2:hover,
 .pop1:hover,
+.tk2:hover,
+.tk1:hover,
+.bog:hover,
 .southernisland:hover {
     transform: scale(1.5);
 }
@@ -1660,6 +1669,26 @@
     transition: ease all 0.3s;
     content-visibility: auto;
 }
+
+.macdonalds {
+    background: url(../assets/set-filter/mcds.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
+    .macdonalds h3 {
+        color:white;
+        text-shadow: 2px 2px 6px black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur(2px) saturate(90%);
+        text-align: center;
+        height:100%;width:100%;
+    }
+
 
 /* wotc */
 .skyridge {

@@ -16649,6 +16649,390 @@ let sv1 = [
             "small": "https://images.pokemontcg.io/sv1/250.png",
             "large": "https://images.pokemontcg.io/sv1/250_hires.png"
         }
+    },
+    {
+        "id": "sv1-251",
+        "name": "Miriam",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Shuffle up to 5 Pokémon from your discard pile into your deck. If you shuffled any cards into your deck in this way, draw 3 cards.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 258,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "251",
+        "artist": "Akira Komayama",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/251.png",
+            "large": "https://images.pokemontcg.io/sv1/251_hires.png"
+        }
+    },
+    {
+        "id": "sv1-252",
+        "name": "Penny",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Put 1 of your Basic Pokémon and all attached cards into your hand.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 258,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "252",
+        "artist": "OKACHEKE",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/252.png",
+            "large": "https://images.pokemontcg.io/sv1/252_hires.png"
+        }
+    },
+    {
+        "id": "sv1-253",
+        "name": "Miraidon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": "220",
+        "types": [
+            "Lightning"
+        ],
+        "abilities": [
+            {
+                "name": "Tandem Unit",
+                "text": "Once during your turn, you may search your deck for up to 2 Basic Lightning Pokémon and put them onto your Bench. Then, shuffle your deck.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Photon Blaster",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "220",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 258,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "253",
+        "rarity": "Hyper Rare",
+        "nationalPokedexNumbers": [
+            1008
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/253.png",
+            "large": "https://images.pokemontcg.io/sv1/253_hires.png"
+        }
+    },
+    {
+        "id": "sv1-254",
+        "name": "Koraidon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": "230",
+        "types": [
+            "Fighting"
+        ],
+        "abilities": [
+            {
+                "name": "Dino Cry",
+                "text": "Once during your turn, you may attach up to 2 Basic Fighting Energy cards from your discard pile to your Basic Fighting Pokémon in any way you like. If you use this Ability, your turn ends.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Wild Impact",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "220",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 258,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "254",
+        "rarity": "Hyper Rare",
+        "nationalPokedexNumbers": [
+            1007
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/254.png",
+            "large": "https://images.pokemontcg.io/sv1/254_hires.png"
+        }
+    },
+    {
+        "id": "sv1-255",
+        "name": "Nest Ball",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "rules": [
+            "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.",
+            "You may play any number of Item cards during your turn."
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 258,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "255",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/255.png",
+            "large": "https://images.pokemontcg.io/sv1/255_hires.png"
+        }
+    },
+    {
+        "id": "sv1-256",
+        "name": "Rare Candy",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "rules": [
+            "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
+            "You may play any number of Item cards during your turn."
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 258,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "256",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/256.png",
+            "large": "https://images.pokemontcg.io/sv1/256_hires.png"
+        }
+    },
+    {
+        "id": "sv1-257",
+        "name": "Basic Lightning Energy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 258,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "257",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "D",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/257.png",
+            "large": "https://images.pokemontcg.io/sv1/257_hires.png"
+        }
+    },
+    {
+        "id": "sv1-258",
+        "name": "Basic Fighting Energy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "set": {
+            "id": "sv1",
+            "name": "Scarlet & Violet",
+            "series": "Scarlet & Violet",
+            "printedTotal": 198,
+            "total": 258,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/03/31",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv1/logo.png"
+            }
+        },
+        "number": "258",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "D",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv1/258.png",
+            "large": "https://images.pokemontcg.io/sv1/258_hires.png"
+        }
     }
 ]
 

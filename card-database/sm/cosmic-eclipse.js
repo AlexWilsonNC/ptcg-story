@@ -17639,5 +17639,1460 @@ let cosmicEclipse = [
             "small": "https://images.pokemontcg.io/sm12/249.png",
             "large": "https://images.pokemontcg.io/sm12/249_hires.png"
         }
+    },
+    {
+        "id": "sm12-250",
+        "name": "Vileplume-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "GX"
+        ],
+        "hp": "240",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Gloom",
+        "rules": [
+            "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Fragrant Flower Garden",
+                "text": "Once during your turn (before your attack), you may heal 30 damage from each of your Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Massive Bloom",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "180-",
+                "text": "This attack does 10 less damage for each damage counter on this Pokémon."
+            },
+            {
+                "name": "Allergic Explosion-GX",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "50",
+                "text": "Your opponent's Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "250",
+        "artist": "Kagemaru Himeno",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            45
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/250.png",
+            "large": "https://images.pokemontcg.io/sm12/250_hires.png"
+        }
+    },
+    {
+        "id": "sm12-251",
+        "name": "Charizard & Braixen-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "TAG TEAM",
+            "GX"
+        ],
+        "hp": "270",
+        "types": [
+            "Fire"
+        ],
+        "evolvesTo": [
+            "Delphox"
+        ],
+        "rules": [
+            "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Brilliant Flare",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "180",
+                "text": "You may search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+            },
+            {
+                "name": "Crimson Flame Pillar-GX",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Attach 5 basic Energy cards from your discard pile to your Pokémon in any way you like. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), your opponent's Active Pokémon is now Burned and Confused. (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "251",
+        "artist": "5ban Graphics",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            6,
+            654
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/251.png",
+            "large": "https://images.pokemontcg.io/sm12/251_hires.png"
+        }
+    },
+    {
+        "id": "sm12-252",
+        "name": "Volcarona-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "GX"
+        ],
+        "hp": "210",
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Larvesta",
+        "rules": [
+            "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Flaming Shot",
+                "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, put 2 damage counters on 1 of your opponent's Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Backfire",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "160",
+                "text": "Put 2 Fire Energy attached to this Pokémon into your hand."
+            },
+            {
+                "name": "Massive Heat Wave-GX",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Discard an Energy from each of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "252",
+        "artist": "PLANETA Tsuji",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            637
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/252.png",
+            "large": "https://images.pokemontcg.io/sm12/252_hires.png"
+        }
+    },
+    {
+        "id": "sm12-253",
+        "name": "Blastoise & Piplup-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "TAG TEAM",
+            "GX"
+        ],
+        "hp": "270",
+        "types": [
+            "Water"
+        ],
+        "evolvesTo": [
+            "Prinplup"
+        ],
+        "rules": [
+            "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Splash Maker",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "150",
+                "text": "You may attach up to 3 Water Energy cards from your hand to your Pokémon in any way you like. If you do, heal 50 damage from those Pokémon for each card you attached to them in this way."
+            },
+            {
+                "name": "Bubble Launcher-GX",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100+",
+                "text": "Your opponent's Active Pokémon is now Paralyzed. If this Pokémon has at least 3 extra Water Energy attached to it (in addition to this attack's cost), this attack does 150 more damage. (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "253",
+        "artist": "5ban Graphics",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            9,
+            393
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/253.png",
+            "large": "https://images.pokemontcg.io/sm12/253_hires.png"
+        }
+    },
+    {
+        "id": "sm12-254",
+        "name": "Solgaleo & Lunala-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "TAG TEAM",
+            "GX"
+        ],
+        "hp": "270",
+        "types": [
+            "Psychic"
+        ],
+        "rules": [
+            "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Cosmic Burn",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "230",
+                "text": "This Pokémon can't use Cosmic Burn during your next turn."
+            },
+            {
+                "name": "Light of the Protector-GX",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "200",
+                "text": "If you played Lillie's Full Force from your hand during this turn, prevent all effects of attacks, including damage, done to each of your Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "254",
+        "artist": "Hideki Ishikawa",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            791,
+            792
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/254.png",
+            "large": "https://images.pokemontcg.io/sm12/254_hires.png"
+        }
+    },
+    {
+        "id": "sm12-255",
+        "name": "Oricorio-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "GX"
+        ],
+        "hp": "170",
+        "types": [
+            "Psychic"
+        ],
+        "rules": [
+            "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Dance of Tribute",
+                "text": "Once during your turn (before your attack), if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Dance of Tribute Ability each turn.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Razor Wing",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "80",
+                "text": ""
+            },
+            {
+                "name": "Strafe-GX",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "255",
+        "artist": "PLANETA Tsuji",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            741
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/255.png",
+            "large": "https://images.pokemontcg.io/sm12/255_hires.png"
+        }
+    },
+    {
+        "id": "sm12-256",
+        "name": "Flygon-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "GX"
+        ],
+        "hp": "240",
+        "types": [
+            "Fighting"
+        ],
+        "evolvesFrom": "Vibrava",
+        "rules": [
+            "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Dusty Defense",
+                "text": "As long as this Pokémon is your Active Pokémon, all of your Pokémon take 30 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Desert Hurricane",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "120+",
+                "text": "If there is any Stadium card in play, this attack does 120 more damage. Then, discard that Stadium card."
+            },
+            {
+                "name": "Sonic Edge-GX",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "220",
+                "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "256",
+        "artist": "PLANETA Tsuji",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            330
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/256.png",
+            "large": "https://images.pokemontcg.io/sm12/256_hires.png"
+        }
+    },
+    {
+        "id": "sm12-257",
+        "name": "Alolan Persian-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "GX"
+        ],
+        "hp": "200",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Alolan Meowth",
+        "rules": [
+            "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Smug Face",
+                "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's TAG TEAM Pokémon and Ultra Beasts, and by your opponent's Pokémon that have any Special Energy attached to them.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Claw Slash",
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "120",
+                "text": ""
+            },
+            {
+                "name": "Stalking Claws-GX",
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "",
+                "text": "This attack does 120 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness, Resistance, or any other effects on that Pokémon. (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "257",
+        "artist": "PLANETA Tsuji",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            53
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/257.png",
+            "large": "https://images.pokemontcg.io/sm12/257_hires.png"
+        }
+    },
+    {
+        "id": "sm12-258",
+        "name": "Arceus & Dialga & Palkia-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "TAG TEAM",
+            "GX"
+        ],
+        "hp": "280",
+        "types": [
+            "Dragon"
+        ],
+        "rules": [
+            "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Ultimate Ray",
+                "cost": [
+                    "Water",
+                    "Metal",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "150",
+                "text": "Search your deck for up to 3 basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+            },
+            {
+                "name": "Altered Creation-GX",
+                "cost": [
+                    "Metal"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "For the rest of this game, your Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance). If this Pokémon has at least 1 extra Water Energy attached to it (in addition to this attack's cost), when your opponent's Active Pokémon is Knocked Out by damage from those attacks, take 1 more Prize card. (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "258",
+        "artist": "5ban Graphics",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            483,
+            484,
+            493
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/258.png",
+            "large": "https://images.pokemontcg.io/sm12/258_hires.png"
+        }
+    },
+    {
+        "id": "sm12-259",
+        "name": "Reshiram & Zekrom-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "TAG TEAM",
+            "GX"
+        ],
+        "hp": "270",
+        "types": [
+            "Dragon"
+        ],
+        "rules": [
+            "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Fabled Flarebolts",
+                "cost": [
+                    "Fire",
+                    "Lightning"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "90×",
+                "text": "Discard up to 3 in any combination of basic Fire and basic Lightning Energy cards from your Benched Pokémon. This attack does 90 damage for each card you discarded in this way."
+            },
+            {
+                "name": "Cross Break-GX",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Lightning",
+                    "Lightning"
+                ],
+                "convertedEnergyCost": 4,
+                "damage": "",
+                "text": "This attack does 170 damage to 1 of your opponent's Benched Pokémon. If you played N's Resolve from your hand during this turn, this attack also does 170 damage to 1 of your opponent's other Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "259",
+        "artist": "Naoki Saito",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            643,
+            644
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/259.png",
+            "large": "https://images.pokemontcg.io/sm12/259_hires.png"
+        }
+    },
+    {
+        "id": "sm12-260",
+        "name": "Naganadel & Guzzlord-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "TAG TEAM",
+            "GX",
+            "Ultra Beast"
+        ],
+        "hp": "280",
+        "types": [
+            "Dragon"
+        ],
+        "rules": [
+            "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Violent Appetite",
+                "text": "Once during your turn (before your attack), you may discard a Pokémon from your hand. If you do, heal 60 damage from this Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Jet Pierce",
+                "cost": [
+                    "Psychic",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "180",
+                "text": ""
+            },
+            {
+                "name": "Chaotic Order-GX",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.) If this Pokémon has at least 1 extra Psychic Energy and 1 extra Darkness Energy attached to it (in addition to this attack's cost), take 2 Prize cards. (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "260",
+        "artist": "5ban Graphics",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            799,
+            804
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/260.png",
+            "large": "https://images.pokemontcg.io/sm12/260_hires.png"
+        }
+    },
+    {
+        "id": "sm12-261",
+        "name": "Mega Lopunny & Jigglypuff-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "TAG TEAM",
+            "GX"
+        ],
+        "hp": "240",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesTo": [
+            "Wigglytuff"
+        ],
+        "rules": [
+            "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Jumping Balloon",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "60+",
+                "text": "This attack does 60 more damage for each of your opponent's Pokémon-GX and Pokémon-EX in play."
+            },
+            {
+                "name": "Puffy Smashers-GX",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Your opponent's Active Pokémon is now Asleep. If this Pokémon has at least 4 extra Energy attached to it (in addition to this attack's cost), this attack does 200 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "261",
+        "artist": "aky CG Works",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            39,
+            428
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/261.png",
+            "large": "https://images.pokemontcg.io/sm12/261_hires.png"
+        }
+    },
+    {
+        "id": "sm12-262",
+        "name": "Silvally-GX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1",
+            "GX"
+        ],
+        "hp": "210",
+        "types": [
+            "Colorless"
+        ],
+        "evolvesFrom": "Type: Null",
+        "rules": [
+            "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Disk Reload",
+                "text": "Once during your turn (before your attack), you may draw cards until you have 5 cards in your hand.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Brave Buddies",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "50+",
+                "text": "If you played a Supporter card from your hand during this turn, this attack does 70 more damage."
+            },
+            {
+                "name": "Silver Knight-GX",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "",
+                "text": "If your opponent's Active Pokémon is an Ultra Beast, it is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "262",
+        "artist": "Megumi Mizutani",
+        "rarity": "Rare Rainbow",
+        "nationalPokedexNumbers": [
+            773
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/262.png",
+            "large": "https://images.pokemontcg.io/sm12/262_hires.png"
+        }
+    },
+    {
+        "id": "sm12-263",
+        "name": "Giant Hearth",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "rules": [
+            "Once during each player's turn, that player may discard a card from their hand. If they do, that player searches their deck for up to 2 Fire Energy cards, reveals them, and puts them into their hand. Then, that player shuffles their deck.",
+            "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+        ],
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "263",
+        "artist": "5ban Graphics",
+        "rarity": "Rare Secret",
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/263.png",
+            "large": "https://images.pokemontcg.io/sm12/263_hires.png"
+        }
+    },
+    {
+        "id": "sm12-264",
+        "name": "Great Catcher",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "rules": [
+            "You can play this card only if you discard 2 other cards from your hand.",
+            "Switch 1 of your opponent's Benched Pokémon-GX or Pokémon-EX with their Active Pokémon.",
+            "You may play as many Item cards as you like during your turn (before your attack)."
+        ],
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "264",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Rare Secret",
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/264.png",
+            "large": "https://images.pokemontcg.io/sm12/264_hires.png"
+        }
+    },
+    {
+        "id": "sm12-265",
+        "name": "Island Challenge Amulet",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Pokémon Tool"
+        ],
+        "rules": [
+            "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+            "The Pokémon-GX or Pokémon-EX this card is attached to gets -100 HP, and when it is Knocked Out by damage from an opponent's attack, that player takes 1 fewer Prize card.",
+            "You may play as many Item cards as you like during your turn (before your attack)."
+        ],
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "265",
+        "artist": "sadaji",
+        "rarity": "Rare Secret",
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Banned"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/265.png",
+            "large": "https://images.pokemontcg.io/sm12/265_hires.png"
+        }
+    },
+    {
+        "id": "sm12-266",
+        "name": "Lana's Fishing Rod",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "rules": [
+            "Shuffle a Pokémon and a Pokémon Tool card from your discard pile into your deck.",
+            "You may play as many Item cards as you like during your turn (before your attack)."
+        ],
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "266",
+        "artist": "Eske Yoshinob",
+        "rarity": "Rare Secret",
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/266.png",
+            "large": "https://images.pokemontcg.io/sm12/266_hires.png"
+        }
+    },
+    {
+        "id": "sm12-267",
+        "name": "Lillie's Poké Doll",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "hp": "30",
+        "rules": [
+            "Play this card as if it were a 30-HP Colorless Basic Pokémon. At any time during your turn (before your attack), if this Pokémon is your Active Pokémon, you may discard all cards from it and put it on the bottom of your deck.",
+            "This card can't retreat. If this card is Knocked Out, your opponent can't take any Prize cards for it.",
+            "You may play as many Item cards as you like during your turn (before your attack)."
+        ],
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "267",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Rare Secret",
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/267.png",
+            "large": "https://images.pokemontcg.io/sm12/267_hires.png"
+        }
+    },
+    {
+        "id": "sm12-268",
+        "name": "Martial Arts Dojo",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "rules": [
+            "The attacks of non-Ultra Beast Pokémon that have any basic Fighting Energy attached to them (both yours and your opponent's) do 10 more damage to the opponent's Active Pokémon (before applying Weakness and Resistance). If the attacking player has more Prize cards remaining than their opponent, those attacks do 40 more damage instead.",
+            "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+        ],
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "268",
+        "artist": "5ban Graphics",
+        "rarity": "Rare Secret",
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/268.png",
+            "large": "https://images.pokemontcg.io/sm12/268_hires.png"
+        }
+    },
+    {
+        "id": "sm12-269",
+        "name": "Power Plant",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Stadium"
+        ],
+        "rules": [
+            "Pokémon-GX and Pokémon-EX in play (both yours and your opponent's) have no Abilities.",
+            "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+        ],
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "269",
+        "artist": "aky CG Works",
+        "rarity": "Rare Secret",
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/269.png",
+            "large": "https://images.pokemontcg.io/sm12/269_hires.png"
+        }
+    },
+    {
+        "id": "sm12-270",
+        "name": "Tag Call",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "rules": [
+            "Search your deck for up to 2 TAG TEAM cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+            "You may play as many Item cards as you like during your turn (before your attack)."
+        ],
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "270",
+        "artist": "Toyste Beach",
+        "rarity": "Rare Secret",
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/270.png",
+            "large": "https://images.pokemontcg.io/sm12/270_hires.png"
+        }
+    },
+    {
+        "id": "sm12-271",
+        "name": "Draw Energy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Special"
+        ],
+        "rules": [
+            "This card provides Colorless Energy.",
+            "When you attach this card from your hand to a Pokémon, draw a card."
+        ],
+        "set": {
+            "id": "sm12",
+            "name": "Cosmic Eclipse",
+            "series": "Sun & Moon",
+            "printedTotal": 236,
+            "total": 272,
+            "legalities": {
+                "unlimited": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "CEC",
+            "releaseDate": "2019/11/01",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+                "logo": "https://images.pokemontcg.io/sm12/logo.png"
+            }
+        },
+        "number": "271",
+        "rarity": "Rare Secret",
+        "legalities": {
+            "unlimited": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sm12/271.png",
+            "large": "https://images.pokemontcg.io/sm12/271_hires.png"
+        }
     }
 ]

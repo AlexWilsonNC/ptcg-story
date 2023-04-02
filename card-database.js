@@ -1,20 +1,20 @@
-fetch('https://api.pokemontcg.io/v2/sets').then(res => { console.log('List of All Sets', res.json()) })
-fetch('https://api.pokemontcg.io/v2/cards?q=set.id:sv1').then(res => { console.log('Download New Set', res.json()) })
+// fetch('https://api.pokemontcg.io/v2/sets').then(res => { console.log('List of All Sets', res.json()) })
+// fetch('https://api.pokemontcg.io/v2/cards?q=set.id:mcd22').then(res => { console.log('Download New Set', res.json()) })
 
-// sv1.forEach(cardObject => {
+// bog.forEach(cardObject => {
 //     delete cardObject.tcgplayer;
 //     delete cardObject.cardmarket;
 //     delete cardObject.level;
 //     delete cardObject.retreatCost;
 //     delete cardObject.set.updatedAt;
 // })
-// console.log('Edited Set Object - Removing Values', sv1)
+// console.log('Edited Set Object - Removing Values', bog)
 
 // const allStandardLegalCards = [];
-// let page = 1;
+// let page = 2;
 
 // const getCards = () => {
-//     const url = 'https://api.pokemontcg.io/v2/cards?q=set.id:sm12';
+//     const url = 'https://api.pokemontcg.io/v2/cards?q=set.id:swshp';
 //     fetch(url, {
 //         headers: {
 //             "X-Api-key": "c7d98093-9347-4504-92d8-0387131ab03b",
@@ -33,7 +33,7 @@ fetch('https://api.pokemontcg.io/v2/cards?q=set.id:sv1').then(res => { console.l
 //                     JSON.stringify(allStandardLegalCards)
 //                 );
 //             }
-//             console.log('download set', allStandardLegalCards, data, page);
+//             console.log('meeeeeeeep', allStandardLegalCards, data, page);
 //         });
 // };
 // getCards();
