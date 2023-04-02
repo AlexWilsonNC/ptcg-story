@@ -442,83 +442,26 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-.artist-section p {
-    text-align: center;
-    margin-bottom: 5px;
-    font-size: 20px;
-}
-.artist-cube {
-    height:175px;width:250px;
-    border-radius: 15px;
     margin: 7.5px 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    align-items: center;
     overflow: hidden;
-    position: relative;
     box-shadow: 5px 5px 15px black;
 }
-.mitsuhiroArita {
-    background: url(../assets/artists/mitsuhiro-arita-overlay.jpeg) no-repeat center;
-    background-size: auto 100%;
-    object-fit: contain;
-    transition: ease all 0.3s;
+.artist-section img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 210px;
+    height: 125px;
 }
-.kenSugimori {
-    background: url(../assets/artists/Ken_Sugimori_2018-overlay.jpg) no-repeat center;
-    background-size: auto 100%;
-    object-fit: contain;
-    transition: ease all 0.3s;
-}
-.naokiSaito {
-    background: url(../assets/artists/naoki-saito-overlay.jpg) no-repeat center;
-    background-size: auto 100%;
-    object-fit: contain;
-    transition: ease all 0.3s;
-}
-.yukaMorii {
-    background: url(../assets/artists/yuka-morii-overlay.jpg) no-repeat center;
-    background-size: auto 100%;
-    object-fit: contain;
-    transition: ease all 0.3s;
-}
-.tomokazuKomiya {
-    background: url(../assets/artists/tomokazu-komiya_cleanup-overlay.jpg) no-repeat center;
-    background-size: auto 100%;
-    object-fit: contain;
-    transition: ease all 0.3s;
-}
-.akiraEgawa {
-    background: url(../assets/artists/akira-egawa-overlay.jpg) no-repeat center;
-    background-size: auto 100%;
-    object-fit: contain;
-    transition: ease all 0.3s;
-}
-.hitoshiAgira {
-    background: url(../assets/artists/hitoshi-ariga-overlay.jpg) no-repeat center;
-    background-size: auto 100%;
-    object-fit: contain;
-    transition: ease all 0.3s;
-}
-.kawayoo {
-    background: url(../assets/artists/kawayoo-overlay.png) no-repeat center;
-    background-size: auto 100%;
-    object-fit: contain;
-    transition: ease all 0.3s;
-}
-.asakoIto {
-    background: url(../assets/artists/en_US-CZ-GG019-altaria-overlay.png) no-repeat center;
-    background-size: auto 100%;
-    object-fit: contain;
-    transition: ease all 0.3s;
-}
-.koukiSaitou {
-    background: url(../assets/artists/kouki-saitou-overlay.jpg) no-repeat center;
-    background-size: auto 100%;
-    object-fit: contain;
-    transition: ease all 0.3s;
+.artist-section p {
+    font-size: 18px;
+    background-color: white;
+    color: black;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius:15px;
+    padding: 5px;
+    text-align: center;
+    width: 100%;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
 }
 
 @media screen and (max-width: 700px) {
@@ -559,6 +502,7 @@
         height:175px;
         width:150px;
     }
+}
 .set-cube:after,
 .set-cube-promo:after {
   width: 100%;
@@ -570,12 +514,6 @@
   transform: translateX(-80px) translateY(-90px) skewX(-20deg);
   filter: blur(10px);
 }
-}
-@media screen and (max-width: 965px) {
-    .artist-cube {
-        height:140px;width:215px;
-    }
-}
 @media screen and (max-width: 900px) {
     .all-cards img {
         width: 160px;
@@ -586,13 +524,15 @@
         width: 180px;
     }
 }
-@media screen and (max-width: 843px) {
-    .artist-cube {
-        height:120px;width:190px;
-        margin: 4px 6px;
+@media screen and (max-width: 825px) {
+    .artist-section {
+        margin: 6px 8px;
     }
-    .artist-section p {
-        font-size: 16px;
+    .artist-section img {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        width: 178px;
+        height: 100px;
     }
 }
 @media screen and (max-width: 813px) {
@@ -705,10 +645,6 @@
     }
 }
 @media screen and (max-width: 726px) {
-    .artist-cube {
-        height:110px;width:180px;
-        margin: 4px 4px;
-    }
     .artist-section p {
         font-size: 16px;
     }
@@ -847,14 +783,35 @@
         padding: 9px 13px;
     }
 }
-@media screen and (max-width: 453px) {
-    .artist-cube {
-        height:90px;width:140px;
-        margin: 3px 5px;
+@media screen and (max-width: 492px) {
+    .artist-section {
+        margin: 4px 7px;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+    }
+    .artist-section img {
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 140px;
+        height: 83px;
     }
     .artist-section p {
         font-size: 14px;
-        margin: 4px 0px 5px;
+        padding: 2px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .artist-section {
+        margin: 3px 5px;
+    }
+    .artist-section img {
+        width: 120px;
+        height: 70px;
+    }
+    .artist-section p {
+        font-size: 12px;
+        padding: 1px;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius:5px;    
     }
 }
 @media screen and (max-width: 439px) {
@@ -964,13 +921,7 @@
     }
 }
 @media screen and (max-width: 365px) {
-    .artist-cube {
-        height:75px;width:120px;
-        margin: 2px 4px;
-    }
-    .artist-section p {
-        font-size: 13px;
-    }
+
 }
 @media screen and (min-width: 321px) and (max-width: 363px) {
     .set-cube,
