@@ -964,20 +964,7 @@
     background-size: auto 112%;
 }
 
-.kalos-starter:hover,
-.pop9:hover,
-.pop8:hover,
-.pop7:hover,
-.pop6:hover,
-.pop5:hover,
-.pop4:hover,
-.pop3:hover,
-.pop2:hover,
-.pop1:hover,
-.tk2:hover,
-.tk1:hover,
-.bog:hover,
-.southernisland:hover {
+.white-cube:hover img {
     transform: scale(1.5);
 }
 
