@@ -17055,6 +17055,14 @@ let card = document.getElementsByClassName("database-card-in-list"),
 
 function displayList(array = []) {
     setsOl.innerHTML = '';
+
+    liveSetLogo.innerHTML = '';
+    let imgLogo = document.createElement('img');
+    imgLogo.setAttribute('src', array[0].set.images.logo);
+    liveSetLogo.appendChild(imgLogo);
+    releaseDate.innerHTML = 'US Release Date: ' + array[0].set.releaseDate;
+    cardCount.innerHTML = 'Card Count: ' + array.length;
+
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
         let img = document.createElement('img');
@@ -17071,12 +17079,6 @@ function displayList(array = []) {
         };
         setsOl.appendChild(img);
     }
-        liveSetLogo.innerHTML = '';
-        let imgLogo = document.createElement('img');
-        imgLogo.setAttribute('src', array[0].set.images.logo);
-        liveSetLogo.appendChild(imgLogo);
-        releaseDate.innerHTML = 'US Release Date: ' + array[0].set.releaseDate;
-        cardCount.innerHTML = 'Card Count: ' + array.length;
 }
 
 displayList(sv1);
