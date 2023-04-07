@@ -1,7 +1,7 @@
 const masterList = document.querySelector('.uk-masters-ol');
 const seniorList = document.querySelector('.uk-seniors-ol');
 const juniorList = document.querySelector('.uk-juniors-ol');
-const fourList = document.querySelector('.four-ol');
+const sevenList = document.querySelector('.seven-ol');
 const fiveList = document.querySelector('.five-ol');
 
 const modalBottom = document.querySelector('.modal-bottom');
@@ -1435,7 +1435,7 @@ let juniors = [
     },
 ]
 
-let fourEvent = [
+let sevenEvent = [
     {
         firstName: 'Chase Moloney',
         sprite1: '../../assets/sprites/bronzong.png',
@@ -2380,9 +2380,9 @@ function displayList3(array = []) {
     }
 }
 
-// four
+// seven
 function displayList4(array = []) {
-    fourList.innerHTML = '';
+    sevenList.innerHTML = '';
 
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
@@ -2516,7 +2516,9 @@ function displayList4(array = []) {
             })
         }
 
-        fourList.appendChild(item_element);
+        sevenList.appendChild(item_element);
+        console.log('meep')
+
     }
 }
 
@@ -2667,5 +2669,5 @@ const behind = document.querySelector('.behind-modal');
 displayList(masters);
 displayList2(seniors);
 displayList3(juniors);
-displayList4(fourEvent);
+displayList4(sevenEvent);
 displayList5(fiveEvent);

@@ -1,7 +1,7 @@
 const masterList = document.querySelector('.uk-masters-ol');
 const seniorList = document.querySelector('.uk-seniors-ol');
 const juniorList = document.querySelector('.uk-juniors-ol');
-const fourList = document.querySelector('.four-ol');
+const tenList = document.querySelector('.ten-ol');
 const fiveList = document.querySelector('.five-ol');
 const sixList = document.querySelector('.six-ol');
 const sevenList = document.querySelector('.seven-ol');
@@ -923,7 +923,7 @@ let juniors = [
     },
 ]
 
-let fourEvent = [
+let tenEvent = [
     {
         firstName: 'Finn Looft',
         sprite1: '../../assets/sprites/absol.png',
@@ -1703,9 +1703,9 @@ function displayList3(array = []) {
     }
 }
 
-// four
+// ten
 function displayList4(array = []) {
-    fourList.innerHTML = '';
+    tenList.innerHTML = '';
 
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
@@ -1839,7 +1839,7 @@ function displayList4(array = []) {
             })
         }
 
-        fourList.appendChild(item_element);
+        tenList.appendChild(item_element);
     }
 }
 
@@ -2550,7 +2550,7 @@ const behind = document.querySelector('.behind-modal');
 displayList(masters);
 displayList2(seniors);
 displayList3(juniors);
-displayList4(fourEvent);
+displayList4(tenEvent);
 displayList5(fiveEvent);
 displayList6(sixEvent);
 displayList7(sevenEvent);
