@@ -1798,17 +1798,17 @@ li {
     .name-n-flag {
         font-size: 13px;
     }
-    li {
+    /* li {
         font-size: 16px;
-    }
+    } */
 }
 @media screen and (max-width: 360px) {
     .name-n-flag {
         font-size: 12px;
     }
-    li {
+    /* li {
         font-size: 15px;
-    }
+    } */
 }
 @media screen and (max-width: 331px) {
 /* screen and (max-height: 790px) { */

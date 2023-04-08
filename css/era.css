@@ -21,6 +21,23 @@
     border-bottom: 4px solid rgb(224, 160, 22);
 }
 
+.scroll-top-btn {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    background-color: black;
+    border-radius: 12px;
+    font-size: 30px;
+    color:white;
+    padding: 10px 15px;
+    transition: ease all 0.2s;
+    z-index: 1559;
+}
+.scroll-top-btn:hover {
+    background-color: rgb(61, 61, 86);
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.75);
+}
+
 .more {display: none;}
 .myBtn {
     margin-top: 7px;
@@ -1138,6 +1155,15 @@ margin-top: auto;
         height: 50%;
       }
 }
+@media screen and (max-width: 728px) {
+    .scroll-top-btn {
+        bottom: 37px;
+        right: 37px;
+        border-radius: 10px;
+        font-size: 24px;
+        padding: 10px 13px;
+    }
+}
 @media screen and (max-width: 585px) {
     .reg-txt {
         margin: 8px 0px;
@@ -1287,6 +1313,14 @@ margin-top: auto;
     #zoom-card-box-break img {
         height: 47%;
       }
+}
+@media screen and (max-width: 530px) {
+    .scroll-top-btn {
+        bottom: 20px;
+        right: 20px;
+        font-size: 22px;
+        padding: 9px 13px;
+    }
 }
 @media screen and (max-width: 462px) {
     .specific-format h3,
