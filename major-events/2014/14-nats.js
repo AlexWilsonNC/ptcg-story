@@ -1862,7 +1862,7 @@ let sixEvent = [
                 numImg: '../../assets/03.png',
             },
             {
-                cardImg: '../../assets/cards/2010-2012/tepig.png',
+                cardImg: '../../assets/cards/2014-2016/tepig-bcr.png',
                 numImg: '../../assets/03.png',
             },
             {
