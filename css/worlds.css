@@ -912,6 +912,11 @@ li {
     width: 10vw;
     margin-left: 10px;
 }
+.set-logo-big {
+    height: auto;
+    width: 7vw;
+    margin-left: 10px;
+}
 
 
 #zoom-card-box {
@@ -1011,16 +1016,15 @@ li {
         height: auto;
         width: 7vw;
     }
+    .set-logo-big {
+        height: auto;
+        width: 5vw;
+    }
 }
 
 .old-logo {
     margin-bottom: -5px;
 }
-
-/* .  {
-    height: auto;
-    width: 10vw;
-} */
 
 
 @media screen and (min-width: 1650px) {
@@ -1148,6 +1152,12 @@ li {
     }
 }
 
+@media screen and (max-width: 945px) {
+    .set-logo-big {
+        height: auto;
+        width: 9vw;
+    }
+}
 @media screen and (max-width: 925px) {
     .name-n-flag {
         font-size: 15px;
@@ -1229,20 +1239,6 @@ li {
 }
 
 @media screen and (max-width: 780px) {
-
-    /* .event-content {
-        width: 90%;
-        max-width: 90%;
-        display: flex;
-        justify-content: center;
-    } */
-    /* .sets {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: center;
-        width: 0%;
-    } */
     .hidden-big-hr {
         display: flex;
         margin-bottom: 15px;
@@ -1511,6 +1507,10 @@ li {
 
     .set-logo {
         width: 120px;
+        height: auto;
+    }
+    .set-logo-big {
+        width: 100px;
         height: auto;
     }
 
@@ -1794,24 +1794,23 @@ li {
         font-size: 20px;
     }
 }
+@media screen and (max-width: 380px) {
+     .set-logo-big {
+        width: 70px;
+        height: auto;
+    }
+}
 @media screen and (max-width: 368px) {
     .name-n-flag {
         font-size: 13px;
     }
-    /* li {
-        font-size: 16px;
-    } */
 }
 @media screen and (max-width: 360px) {
     .name-n-flag {
         font-size: 12px;
     }
-    /* li {
-        font-size: 15px;
-    } */
 }
 @media screen and (max-width: 331px) {
-/* screen and (max-height: 790px) { */
     .pok-card-small {
         width: 45px;
     }
@@ -1820,7 +1819,6 @@ li {
     }
 }
 @media screen and (max-width: 290px) {
-/* screen and (max-height: 790px) { */
     .pok-card-small {
         width: 39px;
     }
@@ -1828,25 +1826,6 @@ li {
         font-size: 11px;
     }
 }
-
-/* @media screen and (max-height: 700px) {
-        .pok-card-small {
-            width: 50px;
-        }
-  
-    }
-@media screen and (max-height: 680px) {
-        .pok-card-small {
-            width: 48px;
-        }
-
-    }
-@media screen and (max-height: 650px) {
-        .pok-card-small {
-            width: 46px;
-        }
-
-    } */
 
 @media screen and (max-width: 370px) {
     .others-box {
