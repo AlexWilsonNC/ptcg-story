@@ -815,6 +815,238 @@ let masters = [
       },
     ]
   },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+          cardImg: '../../../assets/cards/base-fossil',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+          cardImg: '../../../assets/cards/base-fossil',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+          cardImg: '../../../assets/cards/base-fossil',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+          cardImg: '../../../assets/cards/base-fossil',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+          cardImg: '../../../assets/cards/base-fossil',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: 'Scott Gerhardt', //www.pojo.com/Features/0600/0725STSScottGerhardt.html
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/hitmonchan.png',
+    sprite2: '../../../assets/sprites/mewtwo.png',
+    list: '../../../assets/list-icon.png',
+    type: 'dark',
+    deck: [
+      {
+          cardImg: '../../../assets/cards/base-fossil/wizards_black_star_promos.014.mewtwo.jpg',
+          numImg: '../../../assets/02.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.007.hitmonchan.jpg',
+          numImg: '../../../assets/02.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.020.electabuzz.jpg',
+          numImg: '../../../assets/02.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/fo.018.ditto_.jpg',
+          numImg: '../../../assets/02.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/wizards_black_star_promos.011.eevee_.jpg',
+          numImg: '../../../assets/01.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.088.professor_oak.jpg',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.071.computer_search.jpg',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.074.item_finder.jpg',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.084.pluspower.jpg',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.092.energy_removal.jpg',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/ro.072.rockets_sneak_attack.jpg',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.091.bill_.jpg',
+          numImg: '../../../assets/03.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.078.scoop_up.jpg',
+          numImg: '../../../assets/03.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.093.gust_of_wind.jpg',
+          numImg: '../../../assets/03.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.075.lass_.jpg',
+          numImg: '../../../assets/01.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.081.energy_retrieval.jpg',
+          numImg: '../../../assets/01.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/ro.077.nightly_garbage_run.jpg',
+          numImg: '../../../assets/01.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.100.lightning_energy.jpg',
+          numImg: '../../../assets/03.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.097.fighting_energy.jpg',
+          numImg: '../../../assets/03.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.101.psychic_energy.jpg',
+          numImg: '../../../assets/02.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/ro.080.rainbow_energy.jpg',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+      {
+          cardImg: '../../../assets/cards/base-fossil/bs.096.double_colorless_energy.jpg',
+          numImg: '../../../assets/03.png',
+          oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+          cardImg: '../../../assets/cards/base-fossil',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+    ]
+  },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'dark',
+    deck: [
+      {
+          cardImg: '../../../assets/cards/base-fossil',
+          numImg: '../../../assets/04.png',
+          oldCard: true
+      },
+    ]
+  },
 ]
 
 let seniors = [
