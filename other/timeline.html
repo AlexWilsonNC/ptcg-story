@@ -50,12 +50,12 @@
     </div>
 
     <div class='collapse-bts'>
-        <button type="button" class="collapsible2 dark-blue-bg" style='border-top: 2px solid black;border-bottom: 1px solid black;'>
+        <button type="button" class=" collapsible">
             <div class='country-name'>
                 <p style='font-weight: bold;text-shadow: 2px 2px 4px black;'>1996</p>
             </div>
         </button>
-        <div class='country-content2' style='background-color: white;'>
+        <div class='country-content' style='background-color: white;'>
             <div class='tl-year content-1996'>
                 <div class='line'></div>
                 <div class='tl-events'>
@@ -92,12 +92,12 @@
     </div>
 
     <div class='collapse-bts'>
-        <button type="button" class="collapsible2 dark-lightblue-bg" style='border-top: 1px solid black;border-bottom: 1px solid black;'>
+        <button type="button" class=" collapsible-alt">
             <div class='country-name'>
                 <p style='font-weight: bold;text-shadow: 2px 2px 4px black;'>1997</p>
             </div>
         </button>
-        <div class='country-content2' style='background-color: white;'>
+        <div class='country-content' style='background-color: white;'>
             <div class='tl-year content-1997'>
                 <div class='line'></div>
                 <div class='tl-events'>
@@ -168,12 +168,12 @@
     </div>
 
     <div class='collapse-bts'>
-        <button type="button" class="collapsible2 dark-red-bg" style='border-top: px solid black;border-bottom: 1px solid black;'>
+        <button type="button" class="collapsible" >
             <div class='country-name'>
                 <p style='font-weight: bold;text-shadow: 2px 2px 4px black;'>1998</p>
             </div>
         </button>
-        <div class='country-content2' style='background-color: white;'>
+        <div class='country-content' style='background-color: white;'>
             <div class='tl-year content-1998'>
                 <div class='line'></div>
                 <div class='tl-events'>
@@ -299,12 +299,12 @@
     </div>
 
     <div class='collapse-bts'>
-        <button type="button" class="collapsible2 dark-orange-bg" style='border-top: 1px solid black;border-bottom: 1px solid black;'>
+        <button type="button" class="collapsible-alt" >
             <div class='country-name'>
                 <p style='font-weight: bold;text-shadow: 2px 2px 4px black;'>1999</p>
             </div>
         </button>
-        <div class='country-content2' style='background-color: white;'>
+        <div class='country-content' style='background-color: white;'>
             <div class='tl-year content-1999'>
                 <div class='line'></div>
                 <div class='tl-events'>
@@ -437,12 +437,12 @@
     </div>
 
     <div class='collapse-bts'>
-        <button type="button" class="collapsible2 dark-green-bg" style='border-top: 1px solid black;border-bottom: 1px solid black;'>
+        <button type="button" class="collapsible" >
             <div class='country-name'>
                 <p style='font-weight: bold;text-shadow: 2px 2px 4px black;'>2000</p>
             </div>
         </button>
-        <div class='country-content2' style='background-color: white;'>
+        <div class='country-content' style='background-color: white;'>
                         <div class='tl-year content-2000'>
                 <div class='line'></div>
                 <div class='tl-events'>
@@ -587,7 +587,7 @@
     </div>
 
     <div class='collapse-bts'>
-        <button type="button" class="collapsible2 dark-mauve-bg" style='border-top: 1px solid black;border-bottom: 2px solid black;'>
+        <button type="button" class="collapsible-alt">
             <div class='country-name'>
                 <p style='font-weight: bold;text-shadow: 2px 2px 4px black;'>2001 Coming Soon...</p>
             </div>
@@ -622,7 +622,8 @@
     </footer>
 
     <script>
-        var coll = document.getElementsByClassName("collapsible2");
+        var coll = document.getElementsByClassName("collapsible");
+        var collAlt = document.getElementsByClassName("collapsible-alt");
         var i;
 
         for (i = 0; i < coll.length; i++) {
@@ -632,7 +633,18 @@
                 if (content.style.maxHeight) {
                     content.style.maxHeight = null;
                 } else {
-                    content.style.maxHeight = "2000px";
+                    content.style.maxHeight = content.scrollHeight + "px";
+                }
+            });
+        }
+        for (i = 0; i < collAlt.length; i++) {
+            collAlt[i].addEventListener("click", function () {
+                this.classList.toggle("hello");
+                var content = this.nextElementSibling;
+                if (content.style.maxHeight) {
+                    content.style.maxHeight = null;
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
                 }
             });
         }
