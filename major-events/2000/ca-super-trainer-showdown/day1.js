@@ -896,7 +896,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Scott Gerhardt', //www.pojo.com/Features/0600/0725STSScottGerhardt.html
+    firstName: 'Scott Gerhardt',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/hitmonchan.png',
     sprite2: '../../../assets/sprites/mewtwo.png',
@@ -2111,18 +2111,18 @@ let juniors = [
   {
     firstName: 'Mitch Morris',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/electabuzz.png',
-    sprite2: '../../../assets/sprites/mr-mime.png',
+    sprite1: '../../../assets/sprites/mr-mime.png',
+    sprite2: '../../../assets/sprites/electabuzz.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
+        {
+            cardImg: '../../../assets/cards/base-fossil/ju.022.mr_mime.jpg',
+            numImg: '../../../assets/03.png',
+            oldCard: true
+        },
       {
           cardImg: '../../../assets/cards/base-fossil/bs.020.electabuzz.jpg',
-          numImg: '../../../assets/03.png',
-          oldCard: true
-      },
-      {
-          cardImg: '../../../assets/cards/base-fossil/ju.022.mr_mime.jpg',
           numImg: '../../../assets/03.png',
           oldCard: true
       },
