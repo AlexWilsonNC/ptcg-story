@@ -222,6 +222,27 @@ function changeToBuild106() {
     buildBox105.style.display = 'none';
 }
 
+function changeToBuild100() {
+    deckbuild100.classList.add('dark-bg');
+    deckbuild200.classList.remove('dark-bg');
+    deckbuild200.classList.add('light-bg');
+
+    buildBox100.style.display = 'flex';
+    buildBox200.style.display = 'none';
+    descBox100.style.display = 'flex';
+    descBox200.style.display = 'none';
+}
+function changeToBuild200() {
+    deckbuild200.classList.add('dark-bg');
+    deckbuild100.classList.remove('dark-bg');
+    deckbuild100.classList.add('light-bg');
+
+    buildBox200.style.display = 'flex';
+    buildBox100.style.display = 'none';
+    descBox100.style.display = 'none';
+    descBox200.style.display = 'flex';
+}
+
 function changeToBuildA() {
     deckbuildA.classList.add('dark-bg');
     deckbuildB.classList.remove('dark-bg');
@@ -255,8 +276,7 @@ deckbuild9.addEventListener('click', changeToBuild9)
 deckbuild10.addEventListener('click', changeToBuild10)
 deckbuild105.addEventListener('click', changeToBuild105)
 deckbuild106.addEventListener('click', changeToBuild106)
-deckbuildA.addEventListener('click', changeToBuildA)
-deckbuildB.addEventListener('click', changeToBuildB)
-
 deckbuild100.addEventListener('click', changeToBuild100)
 deckbuild200.addEventListener('click', changeToBuild200)
+deckbuildA.addEventListener('click', changeToBuildA)
+deckbuildB.addEventListener('click', changeToBuildB)
