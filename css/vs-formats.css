@@ -1291,8 +1291,8 @@
     background-repeat: no-repeat;
     width:33%;height:100%;
 }
-.right-vs-exeggcute {
-    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/exeggcute.png);
+.right-vs-zoroark-standin {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/zoroark.png);
     width:33%;height:100%;
     background-size: cover;
     background-position: center center;
