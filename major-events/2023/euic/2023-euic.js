@@ -10,7 +10,953 @@ let masters = [
     flag: '../../../assets/flags',
     sprite1: '../../../assets/sprites',
     sprite2: '../../../assets/sprites',
-    list: '../../../assets/list-icon.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
     type: 'normal',
     deck: [
       {
@@ -27,7 +973,113 @@ let seniors = [
     flag: '../../../assets/flags',
     sprite1: '../../../assets/sprites',
     sprite2: '../../../assets/sprites',
-    list: '../../../assets/list-icon.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
     type: 'normal',
     deck: [
       {
@@ -44,7 +1096,113 @@ let juniors = [
     flag: '../../../assets/flags',
     sprite1: '../../../assets/sprites',
     sprite2: '../../../assets/sprites',
-    list: '../../../assets/list-icon.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    type: 'normal',
+    deck: [
+      {
+        cardImg: '../../../assets/cards/2022-2023',
+        numImg: '../../../assets/04.png'
+      },
+    ]
+  },
+  {
+    firstName: 'eeee',
+    flag: '../../../assets/flags',
+    sprite1: '../../../assets/sprites',
+    sprite2: '../../../assets/sprites',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
     type: 'normal',
     deck: [
       {
