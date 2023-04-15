@@ -170,7 +170,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Trevor Read',
+    firstName: 'Trevore Read',
     flag: '../../../assets/flags/canada.png',
     sprite1: '../../../assets/sprites/lugia.png',
     sprite2: '../../../assets/sprites/archeops.png',
