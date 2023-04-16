@@ -11,7 +11,7 @@ let masters = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/duraludon-gmax.png',
     list: '../../../assets/list-icon.png',
-    type: 'normal',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -124,7 +124,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/gardevoir.png',
     list: '../../../assets/list-icon.png',
-    type: 'normal',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/scvi-2024/gardevoir-ex.png',
@@ -3518,7 +3518,7 @@ let masters = [
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/duraludon-gmax.png',
     list: '../../../assets/list-icon.png',
-    type: 'normal',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/2022-2023/arceus-vstar.png',
@@ -3631,7 +3631,7 @@ let masters = [
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/gardevoir.png',
     list: '../../../assets/list-icon.png',
-    type: 'normal',
+    type: 'dark',
     deck: [
       {
         cardImg: '../../../assets/cards/scvi-2024/gardevoir-ex.png',
