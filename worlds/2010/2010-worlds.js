@@ -575,7 +575,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2008-2010/mesprit-body.png',
+        cardImg: '../../assets/cards/2008-2010/mesprit-pbind.png',
         numImg: '../../assets/01.png'
       },
       {
