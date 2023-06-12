@@ -26,7 +26,7 @@ let masters = [
         numImg: '../../../assets/02.png',
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/trubbish-pile-up.png',
+        cardImg: '../../../assets/cards/2014-2016/trubbish-poison-gas.png',
         numImg: '../../../assets/02.png',
       },
       {
