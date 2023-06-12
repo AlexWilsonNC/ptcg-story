@@ -543,13 +543,113 @@ let masters = [
     flag: '../../assets/flags/germany.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/gyarados.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    list: '../../assets/list-icon.png',
+    type: 'water',
     deck: [
       {
-        cardImg: '../../assets/cards/2008-2010',
+        cardImg: '../../assets/cards/2008-2010/gyarados.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/magikarp.png',
         numImg: '../../assets/04.png'
       },
+      {
+        cardImg: '../../assets/cards/2008-2010/sableye-overgear.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/luxray-lvx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/luxray.jpg',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/mesprit-body.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/azelf-downer-aterial.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/regice.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/unown-quick.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/poke-collector.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/felicitys-drawing.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/cynthias-feelings.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/looker.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/poke-drawer-plus.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/super-scoop-up-hgss.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/poke-rescue.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/expert-belt.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/broken-time-space.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/dp-darkness-energy.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/warp_energy.jpg',
+        numImg: '../../assets/03.png'
+      }
     ]
   },
   {

@@ -132,13 +132,108 @@ let masters = [
         firstName: 'Simon Luong',
         sprite1: '../../assets/sprites/magnezone.png',
         sprite2: '../../assets/sprites/emboar.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
+        list: '../../assets/list-icon.png',
         type: 'normal',
         deck: [
             {
-                cardImg: '../../assets/cards/2010-2012',
+                cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/magneton.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/magnemite.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/emboar.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pignite.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/tepig.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/reshiram.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/rayquaza-deoxys-top.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/rayquaza-deoxys-bottom.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/tyrogue-col.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/poke-collector.png',
                 numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pont.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/twins.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/junk-arm.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/switch-bw.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/energy-retrieval-bw.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/revive.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/bw-energy-fire.png',
+                numImg: '../../assets/10.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/rescue-energy.png',
+                numImg: '../../assets/02.png',
             },
         ]
     },
@@ -317,13 +412,133 @@ let seniors = [
         firstName: 'Hampus Eriksson',
         sprite1: '../../assets/sprites/mew.png',
         sprite2: '../../assets/sprites/gyarados.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
+        list: '../../assets/list-icon.png',
         type: 'normal',
         deck: [
             {
-                cardImg: '../../assets/cards/2010-2012',
+                cardImg: '../../assets/cards/2010-2012/mew-prime.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/gyarados.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/magikarp.png',
                 numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/smeargle.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/crobat.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/uxie.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/azelf.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/mesprit-pbind.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/sableye-overgear.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/regice.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/combee.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/unown-quick.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/seeker.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/cyrus-conspiracy.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/sages-training.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/looker.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/bebes-search.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/junk-arm.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/poke-turn.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/poke-rescue.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/warp-point.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/vs-seeker.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/luxury-ball.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/expert-belt.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/energy-gain.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/broken-time-space.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/hgss-energy-psychic.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/warp_energy.jpg',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/rescue-energy.png',
+                numImg: '../../assets/02.png',
             },
         ]
     },
@@ -358,7 +573,7 @@ let seniors = [
     {
         firstName: 'Albert S',
         sprite1: '../../assets/sprites/seviper.png',
-        sprite2: '../../assets/sprites/skuntank.png',
+        sprite2: '../../assets/sprites/mightyena.png',
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'normal',

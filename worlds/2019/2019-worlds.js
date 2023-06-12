@@ -106,11 +106,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/08.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/03.png'
       }
     ]
@@ -200,11 +200,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/14.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/01.png'
       },
       {
@@ -302,7 +302,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -388,7 +388,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/18.png'
       }
     ]
@@ -498,7 +498,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -592,7 +592,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -690,11 +690,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/16.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/02.png'
       }
     ]
@@ -796,7 +796,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-water.png',
+        cardImg: '../../assets/cards/energy/water-energy-teu.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -898,7 +898,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fairy.png',
+        cardImg: '../../assets/cards/energy/fairy-energy-teu.png',
         numImg: '../../assets/09.png'
       }
     ]
@@ -996,7 +996,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fairy.png',
+        cardImg: '../../assets/cards/energy/fairy-energy-teu.png',
         numImg: '../../assets/07.png'
       }
     ]
@@ -1102,11 +1102,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/08.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/03.png'
       }
     ]
@@ -1208,7 +1208,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/12.png'
       }
     ]
@@ -1302,11 +1302,11 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/14.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/01.png'
       },
       {
@@ -1400,7 +1400,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fairy.png',
+        cardImg: '../../assets/cards/energy/fairy-energy-teu.png',
         numImg: '../../assets/10.png'
       }
     ]
@@ -1523,7 +1523,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-dark.png',
+        cardImg: '../../assets/cards/energy/dark-energy-teu.png',
         numImg: '../../assets/12.png'
       }
     ]
@@ -1629,7 +1629,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -1731,7 +1731,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -1821,7 +1821,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -1911,11 +1911,11 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/11.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/05.png'
       }
     ]
@@ -2021,7 +2021,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -2119,7 +2119,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/12.png'
       }
     ]
@@ -2221,7 +2221,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-water.png',
+        cardImg: '../../assets/cards/energy/water-energy-teu.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -2327,11 +2327,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/07.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-metal.png',
+        cardImg: '../../assets/cards/energy/metal-energy-teu.png',
         numImg: '../../assets/02.png'
       },
       {
@@ -2433,7 +2433,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -2555,7 +2555,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-water.png',
+        cardImg: '../../assets/cards/energy/water-energy-teu.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -2649,7 +2649,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/15.png'
       },
       {
@@ -2743,7 +2743,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/15.png'
       }
     ]
@@ -2829,7 +2829,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/18.png'
       }
     ]
@@ -2923,11 +2923,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/10.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fighting.png',
+        cardImg: '../../assets/cards/energy/fighting-energy-teu.png',
         numImg: '../../assets/01.png'
       }
     ]
@@ -3025,7 +3025,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fairy.png',
+        cardImg: '../../assets/cards/energy/fairy-energy-teu.png',
         numImg: '../../assets/09.png'
       }
     ]
@@ -3115,11 +3115,11 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/07.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-metal.png',
+        cardImg: '../../assets/cards/energy/metal-energy-teu.png',
         numImg: '../../assets/02.png'
       }
     ]
@@ -3225,7 +3225,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -3315,7 +3315,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/09.png'
       },
     ]
@@ -3417,7 +3417,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-water.png',
+        cardImg: '../../assets/cards/energy/water-energy-teu.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -3503,11 +3503,11 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/07.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-metal.png',
+        cardImg: '../../assets/cards/energy/metal-energy-teu.png',
         numImg: '../../assets/02.png'
       },
       {
@@ -3621,7 +3621,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -3711,7 +3711,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/15.png'
       },
       {
@@ -3809,7 +3809,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/12.png'
       }
     ]
@@ -3899,7 +3899,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/15.png'
       }
     ]
@@ -4005,7 +4005,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/07.png'
       },
       {
@@ -4111,7 +4111,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -4217,7 +4217,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -4327,7 +4327,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fairy.png',
+        cardImg: '../../assets/cards/energy/fairy-energy-teu.png',
         numImg: '../../assets/09.png'
       }
     ]
@@ -4337,9 +4337,134 @@ let masters = [
     flag: '../../assets/flags/czech-republic.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/spiritomb.png',
-    list: '../../assets/sprites/blank.png',
-        type: '',
-    deck: []
+    list: '../../assets/list-icon.png',
+    type: 'dark',
+    deck: [
+      {
+        cardImg: '../../assets/cards/2019-2020/spiritomb.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/jirachi-stellar-wish.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/froslass.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/snorunt.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/zebstrika.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/blitzle-delivery.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/aerodactyl-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/honchkrow-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/ditto-p.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/buzzwole.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/nihilego.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/girafarig.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/jynx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/mew.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/cynthia.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/professor-elm-lecture.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/faba.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/reds-challenge.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/pokemon-comm.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/switch.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/adventure-bag.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/hustle-belt.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/escapeboard.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/water-energy-teu.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/rainbow-energy-cel.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/unit-energy-darkfightingfairy.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/energy-beast-p.png',
+        numImg: '../../assets/01.png'
+      },
+    ]
   },
   {
     firstName: 'Tatsuya Kobayashi',
@@ -4426,7 +4551,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/12.png'
       }
     ]
@@ -4528,11 +4653,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/06.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fighting.png',
+        cardImg: '../../assets/cards/energy/fighting-energy-teu.png',
         numImg: '../../assets/02.png'
       }
     ]
@@ -4614,7 +4739,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/15.png'
       },
       {
@@ -4737,7 +4862,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -4831,7 +4956,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
         numImg: '../../assets/07.png'
       }
     ]
@@ -4917,7 +5042,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fairy.png',
+        cardImg: '../../assets/cards/energy/fairy-energy-teu.png',
         numImg: '../../assets/10.png'
       }
     ]
@@ -5016,7 +5141,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/15.png'
       },
       {
@@ -5121,7 +5246,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -5219,7 +5344,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/12.png'
       }
     ]
@@ -5313,7 +5438,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fairy.png',
+        cardImg: '../../assets/cards/energy/fairy-energy-teu.png',
         numImg: '../../assets/10.png'
       }
     ]
@@ -5403,7 +5528,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
         numImg: '../../assets/10.png'
       },
       {
@@ -5547,7 +5672,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-grass.png',
+        cardImg: '../../assets/cards/energy/grass-energy-teu.png',
         numImg: '../../assets/02.png'
       },
       {
@@ -5646,7 +5771,7 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-water.png',
+        cardImg: '../../assets/cards/energy/water-energy-teu.png',
         numImg: '../../assets/12.png'
       }
     ]
@@ -5756,7 +5881,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-fighting.png',
+        cardImg: '../../assets/cards/energy/fighting-energy-teu.png',
         numImg: '../../assets/09.png'
       },
       {
@@ -5862,7 +5987,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-water.png',
+        cardImg: '../../assets/cards/energy/water-energy-teu.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -5968,7 +6093,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -6057,7 +6182,7 @@ let seniors = [
           numImg: '../../assets/01.png'
         },
         {
-          cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+          cardImg: '../../assets/cards/energy/fire-energy-teu.png',
           numImg: '../../assets/18.png'
         }
       ]
@@ -6155,7 +6280,7 @@ let seniors = [
             numImg: '../../assets/01.png'
           },
           {
-            cardImg: '../../assets/cards/2019-2020/energy-fairy.png',
+            cardImg: '../../assets/cards/energy/fairy-energy-teu.png',
             numImg: '../../assets/09.png'
           }
         ]
@@ -6261,7 +6386,7 @@ let seniors = [
             numImg: '../../assets/01.png'
           },
           {
-            cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+            cardImg: '../../assets/cards/energy/fire-energy-teu.png',
             numImg: '../../assets/09.png'
           },
           {
@@ -6375,7 +6500,7 @@ let seniors = [
             numImg: '../../assets/01.png'
           },
           {
-            cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+            cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
             numImg: '../../assets/11.png'
           }
         ]
@@ -6469,7 +6594,7 @@ let seniors = [
             numImg: '../../assets/01.png'
           },
           {
-            cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+            cardImg: '../../assets/cards/energy/fire-energy-teu.png',
             numImg: '../../assets/11.png'
           }
         ]
@@ -6575,7 +6700,7 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+        cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
         numImg: '../../assets/12.png'
       }
         ]
@@ -6685,11 +6810,11 @@ let seniors = [
             numImg: '../../assets/01.png'
           },
           {
-            cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+            cardImg: '../../assets/cards/energy/fire-energy-teu.png',
             numImg: '../../assets/08.png'
           },
           {
-            cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+            cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
             numImg: '../../assets/04.png'
           }
         ]
@@ -6779,7 +6904,7 @@ let seniors = [
             numImg: '../../assets/01.png'
           },
           {
-            cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+            cardImg: '../../assets/cards/energy/fire-energy-teu.png',
             numImg: '../../assets/11.png'
           }
         ]
@@ -6896,7 +7021,7 @@ let juniors = [
       numImg: '../../assets/01.png'
     },
     {
-      cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+      cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
       numImg: '../../assets/11.png'
     }
       ]
@@ -6982,7 +7107,7 @@ let juniors = [
           numImg: '../../assets/01.png'
         },
         {
-          cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+          cardImg: '../../assets/cards/energy/fire-energy-teu.png',
           numImg: '../../assets/11.png'
         }
       ]
@@ -7072,7 +7197,7 @@ let juniors = [
           numImg: '../../assets/01.png'
         },
         {
-          cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+          cardImg: '../../assets/cards/energy/fire-energy-teu.png',
           numImg: '../../assets/11.png'
         }
       ]
@@ -7178,11 +7303,11 @@ let juniors = [
           numImg: '../../assets/04.png'
         },
         {
-          cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+          cardImg: '../../assets/cards/energy/fire-energy-teu.png',
           numImg: '../../assets/08.png'
         },
         {
-          cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+          cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
           numImg: '../../assets/04.png'
         }
       ]
@@ -7288,7 +7413,7 @@ let juniors = [
       numImg: '../../assets/01.png'
     },
     {
-      cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+      cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
       numImg: '../../assets/11.png'
     }
       ]
@@ -7399,7 +7524,7 @@ let juniors = [
       numImg: '../../assets/01.png'
     },
     {
-      cardImg: '../../assets/cards/2019-2020/energy-lightning.png',
+      cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
       numImg: '../../assets/11.png'
     }
       ]
@@ -7505,7 +7630,7 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-water.png',
+        cardImg: '../../assets/cards/energy/water-energy-teu.png',
         numImg: '../../assets/10.png'
       },
     ]
@@ -7635,11 +7760,11 @@ let juniors = [
             numImg: '../../assets/01.png'
           },
         {
-          cardImg: '../../assets/cards/2019-2020/energy-fire.png',
+          cardImg: '../../assets/cards/energy/fire-energy-teu.png',
           numImg: '../../assets/08.png'
         },
         {
-          cardImg: '../../assets/cards/2019-2020/energy-psychic.png',
+          cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
           numImg: '../../assets/04.png'
         }
       ]
