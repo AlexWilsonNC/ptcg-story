@@ -1503,9 +1503,229 @@ let sixEvent = [
 
 let sevenEvent = [
     {
-        firstName: 'eeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
+        firstName: 'Yacine Sekkoum',
+        sprite1: '../../assets/sprites/vileplume.png',
+        sprite2: '../../assets/sprites/gengar.png',
+        list: '../../assets/list-icon.png',
+        // list: '../../assets/sprites/blank.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Karl Blake',
+        sprite1: '../../assets/sprites/luxray.png',
+        sprite2: '../../assets/sprites/garchomp.png',
+        list: '../../assets/list-icon.png',
+        // list: '../../assets/sprites/blank.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Tom Hall',
+        sprite1: '../../assets/sprites/sableye.png',
+        sprite2: '../../assets/sprites/garchomp.png',
+        list: '../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012/sableye.jpg',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/garchomp-lvx.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/garchomp-c.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/blaziken-lvx.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/blaziken.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/honchkrow-ability.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/murkrow.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/uxie-lvx.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/uxie.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/dragonite.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/chatot.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/crobat.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/unown-quick.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/cyrus-conspiracy.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/poke-collector.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/cyrus-initiative.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/judge-hgss.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/bebes-search.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/aarons-collection.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/poke-turn.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/power-spray.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/sp-radar.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/pokemon-communication-hgss.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/energy-gain.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/hgss-energy-dark.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/hgss-energy-psychic.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/darkness-energy-hgss.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Ben S-Armstead',
+        sprite1: '../../assets/sprites/sableye.png',
+        sprite2: '../../assets/sprites/garchomp.png',
+        list: '../../assets/list-icon.png',
+        // list: '../../assets/sprites/blank.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Dave Martin',
+        sprite1: '../../assets/sprites/vileplume.png',
+        sprite2: '../../assets/sprites/gengar.png',
+        list: '../../assets/list-icon.png',
+        // list: '../../assets/sprites/blank.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Tamao Cameron',
+        sprite1: '../../assets/sprites/vileplume.png',
+        sprite2: '../../assets/sprites/gengar.png',
+        list: '../../assets/list-icon.png',
+        // list: '../../assets/sprites/blank.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Nitish Doolub',
+        sprite1: '../../assets/sprites/dialga.png',
+        sprite2: '../../assets/sprites/garchomp.png',
+        list: '../../assets/list-icon.png',
+        // list: '../../assets/sprites/blank.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: '--',
+        sprite1: '../../assets/sprites/vileplume.png',
+        sprite2: '../../assets/sprites/gengar.png',
         list: '../../assets/list-icon.png',
         // list: '../../assets/sprites/blank.png',
         list: '../../assets/sprites/blank.png',
