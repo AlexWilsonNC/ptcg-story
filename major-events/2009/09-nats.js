@@ -1,7 +1,7 @@
 const masterList = document.querySelector('.uk-masters-ol');
 const seniorList = document.querySelector('.uk-seniors-ol');
 const juniorList = document.querySelector('.uk-juniors-ol');
-const fourList = document.querySelector('.four-ol');
+const tenList = document.querySelector('.ten-ol');
 const fiveList = document.querySelector('.five-ol');
 const sixList = document.querySelector('.six-ol');
 const sevenList = document.querySelector('.seven-ol');
@@ -823,11 +823,195 @@ let juniors = [
     },
 ]
 
-let fourEvent = [
+let tenEvent = [
     {
-        firstName: 'eeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
+        firstName: 'Tom Zhan',
+        sprite1: '../../assets/sprites/azelf.png',
+        sprite2: '../../assets/sprites/mesprit.png',
+        // list: '../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2008-2010',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Jonas Prohaska',
+        sprite1: '../../assets/sprites/dialga.png',
+        sprite2: '../../assets/sprites/mewtwo.png',
+        // list: '../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2008-2010',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Luca Schuster',
+        sprite1: '../../assets/sprites/leafeon.png',
+        sprite2: '../../assets/sprites/glaceon.png',
+        list: '../../assets/list-icon.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2007-2008/leafeon-lvx.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/rr.045.leafeon.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/glaceon-lvx.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/glaceon.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/md.020.glaceon.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/md.034.vaporeon.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/eevee-flowers.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/sf.032.bibarel.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/sf.054.bidoof.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/sw.073.venomoth.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/sw.116.venonat.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/unown-guard.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/md.013.rotom_.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/roseannes-research.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/bebes-search.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/cynthias-feelings.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/ar.090.professor_oaks_visit.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/bucks-training.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/premier-ball.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/warp-point.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/switch-2007.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/pl.107.level_max.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/md.079.dawn_stadium.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/energy/grass-energy-capsule.png',
+                numImg: '../../assets/07.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/water-energy-capsule.png',
+                numImg: '../../assets/07.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/call-energy.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/warp_energy.jpg',
+                numImg: '../../assets/01.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Fillip Lausch',
+        sprite1: '../../assets/sprites/darkrai.png',
+        sprite2: '../../assets/sprites/venomoth.png',
+        // list: '../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2008-2010',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Samuel ',
+        sprite1: '../../assets/sprites/gliscor.png',
+        sprite2: '../../assets/sprites/rampardos.png',
+        // list: '../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2008-2010',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Patrick Li',
+        sprite1: '../../assets/sprites/giratina-origin.png',
+        sprite2: '../../assets/sprites/leafeon.png',
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
@@ -1353,7 +1537,7 @@ function displayList3(array = []) {
 
 // four
 function displayList4(array = []) {
-    fourList.innerHTML = '';
+    tenList.innerHTML = '';
 
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
@@ -1395,7 +1579,7 @@ function displayList4(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2011 Germany Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2009 Austria Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
@@ -1487,7 +1671,7 @@ function displayList4(array = []) {
             })
         }
 
-        fourList.appendChild(item_element);
+        tenList.appendChild(item_element);
     }
 }
 
@@ -2198,7 +2382,7 @@ const behind = document.querySelector('.behind-modal');
 displayList(masters);
 displayList2(seniors);
 displayList3(juniors);
-displayList4(fourEvent);
+displayList4(tenEvent);
 displayList5(fiveEvent);
 displayList6(sixEvent);
 displayList7(sevenEvent);
