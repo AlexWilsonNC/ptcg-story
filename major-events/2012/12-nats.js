@@ -1,7 +1,7 @@
 const masterList = document.querySelector('.uk-masters-ol');
 const seniorList = document.querySelector('.uk-seniors-ol');
 const juniorList = document.querySelector('.uk-juniors-ol');
-const fourList = document.querySelector('.four-ol');
+const tenList = document.querySelector('.ten-ol');
 const fiveList = document.querySelector('.five-ol');
 const sixList = document.querySelector('.six-ol');
 const sevenList = document.querySelector('.seven-ol');
@@ -755,11 +755,152 @@ let juniors = [
     },
 ]
 
-let fourEvent = [
+let tenEvent = [
     {
-        firstName: 'eeeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
+        firstName: 'Kevin N',
+        sprite1: '../../assets/sprites/zekrom.png',
+        sprite2: '../../assets/sprites/machamp.png',
+        list: '../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012/zekrom-ex.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/zekrom.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/machamp-prime.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/machamp.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/machoke.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/machop.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/lucario-nxd.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/riolu.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/terrakion-nvi.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/mewtwo-ex.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/regigigas-ex.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/tornadus.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pont.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/team-rockets-trickery.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/interviewers-question.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/cilan.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pokemon-catcher.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/switch-bw.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/energy-switch-bw.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/alph-lithograph-hgss.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
+                numImg: '../../assets/08.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/bw-energy-fighting.png',
+                numImg: '../../assets/07.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/dce-bw.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/prism-energy.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/rescue-energy.png',
+                numImg: '../../assets/01.png',
+            },
+        ]
+    },
+    {
+        firstName: 'Simon Z',
+        sprite1: '../../assets/sprites/durant.png',
+        sprite2: '../../assets/sprites/blank.png',
+        // list: '../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png',
+            },
+        ]
+    },
+    {
+        firstName: 'Patrick L',
+        sprite1: '../../assets/sprites/zekrom.png',
+        sprite2: '../../assets/sprites/eelektrik.png',
+        // list: '../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png',
+            },
+        ]
+    },
+    {
+        firstName: 'Alexander P',
+        sprite1: '../../assets/sprites/zekrom.png',
+        sprite2: '../../assets/sprites/eelektrik.png',
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'normal',
@@ -774,9 +915,126 @@ let fourEvent = [
 
 let fiveEvent = [
     {
-        firstName: 'eeeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
+        firstName: 'Stefan W',
+        sprite1: '../../assets/sprites/terrakion.png',
+        sprite2: '../../assets/sprites/landorus.png',
+        list: '../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012/terrakion-nvi.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/landorus.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/smeargle.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/shaymin.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/tyrogue-col.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pont.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/n-bw.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/black-belt.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/dual-ball.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/junk-arm.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/lost-remover.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/switch-bw.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pluspower.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/super-rod-bw.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/eviolite.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/exp-share.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/bw-energy-fighting.png',
+                numImg: '../../assets/11.png',
+            },
+        ]
+    },
+    {
+        firstName: 'Samuel Z',
+        sprite1: '../../assets/sprites/reshiram.png',
+        sprite2: '../../assets/sprites/typhlosion.png',
+        // list: '../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png',
+            },
+        ]
+    },
+    {
+        firstName: 'Matthias M',
+        sprite1: '../../assets/sprites/mew.png',
+        sprite2: '../../assets/sprites/yanmega.png',
+        // list: '../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png',
+            },
+        ]
+    },
+    {
+        firstName: 'Daniel C',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/sprites/durant.png',
         // list: '../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
         type: 'normal',
@@ -791,16 +1049,143 @@ let fiveEvent = [
 
 let sixEvent = [
     {
-        firstName: 'eeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
+        firstName: 'Andreas S',
+        sprite1: '../../assets/sprites/celebi.png',
+        sprite2: '../../assets/sprites/mewtwo.png',
+        list: '../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012/celebi-prime.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/terrakion-nvi.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/mewtwo-ex.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/tornadus.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/regigigas-ex.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/shaymin-ex-nxd.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/smeargle.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pont.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/n-bw.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/cilan.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/junk-arm.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pokemon-catcher.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/dual-ball.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/switch-bw.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/revive.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/super-rod-bw.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/eviolite.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/skyarrow-bridge.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/bw-energy-grass.png',
+                numImg: '../../assets/07.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/bw-energy-fighting.png',
+                numImg: '../../assets/05.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/dce-bw.png',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Daniel F',
+        sprite1: '../../assets/sprites/zekrom.png',
+        sprite2: '../../assets/sprites/eelektrik.png',
         list: '../../assets/list-icon.png',
         // list: '../../assets/sprites/blank.png',
         list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
             {
-                cardImg: '../../assets/cards/2014-2016',
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Lukas P',
+        sprite1: '../../assets/sprites/zekrom.png',
+        sprite2: '../../assets/sprites/eelektrik.png',
+        list: '../../assets/list-icon.png',
+        // list: '../../assets/sprites/blank.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Alexander M',
+        sprite1: '../../assets/sprites/reshiram.png',
+        sprite2: '../../assets/sprites/typhlosion.png',
+        list: '../../assets/list-icon.png',
+        // list: '../../assets/sprites/blank.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -818,7 +1203,7 @@ let sevenEvent = [
         type: 'normal',
         deck: [
             {
-                cardImg: '../../assets/cards/2014-2016',
+                cardImg: '../../assets/cards/2010-2012',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -836,7 +1221,7 @@ let eightEvent = [
         type: 'normal',
         deck: [
             {
-                cardImg: '../../assets/cards/2014-2016',
+                cardImg: '../../assets/cards/2010-2012',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -854,7 +1239,7 @@ let nineEvent = [
         type: 'normal',
         deck: [
             {
-                cardImg: '../../assets/cards/2014-2016',
+                cardImg: '../../assets/cards/2010-2012',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -1279,9 +1664,9 @@ function displayList3(array = []) {
     }
 }
 
-// four
+// ten
 function displayList4(array = []) {
-    fourList.innerHTML = '';
+    tenList.innerHTML = '';
 
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
@@ -1323,7 +1708,7 @@ function displayList4(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2013 France Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2012 Austria Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
@@ -1415,7 +1800,7 @@ function displayList4(array = []) {
             })
         }
 
-        fourList.appendChild(item_element);
+        tenList.appendChild(item_element);
     }
 }
 
@@ -1463,7 +1848,7 @@ function displayList5(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2013 UK Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2012 Austria Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
@@ -1603,7 +1988,7 @@ function displayList6(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Germany Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2012 Austria Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
@@ -2126,7 +2511,7 @@ const behind = document.querySelector('.behind-modal');
 displayList(masters);
 displayList2(seniors);
 displayList3(juniors);
-displayList4(fourEvent);
+displayList4(tenEvent);
 displayList5(fiveEvent);
 displayList6(sixEvent);
 displayList7(sevenEvent);
