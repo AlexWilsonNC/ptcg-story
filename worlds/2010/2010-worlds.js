@@ -579,11 +579,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2008-2010/azelf-downer-aterial.png',
+        cardImg: '../../assets/cards/2008-2010/azelf.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2008-2010/azelf.png',
+        cardImg: '../../assets/cards/2008-2010/azelf-downer-aterial.png',
         numImg: '../../assets/01.png'
       },
       {
