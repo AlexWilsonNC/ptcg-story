@@ -1,5 +1,5 @@
 // fetch('https://api.pokemontcg.io/v2/sets').then(res => { console.log('List of All Sets', res.json()) })
-// fetch('https://api.pokemontcg.io/v2/cards?q=set.id:sv1').then(res => { console.log('Download New Set', res.json()) })
+// fetch('https://api.pokemontcg.io/v2/cards/sv2-279').then(res => { console.log('Download New Set', res.json()) })
 
 // sv2.forEach(cardObject => {
 //     delete cardObject.tcgplayer;

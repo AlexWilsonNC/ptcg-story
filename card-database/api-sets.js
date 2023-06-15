@@ -18700,6 +18700,2785 @@ let sv2 = [
             "small": "https://images.pokemontcg.io/sv2/250.png",
             "large": "https://images.pokemontcg.io/sv2/250_hires.png"
         }
+    },
+    {
+        "id": "sv2-251",
+        "name": "Falkner",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Draw 2 cards. If you have a Stadium in play, draw 2 more cards.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "251",
+        "artist": "Ryuta Fuse",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/251.png",
+            "large": "https://images.pokemontcg.io/sv2/251_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-251",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 1.39,
+                    "mid": 2.89,
+                    "high": 16.01,
+                    "market": 1.95,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-251",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 7.46,
+                "lowPrice": 4.95,
+                "trendPrice": 6.46,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 4.95,
+                "avg1": 8,
+                "avg7": 7.51,
+                "avg30": 7.51,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-252",
+        "name": "Giacomo",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Discard a Special Energy from each of your opponent's Pokémon.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "252",
+        "artist": "kantaro",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/252.png",
+            "large": "https://images.pokemontcg.io/sv2/252_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-252",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 2.25,
+                    "mid": 3.5,
+                    "high": 16.91,
+                    "market": 2.63,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-252",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 10.8,
+                "lowPrice": 6,
+                "trendPrice": 12.44,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 6,
+                "avg1": 10.63,
+                "avg7": 12.32,
+                "avg30": 12.32,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-253",
+        "name": "Grusha",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Draw cards until you have 5 cards in your hand. If none of your Pokémon have any Energy attached, draw cards until you have 7 cards in your hand instead.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "253",
+        "artist": "GIDORA",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/253.png",
+            "large": "https://images.pokemontcg.io/sv2/253_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-253",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 4.74,
+                    "mid": 6.85,
+                    "high": 28,
+                    "market": 5.71,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-253",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 10.09,
+                "lowPrice": 6,
+                "trendPrice": 7.73,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 6.25,
+                "avg1": 9.64,
+                "avg7": 10.2,
+                "avg30": 10.78,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-254",
+        "name": "Iono",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "254",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/254.png",
+            "large": "https://images.pokemontcg.io/sv2/254_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-254",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 42.53,
+                    "mid": 50,
+                    "high": 70,
+                    "market": 47.21,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-254",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 35.61,
+                "lowPrice": 26,
+                "trendPrice": 28.27,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 26,
+                "avg1": 31.76,
+                "avg7": 33.69,
+                "avg30": 36.63,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-255",
+        "name": "Saguaro",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Choose up to 2 of your Pokémon and heal 50 damage from each of them.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "255",
+        "artist": "nagimiso",
+        "rarity": "Ultra Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/255.png",
+            "large": "https://images.pokemontcg.io/sv2/255_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-255",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 1.25,
+                    "mid": 2.48,
+                    "high": 9,
+                    "market": 1.85,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-255",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 5.76,
+                "lowPrice": 2.74,
+                "trendPrice": 5.29,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 2.75,
+                "avg1": 5.49,
+                "avg7": 7.59,
+                "avg30": 7.59,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-256",
+        "name": "Meowscarada ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "310",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Floragato",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Bouquet Magic",
+                "text": "You must discard a Basic Grass Energy card from your hand in order to use this Ability. Once during your turn, you may put 3 damage counters on 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Scratching Nails",
+                "damage": "100+",
+                "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 120 more damage.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "256",
+        "artist": "Kouki Saitou",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            908
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/256.png",
+            "large": "https://images.pokemontcg.io/sv2/256_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-256",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 18.5,
+                    "mid": 21.99,
+                    "high": 39.96,
+                    "market": 19.58,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-256",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 30.6,
+                "lowPrice": 25,
+                "trendPrice": 29.02,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 25,
+                "avg1": 28.01,
+                "avg7": 30.03,
+                "avg30": 31.15,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-257",
+        "name": "Wo-Chien ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": "230",
+        "types": [
+            "Grass"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Covetous Ivy",
+                "damage": "",
+                "text": "This attack does 60 damage to 1 of your opponent's Benched Pokémon for each Prize card your opponent has taken. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+                "convertedEnergyCost": 3
+            },
+            {
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Forest Blast",
+                "damage": "220",
+                "text": "",
+                "convertedEnergyCost": 4
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "257",
+        "artist": "takuyoa",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            1001
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/257.png",
+            "large": "https://images.pokemontcg.io/sv2/257_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-257",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 13.49,
+                    "mid": 16.5,
+                    "high": 67.32,
+                    "market": 14.77,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-257",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 24.13,
+                "lowPrice": 19.8,
+                "trendPrice": 24.13,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 19.8,
+                "avg1": 24.16,
+                "avg7": 24.09,
+                "avg30": 24.09,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-258",
+        "name": "Skeledirge ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "340",
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Crocalor",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Vitality Song",
+                "damage": "50",
+                "text": "Heal 30 damage from each of your Pokémon.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Burning Voice",
+                "damage": "270-",
+                "text": "This attack does 10 less damage for each damage counter on this Pokémon.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "258",
+        "artist": "kantaro",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            911
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/258.png",
+            "large": "https://images.pokemontcg.io/sv2/258_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-258",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 16,
+                    "mid": 18.87,
+                    "high": 45.7,
+                    "market": 17.09,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-258",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 25.08,
+                "lowPrice": 21,
+                "trendPrice": 27.98,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 21,
+                "avg1": 27.72,
+                "avg7": 26.41,
+                "avg30": 26.41,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-259",
+        "name": "Chi-Yu ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": "190",
+        "types": [
+            "Fire"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Jealously Singe",
+                "damage": "",
+                "text": "Discard the top 2 cards of your opponent's deck.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Flame Surge",
+                "damage": "100",
+                "text": "Choose up to 3 of your Benched Pokémon. For each of those Pokémon, search your deck for a Basic Fire Energy card and attach it to that Pokémon. Then, shuffle your deck.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "259",
+        "artist": "AKIRA EGAWA",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            1004
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/259.png",
+            "large": "https://images.pokemontcg.io/sv2/259_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-259",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 17,
+                    "mid": 19.79,
+                    "high": 34.95,
+                    "market": 18.42,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-259",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 26,
+                "lowPrice": 19.71,
+                "trendPrice": 20.24,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 19.71,
+                "avg1": 24.32,
+                "avg7": 26.44,
+                "avg30": 26.44,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-260",
+        "name": "Quaquaval ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "320",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Quaxwell",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Exciting Dance",
+                "damage": "60",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon. If you do, switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Spiral Shot",
+                "damage": "230",
+                "text": "Put 2 Energy attached to this Pokémon into your hand.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "260",
+        "artist": "Souichirou Gunjima",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            914
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/260.png",
+            "large": "https://images.pokemontcg.io/sv2/260_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-260",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 8.4,
+                    "mid": 11.19,
+                    "high": 99.99,
+                    "market": 9.72,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-260",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 15.93,
+                "lowPrice": 13,
+                "trendPrice": 10.84,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 13,
+                "avg1": 15.19,
+                "avg7": 16.57,
+                "avg30": 16.57,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-261",
+        "name": "Chien-Pao ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": "220",
+        "types": [
+            "Water"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Shivery Chill",
+                "text": "Once during your turn, if this Pokémon is in the Active Spot, you may search your deck for up to 2 Basic Water Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "name": "Hail Blade",
+                "damage": "60×",
+                "text": "You may discard any amount of Water Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "261",
+        "artist": "kodama",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            1002
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/261.png",
+            "large": "https://images.pokemontcg.io/sv2/261_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-261",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 36,
+                    "mid": 41.4,
+                    "high": 80,
+                    "market": 39.54,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-261",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 42.64,
+                "lowPrice": 30,
+                "trendPrice": 39.4,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 36,
+                "avg1": 40.18,
+                "avg7": 41.81,
+                "avg30": 41.81,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-262",
+        "name": "Tinkaton ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "300",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Tinkatuff",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Big Hammer",
+                "damage": "30×",
+                "text": "This attack does 30 damage for each card in your hand.",
+                "convertedEnergyCost": 2
+            },
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Pulverizing Press",
+                "damage": "140",
+                "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "262",
+        "artist": "Tika Matsuno",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            959
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/262.png",
+            "large": "https://images.pokemontcg.io/sv2/262_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-262",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 15.99,
+                    "mid": 18.99,
+                    "high": 63.55,
+                    "market": 17.33,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-262",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 22.87,
+                "lowPrice": 18.5,
+                "trendPrice": 23.01,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 18.5,
+                "avg1": 23.02,
+                "avg7": 22.69,
+                "avg30": 22.69,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-263",
+        "name": "Ting-Lu ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": "240",
+        "types": [
+            "Fighting"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Cursed Land",
+                "text": "As long as this Pokémon is in the Active Spot, your opponent's Pokémon in play that have any damage counters on them have no Abilities, except for Pokémon ex."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Land Scoop",
+                "damage": "150",
+                "text": "Put 2 damage counters on 1 of your opponent's Benched Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "263",
+        "artist": "KEIICHIRO ITO",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            1003
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/263.png",
+            "large": "https://images.pokemontcg.io/sv2/263_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-263",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 14.39,
+                    "mid": 16.74,
+                    "high": 29.99,
+                    "market": 15.33,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-263",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 21.14,
+                "lowPrice": 17.5,
+                "trendPrice": 21.5,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 17.5,
+                "avg1": 21.7,
+                "avg7": 22.68,
+                "avg30": 22.68,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-264",
+        "name": "Squawkabilly ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": "160",
+        "types": [
+            "Colorless"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Squawk and Seize",
+                "text": "Once during your first turn, you may discard your hand and draw 6 cards. You can't use more than 1 Squawk and Seize Ability during your turn."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Motivate",
+                "damage": "20",
+                "text": "Attach up to 2 Basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+                "convertedEnergyCost": 1
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "264",
+        "artist": "Amelicart",
+        "rarity": "Special Illustration Rare",
+        "nationalPokedexNumbers": [
+            931
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/264.png",
+            "large": "https://images.pokemontcg.io/sv2/264_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-264",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 13.7,
+                    "mid": 15.99,
+                    "high": 29.98,
+                    "market": 15.21,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-264",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 20.87,
+                "lowPrice": 14.97,
+                "trendPrice": 17.5,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 14.97,
+                "avg1": 18.4,
+                "avg7": 20.94,
+                "avg30": 20.94,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-265",
+        "name": "Boss’s Orders (Ghetsis)",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "265",
+        "artist": "hncl",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/265.png",
+            "large": "https://images.pokemontcg.io/sv2/265_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-265",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 19.95,
+                    "mid": 22.5,
+                    "high": 40,
+                    "market": 21,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-265",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 25.57,
+                "lowPrice": 18,
+                "trendPrice": 21.59,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 18,
+                "avg1": 22.08,
+                "avg7": 26.27,
+                "avg30": 26.27,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-266",
+        "name": "Dendra",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Put a card from your hand on the bottom of your deck. If you do, draw cards until you have 5 cards in your hand. (If you have no other cards in your hand, you can't use this card.)",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "266",
+        "artist": "GIDORA",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/266.png",
+            "large": "https://images.pokemontcg.io/sv2/266_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-266",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 23.19,
+                    "mid": 27.49,
+                    "high": 110,
+                    "market": 25.22,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-266",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 29.13,
+                "lowPrice": 24.99,
+                "trendPrice": 25.77,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 24.99,
+                "avg1": 30.3,
+                "avg7": 30.26,
+                "avg30": 30.26,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-267",
+        "name": "Giacomo",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Discard a Special Energy from each of your opponent's Pokémon.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "267",
+        "artist": "KIYOTAKA OSHIYAMA",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/267.png",
+            "large": "https://images.pokemontcg.io/sv2/267_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-267",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 5.25,
+                    "mid": 9,
+                    "high": 350,
+                    "market": 6.65,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-267",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 19.35,
+                "lowPrice": 10,
+                "trendPrice": 16.41,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 10,
+                "avg1": 17,
+                "avg7": 23.04,
+                "avg30": 23.04,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-268",
+        "name": "Grusha",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Draw cards until you have 5 cards in your hand. If none of your Pokémon have any Energy attached, draw cards until you have 7 cards in your hand instead.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "268",
+        "artist": "DOM",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/268.png",
+            "large": "https://images.pokemontcg.io/sv2/268_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-268",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 18.99,
+                    "mid": 21.5,
+                    "high": 99.69,
+                    "market": 19.82,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-268",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 35.71,
+                "lowPrice": 27,
+                "trendPrice": 34.92,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 27,
+                "avg1": 32.87,
+                "avg7": 37.93,
+                "avg30": 37.93,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-269",
+        "name": "Iono",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "269",
+        "artist": "kirisAki",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/269.png",
+            "large": "https://images.pokemontcg.io/sv2/269_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-269",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 156.54,
+                    "mid": 172.5,
+                    "high": 1000,
+                    "market": 156.9,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-269",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 92.38,
+                "lowPrice": 70,
+                "trendPrice": 85.3,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 70,
+                "avg1": 90.28,
+                "avg7": 93.22,
+                "avg30": 93.22,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-270",
+        "name": "Saguaro",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Supporter"
+        ],
+        "rules": [
+            "Choose up to 2 of your Pokémon and heal 50 damage from each of them.",
+            "You may play only 1 Supporter card during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "270",
+        "artist": "Sanosuke Sakuma",
+        "rarity": "Special Illustration Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/270.png",
+            "large": "https://images.pokemontcg.io/sv2/270_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-270",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 6,
+                    "mid": 7.41,
+                    "high": 16.99,
+                    "market": 6.9,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-270",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 14.25,
+                "lowPrice": 10.5,
+                "trendPrice": 11.81,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 10.5,
+                "avg1": 11.88,
+                "avg7": 14.14,
+                "avg30": 14.14,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-271",
+        "name": "Meowscarada ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "310",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Floragato",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Bouquet Magic",
+                "text": "You must discard a Basic Grass Energy card from your hand in order to use this Ability. Once during your turn, you may put 3 damage counters on 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Scratching Nails",
+                "damage": "100+",
+                "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 120 more damage.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "271",
+        "artist": "5ban Graphics",
+        "rarity": "Hyper Rare",
+        "nationalPokedexNumbers": [
+            908
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/271.png",
+            "large": "https://images.pokemontcg.io/sv2/271_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-271",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 6.4,
+                    "mid": 9.11,
+                    "high": 35,
+                    "market": 7.44,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-271",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 26.99,
+                "lowPrice": 15,
+                "trendPrice": 24.11,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 16.95,
+                "avg1": 22.5,
+                "avg7": 28.19,
+                "avg30": 28.19,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-272",
+        "name": "Skeledirge ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "340",
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Crocalor",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Vitality Song",
+                "damage": "50",
+                "text": "Heal 30 damage from each of your Pokémon.",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Burning Voice",
+                "damage": "270-",
+                "text": "This attack does 10 less damage for each damage counter on this Pokémon.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "272",
+        "artist": "5ban Graphics",
+        "rarity": "Hyper Rare",
+        "nationalPokedexNumbers": [
+            911
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/272.png",
+            "large": "https://images.pokemontcg.io/sv2/272_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-272",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 6.73,
+                    "mid": 9.03,
+                    "high": 24.97,
+                    "market": 7.79,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-272",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 14.96,
+                "lowPrice": 12,
+                "trendPrice": 19.85,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 12.75,
+                "avg1": 22,
+                "avg7": 15.94,
+                "avg30": 15.94,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-273",
+        "name": "Quaquaval ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "ex"
+        ],
+        "hp": "320",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Quaxwell",
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Exciting Dance",
+                "damage": "60",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon. If you do, switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+                "convertedEnergyCost": 1
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Spiral Shot",
+                "damage": "230",
+                "text": "Put 2 Energy attached to this Pokémon into your hand.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "273",
+        "artist": "5ban Graphics",
+        "rarity": "Hyper Rare",
+        "nationalPokedexNumbers": [
+            914
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/273.png",
+            "large": "https://images.pokemontcg.io/sv2/273_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-273",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 3.26,
+                    "mid": 6.49,
+                    "high": 39.99,
+                    "market": 5.27,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-273",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 13.46,
+                "lowPrice": 9.5,
+                "trendPrice": 15.65,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 9.5,
+                "avg1": 16.88,
+                "avg7": 15.2,
+                "avg30": 15.2,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-274",
+        "name": "Chien-Pao ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": "220",
+        "types": [
+            "Water"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Shivery Chill",
+                "text": "Once during your turn, if this Pokémon is in the Active Spot, you may search your deck for up to 2 Basic Water Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "name": "Hail Blade",
+                "damage": "60×",
+                "text": "You may discard any amount of Water Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way.",
+                "convertedEnergyCost": 2
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "274",
+        "artist": "aky CG Works",
+        "rarity": "Hyper Rare",
+        "nationalPokedexNumbers": [
+            1002
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/274.png",
+            "large": "https://images.pokemontcg.io/sv2/274_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-274",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 15.07,
+                    "mid": 18,
+                    "high": 44.95,
+                    "market": 17.14,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-274",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 18.4,
+                "lowPrice": 16.95,
+                "trendPrice": 16.59,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 16.95,
+                "avg1": 18.29,
+                "avg7": 18.46,
+                "avg30": 18.46,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-275",
+        "name": "Ting-Lu ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex"
+        ],
+        "hp": "240",
+        "types": [
+            "Fighting"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "type": "Ability",
+                "name": "Cursed Land",
+                "text": "As long as this Pokémon is in the Active Spot, your opponent's Pokémon in play that have any damage counters on them have no Abilities, except for Pokémon ex."
+            }
+        ],
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Land Scoop",
+                "damage": "150",
+                "text": "Put 2 damage counters on 1 of your opponent's Benched Pokémon.",
+                "convertedEnergyCost": 3
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "275",
+        "artist": "5ban Graphics",
+        "rarity": "Hyper Rare",
+        "nationalPokedexNumbers": [
+            1003
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/275.png",
+            "large": "https://images.pokemontcg.io/sv2/275_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-275",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 5.01,
+                    "mid": 7.01,
+                    "high": 14.99,
+                    "market": 5.81,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-275",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 11.82,
+                "lowPrice": 8,
+                "trendPrice": 10.07,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 8,
+                "avg1": 10.52,
+                "avg7": 12.48,
+                "avg30": 12.48,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-276",
+        "name": "Super Rod",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "rules": [
+            "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck.",
+            "You may play any number of Item cards during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "276",
+        "artist": "Toyste Beach",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/276.png",
+            "large": "https://images.pokemontcg.io/sv2/276_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-276",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 14.01,
+                    "mid": 16.95,
+                    "high": 39.99,
+                    "market": 14.89,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-276",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 17.44,
+                "lowPrice": 13,
+                "trendPrice": 17.33,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 13,
+                "avg1": 17.51,
+                "avg7": 17.81,
+                "avg30": 17.81,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-277",
+        "name": "Superior Energy Retrieval",
+        "supertype": "Trainer",
+        "subtypes": [
+            "Item"
+        ],
+        "rules": [
+            "You can use this card only if you discard 2 other cards from your hand.Put up to 4 Basic Energy cards from your discard pile into your hand. (You can't choose a card you discarded with the effect of this card.)",
+            "You may play any number of Item cards during your turn."
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "277",
+        "artist": "Studio Bora Inc.",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/277.png",
+            "large": "https://images.pokemontcg.io/sv2/277_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-277",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 9.5,
+                    "mid": 10.99,
+                    "high": 28.8,
+                    "market": 10.61,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-277",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 13.21,
+                "lowPrice": 9.9,
+                "trendPrice": 11.19,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 9.9,
+                "avg1": 10.32,
+                "avg7": 13.37,
+                "avg30": 13.37,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-278",
+        "name": "Basic Grass Energy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "278",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/278.png",
+            "large": "https://images.pokemontcg.io/sv2/278_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-278",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 4.69,
+                    "mid": 7,
+                    "high": 14.97,
+                    "market": 5.82,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-278",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 9.35,
+                "lowPrice": 6.8,
+                "trendPrice": 8.89,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 6.8,
+                "avg1": 8,
+                "avg7": 9.37,
+                "avg30": 9.37,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "sv2-279",
+        "name": "Basic Water Energy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "set": {
+            "id": "sv2",
+            "name": "Paldea Evolved",
+            "series": "Scarlet & Violet",
+            "printedTotal": 193,
+            "total": 279,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "releaseDate": "2023/06/09",
+            "updatedAt": "2023/06/09 15:00:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+                "logo": "https://images.pokemontcg.io/sv2/logo.png"
+            }
+        },
+        "number": "279",
+        "rarity": "Hyper Rare",
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "images": {
+            "small": "https://images.pokemontcg.io/sv2/279.png",
+            "large": "https://images.pokemontcg.io/sv2/279_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/sv2-279",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "holofoil": {
+                    "low": 9.69,
+                    "mid": 11.51,
+                    "high": 24.97,
+                    "market": 11.04,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/sv2-279",
+            "updatedAt": "2023/06/14",
+            "prices": {
+                "averageSellPrice": 10.36,
+                "lowPrice": 7,
+                "trendPrice": 11.07,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 7.49,
+                "avg1": 10.93,
+                "avg7": 10.73,
+                "avg30": 10.73,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
     }
 ]
 
