@@ -1,4 +1,5 @@
 // const pokemonCard = [
+//    ...sv2,
 //    ...sv1,
 //    ...promoSv,
 //    ...crownZenith,
