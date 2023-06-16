@@ -4393,7 +4393,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/jynx.png',
+        cardImg: '../../assets/cards/2021-2022/jynx.png',
         numImg: '../../assets/01.png'
       },
       {
