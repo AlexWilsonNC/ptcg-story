@@ -1507,7 +1507,7 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/acro-bike.png',
+        cardImg: '../../../assets/cards/2014-2016/acro-bike.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -3170,7 +3170,7 @@ let juniors = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/acro-bike.png',
+        cardImg: '../../../assets/cards/2014-2016/acro-bike.png',
         numImg: '../../../assets/04.png'
       },
       {
