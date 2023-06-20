@@ -819,15 +819,110 @@ let juniors = [
         firstName: 'Benjamin C',
         sprite1: '../../assets/sprites/kyurem.png',
         sprite2: '../../assets/sprites/deoxys.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
+        list: '../../assets/list-icon.png',
         type: 'normal',
         deck: [
             {
-                cardImg: '../../assets/cards/2014-2016',
-                numImg: '../../assets/04.png'
+              cardImg: '../../assets/cards/2014-2016/kyurem.png',
+              numImg: '../../assets/04.png'
             },
-        ]
+            {
+              cardImg: '../../assets/cards/2014-2016/deoxys-ex.png',
+              numImg: '../../assets/03.png'
+            },
+            {
+              cardImg: '../../assets/cards/2014-2016/thundurus-ex.png',
+              numImg: '../../assets/03.png'
+            },
+            {
+              cardImg: '../../assets/cards/2014-2016/absol-plasma.png',
+              numImg: '../../assets/01.png'
+            },
+            {
+              cardImg: '../../assets/cards/2014-2016/professor-juniper.png',
+              numImg: '../../assets/04.png'
+            },
+            {
+              cardImg: '../../assets/cards/2014-2016/n-dex.png',
+              numImg: '../../assets/04.png'
+            },
+            {
+              cardImg: '../../assets/cards/2014-2016/colress.png',
+              numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
+                numImg: '../../assets/01.png'
+              },
+            {
+                cardImg: '../../assets/cards/2014-2016/shadow-triad.png',
+                numImg: '../../assets/01.png'
+              },
+            {
+              cardImg: '../../assets/cards/2014-2016/dowsing-machine.png',
+              numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/plasma-ball.png',
+                numImg: '../../assets/04.png'
+              },
+            {
+              cardImg: '../../assets/cards/2010-2012/pokemon-catcher.png',
+              numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/colress-machine.png',
+                numImg: '../../assets/04.png'
+              },
+            {
+                cardImg: '../../assets/cards/2014-2016/switch-bw.png',
+                numImg: '../../assets/03.png'
+              },
+            {
+                cardImg: '../../assets/cards/2014-2016/hypnotoxic-laser.png',
+                numImg: '../../assets/03.png'
+              },
+            {
+              cardImg: '../../assets/cards/2014-2016/max-potion-bw.png',
+              numImg: '../../assets/01.png'
+            },
+            {
+              cardImg: '../../assets/cards/2010-2012/enhanced-hammer-bw.png',
+              numImg: '../../assets/01.png'
+            },
+            {
+              cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
+              numImg: '../../assets/01.png'
+            },
+            {
+              cardImg: '../../assets/cards/2014-2016/virbank-city-gym.png',
+              numImg: '../../assets/01.png'
+            },
+            {
+              cardImg: '../../assets/cards/2014-2016/frozen-city.png',
+              numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/bw-energy-water.png',
+                numImg: '../../assets/02.png'
+              },
+            {
+                cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
+                numImg: '../../assets/01.png'
+              },
+            {
+              cardImg: '../../assets/cards/energy/energy-plasma.png',
+              numImg: '../../assets/04.png'
+            },
+            {
+              cardImg: '../../assets/cards/energy/prism-energy.png',
+              numImg: '../../assets/04.png'
+            },
+            {
+              cardImg: '../../assets/cards/energy/blend-wlmf.png',
+              numImg: '../../assets/01.png'
+            },
+          ]
     },
 ]
 

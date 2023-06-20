@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+
+    <meta property='og:title' content='PTCG Legends'/>
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg'/>
+    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
+    <meta property='og:url' content='www.ptcglegends.com'/>
+    <meta property='og:image:width' content='1200' />
+    <meta property='og:image:height' content='627' />    
+    <title>PTCG Legends | 2023 NAIC</title>
+    <link rel="stylesheet"  href="../../../style.css">
+    <link rel="stylesheet" href="../../../css/worlds.css">
+    <link rel="stylesheet" href="../../../css/era.css">
+    <link rel="stylesheet" href="../../../css/nats.css">
+    <link rel="stylesheet" href="../../../css/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav id="top-nav">
+        <div id="nav-left">
+            <a href="../../../home">
+                <img src="../../../assets/trophy-icon.png" alt="pokeball logo">
+                <h1>PTCG <span class='legends'>Legends</span></h1>
+            </a>
+        </div>
+        <div id="nav-right">
+            <a class="inactive" href="../../../worlds/main">Worlds</a>
+            <a class="active" href="../../../major-events/main">Major Events</a>
+            <a class="inactive" href="../../../decks-by-era/main">Decks by Era</a>
+            <a class="inactive other-tab" href="../../../other/main">Other <i class="fas fa-chevron-down"></i></a>
+        </div>
+    </nav>
+
+    <div class='contain-extra-nav'>
+        <div class='extra-nav'>
+            <a href='./summary' class="active-extra underline">Summary</a>
+            <a href='./results' style='color:rgb(101, 101, 101);pointer-events:none;'>Results</a>
+            <a href='./streams' style='color:rgb(101, 101, 101);pointer-events:none;'>Streams</a>
+            <a href='./pictures' style='color:rgb(101, 101, 101);pointer-events:none;'>Pictures</a>
+        </div>
+    </div>
+
+    <div class='contain-event'>
+         <div id="zoom-card-box"></div>
+        <div class='event-content'>
+            <div class='summary'>
+                <div class='summ-left'>
+
+                    <div class='hidden-top-summ'>
+                        <div class='hidden-img'>
+                            <img class='worlds-logo2' src='../../../assets/nats-logos/internats-logo.png'>
+                            <p>June 30 - July 2, 2023</p>
+                            <p>Columbus, Ohio</p>
+                        </div>
+                    </div>
+                    <!-- <img class='big-pika' src='../../../assets/2023/duraludon-gmax.png' style='margin-top: 15px;'> -->
+                    <!-- <img class='hidden-poke' src='../../../assets/2022/'> -->
+                    <h2>2023 North American International Championships</h2>
+                    <a href='#sets' class='set-btn'>Battle Styles - Paldea Evolved</a>
+                    <hr class='worlds-hr'>
+
+                    <div class='hidden-top-summ'>
+                        <div class='hidden-loc'>
+                            <img class='worlds-loc2' src='../../../assets/nats-logos/2023-naic-loc.jpg'>
+                            <p>Greater Columbus Convention Center</p>
+                            <a href='https://goo.gl/maps/J8MbjE3y2jaMakvk6' target='_'>400 N High St</a>
+                        </div>
+                    </div>
+
+                    <hr class='hidden-hr'>
+
+                    <div class='worlds-paragraph'>
+                        <p>• The 2023 North American International Championships returned to Columbus for a fifth year in a row. It was a three-day event
+                            where anyone was welcome to play. (NOTE: All three waves of this event's online registration capped out within seconds, followed by a forth limited wave letting a few more players into the event just one week prior.)</p>
+                        <p style='margin-top:20px;'>• Day 1 consisted of 9 rounds (Best of 3), in which ___ players competed in Day 1. All players
+                            with 19 match points or more moved on to Day 2. (___ players competed in Day 2) Day 2 consisted of 6
+                            additional rounds of Swiss, resulting in a cut of Top 8. Top 8 & Top 4 matches were played out that night, saving each division's finals for Championship Sunday.</p>
+                    </div>
+
+                    <h4 class='prizing-header hidden-item'>Prizing:</h4>
+                    <div class='hidden-prizing'>
+                        <div class='hidden-prize-left'>
+                            <div class='prize-zone'>
+                                <p>• 1st Place</p>
+                                <p>$10,000</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• 2nd Place</p>
+                                <p>$5,000</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 4</p>
+                                <p>$2,500</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 8</p>
+                                <p>$1,500</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 16</p>
+                                <p>$1,000</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 32</p>
+                                <p>$750</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 64</p>
+                                <p>$500</p>
+                            </div>
+                        </div>
+                        <div class='hidden-prize-right'>
+                            <p class='small-text center italic'>(Top 8 finishers all received a case of 6 Booster
+                                Boxes.)</p>
+                            <p class='small-text center italic'>(Top 16 finishers all received 4 Booster Boxes.)</p>
+                            <p class='small-text center italic'>(Top 32 finishers all received 2 Booster Boxes.)</p>
+                            <p class='small-text center italic'>(Top 64 finishers all received 1 Booster Box.)</p>
+                        </div>
+                    </div>
+
+                    <div class='promo-card hidden-item'>
+                        <h3>Event's Promo Card</h3>
+                        <p>Pending...</p>
+                        <!-- <p>Ultra Ball (English)</p> -->
+                        <!-- <img src='../../../assets/promos/23-NAIC.jpg' class='zoomed'> -->
+                    </div>
+                    <div class='promo-card hidden-item'>
+                        <h3>Distributed Card</h3>
+                        <p class='small-text center italic' style='max-width: 82%;'>(These were online cards given to viewers of the event's stream.)</p>
+                        <p>Iono</p>
+                        <img src='../../../assets/promos/iono.png' class='zoomed'>
+                    </div>
+                    <div class='event-swag hidden-item'>
+                        <h3>Event Swag</h3>
+                        <p>Pending...</p>
+                        <!-- <img src='../../../assets/2023/23NAIC.jpg' class='zoomed'> -->
+                    </div>
+
+
+                    <div class='sets' id='sets'>
+                        <h3 style='margin-top:10px;'>Legal Cards: (E-block - on)</h3>
+                        <p>Sets below contain <span class='italic'>'E-block - on'</span> cards that were legal for this format.</p>
+                        <p style='margin-bottom:10px' class='italic small-text'>(Not all cards and promos in the below sets were legal. ie. Some sets contain rotated D-block cards.)</p>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/sshp-shining-fates-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/sshp-shining-fates.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/ssh5-battle-styles-icon.png' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../../assets/sets/ssh5-battle-styles.png' class='set-logo  '
+                                alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/ssh6-chilling-reign-icon.png' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../../assets/sets/ssh6-chilling-reign.png' class='set-logo  '
+                                alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/ssh7-evolving-skies-icon.webp' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../../assets/sets/ssh7-evolving-skies.png' class='set-logo  '
+                                alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/sshp-celebrations-icon.webp' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/sshp-celebrations.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/ssh8-fusion-strike-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/ssh8-fusion-strike.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/ssh9-brilliant-stars-icon.png' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../../assets/sets/ssh9-brilliant-stars.png' class='set-logo'
+                                alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/ssh10-astral-radiance-icon.png' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../../assets/sets/ssh10-astral-radiance.png'
+                                class='set-logo' alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/pogo-icon.png' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../../assets/sets/pokemon-go.webp'
+                                class='set-logo' alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/ssh12-silver-tempest-icon.webp' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../../assets/sets/ssh12-silver-tempest.png'
+                                class='set-logo' alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/crown-zenith-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/crown-zenith.png'
+                                    class='set-logo' alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/sv1-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/sv1.png'
+                                    class='set-logo' alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/sv2-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/sv2.png'
+                                    class='set-logo' alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <div class='promo-alignment-worlds'>
+                                    <img src='../../../assets/sets/black-star-promo-icon.png' alt='set-icon'>
+                                    <strong class='legal-promos-hgss'>SWSH100 - SWSH305</strong>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <div class='promo-alignment-worlds'>
+                                    <img src='../../../assets/sets/sv-promo-icon.png' alt='set-icon'>
+                                    <strong class='legal-promos-hgss'>SVP001 - SVP027</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr class='hidden-big-hr'>
+
+                    <div class='hidden-cast-box'>
+                        <div class='hidden-cast'>
+                            <h5>TCG Casters:</h5>
+                            <!-- <p>Pending...</p> -->
+                            <div class='top-cast'>
+                                <div class='casters-zone'>
+                                    <img src='../../../assets/people/chip.jpg'>
+                                    <p>Chip Richey</p>
+                                </div>
+                                <div class='casters-zone'>
+                                    <img src='../../../assets/people/jeremy_jallen.jpg'>
+                                    <p>Jeremy Jallen</p>
+                                </div>
+                                <div class='casters-zone'>
+                                    <img src='../../../assets/people/pablo-m.png'>
+                                    <p>Pablo Meza</p>
+                                </div>
+                            </div>
+                            <div class='bottom-cast'>
+                                <div class='casters-zone'>
+                                    <img src='../../../assets/people/adam-w.jpg'>
+                                    <p>Adam Watson</p>
+                                </div>
+                                <div class='casters-zone'>
+                                    <img src='../../../assets/people/bou.png'>
+                                    <p>Shelbie Bou</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr class='hidden-big-hr'>
+
+                    <div class='travel-stipends'>
+                        <h3>Travel Stipends:</h3>
+                        <p class='awardee-paragraph'>Players that earned the most amount of Championship Points between Feb 19 - April 16, 2023 received a travel award to NAIC.</p>
+                        <p class='small-text italic'>(Top 4 Players received their Travel Stipend prior to NAIC.)</p>
+                        <p class='small-text italic'>(Top 16 Players received their $1,000 Travel Stipend after NAIC, but only
+                            if they competed in the event.)</p>
+                        <p class='small-text italic'>(Players that had the same amount of CP as 16th Place also received
+                            a stipend.)</p>
+                            <p class='small-text italic'>(Top 4 players under the age of 18 received $5,000 if IC was outside of their region, $2,500 if in their region.)</p>
+                        <div class='all-stipends'>
+                            <div class='stipeds-left'>
+                                <div class='stipend-rating-zone'>
+                                    <p style='font-weight:bold;'>• US & Canada</p>
+                                    <p>Top 4 players - $2,000</p>
+                                    <p>Top 16 players - $1,000</p>
+                                </div>
+                                <div class='stipend-rating-zone'>
+                                    <p style='font-weight:bold;'>• Europe</p>
+                                    <p>Top 4 players - $3,500</p>
+                                    <p>Top 16 players - $1,000</p>
+                                </div>
+                            </div>
+                            <div class='stipeds-right'>
+                                <div class='stipend-rating-zone'>
+                                    <p style='font-weight:bold;'>• Latin America</p>
+                                    <p>Top 4 players - $3,500</p>
+                                    <p>Top 16 players - $1,000</p>
+                                </div>
+                                <div class='stipend-rating-zone'>
+                                    <p style='font-weight:bold;'>• Oceania</p>
+                                    <p>Top 4 players - $3,500</p>
+                                    <p>Top 16 players - $1,000</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='auto-day2-area2'>
+                        <h3>US & Canada Travel Awardees</h3>
+                        <ol>
+                            <div class='day2-left'>
+                                <li>Alex Schemanske</li>
+                                <li>Aidan Khus</li>
+                                <li>Nicholas Moffitt</li>
+                                <li>Ian Robb</li>
+                                <li>Brandon Salazar</li>
+                                <li>Piper Lepine</li>
+                                <li>Drew Hedrick</li>
+                                <li>Grant Shen</li>
+                                <li>Ciaran Farah</li>
+                            </div>
+                            <div class='day2-right-worlds'>
+                                <li>Gabriel Smart</li>
+                                <li>Eric Rodriguez</li>
+                                <li>Raymond Long</li>
+                                <li>Grant Hays</li>
+                                <li>Andrew Mahone</li>
+                                <li>Regan Retzloff</li> 
+                                <li>Max Johnson</li>
+                                <li>Noah Sawyer</li>
+                                <li>Vaughn O'Brien</li>
+                            </div>
+                        </ol>
+                    </div>
+                    <div class='auto-day2-area2'>
+                        <h3>Europe Travel Awardees</h3>
+                        <ol>
+                            <div class='day2-left'>
+                                <li>Tord Reklev</li>
+                                <li>Pedro Torres</li>
+                                <li>Hermanni Hietalahti</li>
+                                <li>Yoann Barszezak</li>
+                                <li>Ole Stognief</li>
+                                <li>Miłosz Dyrlica</li>
+                                <li>Edwyn Mesman</li>
+                                <li>Paulo Mimoso</li>
+                                <li>Robert Kinbrum</li>
+                                <li>Alessandro Cremascoli</li>
+                            </div>
+                            <div class='day2-right-worlds'>
+                                <li>Nico Alabas</li>
+                                <li>Keau</li>
+                                <li>Tony Yates</li>
+                                <li>Bryan de Vries</li>
+                                <li>Robin Schulz</li>
+                                <li>Fabio Spanò</li>
+                                <li>Ryan Pang</li>
+                                <li>Simone Fiorito</li>
+                                <li>Juho Kallama</li>
+                                <li>Christian Tuomi</li>
+                            </div>
+                        </ol>
+                    </div>
+                    <div class='auto-day2-area2'>
+                        <h3>Latin America Travel Awardees</h3>
+                        <ol>
+                            <div class='day2-left'>
+                                <li>Pablo Meza</li>
+                                <li>Diego Barrera</li>
+                                <li>Murilo Merc</li>
+                                <li>William Azevedo</li>
+                                <li>Pedro Pertusi</li>
+                                <li>Otavio Gouveia</li>
+                                <li>Gustavo Wada</li>
+                                <li>Andres Torres</li>
+                            </div>
+                            <div class='day2-right-worlds'>
+                                <li>Diego Cassiraga</li>
+                                <li>Jonathan Fabrizio B</li>
+                                <li>Dalton Acchetta</li>
+                                <li>Fabrizio Silva</li>
+                                <li>Ian Fukuda</li>
+                                <li>Carlos Astete</li>
+                                <li>Yerco Valencia</li>
+                                <li>Benjamin Ferrel</li>
+                            </div>
+                        </ol>
+                    </div>
+                    <div class='auto-day2-area2'>
+                        <h3>Oceania Travel Awardees</h3>
+                        <ol>
+                            <div class='day2-left'>
+                                <li>Brent Tonisson</li>
+                                <li>Natalie Millar</li>
+                                <li>Derick Dao</li>
+                                <li>James Williams</li>
+                                <li>Jeremy Evans</li>
+                                <li>Jake Lazzari</li>
+                                <li>Matthew Burris</li>
+                                <li>Blake Davies</li>
+                            </div>
+                            <div class='day2-right-worlds'>
+                                <li>BlastoiseBeach</li>
+                                <li>Jeremy Lim</li>
+                                <li>Joko Wong</li>
+                                <li>Mat Masefield</li>
+                                <li>Angus Johnson</li>
+                                <li>Tim Franklin</li>
+                                <li>Courtney Fox</li>
+                                <li>Benjamin Hall</li>
+                            </div>
+                        </ol>
+                    </div>
+                </div>
+                <div class='summ-right'>
+                    <img class='worlds-logo hide-it' src='../../../assets/nats-logos/internats-logo.png'>
+                    <p class='hide-it'>Columbus, Ohio</p>
+                    <p class='hide-it'>June 30 - July 2, 2023</p>
+                    <img class='worlds-loc hide-it' src='../../../assets/nats-logos/2023-naic-loc.jpg'>
+                    <p class='hide-it'>Greater Columbus Convention Center</p>
+                    <a href='https://goo.gl/maps/J8MbjE3y2jaMakvk6' target='_' class='hide-it'>400 N High St</a>
+
+                    <h4 class='prizing-header hide-it'>Prizing:</h4>
+                    <div class='prize-zone hide-it'>
+                        <p>• 1st Place</p>
+                        <p>$10,000</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• 2nd Place</p>
+                        <p>$5,000</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 4</p>
+                        <p>$2,500</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 8</p>
+                        <p>$1,500</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 16</p>
+                        <p>$1,000</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 32</p>
+                        <p>$750</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 64</p>
+                        <p>$500</p>
+                    </div>
+                    <p class='small-text center italic hide-it'>(Top 8 finishers all received a case of 6 Booster
+                        Boxes.)</p>
+                    <p class='small-text center italic hide-it'>(Top 16 finishers all received 4 Booster Boxes.)</p>
+                    <p class='small-text center italic hide-it'>(Top 32 finishers all received 2 Booster Boxes.)</p>
+                    <p class='small-text center italic hide-it'>(Top 64 finishers all received 1 Booster Box.)</p>
+
+                    <div class='promo-card hide-it'>
+                        <h3>Event's Promo Card</h3>
+                        <p>Pending...</p>
+                        <!-- <p>Ultra Ball (English)</p> -->
+                        <!-- <img src='../../../assets/promos/23-NAIC.jpg' class='zoomed'> -->
+                    </div>
+                    <div class='promo-card hide-it'>
+                        <h3>Distributed Card</h3>
+                        <p class='small-text center italic'>(These were online cards given to viewers of the event's stream.)</p>
+                        <p>Iono</p>
+                        <img src='../../../assets/promos/iono.png' class='zoomed'>
+                    </div>
+                    <div class='event-swag hide-it'>
+                        <h3>Event Swag</h3>
+                        <p>Pending...</p>
+                        <!-- <img src='../../../assets/2023/23NAIC.jpg' class='zoomed'> -->
+                    </div>
+
+                    <div class='cast-box'>
+                        <h4 class='prizing-header'>TCG Casters:</h4>
+                        <!-- <p>Pending...</p> -->
+                        <div class='casters-zone'>
+                            <p>Chip Richey</p>
+                            <img src='../../../assets/people/chip.jpg'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>Jeremy Jallen</p>
+                            <img src='../../../assets/people/jeremy_jallen.jpg'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>Pablo Meza</p>
+                            <img src='../../../assets/people/pablo-m.png'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>Adam Watson</p>
+                            <img src='../../../assets/people/adam-w.jpg'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>Shelbie Bou</p>
+                            <img src='../../../assets/people/bou.png'>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class='era-footer'>
+        <div id='foot-top'>
+            <a href="../../../worlds/main">Worlds</a>
+            <a href="../../../major-events/main">Major Events</a>
+            <a href="../../../decks-by-era/main">Decks by Era</a>
+            <a href='../../../contact'>Contact</a>
+        </div>
+        <div class='foot-mid'>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='../../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                <img src='../../../assets/twitter-circle.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                <img src='../../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+        </div>
+        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon Trading Card Game, including card text and images and tournament-related content, are copyrights of The Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast. This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This website is simply a place for Pokémon TCG fans to look back in time at events and results from the greatest game in history!</div>>
+    </footer>
+
+     
+    <script src='../../../zoom.js'></script>
+     
+</body>
+
+</html>
