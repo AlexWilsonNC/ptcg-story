@@ -597,8 +597,8 @@ let seniors = [
   {
     firstName: 'Jimmy O’Brien',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite1: '../../../assets/sprites/steelix.png',
+    sprite2: '../../../assets/sprites/slowking.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -885,8 +885,8 @@ let juniors = [
   {
     firstName: 'Jonathan Brooks',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite1: '../../../assets/sprites/blastoise.png',
+    sprite2: '../../../assets/sprites/steelix.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',

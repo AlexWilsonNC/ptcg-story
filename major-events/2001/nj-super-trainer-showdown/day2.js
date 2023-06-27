@@ -1008,8 +1008,8 @@ let juniors = [
   {
     firstName: 'Jonathan Brooks',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blastoise.png',
+    sprite1: '../../../assets/sprites/blastoise.png',
+    sprite2: '../../../assets/sprites/steelix.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
