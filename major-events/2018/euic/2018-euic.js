@@ -430,11 +430,11 @@ let masters = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/zygarde-gx.png',
+        cardImg: '../../../assets/cards/2014-2016/zygarde-ex.png',
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/zygarde.png',
+        cardImg: '../../../assets/cards/2014-2016/zygarde.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -6035,7 +6035,7 @@ function displayList(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2020 LAIC";
+                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2018 EUIC";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -6164,7 +6164,7 @@ function displayList2(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2020 LAIC";
+                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2018 EUIC";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
@@ -6292,7 +6292,7 @@ function displayList3(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2020 LAIC";
+                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2018 EUIC";
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
