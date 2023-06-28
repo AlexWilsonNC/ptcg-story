@@ -1126,7 +1126,7 @@ let juniors = [
     firstName: 'Stephanie Borchardt',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite2: '../../../assets/sprites/dewgong.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
