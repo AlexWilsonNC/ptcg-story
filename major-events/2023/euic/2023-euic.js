@@ -1106,7 +1106,7 @@ let masters = [
   {
     firstName: 'Tobias Strømdahl',
     flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/inteleon-gmax.png',
+    sprite1: '../../../assets/sprites/inteleon-vmax.png',
     sprite2: '../../../assets/sprites/urshifu-rapid-strike-gmax.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
