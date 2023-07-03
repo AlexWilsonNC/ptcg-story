@@ -1501,7 +1501,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Miloslav Posledni',
+    firstName: 'Miloslav Poslední',
     flag: '../../assets/flags/czech-republic.png',
     record: '5-1-2',
     sprite1: '../../assets/sprites/palkia-origin.png',
