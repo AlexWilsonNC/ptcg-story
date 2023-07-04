@@ -1358,13 +1358,115 @@ let masters = [
     flag: '../../../assets/flags/uk.png',
     sprite1: '../../../assets/sprites/arceus.png',
     sprite2: '../../../assets/sprites/giratina-origin.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2022-2023',
+        cardImg: '../../../assets/cards/2022-2023/arceus-vstar.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/arceus-v.png',
         numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/giratina-vstar.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/giratina-v.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/umbreon-vmax.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/umbreon-v.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/bibarel.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/bidoof-carefree.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/skwovet.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/iono.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/bosss-orders-ghetsis.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/judge-sv.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/professors-research-sada.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/cherens-care.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/ultra-ball-sv.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/nest-ball.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/trekking-shoes-crz.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/escape-rope.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/switch-sv.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/cleansing-gloves.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/path-to-the-peak.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/scvi-grass-energy.jpg',
+        numImg: '../../../assets/03.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/scvi-psychic-energy.jpg',
+        numImg: '../../../assets/03.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/scvi-dark-energy.jpg',
+        numImg: '../../../assets/03.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/double-turbo-energy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/v-guard-energy.png',
+        numImg: '../../../assets/02.png'
       },
     ]
   },
@@ -2032,11 +2134,13 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-grass-energy.jpg',
-        numImg: '../../../assets/04.png'
+        numImg: '../../../assets/04.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-psychic-energy.jpg',
-        numImg: '../../../assets/04.png'
+        numImg: '../../../assets/04.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/double-turbo-energy.png',
@@ -2960,11 +3064,13 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-grass-energy.jpg',
-        numImg: '../../../assets/04.png'
+        numImg: '../../../assets/04.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-psychic-energy.jpg',
-        numImg: '../../../assets/04.png'
+        numImg: '../../../assets/04.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/double-turbo-energy.png',
@@ -3066,11 +3172,13 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-grass-energy.jpg',
-        numImg: '../../../assets/04.png'
+        numImg: '../../../assets/04.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-psychic-energy.jpg',
-        numImg: '../../../assets/04.png'
+        numImg: '../../../assets/04.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/double-turbo-energy.png',
@@ -3610,7 +3718,8 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-psychic-energy.jpg',
-        numImg: '../../../assets/04.png'
+        numImg: '../../../assets/04.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-grass-energy.jpg',
@@ -4194,7 +4303,8 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-psychic-energy.jpg',
-        numImg: '../../../assets/04.png'
+        numImg: '../../../assets/04.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-grass-energy.jpg',
@@ -4705,11 +4815,13 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-grass-energy.jpg',
-        numImg: '../../../assets/04.png'
+        numImg: '../../../assets/04.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-psychic-energy.jpg',
-        numImg: '../../../assets/04.png'
+        numImg: '../../../assets/04.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/double-turbo-energy.png',
