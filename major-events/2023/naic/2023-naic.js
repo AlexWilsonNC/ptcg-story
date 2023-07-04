@@ -3723,11 +3723,13 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-grass-energy.jpg',
-        numImg: '../../../assets/03.png'
+        numImg: '../../../assets/03.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-water-energy.jpg',
-        numImg: '../../../assets/03.png'
+        numImg: '../../../assets/03.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/jet-energy.png',
@@ -4308,11 +4310,13 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-grass-energy.jpg',
-        numImg: '../../../assets/03.png'
+        numImg: '../../../assets/03.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-water-energy.jpg',
-        numImg: '../../../assets/02.png'
+        numImg: '../../../assets/02.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/jet-energy.png',
