@@ -5727,11 +5727,13 @@ let juniors = [
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-grass-energy.jpg',
-        numImg: '../../../assets/05.png'
+        numImg: '../../../assets/05.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/scvi-fire-energy.jpg',
-        numImg: '../../../assets/03.png'
+        numImg: '../../../assets/03.png',
+        radiusCard: true
       },
       {
         cardImg: '../../../assets/cards/new-energy/double-turbo-energy.png',
