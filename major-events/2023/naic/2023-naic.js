@@ -3673,12 +3673,12 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023/bosss-orders-ghetsis.png',
+        cardImg: '../../../assets/cards/2022-2023/melony.png',
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023/melony.png',
-        numImg: '../../../assets/01.png'
+        cardImg: '../../../assets/cards/2022-2023/bosss-orders-ghetsis.png',
+        numImg: '../../../assets/02.png'
       },
       {
         cardImg: '../../../assets/cards/2022-2023/cross-switcher.png',
