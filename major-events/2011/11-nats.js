@@ -252,15 +252,98 @@ let masters = [
         ]
     },
     {
-        firstName: 'Alaric Boone',
+        firstName: 'Alaric M-Boone',
         sprite1: '../../assets/sprites/ambipom.png',
         sprite2: '../../assets/sprites/weavile.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
+        list: '../../assets/list-icon.png',
         type: 'normal',
         deck: [
             {
-                cardImg: '../../assets/cards/2010-2012',
+                cardImg: '../../assets/cards/2010-2012/ambipom.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/aipom.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/weavile.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/sneasel.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/slowking.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/slowpoke.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/bouffalant.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/donphan-prime.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/phanpy-col.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/xatu.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/natu.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/tyrogue-col.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pont.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/seeker.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/dual-ball.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/switch-bw.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/darkness-energy-hgss.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
                 numImg: '../../assets/04.png',
             },
         ]
