@@ -15,7 +15,7 @@ let masters = [
     deck: [
       {
                 cardImg: '../../../assets/cards/2004-2006/raichu-metal.png',
-                numImg: '../../../assets/03.png',
+                numImg: '../../../assets/04.png',
             },
             {
                 cardImg: '../../../assets/cards/2004-2006/pikachu-metal.png',
@@ -23,7 +23,7 @@ let masters = [
             },
             {
                 cardImg: '../../../assets/cards/2004-2006/exeggutor.png',
-                numImg: '../../../assets/03.png',
+                numImg: '../../../assets/04.png',
             },
             {
                 cardImg: '../../../assets/cards/2004-2006/exeggcute.png',
@@ -35,11 +35,19 @@ let masters = [
             },
             {
                 cardImg: '../../../assets/cards/2004-2006/holon-magnemite.png',
-                numImg: '../../../assets/02.png',
+                numImg: '../../../assets/03.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2004-2006/latios-water.png',
+                numImg: '../../../assets/01.png',
+            },
+            {
+                cardImg: '../../../assets/cards/2004-2006/latias-fire-body.png',
+                numImg: '../../../assets/01.png',
             },
             {
                 cardImg: '../../../assets/cards/2004-2006/holon-mentor.png',
-                numImg: '../../../assets/04.png',
+                numImg: '../../../assets/03.png',
             },
             {
               cardImg: '../../../assets/cards/2004-2006/tr.086.rockets_admin.jpg',
@@ -47,16 +55,12 @@ let masters = [
                 radiusCard: true
             },
             {
+                cardImg: '../../../assets/cards/2004-2006/marys-request.png',
+                numImg: '../../../assets/02.png',
+            },
+            {
                 cardImg: '../../../assets/cards/2004-2006/holon-researcher.png',
                 numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2004-2006/hl.092.stevens_advice.png',
-                numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2004-2006/scott.png',
-                numImg: '../../../assets/01.png',
             },
             {
                 cardImg: '../../../assets/cards/2004-2006/holon-adventurer.png',
@@ -67,28 +71,28 @@ let masters = [
                 numImg: '../../../assets/01.png',
             },
             {
+              cardImg: '../../../assets/cards/2004-2006/scott.png',
+              numImg: '../../../assets/01.png',
+          },
+            {
                 cardImg: '../../../assets/cards/2004-2006/holon-transeiver.png',
                 numImg: '../../../assets/04.png',
             },
             {
                 cardImg: '../../../assets/cards/2004-2006/pokemon-retriever.png',
-                numImg: '../../../assets/03.png',
+                numImg: '../../../assets/02.png',
             },
             {
                 cardImg: '../../../assets/cards/2004-2006/swoop-teleporter.png',
                 numImg: '../../../assets/02.png',
             },
             {
-                cardImg: '../../../assets/cards/2004-2006/energy-root.png',
+                cardImg: '../../../assets/cards/2004-2006/protective-orb.png',
                 numImg: '../../../assets/02.png',
-            },
-            {
-                cardImg: '../../../assets/cards/2004-2006/battle-fronteir.png',
-                numImg: '../../../assets/03.png',
             },
             {
                 cardImg: '../../../assets/cards/2004-2006/cursed-stone.png',
-                numImg: '../../../assets/02.png',
+                numImg: '../../../assets/04.png',
             },
             {
                 cardImg: '../../../assets/cards/old-energy/metal-energy-e-reader.png',
@@ -96,11 +100,11 @@ let masters = [
             },
             {
                 cardImg: '../../../assets/cards/old-energy/scramble-energy.png',
-                numImg: '../../../assets/04.png',
+                numImg: '../../../assets/03.png',
             },
             {
                 cardImg: '../../../assets/cards/old-energy/double-rainbow-energy.png',
-                numImg: '../../../assets/03.png',
+                numImg: '../../../assets/02.png',
             },
     ]
   },
