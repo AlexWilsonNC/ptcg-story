@@ -346,8 +346,9 @@ let juniors = [
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/marill.png',
-                numImg: '../../assets/01.png'
+                cardImg: '../../assets/cards/e-reader/marill.jpg',
+                numImg: '../../assets/01.png',
+                radiusCard: true
             },
             {
                 cardImg: '../../assets/cards/e-reader/copycat-e-reader.jpg',
