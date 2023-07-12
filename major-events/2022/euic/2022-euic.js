@@ -7570,7 +7570,11 @@ let seniors = [
       },
       {
         cardImg: '../../../assets/cards/2022-2023/sobble.png',
-        numImg: '../../../assets/04.png'
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/sobble-pound.png',
+        numImg: '../../../assets/01.png'
       },
       {
         cardImg: '../../../assets/cards/2022-2023/dunsparce.png',
