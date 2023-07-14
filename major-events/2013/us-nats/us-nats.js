@@ -1094,13 +1094,88 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/keldeo-resolute.png',
     sprite2: '../../../assets/sprites/blastoise.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/keldeo-ex.png',
+        numImg: '../../../assets/03.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/black-kyurem-ex.png',
+        numImg: '../../../assets/03.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/blastoise.png',
         numImg: '../../../assets/04.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/squirtle.png',
+        numImg: '../../../assets/04.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/exeggcute.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/skyla-bw.png',
+        numImg: '../../../assets/04.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-juniper.png',
+        numImg: '../../../assets/04.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-dex.png',
+        numImg: '../../../assets/03.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/colress.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/computer-search.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/rare-candy-bw.png',
+        numImg: '../../../assets/04.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/superior-energy-retreival.png',
+        numImg: '../../../assets/04.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2010-2012/pokemon-catcher.png',
+        numImg: '../../../assets/03.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball-bw.png',
+        numImg: '../../../assets/03.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/level-ball-bw.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/heavy-ball-bw.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/energy-search.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/tropical-beach-2012.png',
+        numImg: '../../../assets/03.png',
+      },
+      {
+        cardImg: '../../../assets/cards/energy/bw-energy-water.png',
+        numImg: '../../../assets/10.png',
+      },
+      {
+        cardImg: '../../../assets/cards/energy/bw-energy-lightning.png',
+        numImg: '../../../assets/02.png',
       },
     ]
   },
