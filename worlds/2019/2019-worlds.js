@@ -5813,7 +5813,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/aerodactyl.png',
+        cardImg: '../../assets/cards/2019-2020/aerodactyl-gx.png',
         numImg: '../../assets/01.png'
       },
       {
