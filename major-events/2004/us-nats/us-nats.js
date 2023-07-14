@@ -113,7 +113,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'AJ Doyle',
+    firstName: 'AJ DeLoye',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/swampert.png',
@@ -158,7 +158,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'John ',
+    firstName: 'John Wetz',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/blaziken.png',
