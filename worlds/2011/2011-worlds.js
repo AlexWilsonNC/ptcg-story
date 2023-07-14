@@ -74,7 +74,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -82,7 +82,7 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
         numImg: '../../assets/02.png'
       },
       {
@@ -200,7 +200,7 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -282,7 +282,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -294,7 +294,7 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pluspower.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -368,7 +368,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -384,7 +384,7 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pluspower.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -470,7 +470,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -486,7 +486,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
         numImg: '../../assets/01.png'
       },
       {
@@ -560,7 +560,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -572,7 +572,7 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pluspower.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -738,7 +738,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -754,7 +754,7 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
         numImg: '../../assets/02.png'
       },
       {
@@ -846,7 +846,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -862,7 +862,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
         numImg: '../../assets/01.png'
       },
       {
@@ -924,7 +924,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -940,7 +940,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pluspower.png',
         numImg: '../../assets/01.png'
       },
       {
@@ -952,7 +952,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
         numImg: '../../assets/01.png'
       },
       {
@@ -1265,11 +1265,11 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pluspower.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/02.png'
       },
       {
@@ -1359,7 +1359,7 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -1375,7 +1375,7 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
         numImg: '../../assets/01.png'
       },
       {
@@ -1457,7 +1457,7 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -1473,7 +1473,7 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
         numImg: '../../assets/02.png'
       },
       {
@@ -1535,7 +1535,7 @@ let seniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -1551,7 +1551,7 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pluspower.png',
         numImg: '../../assets/02.png'
       },
       {
@@ -1635,7 +1635,7 @@ let seniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -1659,11 +1659,11 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pluspower.png',
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
         numImg: '../../assets/01.png'
       },
       {
@@ -1747,13 +1747,101 @@ let seniors = [
     flag: '../../assets/flags/czech-republic.png',
     sprite1: '../../assets/sprites/donphan.png',
     sprite2: '../../assets/sprites/zoroark.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    list: '../../assets/list-icon.png',
+    type: 'dark',
     deck: [
       {
-        cardImg: '../../assets/cards/2010-2012',
+        cardImg: '../../assets/cards/2010-2012/yanmega.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/yanma.png',
         numImg: '../../assets/04.png'
       },
+      {
+        cardImg: '../../assets/cards/2010-2012/zoroark.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/zorua.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/donphan-prime.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/phanpy.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/phanpy-col.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/bouffalant.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/tyrogue-col.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/copycat.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/junk-arm.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/pluspower.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/pokegear.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/poke-circulator.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/hgss-energy-fighting.png',
+        numImg: '../../assets/05.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
+        numImg: '../../assets/04.png'
+      }
     ]
   },
   {
@@ -1884,7 +1972,7 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -1900,7 +1988,7 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
         numImg: '../../assets/01.png'
       },
       {
@@ -1966,11 +2054,11 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pluspower.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -2052,7 +2140,7 @@ let juniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -2064,11 +2152,11 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pluspower.png',
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
         numImg: '../../assets/01.png'
       },
       {
@@ -2154,7 +2242,7 @@ let juniors = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/pokemon-communication-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -2166,7 +2254,7 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2010-2012/switch-hgss.png',
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
         numImg: '../../assets/01.png'
       },
       {
