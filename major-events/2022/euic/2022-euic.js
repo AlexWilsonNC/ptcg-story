@@ -2600,10 +2600,6 @@ let masters = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023/inteleon-quick-shooting.png',
-        numImg: '../../../assets/01.png'
-      },
-      {
         cardImg: '../../../assets/cards/2022-2023/drizzile.png',
         numImg: '../../../assets/04.png'
       },
@@ -2613,6 +2609,10 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2022-2023/hoopa.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/zapdos-v.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -2673,7 +2673,7 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2022-2023/quick-ball-fus.png',
-        numImg: '../../../assets/03.png'
+        numImg: '../../../assets/02.png'
       },
       {
         cardImg: '../../../assets/cards/2022-2023/ordinary-rod.png',
@@ -2689,7 +2689,7 @@ let masters = [
       },
       {
         cardImg: '../../../assets/cards/2022-2023/choice-belt.png',
-        numImg: '../../../assets/02.png'
+        numImg: '../../../assets/01.png'
       },
       {
         cardImg: '../../../assets/cards/2022-2023/lucky-eg.png',
@@ -2708,8 +2708,12 @@ let masters = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/new-energy/water-energy-brs.png',
+        cardImg: '../../../assets/cards/new-energy/fighting-energy-brs.png',
         numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/water-energy-brs.png',
+        numImg: '../../../assets/02.png'
       },
     ]
   },

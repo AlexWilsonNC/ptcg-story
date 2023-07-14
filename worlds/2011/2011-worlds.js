@@ -90,11 +90,11 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
         numImg: '../../assets/09.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -216,11 +216,11 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fighting.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fighting.png',
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
         numImg: '../../assets/01.png'
       }
     ]
@@ -306,7 +306,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
         numImg: '../../assets/13.png'
       }
     ]
@@ -396,7 +396,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
         numImg: '../../assets/12.png'
       },
       {
@@ -490,11 +490,11 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
         numImg: '../../assets/05.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-psychic.png',
+        cardImg: '../../assets/cards/energy/bw-energy-psychic.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -584,7 +584,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
         numImg: '../../assets/12.png'
       }
     ]
@@ -758,11 +758,11 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
         numImg: '../../assets/10.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-water.png',
+        cardImg: '../../assets/cards/energy/bw-energy-water.png',
         numImg: '../../assets/02.png'
       }
     ]
@@ -866,7 +866,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
         numImg: '../../assets/10.png'
       },
       {
@@ -968,7 +968,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
         numImg: '../../assets/09.png'
       },
       {
@@ -1281,7 +1281,7 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
         numImg: '../../assets/10.png'
       },
       {
@@ -1379,11 +1379,11 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
         numImg: '../../assets/07.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-psychic.png',
+        cardImg: '../../assets/cards/energy/bw-energy-psychic.png',
         numImg: '../../assets/02.png'
       },
       {
@@ -1477,7 +1477,7 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
         numImg: '../../assets/07.png'
       },
       {
@@ -1563,7 +1563,7 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
         numImg: '../../assets/11.png'
       }
     ]
@@ -1667,7 +1667,7 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
         numImg: '../../assets/10.png'
       }
     ]
@@ -1835,7 +1835,7 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fighting.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fighting.png',
         numImg: '../../assets/05.png'
       },
       {
@@ -1992,7 +1992,7 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
         numImg: '../../assets/10.png'
       }
     ]
@@ -2066,7 +2066,7 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fire.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
         numImg: '../../assets/09.png'
       },
       {
@@ -2164,7 +2164,7 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-fighting.png',
+        cardImg: '../../assets/cards/energy/bw-energy-fighting.png',
         numImg: '../../assets/06.png'
       },
       {
@@ -2258,11 +2258,11 @@ let juniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-lightning.png',
+        cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
         numImg: '../../assets/08.png'
       },
       {
-        cardImg: '../../assets/cards/energy/hgss-energy-grass.png',
+        cardImg: '../../assets/cards/energy/bw-energy-grass.png',
         numImg: '../../assets/01.png'
       },
       {
