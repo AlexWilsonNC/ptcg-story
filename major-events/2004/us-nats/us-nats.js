@@ -102,13 +102,91 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/walrein.png',
     sprite2: '../../../assets/sprites/milotic.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
-    type: 'dark',
+    list: '../../../assets/list-icon.png',
+    type: 'water',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
+        cardImg: '../../../assets/cards/2004-2006/walrein.png',
         numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/sealeo.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/spheal.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/milotic.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/feebas-ascension.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/oracle.jpg',
+        numImg: '../../../assets/04.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.092.stevens_advice.png',
+        numImg: '../../../assets/04.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
+        numImg: '../../../assets/04.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/copycat-e-reader.jpg',
+        numImg: '../../../assets/03.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dr.087.mr_brineys_compassion.jpg',
+        numImg: '../../../assets/01.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/town-volunteers.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/warp-point.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/crystal-shard.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/ancient-tech-machine-rock.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.088.desert_ruins.jpg',
+        numImg: '../../../assets/03.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/e-reader/water-energy.jpg',
+        numImg: '../../../assets/15.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/double-rainbow-old.png',
+        numImg: '../../../assets/02.png'
       },
     ]
   },

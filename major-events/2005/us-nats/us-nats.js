@@ -82,16 +82,110 @@ let masters = [
   },
   {
     firstName: 'Kyle Sucevich',
+    disclaimer: "<span class='disclaimer'>(recreated from Kyle's memory)</span>",
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/metagross.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2004-2006',
+        cardImg: '../../../assets/cards/2004-2006/metagross-psychic.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.095.metagross_ex.jpg',
+        numImg: '../../../assets/02.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/metang-psychic.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.054.beldum.jpg',
+        numImg: '../../../assets/04.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgeot.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgeotto.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pidgey.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dunsparce.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/deoxys-ex-attack.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/jirachi.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rg.088.celios_network.jpg',
+        numImg: '../../../assets/04.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.092.stevens_advice.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/copycat.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/dr.088.tv_reporter.jpg',
+        numImg: '../../../assets/03.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/rare-candy-e-reader.png',
         numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/pokemon-retriever.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/swoop-teleporter.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/ma.074.strength_charm.jpg',
+        numImg: '../../../assets/03.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/hl.085.ancient_technical_machine_rock.jpg',
+        numImg: '../../../assets/01.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2004-2006/magnetic-storm.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/psychic-energy-emerald.png',
+        numImg: '../../../assets/07.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/metal-energy-e-reader.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/old-energy/heal-energy.png',
+        numImg: '../../../assets/01.png'
       },
     ]
   },
@@ -717,7 +811,12 @@ function displayList(array = []) {
         document.querySelector('#modal-section').style.display = "flex";
         document.querySelector('.modal').style.display = 'block';
         document.querySelector('.behind-modal').style.display = 'block';
-        document.querySelector('.playerName').innerHTML = item.firstName + " - 2005 US Nats";
+        if (item.disclaimer){
+          document.querySelector('.playerName').innerHTML = item.firstName + " - 2005 US Nats" + " " + item.disclaimer;
+        }
+        else {
+          document.querySelector('.playerName').innerHTML = item.firstName + " - 2005 US Nats";
+        }
 
         if (item.type == 'psychic') {
           document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";

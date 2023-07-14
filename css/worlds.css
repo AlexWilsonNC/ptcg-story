@@ -23,6 +23,10 @@
     width: 80%;
 }
 
+.disclaimer {
+    font-size: 12px;
+}
+
 .others-icons {
     display: flex;
     justify-content: space-around;
@@ -1548,7 +1552,9 @@ li {
     .modal {
         width: 80%;
     }
-
+    .disclaimer {
+        font-size: 8px;
+    }
     .pok-card-small {
         width: 50px;
     }
