@@ -5838,10 +5838,6 @@ function displayList(array = []) {
     let playerName = document.createElement('div');
     playerName.classList.add('name-n-flag');
 
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-    
     let deck = document.createElement('div');
     deck.classList.add('player-deck-icons');
 
@@ -5858,7 +5854,6 @@ function displayList(array = []) {
     
     item_element.appendChild(title);
     title.appendChild(playerName);
-    playerName.appendChild(flagImg);
     playerName.append(item.firstName);
     title.appendChild(deck);
     deck.appendChild(firstSprite);
@@ -5979,10 +5974,6 @@ function displayList2(array = []) {
 
     let playerName = document.createElement('div');
     playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
     
     let deck = document.createElement('div');
     deck.classList.add('player-deck-icons');
@@ -6000,7 +5991,6 @@ function displayList2(array = []) {
     
     item_element.appendChild(title);
     title.appendChild(playerName);
-    playerName.appendChild(flagImg);
     playerName.append(item.firstName);
     title.appendChild(deck);
     deck.appendChild(firstSprite);
@@ -6120,10 +6110,6 @@ function displayList3(array = []) {
 
     let playerName = document.createElement('div');
     playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
     
     let deck = document.createElement('div');
     deck.classList.add('player-deck-icons');
@@ -6141,7 +6127,6 @@ function displayList3(array = []) {
     
     item_element.appendChild(title);
     title.appendChild(playerName);
-    playerName.appendChild(flagImg);
     playerName.append(item.firstName);
     title.appendChild(deck);
     deck.appendChild(firstSprite);
