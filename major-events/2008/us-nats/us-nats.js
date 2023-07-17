@@ -1386,10 +1386,6 @@ function displayList(array = []) {
     let playerName = document.createElement('div');
     playerName.classList.add('name-n-flag');
 
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-
     let deck = document.createElement('div');
     deck.classList.add('player-deck-icons');
 
