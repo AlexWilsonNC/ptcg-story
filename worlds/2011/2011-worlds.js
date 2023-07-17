@@ -608,13 +608,89 @@ let masters = [
     flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/reshiram.png',
     sprite2: '../../assets/sprites/typhlosion.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    list: '../../assets/list-icon.png',
+    type: 'fire',
     deck: [
       {
-        cardImg: '../../assets/cards/2010-2012',
+        cardImg: '../../assets/cards/2010-2012/reshiram.png',
         numImg: '../../assets/04.png'
       },
+      {
+        cardImg: '../../assets/cards/2010-2012/typhlosion-prime.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/quilava.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/cyndaquil.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/ninetales-hs.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/vulpix.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/pont.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/sages-training.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/junk-arm.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/pluspower.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/pokegear.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/revive.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
+        numImg: '../../assets/11.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/rescue-energy.png',
+        numImg: '../../assets/01.png'
+      }
     ]
   },
   {

@@ -396,6 +396,7 @@ li {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: flex-start;
     padding-left: 15px;
 }
 
