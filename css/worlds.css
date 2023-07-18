@@ -413,7 +413,8 @@ li {
     border-radius: 5px;
 }
 .results-list-item {
-    display: flex;
+    /* display: flex; */
+    display: -webkit-inline-flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
