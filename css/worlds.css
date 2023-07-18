@@ -394,27 +394,24 @@ li {
 
 .name-n-flag {
     display: flex;
+    display:-webkit-flex;
     flex-direction: row;
     align-items: center;
-    justify-content: flex-start;
+    /* justify-content: flex-start; */
     padding-left: 15px;
 }
-
 .name-n-flag {
     font-size: 18px;
 }
-
 .flag-size {
     width: 20px;
     margin-right: 10px;
     border-radius: 5px;
 }
-
 .flag-size-large {
     width: 30px;
     border-radius: 5px;
 }
-
 .results-list-item {
     display: flex;
     flex-direction: row;
@@ -424,14 +421,12 @@ li {
     height: 50px;
     width: 100%;
 }
-
 .player-deck-icons {
     display: flex;                     /* remove? */
     flex-direction: row;
     align-items: center;
     margin-top: -5px;
 }
-
 .sprite {
     width: 55px;
     /* height: 45.3px; */
