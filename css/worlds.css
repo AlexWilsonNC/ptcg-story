@@ -385,13 +385,14 @@ li {
     color: black;
     transition: ease all 0.1s;
 }
-
+.player-list-hover {
+    max-height: 50px; 
+}
 .player-list-hover:hover {
     background-color: rgb(226, 226, 226);
     border-radius: 10px;
     cursor: pointer;
 }
-
 .name-n-flag {
     display: flex;
     flex-direction: row;
