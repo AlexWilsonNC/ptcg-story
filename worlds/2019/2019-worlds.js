@@ -5715,10 +5715,6 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
-        numImg: '../../assets/02.png'
-      },
-      {
         cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
         numImg: '../../assets/01.png'
       },
@@ -5737,6 +5733,10 @@ let masters = [
       {
         cardImg: '../../assets/cards/2019-2020/jirachi-gx.png',
         numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2019-2020/lillie.png',
