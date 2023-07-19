@@ -1752,7 +1752,7 @@ li {
 
 @media screen and (max-width: 550px) {
     .day2-right {
-        margin-left: 90px;
+        margin-left: 40px;
     }
 
     .rating-zone {
@@ -1776,12 +1776,13 @@ li {
         margin-left: 30px;
     }
 }
-
 @media screen and (max-width: 420px) {
     .name-n-flag {
         font-size: 14px;
     }
-
+    .day2-right {
+        margin-left: 50px;
+    }
     .flag-size {
         width: 16px;
         height: 16px;

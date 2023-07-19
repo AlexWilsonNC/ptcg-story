@@ -1140,6 +1140,10 @@ margin-top: auto;
     .num-2 {
         width: 17px;
     }
+    #event-toc ul,
+    #event-toc2 ul {
+        font-size: 10px;
+    }
     .decks-main h3 {
         font-size: 20px;
         border-radius: 11px;
@@ -1339,6 +1343,12 @@ margin-top: auto;
     #zoom-card-box-break img {
         height: 42%;
       }
+}
+@media screen and (max-width: 400px) {
+    #event-toc ul,
+    #event-toc2 ul {
+        font-size: 8px;
+    }
 }
 @media screen and (max-width: 400px) {
     .format-sets-promo img {
