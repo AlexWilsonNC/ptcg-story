@@ -695,7 +695,8 @@ margin-top: auto;
 .build-box108,
 .build-box200,
 .build-box400,
-.build-boxh {
+.build-boxh,
+.build-boxj {
     display: none;
 }
 .descrip-box2,
@@ -713,7 +714,8 @@ margin-top: auto;
 .descrip-box108,
 .descrip-box200,
 .descrip-box400,
-.descrip-boxh {
+.descrip-boxh,
+.descrip-boxj {
     display: none;
 }
 
