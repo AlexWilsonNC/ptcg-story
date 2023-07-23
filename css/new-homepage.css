@@ -1,0 +1,220 @@
+.welcome-top {
+    background-image: url("../assets/dark-bg.png");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.welcome-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding: 1px 200px;
+    text-align: center;
+}
+
+.new-homepage {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 35px;
+    /* background-color: rgb(230, 230, 230); */
+}
+.homepage-main-content {
+    /* background-color: rgba(128, 0, 128, 0.048); */
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.top-featured-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 40px;
+}
+.homepage-box {
+    height: 325px;
+    width: 375px;
+    margin-bottom: 50px;
+}
+.homepage-box2 {
+    height: 240px;
+    width: 375px;
+    margin-bottom: 50px;
+}
+.wrapped-feature,
+.wrapped-feature-second-row {
+    border: 1px solid rgb(140, 140, 140);
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.35);
+    padding-bottom: 10px;
+    position: relative;
+}
+.wrapped-feature {
+    height: 340px;
+}
+.article-type {
+    position: absolute;
+    bottom: 150px;
+    right: 0;
+    color: white;
+    padding: 5px;
+    border-top-left-radius: 10px;
+    font-weight: 600;
+    font-style: italic;
+}
+.modern-article {
+    background-color: rgb(0, 94, 255);
+}
+.retro-article {
+    background-color: rgb(238, 65, 34);
+}
+
+.wrapped-feature-second-row {
+    height: 260px;
+}
+.wrapped-feature img, 
+.wrapped-feature-second-row img,
+.article-thumbnail img {
+    object-fit: cover;
+    width: 100%;
+    height: 200px;
+    background-color: white;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+}
+.article-thumbnail img {
+    position: relative;
+}
+.featured-headers {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(70, 70, 70);
+    margin-bottom: 7.5px;
+}
+.homepage-box-content {
+    padding: 10px;
+    height: 75px;
+    display: flex;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.homepage-box-content h3 {
+    font-size: 16px;
+    margin-bottom: 7px;
+    color: rgb(48, 48, 48);
+}
+.homepage-box-content p {
+    font-size: 13px;
+}
+.featured-box-date {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 11px;
+    position: absolute;
+    bottom: 13px;
+    right: 7px;
+}
+.featured-box-name-and-date {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 11px;
+    margin: 0 7px 5px 15px;
+    position: absolute;
+    bottom: 0;
+    width: 93%;
+}
+.profile-pic {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.profile-pic img {
+    width: 30px;
+    height: auto;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+.profile-pic p {
+    font-size: 14px;
+}
+.upcoming-events ul {
+    list-style: none;
+}
+.upcoming-events li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.event-date {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+.upcoming-loc {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.flag-place {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.flag-place img {
+    width: 17px;
+    height: auto;
+    margin-right: 5px;
+}
+.event-date h4 {
+    font-size: 15px;
+}
+.event-date p {
+    font-size: 13px;
+}
+.event-type-logo {
+    width: 50px;height:auto;
+    margin-right: 10px;
+}
+
+
+
+
+
+.homepage-side {
+    /* background-color: rgba(0, 100, 0, 0.056); */
+    width: 20%;
+    padding: 15px;
+}
+.homepage-side ul {
+    margin-left: 30px;
+    line-height: 1.5;
+    margin-top: 5px;
+    font-size: 14px;
+}
+.homepage-side ol {
+    margin-left: 30px;
+    line-height: 1.7;
+    margin-top: 5px;
+    font-size: 14px;
+}
+.side-section {
+    margin-bottom: 40px;
+}
+.side-section p {
+    font-size: 14px;
+}
