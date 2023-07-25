@@ -36,6 +36,7 @@ hr {
     font-family: 'Permanent Marker', cursive;
     font-size: 46px;
     color: rgb(114, 103, 5);
+    /* color: rgb(224, 160, 22);  new color  */
 }
 #progressbar {
     position: fixed;
