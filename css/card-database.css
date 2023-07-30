@@ -975,6 +975,7 @@
 .sun-moon:hover,
 .scarlet-violet:hover,
 .paldea-evolved:hover,
+.obsidian-flames:hover,
 .legendary-treasures:hover,
 .plasma-blast:hover,
 .plasma-freeze:hover,
@@ -1410,6 +1411,13 @@
 }
 
 /* Scarlet & Violet */
+.obsidian-flames {
+    background: url(../assets/set-filter/scvi/obsidian-flames.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
 .paldea-evolved {
     background: url(../assets/set-filter/scvi/sv2.jpg) no-repeat center;
     background-size: auto 100%;
