@@ -38,6 +38,7 @@
     background-image: linear-gradient(to bottom right, rgb(62, 28, 28), rgb(137, 123, 0));
     color:white;
     font-weight: 600;
+    font-size: 22px;
     padding: 8px 15px;
     position: absolute;
     margin-top: -22px;
@@ -46,6 +47,7 @@
 .era-toc-box {
     border: 1px solid rgba(0, 0, 0, 0.5);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.278);
+    background-color: white;
     border-radius: 15px;
     padding: 15px;
     display: flex;
