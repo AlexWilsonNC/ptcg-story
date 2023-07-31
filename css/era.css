@@ -68,11 +68,11 @@
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
-}
-.era-toc-box li a p {
-    margin-right: 3px;
     white-space: nowrap;
     overflow: hidden;
+}
+.era-toc-box li a img {
+    margin-left: 3px;
 }
 .era-toc-box li a:hover {
     color: rgb(189, 129, 0);
