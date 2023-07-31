@@ -1188,9 +1188,12 @@ margin-top: auto;
     .move-left {
         width: 65%;
     }
+    .builds-num {
+        top: -4px;
+    }
     .era-toc-name {
         padding: 8px 15px;
-        margin-left: -15.5px;
+        margin-left: -9px;
         font-size: 14px;
     }
     .era-toc-box {
@@ -1305,6 +1308,9 @@ margin-top: auto;
     }
     .gen1-sprite {
         height: 18px;
+    }
+    .builds-num {
+        top: -3px;
     }
 }
 @media screen and (max-width: 585px) {
@@ -1508,6 +1514,9 @@ margin-top: auto;
         margin-left: -7.5px;
         font-size: 12px;
     }
+    .builds-num {
+        top: -4px;
+    }
 }
 @media screen and (max-width: 400px) {
     .format-sets-promo img {
@@ -1515,6 +1524,9 @@ margin-top: auto;
         width: 5vw;
         margin-top: 10px;
         margin-right: 10px;
+    }
+    .builds-num {
+        top: -3px;
     }
     #zoom-card-box-break img {
         height: 38%;

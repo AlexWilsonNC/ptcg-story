@@ -431,8 +431,11 @@ li {
 }
 .sprite {
     width: 55px;
-    /* height: 45.3px; */
 }
+/* .sprite-retro {
+    width: 32px;
+    height: auto;
+} */
 
 .lcq-q li {
     font-size: 12px;
