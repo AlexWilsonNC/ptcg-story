@@ -49,7 +49,7 @@
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.278);
     background-color: white;
     border-radius: 15px;
-    padding: 15px;
+    padding: 15px 0px 15px 15px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -69,6 +69,11 @@
     align-items: center;
     justify-content: flex-start;
 }
+.era-toc-box li a p {
+    margin-right: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+}
 .era-toc-box li a:hover {
     color: rgb(189, 129, 0);
 }
@@ -78,15 +83,8 @@
     display: flex;
     justify-content: center;
 }
-/* .era-toc-left {
-    background-color: #00509b;
-}
-.era-toc-right {
-    background-color: red;
-} */
 .gen1-sprite {
     height: 30px;width:auto;
-    margin-left: 3px;
 }
 
 .scroll-top-btn {
@@ -1469,21 +1467,18 @@ margin-top: auto;
 }
 @media screen and (max-width: 500px) {
     .move-left {
-        width: 90%;
+        width: 95%;
     }
     .era-toc-box {
-        width: 90%;
-        padding: 10px 5px 5px 7px;
+        width: 95%;
+        padding: 10px 0px 5px 7px;
     }
     .era-toc-name {
-        margin-left: -7.5px;
+        margin-left: -5px;
     }
-    /* .era-toc-box li {
-        font-size: 12px;
+    .era-toc-box li {
+        font-size: 10px;
     }
-    .gen1-sprite {
-        height: 18px;
-    } */
 }
 @media screen and (max-width: 462px) {
     .specific-format h3,
@@ -1504,9 +1499,6 @@ margin-top: auto;
       }
 }
 @media screen and (max-width: 450px) {
-    .era-toc-box li {
-        font-size: 10px;
-    }
     .gen1-sprite {
         height: 15px;
     }
