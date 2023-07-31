@@ -208,6 +208,14 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
+        cardImg: '../../assets/cards/energy/bw-energy-fighting.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
+        numImg: '../../assets/01.png'
+      },
+      {
         cardImg: '../../assets/cards/energy/hgss-energy-dce.png',
         numImg: '../../assets/04.png'
       },
@@ -215,14 +223,6 @@ let masters = [
         cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
         numImg: '../../assets/04.png'
       },
-      {
-        cardImg: '../../assets/cards/energy/bw-energy-fighting.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/energy/bw-energy-fire.png',
-        numImg: '../../assets/01.png'
-      }
     ]
   },
   {
