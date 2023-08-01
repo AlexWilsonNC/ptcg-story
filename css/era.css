@@ -58,9 +58,9 @@
 .era-toc-box ul {
     list-style-type: circle;
 }
-.era-toc-box li {
+/* .era-toc-box li {
     margin: 6px 0px;
-}
+} */
 .era-toc-box li a {
     color: black;
     width: 100%;
@@ -88,6 +88,10 @@
 }
 .gen1-sprite {
     height: 30px;width:auto;
+    margin-top: 3px;
+}
+.gen6-sprite {
+    height: auto;width:35px;
 }
 
 .scroll-top-btn {
@@ -1209,6 +1213,9 @@ margin-top: auto;
     .gen1-sprite {
         height: 20px;
     }
+    .gen6-sprite {
+        height: auto;width:27px;
+    }
     .meeple {
         font-size: 12px;
         max-width: 80%;
@@ -1311,6 +1318,9 @@ margin-top: auto;
     }
     .gen1-sprite {
         height: 18px;
+    }
+    .gen6-sprite {
+        height: auto;width:20px;
     }
     .builds-num {
         top: -3px;
@@ -1511,6 +1521,9 @@ margin-top: auto;
     .gen1-sprite {
         height: 15px;
     }
+    .gen6-sprite {
+        height: auto;width:17px;
+    }
     .era-toc-name {
         padding: 6px 12px;
         margin-top: -20px;
@@ -1541,6 +1554,9 @@ margin-top: auto;
     .gen1-sprite {
         height: 13px;
     }
+    .gen6-sprite {
+        height: auto;width:14px;
+    }
     #event-toc ul,
     #event-toc2 ul {
         font-size: 8px;
@@ -1561,11 +1577,3 @@ margin-top: auto;
         margin-left: -20px;
       }
 }
-/* @media screen and (max-width: 350px) {
-    .era-toc-box li {
-        font-size: 8px;
-    }
-    .gen1-sprite {
-        height: 10px;
-    }
-} */
