@@ -71,7 +71,10 @@
     white-space: nowrap;
     overflow: hidden;
 }
-.era-toc-box li a img {
+/* .era-toc-box li a img {
+    margin-left: 3px;
+} */
+.era-toc-box li a img:first-of-type {
     margin-left: 3px;
 }
 .era-toc-box li a:hover {
