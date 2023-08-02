@@ -440,7 +440,9 @@ li {
 .lcq-q li {
     font-size: 12px;
 }
-
+.border-radius {
+    border-radius: 10px;
+}
 .lead {
     font-weight: bold;
     text-decoration: underline;
