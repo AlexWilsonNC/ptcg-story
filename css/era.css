@@ -93,6 +93,9 @@
 .gen6-sprite {
     height: auto;width:35px;
 }
+.unown-sprite {
+    height:35px;width:auto;
+}
 
 .scroll-top-btn {
     position: fixed;
@@ -1216,6 +1219,12 @@ margin-top: auto;
     .gen6-sprite {
         height: auto;width:27px;
     }
+    .unown-sprite {
+        height:27px;width:auto;
+    }
+    .unown-sprite {
+        height:35px;width:auto;
+    }
     .meeple {
         font-size: 12px;
         max-width: 80%;
@@ -1321,6 +1330,9 @@ margin-top: auto;
     }
     .gen6-sprite {
         height: auto;width:20px;
+    }
+    .unown-sprite {
+        height:20px;width:auto;
     }
     .builds-num {
         top: -3px;
@@ -1524,6 +1536,9 @@ margin-top: auto;
     .gen6-sprite {
         height: auto;width:17px;
     }
+    .unown-sprite {
+        height:17px;width:auto;
+    }
     .era-toc-name {
         padding: 6px 12px;
         margin-top: -20px;
@@ -1556,6 +1571,9 @@ margin-top: auto;
     }
     .gen6-sprite {
         height: auto;width:14px;
+    }
+    .unown-sprite {
+        height:14px;width:auto;
     }
     #event-toc ul,
     #event-toc2 ul {
