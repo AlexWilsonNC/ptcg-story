@@ -401,3 +401,9 @@
         display: block;
     }
 }
+/* @media screen and (max-width: 1000px) {
+    .event-type-logo {
+        width: 50px;height:auto;
+        margin-right: 10px;
+    }
+} */
