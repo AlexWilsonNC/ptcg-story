@@ -1,0 +1,49 @@
+.center-me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.upcoming-events {
+    width: 60%;
+    min-width: 60%;
+}
+.upcoming-events-table {
+    width: 100%;
+    /* padding: 15px 50px; */
+    margin-bottom: 25px;
+}
+tr:nth-of-type(2n) {
+    background-color: rgb(239, 239, 239);
+
+}
+.upcoming-events-table tr {
+    max-height: 50px;
+    padding: 0px 50px
+}
+.upcoming-events-table th {
+    text-align: start;
+    height: 25px;
+    vertical-align: top;
+    color: #464646;
+    font-size: 14px;
+}
+.upcoming-events-table td {
+    font-size: 15px;
+}
+/* .not-white {
+} */
+table{border-collapse:collapse;}
+table div {
+    display: table-cell;
+    vertical-align: middle;
+}
+table div img {
+    margin-right: 10px;
+    width: 25px;height:auto;
+}
+table i {
+    margin-left: 25px;
+}
+.aligned {
+    vertical-align: top;
+}
