@@ -3722,13 +3722,93 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/darkrai.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2022-2023',
+        cardImg: '../../../assets/cards/2022-2023/darkrai-vstar.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/darkra-v.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/galarian-moltres-v.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/moltres.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/radiant-greninja.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/squakabilly-ex.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/professor-research-rowan.png',
         numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/iono.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/bosss-orders-ghetsis.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/battle-vip-pass.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/trekking-shoes-crz.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/ultra-ball-sv.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/dark-patch.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/switch-sv.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/escape-rope.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/lost-vacuum-crz.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/super-rod.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/choice-belt-sv.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/box-of-disaster.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/pokestop.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/new-energy/scvi-dark-energy.jpg',
+        numImg: '../../../assets/14.png',
+        radiusCard: true
       },
     ]
   },
