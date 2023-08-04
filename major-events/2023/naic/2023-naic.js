@@ -8210,8 +8210,8 @@ let seniors = [
 
 let juniors = [
   {
-    firstName: 'Drake Z',
-    flag: '../../../assets/flags/uk.png',
+    firstName: 'Drake Zhu',
+    flag: '../../../assets/flags/new-zealand.png',
     sprite2: '../../../assets/sprites/regidrago.png',
     sprite1: '../../../assets/sprites/arceus.png',
     list: '../../../assets/list-icon.png',
