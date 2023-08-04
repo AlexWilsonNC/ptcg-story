@@ -64,7 +64,7 @@
   #menuToggle span
   {
     display: flex;
-    width: 29px;
+    width: 28px;
     height: 3px;
     margin-bottom: 5px;
     position: relative;
@@ -90,7 +90,7 @@
   #menuToggle input:checked ~ span
   {
     opacity: 1;
-    transform: rotate(45deg) translate(-3px, -1px);
+    transform: rotate(45deg) translate(-1px, 1px);
     background: #1b1c1e;
   }
   #menuToggle input:checked ~ span:nth-last-child(3)
@@ -108,10 +108,10 @@
   {
     position: absolute;
     width: 300px;
-    height: 400px;
-    margin: 40px 0 0 -300px;
-    padding: 50px;
-    padding-top: 125px;
+    /* height: 400px; */
+    margin: 43px 0 0 -300px;
+    padding: 25px 50px;
+    list-style: none;
     background-color: #1b1c1e;
     -webkit-font-smoothing: antialiased;
     transform-origin: 0% 0%;
@@ -130,7 +130,16 @@
   #menu li a {
     color: white;
   }
-  
+  #menu hr {
+    margin: 10px 0px;
+  }
+  .sub-nav {
+    margin-left: 25px;
+    font-size: 14px;
+  }
+  .sub-nav-non {
+    font-size: 14px;
+  }
   #menuToggle input:checked ~ ul
   {
     transform: none;
