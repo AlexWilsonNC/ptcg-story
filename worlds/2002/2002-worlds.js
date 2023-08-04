@@ -2091,9 +2091,9 @@ let juniors = [
   },
   {
     firstName: 'Jeremy Borchardt',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    flag: '../../assets/flags/usa.png',
+    sprite1: '../../assets/sprites/chansey.png',
+    sprite2: '../../assets/sprites/slowking.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
@@ -2591,9 +2591,9 @@ let juniors = [
   },
   {
     firstName: 'Mel Borchardt',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    flag: '../../assets/flags/usa.png',
+    sprite1: '../../assets/sprites/typhlosion.png',
+    sprite2: '../../assets/sprites/arcanine.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
