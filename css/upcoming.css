@@ -155,4 +155,7 @@ table i:hover {
     .upcoming-events-table td {
         padding: 0px 5px;
     }
+    .upcoming-events-table th {
+        font-size: 7px;
+    }
 }
