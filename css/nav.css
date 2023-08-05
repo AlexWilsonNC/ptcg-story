@@ -1,5 +1,5 @@
 #top-navr {
-    height: 50px;
+    height: 90px;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -16,15 +16,15 @@
     align-items: center;
 }
 #nav-leftr h1 {
-    font-size: 22px;
+    font-size: 36px;
     margin-left: 5px;
     color: black;
 }
 #nav-leftr img {
-    width: 35px;
+    width: 65px;
 }
 .legendsr {
-    font-size: 26px;
+    font-size: 46px;
     font-family: 'Permanent Marker', cursive;
     color: rgb(114, 103, 5);
 }
@@ -49,8 +49,8 @@
   }
   #menuToggle span {
     display: flex;
-    width: 28px;
-    height: 3px;
+    width: 32px;
+    height: 4px;
     margin-bottom: 5px;
     position: relative;
     background: rgb(22, 22, 32);
@@ -135,6 +135,43 @@
     margin-right: 18px;
   }
 
+  @media screen and (max-width: 1000px) {
+    #top-navr {
+        height: 80px;
+    }
+    #nav-leftr h1 {
+        font-size: 25px;
+    }
+    .legendsr {
+        font-size: 33px;
+    }
+    #nav-leftr img {
+        width: 40px;
+    }
+    #menuToggle span {
+        width: 30px;
+        height: 3px;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    #top-navr {
+        height: 50px;
+    }
+    #nav-leftr h1 {
+        font-size: 22px;
+        /* margin-left: 8px; */
+    }
+    .legendsr {
+        font-size: 26px;
+    }
+    #nav-leftr img {
+        width: 35px;
+    }
+    #menuToggle span {
+        width: 28px;
+        height: 3px;
+    }
+  }
   @media screen and (min-width: 700px) {
     .tittle {
         font-size: 16px;
