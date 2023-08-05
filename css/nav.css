@@ -166,7 +166,7 @@
     position: absolute;
     width: 300px;
     /* height: 100vh; */
-    margin: 43px 0 0 -300px;
+    margin: 59px 0 0 -300px;
     padding: 15px 50px 30px;
     list-style: none;
     background-color: #1b1c1e;
@@ -228,6 +228,9 @@
     #nav-leftr h1 {
         font-size: 25px;
     }
+    #menu {
+        margin-top: 52px;
+    }
     .legendsr {
         font-size: 33px;
     }
@@ -258,6 +261,9 @@
     #menuToggle span {
         width: 28px;
         height: 3px;
+    }
+    #menu {
+        margin-top: 34px;
     }
   }
   @media screen and (min-width: 700px) {
