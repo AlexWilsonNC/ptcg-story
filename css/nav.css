@@ -13,6 +13,12 @@
 #nav-leftr {
     margin-left: 15px;
 }
+#nav-leftr img {
+    content: url('../assets/trophy-icon.png');
+}
+#nav-leftr.darkon img {
+    content: url('../assets/dark-logo.png');
+}
 #nav-leftr a {
     display: flex;
     flex-direction: row;
