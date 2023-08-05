@@ -144,6 +144,9 @@
     color: rgb(70, 70, 70);
     margin-bottom: 7.5px;
 }
+.featured-headers.darkon {
+    color: #e1e1e1;
+}
 .homepage-box-content {
     padding: 10px;
     height: 75px;

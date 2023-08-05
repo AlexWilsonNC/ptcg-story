@@ -32,7 +32,8 @@
 .legendsr {
     font-size: 46px;
     font-family: 'Permanent Marker', cursive;
-    color: rgb(224, 160, 22);
+    /* color: rgb(224, 160, 22); */
+    color: rgb(197, 142, 23);
 }
 #nav-rightr {
     margin-right: -625px;
@@ -68,13 +69,13 @@
 }
 #toggle div:nth-child(2) {
     content: url("../assets/lunatone.png");
-    width: 25px;height:25px;
-    margin: 1px 0 0 30px;
+    width: 32px;height:32px;
+    margin: -2px 0 0 28px;
 }
 #toggle div:nth-child(3) {
     content: url("../assets/solrock.webp");
-    width: 25px;height:25px;
-    margin: -25px 0 0 3px;
+    width: 30px;height:30px;
+    margin: -31px 0 0 0;
 }
 #toggle.darkon {
     background: #222;
@@ -128,6 +129,9 @@
     transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
                 background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
                 opacity 0.55s ease;
+  }
+  #menuToggle.darkon span {
+    background: #e1e1e1;
   }
   #menuToggle span:first-child {
     transform-origin: 0% 0%;
