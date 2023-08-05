@@ -34,11 +34,11 @@
                 <h1>PTCG <span class='legendsr'>Legends</span></h1>
             </a>
         </div>
-        <!-- <div id="nav-right">
-            <a class="inactive" href="./articles/">Articles</a>
-            <a class="inactive" href="./">Tournaments <i class="fas fa-chevron-down"></i></a>
+        <!-- <div id="nav-rightr">
+            <a class="active" href="">Tournaments <i class="fas fa-chevron-down"></i></a>
+            <a class="inactive" href="">Event Archive</a>
             <a class="inactive" href="./decks-by-era/main">Decks by Era</a>
-            <a class="inactive other-tab" href="./other/main">Other <i class="fas fa-chevron-down"></i></a>
+            <a class="inactive" href="./articles/">Articles</a>
         </div> -->
         <nav role="navigation">
             <div id="menuToggle">
@@ -47,6 +47,13 @@
                 <span></span>
                 <span></span>
                 <ul id="menu">
+                    <div class='push-right'>
+                        <div id='toggle'>
+                            <i class='indicator'></i>
+                            <div></div>
+                            <div></div>
+                        </div>
+                    </div>
                     <!-- <li class='bold tittle'><a href="#">Mainpage</a></li>
                     <hr> -->
                     <li class='bold tittle'><a href="#">Tournaments</a></li>
@@ -55,10 +62,12 @@
                     <li class='bold tittle'><a href="#">Event Archive</a></li>
                     <li class='sub-nav'><a href="../worlds/main">World Championships</a></li>
                     <li class='sub-nav'><a href="../major-events/main">Major Events (ICs, Nats)</a></li>
-                    <li class='sub-nav'><a href="#" style='color:grey;pointer-events: none;'>Regionals & SPEs</a></li>
+                    <li class='sub-nav'><a href="#" style='color:grey;pointer-events: none;'>Regionals & SPEs</a>
+                    </li>
                     <li class='bold tittle'><a href="../decks-by-era/main">Decks by Era</a></li>
                     <hr>
-                    <li class='bold tittle'><a href="#" style='color:grey;pointer-events: none;'>Articles (Coming Soon)</a></li>
+                    <li class='bold tittle'><a href="#" style='color:grey;pointer-events: none;'>Articles (Coming
+                            Soon)</a></li>
                     <hr>
                     <li class='bold tittle'><a href="../other/main">Other</a></li>
                     <li class='sub-nav'><a href="../card-database">Pokémon Card Database</a></li>
@@ -105,8 +114,9 @@
                         <div>Pittsburgh, PA Regionals</div>
                     </td>
                     <td><i class="fa-solid fa-arrow-up-right-from-square"></i></td>
-                    <td><a href='../major-events/2001/ca-super-trainer-showdown/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
-                </tr>   
+                    <td><a href='../major-events/2001/ca-super-trainer-showdown/summary'><i
+                                class="fa-solid fa-book-open-reader"></i></a></td>
+                </tr>
                 <tr class='special-event'>
                     <td>Sept 16 - 17</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/spe.png' /></td>
@@ -297,48 +307,17 @@
                     <td></td>
                     <td></td>
                 </tr>
+                <tr class='worlds'>
+                    <td>-</td>
+                    <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
+                    <td>
+                        <div><img src='../assets/flags/unknown.png' /></div>
+                        <div>2024 World Championships</div>
+                    </td>
+                    <td></td>
+                    <td></td>
+                </tr>
 
-                <!-- 
-                <tr class='regionals'>
-                    <td>eeee</td>
-                    <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
-                    <td>
-                        <div><img src='../assets/flags/usa.png' /></div>
-                        <div>eeee Regionals</div>
-                    </td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class='regionals'>
-                    <td>eeee</td>
-                    <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
-                    <td>
-                        <div><img src='../assets/flags/usa.png' /></div>
-                        <div>eeee Regionals</div>
-                    </td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class='regionals'>
-                    <td>eeee</td>
-                    <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
-                    <td>
-                        <div><img src='../assets/flags/usa.png' /></div>
-                        <div>eeee Regionals</div>
-                    </td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class='regionals'>
-                    <td>eeee</td>
-                    <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
-                    <td>
-                        <div><img src='../assets/flags/usa.png' /></div>
-                        <div>eeee Regionals</div>
-                    </td>
-                    <td></td>
-                    <td></td>
-                </tr> -->
             </table>
         </div>
     </div>
@@ -368,8 +347,7 @@
             Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br>This website is simply a place for
             Pokémon TCG fans to look back in time at events and results from the greatest game in history!</div>
     </footer>
-
-    <script src='./country.js'></script>
+    <script src='../darkmode.js'></script>
 
 </body>
 

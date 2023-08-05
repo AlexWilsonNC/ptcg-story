@@ -7,6 +7,9 @@
     flex-direction: row;
     background-color: white;
 }
+#top-navr.darkon {
+    background-color: rgb(25, 25, 25);
+}
 #nav-leftr {
     margin-left: 15px;
 }
@@ -20,19 +23,84 @@
     margin-left: 5px;
     color: black;
 }
+#nav-leftr.darkon h1 {
+    color: white;
+}
 #nav-leftr img {
     width: 65px;
 }
 .legendsr {
     font-size: 46px;
     font-family: 'Permanent Marker', cursive;
-    color: rgb(114, 103, 5);
+    color: rgb(224, 160, 22);
 }
+#nav-rightr {
+    margin-right: -625px;
+}
+#nav-rightr a {
+    font-size: 24px;
+    margin-left: 30px;
+    /* font-weight: 600; */
+}
+#nav-rightr a:hover {
+    background: linear-gradient(to top right, red, rgb(182, 0, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.push-right {
+    display: flex;
+    justify-content: end;
+    margin-right: 40px;
+}
+#toggle {
+    position: relative;
+    display: block;
+    width: 58px;height:28px;
+    border-radius: 100px;
+    border: 1px solid grey;
+    cursor: pointer;
+    transition: 0.5s;
+    background: #fff;
+    box-shadow: inset 0 2px 60px rgba(0, 0, 0, 0.1),
+                inset 0 2px 8px rgba(0, 0, 0, 0.1),
+                inset 0 -4px 8px rgba(0, 0, 0, 0.05);
+}
+#toggle div:nth-child(2) {
+    content: url("../assets/lunatone.png");
+    width: 25px;height:25px;
+    margin: 1px 0 0 30px;
+}
+#toggle div:nth-child(3) {
+    content: url("../assets/solrock.webp");
+    width: 25px;height:25px;
+    margin: -25px 0 0 3px;
+}
+#toggle.darkon {
+    background: #222;
+    box-shadow: inset 0 0px 60px rgba(0,0,0,0.1),
+                inset 0 8px 8px rgba(0,0,0,0.1),
+                inset 0 -4px 4px rgba(0,0,0,0.1);
+}
+#toggle .indicator {
+    position: absolute;
+    top:1.5px;left:2px;
+    width: 25px;
+    height:25px;
+    background: linear-gradient(to bottom, #969696, #a8a8a8);
+    border-radius: 50%;
+    transition: 0.5s;
+}
+#toggle.darkon .indicator {
+    background: linear-gradient(to bottom, #444, #222);
+    left: 31px;
+}
+
+
   #menuToggle {
     display: flex;
     flex-direction: column;
     position: relative;
-    top: 4px;
     right: 25px;
     z-index: 1;
     -webkit-user-select: none;
@@ -74,6 +142,9 @@
     transform: rotate(45deg) translate(-1px, 1px);
     background: #1b1c1e;
   }
+  #menuToggle.darkon input:checked ~ span {
+    background: #e1e1e1;
+  }
   #menuToggle input:checked ~ span:nth-last-child(3) {
     opacity: 0;
     transform: rotate(0deg) scale(0.2, 0.2);
@@ -94,9 +165,12 @@
     transform: translate(100%, 0);
     transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
     border-bottom-left-radius: 10px;
+    border: 2px solid black;
     border-top-left-radius: 10px;
-
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='49' viewBox='0 0 28 49'%3E%3Cg fill-rule='evenodd'%3E%3Cg id='hexagons' fill='%245C92AC' fill-opacity='0.25' fill-rule='nonzero'%3E%3Cpath d='M13.99 9.25l13 7.5v15l-13 7.5L1 31.75v-15l12.99-7.5zM3 17.9v12.7l10.99 6.34 11-6.35V17.9l-11-6.34L3 17.9zM0 15l12.98-7.5V0h-2v6.35L0 12.69v2.3zm0 18.5L12.98 41v8h-2v-6.85L0 35.81v-2.3zM15 0v7.5L27.99 15H28v-2.31h-.01L17 6.35V0h-2zm0 49v-8l12.99-7.5H28v2.31h-.01L17 42.15V49h-2z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"), linear-gradient(to right bottom, #000000, #151314, #211f22, #2b2c31);
+  }
+  #menu.darkon {
+    border: 2px solid grey;
   }
   #menu li {
     padding: 8.5px 0;
@@ -161,13 +235,15 @@
     }
     #nav-leftr h1 {
         font-size: 22px;
-        /* margin-left: 8px; */
     }
     .legendsr {
         font-size: 26px;
     }
     #nav-leftr img {
         width: 35px;
+    }
+    #menuToggle {
+        top: 4px;
     }
     #menuToggle span {
         width: 28px;

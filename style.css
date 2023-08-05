@@ -18,6 +18,9 @@ html,body{
     flex-direction: column;
     scroll-behavior: smooth;
 }
+body.darkon {
+    background-color: #2b2b2b;
+}
 .home-twitter-icon {
     width: 40px;
     height: auto;
@@ -33,14 +36,14 @@ hr {
     color: rgb(114, 103, 5);
     /* color: rgb(224, 160, 22);  new color  */
 }
-#progressbar {
+/* #progressbar {
     position: fixed;
     top: 0;
     right: 0;
     width: 10px;
     background: linear-gradient( to top, red, black);
     z-index: 1000;
-}
+} */
 #top-nav {
     height: 90px;
     width: 100%;
