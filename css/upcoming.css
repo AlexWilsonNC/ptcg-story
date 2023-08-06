@@ -39,6 +39,9 @@ tr:nth-of-type(2n) {
 .upcoming-events-table.darkon td {
     color:white;
 }
+.upcoming-events-table.darkon div a {
+    color:white;
+}
 .upcoming-events-table td:nth-of-type(1) {
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
@@ -71,7 +74,6 @@ table i {
 }
 td div a:hover,
 table i:hover,
-.upcoming-events-table.darkon td div a,
 .upcoming-events-table.darkon i {
     color: rgb(224, 160, 22);
 }
