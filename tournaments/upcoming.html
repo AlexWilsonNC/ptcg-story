@@ -34,13 +34,24 @@
                 <h1>PTCG <span class='legendsr'>Legends</span></h1>
             </a>
         </div>
-        <div class='push-right'>
-            <div id="nav-rightr">
-                <a class="active" href="">Tournaments <i class="fas fa-chevron-down"></i></a>
-                <a href="">Event Archive</a>
-                <a href="./decks-by-era/main">Decks by Era</a>
-                <a href="./articles/">Articles</a>
-            </div>
+        <div class='push-right1'>
+            <ul id="nav-rightr">
+                <li><a href="">Tournaments <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down'>
+                        <li><a href=''>Upcoming Events</a></li>
+                        <li><a href=''>Completed Events</a></li>
+                    </ul>
+                </li>
+                <li><a href="">Event Archive <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down'>
+                        <li><a href=''>Worlds</a></li>
+                        <li><a href=''>Major Events</a></li>
+                        <li><a href=''>Regionals & SPEs</a></li>
+                    </ul>
+                </li>
+                <li><a href="./decks-by-era/main">Decks by Era</a></li>
+                <li><a href="./articles/">Articles</a></li>
+            </ul>
             <nav role="navigation">
                 <div id="menuToggle">
                     <input type="checkbox" />
@@ -48,7 +59,7 @@
                     <span></span>
                     <span></span>
                     <ul id="menu">
-                        <div class='push-right'>
+                        <div class='push-right2'>
                             <div onclick='rememberButton(this.id)' id='toggle'>
                                 <i class='indicator'></i>
                                 <div></div>
