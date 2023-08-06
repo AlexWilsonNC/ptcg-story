@@ -57,6 +57,7 @@ table div img,
 table div i {
     margin-right: 10px;
     width: 25px;height:auto;
+    border-radius: 30%;
 }
 .aligned {
     vertical-align: top;

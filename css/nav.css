@@ -26,7 +26,7 @@
 }
 #nav-leftr h1 {
     font-size: 36px;
-    margin-left: 5px;
+    margin: -10px 0 0 5px;
     color: black;
 }
 #nav-leftr.darkon h1 {
@@ -41,19 +41,22 @@
     /* color: rgb(224, 160, 22); */
     color: rgb(197, 142, 23);
 }
+#nav-rightr {
+    margin-top: -3px;
+}
 #nav-rightr a {
     font-size: 24px;
     margin-right: 30px;
     color: black;
 }
 #nav-rightr a:nth-of-type(4) {
-    margin-right: 60px;
+    margin-right: 63px;
 }
 #nav-rightr.darkon a {
     color: #e1e1e1;
 }
 #nav-rightr a:hover {
-    background: linear-gradient(to top right, red, rgb(182, 0, 0));
+    background: linear-gradient(to top right, rgb(255, 165, 86), rgb(255, 110, 19));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -225,6 +228,9 @@
   }
 
   @media screen and (max-width: 1400px) {
+    #nav-rightr {
+        margin-top: 1px;
+    }
     #nav-rightr a {
         font-size: 18px;
         margin-right: 22px;
@@ -233,12 +239,30 @@
         margin-right: 50px;
     }
   }
+  @media screen and (max-width: 1100px) {
+    #nav-rightr {
+        margin-top: 3px;
+    }
+    #nav-rightr a {
+        font-size: 16px;
+        margin-right: 20px;
+    }
+    #nav-rightr a:nth-of-type(4) {
+        margin-right: 50px;
+    }
+  }
+  @media screen and (max-width: 1050px) {
+    #nav-rightr {
+        display: none;
+    }
+  }
   @media screen and (max-width: 1000px) {
     #top-navr {
         height: 80px;
     }
     #nav-leftr h1 {
         font-size: 25px;
+        margin: -5px 0 0 5px;
     }
     #menu {
         margin-top: 52px;
@@ -260,6 +284,7 @@
     }
     #nav-leftr h1 {
         font-size: 22px;
+        margin: -2px 0 0 5px;
     }
     .legendsr {
         font-size: 26px;

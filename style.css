@@ -96,6 +96,11 @@ hr {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.active.darkon {
+    background: linear-gradient(to top right, rgb(255, 97, 97), rgb(255, 195, 84));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 
 .me {
     border-radius: 10px;
