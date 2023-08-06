@@ -68,14 +68,15 @@ td div a,
 table i {
     color: black;
 }
+td div a:hover,
+table i:hover,
 .upcoming-events-table.darkon td div a,
 .upcoming-events-table.darkon i {
-    /* color: white; */
-    color: rgb(196, 138, 13);
-}
-td div a:hover,
-table i:hover {
     color: rgb(224, 160, 22);
+}
+.upcoming-events-table.darkon td div a:hover,
+.upcoming-events-table.darkon i:hover {
+    color: white;
 }
 
 @media screen and (max-width: 1200px) {

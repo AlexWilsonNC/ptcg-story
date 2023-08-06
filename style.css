@@ -17,6 +17,7 @@ html,body{
     display: flex;
     flex-direction: column;
     scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
 }
 body.darkon {
     background-color: #2b2b2b;
