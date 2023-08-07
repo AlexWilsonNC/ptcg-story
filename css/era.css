@@ -197,7 +197,8 @@
     z-index: -1;
 } */
 .toc-top-box2 {
-    background-image: linear-gradient(to bottom right, rgb(62, 28, 28), rgb(137, 123, 0));
+    background-image: linear-gradient(to bottom right, rgb(88, 79, 94), rgb(25, 22, 31));
+    border:1px solid black;
     position: relative;
     margin: 0px 0px -20px 150px;
     padding: 2px 45px;
@@ -208,7 +209,8 @@
     /* border-radius: 15px; */
 }
 .toc-top-box {
-    background-image: linear-gradient(to bottom right, rgb(62, 28, 28), rgb(137, 123, 0));
+    background-image: linear-gradient(to bottom right, rgb(88, 79, 94), rgb(25, 22, 31));
+    border:1px solid black;
     position: relative;
     margin: -50px 0px 0px 120px;
     display: flex;
@@ -228,6 +230,10 @@
     padding: 30px 45px 10px;
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 10px;
+}
+#event-toc2.darkon {
+    background-color: rgba(209, 209, 209, 0.9);
+    margin-top: 10px;
 }
 #event-toc2line {
     border: 1px solid rgb(8, 4, 32);
@@ -367,6 +373,9 @@
     align-items: center;
     width: 100%;
     flex-direction: column;
+}
+.center-rules.darkon a {
+    color: rgb(224, 160, 22);
 }
 .weakness-hr {
     width: 45%;
@@ -919,7 +928,10 @@ margin-top: auto;
     display: none;
 } */
 .doofus {
-    margin-bottom: 10px;
+    margin: 10px 0;
+}
+.doofus.darkon {
+    color: white;
 }
 .rule-hover:hover {
     cursor: pointer;
@@ -976,6 +988,10 @@ margin-top: auto;
     padding: 3px 4px;
     border-radius: 5px;
     color: white;
+    text-shadow: 2px 2px 4px black;
+}
+.highlighted.darkon {
+    background-color: rgba(75, 75, 75, 0.554);
     text-shadow: 2px 2px 4px black;
 }
 

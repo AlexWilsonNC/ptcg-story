@@ -10,6 +10,10 @@
     color: white;
     text-shadow: 1px 1px 3px black;
 }
+.database-searcher.darkon {
+    background-color: #414141;
+    border: 2px solid black;
+}
 .margin-left {
     margin-left: 13px;
 }
@@ -24,6 +28,10 @@
     background-color: rgb(70, 70, 70);
     position: relative;
     margin-top: 25px;
+}
+.db-hr2.darkon, 
+.db-hr3.darkon {
+    background-color: black;
 }
 .db-hr3 {
     width: 100%;height:2px;
@@ -122,6 +130,9 @@
     flex-direction: column;
     align-items: center;
 }
+.set-info.darkon p {
+    color:white;
+}
 .live-set img {
     width: 225px;height:auto;
     margin-top: 10px;
@@ -169,8 +180,15 @@
     margin-top: 10px;
     align-items: center;
 }
+.set-white-box.darkon {
+    background-color: rgb(20, 20, 20);
+    color:white;
+}
 .hello, .collapse-select:hover {
   background-color: rgb(70, 70, 70);
+}
+.collapse-select.darkon:hover {
+  background-color: rgb(97, 97, 97);
 }
 .meep, .set-white-box:hover {
   background-color: rgb(189, 189, 189);
@@ -184,6 +202,9 @@
   content: '\002B';
   color: black;
   font-weight: bold;
+}
+.set-white-box.darkon:after {
+  color: white;
 }
 .hello:after,
 .meep:after {

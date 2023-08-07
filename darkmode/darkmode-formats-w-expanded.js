@@ -38,7 +38,6 @@ const enableDarkMode = () => {
     expandedformat.forEach((expandedformat) => {
       expandedformat.classList.add('darkon');
     });
-    console.log(meep)
 
     meep.forEach((meep) => {
       meep.classList.add('darkon');

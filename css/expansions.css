@@ -3,6 +3,9 @@
     justify-content: center;
     margin-bottom: 25px;
 }
+.expansion-table.darkon p {
+color:white;
+}
 .table-outline {
     border: 3px solid black;
     width: 80%;

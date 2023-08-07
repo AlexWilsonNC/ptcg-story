@@ -74,6 +74,9 @@
     color: rgb(0, 136, 255);
     font-weight: bold;
 }
+.flag-n-date.darkon p {
+    color: rgb(224, 160, 22);
+}
 .tl-content {
     font-size: 21px;
     margin: 5px 0px 5px 10px;
@@ -91,8 +94,11 @@
 }
 .single-event a {
     font-size: 16px;
-    margin-left: 10px;
+    max-width: 320px;
     color: blue;
+}
+.single-event.darkon a {
+    color: rgb(224, 160, 22);
 }
 
 .two-events {
@@ -114,7 +120,13 @@
     width: 15px;
     margin-right: 5px;
 } */
-
+.timeline-discl {
+    text-align: center;margin-bottom: 15px; font-size: 12px;font-style: italic;max-width: 75%; 
+}
+.timeline-discl.darkon {
+    margin: 15px 0; 
+    color:white;
+}
 .tl-vid {
     width: 560px;
     height: 315px;

@@ -134,7 +134,7 @@
     padding: 0px 20px 0px 50px;
     max-height: 0;
     overflow: hidden;
-    transition: max-height 0.2s ease-out;
+    transition: ease 0.2s ease-out;
     background-color: #f1f1f1;
     text-align: center;
     width:30%;
@@ -147,9 +147,14 @@
     padding: 0px 5px 0px 30px;
     max-height: 0;
     overflow: hidden;
-    transition: max-height 0.2s ease-out;
+    transition: ease 0.2s ease-out;
     background-color: #f1f1f1;
     width:57%;
+  }
+  .country-content.darkon,
+  .country-content2.darkon {
+    background-color: #191919;
+    color:white;
   }
 
 .light-set {

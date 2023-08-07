@@ -173,6 +173,9 @@ color:white;
 .italic {
     font-style: italic;
 }
+.italic.darkon {
+color: white;
+}
 .underline {
     text-decoration: underline;
 }
@@ -193,6 +196,12 @@ color:white;
     text-align: center;
     margin-bottom: 25px;
     max-width: 80%;
+}
+.copyright.darkon {
+    color:white;
+}
+.copyright.darkon a {
+    color: rgb(224, 160, 22);
 }
 .hide-it-yo {
     display: none;
@@ -347,9 +356,9 @@ color:white;
 .others-box:hover > .other-logos {
     color: rgb(79, 79, 79);
 }
-/* .others-box:hover > .others-box p {
-    background-color: rgb(37, 37, 37);
-} */
+.others-box.darkon:hover > .other-logos {
+    color: rgb(232, 232, 232);
+}
 .oth-pink {
     color:rgb(255, 63, 229);
 }
