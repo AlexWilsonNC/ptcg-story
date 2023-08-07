@@ -314,6 +314,7 @@
 }
 .deck-description.darkon {
     border: 2px solid black;
+    box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.2);
 }
 .deck-description p {
     max-width: 87%;
@@ -434,6 +435,7 @@
 }
 .deck-box.darkon {
     border: 2px solid black;
+    box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.2);
 }
 .pokemon-card2 {
     position: relative;
@@ -530,6 +532,9 @@ margin-top: auto;
 }
 .format-sets-promo.darkon li {
     color:white;
+}
+.format-sets-promo.darkon a {
+    color: rgb(224, 160, 22);
 }
 .format-sets-promo img {
     height: auto;
@@ -736,6 +741,7 @@ margin-top: auto;
     box-shadow: 5px 5px 5px rgba(9, 16, 74, 0.7);
     transition: ease all 0.19s;
 }
+.expanded-format.darkon,
 .top-format-expanded-graphic.darkon {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
     border:1px solid white;
@@ -801,6 +807,9 @@ margin-top: auto;
 }
 .specific-format:hover > h3 {
     color: rgb(187, 173, 45);
+}
+.specific-format.darkon:hover > h3 {
+    color: rgb(224, 160, 22)
 }
 .specific-format:hover > .worlds-expanded-txt {
     color: rgb(187, 173, 45);
@@ -896,6 +905,12 @@ margin-top: auto;
     max-width: 70%;
     text-align: center;
     font-size: 16px;
+}
+.message-us.darkon {
+    color: white;
+}
+.message-us.darkon a {
+    color: rgb(224, 160, 22);
 }
 .opace {
     opacity: 0.4;
