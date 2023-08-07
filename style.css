@@ -164,6 +164,9 @@ hr {
 .small-text {
     font-size: 12px;
 }
+.small-text.darkon {
+color:white;
+}
 .too-much {
     max-width: 85%;
 }

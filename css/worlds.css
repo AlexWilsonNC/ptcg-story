@@ -4,18 +4,6 @@
     margin-top: 25px;
 }
 
-/* .worlds-bg-img {
-    position: fixed;
-    top: 0; left: 0;
-    z-index: -1;
-    opacity: 0.075;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
-
-} */
-
 .worlds-icons {
     display: flex;
     justify-content: space-around;
@@ -75,12 +63,23 @@
 .nats-box:hover img {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.7);
 }
-
 .worlds-box:hover>p,
 .nats-box:hover p,
 .others-box:hover p {
     box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.7);
     color: rgb(187, 173, 45);
+}
+.worlds-box.darkon:hover>img,
+.alternate-formats.darkon:hover>img,
+.nats-box.darkon:hover img {
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.8);
+}
+.worlds-box.darkon:hover>p,
+.nats-box.darkon:hover p,
+.others-box.darkon:hover p,
+.alternate-formats.darkon:hover p {
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.8);
+    color: rgb(224, 160, 22);
 }
 
 .others-box {
@@ -111,10 +110,9 @@
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
     pointer-events: none;
 }
-.worlds-box.darkon img {
+/* .worlds-box.darkon img {
     border: 2px solid black;
-    /* box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2); */
-}
+} */
 
 .other-cont-box img {
     width: 410px;
@@ -146,7 +144,9 @@
     padding: 5px 35px;
     transition: ease all 0.15s;
 }
-.worlds-box.darkon p {
+.worlds-box.darkon p,
+.others-box.darkon p,
+.alternate-formats.darkon p {
     background-color: #414141;
     color: white;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
@@ -727,12 +727,23 @@ li {
     flex-direction: column;
     align-items: center;
 }
+.opace123 {
+    background-color: rgb(192, 192, 192) !important;
+}
+.opace123.darkon {
+    background-color: #414141 !important;
+    opacity:0.3;
+}
 
 .country-txt {
     max-width: 75%;
     margin: 0px 0px;
     text-align: center;
     font-size: 18px;
+}
+.country-txt.darkon {
+    color: #e1e1e1;
+    margin-top: 10px;
 }
 
 .country-txt2 {

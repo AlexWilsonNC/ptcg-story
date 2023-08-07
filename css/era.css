@@ -5,12 +5,16 @@
 .top-era-selector {
     width: 70%;
     background-color: #313131;
-    /* border-bottom: 4px solid rgb(49, 49, 49); */
     display: flex;
     justify-content: space-around;
     align-items: center;
     color: #fff;
     padding: 10px 0px;
+}
+.top-era-selector.darkon {
+    background-color: #191919;
+    border-top: 2px solid grey;
+    /* color: #fff; */
 }
 .top-era-selector h2 a {
     color: white;
@@ -35,7 +39,7 @@
     width: 40%;
 }
 .era-toc-name {
-    background-image: linear-gradient(to bottom right, rgb(62, 28, 28), rgb(137, 123, 0));
+    background-image: linear-gradient(to bottom right, rgb(88, 79, 94), rgb(25, 22, 31));
     color:white;
     font-weight: 600;
     font-size: 22px;
@@ -43,6 +47,10 @@
     position: absolute;
     margin-top: -22px;
     margin-left: -9px;
+    border: 1px solid black;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 .era-toc-box {
     border: 1px solid rgba(0, 0, 0, 0.5);
@@ -54,6 +62,10 @@
     flex-direction: row;
     justify-content: space-around;
     width: 40%;
+}
+.era-toc-box.darkon {
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 .era-toc-box ul {
     list-style-type: circle;
@@ -109,6 +121,9 @@
     transition: ease all 0.2s;
     z-index: 1559;
 }
+.scroll-top-btn.darkon {
+    border: 1px solid grey;
+}
 .scroll-top-btn:hover {
     background-color: rgb(61, 61, 86);
     box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.75);
@@ -145,6 +160,11 @@
     border-radius: 15px;
     padding: 5px 35px;
     background-color: #313131;
+}
+.format.darkon {
+    background-color: #414141;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+    border:1px solid black;
 }
 .format-banned {
     font-size: 26px;
@@ -276,6 +296,9 @@
 .decks-main h3 {
     font-size: 26px;
 }
+.decks-main.darkon h3 {
+    color: white;
+}
 .deck-description {
     width: 40.5%;
     text-align: start;
@@ -288,6 +311,9 @@
     flex-direction: column;
     align-items: center;
     background-image: linear-gradient(to top right, #000428 , #004e92);
+}
+.deck-description.darkon {
+    border: 2px solid black;
 }
 .deck-description p {
     max-width: 87%;
@@ -399,12 +425,15 @@
     justify-content: center;
     flex-wrap: wrap;
     padding: 15px 10px;
-    z-index: 2;
+    z-index: 0;
     background-size: cover; 
     background-position: center center;
     background-repeat: no-repeat;
     box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
     background-image: url(../assets/dark-bg.png) !important;
+}
+.deck-box.darkon {
+    border: 2px solid black;
 }
 .pokemon-card2 {
     position: relative;
@@ -498,6 +527,9 @@ margin-top: auto;
 }
 .format-sets-promo li {
     margin: 3px 0px;
+}
+.format-sets-promo.darkon li {
+    color:white;
 }
 .format-sets-promo img {
     height: auto;
@@ -684,6 +716,12 @@ margin-top: auto;
     box-shadow: 5px 5px 5px rgba(23, 12, 44, 0.7);
     transition: ease all 0.19s;
 }
+.specific-format.darkon,
+.top-format-graphic.darkon {
+    background-color: #191919;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    border: 1px solid black
+}
 .expanded-format,
 .top-format-expanded-graphic {
     width: 55%;height:115px;
@@ -697,6 +735,10 @@ margin-top: auto;
     border-radius: 25px;
     box-shadow: 5px 5px 5px rgba(9, 16, 74, 0.7);
     transition: ease all 0.19s;
+}
+.top-format-expanded-graphic.darkon {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
+    border:1px solid white;
 }
 .worlds-expanded-txt h4 {
     font-size: 28px;

@@ -1,0 +1,1500 @@
+.left-vs-kyurem-vmax.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/drapion-v.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-giratina-vstar.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/giratina-vstar.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-dark-blastoise.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/ro.003.dark_blastoise.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-typhlosion.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/typhlosion.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-mewtwo-ex.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/mewtwo-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-black-kyurem.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/black-kyurem.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-arcanine.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/arcanine.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-crobat.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/crobat.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-archeops-2022.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/archeops-2022.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-lugia-vstar.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/lugia-vstar.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.right-vs-prigroudon.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/primal-groudon-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-radiant-zard.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/radiant-charizard.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-donphan-n1.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/n1.021.donphan.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-laser.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/hypnotoxic-laser.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-vespiquen.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/vespiquen.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-terrakion.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/terrakion-nvi-fa.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-thundurus.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/thundurus-fa.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-gengarbabty.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/sf.018.gengar.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-dusknoir.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/sf.096.dusknoir_lv_x.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-arceus-lvx.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/ar.094.arceus_lv_x.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-lucario.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/lucario-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-emboar-ltr.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/emboar-ltr.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-meloetta.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/meloetta-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-victini.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/victini-fa.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-mewtwo-movie.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/mewtwo-movie-promo.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-wigglytuff.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/wigglytuff.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-gallade.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/gallade.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-gardevoir.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/gardevoir-psychic-lock.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-magmortar.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/magmortar-lvx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-uxie.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/uxie-lvx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-weavile.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/weavile.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-darkrai-lvx.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/darkrai-lvx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-torterra.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/torterra-lvx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-jolteon-star.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/jolteon-star.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-metaggross.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/metagross-deltaspecies.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-dragonite.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/dragonite-delta.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-lugia.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/lugia-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-blastoise-ex.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/blastoise-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-ludicolo.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/ludicolo.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-dark-ttar.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/dark-tyranitar.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-salamence.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/salamence-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-ampharos.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/dark-ampharos.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-mew-p.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/mew-prime.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-n.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/n-fa.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-magnezone.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/magnezone-prime.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-blastoise.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/blastoise.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-reshiram.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/reshiram-fa.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-blaziken.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/blaziken-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-groudon.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/groudon-magma-new.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-mew-ex.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/mew-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-rayquaza-star.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/rayquaza-star.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-absol.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/absol-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-bannete.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/banette-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-scyther.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/scyther.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-gardey.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/gardevoir-lvx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-blastoise.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/blastoise.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-hitmonchan.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/hitmonchan.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-electabuzz.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/electabuzz.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+/************************************************/
+
+.left-vs-dark-vileplume.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/dark-vileplume.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-muk.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/muk.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-mewtwo-promo2.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/mewtwo-promo2.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-rocket-zapdos.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/sneak-attk.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-rocket-gyarados.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/dark-gyarados.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-erika-venusaur.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/erika-venusaur.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+.right-vs-slowking.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/slowking.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-cleffa.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/n1.020.cleffa.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-feral.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/n1.005.feraligatr.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-entei.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/n3.006.entei_.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-scizor.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/aq.H21.scizor.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-zard.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/ex.006.charizard.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-kingrda.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/aq.019.kingdra.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-jirachi-ex.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/jirachi-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-landorus.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/landorus-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-claydol.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/claydol.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-azelf.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/azelf-lvx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-flareon.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/flareon-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-flygon.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/flygon-grass.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-steelix.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/steelix-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-dark-dragonite.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/dark-dragonite.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-kyurem.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/kyurem.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-lugia-ex.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/lugia-ex-plasma.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-accelgor.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/accelgor.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-emboar.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/emboar.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-rayquaza-ex.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/rayquaza-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-sableye.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/sableye-junk-hunt.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-entei-suicune.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/suicune-entei-top.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+.left-vs-palkia-vstar.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/palkia-vmax-origin-forme.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-flying-pikachu.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/flying-pikachu-vmax.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-rs-urshifu.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/rs-urshifu-vmax.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-arceus-vstar.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/arceus-vstar.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-mew-vmax.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/mew-vmax.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-gengar-vmax.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/gengar-vmax.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-buzzwole.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/buzzwole.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-lele.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/tapu-lele-gx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-yveltal-ex-standard.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/yveltal-ex-right.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-trump-card.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/lysandres-trump-card.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-exeggutor.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/exeggutor.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-radiant-grninja.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/radiant-greninja.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-m2vunion.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/mewtwo-v-unvion-topright.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-gardevoir-gx.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/gardevoir-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-espeon.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/espeon-gx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-gardey-sylveon.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/gardevoir-sylveon-gx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-audino.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/m-audino-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-manaphy.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/manaphy-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-palkialvx.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/palkia-lvx-lost-cyclone.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-flygon.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/flygon-lvx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-infernapelvx.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/infernape-lvx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-machamp.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/machamp-lvx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-ir-caly.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/ice-rider-calyrex-vmax.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-sr-caly.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/calyrex-vmax-shadow-rider.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-zacian-v.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/zacian-v.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-pikarom.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/pikachu-zekrom-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-adp.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/adp-gx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-lucmetal.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/lucario-melmetal-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-mewthree.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/mewtwo-mew.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-eternatus.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/eternatus-vmax.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-blacephalon-baby.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/baby-blacephalon.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-tinachomp.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/giratina-garchomp-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-malamar.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/malamar.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-oranguru.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/oranguru-resource-manag.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-reshizard.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/reshiram-charizard-gx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-zoroark.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/zoroark-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-reshizard.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/reshiram-charizard-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-lycanroc.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/lycanroc-gx-midnight.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-necrozma.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/necrozma-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-rayquaza-gx.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/rayquaza-gx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-blacephalon-gx.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/blacephalon-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-granbull.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/granbull.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-tapu-bulu.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/tapu-bulu-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-inteleon.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/inteleon-shady-dealings.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-buzzwole-gx.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/buzzwole-gx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-golisopod.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/golisopod-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-silvally.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/silvally-gx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-drampa.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/drampa-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-volcanion.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/volcanion-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-decidueye.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/decidueye-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-alolan-ninetales.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/ninetales-gx-alolan.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-vileplume.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/vileplume.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-mega-mewtwo.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/mega-mewtwo-y-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-darkrai-bkp.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/darkrai-ex-bkp.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-vespiquen.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/vespiquen.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-greninja.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/greninja.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-giratina-block.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/giratina-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-joltik.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/joltik.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-seismitoad.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/seismitoad-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-garbodor-ltr.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/garbodor-ltr.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-donphan.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/donphan-prime.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-dialga-lvx.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/dialga-lvx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-gyarados.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/gyarados.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-gengar-lvx.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/gengar-lvx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-sableye.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/sableye-overgear.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-garchomp.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/garchomp-lvx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-umbreon-vmax.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/umbreon-vmax.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-jolteon-vmax.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/jolteon-vmax.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-dusknoir.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/dusknoir.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-pyroar.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/pyroar.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-zekrom.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/zekrom-fa.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-vileplume-hgss.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/vileplume-hgss.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-luxray.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/luxray.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-trashalanche.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/garbodor-trashalanche.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-kyurem.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/kyurem.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-accelgor.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/accelgor.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-tornadus.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/tornadus-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-celebi.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/celebi-prime.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-wailord.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/wailord-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-shaymin-ros.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/shaymin-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-jirachi-prism.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/jirachi-prism.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-manectric.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/manectric-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-dragapult-vmax.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/dragapult-vmax.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-trev-standard.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/trevenant.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-mewtwo-ex.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/mewtwo-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-keldeo-ex.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/keldeo-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-genesect-ex.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/genesect-ex-plasma.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-dragapult-vmax.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/dragapult-vmax.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-virizion-ex.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/virizion-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-aromatisse.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/aromatisse.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-darkrai-cloak.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/darkrai-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+/******** EXPANDED *******/
+
+.left-vs-doll.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/lillies-poke-doll.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-trevnoir.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/trevenant-dusknoir-gx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-zoroninja.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/greninja-zoroark-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-trevenant-break.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/trevenant-break.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-karplord.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/magikarp-wailord-gx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-garbotoxin-bkp.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/garbodor-garbotoxin.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-zoroark-standin.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/zoroark.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-marshadow-gx.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/marshadow-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-trev.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/trevenant.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-mega-ray.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/mega-rayquaza-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-yveltal-ex.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/yveltal-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-turtonator.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/turtonator-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-pumpkaboo.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/pumpkaboo.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-zygarde.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/zygarde-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-ninja-break.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/greninja-break.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.left-vs-tinachomp-exp.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/giratina-garchomp-gx.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-seismitoad-expanded.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/seismitoad-ex.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-snorlax-block.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/snorlax-block.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-rowlett-eggs.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/rowlett-exeggcutor-gx.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-jirachi.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/dx.009.jirachi.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-admin.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/tr.086.rockets_admin.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-electrode.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/electrode.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-compsearch.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/computer-search.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.left-vs-archeops.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/archeops.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-stantler.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/stantler.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+/*************************************************************/
+
+.left-vs-feraligatr-prime.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/feraligatr-prime.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-gengar-prime.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/gengar-prime.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-jirachi-d.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/dx.009.jirachi.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-admin-d.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/tr.086.rockets_admin.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-electrode-d.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/electrode.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-stantler-d.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/stantler.png);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.right-vs-smeargle.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/pichu.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.left-vs-sneasel.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/sneasel.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
+.right-vs-chansey.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(205,205,205,0) 70%, rgba(4205,205,205,0.2) 75%, rgba(205,205,205,0.4) 80%, rgba(205,205,205,0.6) 85%, rgba(205,205,205,0.7) 90%, rgba(205,205,205,1) 100%), url(../assets/vs-formats/bs.003.chansey.jpg);
+    width:33%;height:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
