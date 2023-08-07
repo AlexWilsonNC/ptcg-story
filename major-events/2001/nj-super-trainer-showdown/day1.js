@@ -149,8 +149,8 @@ let masters = [
   {
     firstName: 'Ben Zoz',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite1: '../../../assets/sprites/steelix.png',
+    sprite2: '../../../assets/sprites/zapdos.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
