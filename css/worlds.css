@@ -280,6 +280,9 @@ h3.darkon,
     flex-direction: column;
     align-items: center;
 }
+.summ-right.darkon a {
+    color: rgb(224, 160, 22);
+}
 
 .summ-right * {
     margin-bottom: 7px;

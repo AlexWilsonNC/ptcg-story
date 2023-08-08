@@ -10,6 +10,7 @@ const dropitdown1 = document.querySelector('.drop-it-down1');
 const dropitdown2 = document.querySelector('.drop-it-down2');
 
 const extranav = document.querySelector('.extra-nav');
+const summright = document.querySelector('.summ-right');
 const h2 = document.querySelectorAll('h2');
 const h3 = document.querySelectorAll('h3');
 const pp = document.querySelectorAll('p');
@@ -28,6 +29,7 @@ const enableDarkMode = () => {
     dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
     extranav.classList.add('darkon');
+    summright.classList.add('darkon');
     // h2.classList.add('darkon');
     // h3.classList.add('darkon');
 
@@ -62,7 +64,7 @@ const enableDarkMode = () => {
     dropitdown2.classList.remove('darkon');
     extranav.classList.remove('darkon');
     // h2.classList.remove('darkon');
-    // h3.classList.remove('darkon');
+    summright.classList.remove('darkon');
 
     pp.forEach((pp) => {
       pp.classList.remove('darkon');
