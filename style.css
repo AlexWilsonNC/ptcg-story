@@ -239,6 +239,9 @@ color: white;
     width: 75%;
     position: relative;
 }
+.image-text-creator.darkon {
+    color: white;
+}
 .image-text-creator.darkon p,
 .image-text-creator.darkon h2 {
     color: rgb(234, 234, 234);

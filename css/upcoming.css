@@ -74,10 +74,11 @@ table i {
 }
 td div a:hover,
 table i:hover,
-.upcoming-events-table.darkon i {
+.upcoming-events-table.darkon i,
+.upcoming-events-table.darkon div a:hover {
     color: rgb(224, 160, 22);
 }
-.upcoming-events-table.darkon td div a:hover,
+/* .upcoming-events-table.darkon td div a:hover, */
 .upcoming-events-table.darkon i:hover {
     color: white;
 }
