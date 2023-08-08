@@ -9,7 +9,10 @@ const navrightr = document.getElementById('nav-rightr');
 const dropitdown1 = document.querySelector('.drop-it-down1');
 const dropitdown2 = document.querySelector('.drop-it-down2');
 
-const worldsbox = document.querySelectorAll(".worlds-box");
+const imagetextcreator = document.querySelector(".image-text-creator");
+const red = document.querySelector(".red");
+const countrytxt = document.querySelector(".country-txt");
+const socials = document.querySelectorAll(".socials");
 
 const enableDarkMode = () => {
     document.body.classList.add('darkon');
@@ -21,9 +24,12 @@ const enableDarkMode = () => {
     navrightr.classList.add('darkon');
     dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
+    imagetextcreator.classList.add('darkon');
+    red.classList.add('darkon');
+    countrytxt.classList.add('darkon');
 
-    worldsbox.forEach((worldsbox) => {
-      worldsbox.classList.add('darkon');
+    socials.forEach((socials) => {
+      socials.classList.add('darkon');
     })
 
     localStorage.setItem('darkMode', 'enabled');
@@ -39,10 +45,15 @@ const enableDarkMode = () => {
     navrightr.classList.remove('darkon');
     dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
+    imagetextcreator.classList.remove('darkon');
+    red.classList.remove('darkon');
+    countrytxt.classList.remove('darkon');
 
-    worldsbox.forEach((worldsbox) => {
-      worldsbox.classList.remove('darkon');
+
+    socials.forEach((socials) => {
+      socials.classList.remove('darkon');
     })
+
     localStorage.setItem('darkMode', null);
   };
   

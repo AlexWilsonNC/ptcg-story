@@ -143,6 +143,11 @@ hr {
     background-color: rgb(49, 49, 49);
     border-bottom: 4px solid rgb(49, 49, 49);
 }
+.extra-nav.darkon {
+    background-color: #191919;
+    border-top: 2px solid grey;
+    border-bottom: 4px solid #191919;
+}
 .extra-nav a {
     color:white;
     margin: 0px 50px;
@@ -234,6 +239,10 @@ color: white;
     width: 75%;
     position: relative;
 }
+.image-text-creator.darkon p,
+.image-text-creator.darkon h2 {
+    color: rgb(234, 234, 234);
+}
 .image-text h2,
 .image-text-creator h2 {
     font-size: 36px;
@@ -321,6 +330,9 @@ color: white;
     width: 90px;
     height: 90px;
 }
+.red {
+    color:red;
+}
 .twitter img {
     width: 91px;
     height: 90px;
@@ -340,6 +352,10 @@ color: white;
     margin-top: 10px;
     font-size: 20px;
     text-align: center;
+}
+.socials.darkon p,
+.red.darkon {
+    color: rgb(224, 160, 22);
 }
 .hide-big {
     display: none;

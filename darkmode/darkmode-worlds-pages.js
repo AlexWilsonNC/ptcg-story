@@ -9,7 +9,13 @@ const navrightr = document.getElementById('nav-rightr');
 const dropitdown1 = document.querySelector('.drop-it-down1');
 const dropitdown2 = document.querySelector('.drop-it-down2');
 
-const worldsbox = document.querySelectorAll(".worlds-box");
+const extranav = document.querySelector('.extra-nav');
+const h2 = document.querySelectorAll('h2');
+const h3 = document.querySelectorAll('h3');
+const pp = document.querySelectorAll('p');
+const prizingheader = document.querySelectorAll('.prizing-header');
+const autoday2area2 = document.querySelectorAll('.auto-day2-area2');
+
 
 const enableDarkMode = () => {
     document.body.classList.add('darkon');
@@ -21,9 +27,24 @@ const enableDarkMode = () => {
     navrightr.classList.add('darkon');
     dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
+    extranav.classList.add('darkon');
+    // h2.classList.add('darkon');
+    // h3.classList.add('darkon');
 
-    worldsbox.forEach((worldsbox) => {
-      worldsbox.classList.add('darkon');
+    pp.forEach((pp) => {
+      pp.classList.add('darkon');
+    })
+    h2.forEach((h2) => {
+      h2.classList.add('darkon');
+    })
+    h3.forEach((h3) => {
+      h3.classList.add('darkon');
+    })
+    prizingheader.forEach((prizingheader) => {
+      prizingheader.classList.add('darkon');
+    })
+    autoday2area2.forEach((autoday2area2) => {
+      autoday2area2.classList.add('darkon');
     })
 
     localStorage.setItem('darkMode', 'enabled');
@@ -39,10 +60,26 @@ const enableDarkMode = () => {
     navrightr.classList.remove('darkon');
     dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
+    extranav.classList.remove('darkon');
+    // h2.classList.remove('darkon');
+    // h3.classList.remove('darkon');
 
-    worldsbox.forEach((worldsbox) => {
-      worldsbox.classList.remove('darkon');
+    pp.forEach((pp) => {
+      pp.classList.remove('darkon');
     })
+    h2.forEach((h2) => {
+      h2.classList.remove('darkon');
+    })
+    h3.forEach((h3) => {
+      h3.classList.remove('darkon');
+    })
+    prizingheader.forEach((prizingheader) => {
+      prizingheader.classList.remove('darkon');
+    })
+    autoday2area2.forEach((autoday2area2) => {
+      autoday2area2.classList.remove('darkon');
+    })
+
     localStorage.setItem('darkMode', null);
   };
   

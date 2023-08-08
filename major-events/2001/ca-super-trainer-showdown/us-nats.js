@@ -217,8 +217,8 @@ let masters = [
   {
     firstName: 'Jason Klaczynski',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite1: '../../../assets/sprites/typhlosion.png',
+    sprite2: '../../../assets/sprites/arcanine.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -950,8 +950,8 @@ let juniors = [
   {
     firstName: 'Seena Ghaziaskar',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/crobat.png',
+    sprite1: '../../../assets/sprites/crobat.png',
+    sprite2: '../../../assets/sprites/murkrow.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
@@ -1355,8 +1355,8 @@ let juniors = [
   {
     firstName: 'Raul Stern',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/crobat.png',
+    sprite1: '../../../assets/sprites/crobat.png',
+    sprite2: '../../../assets/sprites/murkrow.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
