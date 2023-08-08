@@ -11,11 +11,18 @@
     width: 80%;
 }
 
+p.darkon a {
+    color: rgb(224, 160, 22);
+}
 p.darkon,
 h2.darkon,
 h3.darkon,
+h5.darkon,
 .prizing-header.darkon {
     color:rgb(241, 241, 241);
+}
+h2.darkon {
+    text-shadow: 1px 1px 3px black;
 }
 .auto-day2-area2.darkon li {
     color:rgb(201, 201, 201);
@@ -225,6 +232,7 @@ h3.darkon,
 
 .cp {
     width: 80%;
+    border-radius: 10px;
 }
 .cp-last {
     width: 50%;
@@ -280,7 +288,8 @@ h3.darkon,
     flex-direction: column;
     align-items: center;
 }
-.summ-right.darkon a {
+.summ-right.darkon a,
+.hidden-top-summ.darkon a {
     color: rgb(224, 160, 22);
 }
 
@@ -411,10 +420,11 @@ h3.darkon,
 
 .light-bg {
     background-color: rgb(235, 235, 235);
-    /* box-shadow: 2px 2px 4px rgba(0,0,0,0.4); */
+    color:black !important;
 }
 .dark-bg {
     background-color: rgb(142, 142, 142);
+    color:black !important;
 }
 
 .light-bg:hover {
@@ -444,8 +454,6 @@ li {
     align-items: center;
     /* justify-content: flex-start; */
     padding-left: 15px;
-}
-.name-n-flag {
     font-size: 18px;
 }
 .flag-size {
@@ -467,6 +475,9 @@ li {
     height: 50px;
     width: 100%;
     max-height: 50px;
+}
+.masters-ol li {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.04);
 }
 .player-deck-icons {
     display: flex;                     /* remove? */
@@ -508,6 +519,7 @@ li {
 .meta-chart {
     width: 100%;
     margin: 15px 0px;
+    border-radius: 15px;
 }
 
 .small-meta-chart {
@@ -1134,7 +1146,9 @@ li {
     .auto-day2-area {
         width: 70%;
     }
-
+    .shrink-it {
+        width: 100%;
+    }
     .prize-zone {
         width: 80%;
     }
