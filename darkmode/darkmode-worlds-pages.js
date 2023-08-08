@@ -18,6 +18,7 @@ const h5 = document.querySelectorAll('h5');
 const pp = document.querySelectorAll('p');
 const prizingheader = document.querySelectorAll('.prizing-header');
 const autoday2area2 = document.querySelectorAll('.auto-day2-area2');
+const day2left = document.querySelectorAll('.day2-left');
 
 
 const enableDarkMode = () => {
@@ -56,6 +57,9 @@ const enableDarkMode = () => {
     autoday2area2.forEach((autoday2area2) => {
       autoday2area2.classList.add('darkon');
     })
+    day2left.forEach((day2left) => {
+      day2left.classList.add('darkon');
+    })
 
     localStorage.setItem('darkMode', 'enabled');
   };
@@ -93,6 +97,9 @@ const enableDarkMode = () => {
     })
     autoday2area2.forEach((autoday2area2) => {
       autoday2area2.classList.remove('darkon');
+    })
+    day2left.forEach((day2left) => {
+      day2left.classList.remove('darkon');
     })
 
     localStorage.setItem('darkMode', null);

@@ -15,6 +15,7 @@
     <meta property='og:image:height' content='627' />
     <title>PTCG Legends | 25th PC Invitational</title>
     <link rel="stylesheet" href="../../../style.css">
+    <link rel="stylesheet" href="../../../css/nav.css">
     <link rel="stylesheet" href="../../../css/worlds.css">
     <link rel="stylesheet" href="../../../css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,18 +28,85 @@
 </head>
 
 <body>
-    <nav id="top-nav">
-        <div id="nav-left">
+    <nav id="top-navr">
+        <div id="nav-leftr">
             <a href="../../../home">
-                <img src="../../../assets/trophy-icon.png" alt="pokeball logo">
-                <h1>PTCG <span class='legends'>Legends</span></h1>
+                <img src="" alt="pokeball logo">
+                <h1>PTCG <span class='legendsr'>Legends</span></h1>
             </a>
         </div>
-        <div id="nav-right">
-            <a class="inactive" href="../../../worlds/main">Worlds</a>
-            <a class="active" href="../../../major-events/main">Major Events</a>
-            <a class="inactive" href="../../../decks-by-era/main">Decks by Era</a>
-            <a class="inactive other-tab" href="../../../other/main">Other <i class="fas fa-chevron-down"></i></a>
+        <div class='push-right1'>
+            <ul id="nav-rightr">
+                <li><a href="../../../tournaments">Tournaments <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down1'>
+                        <li><a href='../../../tournaments/upcoming'>Upcoming Events</a></li>
+                        <li><a href='../../../tournaments/completed'>Completed Events</a></li>
+                    </ul>
+                </li>
+                <li><a href="../../../event-archive">Event Archive <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down2'>
+                        <li><a href='../../../worlds/main'>Worlds</a></li>
+                        <li><a href='../../main'>Major Events</a></li>
+                        <li><a href='../../../tournaments/regional-spe' style='color:rgba(128, 128, 128, 0.52);pointer-events: none;'>Regionals & SPEs</a></li>
+                    </ul>
+                </li>                
+                <li><a href="../../../decks-by-era/main">Decks by Era</a></li>
+                <li><a href="../../../articles/all" style='color:rgba(128, 128, 128, 0.52);pointer-events: none;'>Articles</a></li>
+            </ul>
+            <nav role="navigation">
+                <div id="menuToggle">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <ul id="menu">
+                        <div class='push-right'>
+                            <div onclick='rememberButton(this.id)' id='toggle'>
+                                <i class='indicator'></i>
+                                <div></div>
+                                <div></div>
+                            </div>
+                        </div>
+                        <!-- <li class='bold tittle'><a href="#">Mainpage</a></li>
+                        <hr> -->
+                        <li class='bold tittle'><a href="../../../tournaments">Tournaments</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/upcoming">Upcoming Events</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/completed">Completed Events</a></li>
+                        <li class='bold tittle'><a href="../../../event-archive">Event Archive</a></li>
+                        <li class='sub-nav'><a href="../../../worlds/main">World Championships</a></li>
+                        <li class='sub-nav'><a href="../../main">Major Events (ICs, Nats, SCs)</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/regional-spe" style='color:rgba(128, 128, 128, 0.52);pointer-events: none;'>Regionals & SPEs</a>
+                        </li>
+                        <li class='bold tittle'><a href="../../../decks-by-era/main">Decks by Era</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../articles/all" style='color:rgba(128, 128, 128, 0.52);pointer-events: none;'>Articles (Coming Soon)</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../other/main">Other</a></li>
+                        <li class='sub-nav'><a href="../../../card-database">Pokémon Card Database</a></li>
+                        <li class='sub-nav'><a href="../../../other/expansions">TCG Expansions</a></li>
+                        <li class='sub-nav'><a href="../../../other/rules-by-era">Rules by Era</a></li>
+                        <li class='sub-nav'><a href="../../../other/banned-cards">Banned Cards</a></li>
+                        <li class='sub-nav'><a href="../../../other/timeline">Historic Timeline</a></li>
+                        <li class='sub-nav'><a href="../../../other/worlds-booklets">Worlds Booklets</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../contact">Contact & Socials</a></li>
+                        <div class='social-popup'>
+                            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                                <img src='../../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                                <img src='../../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='' target="_blank">
+                                <img src='../../../assets/patreon.webp' />
+                            </a>
+                            <a href='mailto:ptcglegends@gmail.com'>
+                                <img src='../../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                        </div>
+                    </ul>
+                </div>
+            </nav>
         </div>
     </nav>
 
@@ -160,7 +228,7 @@
         </div>
         <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon Trading Card Game, including card text and images and tournament-related content, are copyrights of The Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast. This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br>This website is simply a place for Pokémon TCG fans to look back in time at events and results from the greatest game in history!</div>
     </footer>
-    <script src='../darkmode.js'></script>
+    <script src='../../../darkmode/darkmode-worlds-res-tweets.js'></script>
 
     <script src='./25th-pc.js'></script>
     <!-- <script src='../../../worlds/division.js'></script> -->

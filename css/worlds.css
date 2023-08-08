@@ -24,7 +24,8 @@ h5.darkon,
 h2.darkon {
     text-shadow: 1px 1px 3px black;
 }
-.auto-day2-area2.darkon li {
+.auto-day2-area2.darkon li,
+.day2-left.darkon li {
     color:rgb(201, 201, 201);
 }
 
@@ -84,7 +85,7 @@ h2.darkon {
 .nats-box:hover p,
 .others-box:hover p {
     box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.7);
-    color: rgb(187, 173, 45);
+    color: rgb(224, 160, 22)
 }
 .worlds-box.darkon:hover>img,
 .alternate-formats.darkon:hover>img,
@@ -111,7 +112,7 @@ h2.darkon {
     -webkit-box-shadow: rgba(255, 255, 255, 0.586) 2px 2px 7px;
     -moz-box-shadow: rgba(255, 255, 255, 0.586) 2px 2px 7px;
     box-shadow: rgba(255, 255, 255, 0.586) 2px 2px 7px;
-    color: rgb(187, 173, 45);
+    color: rgb(224, 160, 22)
 }
 
 .deck-rd img {
@@ -591,7 +592,7 @@ li {
 .videos-section div a {
     color: blue;
 }
-.videos-section.darkon div a {
+.videos-section.darkon a {
     color: rgb(224, 160, 22);
 }
 

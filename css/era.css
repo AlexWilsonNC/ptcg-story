@@ -823,6 +823,9 @@ margin-top: auto;
 .specific-format:hover > .worlds-expanded-txt {
     color: rgb(187, 173, 45);
 }
+.specific-format.darkon:hover > .worlds-expanded-txt {
+    color: rgb(224, 160, 22)
+}
 .expanded-format:hover {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
