@@ -10,6 +10,9 @@ const dropitdown1 = document.querySelector('.drop-it-down1');
 const dropitdown2 = document.querySelector('.drop-it-down2');
 
 const extranav = document.querySelector('.extra-nav');
+const mastersol = document.querySelector('.masters-ol');
+const seniorsol = document.querySelector('.seniors-ol');
+const juniorsol = document.querySelector('.juniors-ol');
 const h2 = document.querySelectorAll('h2');
 const pp = document.querySelectorAll('p');
 const twittertweet = document.querySelectorAll('.twitter-tweet');
@@ -26,6 +29,10 @@ const enableDarkMode = () => {
     dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
     extranav.classList.add('darkon');
+
+    mastersol.classList.add('darkon');
+    seniorsol.classList.add('darkon');
+    juniorsol.classList.add('darkon');
 
     pp.forEach((pp) => {
       pp.classList.add('darkon');
@@ -52,6 +59,10 @@ const enableDarkMode = () => {
     dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
     extranav.classList.remove('darkon');
+
+    mastersol.classList.add('darkon');
+    seniorsol.classList.add('darkon');
+    juniorsol.classList.add('darkon');
 
     pp.forEach((pp) => {
       pp.classList.remove('darkon');

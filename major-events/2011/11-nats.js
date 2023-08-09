@@ -1887,6 +1887,8 @@ function displayList(array = []) {
         listIcon.classList.add('list-icon');
         listIcon.setAttribute('src', item.list);
 
+    
+
         item_element.appendChild(title);
         title.appendChild(playerName);
         playerName.append(item.firstName);
@@ -2024,6 +2026,8 @@ function displayList2(array = []) {
         let listIcon = document.createElement('img');
         listIcon.classList.add('list-icon');
         listIcon.setAttribute('src', item.list);
+
+    
 
         item_element.appendChild(title);
         title.appendChild(playerName);
@@ -2165,6 +2169,8 @@ function displayList3(array = []) {
         listIcon.classList.add('list-icon');
         listIcon.setAttribute('src', item.list);
 
+    
+
         item_element.appendChild(title);
         title.appendChild(playerName);
         playerName.append(item.firstName);
@@ -2304,6 +2310,8 @@ function displayList4(array = []) {
         let listIcon = document.createElement('img');
         listIcon.classList.add('list-icon');
         listIcon.setAttribute('src', item.list);
+
+    
 
         item_element.appendChild(title);
         title.appendChild(playerName);
@@ -2445,6 +2453,8 @@ function displayList5(array = []) {
         listIcon.classList.add('list-icon');
         listIcon.setAttribute('src', item.list);
 
+    
+
         item_element.appendChild(title);
         title.appendChild(playerName);
         playerName.append(item.firstName);
@@ -2584,6 +2594,8 @@ function displayList6(array = []) {
         let listIcon = document.createElement('img');
         listIcon.classList.add('list-icon');
         listIcon.setAttribute('src', item.list);
+
+    
 
         item_element.appendChild(title);
         title.appendChild(playerName);
@@ -2725,6 +2737,8 @@ function displayList7(array = []) {
         listIcon.classList.add('list-icon');
         listIcon.setAttribute('src', item.list);
 
+    
+
         item_element.appendChild(title);
         title.appendChild(playerName);
         playerName.append(item.firstName);
@@ -2865,6 +2879,8 @@ function displayList8(array = []) {
         listIcon.classList.add('list-icon');
         listIcon.setAttribute('src', item.list);
 
+    
+
         item_element.appendChild(title);
         title.appendChild(playerName);
         playerName.append(item.firstName);
@@ -3004,6 +3020,8 @@ function displayList9(array = []) {
         let listIcon = document.createElement('img');
         listIcon.classList.add('list-icon');
         listIcon.setAttribute('src', item.list);
+
+    
 
         item_element.appendChild(title);
         title.appendChild(playerName);

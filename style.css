@@ -379,6 +379,12 @@ color: white;
     #nats-archive {
         width: 100vw;
     }
+    .dark-filter {
+        background-color: rgba(0, 0, 0, 0.3);
+    }
+    .filter-text img {
+        opacity: 1;
+    }
 }
 @media screen and (max-width: 800px) {
     .filter-text img {

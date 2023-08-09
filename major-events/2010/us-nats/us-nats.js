@@ -4486,6 +4486,32 @@ function displayList(array = []) {
     let listIcon = document.createElement('img');
     listIcon.classList.add('list-icon');
     listIcon.setAttribute('src', item.list);
+
+    const enableDarkMode = () => {
+      title.classList.add('darkon');
+      item_element.classList.add('darkon');
+      if (item.list === '../../../assets/list-icon.png') {
+        listIcon.setAttribute('src', '../../../assets/list-icon-white.png');
+      }
+      localStorage.setItem('darkMode', 'enabled');
+    };
+    const disableDarkMode = () => {
+      title.classList.remove('darkon');
+      item_element.classList.remove('darkon');
+      listIcon.setAttribute('src', item.list);
+      localStorage.setItem('darkMode', null);
+    };
+    if(darkMode === 'enabled') {
+      enableDarkMode();
+    };
+    toggle.addEventListener('click', () => {
+      darkMode = localStorage.getItem('darkMode');
+      if (darkMode !== 'enabled') {
+        enableDarkMode();
+      } else {
+        disableDarkMode();
+      }
+    });
     
     item_element.appendChild(title);
     title.appendChild(playerName);
@@ -4623,6 +4649,32 @@ function displayList2(array = []) {
     let listIcon = document.createElement('img');
     listIcon.classList.add('list-icon');
     listIcon.setAttribute('src', item.list);
+
+    const enableDarkMode = () => {
+      title.classList.add('darkon');
+      item_element.classList.add('darkon');
+      if (item.list === '../../../assets/list-icon.png') {
+        listIcon.setAttribute('src', '../../../assets/list-icon-white.png');
+      }
+      localStorage.setItem('darkMode', 'enabled');
+    };
+    const disableDarkMode = () => {
+      title.classList.remove('darkon');
+      item_element.classList.remove('darkon');
+      listIcon.setAttribute('src', item.list);
+      localStorage.setItem('darkMode', null);
+    };
+    if(darkMode === 'enabled') {
+      enableDarkMode();
+    };
+    toggle.addEventListener('click', () => {
+      darkMode = localStorage.getItem('darkMode');
+      if (darkMode !== 'enabled') {
+        enableDarkMode();
+      } else {
+        disableDarkMode();
+      }
+    });
     
     item_element.appendChild(title);
     title.appendChild(playerName);
@@ -4759,6 +4811,32 @@ function displayList3(array = []) {
     let listIcon = document.createElement('img');
     listIcon.classList.add('list-icon');
     listIcon.setAttribute('src', item.list);
+
+    const enableDarkMode = () => {
+      title.classList.add('darkon');
+      item_element.classList.add('darkon');
+      if (item.list === '../../../assets/list-icon.png') {
+        listIcon.setAttribute('src', '../../../assets/list-icon-white.png');
+      }
+      localStorage.setItem('darkMode', 'enabled');
+    };
+    const disableDarkMode = () => {
+      title.classList.remove('darkon');
+      item_element.classList.remove('darkon');
+      listIcon.setAttribute('src', item.list);
+      localStorage.setItem('darkMode', null);
+    };
+    if(darkMode === 'enabled') {
+      enableDarkMode();
+    };
+    toggle.addEventListener('click', () => {
+      darkMode = localStorage.getItem('darkMode');
+      if (darkMode !== 'enabled') {
+        enableDarkMode();
+      } else {
+        disableDarkMode();
+      }
+    });
     
     item_element.appendChild(title);
     title.appendChild(playerName);
