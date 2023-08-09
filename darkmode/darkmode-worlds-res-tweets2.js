@@ -30,12 +30,11 @@ const enableDarkMode = () => {
     dropitdown2.classList.add('darkon');
     extranav.classList.add('darkon');
 
-    document.querySelectorAll('[src="../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../assets/list-icon-white.png'));
+    document.querySelectorAll('[src="../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon-white.png'));
     function addAttribute(){
-      document.querySelectorAll('[src="../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../assets/list-icon-white.png'));
+      document.querySelectorAll('[src="../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon-white.png'));
     };
     window.onload = addAttribute;
-    
 
     mastersol.classList.add('darkon');
     seniorsol.classList.add('darkon');
@@ -67,10 +66,7 @@ const enableDarkMode = () => {
     dropitdown2.classList.remove('darkon');
     extranav.classList.remove('darkon');
 
-    document.querySelectorAll('[src="../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src', '../../assets/list-icon.png'));
-
-    
-
+    document.querySelectorAll('[src="../../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon.png'));
     mastersol.classList.remove('darkon');
     seniorsol.classList.remove('darkon');
     juniorsol.classList.remove('darkon');

@@ -380,7 +380,7 @@ color: white;
         width: 100vw;
     }
     .dark-filter {
-        background-color: rgba(0, 0, 0, 0.3);
+        background-color: rgba(0, 0, 0, 0.45);
     }
     .filter-text img {
         opacity: 1;
