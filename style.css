@@ -268,6 +268,174 @@ color: white;
     align-items: center;
     margin-bottom: 50px;
 }
+
+
+.order-vertival {
+    display: flex;
+    flex-direction: column;
+}
+.two-archive-sidebyside {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+#worlds-archive {
+    background-image: url("./assets/article-thumbnails/worlds-archive.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#internats-archive,
+#regionals-archive,
+#wotc-archive,
+#nats-archive {
+    background-size: cover;
+    background-position: center;
+    width: 50vw;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#internats-archive {
+    background-image: url("./assets/article-thumbnails/euic.jpg");
+}
+#nats-archive {
+    background-image: url("./assets/article-thumbnails/ryan-na.jpg");
+}
+#regionals-archive {
+    background-image: url("./assets/article-thumbnails/regionals.jpg");
+}
+#wotc-archive {
+    background-image: url("./assets/article-thumbnails/wotc.jpg");
+}
+.move-back-right {
+    margin-left: -20px;
+}
+.dark-filter {
+    background-color: rgba(0, 0, 0, 0.55);
+    width: 100vw;
+    height: 60vh;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    transition: ease all 0.4s;
+}
+.dark-filter:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.dark-filter:hover > .filter-text img {
+    opacity: 1;
+}
+.filter-text {
+    color: #fff;
+    max-width: 75%;
+    text-shadow: 2px 2px 4px black;
+    margin-top: -10px;
+    text-align: center;
+}
+.filter-text h2 {
+    font-size: 32px;
+    margin: 40px 0 10px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.filter-text p {
+    font-size: 18px;
+}
+.filter-text img {
+    width: 15vw;height:auto;
+    opacity: 0;
+    transition: ease all 0.4s;
+    margin-top: 25px;
+}
+@media screen and (max-width: 1303px) {
+    .filter-text h2 {
+        font-size: 24px;
+    }
+    .filter-text p {
+        font-size: 15px;
+    }
+    .filter-text {
+        max-width: 80%;
+    }
+    .filter-text img {
+        width: 17vw;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .two-archive-sidebyside {
+        flex-direction: column;
+    }
+    #internats-archive,
+    #regionals-archive,
+    #wotc-archive,
+    #nats-archive {
+        width: 100vw;
+    }
+}
+@media screen and (max-width: 800px) {
+    .filter-text img {
+        width: 20vw;
+    }
+}
+@media screen and (max-width: 600px) {
+    #internats-archive,
+    #worlds-archive,
+    #regionals-archive,
+    #wotc-archive,
+    #nats-archive {
+        width: 100vw;
+        height: 30vh;
+        border-bottom: 3px solid black;
+    }
+    .dark-filter {
+        width: 100vw;
+        height: 30vh;
+    }
+    .filter-text img {
+        width: 18vw;
+        margin-top: 5px;
+    }
+}
+@media screen and (max-width: 500px) {
+    #internats-archive,
+    #worlds-archive,
+    #regionals-archive,
+    #wotc-archive,
+    #nats-archive {
+        height: 25vh;
+        border-bottom: 3px solid black;
+    }
+    .dark-filter {
+        height: 25vh;
+    }
+    .filter-text h2 {
+        font-size: 18px;
+    }
+    .filter-text p {
+        font-size: 12px;
+    }
+    .filter-text img {
+        width: 17vw;
+        margin-top: 5px;
+    }
+    .filter-text {
+        max-width: 90%;
+    }
+}
+
+
+
+
+
 #site-info {
     background-image: url("./assets/retro-darkrai-ray.jpg");
     background-size: cover;
