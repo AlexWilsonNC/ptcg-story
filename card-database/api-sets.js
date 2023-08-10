@@ -181,7 +181,7 @@ let sv3 = [
     },
     {
         "images": {
-            "small": "assets/obsf/sv3_en_030.png",
+            "small": "assets/obsf/sv3_en_0302.png",
             "large": "assets/obsf/sv3_en_0302.png"
         }
     },
