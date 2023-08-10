@@ -484,13 +484,15 @@ li {
 }
 .masters-ol li,
 .seniors-ol li,
-.juniors-ol li {
+.juniors-ol li, 
+.four-ol li {
     border-bottom: 1px solid rgba(128, 128, 128, 0.04);
     color:black;
 }
 .masters-ol.darkon li,
 .seniors-ol.darkon li,
-.juniors-ol.darkon li {
+.juniors-ol.darkon li,
+.four-ol.darkon li {
     color: white;
 }
 .player-deck-icons {
