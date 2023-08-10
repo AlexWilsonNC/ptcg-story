@@ -443,13 +443,13 @@ li {
 .player-list-hover {
     max-height: 50px; 
 }
+.player-list-hover.darkon:hover {
+    background-color: rgb(181, 36, 36);
+}
 .player-list-hover:hover {
     background-color: rgb(226, 226, 226);
     border-radius: 10px;
     cursor: pointer;
-}
-.player-list-hover.darkon:hover {
-    background-color: rgb(85, 85, 85);
 }
 .name-n-flag {
     display: flex;
@@ -485,6 +485,7 @@ li {
 .masters-ol li,
 .seniors-ol li,
 .juniors-ol li, 
+.yamato li,
 .four-ol li {
     border-bottom: 1px solid rgba(128, 128, 128, 0.04);
     color:black;
@@ -492,6 +493,7 @@ li {
 .masters-ol.darkon li,
 .seniors-ol.darkon li,
 .juniors-ol.darkon li,
+.yamato.darkon li,
 .four-ol.darkon li {
     color: white;
 }

@@ -10,9 +10,8 @@ const dropitdown1 = document.querySelector('.drop-it-down1');
 const dropitdown2 = document.querySelector('.drop-it-down2');
 
 const extranav = document.querySelector('.extra-nav');
+const yamato = document.querySelector('.yamato');
 const mastersol = document.querySelector('.masters-ol');
-const seniorsol = document.querySelector('.seniors-ol');
-const juniorsol = document.querySelector('.juniors-ol');
 const h2 = document.querySelectorAll('h2');
 const pp = document.querySelectorAll('p');
 const twittertweet = document.querySelectorAll('.twitter-tweet');
@@ -30,17 +29,14 @@ const enableDarkMode = () => {
     dropitdown2.classList.add('darkon');
     extranav.classList.add('darkon');
 
-
-    document.querySelectorAll('[src="../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../assets/list-icon-white.png'));
+    document.querySelectorAll('[src="../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon-white.png'));
     function addAttribute(){
-      document.querySelectorAll('[src="../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../assets/list-icon-white.png'));
+      document.querySelectorAll('[src="../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon-white.png'));
     };
     window.onload = addAttribute;
-    
 
     mastersol.classList.add('darkon');
-    seniorsol.classList.add('darkon');
-    juniorsol.classList.add('darkon');
+    yamato.classList.add('darkon');
 
     pp.forEach((pp) => {
       pp.classList.add('darkon');
@@ -68,11 +64,9 @@ const enableDarkMode = () => {
     dropitdown2.classList.remove('darkon');
     extranav.classList.remove('darkon');
 
-    document.querySelectorAll('[src="../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src', '../../assets/list-icon.png'));
-
+    document.querySelectorAll('[src="../../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon.png'));
     mastersol.classList.remove('darkon');
-    seniorsol.classList.remove('darkon');
-    juniorsol.classList.remove('darkon');
+    yamato.classList.remove('darkon');
 
     pp.forEach((pp) => {
       pp.classList.remove('darkon');

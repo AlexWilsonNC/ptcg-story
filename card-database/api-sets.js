@@ -21512,6 +21512,7 @@ function displayList(array = []) {
         let img = document.createElement('img');
         img.classList.add('database-card-in-list');
         img.setAttribute('src', item.images.small);
+        img.loading = 'lazy';
 
         // zoom card
         img.onclick = () => {
