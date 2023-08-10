@@ -4351,13 +4351,124 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/bunnelby.png',
     sprite2: '../../../assets/sprites/slurpuff.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2014-2016',
+        cardImg: '../../../assets/cards/2014-2016/diggersby.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/bunnelby.png',
         numImg: '../../../assets/04.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/slurpuff.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/swirlix.png',
+        numImg: '../../../assets/02.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/garbodor-ltr.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/trubbish-poison-gas.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/cobalion-ex.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/jellicent.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/frillish.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/shaymin-ex.png',
+        numImg: '../../../assets/03.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/professor-juniper.png',
+        numImg: '../../../assets/04.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/n-promo.png',
+        numImg: '../../../assets/03.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/lysandre.png',
+        numImg: '../../../assets/02.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/team-flare-grunt.png',
+        numImg: '../../../assets/02.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/xerosic.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/tierno.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/vs-seeker.png',
+        numImg: '../../../assets/04.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/ultra-ball.png',
+        numImg: '../../../assets/04.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/crushing-hammer-xy.png',
+        numImg: '../../../assets/04.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/enhanced-hammer.png',
+        numImg: '../../../assets/02.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/startling-megaphone.png',
+        numImg: '../../../assets/02.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/target-whistle.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/trick-shovel.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/head-ringer.png',
+        numImg: '../../../assets/03.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/float-stone-bw.png',
+        numImg: '../../../assets/02.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/life-dew.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/2014-2016/team-aquas-secret-base.png',
+        numImg: '../../../assets/01.png',
+      },
+      {
+        cardImg: '../../../assets/cards/energy/xy-energy-metal.png',
+        numImg: '../../../assets/03.png',
+      },
+      {
+        cardImg: '../../../assets/cards/energy/dce-xy1.png',
+        numImg: '../../../assets/03.png',
       },
     ]
   },
