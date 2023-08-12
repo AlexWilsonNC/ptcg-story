@@ -210,7 +210,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2022-2023/canceling-cologne.png',
+        cardImg: '../../assets/cards/2022-2023/heavy-ball-hisuian.png',
         numImg: '../../assets/01.png'
       },
       {
