@@ -1501,7 +1501,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Sehun Park',
+    firstName: 'Sejun Park',
     flag: '../../assets/flags/korea.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/hyphen.png',  
