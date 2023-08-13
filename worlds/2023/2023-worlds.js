@@ -864,8 +864,8 @@ let masters = [
   {
     firstName: 'Hui Yuan Huang',
     flag: '../../assets/flags/taiwan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',  
+    sprite1: '../../assets/sprites/chien-pao.png',
+    sprite2: '../../assets/sprites/baxcalibur.png',  
     // list: '../../assets/list-icon.png',
     list: '../../assets/sprites/blank.png',
     type: 'normal',
@@ -879,8 +879,8 @@ let masters = [
   {
     firstName: 'Shinnosuke Sato',
     flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',  
+    sprite1: '../../assets/sprites/comfey.png',
+    sprite2: '../../assets/sprites/sableye.png',  
     // list: '../../assets/list-icon.png',
     list: '../../assets/sprites/blank.png',
     type: 'normal',
@@ -894,8 +894,8 @@ let masters = [
   {
     firstName: 'Akira Sato',
     flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',  
+    sprite1: '../../assets/sprites/comfey.png',
+    sprite2: '../../assets/sprites/sableye.png',  
     // list: '../../assets/list-icon.png',
     list: '../../assets/sprites/blank.png',
     type: 'normal',
@@ -909,8 +909,8 @@ let masters = [
   {
     firstName: 'Konsta Kallama',
     flag: '../../assets/flags/finland.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',  
+    sprite1: '../../assets/sprites/mew-vmax.png',
+    sprite2: '../../assets/sprites/genesect.png',  
     // list: '../../assets/list-icon.png',
     list: '../../assets/sprites/blank.png',
     type: 'normal',
