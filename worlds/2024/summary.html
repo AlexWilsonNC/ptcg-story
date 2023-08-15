@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+
+    <meta property='og:title' content='PTCG Legends'/>
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg'/>
+    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
+    <meta property='og:url' content='www.ptcglegends.com'/>
+    <meta property='og:image:width' content='1200' />
+    <meta property='og:image:height' content='627' />    <title>PTCG Legends | 2024 Worlds</title>
+    <link rel="stylesheet" href="../../style.css">
+    <link rel="stylesheet" href="../../css/nav.css">
+    <link rel="stylesheet" href="../../css/worlds.css">
+    <link rel="stylesheet" href="../../css/nats.css">
+    <link rel="stylesheet" href="../../css/footer.css">
+    <link rel="stylesheet" href="../../css/era.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav id="top-navr">
+        <div id="nav-leftr">
+            <a href="../../home">
+                <img src="" alt="pokeball logo">
+                <h1>PTCG <span class='legendsr'>Legends</span></h1>
+            </a>
+        </div>
+        <div class='push-right1'>
+            <ul id="nav-rightr">
+                <li><a href="../../tournaments">Tournaments <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down1'>
+                        <li><a href='../../tournaments/upcoming'>Upcoming Events</a></li>
+                        <li><a href='../../tournaments/completed'>Completed Events</a></li>
+                    </ul>
+                </li>
+                <li><a href="../../event-archive">Event Archive <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down2'>
+                        <li><a href='../main'>Worlds</a></li>
+                        <li><a href='../../major-events/main'>Major Events</a></li>
+                        <li><a href='../../tournaments/regional-spe' style='color:rgba(128, 128, 128, 0.52);pointer-events: none;'>Regionals & SPEs</a></li>
+                    </ul>
+                </li>                
+                <li><a href="../../decks-by-era/main">Decks by Era</a></li>
+                <li><a href="../../articles/all" style='color:rgba(128, 128, 128, 0.52);pointer-events: none;'>Articles</a></li>
+            </ul>
+            <nav role="navigation">
+                <div id="menuToggle">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <ul id="menu">
+                        <div class='push-right'>
+                            <div onclick='rememberButton(this.id)' id='toggle'>
+                                <i class='indicator'></i>
+                                <div></div>
+                                <div></div>
+                            </div>
+                        </div>
+                        <!-- <li class='bold tittle'><a href="#">Mainpage</a></li>
+                        <hr> -->
+                        <li class='bold tittle'><a href="../../tournaments">Tournaments</a></li>
+                        <li class='sub-nav'><a href="../../tournaments/upcoming">Upcoming Events</a></li>
+                        <li class='sub-nav'><a href="../../tournaments/completed">Completed Events</a></li>
+                        <li class='bold tittle'><a href="../../event-archive">Event Archive</a></li>
+                        <li class='sub-nav'><a href="../main">World Championships</a></li>
+                        <li class='sub-nav'><a href="../../major-events/main">Major Events (ICs, Nats, SCs)</a></li>
+                        <li class='sub-nav'><a href="../../tournaments/regional-spe" style='color:rgba(128, 128, 128, 0.52);pointer-events: none;'>Regionals & SPEs</a>
+                        </li>
+                        <li class='bold tittle'><a href="../../decks-by-era/main">Decks by Era</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../articles/all" style='color:rgba(128, 128, 128, 0.52);pointer-events: none;'>Articles (Coming Soon)</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../other/main">Other</a></li>
+                        <li class='sub-nav'><a href="../../card-database">Pokémon Card Database</a></li>
+                        <li class='sub-nav'><a href="../../other/expansions">TCG Expansions</a></li>
+                        <li class='sub-nav'><a href="../../other/rules-by-era">Rules by Era</a></li>
+                        <li class='sub-nav'><a href="../../other/banned-cards">Banned Cards</a></li>
+                        <li class='sub-nav'><a href="../../other/timeline">Historic Timeline</a></li>
+                        <li class='sub-nav'><a href="../../other/worlds-booklets">Worlds Booklets</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../contact">Contact & Socials</a></li>
+                        <div class='social-popup'>
+                            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                                <img src='../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                                <img src='../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                                <img src='../../assets/patreon.webp' />
+                            </a>
+                            <a href='mailto:ptcglegends@gmail.com'>
+                                <img src='../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                        </div>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </nav>
+
+    <div class='contain-extra-nav'>
+        <div class='extra-nav'>
+            <a href='./summary' class="active-extra underline">Summary</a>
+            <a href='./results'  style='color:rgb(101, 101, 101);pointer-events: none;'>Results</a>
+            <a href='./streams'  style='color:rgb(101, 101, 101);pointer-events: none;'>Streams</a>
+            <a href='./pictures'  style='color:rgb(101, 101, 101);pointer-events: none;'>Pics / Booklet</a>
+        </div>
+    </div>
+
+    <div class='contain-event'>
+         <div id="zoom-card-box"></div>
+        <div class='event-content'>
+            <div class='summary'>
+                <div class='summ-left'>
+
+                    <div class='hidden-top-summ'>
+                        <div class='hidden-img'>
+                            <img class='worlds-logo5' src='../../assets/worlds-logos/2016.png'>
+                            <p>Aug ?, 2024</p>
+                            <p>Honolulu, Hawaii</p>
+                        </div>
+                    </div>
+                    <img class='hidden-poke' src='../../assets/2024/mew.webp'>
+
+                    <h2>2024 World Championships</h2>
+                    <a href='#sets' class='set-btn'>Format: Unknown</a>
+                    <hr class='worlds-hr'>
+                            
+                    <div class='hidden-top-summ'>
+                        <div class='hidden-loc'>
+                            <img class='worlds-loc2' src='../../assets/worlds-logos/2024-worlds-loc.jpg'>
+                            <!-- <p>Pacifico Yokohama</p> -->
+                            <!-- <a href='https://goo.gl/maps/rZKz94Hh8LTxUudx9' target='_'>1 Chome-1-1 Minatomirai, Nishi Ward</a> -->
+                        </div>
+                    </div>
+
+                    <hr class='hidden-hr'>
+
+                    <div class='worlds-paragraph'>
+                        <p>• The 2024 Pokémon World Championships will take place in Hawaii for the fourth time ever! (The first time 12 years) However, this marks the first time that Worlds will be held on the island of O'Ahu in Honolulu. As 2012, 2010, & 2007 Worlds were all hosted in Waikōloa Village on the Island of Hawai'i, <i>"The Big Island"</i>.</p>
+                        <!-- <p style='margin-top:20px;'>• It was a three-day event where anyone who met the Championship Point threshold through the 2024 season was invited to play in Day 1 on Friday, of which consisted of 8 Rounds, anyone with a record of
+                            6 wins, or at least a 5-0-3 record, moved on to Day 2. (687 Master division players competed in Day 1.)</p> -->
+                        <!-- <p style='margin-top:20px;'>• Day 2 (Saturday) consisted of the above players that made it
+                            through a rough Day 1, as well
+                            as the Top X players from throughout the season, seperated by region, found below. Day 2
+                            was also 8 Rounds long, but resulting in a Top Cut of 8. (170 Master division players competed in Day 2.)</p> -->
+                    </div>
+                    <div class='cp-area'>
+                        <h3>Championship Point Threshold</h3>
+                        <img class='cp' src='../../assets/2024/cp.jpg'>
+                    </div>
+
+                    <h4 class='prizing-header hidden-item'>Prizing:</h4>
+                    <div class='hidden-prizing'>
+                        <!-- <div class='hidden-prize-left'>
+                            <div class='prize-zone'>
+                                <p>• 1st Place</p>
+                                <p>$25,000</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• 2nd Place</p>
+                                <p>$15,000</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 4</p>
+                                <p>$7,500</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 8</p>
+                                <p>$5,000</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 16</p>
+                                <p>$2,500</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 32</p>
+                                <p>$1,500</p>
+                            </div>
+                        </div> -->
+                        <div class='hidden-prize-right'>
+                            <p class='small-text center italic'>(The Top 4 finishers <!-- received --> should recieve an automatic invitation to 
+                                the 2025 World Championships.)
+                            </p>
+                            <p class='small-text center italic'>(The Top 32 finishers <!-- received --> should recieve at least 2 Booster Boxes
+                                each, and an exclusive Worlds Top 32 bag.)</p>
+                        </div>
+                    </div>
+
+                    <div class='promo-card hidden-item'>
+                        <h3>Event's Promo Card</h3>
+                        <p>Pending...</p>
+                        <!-- <p>Set of multilingual Paradise Resort</p> -->
+                        <!-- <img src='../../assets/promos/23-worlds.jpg' class='zoomed'> -->
+                    </div>
+                    <div class='promo-card hidden-item'>
+                        <h3>Distributed Card</h3>
+                        <p>Pending...</p>
+                        <!-- <p class='small-text center italic'>(These were online cards given to viewers of the event's stream.)</p> -->
+                        <!-- <p>Charizard ex (PTCGL)</p> -->
+                        <!-- <img src='../../assets/promos/gold-zard-ex.png' class='zoomed'> -->
+                    </div>
+                    <div class='event-swag hidden-item'>
+                        <h3>Event Swag</h3>
+                        <p>Pending...</p>
+                        <!-- <img src='../../assets/swag/23-swag.jpg' class='zoomed'> -->
+                    </div>
+                    
+
+                    <div class='sets' id='sets'>
+                        <!-- <h3 style='margin-top:10px;'>Legal Cards: (E-block - on)</h3>
+                        <p>Sets below contain <span class='italic'>'E-block - on'</span> cards that were legal for this format.</p>
+                        <p style='margin-bottom:10px' class='italic small-text'>(Not all cards and promos in the below sets were legal. ie. Some sets contain rotated D-block cards.)</p>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../assets/sets/sshp-shining-fates-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../assets/sets/sshp-shining-fates.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../assets/sets/ssh5-battle-styles-icon.png' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../assets/sets/ssh5-battle-styles.png' class='set-logo  '
+                                alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../assets/sets/ssh6-chilling-reign-icon.png' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../assets/sets/ssh6-chilling-reign.png' class='set-logo  '
+                                alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../assets/sets/ssh7-evolving-skies-icon.webp' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../assets/sets/ssh7-evolving-skies.png' class='set-logo  '
+                                alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../assets/sets/sshp-celebrations-icon.webp' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../assets/sets/sshp-celebrations.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../assets/sets/ssh8-fusion-strike-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../assets/sets/ssh8-fusion-strike.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../assets/sets/ssh9-brilliant-stars-icon.png' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../assets/sets/ssh9-brilliant-stars.png' class='set-logo'
+                                alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../assets/sets/ssh10-astral-radiance-icon.png' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../assets/sets/ssh10-astral-radiance.png'
+                                class='set-logo' alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../assets/sets/pogo-icon.png' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../assets/sets/pokemon-go.webp'
+                                class='set-logo' alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../assets/sets/ssh12-silver-tempest-icon.webp' class='set-icon'
+                                alt='set-icon'>
+                            <img src='../../assets/sets/ssh12-silver-tempest.png'
+                                class='set-logo' alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../assets/sets/crown-zenith-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../assets/sets/crown-zenith.png'
+                                    class='set-logo' alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../assets/sets/sv1-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../assets/sets/sv1.png'
+                                    class='set-logo' alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../assets/sets/sv2-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../assets/sets/sv2.png'
+                                    class='set-logo' alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <div class='promo-alignment-worlds'>
+                                    <img src='../../assets/sets/black-star-promo-icon.png' alt='set-icon'>
+                                    <strong class='legal-promos-hgss'>SWSH100 - SWSH305</strong>
+                                </div>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <div class='promo-alignment-worlds'>
+                                    <img src='../../assets/sets/sv-promo-icon.png' alt='set-icon'>
+                                    <strong class='legal-promos-hgss'>SVP001 - SVP032</strong>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                    
+                    <!-- <hr class='hidden-big-hr'> -->
+
+                    <!-- <div class='hidden-cast-box'>
+                        <h5>Host:</h5>
+                        <div class='hidden-host'>
+                            <div class='casters-zone'>
+                                <img src='../../assets/people/anna-p.jpg'>
+                                <p>Anna Prosser</p>
+                            </div>
+                        </div>
+                        <div class='hidden-cast'>
+                            <h5>TCG Casters:</h5>
+                            <div class='top-cast'>
+                                <div class='casters-zone'>
+                                    <img src='../../assets/people/pooka.jpg'>
+                                    <p>Kyle Sucevich</p>
+                                </div>
+                                <div class='casters-zone'>
+                                    <img src='../../assets/people/chip.jpg'>
+                                    <p>Chip Richey</p>
+                                </div>
+                                <div class='casters-zone'>
+                                    <img src='../../assets/people/kyle_sabelhaus.jpg'>
+                                    <p>Kyle Sabelhaus</p>
+                                </div>
+                            </div>
+                            <div class='bottom-cast'>
+                                <div class='casters-zone'>
+                                    <img src='../../assets/people/ethan-h.jpg'>
+                                    <p>Ethan Hegyi</p>
+                                </div>
+                                <div class='casters-zone'>
+                                    <img src='../../assets/people/ross-g.jpg'>
+                                    <p>Ross Gilbert</p>
+                                </div>
+                                <div class='casters-zone'>
+                                    <img src='../../assets/people/david-h.jpg'>
+                                    <p>David Hochmann</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+                    <hr class='hidden-big-hr'>
+
+                    <!-- <div class='travel-stipends'>
+                        <h3>Travel Stipends:</h3>
+                        <p class='awardee-paragraph'>Players that earned the most amount of Championship Points during the 2024 season received a travel award to Worlds.</p>
+                        <div class='all-stipends'>
+                            <div class='stipeds-left'>
+                                <div class='stipend-rating-zone'>
+                                    <p style='font-weight:bold;'>• US & Canada</p>
+                                    <p>Top 16 players - $3,500</p>
+                                </div>
+                                <div class='stipend-rating-zone'>
+                                    <p style='font-weight:bold;'>• Europe</p>
+                                    <p>Top 22 players - $3,500</p>
+                                </div>
+                            </div>
+                            <div class='stipeds-right'>
+                                <div class='stipend-rating-zone'>
+                                    <p style='font-weight:bold;'>• Latin America</p>
+                                    <p>Top 8 players - $3,500</p>
+                                </div>
+                                <div class='stipend-rating-zone'>
+                                    <p style='font-weight:bold;'>• Oceania</p>
+                                    <p>Top 8 players - $3,500</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+                    <!-- <div class='auto-day2-area-2022'>
+                        <h3>Automatic Day 2 Invites:</h3>
+                        <p class='awardee-paragraph'>Players that earned the most amount of Championship Points during the 2024 season received an automatic Day 2 invite.</p>
+                        <p class='small-text italic'>This was the first year in which the Middle East & South Africa welcomed select players with Day 2 invites.</p>
+                    </div>
+                    <div class='small-only'>
+                    <div class='auto-day2-area'>
+                        <div class='rating-zone'>
+                            <p style='font-weight:bold;'>• US & Canada</p>
+                            <p>Top 16 players</p>
+                        </div>
+                        <div class='rating-zone'>
+                            <p style='font-weight:bold;'>• Europe</p>
+                            <p>Top 22 players</p>
+                        </div>
+                        <div class='rating-zone'>
+                            <p style='font-weight:bold;'>• Latin America</p>
+                            <p>Top 12 players</p>
+                        </div>
+                        <div class='rating-zone'>
+                            <p style='font-weight:bold;'>• Oceania</p>
+                            <p>Top 4 players</p>
+                        </div>
+                        <div class='rating-zone'>
+                            <p style='font-weight:bold;'>• Middle East &<br>South Africa</p>
+                            <p>Top 2 players</p>
+                        </div>
+                    </div>
+                    </div>
+                    <div class='auto-day2-area2'>
+                        <h3>US & Canada Day 2 Invitees</h3>
+                        <ol>
+                            <div class='day2-left'>
+                                <li>Regan Retzloff</li>
+                                <li>Alex Schemanske</li>
+                                <li>Azul Griego</li>
+                                <li>Cal Connor</li>
+                                <li>Ian Robb</li>
+                                <li>Jon Eng</li>
+                                <li>Grant Manley</li>
+                                <li>Aidan Khus</li>
+
+                            </div>
+                            <div class='day2-right-worlds'>
+                                <li>Nicholas Moffitt</li>
+                                <li>Rahul Reddy</li>
+                                <li>Drew Hedrick</li>
+                                <li>Gabriel Smart</li>
+                                <li>Caleb Gedemer</li>
+                                <li>Ciaran Farah</li>
+                                <li>Connor Finton</li>
+                                <li>Grant Shen</li>
+                            </div>
+                        </ol>
+                    </div>
+                    <div class='auto-day2-area2'>
+                        <h3>Europe Day 2 Invitees</h3>
+                        <ol>
+                            <div class='day2-left'>
+                                <li>Tord Reklev</li>
+                                <li>Pedro Torres</li>
+                                <li>Owyn Kamerman</li>
+                                <li>Stéphane Ivanoff</li>
+                                <li>Bryan de Vries</li>
+                                <li>Magnus Pedersen</li>
+                                <li>Nico Alabas</li>
+                                <li>Sander Wojcik</li>
+                                <li>Nitish Doolub</li>
+                                <li>Christian Tuomi</li>
+                                <li>Fabio Spanò</li>
+                            </div>
+                            <div class='day2-right-worlds'>
+                                <li>Julius Brunfeldt</li>
+                                <li>Fabien Pujol</li>
+                                <li>Dario Scarnò</li>
+                                <li>Piotr Orleański</li>
+                                <li>Mateusz Laszkiewicz</li>
+                                <li>Alessandro Cremascoli</li>
+                                <li>Yoann Barszezak</li>
+                                <li>Miłosz Dyrlica</li>
+                                <li>Jamie Frankland</li>
+                                <li>Heddi Brahmi</li>
+                                <li>Fabio Battistella</li>
+                            </div>
+                        </ol>
+                    </div>
+                    <div class='auto-day2-area2'>
+                        <h3>Latin America Day 2 Invitees</h3>
+                        <ol>
+                            <div class='day2-left'>
+                                <li>Pedro Pertusi</li>
+                                <li>Gustavo Wada</li>
+                                <li>William Azevedo</li>
+                                <li>Fabrizio Silva</li>
+                                <li>Yerco Valencia</li>
+                                <li>Jonathan Fabrizio B</li>
+                            </div>
+                            <div class='day2-right-worlds'>
+                                <li>Agustin Campo</li>
+                                <li>Dalton Acchetta</li>
+                                <li>Diego Cassiraga</li>
+                                <li>Matias Matricardi</li>
+                                <li>Carlos Astete</li>
+                                <li>Pablo Meza</li>
+                            </div>
+                        </ol>
+                    </div>
+                    <div class='auto-day2-area2'>
+                        <h3>Oceania Day 2 Invitees</h3>
+                        <ol>
+                            <div class='day2-left'>
+                                <li>Brent Tonisson</li>
+                                <li>Natalie Millar</li>
+                            </div>
+                            <div class='day2-right-worlds'>
+                                <li>Henry Brand</li>
+                                <li>Matthew Burris</li>
+                            </div>
+                        </ol>
+                    </div>
+                    <div class='auto-day2-area2'>
+                        <h3>Middle East & South Africa Day 2 Invitees</h3>
+                        <ol>
+                            <div class='day2-left'>
+                                <li>Raz Wolpe</li>
+                            </div>
+                            <div class='day2-right-worlds'>
+                                <li>Jonah Alter</li>
+                            </div>
+                        </ol>
+                    </div> -->
+                </div>
+                <div class='summ-right'>
+                    <img class='worlds-logo8 hide-it' src='../../assets/worlds-logos/2016.png'>
+                    <p class='hide-it'>Honolulu, Hawaii</p>
+                    <p class='hide-it'>Aug ?, 2024</p>
+                    <img class='worlds-loc hide-it' src='../../assets/worlds-logos/2024-worlds-loc.jpg'>
+                    <!-- <p class='hide-it'>Pacifico Yokohama</p> -->
+                    <!-- <a href='https://goo.gl/maps/rZKz94Hh8LTxUudx9' target='_' class='hide-it'>1 Chome-1-1 Minatomirai, Nishi Ward</a> -->
+
+                    <h4 class='prizing-header hide-it'>Prizing:</h4>
+                    <!-- <div class='prize-zone hide-it'>
+                        <p>• 1st Place</p>
+                        <p>$25,000</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• 2nd Place</p>
+                        <p>$15,000</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 4</p>
+                        <p>$7,500</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 8</p>
+                        <p>$5,000</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 16</p>
+                        <p>$2,500</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 32</p>
+                        <p>$1,500</p>
+                    </div> -->
+                    <p class='small-text center italic hide-it'>(The Top 4 finishers received an automatic invitation to
+                        the 2024 World Championships.)</p>
+                    <p class='small-text center italic hide-it'>(The Top 32 finishers received at least 2 Booster Boxes
+                        each,
+                        and an exclusive Worlds Top 32 bag.)</p>
+
+                    <div class='promo-card hide-it'>
+                        <h3>Event's Promo Card</h3>
+                        <p>Pending...</p>
+                        <!-- <p>Set of multilingual Paradise Resort</p> -->
+                        <!-- <img src='../../assets/promos/23-worlds.jpg' class='zoomed'> -->
+                    </div>
+                    <div class='promo-card hide-it'>
+                        <h3>Distributed Card</h3>
+                        <p>Pending...</p>
+                        <!-- <p class='small-text center italic'>(These were online cards given to viewers of the event's stream.)</p> -->
+                        <!-- <p>Charizard ex (PTCGL)</p> -->
+                        <!-- <img src='../../assets/promos/gold-zard-ex.png' class='zoomed'> -->
+                    </div>
+                    <div class='event-swag hide-it'>
+                        <h3>Event Swag</h3>
+                        <p>Pending...</p>
+                        <!-- <img src='../../assets/swag/23-swag.jpg' class='zoomed'> -->
+                    </div>
+
+                    <!-- <div class='cast-box'>
+                        <h4 class='prizing-header'>Host:</h4>
+                        <div class='casters-zone'>
+                            <p>Anna Prosser</p>
+                            <img src='../../assets/people/anna-p.jpg'>
+                        </div>
+                        <h4 class='prizing-header'>TCG Casters:</h4>
+                        <div class='casters-zone'>
+                            <p>Kyle (Pooka) Sucevich</p>
+                            <img src='../../assets/people/pooka.jpg'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>Chip Richey</p>
+                            <img src='../../assets/people/chip.jpg'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>Kyle Sabelhaus</p>
+                            <img src='../../assets/people/kyle_sabelhaus.jpg'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>Ethan Hegyi</p>
+                            <img src='../../assets/people/ethan-h.jpg'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>Ross Gilbert</p>
+                            <img src='../../assets/people/ross-g.jpg'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>David Hochmann</p>
+                            <img src='../../assets/people/david-h.jpg'>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class='era-footer'>
+        <div id='foot-top'>
+            <a href="../main">Worlds</a>
+            <a href="../../../major-events/main">Major Events</a>
+            <a href="../../../decks-by-era/main">Decks by Era</a>
+            <a href='../../contact'>Contact</a>
+        </div>
+        <div class='foot-mid'>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                <img src='../../assets/twitter-circle.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                <img src='../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+        </div>
+        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon Trading Card Game, including card text and images and tournament-related content, are copyrights of The Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast. This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br><br>This website is simply a place for Pokémon TCG fans to look at events and results from the greatest game in history!</div>
+    </footer>
+    <script src='../../darkmode/darkmode-worlds-pages.js'></script>
+
+     
+     <script src="../../zoom.js"></script>
+     
+</body>
+
+</html>
