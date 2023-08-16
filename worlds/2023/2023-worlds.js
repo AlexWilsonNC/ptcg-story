@@ -1328,8 +1328,8 @@ let masters = [
   {
     firstName: 'Masataka Hirano',
     flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',  
+    sprite1: '../../assets/sprites/mew-vmax.png',
+    sprite2: '../../assets/sprites/genesect.png',  
     // list: '../../assets/list-icon.png',
     list: '../../assets/sprites/blank.png',
     type: 'normal',
@@ -1455,12 +1455,102 @@ let masters = [
     flag: '../../assets/flags/uk.png',
     sprite1: '../../assets/sprites/giratina-origin.png',
     sprite2: '../../assets/sprites/comfey.png',  
-    // list: '../../assets/list-icon.png',
-    list: '../../assets/sprites/blank.png',
+    list: '../../assets/list-icon.png',
     type: 'normal',
     deck: [
       {
-        cardImg: '../../assets/cards/2022-2023',
+        cardImg: '../../assets/cards/2022-2023/giratina-vstar.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/giratina-v.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/comfey.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/sableye.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/cramorant.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/radiant-greninja.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/spiritomb.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/colress-experiment.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/roxanne.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/bosss-orders-ghetsis.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/mirage-gate.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/battle-vip-pass.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/cross-switcher.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/switch-cart.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/nest-ball.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/super-rod.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/escape-rope.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/switch-sv.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2022-2023/path-to-the-peak.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/new-energy/scvi-psychic-energy.jpg',
+        numImg: '../../assets/04.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../assets/cards/new-energy/scvi-grass-energy.jpg',
+        numImg: '../../assets/03.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../assets/cards/new-energy/scvi-water-energy.jpg',
+        numImg: '../../assets/02.png',
+        radiusCard: true
+      },
+      {
+        cardImg: '../../assets/cards/new-energy/jet-energy.png',
         numImg: '../../assets/04.png'
       },
     ]
