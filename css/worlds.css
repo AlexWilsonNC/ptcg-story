@@ -1412,7 +1412,8 @@ li {
     }
 
     .promo-card p,
-    .promo-card2 p {
+    .promo-card2 p, 
+    .event-swag p {
         font-size: 16px;
         margin-bottom: 10px;
     }
