@@ -402,7 +402,7 @@ let masters = [
         oldCard: true
       },
       {
-        cardImg: '../../../assets/cards/base-fossil/n2.040.igglybuff.jpg',
+        cardImg: '../../../assets/cards/base-fossil/wizards_black_star_promos.036.igglybuff.jpg',
         numImg: '../../../assets/02.png',
         oldCard: true
       },
