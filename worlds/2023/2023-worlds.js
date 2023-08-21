@@ -7491,7 +7491,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Yuya T.',
+    firstName: 'Yuya T',
     flag: '../../assets/flags/japan.png',
     sprite1: '../../assets/sprites/giratina-origin.png',
     sprite2: '../../assets/sprites/comfey.png',  
@@ -8530,7 +8530,7 @@ let seniors = [
 
 let juniors = [
   {
-    firstName: 'Shao Tong Y',
+    firstName: 'Shao Tong Yen',
     flag: '../../assets/flags/taiwan.png',
     sprite1: '../../assets/sprites/comfey.png',
     sprite2: '../../assets/sprites/sableye.png',  
@@ -9005,7 +9005,7 @@ let juniors = [
     ]
   },
   {
-    firstName: 'Kazusa Y.',
+    firstName: 'Kazusa Y',
     flag: '../../assets/flags/japan.png',
     sprite1: '../../assets/sprites/inteleon-vmax.png',
     sprite2: '../../assets/sprites/urshifu-rapid-strike-gmax.png',
