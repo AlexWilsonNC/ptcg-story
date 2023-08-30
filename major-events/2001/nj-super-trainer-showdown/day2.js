@@ -168,7 +168,7 @@ let masters = [
     firstName: 'David Nishijimu',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/hyphen.png',
+    sprite2: '../../../assets/sprites/feraligatr.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',

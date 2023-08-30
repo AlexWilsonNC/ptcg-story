@@ -23,6 +23,30 @@ tr:nth-of-type(2n) {
     background-color: red !important;
 }
 
+.sort-events {
+    font-size: 16px;
+    font-weight: 600;
+    color: #464646;
+    margin-top: 15px;
+}
+.sort-events.darkon {
+    color: #E1E1E1;
+}
+.upcoming-events select {
+    margin-bottom: 5px;
+}
+#mySelect {
+    width: auto;
+    height: 30px;
+    font-size: 14px;
+    margin-top: 4px;
+    border-radius: 4px;
+    padding-left: 5px;
+}
+#mySelect:hover {
+    cursor: pointer;
+}
+
 .upcoming-events-table tr {
     padding: 0px 50px
 }
