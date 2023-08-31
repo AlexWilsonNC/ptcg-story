@@ -46,6 +46,11 @@ footer a {
        width: 40px; 
     }
 }
+@media screen and (max-width: 780px) {
+    #foot-top a {
+        font-size: 14px;
+    }
+}
 @media screen and (max-width: 670px) {
     footer {
         margin-top: 5px;
