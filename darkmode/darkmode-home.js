@@ -11,6 +11,7 @@ const twittertweet = document.querySelectorAll('.twitter-tweet');
 const onemorelink = document.querySelectorAll('.one-more-link');
 const sidesection = document.querySelectorAll('.side-section');
 const blue = document.querySelectorAll('.blue');
+const makemewhite = document.querySelectorAll('.make-me-white');
 const navrightr = document.getElementById('nav-rightr');
 const upcomingevents = document.querySelector('.upcoming-events');
 const dropitdown1 = document.querySelector('.drop-it-down1');
@@ -29,6 +30,11 @@ const enableDarkMode = () => {
     if (featuredheaders) {
       featuredheaders.forEach((featuredheaders) => {
         featuredheaders.classList.add('darkon');
+      })
+    }
+    if (makemewhite) {
+      makemewhite.forEach((makemewhite) => {
+        makemewhite.classList.add('darkon');
       })
     }
     if (sidesection) {
@@ -65,22 +71,39 @@ const enableDarkMode = () => {
     menu.classList.remove('darkon');
     menuToggle.classList.remove('darkon');
     navleftr.classList.remove('darkon');
-    upcomingevents.classList.remove('darkon');
-    featuredheaders.forEach((featuredheaders) => {
-      featuredheaders.classList.remove('darkon');
-    })   
-    sidesection.forEach((sidesection) => {
-      sidesection.classList.remove('darkon');
-    })
-    blue.forEach((blue) => {
-      blue.classList.remove('darkon');
-    }) 
-    onemorelink.forEach((onemorelink) => {
-      onemorelink.classList.remove('darkon');
-    })
-    twittertweet.forEach((twittertweet) => {
-      twittertweet.setAttribute('data-theme', 'light');
-    })
+    if (upcomingevents) {
+      upcomingevents.classList.remove('darkon');
+    }
+    if (featuredheaders) {
+      featuredheaders.forEach((featuredheaders) => {
+        featuredheaders.classList.remove('darkon');
+      })
+    }
+    if (makemewhite) {
+      makemewhite.forEach((makemewhite) => {
+        makemewhite.classList.remove('darkon');
+      })
+    }
+    if (sidesection) {
+      sidesection.forEach((sidesection) => {
+        sidesection.classList.remove('darkon');
+      })
+    }
+    if (blue) {
+      blue.forEach((blue) => {
+        blue.classList.remove('darkon');
+      })
+    }
+    if (onemorelink) {
+      onemorelink.forEach((onemorelink) => {
+        onemorelink.classList.remove('darkon');
+      })
+    }
+    if (twittertweet) {
+      twittertweet.forEach((twittertweet) => {
+        twittertweet.setAttribute('data-theme', 'light');
+      })
+    }
     navrightr.classList.remove('darkon');
     dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
