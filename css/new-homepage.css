@@ -752,6 +752,10 @@
     .move-more {
         margin-top: -50px;
     }
+    .article-type {
+        bottom: 130px;
+        font-size: 10px;
+    } 
 }
 @media screen and (max-width: 375px) {
     .homepage-box-content h3 {
