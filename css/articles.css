@@ -100,14 +100,23 @@
     flex-direction: row;
     width: 100%;
     align-items: flex-end;
+    flex-wrap: wrap;
     margin-bottom: 20px;
 }
 .article-content ul {
     margin-left: 25px;
 }
+.small-text {
+    font-size: 12px !important;
+    margin-top: -10px !important;
+    font-style: italic;
+}
 .article-content.darkon p, 
 .article-content.darkon li {
     color: #E1E1E1;
+}
+sup {
+    position: relative;
 }
 .article-content.darkon h3 {
     color: white;
@@ -225,6 +234,9 @@
     }
     .article-content p {
         font-size: 12px;
+    }
+    .small-text {
+        font-size: 6px !important;
     }
     .article-title p {
         font-size: 10px;
