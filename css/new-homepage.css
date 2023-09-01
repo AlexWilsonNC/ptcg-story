@@ -135,6 +135,9 @@
 .retro-article {
     background-color: rgb(238, 65, 34);
 }
+.other-article {
+    background-color: rgb(224, 160, 22);
+}
 .wrapped-feature img, 
 .wrapped-feature-second-row img,
 .article-thumbnail img {
