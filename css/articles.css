@@ -62,7 +62,7 @@
 }
 .article-title a,
 .twit-link {
-    color: rgb(27, 134, 240);
+    color: rgb(27, 134, 240) !important;
 }
 .a-social {
     width: 20px;height:auto;
@@ -84,6 +84,9 @@
     flex-direction: column;
     justify-content: flex-start;
     margin-top: 15px;
+}
+.article-content.darkon a {
+    color: rgb(224, 160, 22);
 }
 .article-content p {
     font-size: 16px;
@@ -114,9 +117,6 @@
 .article-content.darkon p, 
 .article-content.darkon li {
     color: #E1E1E1;
-}
-sup {
-    position: relative;
 }
 .article-content.darkon h3 {
     color: white;
@@ -216,6 +216,9 @@ sup {
     }
     .article-title h2 {
         font-size: 20px;
+    }
+    .article-content img {
+        border-radius: 10px;
     }
 }
 @media screen and (max-width: 450px) {
