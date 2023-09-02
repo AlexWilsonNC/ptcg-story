@@ -2801,7 +2801,7 @@ let masters = [
     ]
   },
   {
-    firstName: 'Azul C',
+    firstName: 'Azul Griego',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/shuppet.png',
