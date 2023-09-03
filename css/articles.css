@@ -5,6 +5,13 @@
     align-items: center;
     justify-content: flex-start;
 }
+img{
+    -khtml-user-select: none;
+    -o-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
 .top-backtrack {
     display: flex;
     flex-direction: row;
@@ -98,6 +105,30 @@
     width: 85%;
     margin-bottom: 15px;
 }
+.center-cards-of-week {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.card-of-the-week {
+    width: 30% !important; 
+    height:auto;
+    margin:0 15px;
+    border-radius: 0px !important;
+}
+.card-of-the-week-small {
+    width: 10% !important; 
+    height:auto;
+    margin:0 5px;
+    border-radius: 0px !important;
+}
+@media screen and (max-width: 600px) {
+    .card-of-the-week-small {
+        width: 13% !important; 
+    }
+}
 .align-row {
     display: flex;
     flex-direction: row;
@@ -115,7 +146,8 @@
     font-style: italic;
 }
 .article-content.darkon p, 
-.article-content.darkon li {
+.article-content.darkon li, 
+.article-content.darkon span {
     color: #E1E1E1;
 }
 .article-content.darkon h3 {
