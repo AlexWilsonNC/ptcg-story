@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,22 +5,23 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+    <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
 
     <!-- <link rel='image_src' href='./assets/zar.jpg'> -->
     <!-- <meta property='og:image' content='./assets/zar.jpg'/> -->
     <!-- <a href="https://ibb.co/LCR00ch"><img src="https://i.ibb.co/55411Sx/zar.jpg" alt="zar" border="0"></a> -->
 
-    <meta property='og:title' content='PTCG Legends'/>
-    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg'/>
-    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
-    <meta property='og:url' content='www.ptcglegends.com'/>
+    <meta property='og:title' content='PTCG Legends' />
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg' />
+    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!' />
+    <meta property='og:url' content='www.ptcglegends.com' />
     <meta property='og:image:width' content='1200' />
     <meta property='og:image:height' content='627' />
 
     <title>PTCG Legends</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="./css/nav.css">
+    <link rel="stylesheet" href="./css/new-homepage.css">
     <link rel="stylesheet" href="./css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -53,11 +52,13 @@
                     <ul class='drop-it-down2'>
                         <li><a href='./worlds/main'>Worlds</a></li>
                         <li><a href='./major-events/main'>Major Events</a></li>
-                        <li><a href='./tournaments/regional-spe' style='color:grey;pointer-events: none;'>Regionals & SPEs</a></li>
+                        <li><a href='./tournaments/regional-spe'
+                                style='color:rgba(128, 128, 128, 0.52);pointer-events: none;'>Regionals & SPEs</a></li>
                     </ul>
-                </li>                
+                </li>
                 <li><a href="./decks-by-era/main">Decks by Era</a></li>
-                <li><a href="./articles/all" style='color:grey;pointer-events: none;'>Articles</a></li>
+                <li><a href="./articles/all">Articles</a>
+                </li>
             </ul>
             <nav role="navigation">
                 <div id="menuToggle">
@@ -81,11 +82,13 @@
                         <li class='bold tittle'><a href="./event-archive">Event Archive</a></li>
                         <li class='sub-nav'><a href="./worlds/main">World Championships</a></li>
                         <li class='sub-nav'><a href="./major-events/main">Major Events (ICs, Nats, SCs)</a></li>
-                        <li class='sub-nav'><a href="./tournaments/regional-spe" style='color:rgba(128, 128, 128, 0.52);pointer-events: none;'>Regionals & SPEs</a>
+                        <li class='sub-nav'><a href="./tournaments/regional-spe"
+                                style='color:rgba(128, 128, 128, 0.52);pointer-events: none;'>Regionals & SPEs</a>
                         </li>
                         <li class='bold tittle'><a href="./decks-by-era/main">Decks by Era</a></li>
                         <hr>
-                        <li class='bold tittle'><a href="./articles/all"  >Articles</a></li>
+                        <li class='bold tittle'><a href="./articles/all">Articles</a>
+                        </li>
                         <hr>
                         <li class='bold tittle'><a href="./other/main">Other</a></li>
                         <li class='sub-nav'><a href="./card-database">Pokémon Card Database</a></li>
@@ -94,7 +97,6 @@
                         <li class='sub-nav'><a href="./other/banned-cards">Banned Cards</a></li>
                         <li class='sub-nav'><a href="./other/timeline">Historic Timeline</a></li>
                         <li class='sub-nav'><a href="./other/worlds-booklets">Worlds Booklets</a></li>
-                        <!-- <li class='sub-nav-non'><a href="#">Contact</a></li> -->
                         <hr>
                         <li class='bold tittle'><a href="./contact">Contact & Socials</a></li>
                         <div class='social-popup'>
@@ -117,81 +119,783 @@
         </div>
     </nav>
 
-    <div class='home-pics'>
-        <div id='welcome'>
-            <div class='image-text'>
-                <h2>Welcome to PTCG Legends</h2>
-                <p>Whether you're a retro deck builder, a veteran player reminiscing on the past, or wanting to take a
-                    look back at the World Championships with the dream of becoming the next, this site is
-                    catered to all interested in the competitive side of the Pokémon TCG.</p>
+    <div class='welcome-top'>
+        <div class='welcome-header'>
+            <p style='margin-bottom: 4px;'><b>Welcome to <i style='color:rgb(224, 160, 22);'>PTCG Legends</i></b></p>
+            <p>You've found the largest website for competitive Pokémon content, modern and retro. Looking to up your
+                game through our pro-articles, seeking tournament results (old or new), an avid retro deck builder
+                looking for your next project, take a look back in time through an event's photo album, watch a World's
+                stream? PTCG Legends has it all... try not to get lost!</p>
+        </div>
+    </div>
+
+    <div class='new-homepage'>
+        <div class='homepage-main-content hide-it-all'>
+            <!-- Second Row -->
+            <div class='top-featured-row'>
+                <div class='homepage-box'>
+                    <h2 class='featured-headers'>Latest Event Results</h2>
+                    <a href='./worlds/2023/results'>
+                        <div class='wrapped-feature'>
+                            <img src='./assets/worlds-logos/2023-worlds-banner.jpg' />
+                            <div class='homepage-box-content'>
+                                <h3>The 2023 World Championship's Results Are In!</h3>
+                                <p>View World's Top 64 results here. As well as Senior & Junior results, event info, the
+                                    main stream and photos from the weekend! <span class='featured-link'>View
+                                        Results</span>
+                                </p>
+                            </div>
+                            <div class='featured-box-date'>
+                                <p>Aug 13, 2023</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class='homepage-box'>
+                    <div class='flex-row-wide'>
+                        <h2 class='featured-headers'>Latest Article</h2>
+                        <a href='./articles/all' class='blue'><!--View All--></a>
+                    </div>
+                    <a href='./articles/other/greatest-players-in-history'>
+                        <div class='wrapped-feature'>
+                            <div class='article-thumbnail'>
+                                <img src='./assets/article-thumbnails/hd-leon.png' />
+                                <p class='article-type other-article'>Other</p>
+                            </div>
+                            <div class='homepage-box-content'>
+                                <h3>The Greatest Players in History (Opinion)</h3>
+                                <p>Many players have made their mark throughout the history of the game. But who
+                                    takes the title as the most Legendary player of all time? <span
+                                        class='featured-link'>Read More</span></p>
+                            </div>
+                            <div class='featured-box-name-and-date'>
+                                <div class='profile-pic'>
+                                    <img src='./assets/me.jpg' />
+                                    <p>Alex Wilson</p>
+                                </div>
+                                <p>Sep 03, 2023</p>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+                <div class='homepage-box'>
+                    <h2 class='featured-headers'>Latest Archive Updates</h2>
+                    <a href='./decks-by-era/2019/formats'>
+                        <div class='wrapped-feature'>
+                            <img src='./assets/new/2019.jpg' />
+                            <div class='homepage-box-content'>
+                                <h3>2019 Formats Are Now Available In The "Decks By Era" Section!</h3>
+                                <p>Check out more than 160 popular decks from the 2019 season! Please help us document
+                                    more
+                                    if you believe any are missing. <span class='featured-link'>View Updates</span></p>
+                            </div>
+                            <div class='featured-box-name-and-date'>
+                                <div class='profile-pic'>
+                                    <img src='./assets/me.jpg' />
+                                    <p>Alex Wilson</p>
+                                </div>
+                                <p>Jul 01, 2023</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Second Row -->
+            <div class='top-featured-row'>
+                <div class='homepage-box2'>
+                    <div class='flex-row-wide'>
+                        <h2 class='featured-headers'>Upcoming Major Events</h2>
+                        <a href='./tournaments/upcoming' class='blue'>View All</a>
+                    </div>
+                    <div class='upcoming-events'>
+                        <ul>
+                            <li>
+                                <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                                <div class='event-date'>
+                                    <h4>Pittsburgh Regionals</h4>
+                                    <div class='upcoming-loc'>
+                                        <div class='flag-place'>
+                                            <img src='./assets/flags/usa.png' />
+                                            <p>USA (Pennsylvania)</p>
+                                        </div>
+                                        <p>Sept 08</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <img class='event-type-logo' src='./assets/event-logos/spe.png' />
+                                <div class='event-date'>
+                                    <h4>Barcelona Special Event</h4>
+                                    <div class='upcoming-loc'>
+                                        <div class='flag-place'>
+                                            <img src='./assets/flags/spain.png' />
+                                            <p>Spain (Barcelona)</p>
+                                        </div>
+                                        <p>Sept 16</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                                <div class='event-date'>
+                                    <h4>Curitiba Regionals</h4>
+                                    <div class='upcoming-loc'>
+                                        <div class='flag-place'>
+                                            <img src='./assets/flags/brazil.png' />
+                                            <p>Brazil (Curitiba)</p>
+                                        </div>
+                                        <p>Sept 23</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                                <div class='event-date'>
+                                    <h4>Peoria Regionals</h4>
+                                    <div class='upcoming-loc'>
+                                        <div class='flag-place'>
+                                            <img src='./assets/flags/usa.png' />
+                                            <p>USA (Illinois)</p>
+                                        </div>
+                                        <p>Oct 06</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                                <div class='event-date'>
+                                    <h4>Sacramento Regionals</h4>
+                                    <div class='upcoming-loc'>
+                                        <div class='flag-place'>
+                                            <img src='./assets/flags/usa.png' />
+                                            <p>USA (California)</p>
+                                        </div>
+                                        <p>Oct 13</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- <li>
+                                <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                                <div class='event-date'>
+                                    <h4>Lille Regionals</h4>
+                                    <div class='upcoming-loc'>
+                                        <div class='flag-place'>
+                                            <img src='./assets/flags/france.png' />
+                                            <p>France (Lille)</p>
+                                        </div>
+                                        <p>Oct 21</p>
+                                    </div>
+                                </div>
+                            </li> -->
+                            <!-- <li>
+                                <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                                <div class='event-date'>
+                                    <h4>Toronto Regionals</h4>
+                                    <div class='upcoming-loc'>
+                                        <div class='flag-place'>
+                                            <img src='./assets/flags/canada.png' />
+                                            <p>Canada (Toronto)</p>
+                                        </div>
+                                        <p>Oct 27</p>
+                                    </div>
+                                </div>
+                            </li> -->
+                        </ul>
+                    </div>
+                </div>
+                <div class='homepage-box2'>
+                    <h2 class='featured-headers'>Latest Set List</h2>
+                    <a href='./card-database'>
+                        <div class='wrapped-feature-second-row'>
+                            <img src='./assets/new/obsidian-flames-overlay.png' />
+                            <div class='homepage-box-content'>
+                                <h3>View All Cards from Obsidian Flames in our Card Database!</h3>
+                                <!-- <p></p> -->
+                            </div>
+                            <div class='featured-box-date'>
+                                <p class='featured-link'>View Database</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class='homepage-box2'>
+                    <h2 class='featured-headers'>Card of the Week</h2>
+                    <a href='./card-of-the-week/cleffa-col'>
+                        <div class='wrapped-feature-second-row'>
+                            <img src='./assets/card-otw/cleffa-col.jpg' />
+                            <div class='homepage-box-content'>
+                                <h3>Learn About: <i>Cleffa (Call of Legends)</i></h3>
+                                <!-- <p></p> -->
+                            </div>
+                            <div class='featured-box-date'>
+                                <p class='featured-link'>View Fun Facts</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <hr class='homepage-hr'>
+
+            <!-- Third Row most recent articles -->
+            <!-- <div class='top-featured-row'>
+                <div class='homepage-box'>
+                    <div class='flex-row-wide'>
+                        <h2 class='featured-headers'>Most Recent Articles</h2>
+                        <a href='' class='blue'>View All</a>
+                    </div>
+                    <div class='wrapped-feature'>
+                        <div class='article-thumbnail'>
+                            <img src='./assets/article-thumbnails/hd-leon.png' />
+                            <p class='article-type other-article'>Other</p>
+                        </div>
+                        <div class='homepage-box-content'>
+                            <h3>The Greatest Players in History (Opinion)</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore cum quis eum eveniet
+                                eligendi quam, quidem placeat... <span class='featured-link'>Read More</span></p>
+                        </div>
+                        <div class='featured-box-name-and-date'>
+                            <div class='profile-pic'>
+                                <img src='./assets/me.jpg' />
+                                <p>Alex Wilson</p>
+                            </div>
+                            <p>Sep 03, 2023</p>
+                        </div>
+                    </div>
+                </div>
+                <div class='homepage-box'>
+                    <h2 class='featured-headers' style='opacity:0;pointer-events:none;'>.</h2>
+                    <div class='wrapped-feature'>
+                        <div class='article-thumbnail'>
+                            <img src='./assets/article-thumbnails/lugia-sketch.jpg' />
+                            <p class='article-type modern-article'>Modern</p>
+                        </div>
+                        <div class='homepage-box-content'>
+                            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore cum quis eum eveniet
+                                eligendi quam, quidem placeat... <span class='featured-link'>Read More</span></p>
+                        </div>
+                        <div class='featured-box-name-and-date'>
+                            <div class='profile-pic'>
+                                <img src='./assets/me.jpg' />
+                                <p>Alex Wilson</p>
+                            </div>
+                            <p>Jun 04, 2023</p>
+                        </div>
+                    </div>
+                </div>
+                <div class='homepage-box'>
+                    <h2 class='featured-headers' style='opacity:0;pointer-events:none;'>.</h2>
+                    <div class='wrapped-feature'>
+                        <div class='article-thumbnail'>
+                            <img src='./assets/article-thumbnails/celebi-prime.png' />
+                            <p class='article-type retro-article'>Retro</p>
+                        </div>
+                        <div class='homepage-box-content'>
+                            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore cum quis eum eveniet
+                                eligendi quam, quidem placeat... <span class='featured-link'>Read More</span></p>
+                        </div>
+                        <div class='featured-box-name-and-date'>
+                            <div class='profile-pic'>
+                                <img src='./assets/people/pooka.jpg' />
+                                <p>Pooka</p>
+                            </div>
+                            <p>May 29, 2023</p>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+            <!-- <hr class='homepage-hr'> -->
+
+            <div class='sponsored-title'>
+                <h2 class='featured-headers'>Partnered Content</h2>
+            </div>
+
+            <!-- Forth Row -->
+            <div class='top-featured-row'>
+                <div class='homepage-box2'>
+                    <div class='flex-row-wide'>
+                        <h2 class='featured-headers'>Ruby Retro</h2>
+                        <a style='opacity:0;pointer-events:none;'>.</a>
+                    </div>
+                    <a href='https://youtu.be/6824k0PFeIo?si=U64rqahXUBBaoJQp' target='_blank'>
+                        <div class='wrapped-feature-second-row'>
+                            <img src='./assets/new/rrep5.jpg' />
+                            <div class='homepage-box-content'>
+                                <h3>Pokemon TCG History - Episodes 1-3 - Remastered Compilation</h3>
+                            </div>
+                            <div class='featured-box-date'>
+                                <p class='featured-link'>Watch Video</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class='homepage-box2'>
+                    <h2 class='featured-headers' style='opacity:0;pointer-events:none;'>.</h2>
+                    <a href='https://youtu.be/pTAKxNkiZwY?si=cqfhpJdH_VK3uowj' target='_blank'>
+                        <div class='wrapped-feature-second-row'>
+                            <img src='./assets/new/rrep4.jpg' />
+                            <div class='homepage-box-content'>
+                                <h3>Pokemon TCG History - Episode 4 - Dawn of Neo: The Rise of Cleffa</h3>
+                            </div>
+                            <div class='featured-box-date'>
+                                <p class='featured-link'>Watch Video</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class='homepage-box2'>
+                    <div class='flex-row-wide'>
+                        <h2 class='featured-headers' style='opacity:0;pointer-events:none;'>.</h2>
+                        <a href='https://www.youtube.com/@rubyretro/videos' target='_blank' class='blue'>View All</a>
+                    </div>
+                    <a href='https://youtu.be/VqhJ1hTeNu0?si=ebtEC9yokWGPAQcc' target='_blank'>
+                        <div class='wrapped-feature-second-row'>
+                            <img src='./assets/new/retro-ruby.jpg' />
+                            <div class='homepage-box-content'>
+                                <h3>Pokemon TCG History Origins - 1998 - Charizard Mega Battle</h3>
+                            </div>
+                            <div class='featured-box-date'>
+                                <p class='featured-link'>Watch Video</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Fifth Row -->
+            <div class='top-featured-row move-it-up'>
+                <div class='homepage-box2'>
+                    <div class='flex-row-wide'>
+                        <h2 class='featured-headers'>Uncommon Energy</h2>
+                        <a style='opacity:0;pointer-events:none;'>.</a>
+                    </div>
+                    <a href='https://youtu.be/b1_eE0r-TkA?si=MtF3xUjKeO2mKRsM' target='_blank'>
+                        <div class='wrapped-feature-second-row'>
+                            <img src='./assets/new/ue4.jpg' />
+                            <div class='homepage-box-content'>
+                                <h3>Playing Pokémon Cards Can Now Pay Your Bills!</h3>
+                            </div>
+                            <div class='featured-box-date'>
+                                <p class='featured-link'>Watch Podcast</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class='homepage-box2'>
+                    <h2 class='featured-headers' style='opacity:0;pointer-events:none;'>.</h2>
+                    <a href='https://youtu.be/rRItcL3e4tU?si=Dat-Mpt8LkUoaPZN' target='_blank'>
+                        <div class='wrapped-feature-second-row'>
+                            <img src='./assets/new/ue3.jpg' />
+                            <div class='homepage-box-content'>
+                                <h3>So Azul got Top 4 at the World Championships</h3>
+                            </div>
+                            <div class='featured-box-date'>
+                                <p class='featured-link'>Watch Podcast</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class='homepage-box2'>
+                    <div class='flex-row-wide'>
+                        <h2 class='featured-headers' style='opacity:0;pointer-events:none;'>.</h2>
+                        <a href='https://www.youtube.com/@UncommonEnergyPodcast/videos' target='_blank'
+                            class='blue'>View All</a>
+                    </div>
+                    <a href='https://youtu.be/TrmHOAGnzX0?si=78BlEs8a_YyaBhJm' target='_blank'>
+                        <div class='wrapped-feature-second-row'>
+                            <img src='./assets/new/ue2.jpg' />
+                            <div class='homepage-box-content'>
+                                <h3>Our Pokemon World Championship Predictions</i></h3>
+                            </div>
+                            <div class='featured-box-date'>
+                                <p class='featured-link'>Watch Podcast</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
-        <div id='site-info'>
-            <div class='image-text'>
-                <h2>Decks from Every Era</h2>
-                <p>Want to look back at your favorite decks? More than 1,000 decks from throughout the years can be found here.
-                    Warning: there's a lot of them, try not to get lost...</p>
-                <a href='./decks-by-era/main'>
-                    <button class='home-btns'>Explore</button>
+
+        <!-- Side Content -->
+        <div class='homepage-side'>
+            <div class='side-section'>
+                <h4>Popular Resources:</h4>
+                <ul>
+                    <!-- <li><a href=''>Articles</a></li> -->
+                    <li><a href=''>Upcoming Major Events</a></li>
+                    <li><a href='https://www.seagrovetcg.com/event-finder' target='_blank'>Local Event Finder</a></li>
+                    <li><a href='./decks-by-era/main'>Decks by Era</a></li>
+                    <li><a href='./other/rules-by-era'>Rules by Era</a></li>
+                    <li><a href='./worlds/main'>World Championships</a></li>
+                    <li><a href='./major-events/main'>Internationals, Nats & more</a></li>
+                    <li><a href='./card-database'>Card Database</a></li>
+                    <li><a href='./other/expansions'>TCG Expansions</a></li>
+                    <li><a href='./other/timeline'>Historic Timeline</a></li>
+                    <li><a href='./other/worlds-booklets'>World's Booklets</a></li>
+                </ul>
+            </div>
+            <div class='side-section'>
+                <h4>Trending Pages:</h4>
+                <ol>
+                    <li><a href='./decks-by-era/2010/dp-ul'>2010 Decks by Era (DP - UL)</a></li>
+                    <li><a href='./worlds/2023/summary'>2023 World Championships</a></li>
+                    <li><a href='./decks-by-era/2018/sum-lot'>2018 Decks by Era (SUM - LOT)</a></li>
+                    <li><a href='./major-events/2023/naic/results'>2023 NAIC Results</a></li>
+                    <li><a href='./worlds/2002/summary'>2002 World Championships</a></li>
+                    <li><a href='./decks-by-era/1999/bs-fossil'>1999 Decks by Era (Base - Fossil)</a></li>
+                    <!-- <li><a href='./decks-by-era/2006/hl-hp'>2006 Decks by Era (HL - HP)</a></li> -->
+                </ol>
+            </div>
+            <div class='side-section'>
+                <div class='flex-row'>
+                    <img class='side-icon' src='./assets/patreon.webp' />
+                    <h4>Patreon:</h4>
+                </div>
+                <p>Like what you see? It took an insane amount of work to get to where we are today, your support is
+                    beyond appreciated and used to further build this website! <a class='one-more-link'
+                        href='https://www.patreon.com/PTCGLegends' target='_blank'>Our Patreon here</a></p><br>
+                <!-- <p><b>Thank you so much to all of our supporters on Patreon!</b> ❤️ Michael, Jim, & Alex</p> -->
+            </div>
+            <div class='side-section'>
+                <div class='flex-row'>
+                    <img class='side-icon' src='./assets/old-book.jpg' />
+                    <h4>Help us Archive:</h4>
+                </div>
+                <p>Don't see a certain deck listed under a format? Have a missing decklist or information from a past
+                    tournament? Would you like to write articles? Spot a mistake? Please submit all inquiries to our
+                    email address here: <a class='one-more-link'
+                        href='mailto:ptcglegends@gmail.com'>ptcglegends@gmail.com</a>. Thank you!</p>
+            </div>
+
+            <div class='homepage-hide-large'>
+                <a class="twitter-timeline twitter-tweet" data-width="450" data-height="705"
+                    href="https://twitter.com/PTCG_Legends?ref_src=twsrc%5Etfw">Tweets by PTCG_Legends</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            <div class='homepage-hide-medium'>
+                <a class="twitter-timeline twitter-tweet" data-width="450" data-height="450"
+                    href="https://twitter.com/PTCG_Legends?ref_src=twsrc%5Etfw">Tweets by PTCG_Legends</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+
+        </div>
+
+        <div class='homepage-main-content hide-on-small'>
+            <!-- Second Row -->
+            <div class='homepage-box'>
+                <h2 class='featured-headers'>Latest Event Results</h2>
+                <a href='./worlds/2023/results'>
+                    <div class='wrapped-feature'>
+                        <img src='./assets/worlds-logos/2023-worlds-banner.jpg' />
+                        <div class='homepage-box-content'>
+                            <h3>The 2023 World Championship's Results Are In!</h3>
+                            <p>View World's Top 64 results here. As well as Senior & Junior results, event info, the
+                                main stream and photos from the weekend! <span class='featured-link'>View
+                                    Results</span>
+                            </p>
+                        </div>
+                        <div class='featured-box-date'>
+                            <p>Aug 13, 2023</p>
+                        </div>
+                    </div>
                 </a>
             </div>
-        </div>
-        <div id='worlds-pins'>
-            <div class='image-text'>
-                <h2>World Championships</h2>
-                <p>Each event's info, final results data, event image galleries, all available streams and event
-                    coverage from each event, plus stories & social media posts from players and staff, all found here!
-                </p>
-                <a href='./worlds/main'>
-                    <button class='home-btns'>Explore</button>
+            <div class='homepage-box'>
+                <div class='flex-row-wide'>
+                    <h2 class='featured-headers'>Latest Article</h2>
+                    <a href='./articles/all' class='blue'></a>
+                </div>
+                <a href='./articles/other/greatest-players-in-history'>
+                    <div class='wrapped-feature'>
+                        <div class='article-thumbnail'>
+                            <img src='./assets/article-thumbnails/hd-leon.png' />
+                            <p class='article-type other-article'>Other</p>
+                        </div>
+                        <div class='homepage-box-content'>
+                            <h3>The Greatest Players in History (Opinion)</h3>
+                            <p>Many players have made their mark throughout the history of the game. But who takes
+                                the
+                                title as the most Legendary player of all time? <span class='featured-link'>Read
+                                    More</span></p>
+                        </div>
+                        <div class='featured-box-name-and-date'>
+                            <div class='profile-pic'>
+                                <img src='./assets/me.jpg' />
+                                <p>Alex Wilson</p>
+                            </div>
+                            <p>Sep 03, 2023</p>
+                        </div>
+                    </div>
                 </a>
             </div>
-        </div>
-        <div id='creator'></div>
-        <div class='image-text-creator'>
-            <h2>Message from the Creator</h2>
-                <img loading="lazy" class='me' src='./assets/me.jpg' alt='alex'>
-                <p>~ Alex Wilson</p>
-            <p class='italic'>"I've been playing the Pokémon Trading Card Game since 2010, but I've been enveloped
-                by Pokémon since I was in Kindergarten in 1999. While I'm more-so
-                known for being a top competitor in the XY - Sun & Moon era, I'm an avid "retro" deck collector, and
-                love reminiscing on the past of what will forever be my favorite hobby. Often times, I find myself scrolling through old
-                forums looking for decks that I may have forgotten about, or re-watching past streams until I pass out on the couch.</p>
-            <br>
-            <p class='italic'>While there's been plenty of sites out there that have provided amazing information,
-                they all seemed to stick to one niche, only decklists from select years, just results, player's stats... Personally, I
-                was tired of having to remember which website contained whichever desired info that I was searching
-                for, thus, I took things into my own hands and created this massive site that has every possible
-                grain of information about historic, past events, one could ever hope for!"</p>
-            <a href='https://twitter.com/alexwilsonTCG' target="_blank">
-                <img loading="lazy" class='home-twitter-icon' src='./assets/twitter-trans.png' alt='twitter icon'>
-                <p>Follow me on Twitter! <span class='italic bold'>@alexwilsonTCG</span></p>
-            </a>
+            <div class='homepage-box'>
+                <h2 class='featured-headers'>Latest Archive Updates</h2>
+                <a href='./decks-by-era/2019/formats'>
+                    <div class='wrapped-feature'>
+                        <img src='./assets/new/2019.jpg' />
+                        <div class='homepage-box-content'>
+                            <h3>2019 Formats Are Now Available In The "Decks By Era" Section!</h3>
+                            <p>Check out more than 160 popular decks from the 2019 season! Please help us document
+                                more
+                                if you believe any are missing. <span class='featured-link'>View Updates</span></p>
+                        </div>
+                        <div class='featured-box-name-and-date'>
+                            <div class='profile-pic'>
+                                <img src='./assets/me.jpg' />
+                                <p>Alex Wilson</p>
+                            </div>
+                            <p>Jul 01, 2023</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class='homepage-box3'>
+                <div class='flex-row-wide'>
+                    <h2 class='featured-headers'>Upcoming Major Events</h2>
+                    <a href='./tournaments/upcoming' class='blue'>View All</a>
+                </div>
+                <div class='upcoming-events'>
+                    <ul>
+                        <li>
+                            <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                            <div class='event-date'>
+                                <h4 class='make-me-white'>Pittsburgh Regionals</h4>
+                                <div class='upcoming-loc'>
+                                    <div class='flag-place'>
+                                        <img src='./assets/flags/usa.png' />
+                                        <p class='make-me-white'>USA (Pennsylvania)</p>
+                                    </div>
+                                    <p class='make-me-white'>Sept 08</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <img class='event-type-logo' src='./assets/event-logos/spe.png' />
+                            <div class='event-date'>
+                                <h4 class='make-me-white'>Barcelona Special Event</h4>
+                                <div class='upcoming-loc'>
+                                    <div class='flag-place'>
+                                        <img src='./assets/flags/spain.png' />
+                                        <p class='make-me-white'>Spain (Barcelona)</p>
+                                    </div>
+                                    <p class='make-me-white'>Sept 16</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                            <div class='event-date'>
+                                <h4 class='make-me-white'>Curitiba Regionals</h4>
+                                <div class='upcoming-loc'>
+                                    <div class='flag-place'>
+                                        <img src='./assets/flags/brazil.png' />
+                                        <p class='make-me-white'>Brazil (Curitiba)</p>
+                                    </div>
+                                    <p class='make-me-white'>Sept 23</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                            <div class='event-date'>
+                                <h4 class='make-me-white'>Peoria Regionals</h4>
+                                <div class='upcoming-loc'>
+                                    <div class='flag-place'>
+                                        <img src='./assets/flags/usa.png' />
+                                        <p class='make-me-white'>USA (Illinois)</p>
+                                    </div>
+                                    <p class='make-me-white'>Oct 06</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                            <div class='event-date'>
+                                <h4 class='make-me-white'>Sacramento Regionals</h4>
+                                <div class='upcoming-loc'>
+                                    <div class='flag-place'>
+                                        <img src='./assets/flags/usa.png' />
+                                        <p class='make-me-white'>USA (California)</p>
+                                    </div>
+                                    <p class='make-me-white'>Oct 13</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                            <div class='event-date'>
+                                <h4 class='make-me-white'>Lille Regionals</h4>
+                                <div class='upcoming-loc'>
+                                    <div class='flag-place'>
+                                        <img src='./assets/flags/france.png' />
+                                        <p class='make-me-white'>France (Lille)</p>
+                                    </div>
+                                    <p class='make-me-white'>Oct 21</p>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- <li>
+                                <img class='event-type-logo' src='./assets/event-logos/regionals.png' />
+                                <div class='event-date'>
+                                    <h4 class='make-me-white'>Toronto Regionals</h4>
+                                    <div class='upcoming-loc'>
+                                        <div class='flag-place'>
+                                            <img src='./assets/flags/canada.png' />
+                                            <p class='make-me-white'>Canada (Toronto)</p>
+                                        </div>
+                                        <p class='make-me-white'>Oct 27</p>
+                                    </div>
+                                </div>
+                            </li> -->
+                    </ul>
+                </div>
+            </div>
+            <div class='homepage-box2'>
+                <h2 class='featured-headers'>Latest Set List</h2>
+                <a href='./card-database'>
+                    <div class='wrapped-feature-second-row'>
+                        <img src='./assets/new/obsidian-flames-overlay.png' />
+                        <div class='homepage-box-content'>
+                            <h3>View All Cards from Obsidian Flames in our Card Database!</h3>
+                            <!-- <p></p> -->
+                        </div>
+                        <div class='featured-box-date'>
+                            <p class='featured-link'>View Database</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class='homepage-box2'>
+                <h2 class='featured-headers'>Card of the Week</h2>
+                <a href='./card-of-the-week/cleffa-col'>
+                    <div class='wrapped-feature-second-row'>
+                        <img src='./assets/card-otw/cleffa-col.jpg' />
+                        <div class='homepage-box-content'>
+                            <h3>Learn About: <i>Cleffa (Call of Legends)</i></h3>
+                            <!-- <p></p> -->
+                        </div>
+                        <div class='featured-box-date'>
+                            <p class='featured-link'>View Fun Facts</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class='hide-until-mobile'>
+                <a class="twitter-timeline twitter-tweet" data-width="300" data-height="650"
+                    href="https://twitter.com/PTCG_Legends?ref_src=twsrc%5Etfw">Tweets by PTCG_Legends</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+
+            <hr class='homepage-hr'>
+
+            <div class='sponsored-title'>
+                <h2 class='featured-headers'>Partnered Content</h2>
+            </div>
+
+            <div class='homepage-box2'>
+                <div class='flex-row-wide hide-on-mobile'>
+                    <h2 class='featured-headers'>Ruby Retro</h2>
+                    <a style='opacity:0;pointer-events:none;'>.</a>
+                </div>
+                <a href='https://youtu.be/6824k0PFeIo?si=U64rqahXUBBaoJQp' target='_blank'>
+                    <div class='wrapped-feature-second-row'>
+                        <img src='./assets/new/rrep5.jpg' />
+                        <div class='homepage-box-content'>
+                            <h3>Pokemon TCG History - Episodes 1-3 - Remastered Compilation</h3>
+                        </div>
+                        <div class='featured-box-date'>
+                            <p class='featured-link'>Watch Video</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class='homepage-box2  move-more'>
+                <h2 class='featured-headers' style='opacity:0;pointer-events:none;'>.</h2>
+                <a href='https://youtu.be/pTAKxNkiZwY?si=cqfhpJdH_VK3uowj' target='_blank'>
+                    <div class='wrapped-feature-second-row'>
+                        <img src='./assets/new/rrep4.jpg' />
+                        <div class='homepage-box-content'>
+                            <h3>Pokemon TCG History - Episode 4 - Dawn of Neo: The Rise of Cleffa</h3>
+                        </div>
+                        <div class='featured-box-date'>
+                            <p class='featured-link'>Watch Video</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class='homepage-box2'>
+                <div class='flex-row-wide hide-on-mobile'>
+                    <h2 class='featured-headers'>Uncommon Energy</h2>
+                    <a style='opacity:0;pointer-events:none;'>.</a>
+                </div>
+                <a href='https://youtu.be/b1_eE0r-TkA?si=MtF3xUjKeO2mKRsM' target='_blank'>
+                    <div class='wrapped-feature-second-row'>
+                        <img src='./assets/new/ue4.jpg' />
+                        <div class='homepage-box-content'>
+                            <h3>Playing Pokémon Cards Can Now Pay Your Bills!</h3>
+                        </div>
+                        <div class='featured-box-date'>
+                            <p class='featured-link'>Watch Podcast</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class='homepage-box2 move-more'>
+                <h2 class='featured-headers' style='opacity:0;pointer-events:none;'>.</h2>
+                <a href='https://youtu.be/rRItcL3e4tU?si=Dat-Mpt8LkUoaPZN' target='_blank'>
+                    <div class='wrapped-feature-second-row'>
+                        <img src='./assets/new/ue3.jpg' />
+                        <div class='homepage-box-content'>
+                            <h3>So Azul got Top 4 at the World Championships</h3>
+                        </div>
+                        <div class='featured-box-date'>
+                            <p class='featured-link'>Watch Podcast</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 
     <footer class='era-footer'>
         <div id='foot-top'>
-            <a href="./worlds/main">Worlds</a>
-            <a href="./major-events/main">Major Events</a>
+            <!-- <a href="./articles">Articles</a> -->
+            <a href="./event-archive">Event Archive</a>
             <a href="./decks-by-era/main">Decks by Era</a>
+            <a href='https://www.seagrovetcg.com/event-finder' target='_blank'>Event Finder</a>
             <a href='./contact'>Contact</a>
         </div>
         <div class='foot-mid'>
-            <a href='mailto:ptcglegends@gmail.com'>
-                <img src='./assets/email-icon.png' alt='social-icon' loading='lazy'>
-            </a>
             <a href='https://twitter.com/PTCG_Legends' target="_blank">
-                <img src='./assets/twitter-circle.png' alt='social-icon' loading='lazy'>
+                <img src='./assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
             </a>
             <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
                 <img src='./assets/discord-icon.png' alt='social-icon' loading='lazy'>
             </a>
+            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                <img src='./assets/patreon.webp' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='./assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
         </div>
-        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon Trading Card Game, including card text and images and tournament-related content, are copyrights of The Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast. This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This website is simply a place for Pokémon TCG fans to look at events and results from the greatest game in history!</div>
+        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon
+            Trading Card Game, including card text and images and tournament-related content, are copyrights of The
+            Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast.
+            This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company
+            (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This
+            website is simply a place for Pokémon TCG fans to look at events and results from the
+            greatest game in history!</div>
     </footer>
-    <script src='./darkmode/darkmode-old-home.js'></script>
-     
+    <script src='./darkmode/darkmode-home.js'></script>
 </body>
 
 </html>
