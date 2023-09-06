@@ -100,7 +100,7 @@ img{
     line-height: 1.4;
     margin-bottom: 20px;
 }
-.article-content img {
+.article-content-image {
     border-radius: 15px;
     width: 85%;
     margin-bottom: 15px;
@@ -170,6 +170,12 @@ img{
     width: 50%;
     margin-left: 25px;
 }
+.decks-main {
+    margin-top: -5px !important;
+}
+.deck-box {
+    width: 100% !important;
+}
 
 @media screen and (max-width: 1250px) {
     .image-and-text img {
@@ -180,7 +186,7 @@ img{
     .article-container {
         width: 100%;
     }
-    .article-content img {
+    .article-content-image {
         width: 100%;
     }
     .image-and-text img {
@@ -249,7 +255,7 @@ img{
     .article-title h2 {
         font-size: 20px;
     }
-    .article-content img {
+    .article-content-image {
         border-radius: 10px;
     }
 }
