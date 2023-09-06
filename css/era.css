@@ -320,7 +320,7 @@
 }
 .deck-description.darkon {
     border: 2px solid black;
-    box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.2);
+    box-shadow: 0px 0px 12px black;
 }
 .deck-description p {
     max-width: 87%;
@@ -444,7 +444,7 @@
 }
 .deck-box.darkon {
     border: 2px solid black;
-    box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.2);
+    box-shadow: 0px 0px 12px black;
 }
 .pokemon-card2 {
     position: relative;
