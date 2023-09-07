@@ -1,0 +1,129 @@
+.center {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.regional-container {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: -50px;
+}
+.regional-info {
+    width: 100%;
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #191919;
+    border-top: 2px solid grey;
+    color: #E1E1E1;
+}
+.place-n-flag {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.regional-container a {
+    color: rgb(224, 160, 22);
+}
+.regional-container a:hover {
+    color: rgb(255, 225, 207);
+}
+.place-n-flag img {
+    margin: -8px 0 0 15px;
+}
+.regional-info h2 {
+    margin-bottom: 7px;
+}
+.outer-links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.outer-links p,
+.regional-info p {
+    margin-bottom: 5px;
+}
+
+.regional-result {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.regional-result.darkon h3 {
+    color: #E1E1E1;
+}
+.pending {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    margin-left: 50px;
+}
+.reg-hr {
+    display: none;
+}
+
+@media screen and (max-width: 1200px) {
+    .regional-container p, 
+    .regional-container a {
+        font-size: 14px;
+    }
+    .regional-info h2 {
+        font-size: 22px;
+    }
+    .place-n-flag img {
+        width: 28px;height:auto;
+    }
+    .regional-container {
+        width: 70%;
+    }
+}
+@media screen and (max-width: 950px) {
+    .regional-container {
+        width: 80%;
+    }
+}
+@media screen and (max-width: 800px) {
+    .regional-container {
+        width: 90%;
+        margin-left: -50px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .regional-container {
+        width: 94%;
+    }
+    .regional-container p, 
+    .regional-container a {
+        font-size: 12px;
+    }
+    .regional-info h2 {
+        font-size: 20px;
+    }
+    .place-n-flag img {
+        width: 25px;
+    }
+    .regional-result.darkon h3 {
+       font-size: 16px;
+    }
+}
+@media screen and (max-width: 625px) {
+    .regional-info {
+        flex-direction: column;
+        align-items: flex-start;
+        border-top: 2px solid grey;
+        padding: 15px 25px;
+    }
+    .outer-links {
+        align-items: flex-start;
+        margin-top: 5px;
+    }    
+    .reg-hr {
+        display: flex;
+        width: 40%;
+        border-bottom: 1px solid grey;
+        margin-top: 5px;
+    }
+}
