@@ -104,6 +104,7 @@
     }
     .place-n-flag img {
         width: 25px;
+        margin-left: 6px;
     }
     .regional-result.darkon h3 {
        font-size: 16px;
