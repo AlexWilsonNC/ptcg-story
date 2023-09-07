@@ -177,6 +177,12 @@ img{
 .deck-box {
     width: 100% !important;
 }
+.radial-cotw {
+    border-radius: 8px !important;
+}
+.small-radial-cotw {
+    border-radius: 3px !important;
+}
 
 @media screen and (max-width: 1250px) {
     .image-and-text img {
@@ -231,6 +237,12 @@ img{
     }
     .article-title h2 {
         font-size: 24px;
+    }
+    .radial-cotw {
+        border-radius: 4px !important;
+    }
+    .small-radial-cotw {
+        border-radius: 1px !important;
     }
 }
 @media screen and (max-width: 600px) {
