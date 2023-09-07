@@ -17,6 +17,9 @@ footer a {
     color: #fff;
     font-size: 18px;
 }
+footer a:hover {
+    color: rgb(224, 160, 22);
+}
 
 .foot-mid {
     display: flex;

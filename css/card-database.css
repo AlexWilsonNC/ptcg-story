@@ -83,7 +83,7 @@
     bottom: 40px;
     right: 40px;
     background-color: black;
-    border-radius: 12px;
+    border-radius: 50%;
     font-size: 30px;
     color:white;
     padding: 10px 15px;
@@ -660,7 +660,6 @@
     .scroll-top-btn {
         bottom: 37px;
         right: 37px;
-        border-radius: 10px;
         font-size: 24px;
         padding: 10px 13px;
     }
