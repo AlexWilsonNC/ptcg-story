@@ -144,7 +144,7 @@ let seniors = [
     ]
   },
   {
-    firstName: 'Frank D',
+    firstName: 'Frank Diaz',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/groudon.png',
