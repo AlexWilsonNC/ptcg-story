@@ -13,6 +13,10 @@ const placeflag = document.querySelector('.regional-info');
 const regionalcontainer = document.querySelector('.regional-container');
 const regionalresult = document.querySelector('.regional-result');
 
+const mastersol = document.querySelector('.masters-ol');
+const seniorsol = document.querySelector('.seniors-ol');
+const juniorsol = document.querySelector('.juniors-ol');
+
 // const socials = document.querySelectorAll(".socials");
 
 const enableDarkMode = () => {
@@ -29,6 +33,18 @@ const enableDarkMode = () => {
     placeflag.classList.add('darkon');
     regionalcontainer.classList.add('darkon');
     regionalresult.classList.add('darkon');
+
+    if (mastersol) {
+      document.querySelectorAll('[src="../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon-white.png'));
+      function addAttribute(){
+        document.querySelectorAll('[src="../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon-white.png'));
+      };
+      window.onload = addAttribute;
+  
+      mastersol.classList.add('darkon');
+      seniorsol.classList.add('darkon');
+      juniorsol.classList.add('darkon');
+    }
 
     // socials.forEach((socials) => {
     //   socials.classList.add('darkon');
@@ -51,6 +67,13 @@ const enableDarkMode = () => {
     placeflag.classList.remove('darkon');
     regionalcontainer.classList.remove('darkon');
     regionalresult.classList.remove('darkon');
+
+    if (mastersol) {
+      document.querySelectorAll('[src="../../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon.png'));
+      mastersol.classList.remove('darkon');
+      seniorsol.classList.remove('darkon');
+      juniorsol.classList.remove('darkon');
+    }
 
     // socials.forEach((socials) => {
     //   socials.classList.remove('darkon');
