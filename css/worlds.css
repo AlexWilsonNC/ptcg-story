@@ -811,7 +811,6 @@ li {
 .modal-x {
     font-size: 18px;
     padding: 10px;
-    /* margin-top: -10px; */
     color: white;
     background-color: rgba(0, 0, 0, 0.8);
     border: 1px solid rgb(163, 163, 163);
@@ -835,8 +834,8 @@ li {
 
 .modal-x:hover {
     cursor: pointer;
-    color: rgb(187, 173, 45);
-    border: 1px solid rgb(187, 173, 45);
+    color: rgb(224, 160, 22);
+    border: 1px solid rgb(224, 160, 22);
 }
 
 .modal-bottom {
@@ -1926,6 +1925,15 @@ li {
     .set-btn {
         font-size: 14px;
     }
+    .modal-x {
+        height: 33px;
+        width: 33px;
+        padding: 0px 0px 0px 0px;
+    }
+    .modal-x p {
+        margin-left: 10px;
+        margin-top: 5px;
+    }
 }
 @media screen and (max-width: 500px) {
     .booklet-set-indiv img {
@@ -1976,15 +1984,9 @@ li {
  .booklet-set-indiv img {
     height: 200px; width: auto;
     }
-    /* .sprite,
-    .second-sprite {
-        width: 48px;
-        height: auto;
-    } */
 }
 
 @media screen and (max-width: 418px) {
-/* screen and (max-height: 790px) { */
     .pok-card-small {
         width: 52px;
     }
