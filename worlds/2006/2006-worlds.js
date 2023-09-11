@@ -90,7 +90,7 @@ let masters = [
         numImg: '../../assets/11.png'
       },
       {
-        cardImg: '../../assets/cards/old-energy/2007-multi-energy.png',
+        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
         numImg: '../../assets/04.png'
       }
     ]
@@ -2306,7 +2306,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/old-energy/2007-multi-energy.png',
+        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -2445,7 +2445,7 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/old-energy/2007-multi-energy.png',
+        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
         numImg: '../../assets/04.png'
       },
       {
@@ -2535,7 +2535,7 @@ let seniors = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/old-energy/2007-multi-energy.png',
+        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
         numImg: '../../assets/04.png'
       }
     ]
@@ -3602,7 +3602,7 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/old-energy/2007-multi-energy.png',
+        cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
         numImg: '../../assets/04.png'
       }
     ]
