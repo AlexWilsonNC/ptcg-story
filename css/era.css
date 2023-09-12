@@ -308,23 +308,27 @@
 .deck-description {
     width: 40.5%;
     text-align: start;
-    padding: 20px 10px 15px;
+    padding: 20px 10px 10px;
     border-radius: 10px;
+    border: 2px solid black;
     margin-top: -7.5px;
     color:#fff;
     font-size: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: linear-gradient(to top right, #000428 , #004e92);
+    background-image: linear-gradient(to top right, #131313 , #3d4144);
+    box-shadow: 0px 0px 12px black;
 }
 .deck-description.darkon {
     border: 2px solid black;
     box-shadow: 0px 0px 12px black;
 }
-.deck-description p {
+.deck-description p,
+.deck-description a {
     max-width: 87%;
     line-height: 1.5;
+    font-size: 16px;
 }
 .deck-description-banned {
     width: 40.5%;
@@ -340,7 +344,7 @@
 }
 .deck-description a,
 .deck-description-banned a {
-    margin-top: 7px;
+    /* margin-top: 7px; */
     margin-bottom: 10px;
     font-style: italic;
     color:rgb(0, 145, 197);
@@ -348,13 +352,19 @@
 .rules-description a {
     margin-top: 10px;
     font-style: italic;
-    color:rgb(255, 233, 65);
+    color:rgb(224, 160, 22);
     text-align: center;
 }
 .deck-description p:nth-child(1) {
     margin-bottom: 10px;
     font-style: italic;
-    color:rgb(187, 173, 45);
+    color:rgb(224, 160, 22);
+    text-align: center;
+}
+.deck-description a:nth-child(1) {
+    margin-bottom: 10px;
+    font-style: italic;
+    color:rgb(0, 128, 255);
     text-align: center;
 }
 
@@ -428,7 +438,7 @@
 }
 
 .deck-box {
-    border: 2px solid rgb(24, 0, 50);
+    border: 2px solid black;
     border-radius: 15px;
     display: flex;
     flex-direction: row;
@@ -443,7 +453,6 @@
     background-image: url(../assets/dark-bg.png) !important;
 }
 .deck-box.darkon {
-    border: 2px solid black;
     box-shadow: 0px 0px 12px black;
 }
 .pokemon-card2 {
@@ -1211,6 +1220,10 @@ margin-top: auto;
         width: 80%;
         max-width: 80%;
     }
+    .deck-description p,
+    .deck-description a {
+        font-size: 14px;
+    }
 }
 @media screen and (max-width: 930px) {
     .deck-box {
@@ -1388,6 +1401,10 @@ margin-top: auto;
     .era-toc-box {
         border-radius: 10px;
         width: 80%;
+    }
+    .deck-description p,
+    .deck-description a {
+        font-size: 12px;
     }
 }
 @media screen and (max-width: 600px) {
@@ -1569,6 +1586,10 @@ margin-top: auto;
         right: 20px;
         font-size: 22px;
         padding: 9px 13px;
+    }
+    .deck-description p,
+    .deck-description a {
+        font-size: 10px;
     }
 }
 @media screen and (max-width: 500px) {

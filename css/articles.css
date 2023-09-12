@@ -39,6 +39,14 @@ img{
 .tbp3:hover {
     color: rgb(224, 160, 22);
 }
+.title-hr {
+    border-bottom: 5px solid rgb(0, 128, 255);
+    width: 100%;
+    margin: 15px 0 20px;
+}
+.title-hr.darkon {
+    border-bottom: 5px solid rgb(224, 160, 22);
+}
 .top-article-image {
     width: 80%;height:300px;
     background-position: 50% 50%;
@@ -184,6 +192,33 @@ img{
     border-radius: 3px !important;
 }
 
+.author-bio {
+    width: 80%;
+    border-radius: 15px;
+    border: 1px solid grey;
+    padding: 15px
+}
+.author-img {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.author-bio img {
+    width: 25px;height: auto;
+    margin: 0 5px;
+    border-radius: 50%;
+}
+.author-bio.darkon p {
+    color: #E1E1E1;
+}
+.author-bio a {
+    color: #1B86F0;
+}
+.author-bio.darkon a {
+    color: rgb(224, 160, 22);
+}
+
 @media screen and (max-width: 1250px) {
     .image-and-text img {
         width: 250px;height:auto;
@@ -212,6 +247,9 @@ img{
     }
     .top-article-image {
         width: 90%;height:300px;
+    }
+    .author-bio {
+        width: 90%;
     }
 }
 @media screen and (max-width: 700px) {
@@ -250,6 +288,10 @@ img{
         width:95%;
         font-size: 11px;
     }
+    .author-bio p,
+    .author-bio a {
+        font-size: 14px;
+    }
     .article-content {
         width: 95%;
     }
@@ -270,6 +312,12 @@ img{
     }
     .article-content-image {
         border-radius: 10px;
+    }
+    .title-hr {
+        border-bottom: 4px solid rgb(0, 128, 255);
+    }
+    .title-hr.darkon {
+        border-bottom: 4px solid rgb(224, 160, 22);
     }
 }
 @media screen and (max-width: 450px) {
@@ -295,11 +343,21 @@ img{
     .article-title p {
         font-size: 10px;
     }
+    .author-bio p,
+    .author-bio a {
+        font-size: 12px;
+    }
     .article-title h2 {
         font-size: 18px;
     }
     .image-and-text img {
         width: 80%;height:auto;
+    }
+    .title-hr {
+        border-bottom: 3px solid rgb(0, 128, 255);
+    }
+    .title-hr.darkon {
+        border-bottom: 3px solid rgb(224, 160, 22);
     }
 }
 @media screen and (max-width: 350px) {

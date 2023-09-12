@@ -16,6 +16,8 @@ const navrightr = document.getElementById('nav-rightr');
 const upcomingevents = document.querySelector('.upcoming-events');
 const dropitdown1 = document.querySelector('.drop-it-down1');
 const dropitdown2 = document.querySelector('.drop-it-down2');
+const titlehr = document.querySelectorAll('.title-hr');
+const bio = document.querySelector('.author-bio');
 
 const tbp3 = document.querySelector('.tbp3');
 const articletitle = document.querySelectorAll('.article-title');
@@ -31,12 +33,20 @@ const enableDarkMode = () => {
     if (upcomingevents) {
       upcomingevents.classList.add('darkon');
     }
+    if (bio) {
+      bio.classList.add('darkon');
+    }
     if (tbp3) {
       tbp3.classList.add('darkon');
     }
     if (articletitle) {
       articletitle.forEach((articletitle) => {
         articletitle.classList.add('darkon');
+      })    
+    }
+    if (titlehr) {
+      titlehr.forEach((titlehr) => {
+        titlehr.classList.add('darkon');
       })    
     }
     if (articlecontent) {
@@ -89,12 +99,20 @@ const enableDarkMode = () => {
     if (upcomingevents) {
       upcomingevents.classList.remove('darkon');
     }
+    if (bio) {
+      bio.classList.remove('darkon');
+    }
     if (tbp3) {
       tbp3.classList.remove('darkon');
     }
     if (articletitle) {
       articletitle.forEach((articletitle) => {
         articletitle.classList.remove('darkon');
+      })    
+    }
+    if (titlehr) {
+      titlehr.forEach((titlehr) => {
+        titlehr.classList.remove('darkon');
       })    
     }
     if (articlecontent) {
