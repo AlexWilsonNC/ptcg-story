@@ -117,21 +117,21 @@
         <div class='upcoming-events'>
             <h2 class='featured-headers'>Completed Major Events</h2>
             
-            <!-- <p class='sort-events'>Sort Events:</p>
+            <p class='sort-events'>Sort Events:</p>
             <select id="mySelect" onchange="filterEvents()">
-                <option value="all">All Events</option> -->
+                <option value="all">All Events</option>
 
                 <!-- <option value="Newest">Newest First</option>
                 <option value="Oldest">Oldest First</option> -->
 
-                <!-- <option value="worlds">World Championships</option>
+                <option value="worlds">World Championships</option>
                 <option value="internationals">Internationals</option>
                 <option value="regionals">Regionals</option>
                 <option value="players-cup">Players Cups</option>
                 <option value="nationals">Nationals</option>
                 <option value="stadium-challenge">Stadium Challenges</option>
                 <option value="super-trainer-showdown">Super Trainer Showdowns</option>
-            </select> -->
+            </select>
 
             <table class='upcoming-events-table'>
                 <tr>
@@ -1108,29 +1108,37 @@
           if (x === "all") {
             worlds.forEach((worlds) => {
                 worlds.style.display = 'table-row';
+                worlds.classList.remove('new-red-bg');
             });
             internationals.forEach((internationals) => {
                 internationals.style.display = 'table-row';
+                internationals.classList.remove('new-red-bg');
             });
             regionals.forEach((regionals) => {
                 regionals.style.display = 'table-row';
+                regionals.classList.remove('new-red-bg');
             });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'table-row';
+                playersCup.classList.remove('new-red-bg');
             });
             nationals.forEach((nationals) => {
                 nationals.style.display = 'table-row';
+                nationals.classList.remove('new-red-bg');
             });
             stadiumChallenge.forEach((stadiumChallenge) => {
                 stadiumChallenge.style.display = 'table-row';
+                stadiumChallenge.classList.remove('new-red-bg');
             });
             superTrainerShowdown.forEach((superTrainerShowdown) => {
                 superTrainerShowdown.style.display = 'table-row';
+                superTrainerShowdown.classList.remove('new-red-bg');
             });
 
           } else if (x === "worlds") {
             worlds.forEach((worlds) => {
                 worlds.style.display = 'table-row';
+                worlds.classList.add('new-red-bg');
             });
             internationals.forEach((internationals) => {
                 internationals.style.display = 'none';
@@ -1157,6 +1165,7 @@
             });
             internationals.forEach((internationals) => {
                 internationals.style.display = 'table-row';
+                internationals.classList.add('new-red-bg');
             });
             regionals.forEach((regionals) => {
                 regionals.style.display = 'none';
@@ -1182,6 +1191,7 @@
             });
             regionals.forEach((regionals) => {
                 regionals.style.display = 'table-row';
+                regionals.classList.add('new-red-bg');
             });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'none';
@@ -1207,6 +1217,7 @@
             });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'table-row';
+                playersCup.classList.add('new-red-bg');
             });
             nationals.forEach((nationals) => {
                 nationals.style.display = 'none';
@@ -1232,6 +1243,7 @@
             });
             nationals.forEach((nationals) => {
                 nationals.style.display = 'table-row';
+                nationals.classList.add('new-red-bg');
             });
             stadiumChallenge.forEach((stadiumChallenge) => {
                 stadiumChallenge.style.display = 'none';
@@ -1257,6 +1269,7 @@
             });
             stadiumChallenge.forEach((stadiumChallenge) => {
                 stadiumChallenge.style.display = 'table-row';
+                stadiumChallenge.classList.add('new-red-bg');
             });
             superTrainerShowdown.forEach((superTrainerShowdown) => {
                 superTrainerShowdown.style.display = 'none';
@@ -1282,6 +1295,7 @@
             });
             superTrainerShowdown.forEach((superTrainerShowdown) => {
                 superTrainerShowdown.style.display = 'table-row';
+                superTrainerShowdown.classList.add('new-red-bg');
             });
           }
         }

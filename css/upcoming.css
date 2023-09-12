@@ -16,15 +16,12 @@
 .all-tr:nth-of-type(2n) {
     background-color: rgb(239, 239, 239);
 }
-/* .worlds:nth-of-type(2n) {
-    background-color: rgb(239, 239, 239);
-} */
 .upcoming-events-table.darkon tr:nth-of-type(2n) {
     background-color: #414141;
 }
-/* .new-red-bg:nth-of-type(2n) {
-    background-color: red !important;
-} */
+.new-red-bg:nth-of-type(2n) {
+    background-color: transparent !important;
+}
 
 .sort-events {
     font-size: 16px;
