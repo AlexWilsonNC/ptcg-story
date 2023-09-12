@@ -19,9 +19,9 @@ tr:nth-of-type(2n) {
 .upcoming-events-table.darkon tr:nth-of-type(2n) {
     background-color: #414141;
 }
-.new-red-bg:nth-of-type(2n) {
+/* .new-red-bg:nth-of-type(2n) {
     background-color: red !important;
-}
+} */
 
 .sort-events {
     font-size: 16px;
