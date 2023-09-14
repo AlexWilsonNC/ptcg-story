@@ -100,6 +100,9 @@ img{
     justify-content: flex-start;
     margin-top: 15px;
 }
+.article-content a {
+    color: rgb(0, 102, 255);
+}
 .article-content.darkon a {
     color: rgb(224, 160, 22);
 }
@@ -197,11 +200,11 @@ img{
     border-radius: 15px;
     border: 1px solid grey;
     padding: 15px;
-    background-color: #2b2b2b;
-    color: #e1e1e1;
+    background-color: #d2d2d2;
 }
 .author-bio.darkon {
     background-color: #191919;
+    color: #e1e1e1;
 }
 .author-img {
     display: flex;
@@ -219,6 +222,57 @@ img{
 }
 .author-bio.darkon a {
     color: rgb(224, 160, 22);
+}
+
+.old-card {
+    border-radius: 3.5%;
+    background-color: rgb(255, 210, 0);
+    padding: 1px;
+}
+.ex-era-card {
+    border-radius: 3.5%;
+    background-color: rgb(196, 186, 170);
+    padding: 1px;
+}
+.delta-era-card {
+    border-radius: 3.5%;
+    background-color: rgb(201, 157, 0);
+    padding: 1px;
+}
+.small-only {
+    display: flex;
+    justify-content: flex-start;
+}
+.dp-card {
+    border-radius: 3.5%;
+    background-color: rgb(227, 220, 106);
+    padding: 1px;
+}
+.radius-card {
+    border-radius: 4%;
+}
+.semi-radius-card {
+    border-radius: 3.5%;
+    padding: 0.5px;
+}
+.semi-ex-card {
+    border-radius: 3.5%;
+    background-color: rgb(196, 186, 170);
+    padding: 0.5px;
+}
+@media screen and (max-width: 812px) {
+    .old-card {
+        padding: 0.5px;
+    }
+    .dp-card {
+        padding: 0.5px;
+    }
+    .delta-era-card {
+        padding: 0.5px;
+    }
+    .ex-era-card {
+        padding: 0.5px;
+    }
 }
 
 @media screen and (max-width: 1250px) {
