@@ -83,8 +83,14 @@
     color: rgb(0, 58, 167) !important;
     font-size: 13px;
 }
+.blue:hover {
+    color: rgb(224, 160, 22) !important;
+}
 .blue.darkon {
     color: rgb(224, 160, 22) !important;
+}
+.blue.darkon:hover {
+    color: white !important;
 }
 .wrapped-feature,
 .wrapped-feature-second-row {
