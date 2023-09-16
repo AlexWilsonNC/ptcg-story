@@ -384,11 +384,13 @@
   }
   @media screen and (max-width: 700px) {
     .tittle {
-        font-size: 16px;
+        font-size: 14px;
+        margin-bottom: -5px;
       }
       .sub-nav,
       .sub-nav-non {
-        font-size: 14px;
+        font-size: 12px;
+        margin-bottom: -5px;
       }
       #menu li {
         padding: 10px 0;
