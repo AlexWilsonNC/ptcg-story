@@ -1966,6 +1966,16 @@ li {
     .auto-day2-area2 ol {
         margin-left: 30px;
     }
+    .modal-x {
+        border: none;
+        background-color: transparent;
+        box-shadow: none;
+    }
+    .modal-x:hover {
+        border: none;
+        background-color: transparent;
+        box-shadow: none;
+    }
 }
 @media screen and (max-width: 420px) {
     .name-n-flag {
