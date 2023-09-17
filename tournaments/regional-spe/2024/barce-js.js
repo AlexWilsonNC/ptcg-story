@@ -90,7 +90,8 @@ let masters = [
     flag: '../../../assets/flags/norway.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/gardevoir.png',
-    list: '../../../assets/list-icon.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
     type: 'dark',
     deck: [
       {
@@ -109,7 +110,8 @@ let masters = [
     flag: '../../../assets/flags/czech-republic.png',
     sprite1: '../../../assets/sprites/comfey.png',
     sprite2: '../../../assets/sprites/sableye.png',
-    list: '../../../assets/list-icon.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
     type: 'dark',
     deck: [
       {
@@ -128,7 +130,8 @@ let masters = [
     flag: '../../../assets/flags/uk.png',
     sprite1: '../../../assets/sprites/comfey.png',
     sprite2: '../../../assets/sprites/sableye.png',
-    list: '../../../assets/list-icon.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
     type: 'dark',
     deck: [
       {
@@ -147,7 +150,8 @@ let masters = [
     flag: '../../../assets/flags/spain.png',
     sprite1: '../../../assets/sprites/comfey.png',
     sprite2: '../../../assets/sprites/sableye.png',
-    list: '../../../assets/list-icon.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
     type: 'dark',
     deck: [
       {
