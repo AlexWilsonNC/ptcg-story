@@ -49,7 +49,7 @@ let masters = [
     firstName: 'Alberto Benvenga',
     flag: '../../../assets/flags/italy.png',
     sprite1: '../../../assets/sprites/charizard.png',
-    sprite2: '../../../assets/sprites/arceus.png',
+    sprite2: '../../../assets/sprites/comfey.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
