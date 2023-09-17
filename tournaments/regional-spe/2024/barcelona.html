@@ -16,6 +16,7 @@
     <title>PTCG Legends | Regionals</title>
     <link rel="stylesheet" href="../../../style.css">
     <link rel="stylesheet" href="../../../css/nav.css">
+    <link rel="stylesheet" href="../../../css/worlds.css">
     <link rel="stylesheet" href="../../../css/regionals.css">
     <link rel="stylesheet" href="../../../css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -111,7 +112,26 @@
             </nav>
         </div>
     </nav>
-
+    <div id='modal-section'>
+        <div class='modal'>
+            <div class='modal-top'>
+                <div class='cs-plus-ap'>
+                    <p class='playerName'>Name</p>
+                </div>
+                <div class='modal-x'>
+                    <p>X</p>
+                </div>
+            </div>
+            <div class='modal-bottom'>
+                <!-- <div class='pokemon-card'> -->
+                <!-- <img class='pok-card-small' src=''> -->
+                <!-- <img class='num-1' src=''> -->
+                <!-- </div> -->
+            </div>
+        </div>
+    </div>
+    <div class='behind-modal'></div>
+    <div class='second-behind-modal'></div>
     <div class='center'>
         <div class='regional-container'>
             <div class='regional-info'>
@@ -134,9 +154,16 @@
                     <p><strong>Day 2:</strong> 53 Masters</p>
                 </div>
             </div>
-            <div class='regional-result'>
-                <div class='pending'>
-                    <h3>Results will appear here after the event's conclusion.</h3>
+            <div class='contain-event'>
+                <div id="zoom-card-box"></div>
+                <div class='event-content'>
+                    <div class='event-results'>
+                        <div class='regional-result'>
+                            <ol class='masters-ol'><!--Rendered masters List--></ol>
+                            <ol class='seniors-ol'><!--Rendered seniors List--></ol>
+                            <ol class='juniors-ol'><!--Rendered juniors List--></ol>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -172,6 +199,7 @@
             greatest game in history!</div>
     </footer>
     <script src='../../../darkmode/darkmode-regional.js'></script>
+    <script src='./barce-js.js'></script>
 
 </body>
 
