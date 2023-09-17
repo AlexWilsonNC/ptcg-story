@@ -129,6 +129,7 @@
                 <option value="worlds">World Championships</option>
                 <option value="internationals">Internationals</option>
                 <option value="regionals">Regionals</option>
+                <option value="special-event">Special Events</option>
                 <option value="players-cup">Players Cups</option>
                 <option value="nationals">Nationals</option>
                 <option value="stadium-challenge">Stadium Challenges</option>
@@ -143,8 +144,21 @@
                     <th>Info<span class='hide-word'>rmation</span></th>
                     <th>Results</th>
                 </tr>
+                                
+                <tr class='special-event'>
+                    <td>Sep 16 - 17, 2023</td>
+                    <td><img class='event-type-logo2' src='../assets/event-logos/spe.png' /></td>
+                    <td>
+                        <div><img src='../assets/flags/spain.png' /></div>
+                        <div><a href='../tournaments/regional-spe/2024/barcelona'>Barcelona Special Event</a></div>
+                    </td>
+                    <td><a href='../tournaments/regional-spe/2024/barcelona'><i
+                        class="fa-solid fa-book-open-reader"></i></a></td>
+            <td><a href='../tournaments/regional-spe/2024/barcelona'><i
+                        class="fa-regular fa-rectangle-list"></i></a></td>
+                </tr>
                 <tr class='regionals all-tr'>
-                    <td>Sept 8 - 10, 2023</td>
+                    <td>Sep 8 - 10, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
                     <td>
                         <div><img src='../assets/flags/usa.png' /></div>
@@ -1104,6 +1118,7 @@
         const nationals = document.querySelectorAll(".nationals");
         const stadiumChallenge = document.querySelectorAll(".stadium-challenge");
         const superTrainerShowdown = document.querySelectorAll(".super-trainer-showdown");
+        const specialEvent = document.querySelectorAll(".special-event");
 
         function filterEvents() {
           var x = document.getElementById("mySelect").value;
@@ -1136,7 +1151,10 @@
                 superTrainerShowdown.style.display = 'table-row';
                 superTrainerShowdown.classList.remove('new-red-bg');
             });
-
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'table-row';
+                specialEvent.classList.remove('new-red-bg');
+            });
           } else if (x === "worlds") {
             worlds.forEach((worlds) => {
                 worlds.style.display = 'table-row';
@@ -1160,7 +1178,9 @@
             superTrainerShowdown.forEach((superTrainerShowdown) => {
                 superTrainerShowdown.style.display = 'none';
             });
-
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'none';
+            });
           } else if (x === "internationals") {
             worlds.forEach((worlds) => {
                 worlds.style.display = 'none';
@@ -1183,6 +1203,9 @@
             });
             superTrainerShowdown.forEach((superTrainerShowdown) => {
                 superTrainerShowdown.style.display = 'none';
+            });
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'none';
             });
           } else if (x === "regionals") {
             worlds.forEach((worlds) => {
@@ -1207,6 +1230,9 @@
             superTrainerShowdown.forEach((superTrainerShowdown) => {
                 superTrainerShowdown.style.display = 'none';
             });
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'none';
+            });
           } else if (x === "players-cup") {
             worlds.forEach((worlds) => {
                 worlds.style.display = 'none';
@@ -1229,6 +1255,9 @@
             });
             superTrainerShowdown.forEach((superTrainerShowdown) => {
                 superTrainerShowdown.style.display = 'none';
+            });
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'none';
             });
           } else if (x === "nationals") {
             worlds.forEach((worlds) => {
@@ -1253,6 +1282,9 @@
             superTrainerShowdown.forEach((superTrainerShowdown) => {
                 superTrainerShowdown.style.display = 'none';
             });
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'none';
+            });
           } else if (x === "stadium-challenge") {
             worlds.forEach((worlds) => {
                 worlds.style.display = 'none';
@@ -1276,6 +1308,9 @@
             superTrainerShowdown.forEach((superTrainerShowdown) => {
                 superTrainerShowdown.style.display = 'none';
             });
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'none';
+            });
           } else if (x === "super-trainer-showdown") {
             worlds.forEach((worlds) => {
                 worlds.style.display = 'none';
@@ -1298,6 +1333,35 @@
             superTrainerShowdown.forEach((superTrainerShowdown) => {
                 superTrainerShowdown.style.display = 'table-row';
                 superTrainerShowdown.classList.add('new-red-bg');
+            });
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'none';
+            });
+          } else if (x === "special-event") {
+            worlds.forEach((worlds) => {
+                worlds.style.display = 'none';
+            });
+            internationals.forEach((internationals) => {
+                internationals.style.display = 'none';
+            });
+            regionals.forEach((regionals) => {
+                regionals.style.display = 'none';
+            });
+            playersCup.forEach((playersCup) => {
+                playersCup.style.display = 'none';
+            });
+            nationals.forEach((nationals) => {
+                nationals.style.display = 'none';
+            });
+            stadiumChallenge.forEach((stadiumChallenge) => {
+                stadiumChallenge.style.display = 'none';
+            });
+            superTrainerShowdown.forEach((superTrainerShowdown) => {
+                superTrainerShowdown.style.display = 'none';
+            });
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'table-row';
+                specialEvent.classList.add('new-red-bg');
             });
           }
         }

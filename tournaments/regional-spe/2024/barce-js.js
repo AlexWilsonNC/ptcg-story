@@ -81,7 +81,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/new-energy',
         numImg: '../../../assets/04.png',
-        // radiusCard: true
+        radiusCard: true
       },
     ]
   },
@@ -100,7 +100,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/new-energy',
         numImg: '../../../assets/04.png',
-        // radiusCard: true
+        radiusCard: true
       },
     ]
   },
@@ -119,7 +119,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/new-energy',
         numImg: '../../../assets/04.png',
-        // radiusCard: true
+        radiusCard: true
       },
     ]
   },
@@ -138,7 +138,7 @@ let masters = [
       {
         cardImg: '../../../assets/cards/new-energy',
         numImg: '../../../assets/04.png',
-        // radiusCard: true
+        radiusCard: true
       },
     ]
   },

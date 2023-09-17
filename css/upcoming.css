@@ -19,6 +19,9 @@
 .upcoming-events-table.darkon tr:nth-of-type(2n) {
     background-color: #414141;
 }
+.new-red-bg {
+    border-top: 1px solid grey;
+}
 .new-red-bg:nth-of-type(2n) {
     background-color: transparent !important;
 }
