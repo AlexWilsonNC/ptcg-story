@@ -65,6 +65,7 @@
     justify-content: center;
     margin-top: 35px;
     margin-left: 50px;
+    text-align: center;
 }
 .reg-hr {
     display: none;
@@ -143,6 +144,9 @@
         width: 40%;
         border-bottom: 1px solid grey;
         margin-top: 5px;
+    }
+    .pending h3 { 
+        font-size: 12px !important;
     }
 }
 @media screen and (max-width: 460px) {
