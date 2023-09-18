@@ -17,6 +17,8 @@ const mastersol = document.querySelector('.masters-ol');
 const seniorsol = document.querySelector('.seniors-ol');
 const juniorsol = document.querySelector('.juniors-ol');
 
+// const hover = document.querySelectorAll('.results-list-item');
+
 // const socials = document.querySelectorAll(".socials");
 
 const enableDarkMode = () => {
@@ -33,6 +35,10 @@ const enableDarkMode = () => {
     placeflag.classList.add('darkon');
     regionalcontainer.classList.add('darkon');
     regionalresult.classList.add('darkon');
+
+    // hover.forEach((hover) => {
+    //   hover.classList.add('darkon');
+    // })
 
     if (mastersol) {
       document.querySelectorAll('[src="../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon-white.png'));
@@ -67,6 +73,10 @@ const enableDarkMode = () => {
     placeflag.classList.remove('darkon');
     regionalcontainer.classList.remove('darkon');
     regionalresult.classList.remove('darkon');
+
+    // hover.forEach((hover) => {
+    //   hover.classList.remove('darkon');
+    // })
 
     if (mastersol) {
       document.querySelectorAll('[src="../../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon.png'));

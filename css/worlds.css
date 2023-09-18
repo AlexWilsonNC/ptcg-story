@@ -445,9 +445,6 @@ li {
 .player-list-hover {
     max-height: 50px; 
 }
-.player-list-hover.darkon:hover {
-    background-color: rgb(181, 36, 36);
-}
 .player-list-hover:hover {
     background-color: rgb(226, 226, 226);
     border-radius: 10px;
@@ -484,6 +481,9 @@ li {
 .results-list-item.darkon {
     color:white;
 }
+/* .results-list-item.darkon:hover {
+    color:black !important;
+} */
 .masters-ol li,
 .seniors-ol li,
 .juniors-ol li, 
