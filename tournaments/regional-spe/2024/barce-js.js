@@ -137,7 +137,7 @@ let masters = [
     flag: '../../../assets/flags/ireland.png',
     sprite1: '../../../assets/sprites/blank.png',
     sprite2: '../../../assets/sprites/gardevoir.png',
-    // list: '../../../assets/list-icon.png',
+    // list: '../../../assets/list-icon.png ',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
     deck: [
