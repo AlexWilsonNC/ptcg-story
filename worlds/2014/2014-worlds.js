@@ -2508,7 +2508,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-        numImg: '../../assets/04.png'
+        numImg: '../../assets/03.png'
       },
       {
         cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
