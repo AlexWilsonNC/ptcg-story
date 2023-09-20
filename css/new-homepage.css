@@ -600,6 +600,11 @@
     .hide-on-small {
         display: flex;
     }
+    .move-it-up-some {
+        justify-content: flex-start !important;
+        margin-top: -55px;
+        margin-bottom: -30px;
+    }
     .homepage-main-content {
         flex-direction: row;
         justify-content: space-around;
@@ -720,10 +725,16 @@
     .wrapped-feature {
         height: 270px;
     }
+    .move-it-up-some {
+        justify-content: center !important;
+    }
     .homepage-box2 {
         height: 340px;
         width: 365px;
         margin-bottom: -70px;
+    }
+    .top-featured-row {
+        justify-content: center;
     }
     .homepage-box3 {
         height: 340px;
