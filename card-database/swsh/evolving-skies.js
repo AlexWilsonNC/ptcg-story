@@ -121,121 +121,6 @@ let evolvingSkies = [
         }
     },
     {
-        "id": "swsh7-4",
-        "name": "Jumpluff",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 2",
-            "Rapid Strike"
-        ],
-        "hp": "90",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Skiploom",
-        "abilities": [
-            {
-                "name": "Fluffy Barrage",
-                "text": "This Pokémon may attack twice each turn. If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.",
-                "type": "Ability"
-            }
-        ],
-        "attacks": [
-            {
-                "name": "Spinning Attack",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "60",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "set": {
-            "id": "swsh7",
-            "name": "Evolving Skies",
-            "series": "Sword & Shield",
-            "printedTotal": 203,
-            "total": 237,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "EVS",
-            "releaseDate": "2021/08/27",
-            "updatedAt": "2021/08/27 10:17:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
-            }
-        },
-        "number": "4",
-        "artist": "Tika Matsuno",
-        "rarity": "Rare Holo",
-        "flavorText": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
-        "nationalPokedexNumbers": [
-            189
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh7/4.png",
-            "large": "https://images.pokemontcg.io/swsh7/4_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-4",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.03,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.21,
-                    "directLow": 0.2
-                },
-                "reverseHolofoil": {
-                    "low": 0.05,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.19,
-                    "directLow": 0.18
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-4",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.3,
-                "lowPrice": 0.02,
-                "trendPrice": 0.38,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.22,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.19,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.75,
-                "avg7": 0.36,
-                "avg30": 0.28,
-                "reverseHoloAvg1": 0.25,
-                "reverseHoloAvg7": 0.17,
-                "reverseHoloAvg30": 0.23
-            }
-        }
-    },
-    {
         "id": "swsh7-2",
         "name": "Hoppip",
         "supertype": "Pokémon",
@@ -460,6 +345,121 @@ let evolvingSkies = [
                 "reverseHoloAvg1": 0.1,
                 "reverseHoloAvg7": 0.11,
                 "reverseHoloAvg30": 0.12
+            }
+        }
+    },
+    {
+        "id": "swsh7-4",
+        "name": "Jumpluff",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "Rapid Strike"
+        ],
+        "hp": "90",
+        "types": [
+            "Grass"
+        ],
+        "evolvesFrom": "Skiploom",
+        "abilities": [
+            {
+                "name": "Fluffy Barrage",
+                "text": "This Pokémon may attack twice each turn. If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Spinning Attack",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "60",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "set": {
+            "id": "swsh7",
+            "name": "Evolving Skies",
+            "series": "Sword & Shield",
+            "printedTotal": 203,
+            "total": 237,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "EVS",
+            "releaseDate": "2021/08/27",
+            "updatedAt": "2021/08/27 10:17:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
+                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
+            }
+        },
+        "number": "4",
+        "artist": "Tika Matsuno",
+        "rarity": "Rare Holo",
+        "flavorText": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
+        "nationalPokedexNumbers": [
+            189
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "E",
+        "images": {
+            "small": "https://images.pokemontcg.io/swsh7/4.png",
+            "large": "https://images.pokemontcg.io/swsh7/4_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-4",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "holofoil": {
+                    "low": 0.03,
+                    "mid": 0.25,
+                    "high": 2,
+                    "market": 0.21,
+                    "directLow": 0.2
+                },
+                "reverseHolofoil": {
+                    "low": 0.05,
+                    "mid": 0.25,
+                    "high": 2,
+                    "market": 0.19,
+                    "directLow": 0.18
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-4",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "averageSellPrice": 0.3,
+                "lowPrice": 0.02,
+                "trendPrice": 0.38,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0.22,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.19,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.75,
+                "avg7": 0.36,
+                "avg30": 0.28,
+                "reverseHoloAvg1": 0.25,
+                "reverseHoloAvg7": 0.17,
+                "reverseHoloAvg30": 0.23
             }
         }
     },
@@ -700,6 +700,121 @@ let evolvingSkies = [
         }
     },
     {
+        "id": "swsh7-7",
+        "name": "Leafeon V",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "V"
+        ],
+        "hp": "200",
+        "types": [
+            "Grass"
+        ],
+        "rules": [
+            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Greening Cells",
+                "text": "Once during your turn, you may search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck. If you use this Ability, your turn ends.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Leaf Blade",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "90+",
+                "text": "Flip a coin. If heads, this attack does 60 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "swsh7",
+            "name": "Evolving Skies",
+            "series": "Sword & Shield",
+            "printedTotal": 203,
+            "total": 237,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "EVS",
+            "releaseDate": "2021/08/27",
+            "updatedAt": "2021/08/27 10:17:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
+                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
+            }
+        },
+        "number": "7",
+        "artist": "5ban Graphics",
+        "rarity": "Rare Holo V",
+        "nationalPokedexNumbers": [
+            470
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "E",
+        "images": {
+            "small": "https://images.pokemontcg.io/swsh7/7.png",
+            "large": "https://images.pokemontcg.io/swsh7/7_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-7",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "holofoil": {
+                    "low": 1,
+                    "mid": 2,
+                    "high": 9.95,
+                    "market": 2.27,
+                    "directLow": 2.99
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-7",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "averageSellPrice": 2.19,
+                "lowPrice": 0.75,
+                "trendPrice": 1.99,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 1.46,
+                "avg1": 1.75,
+                "avg7": 1.98,
+                "avg30": 2.17,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
         "id": "swsh7-8",
         "name": "Leafeon VMAX",
         "supertype": "Pokémon",
@@ -933,38 +1048,27 @@ let evolvingSkies = [
         }
     },
     {
-        "id": "swsh7-7",
-        "name": "Leafeon V",
+        "id": "swsh7-10",
+        "name": "Lilligant",
         "supertype": "Pokémon",
         "subtypes": [
-            "Basic",
-            "V"
+            "Stage 1"
         ],
-        "hp": "200",
+        "hp": "100",
         "types": [
             "Grass"
         ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "abilities": [
-            {
-                "name": "Greening Cells",
-                "text": "Once during your turn, you may search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck. If you use this Ability, your turn ends.",
-                "type": "Ability"
-            }
-        ],
+        "evolvesFrom": "Petilil",
         "attacks": [
             {
-                "name": "Leaf Blade",
+                "name": "Dizzying Flower",
                 "cost": [
                     "Grass",
-                    "Colorless",
                     "Colorless"
                 ],
-                "convertedEnergyCost": 3,
-                "damage": "90+",
-                "text": "Flip a coin. If heads, this attack does 60 more damage."
+                "convertedEnergyCost": 2,
+                "damage": "70",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep. If tails, your opponent's Active Pokémon is now Confused."
             }
         ],
         "weaknesses": [
@@ -996,11 +1100,12 @@ let evolvingSkies = [
                 "logo": "https://images.pokemontcg.io/swsh7/logo.png"
             }
         },
-        "number": "7",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo V",
+        "number": "10",
+        "artist": "Kagemaru Himeno",
+        "rarity": "Rare",
+        "flavorText": "It's well liked by other Pokémon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.",
         "nationalPokedexNumbers": [
-            470
+            549
         ],
         "legalities": {
             "unlimited": "Legal",
@@ -1009,41 +1114,48 @@ let evolvingSkies = [
         },
         "regulationMark": "E",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh7/7.png",
-            "large": "https://images.pokemontcg.io/swsh7/7_hires.png"
+            "small": "https://images.pokemontcg.io/swsh7/10.png",
+            "large": "https://images.pokemontcg.io/swsh7/10_hires.png"
         },
         "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-7",
+            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-10",
             "updatedAt": "2023/03/29",
             "prices": {
-                "holofoil": {
-                    "low": 1,
-                    "mid": 2,
-                    "high": 9.95,
-                    "market": 2.27,
-                    "directLow": 2.99
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.2,
+                    "high": 5,
+                    "market": 0.09,
+                    "directLow": 0.08
+                },
+                "reverseHolofoil": {
+                    "low": 0.04,
+                    "mid": 0.2,
+                    "high": 2,
+                    "market": 0.12,
+                    "directLow": 0.1
                 }
             }
         },
         "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-7",
+            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-10",
             "updatedAt": "2023/03/29",
             "prices": {
-                "averageSellPrice": 2.19,
-                "lowPrice": 0.75,
-                "trendPrice": 1.99,
+                "averageSellPrice": 0.05,
+                "lowPrice": 0.02,
+                "trendPrice": 0.05,
                 "germanProLow": 0,
                 "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 1.46,
-                "avg1": 1.75,
-                "avg7": 1.98,
-                "avg30": 2.17,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
+                "reverseHoloSell": 0.14,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.14,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.07,
+                "avg7": 0.04,
+                "avg30": 0.05,
+                "reverseHoloAvg1": 0.05,
+                "reverseHoloAvg7": 0.14,
+                "reverseHoloAvg30": 0.14
             }
         }
     },
@@ -1297,118 +1409,6 @@ let evolvingSkies = [
         }
     },
     {
-        "id": "swsh7-10",
-        "name": "Lilligant",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Stage 1"
-        ],
-        "hp": "100",
-        "types": [
-            "Grass"
-        ],
-        "evolvesFrom": "Petilil",
-        "attacks": [
-            {
-                "name": "Dizzying Flower",
-                "cost": [
-                    "Grass",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "70",
-                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep. If tails, your opponent's Active Pokémon is now Confused."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh7",
-            "name": "Evolving Skies",
-            "series": "Sword & Shield",
-            "printedTotal": 203,
-            "total": 237,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "EVS",
-            "releaseDate": "2021/08/27",
-            "updatedAt": "2021/08/27 10:17:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
-            }
-        },
-        "number": "10",
-        "artist": "Kagemaru Himeno",
-        "rarity": "Rare",
-        "flavorText": "It's well liked by other Pokémon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.",
-        "nationalPokedexNumbers": [
-            549
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh7/10.png",
-            "large": "https://images.pokemontcg.io/swsh7/10_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-10",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 5,
-                    "market": 0.09,
-                    "directLow": 0.08
-                },
-                "reverseHolofoil": {
-                    "low": 0.04,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.12,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-10",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.05,
-                "lowPrice": 0.02,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.14,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.07,
-                "avg7": 0.04,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.05,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.14
-            }
-        }
-    },
-    {
         "id": "swsh7-13",
         "name": "Trevenant V",
         "supertype": "Pokémon",
@@ -1648,35 +1648,33 @@ let evolvingSkies = [
         }
     },
     {
-        "id": "swsh7-33",
-        "name": "Lombre",
+        "id": "swsh7-15",
+        "name": "Gossifleur",
         "supertype": "Pokémon",
         "subtypes": [
-            "Stage 1"
+            "Basic"
         ],
-        "hp": "90",
+        "hp": "50",
         "types": [
-            "Water"
+            "Grass"
         ],
-        "evolvesFrom": "Lotad",
         "evolvesTo": [
-            "Ludicolo"
+            "Eldegoss"
         ],
         "attacks": [
             {
-                "name": "Wave Splash",
+                "name": "Blot",
                 "cost": [
-                    "Water",
-                    "Colorless"
+                    "Grass"
                 ],
-                "convertedEnergyCost": 2,
-                "damage": "50",
-                "text": ""
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": "Heal 10 damage from this Pokémon."
             }
         ],
         "weaknesses": [
             {
-                "type": "Lightning",
+                "type": "Fire",
                 "value": "×2"
             }
         ],
@@ -1703,12 +1701,12 @@ let evolvingSkies = [
                 "logo": "https://images.pokemontcg.io/swsh7/logo.png"
             }
         },
-        "number": "33",
-        "artist": "miki kudo",
-        "rarity": "Uncommon",
-        "flavorText": "It lives at the water's edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
+        "number": "15",
+        "artist": "Mizue",
+        "rarity": "Common",
+        "flavorText": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
         "nationalPokedexNumbers": [
-            271
+            829
         ],
         "legalities": {
             "unlimited": "Legal",
@@ -1717,48 +1715,48 @@ let evolvingSkies = [
         },
         "regulationMark": "E",
         "images": {
-            "small": "https://images.pokemontcg.io/swsh7/33.png",
-            "large": "https://images.pokemontcg.io/swsh7/33_hires.png"
+            "small": "https://images.pokemontcg.io/swsh7/15.png",
+            "large": "https://images.pokemontcg.io/swsh7/15_hires.png"
         },
         "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-33",
+            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-15",
             "updatedAt": "2023/03/29",
             "prices": {
                 "reverseHolofoil": {
-                    "low": 0.04,
+                    "low": 0.03,
                     "mid": 0.15,
-                    "high": 7.1,
-                    "market": 0.1,
-                    "directLow": 0.08
+                    "high": 1.36,
+                    "market": 0.06,
+                    "directLow": 0.05
                 },
                 "normal": {
                     "low": 0.01,
-                    "mid": 0.1,
+                    "mid": 0.06,
                     "high": 40,
-                    "market": 0.04,
+                    "market": 0.03,
                     "directLow": 0.02
                 }
             }
         },
         "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-33",
+            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-15",
             "updatedAt": "2023/03/29",
             "prices": {
                 "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
+                "lowPrice": 0.02,
                 "trendPrice": 0.03,
                 "germanProLow": 0,
                 "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
+                "reverseHoloSell": 0.11,
                 "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.03,
-                "avg7": 0.02,
+                "reverseHoloTrend": 0.09,
+                "lowPriceExPlus": 0.02,
+                "avg1": 0.02,
+                "avg7": 0.03,
                 "avg30": 0.03,
-                "reverseHoloAvg1": 0.25,
-                "reverseHoloAvg7": 0.13,
-                "reverseHoloAvg30": 0.15
+                "reverseHoloAvg1": 0.15,
+                "reverseHoloAvg7": 0.1,
+                "reverseHoloAvg30": 0.1
             }
         }
     },
@@ -1877,6 +1875,697 @@ let evolvingSkies = [
                 "reverseHoloAvg1": 0.5,
                 "reverseHoloAvg7": 0.62,
                 "reverseHoloAvg30": 0.38
+            }
+        }
+    },
+    {
+        "id": "swsh7-17",
+        "name": "Applin",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "40",
+        "types": [
+            "Grass"
+        ],
+        "evolvesTo": [
+            "Flapple"
+        ],
+        "attacks": [
+            {
+                "name": "Rollout",
+                "cost": [
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "swsh7",
+            "name": "Evolving Skies",
+            "series": "Sword & Shield",
+            "printedTotal": 203,
+            "total": 237,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "EVS",
+            "releaseDate": "2021/08/27",
+            "updatedAt": "2021/08/27 10:17:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
+                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
+            }
+        },
+        "number": "17",
+        "artist": "Miki Tanaka",
+        "rarity": "Common",
+        "flavorText": "As soon as it's born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
+        "nationalPokedexNumbers": [
+            840
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "E",
+        "images": {
+            "small": "https://images.pokemontcg.io/swsh7/17.png",
+            "large": "https://images.pokemontcg.io/swsh7/17_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-17",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.06,
+                    "high": 40,
+                    "market": 0.04,
+                    "directLow": 0.02
+                },
+                "reverseHolofoil": {
+                    "low": 0.02,
+                    "mid": 0.15,
+                    "high": 7.08,
+                    "market": 0.08,
+                    "directLow": 0.05
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-17",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "averageSellPrice": 0.04,
+                "lowPrice": 0.01,
+                "trendPrice": 0.03,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0.1,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.11,
+                "lowPriceExPlus": 0.01,
+                "avg1": 0.09,
+                "avg7": 0.02,
+                "avg30": 0.03,
+                "reverseHoloAvg1": 0.14,
+                "reverseHoloAvg7": 0.12,
+                "reverseHoloAvg30": 0.1
+            }
+        }
+    },
+    {
+        "id": "swsh7-18",
+        "name": "Flareon VMAX",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "VMAX",
+            "Single Strike"
+        ],
+        "hp": "320",
+        "types": [
+            "Fire"
+        ],
+        "evolvesFrom": "Flareon V",
+        "rules": [
+            "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Max Detonate",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100×",
+                "text": "Discard the top 5 cards of your deck. This attack does 100 damage for each Energy card you discarded in this way."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "swsh7",
+            "name": "Evolving Skies",
+            "series": "Sword & Shield",
+            "printedTotal": 203,
+            "total": 237,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "EVS",
+            "releaseDate": "2021/08/27",
+            "updatedAt": "2021/08/27 10:17:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
+                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
+            }
+        },
+        "number": "18",
+        "artist": "5ban Graphics",
+        "rarity": "Rare Holo VMAX",
+        "nationalPokedexNumbers": [
+            136
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "E",
+        "images": {
+            "small": "https://images.pokemontcg.io/swsh7/18.png",
+            "large": "https://images.pokemontcg.io/swsh7/18_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-18",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "holofoil": {
+                    "low": 2.75,
+                    "mid": 4,
+                    "high": 1000,
+                    "market": 3.74,
+                    "directLow": 4.5
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-18",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "averageSellPrice": 5.34,
+                "lowPrice": 1.99,
+                "trendPrice": 5.09,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 3.99,
+                "avg1": 6.4,
+                "avg7": 5,
+                "avg30": 5.48,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "swsh7-19",
+        "name": "Entei",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Single Strike"
+        ],
+        "hp": "120",
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "name": "Angry Fang",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "10×",
+                "text": "This attack does 10 damage for each damage counter on all of your Benched Single Strike Pokémon."
+            },
+            {
+                "name": "Heat Tackle",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "120",
+                "text": "This Pokémon also does 30 damage to itself."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "swsh7",
+            "name": "Evolving Skies",
+            "series": "Sword & Shield",
+            "printedTotal": 203,
+            "total": 237,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "EVS",
+            "releaseDate": "2021/08/27",
+            "updatedAt": "2021/08/27 10:17:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
+                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
+            }
+        },
+        "number": "19",
+        "artist": "NC Empire",
+        "rarity": "Rare Holo",
+        "flavorText": "It is said that when it roars, a volcano erupts somewhere around the globe.",
+        "nationalPokedexNumbers": [
+            244
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "E",
+        "images": {
+            "small": "https://images.pokemontcg.io/swsh7/19.png",
+            "large": "https://images.pokemontcg.io/swsh7/19_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-19",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "holofoil": {
+                    "low": 0.1,
+                    "mid": 0.25,
+                    "high": 2.22,
+                    "market": 0.2,
+                    "directLow": null
+                },
+                "reverseHolofoil": {
+                    "low": 0.15,
+                    "mid": 0.3,
+                    "high": 2,
+                    "market": 0.23,
+                    "directLow": 0.24
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-19",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "averageSellPrice": 0.36,
+                "lowPrice": 0.04,
+                "trendPrice": 0.39,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0.39,
+                "reverseHoloLow": 0.05,
+                "reverseHoloTrend": 0.24,
+                "lowPriceExPlus": 0.04,
+                "avg1": 0.33,
+                "avg7": 0.4,
+                "avg30": 0.33,
+                "reverseHoloAvg1": 0.4,
+                "reverseHoloAvg7": 0.41,
+                "reverseHoloAvg30": 0.42
+            }
+        }
+    },
+    {
+        "id": "swsh7-20",
+        "name": "Victini",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "name": "Victory Dive",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "swsh7",
+            "name": "Evolving Skies",
+            "series": "Sword & Shield",
+            "printedTotal": 203,
+            "total": 237,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "EVS",
+            "releaseDate": "2021/08/27",
+            "updatedAt": "2021/08/27 10:17:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
+                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
+            }
+        },
+        "number": "20",
+        "artist": "Teeziro",
+        "rarity": "Rare Holo",
+        "flavorText": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
+        "nationalPokedexNumbers": [
+            494
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "E",
+        "images": {
+            "small": "https://images.pokemontcg.io/swsh7/20.png",
+            "large": "https://images.pokemontcg.io/swsh7/20_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-20",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "holofoil": {
+                    "low": 0.05,
+                    "mid": 0.25,
+                    "high": 2,
+                    "market": 0.19,
+                    "directLow": 0.17
+                },
+                "reverseHolofoil": {
+                    "low": 0.15,
+                    "mid": 0.28,
+                    "high": 2,
+                    "market": 0.28,
+                    "directLow": null
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-20",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "averageSellPrice": 0.22,
+                "lowPrice": 0.04,
+                "trendPrice": 0.17,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0.45,
+                "reverseHoloLow": 0.09,
+                "reverseHoloTrend": 0.54,
+                "lowPriceExPlus": 0.04,
+                "avg1": 0.1,
+                "avg7": 0.2,
+                "avg30": 0.23,
+                "reverseHoloAvg1": 0.3,
+                "reverseHoloAvg7": 0.41,
+                "reverseHoloAvg30": 0.38
+            }
+        }
+    },
+    {
+        "id": "swsh7-21",
+        "name": "Volcarona V",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "V"
+        ],
+        "hp": "210",
+        "types": [
+            "Fire"
+        ],
+        "rules": [
+            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Surging Flames",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "20+",
+                "text": "This attack does 20 more damage for each basic Energy card in your discard pile. Then, shuffle those Energy cards into your deck."
+            },
+            {
+                "name": "Fire Blast",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "160",
+                "text": "Discard an Energy from this Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "swsh7",
+            "name": "Evolving Skies",
+            "series": "Sword & Shield",
+            "printedTotal": 203,
+            "total": 237,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "EVS",
+            "releaseDate": "2021/08/27",
+            "updatedAt": "2021/08/27 10:17:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
+                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
+            }
+        },
+        "number": "21",
+        "artist": "kawayoo",
+        "rarity": "Rare Holo V",
+        "nationalPokedexNumbers": [
+            637
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "E",
+        "images": {
+            "small": "https://images.pokemontcg.io/swsh7/21.png",
+            "large": "https://images.pokemontcg.io/swsh7/21_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-21",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "holofoil": {
+                    "low": 0.43,
+                    "mid": 1,
+                    "high": 1000,
+                    "market": 0.74,
+                    "directLow": 1.15
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-21",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "averageSellPrice": 1.53,
+                "lowPrice": 0.75,
+                "trendPrice": 1.72,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0,
+                "reverseHoloLow": 0,
+                "reverseHoloTrend": 0,
+                "lowPriceExPlus": 0.75,
+                "avg1": 0.99,
+                "avg7": 1.81,
+                "avg30": 1.5,
+                "reverseHoloAvg1": 0,
+                "reverseHoloAvg7": 0,
+                "reverseHoloAvg30": 0
+            }
+        }
+    },
+    {
+        "id": "swsh7-33",
+        "name": "Lombre",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "90",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Lotad",
+        "evolvesTo": [
+            "Ludicolo"
+        ],
+        "attacks": [
+            {
+                "name": "Wave Splash",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "50",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "swsh7",
+            "name": "Evolving Skies",
+            "series": "Sword & Shield",
+            "printedTotal": 203,
+            "total": 237,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "EVS",
+            "releaseDate": "2021/08/27",
+            "updatedAt": "2021/08/27 10:17:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
+                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
+            }
+        },
+        "number": "33",
+        "artist": "miki kudo",
+        "rarity": "Uncommon",
+        "flavorText": "It lives at the water's edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
+        "nationalPokedexNumbers": [
+            271
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "E",
+        "images": {
+            "small": "https://images.pokemontcg.io/swsh7/33.png",
+            "large": "https://images.pokemontcg.io/swsh7/33_hires.png"
+        },
+        "tcgplayer": {
+            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-33",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "reverseHolofoil": {
+                    "low": 0.04,
+                    "mid": 0.15,
+                    "high": 7.1,
+                    "market": 0.1,
+                    "directLow": 0.08
+                },
+                "normal": {
+                    "low": 0.01,
+                    "mid": 0.1,
+                    "high": 40,
+                    "market": 0.04,
+                    "directLow": 0.02
+                }
+            }
+        },
+        "cardmarket": {
+            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-33",
+            "updatedAt": "2023/03/29",
+            "prices": {
+                "averageSellPrice": 0.03,
+                "lowPrice": 0.01,
+                "trendPrice": 0.03,
+                "germanProLow": 0,
+                "suggestedPrice": 0,
+                "reverseHoloSell": 0.15,
+                "reverseHoloLow": 0.02,
+                "reverseHoloTrend": 0.13,
+                "lowPriceExPlus": 0.01,
+                "avg1": 0.03,
+                "avg7": 0.02,
+                "avg30": 0.03,
+                "reverseHoloAvg1": 0.25,
+                "reverseHoloAvg7": 0.13,
+                "reverseHoloAvg30": 0.15
             }
         }
     },
@@ -2129,124 +2818,6 @@ let evolvingSkies = [
                 "reverseHoloAvg1": 0.5,
                 "reverseHoloAvg7": 0.18,
                 "reverseHoloAvg30": 0.16
-            }
-        }
-    },
-    {
-        "id": "swsh7-21",
-        "name": "Volcarona V",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "V"
-        ],
-        "hp": "210",
-        "types": [
-            "Fire"
-        ],
-        "rules": [
-            "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Surging Flames",
-                "cost": [
-                    "Fire"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "20+",
-                "text": "This attack does 20 more damage for each basic Energy card in your discard pile. Then, shuffle those Energy cards into your deck."
-            },
-            {
-                "name": "Fire Blast",
-                "cost": [
-                    "Fire",
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "160",
-                "text": "Discard an Energy from this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh7",
-            "name": "Evolving Skies",
-            "series": "Sword & Shield",
-            "printedTotal": 203,
-            "total": 237,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "EVS",
-            "releaseDate": "2021/08/27",
-            "updatedAt": "2021/08/27 10:17:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
-            }
-        },
-        "number": "21",
-        "artist": "kawayoo",
-        "rarity": "Rare Holo V",
-        "nationalPokedexNumbers": [
-            637
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh7/21.png",
-            "large": "https://images.pokemontcg.io/swsh7/21_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-21",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.43,
-                    "mid": 1,
-                    "high": 1000,
-                    "market": 0.74,
-                    "directLow": 1.15
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-21",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.53,
-                "lowPrice": 0.75,
-                "trendPrice": 1.72,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.75,
-                "avg1": 0.99,
-                "avg7": 1.81,
-                "avg30": 1.5,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
             }
         }
     },
@@ -3068,117 +3639,6 @@ let evolvingSkies = [
                 "reverseHoloAvg1": 0.2,
                 "reverseHoloAvg7": 0.11,
                 "reverseHoloAvg30": 0.13
-            }
-        }
-    },
-    {
-        "id": "swsh7-20",
-        "name": "Victini",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "60",
-        "types": [
-            "Fire"
-        ],
-        "attacks": [
-            {
-                "name": "Victory Dive",
-                "cost": [
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "30",
-                "text": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh7",
-            "name": "Evolving Skies",
-            "series": "Sword & Shield",
-            "printedTotal": 203,
-            "total": 237,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "EVS",
-            "releaseDate": "2021/08/27",
-            "updatedAt": "2021/08/27 10:17:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
-            }
-        },
-        "number": "20",
-        "artist": "Teeziro",
-        "rarity": "Rare Holo",
-        "flavorText": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
-        "nationalPokedexNumbers": [
-            494
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh7/20.png",
-            "large": "https://images.pokemontcg.io/swsh7/20_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-20",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.05,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.19,
-                    "directLow": 0.17
-                },
-                "reverseHolofoil": {
-                    "low": 0.15,
-                    "mid": 0.28,
-                    "high": 2,
-                    "market": 0.28,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-20",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.22,
-                "lowPrice": 0.04,
-                "trendPrice": 0.17,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.45,
-                "reverseHoloLow": 0.09,
-                "reverseHoloTrend": 0.54,
-                "lowPriceExPlus": 0.04,
-                "avg1": 0.1,
-                "avg7": 0.2,
-                "avg30": 0.23,
-                "reverseHoloAvg1": 0.3,
-                "reverseHoloAvg7": 0.41,
-                "reverseHoloAvg30": 0.38
             }
         }
     },
@@ -4837,119 +5297,6 @@ let evolvingSkies = [
         }
     },
     {
-        "id": "swsh7-15",
-        "name": "Gossifleur",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "50",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Eldegoss"
-        ],
-        "attacks": [
-            {
-                "name": "Blot",
-                "cost": [
-                    "Grass"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": "Heal 10 damage from this Pokémon."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh7",
-            "name": "Evolving Skies",
-            "series": "Sword & Shield",
-            "printedTotal": 203,
-            "total": 237,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "EVS",
-            "releaseDate": "2021/08/27",
-            "updatedAt": "2021/08/27 10:17:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
-            }
-        },
-        "number": "15",
-        "artist": "Mizue",
-        "rarity": "Common",
-        "flavorText": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
-        "nationalPokedexNumbers": [
-            829
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh7/15.png",
-            "large": "https://images.pokemontcg.io/swsh7/15_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-15",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.15,
-                    "high": 1.36,
-                    "market": 0.06,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-15",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.11,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.09,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.1,
-                "reverseHoloAvg30": 0.1
-            }
-        }
-    },
-    {
         "id": "swsh7-22",
         "name": "Litleo",
         "supertype": "Pokémon",
@@ -5059,130 +5406,6 @@ let evolvingSkies = [
                 "reverseHoloAvg1": 0.18,
                 "reverseHoloAvg7": 0.17,
                 "reverseHoloAvg30": 0.13
-            }
-        }
-    },
-    {
-        "id": "swsh7-19",
-        "name": "Entei",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic",
-            "Single Strike"
-        ],
-        "hp": "120",
-        "types": [
-            "Fire"
-        ],
-        "attacks": [
-            {
-                "name": "Angry Fang",
-                "cost": [
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 2,
-                "damage": "10×",
-                "text": "This attack does 10 damage for each damage counter on all of your Benched Single Strike Pokémon."
-            },
-            {
-                "name": "Heat Tackle",
-                "cost": [
-                    "Fire",
-                    "Fire",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "120",
-                "text": "This Pokémon also does 30 damage to itself."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh7",
-            "name": "Evolving Skies",
-            "series": "Sword & Shield",
-            "printedTotal": 203,
-            "total": 237,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "EVS",
-            "releaseDate": "2021/08/27",
-            "updatedAt": "2021/08/27 10:17:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
-            }
-        },
-        "number": "19",
-        "artist": "NC Empire",
-        "rarity": "Rare Holo",
-        "flavorText": "It is said that when it roars, a volcano erupts somewhere around the globe.",
-        "nationalPokedexNumbers": [
-            244
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh7/19.png",
-            "large": "https://images.pokemontcg.io/swsh7/19_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-19",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.1,
-                    "mid": 0.25,
-                    "high": 2.22,
-                    "market": 0.2,
-                    "directLow": null
-                },
-                "reverseHolofoil": {
-                    "low": 0.15,
-                    "mid": 0.3,
-                    "high": 2,
-                    "market": 0.23,
-                    "directLow": 0.24
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-19",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.36,
-                "lowPrice": 0.04,
-                "trendPrice": 0.39,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.39,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.24,
-                "lowPriceExPlus": 0.04,
-                "avg1": 0.33,
-                "avg7": 0.4,
-                "avg30": 0.33,
-                "reverseHoloAvg1": 0.4,
-                "reverseHoloAvg7": 0.41,
-                "reverseHoloAvg30": 0.42
             }
         }
     },
@@ -5553,116 +5776,6 @@ let evolvingSkies = [
         }
     },
     {
-        "id": "swsh7-18",
-        "name": "Flareon VMAX",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "VMAX",
-            "Single Strike"
-        ],
-        "hp": "320",
-        "types": [
-            "Fire"
-        ],
-        "evolvesFrom": "Flareon V",
-        "rules": [
-            "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
-        ],
-        "attacks": [
-            {
-                "name": "Max Detonate",
-                "cost": [
-                    "Fire",
-                    "Colorless",
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 3,
-                "damage": "100×",
-                "text": "Discard the top 5 cards of your deck. This attack does 100 damage for each Energy card you discarded in this way."
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Water",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless",
-            "Colorless"
-        ],
-        "convertedRetreatCost": 2,
-        "set": {
-            "id": "swsh7",
-            "name": "Evolving Skies",
-            "series": "Sword & Shield",
-            "printedTotal": 203,
-            "total": 237,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "EVS",
-            "releaseDate": "2021/08/27",
-            "updatedAt": "2021/08/27 10:17:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
-            }
-        },
-        "number": "18",
-        "artist": "5ban Graphics",
-        "rarity": "Rare Holo VMAX",
-        "nationalPokedexNumbers": [
-            136
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh7/18.png",
-            "large": "https://images.pokemontcg.io/swsh7/18_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-18",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.75,
-                    "mid": 4,
-                    "high": 1000,
-                    "market": 3.74,
-                    "directLow": 4.5
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-18",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 5.34,
-                "lowPrice": 1.99,
-                "trendPrice": 5.09,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3.99,
-                "avg1": 6.4,
-                "avg7": 5,
-                "avg30": 5.48,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
-        }
-    },
-    {
         "id": "swsh7-47",
         "name": "Eiscue",
         "supertype": "Pokémon",
@@ -5904,119 +6017,6 @@ let evolvingSkies = [
                 "reverseHoloAvg1": 1,
                 "reverseHoloAvg7": 0.4,
                 "reverseHoloAvg30": 0.5
-            }
-        }
-    },
-    {
-        "id": "swsh7-17",
-        "name": "Applin",
-        "supertype": "Pokémon",
-        "subtypes": [
-            "Basic"
-        ],
-        "hp": "40",
-        "types": [
-            "Grass"
-        ],
-        "evolvesTo": [
-            "Flapple"
-        ],
-        "attacks": [
-            {
-                "name": "Rollout",
-                "cost": [
-                    "Colorless"
-                ],
-                "convertedEnergyCost": 1,
-                "damage": "10",
-                "text": ""
-            }
-        ],
-        "weaknesses": [
-            {
-                "type": "Fire",
-                "value": "×2"
-            }
-        ],
-        "retreatCost": [
-            "Colorless"
-        ],
-        "convertedRetreatCost": 1,
-        "set": {
-            "id": "swsh7",
-            "name": "Evolving Skies",
-            "series": "Sword & Shield",
-            "printedTotal": 203,
-            "total": 237,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "EVS",
-            "releaseDate": "2021/08/27",
-            "updatedAt": "2021/08/27 10:17:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh7/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh7/logo.png"
-            }
-        },
-        "number": "17",
-        "artist": "Miki Tanaka",
-        "rarity": "Common",
-        "flavorText": "As soon as it's born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
-        "nationalPokedexNumbers": [
-            840
-        ],
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
-        "regulationMark": "E",
-        "images": {
-            "small": "https://images.pokemontcg.io/swsh7/17.png",
-            "large": "https://images.pokemontcg.io/swsh7/17_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-17",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.04,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 7.08,
-                    "market": 0.08,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-17",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.11,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.09,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.14,
-                "reverseHoloAvg7": 0.12,
-                "reverseHoloAvg30": 0.1
             }
         }
     },
@@ -26466,3 +26466,6 @@ let evolvingSkies = [
         }
     }
 ]
+
+// let order = evolvingSkies.sort(({id:a}, {id:b}) => b-a);
+// console.log(order)
