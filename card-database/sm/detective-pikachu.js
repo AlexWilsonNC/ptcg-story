@@ -1,6 +1,6 @@
 let detectivePikachu = [
     {
-        "id": "det1-1",
+        "id": "det-1",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
         "subtypes": [
@@ -65,7 +65,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-2",
+        "id": "det-2",
         "name": "Ludicolo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -137,7 +137,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-3",
+        "id": "det-3",
         "name": "Morelull",
         "supertype": "Pokémon",
         "subtypes": [
@@ -202,7 +202,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-4",
+        "id": "det-4",
         "name": "Charmander",
         "supertype": "Pokémon",
         "subtypes": [
@@ -267,7 +267,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-5",
+        "id": "det-5",
         "name": "Charizard",
         "supertype": "Pokémon",
         "subtypes": [
@@ -344,7 +344,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-6",
+        "id": "det-6",
         "name": "Arcanine",
         "supertype": "Pokémon",
         "subtypes": [
@@ -416,7 +416,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-7",
+        "id": "det-7",
         "name": "Psyduck",
         "supertype": "Pokémon",
         "subtypes": [
@@ -481,7 +481,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-8",
+        "id": "det-8",
         "name": "Magikarp",
         "supertype": "Pokémon",
         "subtypes": [
@@ -546,7 +546,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-9",
+        "id": "det-9",
         "name": "Greninja",
         "supertype": "Pokémon",
         "subtypes": [
@@ -617,7 +617,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-10",
+        "id": "det-10",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -699,7 +699,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-11",
+        "id": "det-11",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
         "subtypes": [
@@ -769,7 +769,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-12",
+        "id": "det-12",
         "name": "Mewtwo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -843,7 +843,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-13",
+        "id": "det-13",
         "name": "Machamp",
         "supertype": "Pokémon",
         "subtypes": [
@@ -916,7 +916,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-14",
+        "id": "det-14",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
         "subtypes": [
@@ -987,7 +987,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-15",
+        "id": "det-15",
         "name": "Snubbull",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1059,7 +1059,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-16",
+        "id": "det-16",
         "name": "Lickitung",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1125,7 +1125,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-17",
+        "id": "det-17",
         "name": "Ditto",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1187,7 +1187,7 @@ let detectivePikachu = [
         }
     },
     {
-        "id": "det1-18",
+        "id": "det-18",
         "name": "Slaking",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1253,54 +1253,63 @@ let detectivePikachu = [
         }
     },
     {
+        "id": "det-19",
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM170-detective_pikachu.jpg?fit=734%2C1024&ssl=1",
             "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM170-detective_pikachu.jpg?fit=734%2C1024&ssl=1"
         }
     },
     {
+        "id": "det-20",
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM190-detective_pikachu.jpg?fit=734%2C1024&ssl=1",
             "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM190-detective_pikachu.jpg?fit=734%2C1024&ssl=1"
         }
     },
     {
+        "id": "det-21",
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM194-detective_pikachu.jpg?fit=734%2C1024&ssl=1",
             "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM194-detective_pikachu.jpg?fit=734%2C1024&ssl=1"
         }
     },
     {
+        "id": "det-22",
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM195-charizard_gx.jpg?fit=734%2C1024&ssl=1",
             "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM195-charizard_gx.jpg?fit=734%2C1024&ssl=1"
         }
     },
     {
+        "id": "det-23",
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM196-mewtwo_gx.jpg?fit=734%2C1024&ssl=1",
             "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM196-mewtwo_gx.jpg?fit=734%2C1024&ssl=1"
         }
     },
     {
+        "id": "det-24",
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM197-greninja_gx.jpg?fit=734%2C1024&ssl=1",
             "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM197-greninja_gx.jpg?fit=734%2C1024&ssl=1"
         }
     },
     {
+        "id": "det-25",
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM198-bulbasaur.jpg?fit=734%2C1024&ssl=1",
             "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM198-bulbasaur.jpg?fit=734%2C1024&ssl=1"
         }
     },
     {
+        "id": "det-26",
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM199-psyduck.jpg?fit=734%2C1024&ssl=1",
             "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM199-psyduck.jpg?fit=734%2C1024&ssl=1"
         }
     },
     {
+        "id": "det-27",
         "images": {
             "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM200-snubbull.jpg?fit=734%2C1024&ssl=1",
             "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/en_US-Promo_SM-SM200-snubbull.jpg?fit=734%2C1024&ssl=1"
