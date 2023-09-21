@@ -17526,6 +17526,8 @@ function displayList(array = []) {
         img.classList.add('database-card-in-list');
         img.setAttribute('src', item.images.small);
         img.loading = 'lazy';
+        // sort set by number
+        array.sort((a,b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
 
         // zoom card
         img.onclick = () => {

@@ -1,12 +1,12 @@
 // fetch('https://api.pokemontcg.io/v2/sets').then(res => { console.log('List of All Sets', res.json()) })
-// /* set */ fetch('https://api.pokemontcg.io/v2/cards?q=set.id:mcd11').then(res => { console.log('Download New Set', res.json()) })
+// /* set */ fetch('https://api.pokemontcg.io/v2/cards?q=set.id:swsh7').then(res => { console.log('Download New Set', res.json()) })
 // /* card */ fetch('https://api.pokemontcg.io/v2/cards/sv2-1').then(res => { console.log('Download New Card', res.json()) })
 
-// sv3.forEach(cardObject => {
+// evolvingSkies.forEach(cardObject => {
 //     delete cardObject.tcgplayer;
 //     delete cardObject.cardmarket;
 // })
-// console.log('Edited Set Object 2 - Removing Values', sv3)
+// console.log('Edited Set Object 2 - Removing Values', evolvingSkies)
 
 // const allStandardLegalCards = [];
 // let page = 2;
@@ -36,6 +36,7 @@
 // };
 // getCards();
 
+// scrolls to top of page when refreshed
 if (history.scrollRestoration) {
     history.scrollRestoration = 'manual';
 } else {

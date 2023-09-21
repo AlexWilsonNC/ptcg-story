@@ -77,47 +77,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/1.png",
             "large": "https://images.pokemontcg.io/swsh7/1_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-1",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.2,
-                    "high": 4.14,
-                    "market": 0.14,
-                    "directLow": 0.1
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 1.34,
-                    "market": 0.07,
-                    "directLow": 0.08
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-1",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.06,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.13,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.14,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.05,
-                "avg7": 0.03,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.13,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -187,47 +146,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/2.png",
             "large": "https://images.pokemontcg.io/swsh7/2_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-2",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.2,
-                    "high": 3.84,
-                    "market": 0.12,
-                    "directLow": 0.06
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-2",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.01,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.11,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.06,
-                "avg7": 0.06,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.2,
-                "reverseHoloAvg7": 0.13,
-                "reverseHoloAvg30": 0.1
-            }
         }
     },
     {
@@ -305,47 +223,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/3.png",
             "large": "https://images.pokemontcg.io/swsh7/3_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-3",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.05,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.19,
-                    "high": 4.06,
-                    "market": 0.1,
-                    "directLow": 0.09
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-3",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.05,
-                "lowPrice": 0.02,
-                "trendPrice": 0.1,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.11,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.16,
-                "avg7": 0.05,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -420,47 +297,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/4.png",
             "large": "https://images.pokemontcg.io/swsh7/4_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-4",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.03,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.21,
-                    "directLow": 0.2
-                },
-                "reverseHolofoil": {
-                    "low": 0.05,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.19,
-                    "directLow": 0.18
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-4",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.3,
-                "lowPrice": 0.02,
-                "trendPrice": 0.38,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.22,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.19,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.75,
-                "avg7": 0.36,
-                "avg30": 0.28,
-                "reverseHoloAvg1": 0.25,
-                "reverseHoloAvg7": 0.17,
-                "reverseHoloAvg30": 0.23
-            }
         }
     },
     {
@@ -534,47 +370,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/5.png",
             "large": "https://images.pokemontcg.io/swsh7/5_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-5",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.2,
-                    "market": 0.07,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-5",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.02,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.11,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.12,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.2,
-                "reverseHoloAvg7": 0.07,
-                "reverseHoloAvg30": 0.09
-            }
         }
     },
     {
@@ -656,47 +451,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/6.png",
             "large": "https://images.pokemontcg.io/swsh7/6_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-6",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.12,
-                    "directLow": null
-                },
-                "normal": {
-                    "low": 0.02,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.08,
-                    "directLow": 0.08
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-6",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.07,
-                "lowPrice": 0.02,
-                "trendPrice": 0.07,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.2,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.21,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.1,
-                "avg7": 0.07,
-                "avg30": 0.06,
-                "reverseHoloAvg1": 0.25,
-                "reverseHoloAvg7": 0.23,
-                "reverseHoloAvg30": 0.18
-            }
         }
     },
     {
@@ -778,40 +532,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/7.png",
             "large": "https://images.pokemontcg.io/swsh7/7_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-7",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1,
-                    "mid": 2,
-                    "high": 9.95,
-                    "market": 2.27,
-                    "directLow": 2.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-7",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 2.19,
-                "lowPrice": 0.75,
-                "trendPrice": 1.99,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 1.46,
-                "avg1": 1.75,
-                "avg7": 1.98,
-                "avg30": 2.17,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -897,40 +617,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/8.png",
             "large": "https://images.pokemontcg.io/swsh7/8_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-8",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2,
-                    "mid": 3.99,
-                    "high": 33,
-                    "market": 3.67,
-                    "directLow": 4.98
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-8",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 4.83,
-                "lowPrice": 2,
-                "trendPrice": 4.55,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3.99,
-                "avg1": 4.63,
-                "avg7": 4.59,
-                "avg30": 4.81,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -1004,47 +690,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/9.png",
             "large": "https://images.pokemontcg.io/swsh7/9_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-9",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 2,
-                    "market": 0.06,
-                    "directLow": 0.06
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-9",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.11,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.05,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.04,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -1116,47 +761,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/10.png",
             "large": "https://images.pokemontcg.io/swsh7/10_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-10",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 5,
-                    "market": 0.09,
-                    "directLow": 0.08
-                },
-                "reverseHolofoil": {
-                    "low": 0.04,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.12,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-10",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.05,
-                "lowPrice": 0.02,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.14,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.07,
-                "avg7": 0.04,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.05,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -1240,47 +844,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/11.png",
             "large": "https://images.pokemontcg.io/swsh7/11_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-11",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.2,
-                    "market": 0.1,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.01,
-                    "directLow": 0.01
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-11",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.02,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.12,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.02,
-                "avg30": 0.02,
-                "reverseHoloAvg1": 0.09,
-                "reverseHoloAvg7": 0.12,
-                "reverseHoloAvg30": 0.11
-            }
         }
     },
     {
@@ -1365,47 +928,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/12.png",
             "large": "https://images.pokemontcg.io/swsh7/12_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-12",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.2,
-                    "high": 1.84,
-                    "market": 0.1,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-12",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.05,
-                "lowPrice": 0.02,
-                "trendPrice": 0.11,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.15,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.49,
-                "avg7": 0.06,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.12,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -1491,40 +1013,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/13.png",
             "large": "https://images.pokemontcg.io/swsh7/13_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-13",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.45,
-                    "mid": 1,
-                    "high": 1000,
-                    "market": 0.71,
-                    "directLow": 1.03
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-13",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.21,
-                "lowPrice": 0.2,
-                "trendPrice": 1.09,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.48,
-                "avg1": 1.11,
-                "avg7": 1.01,
-                "avg30": 1.05,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -1611,40 +1099,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/14.png",
             "large": "https://images.pokemontcg.io/swsh7/14_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-14",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.98,
-                    "mid": 2,
-                    "high": 7.96,
-                    "market": 1.39,
-                    "directLow": 2.47
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-14",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 2.14,
-                "lowPrice": 0.95,
-                "trendPrice": 2.12,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.95,
-                "avg1": 1.74,
-                "avg7": 2.16,
-                "avg30": 1.96,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -1717,47 +1171,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/15.png",
             "large": "https://images.pokemontcg.io/swsh7/15_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-15",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.15,
-                    "high": 1.36,
-                    "market": 0.06,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-15",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.11,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.09,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.1,
-                "reverseHoloAvg30": 0.1
-            }
         }
     },
     {
@@ -1835,47 +1248,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/16.png",
             "large": "https://images.pokemontcg.io/swsh7/16_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-16",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.07,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.18,
-                    "directLow": null
-                },
-                "reverseHolofoil": {
-                    "low": 0.1,
-                    "mid": 0.28,
-                    "high": 9.58,
-                    "market": 0.2,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-16",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.29,
-                "lowPrice": 0.05,
-                "trendPrice": 0.38,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.49,
-                "reverseHoloLow": 0.06,
-                "reverseHoloTrend": 0.7,
-                "lowPriceExPlus": 0.06,
-                "avg1": 0.55,
-                "avg7": 0.31,
-                "avg30": 0.28,
-                "reverseHoloAvg1": 0.5,
-                "reverseHoloAvg7": 0.62,
-                "reverseHoloAvg30": 0.38
-            }
         }
     },
     {
@@ -1948,47 +1320,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/17.png",
             "large": "https://images.pokemontcg.io/swsh7/17_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-17",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.04,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 7.08,
-                    "market": 0.08,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-17",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.11,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.09,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.14,
-                "reverseHoloAvg7": 0.12,
-                "reverseHoloAvg30": 0.1
-            }
         }
     },
     {
@@ -2065,40 +1396,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/18.png",
             "large": "https://images.pokemontcg.io/swsh7/18_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-18",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.75,
-                    "mid": 4,
-                    "high": 1000,
-                    "market": 3.74,
-                    "directLow": 4.5
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-18",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 5.34,
-                "lowPrice": 1.99,
-                "trendPrice": 5.09,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3.99,
-                "avg1": 6.4,
-                "avg7": 5,
-                "avg30": 5.48,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -2182,47 +1479,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/19.png",
             "large": "https://images.pokemontcg.io/swsh7/19_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-19",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.1,
-                    "mid": 0.25,
-                    "high": 2.22,
-                    "market": 0.2,
-                    "directLow": null
-                },
-                "reverseHolofoil": {
-                    "low": 0.15,
-                    "mid": 0.3,
-                    "high": 2,
-                    "market": 0.23,
-                    "directLow": 0.24
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-19",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.36,
-                "lowPrice": 0.04,
-                "trendPrice": 0.39,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.39,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.24,
-                "lowPriceExPlus": 0.04,
-                "avg1": 0.33,
-                "avg7": 0.4,
-                "avg30": 0.33,
-                "reverseHoloAvg1": 0.4,
-                "reverseHoloAvg7": 0.41,
-                "reverseHoloAvg30": 0.42
-            }
         }
     },
     {
@@ -2293,47 +1549,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/20.png",
             "large": "https://images.pokemontcg.io/swsh7/20_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-20",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.05,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.19,
-                    "directLow": 0.17
-                },
-                "reverseHolofoil": {
-                    "low": 0.15,
-                    "mid": 0.28,
-                    "high": 2,
-                    "market": 0.28,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-20",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.22,
-                "lowPrice": 0.04,
-                "trendPrice": 0.17,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.45,
-                "reverseHoloLow": 0.09,
-                "reverseHoloTrend": 0.54,
-                "lowPriceExPlus": 0.04,
-                "avg1": 0.1,
-                "avg7": 0.2,
-                "avg30": 0.23,
-                "reverseHoloAvg1": 0.3,
-                "reverseHoloAvg7": 0.41,
-                "reverseHoloAvg30": 0.38
-            }
         }
     },
     {
@@ -2418,40 +1633,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/21.png",
             "large": "https://images.pokemontcg.io/swsh7/21_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-21",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.43,
-                    "mid": 1,
-                    "high": 1000,
-                    "market": 0.74,
-                    "directLow": 1.15
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-21",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.53,
-                "lowPrice": 0.75,
-                "trendPrice": 1.72,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.75,
-                "avg1": 0.99,
-                "avg7": 1.81,
-                "avg30": 1.5,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -2526,47 +1707,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/33.png",
             "large": "https://images.pokemontcg.io/swsh7/33_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-33",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.04,
-                    "mid": 0.15,
-                    "high": 7.1,
-                    "market": 0.1,
-                    "directLow": 0.08
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.04,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-33",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.03,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.25,
-                "reverseHoloAvg7": 0.13,
-                "reverseHoloAvg30": 0.15
-            }
         }
     },
     {
@@ -2650,47 +1790,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/44.png",
             "large": "https://images.pokemontcg.io/swsh7/44_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-44",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.05,
-                    "mid": 0.17,
-                    "high": 2,
-                    "market": 0.12,
-                    "directLow": 0.08
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 5,
-                    "market": 0.02,
-                    "directLow": 0.01
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-44",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.08,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.08,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.04,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.08,
-                "reverseHoloAvg7": 0.06,
-                "reverseHoloAvg30": 0.09
-            }
         }
     },
     {
@@ -2778,47 +1877,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/45.png",
             "large": "https://images.pokemontcg.io/swsh7/45_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-45",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.07,
-                    "high": 1.45,
-                    "market": 0.04,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.15,
-                    "high": 1.2,
-                    "market": 0.12,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-45",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.16,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.2,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.5,
-                "reverseHoloAvg7": 0.18,
-                "reverseHoloAvg30": 0.16
-            }
         }
     },
     {
@@ -2892,47 +1950,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/26.png",
             "large": "https://images.pokemontcg.io/swsh7/26_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-26",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.2,
-                    "market": 0.11,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-26",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.02,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.03,
-                "avg7": 0.02,
-                "avg30": 0.02,
-                "reverseHoloAvg1": 0.25,
-                "reverseHoloAvg7": 0.13,
-                "reverseHoloAvg30": 0.11
-            }
         }
     },
     {
@@ -3021,40 +2038,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/28.png",
             "large": "https://images.pokemontcg.io/swsh7/28_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-28",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.3,
-                    "mid": 1.34,
-                    "high": 1000,
-                    "market": 1.31,
-                    "directLow": 1.31
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-28",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.72,
-                "lowPrice": 0.89,
-                "trendPrice": 1.63,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.89,
-                "avg1": 2.23,
-                "avg7": 1.79,
-                "avg30": 1.76,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -3137,40 +2120,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/41.png",
             "large": "https://images.pokemontcg.io/swsh7/41_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-41",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.35,
-                    "mid": 3.45,
-                    "high": 18.99,
-                    "market": 3.01,
-                    "directLow": 4.49
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-41",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 5.23,
-                "lowPrice": 1.5,
-                "trendPrice": 4.52,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3.94,
-                "avg1": 4.89,
-                "avg7": 4.55,
-                "avg30": 5.27,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -3253,47 +2202,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/35.png",
             "large": "https://images.pokemontcg.io/swsh7/35_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-35",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.17,
-                    "high": 1.35,
-                    "market": 0.1,
-                    "directLow": null
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 5,
-                    "market": 0.02,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-35",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.14,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.03,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -3367,47 +2275,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/37.png",
             "large": "https://images.pokemontcg.io/swsh7/37_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-37",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.87,
-                    "market": 0.11,
-                    "directLow": 0.07
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.07,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.01
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-37",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.11,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.14,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.08,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.11,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.11
-            }
         }
     },
     {
@@ -3486,47 +2353,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/46.png",
             "large": "https://images.pokemontcg.io/swsh7/46_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-46",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.15,
-                    "directLow": 0.08
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 100,
-                    "market": 0.06,
-                    "directLow": 0.06
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-46",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.08,
-                "lowPrice": 0.02,
-                "trendPrice": 0.08,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.15,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.15,
-                "avg7": 0.1,
-                "avg30": 0.07,
-                "reverseHoloAvg1": 0.19,
-                "reverseHoloAvg7": 0.15,
-                "reverseHoloAvg30": 0.15
-            }
         }
     },
     {
@@ -3599,47 +2425,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/52.png",
             "large": "https://images.pokemontcg.io/swsh7/52_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-52",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.17,
-                    "high": 2,
-                    "market": 0.11,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-52",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.13,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.05,
-                "avg7": 0.03,
-                "avg30": 0.02,
-                "reverseHoloAvg1": 0.2,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -3729,40 +2514,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/29.png",
             "large": "https://images.pokemontcg.io/swsh7/29_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-29",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.65,
-                    "mid": 4.7,
-                    "high": 9998.98,
-                    "market": 3.34,
-                    "directLow": 3.34
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-29",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 4.47,
-                "lowPrice": 2,
-                "trendPrice": 3.78,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 2.2,
-                "avg1": 4.99,
-                "avg7": 3.74,
-                "avg30": 4.57,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -3844,40 +2595,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/31.png",
             "large": "https://images.pokemontcg.io/swsh7/31_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-31",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.39,
-                    "mid": 1.25,
-                    "high": 1000,
-                    "market": 1,
-                    "directLow": 1.01
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-31",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.91,
-                "lowPrice": 0.99,
-                "trendPrice": 1.81,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.99,
-                "avg1": 1.88,
-                "avg7": 1.76,
-                "avg30": 1.83,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -3951,47 +2668,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/24.png",
             "large": "https://images.pokemontcg.io/swsh7/24_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-24",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.86,
-                    "market": 0.12,
-                    "directLow": 0.15
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 5,
-                    "market": 0.04,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-24",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.21,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.19,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.03,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.16,
-                "reverseHoloAvg30": 0.17
-            }
         }
     },
     {
@@ -4065,47 +2741,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/42.png",
             "large": "https://images.pokemontcg.io/swsh7/42_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-42",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 5,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.82,
-                    "market": 0.09,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-42",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.02,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.1
-            }
         }
     },
     {
@@ -4188,47 +2823,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/32.png",
             "large": "https://images.pokemontcg.io/swsh7/32_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-32",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.17,
-                    "high": 1.95,
-                    "market": 0.13,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-32",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.13,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.21,
-                "reverseHoloAvg7": 0.13,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -4308,47 +2902,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/43.png",
             "large": "https://images.pokemontcg.io/swsh7/43_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-43",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 1.8,
-                    "market": 0.04,
-                    "directLow": null
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.17,
-                    "high": 1.95,
-                    "market": 0.14,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-43",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.19,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.21,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.09,
-                "avg7": 0.04,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.7,
-                "reverseHoloAvg7": 0.19,
-                "reverseHoloAvg30": 0.16
-            }
         }
     },
     {
@@ -4429,47 +2982,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/38.png",
             "large": "https://images.pokemontcg.io/swsh7/38_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-38",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.18,
-                    "high": 2,
-                    "market": 0.11,
-                    "directLow": 0.1
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.24,
-                    "high": 2,
-                    "market": 0.15,
-                    "directLow": 0.12
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-38",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.12,
-                "lowPrice": 0.02,
-                "trendPrice": 0.17,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.18,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.1,
-                "avg7": 0.17,
-                "avg30": 0.1,
-                "reverseHoloAvg1": 0.3,
-                "reverseHoloAvg7": 0.16,
-                "reverseHoloAvg30": 0.17
-            }
         }
     },
     {
@@ -4557,40 +3069,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/48.png",
             "large": "https://images.pokemontcg.io/swsh7/48_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-48",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.25,
-                    "mid": 1,
-                    "high": 5.95,
-                    "market": 0.7,
-                    "directLow": 0.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-48",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.22,
-                "lowPrice": 0.49,
-                "trendPrice": 1.12,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.49,
-                "avg1": 0.82,
-                "avg7": 1.07,
-                "avg30": 1.09,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -4675,40 +3153,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/40.png",
             "large": "https://images.pokemontcg.io/swsh7/40_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-40",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.5,
-                    "mid": 1.5,
-                    "high": 1000,
-                    "market": 1.25,
-                    "directLow": 1.86
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-40",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 2.03,
-                "lowPrice": 0.79,
-                "trendPrice": 1.63,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.79,
-                "avg1": 1.95,
-                "avg7": 1.58,
-                "avg30": 1.99,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -4778,40 +3222,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/51.png",
             "large": "https://images.pokemontcg.io/swsh7/51_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-51",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.65,
-                    "mid": 4,
-                    "high": 1000,
-                    "market": 3.31,
-                    "directLow": 4.47
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-51",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 5.76,
-                "lowPrice": 2,
-                "trendPrice": 5.31,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 4,
-                "avg1": 4.88,
-                "avg7": 5.06,
-                "avg30": 5.73,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -4895,47 +3305,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/49.png",
             "large": "https://images.pokemontcg.io/swsh7/49_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-49",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.05,
-                    "directLow": 0.05
-                },
-                "reverseHolofoil": {
-                    "low": 0.06,
-                    "mid": 0.25,
-                    "high": 5,
-                    "market": 0.21,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-49",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.05,
-                "lowPrice": 0.01,
-                "trendPrice": 0.06,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.35,
-                "reverseHoloLow": 0.04,
-                "reverseHoloTrend": 0.41,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.06,
-                "avg7": 0.06,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.3,
-                "reverseHoloAvg7": 0.38,
-                "reverseHoloAvg30": 0.32
-            }
         }
     },
     {
@@ -5021,40 +3390,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/30.png",
             "large": "https://images.pokemontcg.io/swsh7/30_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-30",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 3,
-                    "mid": 4.5,
-                    "high": 19.95,
-                    "market": 4.02,
-                    "directLow": 4.74
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-30",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 6.25,
-                "lowPrice": 2,
-                "trendPrice": 5.84,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3.98,
-                "avg1": 4,
-                "avg7": 6.01,
-                "avg30": 6.15,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -5134,47 +3469,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/34.png",
             "large": "https://images.pokemontcg.io/swsh7/34_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-34",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.1,
-                    "mid": 0.27,
-                    "high": 2.95,
-                    "market": 0.23,
-                    "directLow": 0.22
-                },
-                "reverseHolofoil": {
-                    "low": 0.09,
-                    "mid": 0.3,
-                    "high": 30,
-                    "market": 0.27,
-                    "directLow": 0.22
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-34",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.42,
-                "lowPrice": 0.02,
-                "trendPrice": 0.27,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.39,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.33,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.14,
-                "avg7": 0.2,
-                "avg30": 0.41,
-                "reverseHoloAvg1": 0.4,
-                "reverseHoloAvg7": 0.38,
-                "reverseHoloAvg30": 0.4
-            }
         }
     },
     {
@@ -5253,47 +3547,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/39.png",
             "large": "https://images.pokemontcg.io/swsh7/39_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-39",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.07,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.17,
-                    "high": 1.82,
-                    "market": 0.12,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-39",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.17,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.16,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -5366,47 +3619,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/22.png",
             "large": "https://images.pokemontcg.io/swsh7/22_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-22",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.07,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.17,
-                    "high": 1.2,
-                    "market": 0.08,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-22",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.02,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.18,
-                "reverseHoloAvg7": 0.17,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -5490,47 +3702,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/27.png",
             "large": "https://images.pokemontcg.io/swsh7/27_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-27",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 7.03,
-                    "market": 0.03,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 7.1,
-                    "market": 0.13,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-27",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.01,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.18,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.04,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.49,
-                "reverseHoloAvg7": 0.15,
-                "reverseHoloAvg30": 0.16
-            }
         }
     },
     {
@@ -5611,47 +3782,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/36.png",
             "large": "https://images.pokemontcg.io/swsh7/36_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-36",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.08,
-                    "directLow": 0.08
-                },
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.13,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-36",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.07,
-                "lowPrice": 0.02,
-                "trendPrice": 0.07,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.11,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.05,
-                "avg7": 0.07,
-                "avg30": 0.07,
-                "reverseHoloAvg1": 0.05,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.11
-            }
         }
     },
     {
@@ -5732,47 +3862,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/25.png",
             "large": "https://images.pokemontcg.io/swsh7/25_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-25",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.07,
-                    "high": 1.28,
-                    "market": 0.04,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.16,
-                    "high": 1.25,
-                    "market": 0.1,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-25",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.01,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.04,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.07,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -5854,47 +3943,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/47.png",
             "large": "https://images.pokemontcg.io/swsh7/47_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-47",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.07,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.2,
-                    "high": 13,
-                    "market": 0.14,
-                    "directLow": 0.14
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-47",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.19,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.04,
-                "avg7": 0.04,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.18,
-                "reverseHoloAvg30": 0.17
-            }
         }
     },
     {
@@ -5977,47 +4025,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/50.png",
             "large": "https://images.pokemontcg.io/swsh7/50_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-50",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.04,
-                    "mid": 0.29,
-                    "high": 22,
-                    "market": 0.19,
-                    "directLow": 0.2
-                },
-                "reverseHolofoil": {
-                    "low": 0.14,
-                    "mid": 0.3,
-                    "high": 2,
-                    "market": 0.28,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-50",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.35,
-                "lowPrice": 0.05,
-                "trendPrice": 0.31,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.51,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.45,
-                "lowPriceExPlus": 0.1,
-                "avg1": 0.31,
-                "avg7": 0.36,
-                "avg30": 0.38,
-                "reverseHoloAvg1": 1,
-                "reverseHoloAvg7": 0.4,
-                "reverseHoloAvg30": 0.5
-            }
         }
     },
     {
@@ -6099,47 +4106,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/23.png",
             "large": "https://images.pokemontcg.io/swsh7/23_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-23",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.09,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 5.08,
-                    "market": 0.09,
-                    "directLow": 0.08
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-23",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.09,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.11,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -6223,47 +4189,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/56.png",
             "large": "https://images.pokemontcg.io/swsh7/56_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-56",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.13,
-                    "directLow": 0.12
-                },
-                "normal": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 2,
-                    "market": 0.1,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-56",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.08,
-                "lowPrice": 0.02,
-                "trendPrice": 0.13,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.2,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.22,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.03,
-                "avg7": 0.1,
-                "avg30": 0.09,
-                "reverseHoloAvg1": 0.04,
-                "reverseHoloAvg7": 0.19,
-                "reverseHoloAvg30": 0.21
-            }
         }
     },
     {
@@ -6347,47 +4272,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/55.png",
             "large": "https://images.pokemontcg.io/swsh7/55_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-55",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.03,
-                    "mid": 0.2,
-                    "high": 40,
-                    "market": 0.16,
-                    "directLow": 0.14
-                },
-                "reverseHolofoil": {
-                    "low": 0.06,
-                    "mid": 0.25,
-                    "high": 3.32,
-                    "market": 0.22,
-                    "directLow": 0.22
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-55",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.11,
-                "lowPrice": 0.02,
-                "trendPrice": 0.1,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.23,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.28,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.1,
-                "avg7": 0.11,
-                "avg30": 0.1,
-                "reverseHoloAvg1": 0.45,
-                "reverseHoloAvg7": 0.28,
-                "reverseHoloAvg30": 0.24
-            }
         }
     },
     {
@@ -6453,47 +4337,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/57.png",
             "large": "https://images.pokemontcg.io/swsh7/57_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-57",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.87,
-                    "market": 0.11,
-                    "directLow": 0.08
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-57",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.15,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.05,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.15
-            }
         }
     },
     {
@@ -6577,47 +4420,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/53.png",
             "large": "https://images.pokemontcg.io/swsh7/53_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-53",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.04,
-                    "mid": 0.19,
-                    "high": 1.03,
-                    "market": 0.09,
-                    "directLow": null
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-53",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.08,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.04,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.05,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -6700,47 +4502,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/54.png",
             "large": "https://images.pokemontcg.io/swsh7/54_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-54",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.05,
-                    "directLow": 0.04
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.2,
-                    "directLow": 0.19
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-54",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.01,
-                "trendPrice": 0.02,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.23,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.24,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.03,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.29,
-                "reverseHoloAvg30": 0.21
-            }
         }
     },
     {
@@ -6820,47 +4581,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/61.png",
             "large": "https://images.pokemontcg.io/swsh7/61_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-61",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.2,
-                    "market": 0.08,
-                    "directLow": 0.04
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.01
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-61",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.03,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.11,
-                "reverseHoloAvg7": 0.17,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -6946,40 +4666,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/58.png",
             "large": "https://images.pokemontcg.io/swsh7/58_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-58",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.3,
-                    "mid": 1,
-                    "high": 1000,
-                    "market": 0.74,
-                    "directLow": 0.78
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-58",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.17,
-                "lowPrice": 0.45,
-                "trendPrice": 1.11,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.45,
-                "avg1": 1.17,
-                "avg7": 1.12,
-                "avg30": 1.14,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -7066,40 +4752,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/59.png",
             "large": "https://images.pokemontcg.io/swsh7/59_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-59",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1,
-                    "mid": 2.06,
-                    "high": 40,
-                    "market": 1.62,
-                    "directLow": 1.52
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-59",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 2.48,
-                "lowPrice": 0.8,
-                "trendPrice": 2.1,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.8,
-                "avg1": 1.98,
-                "avg7": 2.01,
-                "avg30": 2.33,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -7181,47 +4833,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/60.png",
             "large": "https://images.pokemontcg.io/swsh7/60_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-60",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.09,
-                    "mid": 0.47,
-                    "high": 65,
-                    "market": 0.31,
-                    "directLow": 0.25
-                },
-                "reverseHolofoil": {
-                    "low": 0.25,
-                    "mid": 0.7,
-                    "high": 2,
-                    "market": 0.64,
-                    "directLow": 0.63
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-60",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.23,
-                "lowPrice": 0.02,
-                "trendPrice": 0.2,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.34,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.24,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.07,
-                "avg7": 0.22,
-                "avg30": 0.23,
-                "reverseHoloAvg1": 0.02,
-                "reverseHoloAvg7": 0.32,
-                "reverseHoloAvg30": 0.35
-            }
         }
     },
     {
@@ -7307,47 +4918,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/63.png",
             "large": "https://images.pokemontcg.io/swsh7/63_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-63",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.09,
-                    "mid": 0.4,
-                    "high": 4.99,
-                    "market": 0.33,
-                    "directLow": 0.25
-                },
-                "holofoil": {
-                    "low": 0.09,
-                    "mid": 0.32,
-                    "high": 4,
-                    "market": 0.23,
-                    "directLow": 0.23
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-63",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.38,
-                "lowPrice": 0.02,
-                "trendPrice": 0.44,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.6,
-                "reverseHoloLow": 0.1,
-                "reverseHoloTrend": 0.71,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.21,
-                "avg7": 0.43,
-                "avg30": 0.42,
-                "reverseHoloAvg1": 0.78,
-                "reverseHoloAvg7": 0.5,
-                "reverseHoloAvg30": 0.57
-            }
         }
     },
     {
@@ -7434,47 +5004,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/62.png",
             "large": "https://images.pokemontcg.io/swsh7/62_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-62",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 1.29,
-                    "market": 0.06,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.19,
-                    "high": 1.36,
-                    "market": 0.1,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-62",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.05,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.13,
-                "reverseHoloLow": 0.04,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.04,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.09,
-                "reverseHoloAvg7": 0.15,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -7564,40 +5093,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/64.png",
             "large": "https://images.pokemontcg.io/swsh7/64_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-64",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.39,
-                    "mid": 1.38,
-                    "high": 1000,
-                    "market": 1.26,
-                    "directLow": 1.47
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-64",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.69,
-                "lowPrice": 0.99,
-                "trendPrice": 1.61,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 1,
-                "avg1": 1.54,
-                "avg7": 1.61,
-                "avg30": 1.72,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -7687,47 +5182,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/66.png",
             "large": "https://images.pokemontcg.io/swsh7/66_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-66",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.84,
-                    "market": 0.07,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.07,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-66",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.11,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.03,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.05,
-                "reverseHoloAvg7": 0.09,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -7813,47 +5267,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/72.png",
             "large": "https://images.pokemontcg.io/swsh7/72_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-72",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.2,
-                    "market": 0.1,
-                    "directLow": 0.09
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 2,
-                    "market": 0.04,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-72",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.13,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.15,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.1,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.15,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -7949,40 +5362,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/70.png",
             "large": "https://images.pokemontcg.io/swsh7/70_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-70",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.4,
-                    "mid": 1,
-                    "high": 1000,
-                    "market": 0.65,
-                    "directLow": 0.65
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-70",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.18,
-                "lowPrice": 0.5,
-                "trendPrice": 1.48,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.5,
-                "avg1": 2.5,
-                "avg7": 1.23,
-                "avg30": 1.09,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -8064,40 +5443,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/74.png",
             "large": "https://images.pokemontcg.io/swsh7/74_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-74",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.5,
-                    "mid": 1.3,
-                    "high": 1000,
-                    "market": 1.02,
-                    "directLow": 1.31
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-74",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.79,
-                "lowPrice": 0.49,
-                "trendPrice": 1.81,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.97,
-                "avg1": 1.9,
-                "avg7": 1.71,
-                "avg30": 1.73,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -8171,47 +5516,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/71.png",
             "large": "https://images.pokemontcg.io/swsh7/71_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-71",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.87,
-                    "market": 0.09,
-                    "directLow": 0.03
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.01
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-71",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.02,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.12,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.02,
-                "reverseHoloAvg7": 0.1,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -8293,47 +5597,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/73.png",
             "large": "https://images.pokemontcg.io/swsh7/73_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-73",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.05,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.23,
-                    "directLow": 0.2
-                },
-                "holofoil": {
-                    "low": 0.03,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.18,
-                    "directLow": 0.17
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-73",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.22,
-                "lowPrice": 0.04,
-                "trendPrice": 0.24,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.31,
-                "reverseHoloLow": 0.04,
-                "reverseHoloTrend": 0.27,
-                "lowPriceExPlus": 0.05,
-                "avg1": 0.09,
-                "avg7": 0.23,
-                "avg30": 0.22,
-                "reverseHoloAvg1": 0.25,
-                "reverseHoloAvg7": 0.23,
-                "reverseHoloAvg30": 0.29
-            }
         }
     },
     {
@@ -8419,47 +5682,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/67.png",
             "large": "https://images.pokemontcg.io/swsh7/67_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-67",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 1.8,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.15,
-                    "high": 1.87,
-                    "market": 0.09,
-                    "directLow": 0.09
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-67",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.13,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.07,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.09,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -8536,47 +5758,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/69.png",
             "large": "https://images.pokemontcg.io/swsh7/69_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-69",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.04,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.2,
-                    "market": 0.11,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-69",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.11,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.09,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.05,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.17,
-                "reverseHoloAvg7": 0.12,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -8664,47 +5845,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/68.png",
             "large": "https://images.pokemontcg.io/swsh7/68_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-68",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.14,
-                    "high": 1.84,
-                    "market": 0.1,
-                    "directLow": null
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.01
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-68",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.14,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.09,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.15,
-                "reverseHoloAvg30": 0.15
-            }
         }
     },
     {
@@ -8790,40 +5930,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/75.png",
             "large": "https://images.pokemontcg.io/swsh7/75_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-75",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.5,
-                    "mid": 3.65,
-                    "high": 1000,
-                    "market": 3.14,
-                    "directLow": 3.65
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-75",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 4.73,
-                "lowPrice": 2.99,
-                "trendPrice": 4.55,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3,
-                "avg1": 6,
-                "avg7": 4.51,
-                "avg30": 4.7,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -8911,47 +6017,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/76.png",
             "large": "https://images.pokemontcg.io/swsh7/76_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-76",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.05,
-                    "directLow": 0.04
-                },
-                "reverseHolofoil": {
-                    "low": 0.05,
-                    "mid": 0.23,
-                    "high": 1.84,
-                    "market": 0.18,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-76",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.05,
-                "lowPrice": 0.01,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.18,
-                "reverseHoloLow": 0.04,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.06,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.14,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.18
-            }
         }
     },
     {
@@ -9040,40 +6105,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/65.png",
             "large": "https://images.pokemontcg.io/swsh7/65_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-65",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 4,
-                    "mid": 7.51,
-                    "high": 900,
-                    "market": 6.79,
-                    "directLow": 6.97
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-65",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 7.37,
-                "lowPrice": 6,
-                "trendPrice": 7.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 6,
-                "avg1": 7.65,
-                "avg7": 7.3,
-                "avg30": 7.35,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -9152,47 +6183,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/77.png",
             "large": "https://images.pokemontcg.io/swsh7/77_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-77",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 5,
-                    "market": 0.05,
-                    "directLow": 0.07
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.09,
-                    "directLow": 0.09
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-77",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.08,
-                "lowPrice": 0.02,
-                "trendPrice": 0.12,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.13,
-                "avg7": 0.1,
-                "avg30": 0.07,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -9278,47 +6268,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/80.png",
             "large": "https://images.pokemontcg.io/swsh7/80_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-80",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.09,
-                    "mid": 0.25,
-                    "high": 4.99,
-                    "market": 0.2,
-                    "directLow": null
-                },
-                "reverseHolofoil": {
-                    "low": 0.07,
-                    "mid": 0.25,
-                    "high": 16.13,
-                    "market": 0.21,
-                    "directLow": 0.23
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-80",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.23,
-                "lowPrice": 0.04,
-                "trendPrice": 0.19,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.37,
-                "reverseHoloLow": 0.1,
-                "reverseHoloTrend": 0.44,
-                "lowPriceExPlus": 0.04,
-                "avg1": 0.5,
-                "avg7": 0.24,
-                "avg30": 0.26,
-                "reverseHoloAvg1": 0.23,
-                "reverseHoloAvg7": 0.34,
-                "reverseHoloAvg30": 0.35
-            }
         }
     },
     {
@@ -9385,47 +6334,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/79.png",
             "large": "https://images.pokemontcg.io/swsh7/79_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-79",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.15,
-                    "high": 1.99,
-                    "market": 0.11,
-                    "directLow": 0.1
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 1.28,
-                    "market": 0.04,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-79",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.17,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.05,
-                "avg7": 0.03,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.12,
-                "reverseHoloAvg7": 0.15,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -9494,47 +6402,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/78.png",
             "large": "https://images.pokemontcg.io/swsh7/78_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-78",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.04,
-                    "directLow": 0.04
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1,
-                    "market": 0.1,
-                    "directLow": 0.09
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-78",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.09,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.03,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.12,
-                "reverseHoloAvg7": 0.1,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -9615,47 +6482,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/81.png",
             "large": "https://images.pokemontcg.io/swsh7/81_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-81",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.17,
-                    "high": 15,
-                    "market": 0.11,
-                    "directLow": null
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 7.03,
-                    "market": 0.03,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-81",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.08,
-                "reverseHoloAvg7": 0.12,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -9742,40 +6568,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/83.png",
             "large": "https://images.pokemontcg.io/swsh7/83_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-83",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.39,
-                    "mid": 1,
-                    "high": 1000,
-                    "market": 0.72,
-                    "directLow": 0.74
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-83",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.22,
-                "lowPrice": 0.46,
-                "trendPrice": 1.22,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.46,
-                "avg1": 0.93,
-                "avg7": 1.22,
-                "avg30": 1.19,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -9850,47 +6642,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/82.png",
             "large": "https://images.pokemontcg.io/swsh7/82_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-82",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.14,
-                    "mid": 0.35,
-                    "high": 2.95,
-                    "market": 0.25,
-                    "directLow": 0.24
-                },
-                "holofoil": {
-                    "low": 0.06,
-                    "mid": 0.3,
-                    "high": 200,
-                    "market": 0.23,
-                    "directLow": 0.19
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-82",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.27,
-                "lowPrice": 0.02,
-                "trendPrice": 0.28,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.46,
-                "reverseHoloLow": 0.09,
-                "reverseHoloTrend": 0.45,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.41,
-                "avg7": 0.25,
-                "avg30": 0.3,
-                "reverseHoloAvg1": 0.3,
-                "reverseHoloAvg7": 0.61,
-                "reverseHoloAvg30": 0.48
-            }
         }
     },
     {
@@ -9978,47 +6729,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/85.png",
             "large": "https://images.pokemontcg.io/swsh7/85_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-85",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.99,
-                    "market": 0.1,
-                    "directLow": 0.07
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.07,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.01
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-85",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.11,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.08,
-                "reverseHoloAvg7": 0.13,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -10106,47 +6816,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/84.png",
             "large": "https://images.pokemontcg.io/swsh7/84_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-84",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.15,
-                    "high": 1.84,
-                    "market": 0.09,
-                    "directLow": 0.07
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.01
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-84",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.09,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.14,
-                "reverseHoloAvg7": 0.09,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -10231,47 +6900,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/86.png",
             "large": "https://images.pokemontcg.io/swsh7/86_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-86",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.01
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 15,
-                    "market": 0.09,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-86",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.09,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -10359,47 +6987,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/87.png",
             "large": "https://images.pokemontcg.io/swsh7/87_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-87",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.2,
-                    "market": 0.08,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 40,
-                    "market": 0.04,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-87",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.09,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.05,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.09,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.07,
-                "reverseHoloAvg7": 0.08,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -10483,40 +7070,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/95.png",
             "large": "https://images.pokemontcg.io/swsh7/95_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-95",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 5.07,
-                    "mid": 7.65,
-                    "high": 900,
-                    "market": 6.82,
-                    "directLow": 8.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-95",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 8.57,
-                "lowPrice": 5,
-                "trendPrice": 8.18,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 6,
-                "avg1": 8.65,
-                "avg7": 8.23,
-                "avg30": 8.45,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -10601,47 +7154,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/90.png",
             "large": "https://images.pokemontcg.io/swsh7/90_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-90",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.02,
-                    "mid": 0.2,
-                    "high": 1.35,
-                    "market": 0.11,
-                    "directLow": 0.09
-                },
-                "reverseHolofoil": {
-                    "low": 0.05,
-                    "mid": 0.25,
-                    "high": 1.2,
-                    "market": 0.22,
-                    "directLow": 0.11
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-90",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.08,
-                "lowPrice": 0.02,
-                "trendPrice": 0.09,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.32,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.43,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.05,
-                "avg7": 0.07,
-                "avg30": 0.06,
-                "reverseHoloAvg1": 0.43,
-                "reverseHoloAvg7": 0.46,
-                "reverseHoloAvg30": 0.3
-            }
         }
     },
     {
@@ -10715,47 +7227,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/96.png",
             "large": "https://images.pokemontcg.io/swsh7/96_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-96",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.04,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.16,
-                    "high": 1.2,
-                    "market": 0.09,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-96",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.07,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.04,
-                "avg7": 0.03,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.05,
-                "reverseHoloAvg7": 0.08,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -10839,47 +7310,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/97.png",
             "large": "https://images.pokemontcg.io/swsh7/97_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-97",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.05,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.12,
-                    "directLow": 0.07
-                },
-                "normal": {
-                    "low": 0.02,
-                    "mid": 0.2,
-                    "high": 5,
-                    "market": 0.07,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-97",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.07,
-                "lowPrice": 0.02,
-                "trendPrice": 0.07,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.15,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.06,
-                "reverseHoloAvg1": 0.08,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -10964,47 +7394,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/88.png",
             "large": "https://images.pokemontcg.io/swsh7/88_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-88",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.17,
-                    "directLow": 0.11
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 5,
-                    "market": 0.09,
-                    "directLow": 0.09
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-88",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.08,
-                "lowPrice": 0.02,
-                "trendPrice": 0.1,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.19,
-                "reverseHoloLow": 0.04,
-                "reverseHoloTrend": 0.18,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.07,
-                "avg30": 0.06,
-                "reverseHoloAvg1": 0.05,
-                "reverseHoloAvg7": 0.21,
-                "reverseHoloAvg30": 0.17
-            }
         }
     },
     {
@@ -11084,47 +7473,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/93.png",
             "large": "https://images.pokemontcg.io/swsh7/93_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-93",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.25,
-                    "mid": 0.64,
-                    "high": 27,
-                    "market": 0.66,
-                    "directLow": 0.45
-                },
-                "holofoil": {
-                    "low": 0.05,
-                    "mid": 0.42,
-                    "high": 900,
-                    "market": 0.37,
-                    "directLow": 0.37
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-93",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.56,
-                "lowPrice": 0.02,
-                "trendPrice": 0.72,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.84,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.84,
-                "lowPriceExPlus": 0.02,
-                "avg1": 1.9,
-                "avg7": 0.98,
-                "avg30": 0.68,
-                "reverseHoloAvg1": 1.25,
-                "reverseHoloAvg7": 0.9,
-                "reverseHoloAvg30": 0.8
-            }
         }
     },
     {
@@ -11211,47 +7559,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/89.png",
             "large": "https://images.pokemontcg.io/swsh7/89_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-89",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 5,
-                    "market": 0.09,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-89",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.15,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.25,
-                "reverseHoloAvg7": 0.1,
-                "reverseHoloAvg30": 0.11
-            }
         }
     },
     {
@@ -11335,40 +7642,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/91.png",
             "large": "https://images.pokemontcg.io/swsh7/91_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-91",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.34,
-                    "mid": 1,
-                    "high": 1000,
-                    "market": 0.77,
-                    "directLow": 1.24
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-91",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.32,
-                "lowPrice": 0.65,
-                "trendPrice": 1.4,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.65,
-                "avg1": 3,
-                "avg7": 1.38,
-                "avg30": 1.29,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -11454,40 +7727,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/94.png",
             "large": "https://images.pokemontcg.io/swsh7/94_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-94",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1,
-                    "mid": 2,
-                    "high": 1000,
-                    "market": 1.8,
-                    "directLow": 1.19
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-94",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 2.62,
-                "lowPrice": 1.2,
-                "trendPrice": 2.81,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 1.2,
-                "avg1": 3.54,
-                "avg7": 2.66,
-                "avg30": 2.62,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -11560,47 +7799,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/98.png",
             "large": "https://images.pokemontcg.io/swsh7/98_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-98",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.04,
-                    "mid": 0.15,
-                    "high": 2,
-                    "market": 0.08,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.07,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-98",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.11,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.11,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.04,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.11
-            }
         }
     },
     {
@@ -11684,40 +7882,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/92.png",
             "large": "https://images.pokemontcg.io/swsh7/92_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-92",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1.24,
-                    "mid": 2.25,
-                    "high": 9.92,
-                    "market": 2.21,
-                    "directLow": 2.92
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-92",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 2.78,
-                "lowPrice": 1.2,
-                "trendPrice": 2.77,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 1.7,
-                "avg1": 1.98,
-                "avg7": 2.89,
-                "avg30": 2.72,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -11804,40 +7968,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/100.png",
             "large": "https://images.pokemontcg.io/swsh7/100_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-100",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.41,
-                    "mid": 1,
-                    "high": 5,
-                    "market": 0.73,
-                    "directLow": 0.8
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-100",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1,
-                "lowPrice": 0.39,
-                "trendPrice": 1.08,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.39,
-                "avg1": 1,
-                "avg7": 1.01,
-                "avg30": 1,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -11920,40 +8050,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/101.png",
             "large": "https://images.pokemontcg.io/swsh7/101_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-101",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1.02,
-                    "mid": 2,
-                    "high": 1000,
-                    "market": 1.5,
-                    "directLow": 1.5
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-101",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 2.1,
-                "lowPrice": 0.99,
-                "trendPrice": 2,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.99,
-                "avg1": 1.99,
-                "avg7": 1.99,
-                "avg30": 2.08,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -12037,47 +8133,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/99.png",
             "large": "https://images.pokemontcg.io/swsh7/99_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-99",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.18,
-                    "high": 1.83,
-                    "market": 0.1,
-                    "directLow": 0.08
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.05,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-99",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.04,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -12155,47 +8210,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/107.png",
             "large": "https://images.pokemontcg.io/swsh7/107_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-107",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.04,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.04,
-                    "mid": 0.16,
-                    "high": 1.2,
-                    "market": 0.1,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-107",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.06,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.08,
-                "reverseHoloAvg7": 0.16,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -12269,47 +8283,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/102.png",
             "large": "https://images.pokemontcg.io/swsh7/102_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-102",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.07,
-                    "mid": 0.21,
-                    "high": 1.52,
-                    "market": 0.16,
-                    "directLow": 0.1
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 1.81,
-                    "market": 0.04,
-                    "directLow": 0.04
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-102",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.05,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.28,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.25,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.04,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.3,
-                "reverseHoloAvg7": 0.23,
-                "reverseHoloAvg30": 0.24
-            }
         }
     },
     {
@@ -12380,47 +8353,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/108.png",
             "large": "https://images.pokemontcg.io/swsh7/108_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-108",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.05,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.04,
-                    "mid": 0.17,
-                    "high": 1.87,
-                    "market": 0.13,
-                    "directLow": 0.06
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-108",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.06,
-                "lowPrice": 0.02,
-                "trendPrice": 0.07,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.19,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.18,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.08,
-                "avg7": 0.05,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.16,
-                "reverseHoloAvg30": 0.16
-            }
         }
     },
     {
@@ -12494,47 +8426,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/104.png",
             "large": "https://images.pokemontcg.io/swsh7/104_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-104",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.85,
-                    "market": 0.09,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-104",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
-                "reverseHoloLow": 0.04,
-                "reverseHoloTrend": 0.17,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.06,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.22,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -12603,47 +8494,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/106.png",
             "large": "https://images.pokemontcg.io/swsh7/106_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-106",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.83,
-                    "market": 0.09,
-                    "directLow": 0.09
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.25,
-                    "high": 1.84,
-                    "market": 0.14,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-106",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.1,
-                "lowPrice": 0.02,
-                "trendPrice": 0.1,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.28,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.2,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.09,
-                "avg7": 0.12,
-                "avg30": 0.08,
-                "reverseHoloAvg1": 0.02,
-                "reverseHoloAvg7": 0.23,
-                "reverseHoloAvg30": 0.24
-            }
         }
     },
     {
@@ -12722,47 +8572,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/105.png",
             "large": "https://images.pokemontcg.io/swsh7/105_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-105",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.02,
-                    "mid": 0.2,
-                    "high": 1.8,
-                    "market": 0.07,
-                    "directLow": 0.08
-                },
-                "reverseHolofoil": {
-                    "low": 0.04,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.12,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-105",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.07,
-                "lowPrice": 0.02,
-                "trendPrice": 0.07,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.17,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.03,
-                "avg7": 0.04,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.28,
-                "reverseHoloAvg7": 0.15,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -12842,47 +8651,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/103.png",
             "large": "https://images.pokemontcg.io/swsh7/103_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-103",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.18,
-                    "mid": 0.45,
-                    "high": 4.36,
-                    "market": 0.35,
-                    "directLow": 0.5
-                },
-                "reverseHolofoil": {
-                    "low": 0.25,
-                    "mid": 0.49,
-                    "high": 2.95,
-                    "market": 0.43,
-                    "directLow": 0.39
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-103",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.66,
-                "lowPrice": 0.05,
-                "trendPrice": 0.56,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.75,
-                "reverseHoloLow": 0.1,
-                "reverseHoloTrend": 0.94,
-                "lowPriceExPlus": 0.05,
-                "avg1": 0.4,
-                "avg7": 0.63,
-                "avg30": 0.71,
-                "reverseHoloAvg1": 0.63,
-                "reverseHoloAvg7": 0.83,
-                "reverseHoloAvg30": 0.68
-            }
         }
     },
     {
@@ -12959,40 +8727,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/111.png",
             "large": "https://images.pokemontcg.io/swsh7/111_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-111",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.25,
-                    "mid": 4.99,
-                    "high": 39.99,
-                    "market": 3.02,
-                    "directLow": 4.36
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-111",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0,
-                "lowPrice": 0,
-                "trendPrice": 0,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0,
-                "avg1": 0,
-                "avg7": 0,
-                "avg30": 0,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -13072,47 +8806,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/115.png",
             "large": "https://images.pokemontcg.io/swsh7/115_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-115",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.1,
-                    "mid": 0.25,
-                    "high": 4,
-                    "market": 0.22,
-                    "directLow": null
-                },
-                "reverseHolofoil": {
-                    "low": 0.1,
-                    "mid": 0.34,
-                    "high": 2.95,
-                    "market": 0.31,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-115",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.22,
-                "lowPrice": 0.02,
-                "trendPrice": 0.26,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.31,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.4,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.15,
-                "avg7": 0.23,
-                "avg30": 0.23,
-                "reverseHoloAvg1": 1,
-                "reverseHoloAvg7": 0.29,
-                "reverseHoloAvg30": 0.35
-            }
         }
     },
     {
@@ -13189,47 +8882,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/113.png",
             "large": "https://images.pokemontcg.io/swsh7/113_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-113",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.04,
-                    "mid": 0.2,
-                    "high": 1.86,
-                    "market": 0.11,
-                    "directLow": 0.11
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-113",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.14,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.04,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.02,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -13303,47 +8955,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/109.png",
             "large": "https://images.pokemontcg.io/swsh7/109_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-109",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.19,
-                    "mid": 0.33,
-                    "high": 3,
-                    "market": 0.31,
-                    "directLow": null
-                },
-                "holofoil": {
-                    "low": 0.11,
-                    "mid": 0.31,
-                    "high": 4.99,
-                    "market": 0.27,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-109",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.35,
-                "lowPrice": 0.05,
-                "trendPrice": 0.31,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.42,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.42,
-                "lowPriceExPlus": 0.05,
-                "avg1": 0.5,
-                "avg7": 0.32,
-                "avg30": 0.33,
-                "reverseHoloAvg1": 0.35,
-                "reverseHoloAvg7": 0.37,
-                "reverseHoloAvg30": 0.42
-            }
         }
     },
     {
@@ -13423,47 +9034,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/112.png",
             "large": "https://images.pokemontcg.io/swsh7/112_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-112",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.12,
-                    "mid": 0.27,
-                    "high": 2.02,
-                    "market": 0.24,
-                    "directLow": 0.23
-                },
-                "holofoil": {
-                    "low": 0.05,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.2,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-112",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.51,
-                "lowPrice": 0.04,
-                "trendPrice": 0.13,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.38,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.39,
-                "lowPriceExPlus": 0.05,
-                "avg1": 0.2,
-                "avg7": 0.64,
-                "avg30": 0.49,
-                "reverseHoloAvg1": 0.6,
-                "reverseHoloAvg7": 0.33,
-                "reverseHoloAvg30": 0.34
-            }
         }
     },
     {
@@ -13545,47 +9115,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/114.png",
             "large": "https://images.pokemontcg.io/swsh7/114_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-114",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 1.29,
-                    "market": 0.04,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.15,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-114",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.14,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.11,
-                "reverseHoloAvg7": 0.16,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -13664,40 +9193,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/110.png",
             "large": "https://images.pokemontcg.io/swsh7/110_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-110",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.49,
-                    "mid": 1.39,
-                    "high": 25.73,
-                    "market": 1.1,
-                    "directLow": 1.09
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-110",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.57,
-                "lowPrice": 0.7,
-                "trendPrice": 1.6,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.9,
-                "avg1": 1.92,
-                "avg7": 1.62,
-                "avg30": 1.53,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -13764,47 +9259,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/116.png",
             "large": "https://images.pokemontcg.io/swsh7/116_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-116",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.14,
-                    "mid": 0.27,
-                    "high": 2,
-                    "market": 0.23,
-                    "directLow": 0.2
-                },
-                "holofoil": {
-                    "low": 0.09,
-                    "mid": 0.25,
-                    "high": 7.2,
-                    "market": 0.21,
-                    "directLow": 0.2
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-116",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.25,
-                "lowPrice": 0.03,
-                "trendPrice": 0.22,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.43,
-                "reverseHoloLow": 0.06,
-                "reverseHoloTrend": 0.36,
-                "lowPriceExPlus": 0.03,
-                "avg1": 0.27,
-                "avg7": 0.23,
-                "avg30": 0.24,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.31,
-                "reverseHoloAvg30": 0.41
-            }
         }
     },
     {
@@ -13879,47 +9333,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/119.png",
             "large": "https://images.pokemontcg.io/swsh7/119_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-119",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 7.1,
-                    "market": 0.1,
-                    "directLow": 0.09
-                },
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.18,
-                    "directLow": 0.12
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-119",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.12,
-                "lowPrice": 0.02,
-                "trendPrice": 0.15,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.15,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.3,
-                "avg7": 0.17,
-                "avg30": 0.1,
-                "reverseHoloAvg1": 0.16,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -13992,40 +9405,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/117.png",
             "large": "https://images.pokemontcg.io/swsh7/117_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-117",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.25,
-                    "mid": 1,
-                    "high": 1000,
-                    "market": 0.66,
-                    "directLow": 0.62
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-117",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.07,
-                "lowPrice": 0.1,
-                "trendPrice": 1.02,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.1,
-                "avg1": 1.16,
-                "avg7": 1.06,
-                "avg30": 1,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -14102,47 +9481,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/118.png",
             "large": "https://images.pokemontcg.io/swsh7/118_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-118",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.1,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.17,
-                    "directLow": 0.18
-                },
-                "reverseHolofoil": {
-                    "low": 0.1,
-                    "mid": 0.29,
-                    "high": 2,
-                    "market": 0.26,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-118",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.24,
-                "lowPrice": 0.03,
-                "trendPrice": 0.23,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.36,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.31,
-                "lowPriceExPlus": 0.03,
-                "avg1": 0.1,
-                "avg7": 0.32,
-                "avg30": 0.27,
-                "reverseHoloAvg1": 0.25,
-                "reverseHoloAvg7": 0.26,
-                "reverseHoloAvg30": 0.35
-            }
         }
     },
     {
@@ -14219,47 +9557,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/121.png",
             "large": "https://images.pokemontcg.io/swsh7/121_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-121",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.23,
-                    "high": 2.24,
-                    "market": 0.18,
-                    "directLow": 0.12
-                },
-                "normal": {
-                    "low": 0.03,
-                    "mid": 0.19,
-                    "high": 22.6,
-                    "market": 0.1,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-121",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.09,
-                "lowPrice": 0.02,
-                "trendPrice": 0.12,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.23,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.28,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.2,
-                "avg7": 0.09,
-                "avg30": 0.08,
-                "reverseHoloAvg1": 0.19,
-                "reverseHoloAvg7": 0.25,
-                "reverseHoloAvg30": 0.18
-            }
         }
     },
     {
@@ -14340,40 +9637,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/122.png",
             "large": "https://images.pokemontcg.io/swsh7/122_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-122",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.49,
-                    "mid": 1,
-                    "high": 1000,
-                    "market": 0.75,
-                    "directLow": 0.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-122",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 1.3,
-                "lowPrice": 0.44,
-                "trendPrice": 1.15,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 0.44,
-                "avg1": 1.18,
-                "avg7": 1.13,
-                "avg30": 1.23,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -14457,47 +9720,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/127.png",
             "large": "https://images.pokemontcg.io/swsh7/127_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-127",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.82,
-                    "market": 0.1,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-127",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.02,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.13,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.09,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.04,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.16,
-                "reverseHoloAvg7": 0.12,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -14587,47 +9809,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/125.png",
             "large": "https://images.pokemontcg.io/swsh7/125_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-125",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 5,
-                    "market": 0.05,
-                    "directLow": 0.04
-                },
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.23,
-                    "high": 5.16,
-                    "market": 0.19,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-125",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.06,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.3,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.28,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.08,
-                "avg7": 0.06,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.4,
-                "reverseHoloAvg7": 0.28,
-                "reverseHoloAvg30": 0.3
-            }
         }
     },
     {
@@ -14702,47 +9883,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/120.png",
             "large": "https://images.pokemontcg.io/swsh7/120_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-120",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.05,
-                    "mid": 0.25,
-                    "high": 1.5,
-                    "market": 0.14,
-                    "directLow": 0.14
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.35,
-                    "market": 0.09,
-                    "directLow": 0.08
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-120",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.1,
-                "lowPrice": 0.02,
-                "trendPrice": 0.14,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.22,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.2,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.03,
-                "avg7": 0.12,
-                "avg30": 0.08,
-                "reverseHoloAvg1": 0.08,
-                "reverseHoloAvg7": 0.19,
-                "reverseHoloAvg30": 0.23
-            }
         }
     },
     {
@@ -14816,47 +9956,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/126.png",
             "large": "https://images.pokemontcg.io/swsh7/126_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-126",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 1.79,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 2,
-                    "market": 0.08,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-126",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.09,
-                "reverseHoloAvg7": 0.16,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -14935,40 +10034,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/123.png",
             "large": "https://images.pokemontcg.io/swsh7/123_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-123",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1,
-                    "mid": 2.5,
-                    "high": 1000,
-                    "market": 1.79,
-                    "directLow": 1.85
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-123",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 3,
-                "lowPrice": 1,
-                "trendPrice": 2.65,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 1.9,
-                "avg1": 2.98,
-                "avg7": 2.65,
-                "avg30": 3,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -15046,47 +10111,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/124.png",
             "large": "https://images.pokemontcg.io/swsh7/124_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-124",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.1,
-                    "mid": 0.35,
-                    "high": 2.5,
-                    "market": 0.32,
-                    "directLow": 0.22
-                },
-                "holofoil": {
-                    "low": 0.04,
-                    "mid": 0.29,
-                    "high": 2.5,
-                    "market": 0.28,
-                    "directLow": 0.25
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-124",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.15,
-                "lowPrice": 0.02,
-                "trendPrice": 0.17,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.25,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.07,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.05,
-                "avg7": 0.15,
-                "avg30": 0.14,
-                "reverseHoloAvg1": 0.25,
-                "reverseHoloAvg7": 0.15,
-                "reverseHoloAvg30": 0.31
-            }
         }
     },
     {
@@ -15157,47 +10181,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/128.png",
             "large": "https://images.pokemontcg.io/swsh7/128_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-128",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 2,
-                    "market": 0.08,
-                    "directLow": null
-                },
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.25,
-                    "high": 2.02,
-                    "market": 0.21,
-                    "directLow": 0.18
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-128",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.07,
-                "lowPrice": 0.02,
-                "trendPrice": 0.07,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.25,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.22,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.05,
-                "avg7": 0.06,
-                "avg30": 0.07,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.28,
-                "reverseHoloAvg30": 0.29
-            }
         }
     },
     {
@@ -15279,47 +10262,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/135.png",
             "large": "https://images.pokemontcg.io/swsh7/135_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-135",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.08,
-                    "directLow": null
-                },
-                "reverseHolofoil": {
-                    "low": 0.05,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.12,
-                    "directLow": 0.09
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-135",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.08,
-                "lowPrice": 0.02,
-                "trendPrice": 0.08,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.16,
-                "reverseHoloLow": 0.04,
-                "reverseHoloTrend": 0.21,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.06,
-                "avg30": 0.07,
-                "reverseHoloAvg1": 0.3,
-                "reverseHoloAvg7": 0.2,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -15366,47 +10308,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/145.png",
             "large": "https://images.pokemontcg.io/swsh7/145_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-145",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 3,
-                    "market": 0.04,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.84,
-                    "market": 0.07,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-145",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.11,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.14,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -15494,47 +10395,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/138.png",
             "large": "https://images.pokemontcg.io/swsh7/138_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-138",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 7.02,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.04,
-                    "mid": 0.14,
-                    "high": 1.25,
-                    "market": 0.08,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-138",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.13,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.06,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.19,
-                "reverseHoloAvg7": 0.13,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -15579,47 +10439,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/149.png",
             "large": "https://images.pokemontcg.io/swsh7/149_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-149",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 4.99,
-                    "market": 0.04,
-                    "directLow": 0.04
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.98,
-                    "market": 0.13,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-149",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.06,
-                "lowPrice": 0.02,
-                "trendPrice": 0.07,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.07,
-                "avg7": 0.07,
-                "avg30": 0.06,
-                "reverseHoloAvg1": 0.02,
-                "reverseHoloAvg7": 0.12,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -15706,47 +10525,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/134.png",
             "large": "https://images.pokemontcg.io/swsh7/134_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-134",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 1.27,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.2,
-                    "market": 0.1,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-134",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.09,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.04,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -15825,47 +10603,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/136.png",
             "large": "https://images.pokemontcg.io/swsh7/136_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-136",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.07,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 3.24,
-                    "market": 0.06,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-136",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.16,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.02,
-                "avg30": 0.02,
-                "reverseHoloAvg1": 0.17,
-                "reverseHoloAvg7": 0.22,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -15945,47 +10682,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/139.png",
             "large": "https://images.pokemontcg.io/swsh7/139_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-139",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.18,
-                    "high": 1.36,
-                    "market": 0.11,
-                    "directLow": null
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 40,
-                    "market": 0.04,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-139",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.11,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.06,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.14,
-                "reverseHoloAvg7": 0.1,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -16061,47 +10757,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/129.png",
             "large": "https://images.pokemontcg.io/swsh7/129_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-129",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.02,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.36,
-                    "market": 0.11,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-129",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.05,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.03,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.04,
-                "reverseHoloAvg7": 0.09,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -16145,47 +10800,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/144.png",
             "large": "https://images.pokemontcg.io/swsh7/144_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-144",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.5,
-                    "market": 0.09,
-                    "directLow": 0.06
-                },
-                "reverseHolofoil": {
-                    "low": 0.08,
-                    "mid": 0.25,
-                    "high": 3.99,
-                    "market": 0.19,
-                    "directLow": 0.19
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-144",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.11,
-                "lowPrice": 0.02,
-                "trendPrice": 0.11,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.24,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.18,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.06,
-                "avg7": 0.09,
-                "avg30": 0.1,
-                "reverseHoloAvg1": 0.05,
-                "reverseHoloAvg7": 0.18,
-                "reverseHoloAvg30": 0.24
-            }
         }
     },
     {
@@ -16269,47 +10883,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/131.png",
             "large": "https://images.pokemontcg.io/swsh7/131_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-131",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 0.09,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.17,
-                    "directLow": null
-                },
-                "reverseHolofoil": {
-                    "low": 0.08,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.24,
-                    "directLow": 0.2
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-131",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.23,
-                "lowPrice": 0.04,
-                "trendPrice": 0.21,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.41,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.49,
-                "lowPriceExPlus": 0.04,
-                "avg1": 0.11,
-                "avg7": 0.23,
-                "avg30": 0.22,
-                "reverseHoloAvg1": 0.4,
-                "reverseHoloAvg7": 0.41,
-                "reverseHoloAvg30": 0.35
-            }
         }
     },
     {
@@ -16354,47 +10927,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/141.png",
             "large": "https://images.pokemontcg.io/swsh7/141_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-141",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.25,
-                    "market": 0.1,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 5,
-                    "market": 0.04,
-                    "directLow": 0.03
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-141",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.05,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.13,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.16,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -16439,47 +10971,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/146.png",
             "large": "https://images.pokemontcg.io/swsh7/146_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-146",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 1.45,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.18,
-                    "high": 1.49,
-                    "market": 0.11,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-146",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.01,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.14,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.07,
-                "avg7": 0.05,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.05,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.15
-            }
         }
     },
     {
@@ -16562,47 +11053,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/140.png",
             "large": "https://images.pokemontcg.io/swsh7/140_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-140",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.02,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.08,
-                    "directLow": 0.07
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.2,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-140",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.06,
-                "lowPrice": 0.02,
-                "trendPrice": 0.08,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.29,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.27,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.27,
-                "avg7": 0.06,
-                "avg30": 0.06,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.22,
-                "reverseHoloAvg30": 0.29
-            }
         }
     },
     {
@@ -16681,47 +11131,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/132.png",
             "large": "https://images.pokemontcg.io/swsh7/132_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-132",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.06,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.01
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.19,
-                    "high": 1.99,
-                    "market": 0.11,
-                    "directLow": 0.09
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-132",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.09,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.05,
-                "reverseHoloAvg7": 0.1,
-                "reverseHoloAvg30": 0.1
-            }
         }
     },
     {
@@ -16766,47 +11175,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/142.png",
             "large": "https://images.pokemontcg.io/swsh7/142_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-142",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.12,
-                    "high": 5,
-                    "market": 0.06,
-                    "directLow": 0.05
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.2,
-                    "high": 11,
-                    "market": 0.17,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-142",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.09,
-                "lowPrice": 0.01,
-                "trendPrice": 0.09,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.07,
-                "avg7": 0.08,
-                "avg30": 0.08,
-                "reverseHoloAvg1": 0.2,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.17
-            }
         }
     },
     {
@@ -16894,47 +11262,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/137.png",
             "large": "https://images.pokemontcg.io/swsh7/137_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-137",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.18,
-                    "high": 1.87,
-                    "market": 0.09,
-                    "directLow": 0.09
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.09,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-137",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.09,
-                "reverseHoloAvg30": 0.1
-            }
         }
     },
     {
@@ -16981,47 +11308,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/147.png",
             "large": "https://images.pokemontcg.io/swsh7/147_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-147",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 7.05,
-                    "market": 0.05,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 7.1,
-                    "market": 0.11,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-147",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.19,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.15,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.03,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.02,
-                "reverseHoloAvg7": 0.06,
-                "reverseHoloAvg30": 0.16
-            }
         }
     },
     {
@@ -17106,47 +11392,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/130.png",
             "large": "https://images.pokemontcg.io/swsh7/130_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-130",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.83,
-                    "market": 0.1,
-                    "directLow": 0.07
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.08,
-                    "high": 40,
-                    "market": 0.03,
-                    "directLow": 0.04
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-130",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.17,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.18,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.06,
-                "avg7": 0.03,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.2,
-                "reverseHoloAvg7": 0.19,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -17229,47 +11474,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/133.png",
             "large": "https://images.pokemontcg.io/swsh7/133_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-133",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.07,
-                    "high": 40,
-                    "market": 0.05,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.81,
-                    "market": 0.09,
-                    "directLow": 0.09
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-133",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.03,
-                "lowPrice": 0.01,
-                "trendPrice": 0.02,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.09,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.08,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.03,
-                "avg7": 0.02,
-                "avg30": 0.03,
-                "reverseHoloAvg1": 0.16,
-                "reverseHoloAvg7": 0.1,
-                "reverseHoloAvg30": 0.11
-            }
         }
     },
     {
@@ -17314,47 +11518,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/143.png",
             "large": "https://images.pokemontcg.io/swsh7/143_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-143",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 2,
-                    "market": 0.04,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.19,
-                    "high": 1.25,
-                    "market": 0.1,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-143",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
-                "reverseHoloLow": 0.03,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.03,
-                "avg7": 0.04,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.14,
-                "reverseHoloAvg30": 0.15
-            }
         }
     },
     {
@@ -17401,47 +11564,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/148.png",
             "large": "https://images.pokemontcg.io/swsh7/148_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-148",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 1.84,
-                    "market": 0.13,
-                    "directLow": null
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 7.56,
-                    "market": 0.08,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-148",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.07,
-                "lowPrice": 0.02,
-                "trendPrice": 0.09,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.15,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.13,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.04,
-                "avg7": 0.11,
-                "avg30": 0.07,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.13,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -17488,47 +11610,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/155.png",
             "large": "https://images.pokemontcg.io/swsh7/155_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-155",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.16,
-                    "high": 1.26,
-                    "market": 0.11,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 1.99,
-                    "market": 0.03,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-155",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.04,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.08,
-                "reverseHoloAvg7": 0.12,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -17576,47 +11657,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/153.png",
             "large": "https://images.pokemontcg.io/swsh7/153_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-153",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.26,
-                    "market": 0.06,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.09,
-                    "high": 2,
-                    "market": 0.03,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-153",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.05,
-                "lowPrice": 0.02,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.08,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.05,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.19,
-                "reverseHoloAvg7": 0.1,
-                "reverseHoloAvg30": 0.11
-            }
         }
     },
     {
@@ -17661,47 +11701,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/150.png",
             "large": "https://images.pokemontcg.io/swsh7/150_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-150",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.2,
-                    "high": 1.87,
-                    "market": 0.16,
-                    "directLow": 0.1
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.11,
-                    "high": 7.07,
-                    "market": 0.09,
-                    "directLow": 0.06
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-150",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.09,
-                "lowPrice": 0.02,
-                "trendPrice": 0.08,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.13,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.11,
-                "avg7": 0.1,
-                "avg30": 0.08,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.15,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -17746,47 +11745,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/154.png",
             "large": "https://images.pokemontcg.io/swsh7/154_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-154",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.08,
-                    "mid": 0.23,
-                    "high": 1.89,
-                    "market": 0.18,
-                    "directLow": 0.13
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 5,
-                    "market": 0.04,
-                    "directLow": 0.04
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-154",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.08,
-                "lowPrice": 0.01,
-                "trendPrice": 0.07,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.19,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.19,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.06,
-                "avg7": 0.08,
-                "avg30": 0.09,
-                "reverseHoloAvg1": 0.08,
-                "reverseHoloAvg7": 0.28,
-                "reverseHoloAvg30": 0.18
-            }
         }
     },
     {
@@ -17831,47 +11789,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/152.png",
             "large": "https://images.pokemontcg.io/swsh7/152_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-152",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.09,
-                    "directLow": null
-                },
-                "reverseHolofoil": {
-                    "low": 0.08,
-                    "mid": 0.29,
-                    "high": 10.39,
-                    "market": 0.25,
-                    "directLow": 0.25
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-152",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.15,
-                "lowPrice": 0.02,
-                "trendPrice": 0.12,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.27,
-                "reverseHoloLow": 0.05,
-                "reverseHoloTrend": 0.28,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.19,
-                "avg7": 0.11,
-                "avg30": 0.14,
-                "reverseHoloAvg1": 0.26,
-                "reverseHoloAvg7": 0.22,
-                "reverseHoloAvg30": 0.28
-            }
         }
     },
     {
@@ -17918,47 +11835,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/151.png",
             "large": "https://images.pokemontcg.io/swsh7/151_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-151",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.03,
-                    "mid": 0.16,
-                    "high": 1.87,
-                    "market": 0.11,
-                    "directLow": null
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 1.29,
-                    "market": 0.02,
-                    "directLow": 0.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-151",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.12,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.09,
-                "avg7": 0.04,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.13,
-                "reverseHoloAvg30": 0.12
-            }
         }
     },
     {
@@ -18005,47 +11881,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/160.png",
             "large": "https://images.pokemontcg.io/swsh7/160_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-160",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 1.29,
-                    "market": 0.04,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.18,
-                    "high": 2,
-                    "market": 0.11,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-160",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.16,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.06,
-                "avg7": 0.04,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.2,
-                "reverseHoloAvg7": 0.15,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -18093,47 +11928,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/158.png",
             "large": "https://images.pokemontcg.io/swsh7/158_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-158",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 4.07,
-                    "market": 0.11,
-                    "directLow": 0.05
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 5,
-                    "market": 0.08,
-                    "directLow": 0.03
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-158",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.05,
-                "lowPrice": 0.01,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.18,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.05,
-                "avg7": 0.04,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.5,
-                "reverseHoloAvg7": 0.19,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -18177,47 +11971,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/161.png",
             "large": "https://images.pokemontcg.io/swsh7/161_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-161",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 2,
-                    "market": 0.1,
-                    "directLow": 0.06
-                },
-                "reverseHolofoil": {
-                    "low": 0.06,
-                    "mid": 0.25,
-                    "high": 2,
-                    "market": 0.2,
-                    "directLow": 0.15
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-161",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.12,
-                "lowPrice": 0.01,
-                "trendPrice": 0.1,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.2,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.19,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.2,
-                "avg7": 0.09,
-                "avg30": 0.11,
-                "reverseHoloAvg1": 0.2,
-                "reverseHoloAvg7": 0.23,
-                "reverseHoloAvg30": 0.24
-            }
         }
     },
     {
@@ -18264,47 +12017,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/156.png",
             "large": "https://images.pokemontcg.io/swsh7/156_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-156",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 2,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 1.2,
-                    "market": 0.12,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-156",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.01,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.1,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.09,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.06,
-                "avg7": 0.04,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.06,
-                "reverseHoloAvg7": 0.09,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -18349,47 +12061,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/162.png",
             "large": "https://images.pokemontcg.io/swsh7/162_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-162",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 7.04,
-                    "market": 0.04,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.16,
-                    "high": 1.5,
-                    "market": 0.14,
-                    "directLow": null
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-162",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.08,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.07,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.02,
-                "avg7": 0.04,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.04,
-                "reverseHoloAvg7": 0.08,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -18436,47 +12107,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/159.png",
             "large": "https://images.pokemontcg.io/swsh7/159_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-159",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 1.3,
-                    "market": 0.03,
-                    "directLow": 0.02
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.15,
-                    "high": 2,
-                    "market": 0.13,
-                    "directLow": 0.07
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-159",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.01,
-                "trendPrice": 0.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.14,
-                "lowPriceExPlus": 0.01,
-                "avg1": 0.05,
-                "avg7": 0.03,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.3,
-                "reverseHoloAvg7": 0.12,
-                "reverseHoloAvg30": 0.14
-            }
         }
     },
     {
@@ -18520,47 +12150,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/157.png",
             "large": "https://images.pokemontcg.io/swsh7/157_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-157",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 5,
-                    "market": 0.03,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 2,
-                    "market": 0.1,
-                    "directLow": 0.08
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-157",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.06,
-                "lowPrice": 0.02,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.09,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.1,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.07,
-                "avg7": 0.03,
-                "avg30": 0.06,
-                "reverseHoloAvg1": 0.15,
-                "reverseHoloAvg7": 0.1,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -18642,40 +12231,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/166.png",
             "large": "https://images.pokemontcg.io/swsh7/166_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-166",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 10.19,
-                    "mid": 13.73,
-                    "high": 24.85,
-                    "market": 14.13,
-                    "directLow": 18.48
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-166",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 16.6,
-                "lowPrice": 7,
-                "trendPrice": 15.71,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 13,
-                "avg1": 15,
-                "avg7": 14.87,
-                "avg30": 16.75,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -18761,40 +12316,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/168.png",
             "large": "https://images.pokemontcg.io/swsh7/168_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-168",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1.99,
-                    "mid": 3,
-                    "high": 15,
-                    "market": 2.86,
-                    "directLow": 3.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-168",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 5.47,
-                "lowPrice": 0.49,
-                "trendPrice": 5.03,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 4.48,
-                "avg1": 4.95,
-                "avg7": 5.24,
-                "avg30": 5.71,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -18839,47 +12360,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/164.png",
             "large": "https://images.pokemontcg.io/swsh7/164_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-164",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.12,
-                    "high": 5.49,
-                    "market": 0.1,
-                    "directLow": 0.05
-                },
-                "reverseHolofoil": {
-                    "low": 0.01,
-                    "mid": 0.2,
-                    "high": 1.44,
-                    "market": 0.1,
-                    "directLow": 0.1
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-164",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.09,
-                "lowPrice": 0.02,
-                "trendPrice": 0.11,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.16,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.15,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.15,
-                "avg7": 0.1,
-                "avg30": 0.1,
-                "reverseHoloAvg1": 0.14,
-                "reverseHoloAvg7": 0.17,
-                "reverseHoloAvg30": 0.15
-            }
         }
     },
     {
@@ -18924,47 +12404,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/163.png",
             "large": "https://images.pokemontcg.io/swsh7/163_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-163",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 1.31,
-                    "market": 0.05,
-                    "directLow": 0.03
-                },
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.15,
-                    "high": 1.84,
-                    "market": 0.12,
-                    "directLow": 0.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-163",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.06,
-                "lowPrice": 0.02,
-                "trendPrice": 0.07,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.12,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.12,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.06,
-                "avg7": 0.04,
-                "avg30": 0.05,
-                "reverseHoloAvg1": 0.14,
-                "reverseHoloAvg7": 0.16,
-                "reverseHoloAvg30": 0.13
-            }
         }
     },
     {
@@ -19046,40 +12485,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/167.png",
             "large": "https://images.pokemontcg.io/swsh7/167_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-167",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 54.9,
-                    "mid": 69.51,
-                    "high": 199.99,
-                    "market": 65.73,
-                    "directLow": 60
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-167",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 83.58,
-                "lowPrice": 34.9,
-                "trendPrice": 94.29,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 49.9,
-                "avg1": 67.5,
-                "avg7": 72.09,
-                "avg30": 80.69,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -19122,47 +12527,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/165.png",
             "large": "https://images.pokemontcg.io/swsh7/165_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-165",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "reverseHolofoil": {
-                    "low": 0.02,
-                    "mid": 0.18,
-                    "high": 5,
-                    "market": 0.1,
-                    "directLow": 0.09
-                },
-                "normal": {
-                    "low": 0.01,
-                    "mid": 0.1,
-                    "high": 2,
-                    "market": 0.05,
-                    "directLow": 0.03
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-165",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 0.04,
-                "lowPrice": 0.02,
-                "trendPrice": 0.05,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0.14,
-                "reverseHoloLow": 0.02,
-                "reverseHoloTrend": 0.07,
-                "lowPriceExPlus": 0.02,
-                "avg1": 0.03,
-                "avg7": 0.05,
-                "avg30": 0.04,
-                "reverseHoloAvg1": 0.1,
-                "reverseHoloAvg7": 0.11,
-                "reverseHoloAvg30": 0.16
-            }
         }
     },
     {
@@ -19248,40 +12612,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/169.png",
             "large": "https://images.pokemontcg.io/swsh7/169_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-169",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 9.75,
-                    "mid": 12.1,
-                    "high": 27.45,
-                    "market": 11.81,
-                    "directLow": 13.5
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-169",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 18.5,
-                "lowPrice": 10,
-                "trendPrice": 16.45,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 11.7,
-                "avg1": 13.49,
-                "avg7": 17.32,
-                "avg30": 17.96,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -19366,40 +12696,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/174.png",
             "large": "https://images.pokemontcg.io/swsh7/174_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-174",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 9,
-                    "mid": 12,
-                    "high": 1000,
-                    "market": 11.98,
-                    "directLow": 10.7
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-174",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 17.78,
-                "lowPrice": 14.95,
-                "trendPrice": 17.23,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 14.95,
-                "avg1": 18.95,
-                "avg7": 15.52,
-                "avg30": 17.06,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -19488,40 +12784,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/171.png",
             "large": "https://images.pokemontcg.io/swsh7/171_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-171",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 5.89,
-                    "mid": 7.74,
-                    "high": 19.95,
-                    "market": 7.58,
-                    "directLow": 8.09
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-171",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 14.14,
-                "lowPrice": 9,
-                "trendPrice": 14,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 9.99,
-                "avg1": 12,
-                "avg7": 13.55,
-                "avg30": 14.01,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -19606,40 +12868,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/175.png",
             "large": "https://images.pokemontcg.io/swsh7/175_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-175",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 62.24,
-                    "mid": 79.99,
-                    "high": 200,
-                    "market": 62.68,
-                    "directLow": 79.95
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-175",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 89.46,
-                "lowPrice": 49.99,
-                "trendPrice": 82.53,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 69.9,
-                "avg1": 83,
-                "avg7": 93.46,
-                "avg30": 95.8,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -19724,40 +12952,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/170.png",
             "large": "https://images.pokemontcg.io/swsh7/170_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-170",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.9,
-                    "mid": 4.15,
-                    "high": 11,
-                    "market": 4.15,
-                    "directLow": 4.23
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-170",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 7.87,
-                "lowPrice": 3.4,
-                "trendPrice": 9.55,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3.4,
-                "avg1": 7.9,
-                "avg7": 8.2,
-                "avg30": 7.12,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -19843,40 +13037,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/172.png",
             "large": "https://images.pokemontcg.io/swsh7/172_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-172",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 9.77,
-                    "mid": 13.94,
-                    "high": 20,
-                    "market": 12.62,
-                    "directLow": 11.27
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-172",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 19.81,
-                "lowPrice": 13,
-                "trendPrice": 19.3,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 13,
-                "avg1": 17.99,
-                "avg7": 19.11,
-                "avg30": 20.23,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -19958,40 +13118,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/173.png",
             "large": "https://images.pokemontcg.io/swsh7/173_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-173",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 5.98,
-                    "mid": 7.64,
-                    "high": 30,
-                    "market": 7.2,
-                    "directLow": 7.76
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-173",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 12.63,
-                "lowPrice": 9.79,
-                "trendPrice": 12.68,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 9.79,
-                "avg1": 17.47,
-                "avg7": 13.41,
-                "avg30": 12.46,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -20079,40 +13205,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/176.png",
             "large": "https://images.pokemontcg.io/swsh7/176_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-176",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1.2,
-                    "mid": 2.23,
-                    "high": 1000,
-                    "market": 2.13,
-                    "directLow": 2.19
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-176",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 5.37,
-                "lowPrice": 2,
-                "trendPrice": 5.77,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3.85,
-                "avg1": 4.98,
-                "avg7": 5.43,
-                "avg30": 5.1,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -20202,40 +13294,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/180.png",
             "large": "https://images.pokemontcg.io/swsh7/180_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-180",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 67.99,
-                    "mid": 80,
-                    "high": 109.99,
-                    "market": 74.23,
-                    "directLow": 64.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-180",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 86.91,
-                "lowPrice": 57.99,
-                "trendPrice": 86.96,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 65,
-                "avg1": 31.95,
-                "avg7": 86.7,
-                "avg30": 85.53,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -20315,40 +13373,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/177.png",
             "large": "https://images.pokemontcg.io/swsh7/177_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-177",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 9.75,
-                    "mid": 12.07,
-                    "high": 22.79,
-                    "market": 10.97,
-                    "directLow": 10.96
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-177",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 16.79,
-                "lowPrice": 13,
-                "trendPrice": 15.46,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 13,
-                "avg1": 16.45,
-                "avg7": 16.48,
-                "avg30": 17.32,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -20438,40 +13462,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/179.png",
             "large": "https://images.pokemontcg.io/swsh7/179_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-179",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 7.6,
-                    "mid": 12,
-                    "high": 25,
-                    "market": 11.85,
-                    "directLow": 12.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-179",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 18.8,
-                "lowPrice": 5.9,
-                "trendPrice": 17.37,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 11.95,
-                "avg1": 15.99,
-                "avg7": 17.08,
-                "avg30": 18.3,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -20557,40 +13547,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/178.png",
             "large": "https://images.pokemontcg.io/swsh7/178_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-178",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.09,
-                    "mid": 3.21,
-                    "high": 10,
-                    "market": 2.92,
-                    "directLow": 3.02
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-178",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 6.15,
-                "lowPrice": 2.5,
-                "trendPrice": 6.2,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3,
-                "avg1": 3.5,
-                "avg7": 5.85,
-                "avg30": 5.66,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -20686,40 +13642,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/182.png",
             "large": "https://images.pokemontcg.io/swsh7/182_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-182",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 16,
-                    "mid": 20.53,
-                    "high": 35,
-                    "market": 18.69,
-                    "directLow": 25.41
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-182",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 29.52,
-                "lowPrice": 17,
-                "trendPrice": 30.59,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 19.89,
-                "avg1": 40,
-                "avg7": 32.65,
-                "avg30": 27.75,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -20815,40 +13737,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/181.png",
             "large": "https://images.pokemontcg.io/swsh7/181_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-181",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.25,
-                    "mid": 3.5,
-                    "high": 9.95,
-                    "market": 3.39,
-                    "directLow": 2.49
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-181",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 6.43,
-                "lowPrice": 3.7,
-                "trendPrice": 5.75,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3.7,
-                "avg1": 6.03,
-                "avg7": 5.99,
-                "avg30": 6.45,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -20935,40 +13823,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/186.png",
             "large": "https://images.pokemontcg.io/swsh7/186_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-186",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 12.99,
-                    "mid": 15.79,
-                    "high": 29.95,
-                    "market": 14.99,
-                    "directLow": 17.98
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-186",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 18.56,
-                "lowPrice": 5.99,
-                "trendPrice": 18.27,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 13.5,
-                "avg1": 18.73,
-                "avg7": 19.39,
-                "avg30": 18.5,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -21050,40 +13904,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/184.png",
             "large": "https://images.pokemontcg.io/swsh7/184_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-184",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 60,
-                    "mid": 73,
-                    "high": 99.99,
-                    "market": 63.95,
-                    "directLow": 73.49
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-184",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 82.04,
-                "lowPrice": 40,
-                "trendPrice": 75.7,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 59.95,
-                "avg1": 65,
-                "avg7": 83.49,
-                "avg30": 84.18,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -21165,40 +13985,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/183.png",
             "large": "https://images.pokemontcg.io/swsh7/183_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-183",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 10,
-                    "mid": 14.45,
-                    "high": 1000,
-                    "market": 13.52,
-                    "directLow": 14.5
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-183",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 18.82,
-                "lowPrice": 7,
-                "trendPrice": 18.95,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 14,
-                "avg1": 18,
-                "avg7": 19.68,
-                "avg30": 17.95,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -21285,40 +14071,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/185.png",
             "large": "https://images.pokemontcg.io/swsh7/185_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-185",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1.76,
-                    "mid": 2.99,
-                    "high": 9.95,
-                    "market": 2.64,
-                    "directLow": 3.49
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-185",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 6.05,
-                "lowPrice": 3,
-                "trendPrice": 5.76,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3,
-                "avg1": 5.95,
-                "avg7": 6.52,
-                "avg30": 5.97,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -21402,40 +14154,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/187.png",
             "large": "https://images.pokemontcg.io/swsh7/187_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-187",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1.99,
-                    "mid": 3.64,
-                    "high": 20,
-                    "market": 3.51,
-                    "directLow": 2.75
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-187",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 5.97,
-                "lowPrice": 4.79,
-                "trendPrice": 5.52,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 4.79,
-                "avg1": 5.24,
-                "avg7": 5.36,
-                "avg30": 6.11,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -21521,40 +14239,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/188.png",
             "large": "https://images.pokemontcg.io/swsh7/188_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-188",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 16.99,
-                    "mid": 21.45,
-                    "high": 29.99,
-                    "market": 20.67,
-                    "directLow": 20.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-188",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 30.54,
-                "lowPrice": 17,
-                "trendPrice": 29.95,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 19.9,
-                "avg1": 24.38,
-                "avg7": 27.63,
-                "avg30": 28.34,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -21633,40 +14317,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/194.png",
             "large": "https://images.pokemontcg.io/swsh7/194_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-194",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 89,
-                    "mid": 101.96,
-                    "high": 199.95,
-                    "market": 94.27,
-                    "directLow": 106.84
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-194",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 110.64,
-                "lowPrice": 45,
-                "trendPrice": 112.9,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 84.95,
-                "avg1": 156,
-                "avg7": 112.65,
-                "avg30": 103.98,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -21752,40 +14402,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/189.png",
             "large": "https://images.pokemontcg.io/swsh7/189_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-189",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 88,
-                    "mid": 99.99,
-                    "high": 900,
-                    "market": 93.89,
-                    "directLow": 96.6
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-189",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 148.21,
-                "lowPrice": 60,
-                "trendPrice": 138.54,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 104.99,
-                "avg1": 106.5,
-                "avg7": 130.12,
-                "avg30": 140.88,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -21866,40 +14482,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/191.png",
             "large": "https://images.pokemontcg.io/swsh7/191_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-191",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 11.32,
-                    "mid": 14.48,
-                    "high": 25.8,
-                    "market": 14.15,
-                    "directLow": 14.48
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-191",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 17.72,
-                "lowPrice": 8.99,
-                "trendPrice": 21.07,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 11.5,
-                "avg1": 35,
-                "avg7": 19.78,
-                "avg30": 17.02,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -21978,40 +14560,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/193.png",
             "large": "https://images.pokemontcg.io/swsh7/193_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-193",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 11,
-                    "mid": 14.5,
-                    "high": 49.95,
-                    "market": 12.71,
-                    "directLow": 11.66
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-193",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 20.77,
-                "lowPrice": 15,
-                "trendPrice": 22.75,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 16,
-                "avg1": 19.4,
-                "avg7": 22.62,
-                "avg30": 22.64,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -22098,40 +14646,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/190.png",
             "large": "https://images.pokemontcg.io/swsh7/190_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-190",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1.7,
-                    "mid": 3,
-                    "high": 15,
-                    "market": 2.6,
-                    "directLow": 3.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-190",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 5.82,
-                "lowPrice": 3,
-                "trendPrice": 5.7,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3.49,
-                "avg1": 5.95,
-                "avg7": 5.12,
-                "avg30": 5.38,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -22212,40 +14726,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/192.png",
             "large": "https://images.pokemontcg.io/swsh7/192_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-192",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 88,
-                    "mid": 101.5,
-                    "high": 500,
-                    "market": 98.18,
-                    "directLow": 139.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-192",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 124.39,
-                "lowPrice": 70,
-                "trendPrice": 121.81,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 80,
-                "avg1": 100,
-                "avg7": 132.17,
-                "avg30": 117.98,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -22318,40 +14798,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/196.png",
             "large": "https://images.pokemontcg.io/swsh7/196_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-196",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 30,
-                    "mid": 38.28,
-                    "high": 79.99,
-                    "market": 35.61,
-                    "directLow": 41.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-196",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 45.61,
-                "lowPrice": 29.99,
-                "trendPrice": 46.81,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 29.99,
-                "avg1": 39.99,
-                "avg7": 44.91,
-                "avg30": 43.4,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -22424,40 +14870,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/195.png",
             "large": "https://images.pokemontcg.io/swsh7/195_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-195",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.49,
-                    "mid": 3.96,
-                    "high": 300,
-                    "market": 3.99,
-                    "directLow": 5.87
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-195",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 6.99,
-                "lowPrice": 4.9,
-                "trendPrice": 6.54,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 4.9,
-                "avg1": 5.48,
-                "avg7": 6.17,
-                "avg30": 6.95,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -22502,40 +14914,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/201.png",
             "large": "https://images.pokemontcg.io/swsh7/201_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-201",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1.49,
-                    "mid": 2.8,
-                    "high": 10.99,
-                    "market": 2.48,
-                    "directLow": 3.21
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-201",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 4.23,
-                "lowPrice": 1,
-                "trendPrice": 4.19,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 3,
-                "avg1": 3.49,
-                "avg7": 4.05,
-                "avg30": 4.15,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -22580,40 +14958,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/200.png",
             "large": "https://images.pokemontcg.io/swsh7/200_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-200",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1.4,
-                    "mid": 2.5,
-                    "high": 1000,
-                    "market": 2.25,
-                    "directLow": 1.5
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-200",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 3.27,
-                "lowPrice": 1.89,
-                "trendPrice": 3.27,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 2.4,
-                "avg1": 3.18,
-                "avg7": 3.18,
-                "avg30": 3.33,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -22694,40 +15038,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/197.png",
             "large": "https://images.pokemontcg.io/swsh7/197_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-197",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.4,
-                    "mid": 3.5,
-                    "high": 10,
-                    "market": 3.29,
-                    "directLow": 2.4
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-197",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 5.78,
-                "lowPrice": 4,
-                "trendPrice": 5.67,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 4.4,
-                "avg1": 6.95,
-                "avg7": 6.58,
-                "avg30": 6.21,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -22808,40 +15118,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/198.png",
             "large": "https://images.pokemontcg.io/swsh7/198_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-198",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 14.45,
-                    "mid": 19.99,
-                    "high": 49.95,
-                    "market": 16.85,
-                    "directLow": 17.05
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-198",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 24.36,
-                "lowPrice": 15,
-                "trendPrice": 24.44,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 19.8,
-                "avg1": 29.95,
-                "avg7": 24.16,
-                "avg30": 25.14,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -22886,40 +15162,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/199.png",
             "large": "https://images.pokemontcg.io/swsh7/199_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-199",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 6.01,
-                    "mid": 8.4,
-                    "high": 18.24,
-                    "market": 7.65,
-                    "directLow": 8.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-199",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 12.38,
-                "lowPrice": 7.99,
-                "trendPrice": 14.35,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 7.99,
-                "avg1": 10.3,
-                "avg7": 9.02,
-                "avg30": 11.57,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -23009,40 +15251,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/207.png",
             "large": "https://images.pokemontcg.io/swsh7/207_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-207",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 16.41,
-                    "mid": 22.75,
-                    "high": 47,
-                    "market": 20.62,
-                    "directLow": 20.68
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-207",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 23.31,
-                "lowPrice": 19.8,
-                "trendPrice": 20.63,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 19.9,
-                "avg1": 20,
-                "avg7": 21.87,
-                "avg30": 22.81,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -23087,40 +15295,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/202.png",
             "large": "https://images.pokemontcg.io/swsh7/202_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-202",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 5.99,
-                    "mid": 9.47,
-                    "high": 35.69,
-                    "market": 8.35,
-                    "directLow": 10.75
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-202",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 11.09,
-                "lowPrice": 8,
-                "trendPrice": 11.69,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 8,
-                "avg1": 14.5,
-                "avg7": 10.81,
-                "avg30": 11.07,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -23207,40 +15381,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/210.png",
             "large": "https://images.pokemontcg.io/swsh7/210_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-210",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 4.99,
-                    "mid": 7.5,
-                    "high": 20,
-                    "market": 6.72,
-                    "directLow": 5.93
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-210",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 9.64,
-                "lowPrice": 5.5,
-                "trendPrice": 10.2,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 5.5,
-                "avg1": 20,
-                "avg7": 9.84,
-                "avg30": 9.23,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -23285,40 +15425,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/203.png",
             "large": "https://images.pokemontcg.io/swsh7/203_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-203",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.99,
-                    "mid": 5.41,
-                    "high": 90,
-                    "market": 4.69,
-                    "directLow": 5.94
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-203",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 5.53,
-                "lowPrice": 2,
-                "trendPrice": 5.52,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 4.5,
-                "avg1": 5,
-                "avg7": 5.25,
-                "avg30": 5.57,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -23404,40 +15510,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/204.png",
             "large": "https://images.pokemontcg.io/swsh7/204_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-204",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 18.5,
-                    "mid": 20.88,
-                    "high": 34,
-                    "market": 20.86,
-                    "directLow": 20.69
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-204",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 33.19,
-                "lowPrice": 20,
-                "trendPrice": 29.46,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 20,
-                "avg1": 24.75,
-                "avg7": 27.25,
-                "avg30": 33.13,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -23523,40 +15595,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/205.png",
             "large": "https://images.pokemontcg.io/swsh7/205_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-205",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 139.09,
-                    "mid": 175,
-                    "high": 200,
-                    "market": 159.18,
-                    "directLow": 164.98
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-205",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 175.41,
-                "lowPrice": 55,
-                "trendPrice": 190.09,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 117.5,
-                "avg1": 200,
-                "avg7": 182,
-                "avg30": 172.77,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -23643,40 +15681,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/206.png",
             "large": "https://images.pokemontcg.io/swsh7/206_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-206",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 6.18,
-                    "mid": 7.8,
-                    "high": 20,
-                    "market": 7.04,
-                    "directLow": 7.49
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-206",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 8.64,
-                "lowPrice": 5.5,
-                "trendPrice": 8.11,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 7,
-                "avg1": 14,
-                "avg7": 9.11,
-                "avg30": 9.43,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -23759,40 +15763,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/208.png",
             "large": "https://images.pokemontcg.io/swsh7/208_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-208",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 16.99,
-                    "mid": 20.2,
-                    "high": 28.29,
-                    "market": 19.63,
-                    "directLow": 22.49
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-208",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 28.28,
-                "lowPrice": 18,
-                "trendPrice": 25.32,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 19.95,
-                "avg1": 21.49,
-                "avg7": 23.55,
-                "avg30": 28.81,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -23875,40 +15845,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/209.png",
             "large": "https://images.pokemontcg.io/swsh7/209_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-209",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 132,
-                    "mid": 160.95,
-                    "high": 200,
-                    "market": 138.79,
-                    "directLow": 157.45
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-209",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 186.17,
-                "lowPrice": 60,
-                "trendPrice": 176.59,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 139.99,
-                "avg1": 135,
-                "avg7": 194.5,
-                "avg30": 184.23,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -23992,40 +15928,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/213.png",
             "large": "https://images.pokemontcg.io/swsh7/213_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-213",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 6.6,
-                    "mid": 8.95,
-                    "high": 16.95,
-                    "market": 7.46,
-                    "directLow": 8.86
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-213",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 12.44,
-                "lowPrice": 7,
-                "trendPrice": 12.71,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 7,
-                "avg1": 20.97,
-                "avg7": 12.54,
-                "avg30": 11.82,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -24111,40 +16013,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/211.png",
             "large": "https://images.pokemontcg.io/swsh7/211_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-211",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 19.98,
-                    "mid": 25.72,
-                    "high": 39.89,
-                    "market": 23.73,
-                    "directLow": 27.97
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-211",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 27.34,
-                "lowPrice": 17,
-                "trendPrice": 24.08,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 20,
-                "avg1": 25,
-                "avg7": 24.91,
-                "avg30": 30.27,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -24230,40 +16098,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/212.png",
             "large": "https://images.pokemontcg.io/swsh7/212_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-212",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 129,
-                    "mid": 150,
-                    "high": 329,
-                    "market": 136.03,
-                    "directLow": 161.69
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-212",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 157.47,
-                "lowPrice": 65,
-                "trendPrice": 145.58,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 115,
-                "avg1": 130,
-                "avg7": 161.5,
-                "avg30": 159.88,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -24347,40 +16181,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/215.png",
             "large": "https://images.pokemontcg.io/swsh7/215_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-215",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 588,
-                    "mid": 699.97,
-                    "high": 1999.99,
-                    "market": 591.04,
-                    "directLow": 699.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-215",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 573.4,
-                "lowPrice": 200,
-                "trendPrice": 597.21,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 399,
-                "avg1": 525,
-                "avg7": 602.83,
-                "avg30": 588.63,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -24463,40 +16263,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/216.png",
             "large": "https://images.pokemontcg.io/swsh7/216_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-216",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 5.19,
-                    "mid": 7.79,
-                    "high": 20,
-                    "market": 7.19,
-                    "directLow": 7.79
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-216",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 9.55,
-                "lowPrice": 5.35,
-                "trendPrice": 9.88,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 5.35,
-                "avg1": 6.9,
-                "avg7": 9.47,
-                "avg30": 9.69,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -24573,40 +16339,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/218.png",
             "large": "https://images.pokemontcg.io/swsh7/218_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-218",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 256.19,
-                    "mid": 342.98,
-                    "high": 888.88,
-                    "market": 293.32,
-                    "directLow": 342.89
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-218",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 301.74,
-                "lowPrice": 179.99,
-                "trendPrice": 285.52,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 179.99,
-                "avg1": 320,
-                "avg7": 265.13,
-                "avg30": 283.12,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -24683,40 +16415,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/217.png",
             "large": "https://images.pokemontcg.io/swsh7/217_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-217",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 31.18,
-                    "mid": 37.7,
-                    "high": 1000,
-                    "market": 33.76,
-                    "directLow": 31.18
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-217",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 49.41,
-                "lowPrice": 29.9,
-                "trendPrice": 46.92,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 35,
-                "avg1": 39.99,
-                "avg7": 48.41,
-                "avg30": 48.25,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -24795,40 +16493,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/220.png",
             "large": "https://images.pokemontcg.io/swsh7/220_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-220",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 24.39,
-                    "mid": 29.94,
-                    "high": 69.99,
-                    "market": 28.75,
-                    "directLow": 25.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-220",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 35.66,
-                "lowPrice": 19.98,
-                "trendPrice": 33.54,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 25,
-                "avg1": 28,
-                "avg7": 31.1,
-                "avg30": 37.29,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -24912,40 +16576,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/214.png",
             "large": "https://images.pokemontcg.io/swsh7/214_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-214",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 25.95,
-                    "mid": 31.15,
-                    "high": 60.93,
-                    "market": 31.5,
-                    "directLow": 30.16
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-214",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 50.9,
-                "lowPrice": 30,
-                "trendPrice": 50.34,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 38,
-                "avg1": 70.99,
-                "avg7": 49.62,
-                "avg30": 47.38,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25024,40 +16654,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/219.png",
             "large": "https://images.pokemontcg.io/swsh7/219_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-219",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 7.99,
-                    "mid": 9.99,
-                    "high": 25,
-                    "market": 9.76,
-                    "directLow": 11.98
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-219",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 13.98,
-                "lowPrice": 9.99,
-                "trendPrice": 13.62,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 9.99,
-                "avg1": 8.99,
-                "avg7": 15.2,
-                "avg30": 13.46,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25136,40 +16732,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/227.png",
             "large": "https://images.pokemontcg.io/swsh7/227_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-227",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 7.79,
-                    "mid": 11.82,
-                    "high": 49.95,
-                    "market": 10.32,
-                    "directLow": 11.82
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-227",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 17.39,
-                "lowPrice": 15,
-                "trendPrice": 18.04,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 15,
-                "avg1": 17.99,
-                "avg7": 17.75,
-                "avg30": 17.9,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25254,40 +16816,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/228.png",
             "large": "https://images.pokemontcg.io/swsh7/228_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-228",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 7,
-                    "mid": 9.55,
-                    "high": 39.95,
-                    "market": 8.57,
-                    "directLow": 9.99
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-228",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 17.83,
-                "lowPrice": 14,
-                "trendPrice": 17.84,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 14,
-                "avg1": 15.72,
-                "avg7": 17.89,
-                "avg30": 18.03,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25332,40 +16860,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/222.png",
             "large": "https://images.pokemontcg.io/swsh7/222_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-222",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.99,
-                    "mid": 5.3,
-                    "high": 20,
-                    "market": 4.64,
-                    "directLow": 6.5
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-222",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 8.3,
-                "lowPrice": 5,
-                "trendPrice": 7.37,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 5,
-                "avg1": 10.23,
-                "avg7": 6.95,
-                "avg30": 8.24,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25410,40 +16904,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/225.png",
             "large": "https://images.pokemontcg.io/swsh7/225_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-225",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 4.85,
-                    "mid": 8.58,
-                    "high": 20,
-                    "market": 6.65,
-                    "directLow": 8.98
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-225",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 9.56,
-                "lowPrice": 6.5,
-                "trendPrice": 9.73,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 6.5,
-                "avg1": 7,
-                "avg7": 7.54,
-                "avg30": 9.35,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25488,40 +16948,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/224.png",
             "large": "https://images.pokemontcg.io/swsh7/224_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-224",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 4.99,
-                    "mid": 7,
-                    "high": 15.55,
-                    "market": 7.17,
-                    "directLow": 7.29
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-224",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 7.83,
-                "lowPrice": 5.99,
-                "trendPrice": 8.15,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 5.99,
-                "avg1": 6,
-                "avg7": 7.03,
-                "avg30": 8.12,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25566,40 +16992,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/229.png",
             "large": "https://images.pokemontcg.io/swsh7/229_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-229",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 3.63,
-                    "mid": 4.98,
-                    "high": 20,
-                    "market": 4.84,
-                    "directLow": 5.26
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-229",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 7.01,
-                "lowPrice": 4.5,
-                "trendPrice": 6.55,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 5,
-                "avg1": 7.49,
-                "avg7": 6.27,
-                "avg30": 7.22,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25644,40 +17036,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/221.png",
             "large": "https://images.pokemontcg.io/swsh7/221_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-221",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 4,
-                    "mid": 6.2,
-                    "high": 29.95,
-                    "market": 5.93,
-                    "directLow": 5.28
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-221",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 8.56,
-                "lowPrice": 5.99,
-                "trendPrice": 9.3,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 6.48,
-                "avg1": 9.95,
-                "avg7": 8.15,
-                "avg30": 9.21,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25722,40 +17080,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/223.png",
             "large": "https://images.pokemontcg.io/swsh7/223_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-223",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 2.74,
-                    "mid": 3.91,
-                    "high": 50,
-                    "market": 3.4,
-                    "directLow": 4.25
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-223",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 7.15,
-                "lowPrice": 4,
-                "trendPrice": 6.86,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 4,
-                "avg1": 10.83,
-                "avg7": 6.42,
-                "avg30": 6.7,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25833,40 +17157,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/226.png",
             "large": "https://images.pokemontcg.io/swsh7/226_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-226",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 5.26,
-                    "mid": 7.2,
-                    "high": 25.95,
-                    "market": 6.78,
-                    "directLow": 6.55
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-226",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 14.45,
-                "lowPrice": 6.99,
-                "trendPrice": 13.64,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 10.85,
-                "avg1": 14.43,
-                "avg7": 15.31,
-                "avg30": 14.7,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25902,40 +17192,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/235.png",
             "large": "https://images.pokemontcg.io/swsh7/235_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-235",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 13.97,
-                    "mid": 17.5,
-                    "high": 49.99,
-                    "market": 16.07,
-                    "directLow": 19.98
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-235",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 13.91,
-                "lowPrice": 6,
-                "trendPrice": 13.75,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 7.99,
-                "avg1": 14.9,
-                "avg7": 13.94,
-                "avg30": 15.33,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -25982,40 +17238,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/231.png",
             "large": "https://images.pokemontcg.io/swsh7/231_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-231",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 3,
-                    "mid": 5,
-                    "high": 20,
-                    "market": 4.75,
-                    "directLow": 9.98
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-231",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 7.85,
-                "lowPrice": 5,
-                "trendPrice": 7.54,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 6.49,
-                "avg1": 6,
-                "avg7": 7.93,
-                "avg30": 7.35,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -26051,40 +17273,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/236.png",
             "large": "https://images.pokemontcg.io/swsh7/236_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-236",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 10,
-                    "mid": 15.06,
-                    "high": 28.99,
-                    "market": 13.27,
-                    "directLow": 12.7
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-236",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 14.87,
-                "lowPrice": 13,
-                "trendPrice": 15.93,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 13,
-                "avg1": 18.99,
-                "avg7": 14.33,
-                "avg30": 14.34,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -26128,40 +17316,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/232.png",
             "large": "https://images.pokemontcg.io/swsh7/232_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-232",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 5.99,
-                    "mid": 8,
-                    "high": 29.99,
-                    "market": 7.34,
-                    "directLow": 7.44
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-232",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 9.5,
-                "lowPrice": 7.99,
-                "trendPrice": 9.62,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 8,
-                "avg1": 11.95,
-                "avg7": 9.78,
-                "avg30": 10.58,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -26205,40 +17359,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/230.png",
             "large": "https://images.pokemontcg.io/swsh7/230_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-230",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 7,
-                    "mid": 9.5,
-                    "high": 35,
-                    "market": 8.56,
-                    "directLow": 9.13
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-230",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 10.64,
-                "lowPrice": 5.99,
-                "trendPrice": 9.64,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 8.5,
-                "avg1": 9.99,
-                "avg7": 9.81,
-                "avg30": 10.98,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -26283,40 +17403,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/233.png",
             "large": "https://images.pokemontcg.io/swsh7/233_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-233",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 1.8,
-                    "mid": 3.71,
-                    "high": 12.34,
-                    "market": 3.31,
-                    "directLow": 3.32
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-233",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 7.1,
-                "lowPrice": 3.99,
-                "trendPrice": 7.02,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 6,
-                "avg1": 7.95,
-                "avg7": 7.11,
-                "avg30": 6.89,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -26360,40 +17446,6 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/234.png",
             "large": "https://images.pokemontcg.io/swsh7/234_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-234",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 3.15,
-                    "mid": 5.39,
-                    "high": 1000,
-                    "market": 5.09,
-                    "directLow": 3.15
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-234",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 9.2,
-                "lowPrice": 7,
-                "trendPrice": 8.71,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 7,
-                "avg1": 8.48,
-                "avg7": 8.37,
-                "avg30": 9.52,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     },
     {
@@ -26429,43 +17481,9 @@ let evolvingSkies = [
         "images": {
             "small": "https://images.pokemontcg.io/swsh7/237.png",
             "large": "https://images.pokemontcg.io/swsh7/237_hires.png"
-        },
-        "tcgplayer": {
-            "url": "https://prices.pokemontcg.io/tcgplayer/swsh7-237",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "holofoil": {
-                    "low": 7.5,
-                    "mid": 12.29,
-                    "high": 29.99,
-                    "market": 10.67,
-                    "directLow": 13.89
-                }
-            }
-        },
-        "cardmarket": {
-            "url": "https://prices.pokemontcg.io/cardmarket/swsh7-237",
-            "updatedAt": "2023/03/29",
-            "prices": {
-                "averageSellPrice": 14.2,
-                "lowPrice": 12,
-                "trendPrice": 13.78,
-                "germanProLow": 0,
-                "suggestedPrice": 0,
-                "reverseHoloSell": 0,
-                "reverseHoloLow": 0,
-                "reverseHoloTrend": 0,
-                "lowPriceExPlus": 12,
-                "avg1": 14.46,
-                "avg7": 13.63,
-                "avg30": 14.34,
-                "reverseHoloAvg1": 0,
-                "reverseHoloAvg7": 0,
-                "reverseHoloAvg30": 0
-            }
         }
     }
 ]
 
-// let order = evolvingSkies.sort(({id:a}, {id:b}) => b-a);
+// let order = evolvingSkies.sort((a,b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
 // console.log(order)
