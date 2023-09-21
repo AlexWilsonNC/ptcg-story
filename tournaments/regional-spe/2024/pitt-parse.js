@@ -1,6 +1,13 @@
-let pittResults = [
+const masterList = document.querySelector('.masters-ol');
+// const seniorList = document.querySelector('.seniors-ol');
+// const juniorList = document.querySelector('.juniors-ol');
+
+const modalBottom = document.querySelector('.modal-bottom');
+
+let masters = [
     {
-        "name": "Andrew Estrada [CA]",
+        "name": "Andrew Estrada",
+        "flag": "CA",
         "placing": 1,
         "record": {
             "wins": 15,
@@ -185,7 +192,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jesse Parker [US]",
+        "name": "Jesse Parker",
+        "flag": "US",
         "placing": 2,
         "record": {
             "wins": 14,
@@ -346,7 +354,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Collin Merli-Matthews [US]",
+        "name": "Collin Merli-Matthews",
+        "flag": "US",
         "placing": 3,
         "record": {
             "wins": 13,
@@ -525,7 +534,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Andrew Hedrick [US]",
+        "name": "Andrew Hedrick",
+        "flag": "US",
         "placing": 4,
         "record": {
             "wins": 12,
@@ -686,7 +696,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Michael Chen [US]",
+        "name": "Michael Chen",
+        "flag": "US",
         "placing": 5,
         "record": {
             "wins": 12,
@@ -847,7 +858,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Adam Reinhardt [US]",
+        "name": "Adam Reinhardt",
+        "flag": "US",
         "placing": 6,
         "record": {
             "wins": 12,
@@ -1026,7 +1038,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Lucas Xing [CA]",
+        "name": "Lucas Xing",
+        "flag": "CA",
         "placing": 7,
         "record": {
             "wins": 11,
@@ -1181,7 +1194,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Rahul Reddy [US]",
+        "name": "Rahul Reddy",
+        "flag": "US",
         "placing": 8,
         "record": {
             "wins": 11,
@@ -1342,7 +1356,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Isaiah Bradner [US]",
+        "name": "Isaiah Bradner",
+        "flag": "US",
         "placing": 9,
         "record": {
             "wins": 10,
@@ -1515,7 +1530,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Nicholas Moffitt [US]",
+        "name": "Nicholas Moffitt",
+        "flag": "US",
         "placing": 10,
         "record": {
             "wins": 11,
@@ -1688,7 +1704,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Michael Davidson [US]",
+        "name": "Michael Davidson",
+        "flag": "US",
         "placing": 11,
         "record": {
             "wins": 11,
@@ -1867,7 +1884,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Hunter Butler [US]",
+        "name": "Hunter Butler",
+        "flag": "US",
         "placing": 12,
         "record": {
             "wins": 11,
@@ -2040,7 +2058,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Sawyer Melban [US]",
+        "name": "Sawyer Melban",
+        "flag": "US",
         "placing": 13,
         "record": {
             "wins": 11,
@@ -2207,7 +2226,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Noah Sawyer [US]",
+        "name": "Noah Sawyer",
+        "flag": "US",
         "placing": 14,
         "record": {
             "wins": 11,
@@ -2374,7 +2394,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Tyler Mathews [US]",
+        "name": "Tyler Mathews",
+        "flag": "US",
         "placing": 15,
         "record": {
             "wins": 11,
@@ -2553,7 +2574,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Caleb Gedemer [US]",
+        "name": "Caleb Gedemer",
+        "flag": "US",
         "placing": 16,
         "record": {
             "wins": 11,
@@ -2720,7 +2742,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Dre Alderette [US]",
+        "name": "Dre Alderette",
+        "flag": "US",
         "placing": 17,
         "record": {
             "wins": 11,
@@ -2911,7 +2934,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Brendan Cevasco [US]",
+        "name": "Brendan Cevasco",
+        "flag": "US",
         "placing": 18,
         "record": {
             "wins": 11,
@@ -3084,7 +3108,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Landen Kaetler [CA]",
+        "name": "Landen Kaetler",
+        "flag": "CA",
         "placing": 19,
         "record": {
             "wins": 11,
@@ -3245,7 +3270,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Benjamin Howard [US]",
+        "name": "Benjamin Howard",
+        "flag": "US",
         "placing": 20,
         "record": {
             "wins": 11,
@@ -3388,7 +3414,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Dan Hugar [US]",
+        "name": "Dan Hugar",
+        "flag": "US",
         "placing": 21,
         "record": {
             "wins": 10,
@@ -3543,7 +3570,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Bryan McDaniel [US]",
+        "name": "Bryan McDaniel",
+        "flag": "US",
         "placing": 22,
         "record": {
             "wins": 11,
@@ -3704,7 +3732,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Austin Ellis [CA]",
+        "name": "Austin Ellis",
+        "flag": "CA",
         "placing": 23,
         "record": {
             "wins": 11,
@@ -3871,7 +3900,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Gabe Shumway [US]",
+        "name": "Gabe Shumway",
+        "flag": "US",
         "placing": 24,
         "record": {
             "wins": 10,
@@ -4044,7 +4074,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Vance Kelley [US]",
+        "name": "Vance Kelley",
+        "flag": "US",
         "placing": 25,
         "record": {
             "wins": 10,
@@ -4223,7 +4254,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Vincent D'Arcy [US]",
+        "name": "Vincent D'Arcy",
+        "flag": "US",
         "placing": 26,
         "record": {
             "wins": 10,
@@ -4384,7 +4416,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jon Eng [US]",
+        "name": "Jon Eng",
+        "flag": "US",
         "placing": 27,
         "record": {
             "wins": 10,
@@ -4557,7 +4590,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Noah Hanerland [US]",
+        "name": "Noah Hanerland",
+        "flag": "US",
         "placing": 28,
         "record": {
             "wins": 10,
@@ -4718,7 +4752,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Johnny Rabus [US]",
+        "name": "Johnny Rabus",
+        "flag": "US",
         "placing": 29,
         "record": {
             "wins": 10,
@@ -4891,7 +4926,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Tord Reklev [NO]",
+        "name": "Tord Reklev",
+        "flag": "NO",
         "placing": 30,
         "record": {
             "wins": 10,
@@ -5082,7 +5118,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Elliott Chereches [CA]",
+        "name": "Elliott Chereches",
+        "flag": "CA",
         "placing": 31,
         "record": {
             "wins": 10,
@@ -5225,7 +5262,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Christian Chase [US]",
+        "name": "Christian Chase",
+        "flag": "US",
         "placing": 32,
         "record": {
             "wins": 10,
@@ -5398,7 +5436,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Grant Manley [US]",
+        "name": "Grant Manley",
+        "flag": "US",
         "placing": 33,
         "record": {
             "wins": 10,
@@ -5577,7 +5616,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Calvin Connor [US]",
+        "name": "Calvin Connor",
+        "flag": "US",
         "placing": 34,
         "record": {
             "wins": 10,
@@ -5738,7 +5778,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Christopher Venier [CA]",
+        "name": "Christopher Venier",
+        "flag": "CA",
         "placing": 35,
         "record": {
             "wins": 10,
@@ -5917,7 +5958,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jeremy Gibson [US]",
+        "name": "Jeremy Gibson",
+        "flag": "US",
         "placing": 36,
         "record": {
             "wins": 10,
@@ -6102,7 +6144,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Haru Nishikawa [JP]",
+        "name": "Haru Nishikawa",
+        "flag": "../../../assets/flags/japan.png",
         "placing": 37,
         "record": {
             "wins": 10,
@@ -6281,7 +6324,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Luke Smith [US]",
+        "name": "Luke Smith",
+        "flag": "US",
         "placing": 38,
         "record": {
             "wins": 10,
@@ -6442,7 +6486,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Regan Retzloff [US]",
+        "name": "Regan Retzloff",
+        "flag": "US",
         "placing": 39,
         "record": {
             "wins": 10,
@@ -6621,7 +6666,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Rowan Stavenow [CA]",
+        "name": "Rowan Stavenow",
+        "flag": "CA",
         "placing": 40,
         "record": {
             "wins": 10,
@@ -6788,7 +6834,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Isaiah Cheville [US]",
+        "name": "Isaiah Cheville",
+        "flag": "US",
         "placing": 41,
         "record": {
             "wins": 10,
@@ -6967,7 +7014,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Joshua Curtin [US]",
+        "name": "Joshua Curtin",
+        "flag": "US",
         "placing": 42,
         "record": {
             "wins": 10,
@@ -7128,7 +7176,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ivan Chan [US]",
+        "name": "Ivan Chan",
+        "flag": "US",
         "placing": 43,
         "record": {
             "wins": 10,
@@ -7295,7 +7344,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Mike Newey [US]",
+        "name": "Mike Newey",
+        "flag": "US",
         "placing": 44,
         "record": {
             "wins": 10,
@@ -7468,7 +7518,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Gregory Playter [US]",
+        "name": "Gregory Playter",
+        "flag": "US",
         "placing": 45,
         "record": {
             "wins": 10,
@@ -7635,7 +7686,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Gibson Archer-Tang [US]",
+        "name": "Gibson Archer-Tang",
+        "flag": "US",
         "placing": 46,
         "record": {
             "wins": 10,
@@ -7826,7 +7878,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Zach Lesage [CA]",
+        "name": "Zach Lesage",
+        "flag": "CA",
         "placing": 47,
         "record": {
             "wins": 10,
@@ -7987,7 +8040,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Benjamin McEachen [US]",
+        "name": "Benjamin McEachen",
+        "flag": "US",
         "placing": 48,
         "record": {
             "wins": 10,
@@ -8172,7 +8226,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Grayson Lang [US]",
+        "name": "Grayson Lang",
+        "flag": "US",
         "placing": 49,
         "record": {
             "wins": 10,
@@ -8345,7 +8400,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Hunter Smith [US]",
+        "name": "Hunter Smith",
+        "flag": "US",
         "placing": 50,
         "record": {
             "wins": 10,
@@ -8524,7 +8580,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jacky Su [CA]",
+        "name": "Jacky Su",
+        "flag": "CA",
         "placing": 51,
         "record": {
             "wins": 10,
@@ -8685,7 +8742,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Daniel Lopez [US]",
+        "name": "Daniel Lopez",
+        "flag": "US",
         "placing": 52,
         "record": {
             "wins": 10,
@@ -8864,7 +8922,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Erin McCann [US]",
+        "name": "Erin McCann",
+        "flag": "US",
         "placing": 53,
         "record": {
             "wins": 10,
@@ -9019,7 +9078,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ryan Bownes [US]",
+        "name": "Ryan Bownes",
+        "flag": "US",
         "placing": 54,
         "record": {
             "wins": 9,
@@ -9192,7 +9252,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Harris Noor [US]",
+        "name": "Harris Noor",
+        "flag": "US",
         "placing": 55,
         "record": {
             "wins": 10,
@@ -9353,7 +9414,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Benjamin Nackman [US]",
+        "name": "Benjamin Nackman",
+        "flag": "US",
         "placing": 56,
         "record": {
             "wins": 10,
@@ -9538,7 +9600,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ryan Harris [US]",
+        "name": "Ryan Harris",
+        "flag": "US",
         "placing": 57,
         "record": {
             "wins": 9,
@@ -9723,7 +9786,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ryan Sabelhaus [US]",
+        "name": "Ryan Sabelhaus",
+        "flag": "US",
         "placing": 58,
         "record": {
             "wins": 9,
@@ -9866,7 +9930,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Christopher Wigelsworth [US]",
+        "name": "Christopher Wigelsworth",
+        "flag": "US",
         "placing": 59,
         "record": {
             "wins": 10,
@@ -10051,7 +10116,8 @@ let pittResults = [
         }
     },
     {
-        "name": "George Gebhardt [US]",
+        "name": "George Gebhardt",
+        "flag": "US",
         "placing": 60,
         "record": {
             "wins": 9,
@@ -10242,7 +10308,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Evan Campbell [US]",
+        "name": "Evan Campbell",
+        "flag": "US",
         "placing": 61,
         "record": {
             "wins": 10,
@@ -10391,7 +10458,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Abaan Ahmed [US]",
+        "name": "Abaan Ahmed",
+        "flag": "US",
         "placing": 62,
         "record": {
             "wins": 10,
@@ -10570,7 +10638,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jeremy Gumila [US]",
+        "name": "Jeremy Gumila",
+        "flag": "US",
         "placing": 63,
         "record": {
             "wins": 10,
@@ -10755,7 +10824,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Colton Ames [US]",
+        "name": "Colton Ames",
+        "flag": "US",
         "placing": 64,
         "record": {
             "wins": 9,
@@ -10934,7 +11004,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Noel Totomoch [US]",
+        "name": "Noel Totomoch",
+        "flag": "US",
         "placing": 65,
         "record": {
             "wins": 10,
@@ -11077,7 +11148,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jonathan Ramirez [US]",
+        "name": "Jonathan Ramirez",
+        "flag": "US",
         "placing": 66,
         "record": {
             "wins": 9,
@@ -11256,7 +11328,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Alex Schemanske [US]",
+        "name": "Alex Schemanske",
+        "flag": "US",
         "placing": 67,
         "record": {
             "wins": 10,
@@ -11441,7 +11514,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Michael Otero [US]",
+        "name": "Michael Otero",
+        "flag": "US",
         "placing": 68,
         "record": {
             "wins": 9,
@@ -11608,7 +11682,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ryan Soety [US]",
+        "name": "Ryan Soety",
+        "flag": "US",
         "placing": 69,
         "record": {
             "wins": 9,
@@ -11769,7 +11844,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Dylan Gunn [US]",
+        "name": "Dylan Gunn",
+        "flag": "US",
         "placing": 70,
         "record": {
             "wins": 10,
@@ -11936,7 +12012,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Keaton Gill [US]",
+        "name": "Keaton Gill",
+        "flag": "US",
         "placing": 71,
         "record": {
             "wins": 9,
@@ -12103,7 +12180,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Colton Meahl [US]",
+        "name": "Colton Meahl",
+        "flag": "US",
         "placing": 72,
         "record": {
             "wins": 9,
@@ -12288,7 +12366,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Darin O'Meara [US]",
+        "name": "Darin O'Meara",
+        "flag": "US",
         "placing": 73,
         "record": {
             "wins": 9,
@@ -12473,7 +12552,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Soumil Dusara [US]",
+        "name": "Soumil Dusara",
+        "flag": "US",
         "placing": 74,
         "record": {
             "wins": 9,
@@ -12634,7 +12714,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Michele Schiraldi [CA]",
+        "name": "Michele Schiraldi",
+        "flag": "CA",
         "placing": 75,
         "record": {
             "wins": 9,
@@ -12819,7 +12900,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Conner Truitt [US]",
+        "name": "Conner Truitt",
+        "flag": "US",
         "placing": 76,
         "record": {
             "wins": 9,
@@ -13028,7 +13110,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Kamil Colatosti [CA]",
+        "name": "Kamil Colatosti",
+        "flag": "CA",
         "placing": 77,
         "record": {
             "wins": 9,
@@ -13213,7 +13296,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Chris Fulop [US]",
+        "name": "Chris Fulop",
+        "flag": "US",
         "placing": 78,
         "record": {
             "wins": 9,
@@ -13374,7 +13458,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Prin Basser [US]",
+        "name": "Prin Basser",
+        "flag": "US",
         "placing": 79,
         "record": {
             "wins": 9,
@@ -13553,7 +13638,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Owen Rhoads [US]",
+        "name": "Owen Rhoads",
+        "flag": "US",
         "placing": 80,
         "record": {
             "wins": 9,
@@ -13726,7 +13812,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Joe Sturino [US]",
+        "name": "Joe Sturino",
+        "flag": "US",
         "placing": 81,
         "record": {
             "wins": 9,
@@ -13911,7 +13998,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Joshua Sambrano [US]",
+        "name": "Joshua Sambrano",
+        "flag": "US",
         "placing": 82,
         "record": {
             "wins": 9,
@@ -14102,7 +14190,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Peyton Bauermeister [US]",
+        "name": "Peyton Bauermeister",
+        "flag": "US",
         "placing": 83,
         "record": {
             "wins": 9,
@@ -14275,7 +14364,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Kyle Caruthers [US]",
+        "name": "Kyle Caruthers",
+        "flag": "US",
         "placing": 84,
         "record": {
             "wins": 9,
@@ -14454,7 +14544,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Calvin Chang [US]",
+        "name": "Calvin Chang",
+        "flag": "US",
         "placing": 85,
         "record": {
             "wins": 9,
@@ -14645,7 +14736,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Morgan Purdy [US]",
+        "name": "Morgan Purdy",
+        "flag": "US",
         "placing": 86,
         "record": {
             "wins": 9,
@@ -14824,7 +14916,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Aden Cunningham [US]",
+        "name": "Aden Cunningham",
+        "flag": "US",
         "placing": 87,
         "record": {
             "wins": 9,
@@ -15003,7 +15096,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Andrew Wu [US]",
+        "name": "Andrew Wu",
+        "flag": "US",
         "placing": 88,
         "record": {
             "wins": 9,
@@ -15188,7 +15282,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Zeryx Schaefer [US]",
+        "name": "Zeryx Schaefer",
+        "flag": "US",
         "placing": 89,
         "record": {
             "wins": 9,
@@ -15343,7 +15438,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Brad Brown [US]",
+        "name": "Brad Brown",
+        "flag": "US",
         "placing": 90,
         "record": {
             "wins": 9,
@@ -15492,7 +15588,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Julia Butenhoff [US]",
+        "name": "Julia Butenhoff",
+        "flag": "US",
         "placing": 91,
         "record": {
             "wins": 8,
@@ -15659,7 +15756,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Riley Hulbert [US]",
+        "name": "Riley Hulbert",
+        "flag": "US",
         "placing": 92,
         "record": {
             "wins": 9,
@@ -15802,7 +15900,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ian Robb [US]",
+        "name": "Ian Robb",
+        "flag": "US",
         "placing": 93,
         "record": {
             "wins": 9,
@@ -15963,7 +16062,8 @@ let pittResults = [
         }
     },
     {
-        "name": "JW Kriewall [US]",
+        "name": "JW Kriewall",
+        "flag": "US",
         "placing": 94,
         "record": {
             "wins": 9,
@@ -16130,7 +16230,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Austin Daniels [US]",
+        "name": "Austin Daniels",
+        "flag": "US",
         "placing": 95,
         "record": {
             "wins": 9,
@@ -16297,7 +16398,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Arron Sanyer [US]",
+        "name": "Arron Sanyer",
+        "flag": "US",
         "placing": 96,
         "record": {
             "wins": 9,
@@ -16470,7 +16572,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Michael Diaz [US]",
+        "name": "Michael Diaz",
+        "flag": "US",
         "placing": 97,
         "record": {
             "wins": 9,
@@ -16655,7 +16758,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Cody Graham [US]",
+        "name": "Cody Graham",
+        "flag": "US",
         "placing": 98,
         "record": {
             "wins": 9,
@@ -16816,7 +16920,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Mitchell Roberge [US]",
+        "name": "Mitchell Roberge",
+        "flag": "US",
         "placing": 99,
         "record": {
             "wins": 9,
@@ -17001,7 +17106,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Chris Franco [US]",
+        "name": "Chris Franco",
+        "flag": "US",
         "placing": 100,
         "record": {
             "wins": 9,
@@ -17186,7 +17292,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ben Dobberstein [US]",
+        "name": "Ben Dobberstein",
+        "flag": "US",
         "placing": 101,
         "record": {
             "wins": 9,
@@ -17347,7 +17454,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Luke Morsa [US]",
+        "name": "Luke Morsa",
+        "flag": "US",
         "placing": 102,
         "record": {
             "wins": 9,
@@ -17550,7 +17658,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Corey Patterson [US]",
+        "name": "Corey Patterson",
+        "flag": "US",
         "placing": 103,
         "record": {
             "wins": 9,
@@ -17693,7 +17802,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Brandon Dean [US]",
+        "name": "Brandon Dean",
+        "flag": "US",
         "placing": 104,
         "record": {
             "wins": 9,
@@ -17884,7 +17994,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Suchit Koparde [US]",
+        "name": "Suchit Koparde",
+        "flag": "US",
         "placing": 105,
         "record": {
             "wins": 7,
@@ -18057,7 +18168,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Shashi Naraine [CA]",
+        "name": "Shashi Naraine",
+        "flag": "CA",
         "placing": 106,
         "record": {
             "wins": 9,
@@ -18206,7 +18318,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Edwin Arrollo [US]",
+        "name": "Edwin Arrollo",
+        "flag": "US",
         "placing": 107,
         "record": {
             "wins": 9,
@@ -18379,7 +18492,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Andrew Ryals [US]",
+        "name": "Andrew Ryals",
+        "flag": "US",
         "placing": 108,
         "record": {
             "wins": 8,
@@ -18528,7 +18642,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ryan Miller [US]",
+        "name": "Ryan Miller",
+        "flag": "US",
         "placing": 109,
         "record": {
             "wins": 9,
@@ -18713,7 +18828,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Brayden Karvelas [US]",
+        "name": "Brayden Karvelas",
+        "flag": "US",
         "placing": 110,
         "record": {
             "wins": 8,
@@ -18898,7 +19014,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Erich Francis [US]",
+        "name": "Erich Francis",
+        "flag": "US",
         "placing": 111,
         "record": {
             "wins": 8,
@@ -19041,7 +19158,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Vincent Vuong [CA]",
+        "name": "Vincent Vuong",
+        "flag": "CA",
         "placing": 112,
         "record": {
             "wins": 8,
@@ -19184,7 +19302,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Eddie North [US]",
+        "name": "Eddie North",
+        "flag": "US",
         "placing": 113,
         "record": {
             "wins": 9,
@@ -19339,7 +19458,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Dakota Davey [US]",
+        "name": "Dakota Davey",
+        "flag": "US",
         "placing": 114,
         "record": {
             "wins": 9,
@@ -19506,7 +19626,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jacob Noel [US]",
+        "name": "Jacob Noel",
+        "flag": "US",
         "placing": 115,
         "record": {
             "wins": 8,
@@ -19703,7 +19824,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Chris Pagan [US]",
+        "name": "Chris Pagan",
+        "flag": "US",
         "placing": 116,
         "record": {
             "wins": 8,
@@ -19864,7 +19986,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jacob Stock [US]",
+        "name": "Jacob Stock",
+        "flag": "US",
         "placing": 117,
         "record": {
             "wins": 9,
@@ -20019,7 +20142,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Michael Canaves [US]",
+        "name": "Michael Canaves",
+        "flag": "US",
         "placing": 118,
         "record": {
             "wins": 8,
@@ -20186,7 +20310,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Kenny Hernandez [US]",
+        "name": "Kenny Hernandez",
+        "flag": "US",
         "placing": 119,
         "record": {
             "wins": 8,
@@ -20371,7 +20496,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Justin Norris [US]",
+        "name": "Justin Norris",
+        "flag": "US",
         "placing": 120,
         "record": {
             "wins": 8,
@@ -20532,7 +20658,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jose Medina [US]",
+        "name": "Jose Medina",
+        "flag": "US",
         "placing": 121,
         "record": {
             "wins": 8,
@@ -20711,7 +20838,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Kyle Tokarczyk [US]",
+        "name": "Kyle Tokarczyk",
+        "flag": "US",
         "placing": 122,
         "record": {
             "wins": 9,
@@ -20878,7 +21006,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Sanjay Sundararajan [US]",
+        "name": "Sanjay Sundararajan",
+        "flag": "US",
         "placing": 123,
         "record": {
             "wins": 8,
@@ -21033,7 +21162,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Tyler Perry [US]",
+        "name": "Tyler Perry",
+        "flag": "US",
         "placing": 124,
         "record": {
             "wins": 8,
@@ -21206,7 +21336,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Giancarlo Bortolon [CA]",
+        "name": "Giancarlo Bortolon",
+        "flag": "CA",
         "placing": 125,
         "record": {
             "wins": 8,
@@ -21373,7 +21504,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Nicholas Moses [US]",
+        "name": "Nicholas Moses",
+        "flag": "US",
         "placing": 126,
         "record": {
             "wins": 8,
@@ -21522,7 +21654,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Patrick Scharff [US]",
+        "name": "Patrick Scharff",
+        "flag": "US",
         "placing": 127,
         "record": {
             "wins": 8,
@@ -21713,7 +21846,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Edwin Lopez [US]",
+        "name": "Edwin Lopez",
+        "flag": "US",
         "placing": 128,
         "record": {
             "wins": 8,
@@ -21886,7 +22020,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Gilberto Acosta [US]",
+        "name": "Gilberto Acosta",
+        "flag": "US",
         "placing": 129,
         "record": {
             "wins": 8,
@@ -22065,7 +22200,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jonathan Twigg [US]",
+        "name": "Jonathan Twigg",
+        "flag": "US",
         "placing": 130,
         "record": {
             "wins": 8,
@@ -22232,7 +22368,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ely Greenfeld [US]",
+        "name": "Ely Greenfeld",
+        "flag": "US",
         "placing": 131,
         "record": {
             "wins": 8,
@@ -22393,7 +22530,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Krystal Florendo [CA]",
+        "name": "Krystal Florendo",
+        "flag": "CA",
         "placing": 132,
         "record": {
             "wins": 8,
@@ -22590,7 +22728,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Nick Trausch [US]",
+        "name": "Nick Trausch",
+        "flag": "US",
         "placing": 133,
         "record": {
             "wins": 8,
@@ -22733,7 +22872,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Mario Vivas [CA]",
+        "name": "Mario Vivas",
+        "flag": "CA",
         "placing": 134,
         "record": {
             "wins": 7,
@@ -22888,7 +23028,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ryan Antonucci [US]",
+        "name": "Ryan Antonucci",
+        "flag": "US",
         "placing": 135,
         "record": {
             "wins": 8,
@@ -23073,7 +23214,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Christian Cantelon [CA]",
+        "name": "Christian Cantelon",
+        "flag": "CA",
         "placing": 136,
         "record": {
             "wins": 8,
@@ -23228,7 +23370,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Dalen Dockery [US]",
+        "name": "Dalen Dockery",
+        "flag": "US",
         "placing": 137,
         "record": {
             "wins": 8,
@@ -23389,7 +23532,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Teja Gummadi [US]",
+        "name": "Teja Gummadi",
+        "flag": "US",
         "placing": 138,
         "record": {
             "wins": 8,
@@ -23556,7 +23700,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Cody Bruder [US]",
+        "name": "Cody Bruder",
+        "flag": "US",
         "placing": 139,
         "record": {
             "wins": 8,
@@ -23723,7 +23868,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Matthew Connors [US]",
+        "name": "Matthew Connors",
+        "flag": "US",
         "placing": 140,
         "record": {
             "wins": 8,
@@ -23884,17 +24030,19 @@ let pittResults = [
         }
     },
     {
-        "name": "**VIP22 Jose Marzan [US]",
+        "name": "Jose Marzan",
+        "flag": "US",
         "placing": 141,
         "record": {
             "wins": 8,
             "losses": 5,
             "ties": 2
         },
-        "decklist": ""
+        "decklist": { "pokemon": [{ "count": 4, "name": "Charmander", "number": "44", "set": "SVP" }, { "count": 2, "name": "Charizard ex", "number": "228", "set": "OBF" }, { "count": 1, "name": "Charizard ex", "number": "215", "set": "OBF" }, { "count": 2, "name": "Pidgey", "number": "162", "set": "OBF" }, { "count": 2, "name": "Pidgeot ex", "number": "225", "set": "OBF" }, { "count": 1, "name": "Manaphy", "number": "GG06", "set": "CRZ" }, { "count": 1, "name": "Entei V", "number": "GG36", "set": "CRZ" }, { "count": 1, "name": "Arceus V", "number": "166", "set": "BRS" }, { "count": 1, "name": "Arceus V", "number": "SWSH204", "set": "PR" }, { "count": 2, "name": "Arceus VSTAR", "number": "184", "set": "BRS" }, { "count": 1, "name": "Pumpkaboo", "number": "76", "set": "EVS" }, { "count": 1, "name": "Radiant Charizard", "number": "20", "set": "CRZ" }], "trainer": [{ "count": 4, "name": "Iono", "number": "185", "set": "PAL" }, { "count": 2, "name": "Colress's Experiment", "number": "GG59", "set": "CRZ" }, { "count": 2, "name": "Professor's Research", "number": "147", "set": "BRS" }, { "count": 1, "name": "Switch", "number": "147", "set": "CES" }, { "count": 3, "name": "Boss's Orders", "number": "132", "set": "BRS" }, { "count": 1, "name": "Raihan", "number": "140", "set": "CRZ" }, { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" }, { "count": 4, "name": "Ultra Ball", "number": "150", "set": "BRS" }, { "count": 1, "name": "Choice Belt", "number": "211", "set": "ASR" }, { "count": 3, "name": "Artazon", "number": "229", "set": "OBF" }, { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" }, { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" }, { "count": 4, "name": "Rare Candy", "number": "142", "set": "CES" }], "energy": [{ "count": 8, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" }, { "count": 1, "name": "Double Turbo Energy - Special", "number": "216", "set": "ASR" }] }
     },
     {
-        "name": "Jake Riggs [US]",
+        "name": "Jake Riggs",
+        "flag": "US",
         "placing": 142,
         "record": {
             "wins": 8,
@@ -24073,7 +24221,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Tristan Bennett [US]",
+        "name": "Tristan Bennett",
+        "flag": "US",
         "placing": 143,
         "record": {
             "wins": 8,
@@ -24246,7 +24395,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Justin Tse [CA]",
+        "name": "Justin Tse",
+        "flag": "CA",
         "placing": 144,
         "record": {
             "wins": 8,
@@ -24401,7 +24551,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Joshua Acevedo [US]",
+        "name": "Joshua Acevedo",
+        "flag": "US",
         "placing": 145,
         "record": {
             "wins": 8,
@@ -24556,7 +24707,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Alexander Phillips [US]",
+        "name": "Alexander Phillips",
+        "flag": "US",
         "placing": 146,
         "record": {
             "wins": 7,
@@ -24729,7 +24881,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Mason Lovato [US]",
+        "name": "Mason Lovato",
+        "flag": "US",
         "placing": 147,
         "record": {
             "wins": 8,
@@ -24908,7 +25061,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Andrew Weiss [US]",
+        "name": "Andrew Weiss",
+        "flag": "US",
         "placing": 148,
         "record": {
             "wins": 8,
@@ -25063,7 +25217,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Gabriel Smart [US]",
+        "name": "Gabriel Smart",
+        "flag": "US",
         "placing": 149,
         "record": {
             "wins": 8,
@@ -25224,7 +25379,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Caleb Rogerson [US]",
+        "name": "Caleb Rogerson",
+        "flag": "US",
         "placing": 150,
         "record": {
             "wins": 7,
@@ -25397,7 +25553,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Cyrus Davis [CA]",
+        "name": "Cyrus Davis",
+        "flag": "CA",
         "placing": 151,
         "record": {
             "wins": 8,
@@ -25582,7 +25739,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Elliot Sayles [US]",
+        "name": "Elliot Sayles",
+        "flag": "US",
         "placing": 152,
         "record": {
             "wins": 8,
@@ -25749,7 +25907,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Brennon Conner [US]",
+        "name": "Brennon Conner",
+        "flag": "US",
         "placing": 153,
         "record": {
             "wins": 8,
@@ -25934,7 +26093,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Nathan Bumbarger [US]",
+        "name": "Nathan Bumbarger",
+        "flag": "US",
         "placing": 154,
         "record": {
             "wins": 8,
@@ -26155,7 +26315,8 @@ let pittResults = [
         }
     },
     {
-        "name": "McKinley Freeman [US]",
+        "name": "McKinley Freeman",
+        "flag": "US",
         "placing": 155,
         "record": {
             "wins": 7,
@@ -26316,7 +26477,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Matthew Hammond [US]",
+        "name": "Matthew Hammond",
+        "flag": "US",
         "placing": 156,
         "record": {
             "wins": 8,
@@ -26459,7 +26621,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Davin Erickson [US]",
+        "name": "Davin Erickson",
+        "flag": "US",
         "placing": 157,
         "record": {
             "wins": 8,
@@ -26632,7 +26795,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Liam Conant [US]",
+        "name": "Liam Conant",
+        "flag": "US",
         "placing": 158,
         "record": {
             "wins": 8,
@@ -26811,7 +26975,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Iyla Sutherland [US]",
+        "name": "Iyla Sutherland",
+        "flag": "US",
         "placing": 159,
         "record": {
             "wins": 8,
@@ -26966,7 +27131,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ralts Musser [US]",
+        "name": "Ralts Musser",
+        "flag": "US",
         "placing": 160,
         "record": {
             "wins": 6,
@@ -27133,7 +27299,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Aleaner Pabonnie [US]",
+        "name": "Aleaner Pabonnie",
+        "flag": "US",
         "placing": 161,
         "record": {
             "wins": 7,
@@ -27294,7 +27461,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jonathan Valenzuela [US]",
+        "name": "Jonathan Valenzuela",
+        "flag": "US",
         "placing": 162,
         "record": {
             "wins": 7,
@@ -27479,7 +27647,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Ryan Tongue [US]",
+        "name": "Ryan Tongue",
+        "flag": "US",
         "placing": 163,
         "record": {
             "wins": 7,
@@ -27646,7 +27815,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Dregan Shook [US]",
+        "name": "Dregan Shook",
+        "flag": "US",
         "placing": 164,
         "record": {
             "wins": 7,
@@ -27843,17 +28013,19 @@ let pittResults = [
         }
     },
     {
-        "name": "**VIP31 Joseph Sumner [US]",
+        "name": "Joseph Sumner",
+        "flag": "US",
         "placing": 165,
         "record": {
             "wins": 6,
             "losses": 4,
             "ties": 5
         },
-        "decklist": ""
+        "decklist":{"pokemon":[{"count":1, "name": "Miraidon ex", "number":"81", "set": "SVI"},{"count":1, "name": "Miraidon ex", "number":"244", "set": "SVI"},{"count":1, "name": "Miraidon ex", "number":"253", "set": "SVI"},{"count":2, "name": "Raikou V", "number":"GG41", "set": "CRZ"},{"count":2, "name": "Mareep", "number":"GG34", "set": "CRZ"},{"count":2, "name": "Flaaffy", "number":"SWSH122", "set": "PR"},{"count":1, "name": "Lumineon V", "number":"156", "set": "BRS"},{"count":1, "name": "Squawkabilly ex", "number":"169", "set": "PAL"},{"count":1, "name": "Drapion V", "number":"118", "set": "LOR"},{"count":1, "name": "Flying Pikachu V", "number":"6", "set": "CEL"},{"count":2, "name": "Raichu V", "number":"45", "set": "BRS"},{"count":1, "name": "Zapdos", "number":"29", "set": "PGO"}],"trainer":[{"count":2, "name": "Beach Court", "number":"167", "set": "SVI"},{"count":2, "name": "Forest Seal Stone", "number":"156", "set": "SIT"},{"count":1, "name": "Bravery Charm", "number":"173", "set": "PAL"},{"count":1, "name": "Lost Vacuum", "number":"135", "set": "CRZ"},{"count":2, "name": "Escape Rope", "number":"125", "set": "BST"},{"count":4, "name": "Ultra Ball", "number":"150", "set": "BRS"},{"count":1, "name": "Nest Ball", "number":"181", "set": "SVI"},{"count":4, "name": "Electric Generator", "number":"170", "set": "SVI"},{"count":1, "name": "Switch Cart", "number":"154", "set": "ASR"},{"count":2, "name": "Judge", "number":"235", "set": "FST"},{"count":1, "name": "Iono", "number":"185", "set": "PAL"},{"count":3, "name": "Boss's Orders", "number":"132", "set": "BRS"},{"count":1, "name": "Penny", "number":"183", "set": "SVI"},{"count":4, "name": "Professor's Research", "number":"147", "set": "BRS"},{"count":1, "name": "Arven", "number":"186", "set": "OBF"}],"energy":[{"count":14, "name": "Lightning Energy - Basic", "number":"155", "set": "CRZ"}]}
     },
     {
-        "name": "Omar Ben-Gacem [UK]",
+        "name": "Omar Ben-Gacem",
+        "flag": "UK",
         "placing": 166,
         "record": {
             "wins": 7,
@@ -28014,7 +28186,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Dang Pho [US]",
+        "name": "Dang Pho",
+        "flag": "US",
         "placing": 167,
         "record": {
             "wins": 6,
@@ -28175,7 +28348,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jake Abrams [US]",
+        "name": "Jake Abrams",
+        "flag": "US",
         "placing": 168,
         "record": {
             "wins": 7,
@@ -28360,7 +28534,8 @@ let pittResults = [
         }
     },
     {
-        "name": "June Norber [US]",
+        "name": "June Norber",
+        "flag": "US",
         "placing": 169,
         "record": {
             "wins": 7,
@@ -28545,7 +28720,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Owen Johnson [CA]",
+        "name": "Owen Johnson",
+        "flag": "CA",
         "placing": 170,
         "record": {
             "wins": 7,
@@ -28736,7 +28912,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jack Bray [US]",
+        "name": "Jack Bray",
+        "flag": "US",
         "placing": 171,
         "record": {
             "wins": 7,
@@ -28897,7 +29074,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Victor Carrillo [US]",
+        "name": "Victor Carrillo",
+        "flag": "US",
         "placing": 172,
         "record": {
             "wins": 7,
@@ -29058,7 +29236,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Andres Estrada [US]",
+        "name": "Andres Estrada",
+        "flag": "US",
         "placing": 173,
         "record": {
             "wins": 7,
@@ -29261,7 +29440,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Maxim Korobov [US]",
+        "name": "Maxim Korobov",
+        "flag": "US",
         "placing": 174,
         "record": {
             "wins": 7,
@@ -29434,7 +29614,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Mateo Thompson Soto [US]",
+        "name": "Mateo Thompson Soto",
+        "flag": "US",
         "placing": 175,
         "record": {
             "wins": 7,
@@ -29601,7 +29782,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Scott Cottrell [US]",
+        "name": "Scott Cottrell",
+        "flag": "US",
         "placing": 176,
         "record": {
             "wins": 7,
@@ -29738,7 +29920,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Harrison Zipp [US]",
+        "name": "Harrison Zipp",
+        "flag": "US",
         "placing": 177,
         "record": {
             "wins": 7,
@@ -29887,7 +30070,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Michael Zheng [US]",
+        "name": "Michael Zheng",
+        "flag": "US",
         "placing": 178,
         "record": {
             "wins": 7,
@@ -30036,7 +30220,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Miguel Arocho [US]",
+        "name": "Miguel Arocho",
+        "flag": "US",
         "placing": 179,
         "record": {
             "wins": 6,
@@ -30197,7 +30382,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Nhan Le [US]",
+        "name": "Nhan Le",
+        "flag": "US",
         "placing": 180,
         "record": {
             "wins": 6,
@@ -30346,7 +30532,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Andrew Dombroski [US]",
+        "name": "Andrew Dombroski",
+        "flag": "US",
         "placing": 181,
         "record": {
             "wins": 6,
@@ -30513,7 +30700,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Joseph Horth [US]",
+        "name": "Joseph Horth",
+        "flag": "US",
         "placing": 182,
         "record": {
             "wins": 6,
@@ -30698,7 +30886,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Sammy Allen [US]",
+        "name": "Sammy Allen",
+        "flag": "US",
         "placing": 183,
         "record": {
             "wins": 6,
@@ -30865,7 +31054,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Zoe Jacobsen [US]",
+        "name": "Zoe Jacobsen",
+        "flag": "US",
         "placing": 184,
         "record": {
             "wins": 6,
@@ -31038,7 +31228,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Charlie Kerr [US]",
+        "name": "Charlie Kerr",
+        "flag": "US",
         "placing": 185,
         "record": {
             "wins": 6,
@@ -31217,7 +31408,8 @@ let pittResults = [
         }
     },
     {
-        "name": "Jeffrey Chau [CA]",
+        "name": "Jeffrey Chau",
+        "flag": "CA",
         "placing": 186,
         "record": {
             "wins": 6,
@@ -31381,3 +31573,143 @@ let pittResults = [
 //     delete a.rounds;
 // })
 // console.log('day 2 results info', pittResults)
+
+//masters
+function displayList(array = []) {
+    masterList.innerHTML = '';
+
+    for (let i = 0; i < array.length; i++) {
+        let item = array[i];
+
+        let item_element = document.createElement('li');
+        item_element.classList.add('player-list-hover');
+        let title = document.createElement('li');
+        title.classList.add('results-list-item');
+
+        let playerName = document.createElement('div');
+        playerName.classList.add('name-n-flag');
+
+        let flagImg = document.createElement('img');
+        flagImg.classList.add('flag-size');
+
+        if (item.flag === "US") {
+            flagImg.setAttribute('src', "../../../assets/flags/usa.png");
+        } else if (item.flag === "CA") {
+            flagImg.setAttribute('src', "../../../assets/flags/canada.png");
+        } else if (item.flag === "NO") {
+            flagImg.setAttribute('src', "../../../assets/flags/norway.png");
+        } else if (item.flag === "UK") {
+            flagImg.setAttribute('src', "../../../assets/flags/uk.png");
+        } else {
+            flagImg.setAttribute('src', "../../../assets/flags/unknown.png");
+        }
+
+        let deck = document.createElement('div');
+        deck.classList.add('player-deck-icons');
+
+        let firstSprite = document.createElement('img');
+        firstSprite.classList.add('sprite');
+        firstSprite.setAttribute('src', item.sprite1);
+        let secondSprite = document.createElement('img');
+        secondSprite.classList.add('sprite');
+        secondSprite.classList.add('second-sprite');
+        secondSprite.setAttribute('src', item.sprite2);
+        let listIcon = document.createElement('img');
+        listIcon.classList.add('list-icon');
+        listIcon.setAttribute('src', "../../../assets/list-icon.png");
+
+        item_element.appendChild(title);
+        title.appendChild(playerName);
+        playerName.appendChild(flagImg);
+        playerName.append(item.name);
+        title.appendChild(deck);
+        deck.appendChild(firstSprite);
+        deck.appendChild(secondSprite);
+        deck.appendChild(listIcon);
+
+        if (item.decklist) {
+            item_element.addEventListener('click', function () {
+                document.querySelector('#modal-section').style.display = "flex";
+                document.querySelector('.modal').style.display = 'block';
+                document.querySelector('.behind-modal').style.display = 'block';
+                document.querySelector('.playerName').innerHTML = item.name + " - Pittsburgh Regionals";
+
+                for (let i = 0; i < item.deck.length; i++) {
+                    let deck = item.deck[i];
+
+                    let cardSpace = document.createElement('div');
+                    cardSpace.classList.add('pokemon-card');
+
+                    let pokeCard = document.createElement('img');
+                    pokeCard.classList.add('pok-card-small')
+
+                    // "decklist": {
+                    //     "pokemon": [
+                    //         {
+                    //             "count": 4,
+                    //             "name": "Mew V", | "name": "Mew V",
+                    //             "number": "113", | "id": "swsh8-113",
+                    //             "set": "FST"     | "set": { "id": "swsh8", "name": "Fusion Strike", "series" "Sword & Shield",
+
+                    for (let i = 0; i < item.decklist.length; i++) {
+                        pokeCard.setAttribute('alt', decklist[i].name + [i].set);
+                    }
+                    console.log(pokeCard)
+                    // pokeCard.setAttribute('src', deck.cardImg);
+                    if (deck.radiusCard === true) {
+                        pokeCard.classList.add('radius-card')
+                    }
+
+                    let numberCounter = document.createElement('img');
+                    numberCounter.classList.add('num-1')
+                    numberCounter.setAttribute('src', deck.numImg);
+
+                    cardSpace.appendChild(pokeCard);
+                    cardSpace.appendChild(numberCounter);
+                    modalBottom.appendChild(cardSpace);
+
+                    modalX.addEventListener('click', () => {
+                        modal.style.display = 'none';
+                        behind.style.display = 'none';
+                        cardSpace.remove();
+                    })
+                    behind.addEventListener('click', () => {
+                        modal.style.display = 'none';
+                        behind.style.display = 'none';
+                        cardSpace.remove();
+                    })
+                }
+                document.querySelectorAll('.pokemon-card').forEach(card => {
+                    let meep = document.getElementsByClassName("pok-card-small"),
+                        zoombox = document.getElementById("zoom-card-box");
+
+                    if (meep.length > 0) {
+                        for (let i of meep) {
+                            i.onclick = () => {
+                                let clone = i.cloneNode();
+                                clone.className = "";
+                                zoombox.innerHTML = "";
+                                zoombox.appendChild(clone);
+                                zoombox.className = "show";
+                            };
+                        }
+                    }
+
+                    zoombox.onclick = () => {
+                        zoombox.className = "";
+                    };
+                });
+            })
+        }
+
+        masterList.appendChild(item_element);
+    }
+}
+
+const modal = document.querySelector('.modal');
+const modalX = document.querySelector('.modal-x');
+const behind = document.querySelector('.behind-modal');
+
+displayList(masters);
+displayList2(seniors);
+displayList3(juniors);

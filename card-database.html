@@ -7,14 +7,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
 
-    <meta property='og:title' content='PTCG Legends' />
-    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg' />
-    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!' />
-    <meta property='og:url' content='www.ptcglegends.com' />
-    <meta property='og:image:width' content='1200' />
-    <meta property='og:image:height' content='627' />
-
     <title>PTCG Legends | Card Database</title>
+	<link rel="canonical" href="https://ptcglegends.com/card-database" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="PTCG Legends" />
+	<meta property="og:description" content="View every card from every set ever with our Pokémon Card Database!" />
+	<meta property="og:url" content="https://ptcglegends.com/card-database" />
+	<meta property="og:site_name" content="PTCG Legends" />
+	<meta property="article:publisher" content="https://www.facebook.com/alex.wilson.7503/" />
+	<meta property="og:image" content="./assets/new/151-back.jpg" />
+	<meta property="og:image:width" content="1278" />
+	<meta property="og:image:height" content="426" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Alex Wilson" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@PTCG_Legends" />
+	<meta name="twitter:site" content="@PTCG_Legends" />
+    <meta name="twitter:image" content="">
+
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="./css/nav.css">
     <link rel="stylesheet" href="./css/card-database.css">
@@ -158,7 +169,7 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <a class='set-cube sv151' href='#scroll-here' onclick="displayList(sv151)" style="pointer-events: none;opacity: 0.4;">
+                            <a class='set-cube sv151' href='#scroll-here' onclick="displayList(sv151)">
                                 <p><img class='setit2' src='./assets/sets/svp-151.png'></p>
                             </a>
                             <a class='set-cube obsidian-flames' href='#scroll-here' onclick="displayList(sv3)">
@@ -934,6 +945,7 @@
 
     <script src='./card-database/api-sets.js'></script>
     <!-- sv -->
+    <script src='./card-database/sv/sv3.js'></script>
     <script src='./card-database/sv/sv2.js'></script>
     <script src='./card-database/sv/sv1.js'></script>
     <script src='./card-database/sv/promos.js'></script>
