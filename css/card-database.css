@@ -372,6 +372,9 @@
 .setit {
     width: 100px;height:auto;
 }
+.setit2 {
+    width: 64px;height:auto;
+}
 .pogo {
     width: 75px; height:45px;
 }
@@ -579,6 +582,9 @@
     .setit {
         width: 75px;height:auto;
     }
+    .setit2 {
+        width: 50px;height:auto;
+    }
     .pogo {
         width: 60px; height:37px;
     }
@@ -705,6 +711,9 @@
     }
     .setit {
         width: 60px;height:auto;
+    }
+    .setit2 {
+        width: 40px;height:auto;
     }
     .pogo {
         width: 45px; height:26px;
@@ -936,6 +945,9 @@
     .setit {
         width: 55px;height:auto;
     }
+    .setit2 {
+        width: 30px;height:auto;
+    }
     .pogo {
         width: 40px; height:23px;
     }
@@ -996,6 +1008,7 @@
 .scarlet-violet:hover,
 .paldea-evolved:hover,
 .obsidian-flames:hover,
+.sv151:hover,
 .legendary-treasures:hover,
 .plasma-blast:hover,
 .plasma-freeze:hover,
@@ -1431,6 +1444,13 @@
 }
 
 /* Scarlet & Violet */
+.sv151 {
+    background: url(../assets/set-filter/scvi/151.webp) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
 .obsidian-flames {
     background: url(../assets/set-filter/scvi/obsidian-flames.png) no-repeat center;
     background-size: auto 100%;
