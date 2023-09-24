@@ -36,10 +36,10 @@ let masters = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../assets/flags/unknown.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    firstName: 'Leonardo Walbrinch',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/charizard.png',
+    sprite2: '../../../assets/sprites/arceus.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
@@ -51,10 +51,10 @@ let masters = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../assets/flags/unknown.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    firstName: 'João Requena',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/charizard.png',
+    sprite2: '../../../assets/sprites/arceus.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
