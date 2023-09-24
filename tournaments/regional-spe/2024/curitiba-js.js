@@ -7,7 +7,7 @@ const modalBottom = document.querySelector('.modal-bottom');
 let masters = [
   {
     firstName: 'William Azevedo',
-    flag: '../../../assets/flags/Brazil.png',
+    flag: '../../../assets/flags/brazil.png',
     sprite1: '../../../assets/sprites/charizard.png',
     sprite2: '../../../assets/sprites/pidgeot.png',
     // list: '../../../assets/list-icon.png',
