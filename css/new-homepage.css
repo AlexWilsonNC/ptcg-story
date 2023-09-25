@@ -220,7 +220,11 @@
     align-items: center;
     margin-bottom: 5px;
 }
-.upcoming-events.darkon h4 {
+.upcoming-events a {
+    color: black;
+}
+.upcoming-events.darkon h4,
+.upcoming-events.darkon a {
     color: white;
 }
 .upcoming-events.darkon p {
@@ -249,6 +253,9 @@
 }
 .event-date h4 {
     font-size: 15px;
+}
+.event-date:hover > h4 a {
+    color: rgb(224, 160, 22);
 }
 .event-date p {
     font-size: 13px;
