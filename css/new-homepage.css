@@ -419,7 +419,7 @@
         font-size: 11px;
     }
     .homepage-hr {
-        margin:-25px 0 15px;
+        margin:-5px 0 15px;
     }
     .sponsored-title {
         margin-bottom: 5px;
@@ -610,6 +610,9 @@
         justify-content: space-around;
         flex-wrap: wrap;
     }
+    .nart {
+        margin-top: 10px;
+    }
     .homepage-box {
         height: 265px;
         width: 300px;
@@ -773,6 +776,9 @@
         bottom: 130px;
         font-size: 10px;
     } 
+    .peepee {
+        margin-top: -30px;
+    }
 }
 @media screen and (max-width: 375px) {
     .homepage-box-content h3 {
