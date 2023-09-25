@@ -5441,7 +5441,7 @@ let juniors = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/diglet-alola.png',
+        cardImg: '../../../assets/cards/2018-17/alolan-rattata.png',
         numImg: '../../../assets/01.png'
       },
       {
@@ -5481,16 +5481,16 @@ let juniors = [
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2018-17/energy-switch.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
         cardImg: '../../../assets/cards/2018-17/rescue-stretcher.png',
         numImg: '../../../assets/01.png'
       },
       {
         cardImg: '../../../assets/cards/2018-17/super-rod.png',
         numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2018-17/exp-share.png',
+        numImg: '../../../assets/02.png'
       },
       {
         cardImg: '../../../assets/cards/2018-17/float-stone.png',
