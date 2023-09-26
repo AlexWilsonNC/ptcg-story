@@ -517,16 +517,117 @@ let masters = [
     ]
   },
   {
-    firstName: 'Steven B',
+    firstName: 'Steven Bates',
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/luxray.png',
     sprite2: '../../../assets/sprites/toxicroak.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2008-2010',
+        cardImg: '../../../assets/cards/2008-2010/luxray-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxray.jpg',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/claydol.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/baltoy-fighting.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/toxicroak-sp-psychic.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/skuntank-sp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bronzong.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/power-spray.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/lake-boundary.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/rr.094.sunyshore_city_gym.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/energy/lightning-energy-capsule.png',
+        numImg: '../../../assets/06.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/psychic-energy-capsule.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/call-energy.png',
         numImg: '../../../assets/04.png'
       },
     ]
@@ -733,12 +834,113 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/luxray.png',
     sprite2: '../../../assets/sprites/toxicroak.png',
-    // list: '../../../assets/list-icon.png',
-    list: '../../../assets/sprites/blank.png',
+    list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2008-2010',
+        cardImg: '../../../assets/cards/2008-2010/luxray-lvx.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxray.jpg',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/claydol.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/baltoy-fighting.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/toxicroak-sp-psychic.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
+        numImg: '../../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/skuntank-sp.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bronzong.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/unown-guard.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/cyrus-conspiracy.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../../assets/03.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/power-spray.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/sp-radar.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/night-maintenance.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/energy-gain.png',
+        numImg: '../../../assets/04.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/lake-boundary.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2008-2010/rr.094.sunyshore_city_gym.jpg',
+        numImg: '../../../assets/02.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../../assets/cards/energy/lightning-energy-capsule.png',
+        numImg: '../../../assets/06.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/psychic-energy-capsule.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/energy/call-energy.png',
         numImg: '../../../assets/04.png'
       },
     ]
