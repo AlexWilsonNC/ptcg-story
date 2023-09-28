@@ -279,7 +279,12 @@ let masters = [
       },
       {
         cardImg: '../../assets/cards/2008-2010/trapinch.png',
-        numImg: '../../assets/04.png'
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/rr.084.trapinch.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
       },
       {
         cardImg: '../../assets/cards/2008-2010/machamp.png',
@@ -2553,11 +2558,128 @@ let seniors = [
     flag: '../../assets/flags/germany.png',
     sprite1: '../../assets/sprites/luxray.png',
     sprite2: '../../assets/sprites/infernape.png',
-    list: '../../assets/sprites/blank.png',
-    type: 'dark',
+    list: '../../assets/list-icon.png',
+    type: 'fire',
     deck: [
       {
-        cardImg: '../../assets/cards/2008-2010',
+        cardImg: '../../assets/cards/2008-2010/luxray-lvx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/luxray.jpg',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/infernape-lvx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/infernape-sp.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/uxie-lvx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/uxie.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/azelf.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/unown-guard.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/bronzong.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/crobat.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/lucario.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/ninetales.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/vulpix-shiny.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/claydol.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/baltoy-fighting.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/toxicroak_g-fighting.jpg',
+        numImg: '../../assets/01.png',
+        oldCard: true
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/cyrus-conspiracy.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/roseannes-research.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/bebes-search.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/aarons-collection.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/power-spray.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/poke-turn.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/sp-radar.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/luxury-ball.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/night-maintenance.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2008-2010/energy-gain.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/fire-energy-capsule.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/lightning-energy-capsule.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/psychic-energy-capsule.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/call-energy.png',
         numImg: '../../assets/04.png'
       },
     ]
@@ -3482,6 +3604,19 @@ function displayList2(array = []) {
           let pokeCard = document.createElement('img');
           pokeCard.classList.add('pok-card-small')
           pokeCard.setAttribute('src', deck.cardImg);
+
+          if (deck.oldCard === true) {
+            pokeCard.classList.add('old-card')
+          }
+          if (deck.oldCard === true) {
+            pokeCard.classList.add('radius-card')
+          }
+          if (deck.exCard === true) {
+            pokeCard.classList.add('ex-era-card')
+          }
+          if (deck.exCard === true) {
+            pokeCard.classList.add('radius-card')
+          }
 
           let numberCounter = document.createElement('img');
           numberCounter.classList.add('num-1')
