@@ -1149,8 +1149,6 @@ let sixEvent = [
         firstName: 'Daniel F',
         sprite1: '../../assets/sprites/zekrom.png',
         sprite2: '../../assets/sprites/eelektrik.png',
-        list: '../../assets/list-icon.png',
-        // list: '../../assets/sprites/blank.png',
         list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
@@ -1164,8 +1162,6 @@ let sixEvent = [
         firstName: 'Lukas P',
         sprite1: '../../assets/sprites/zekrom.png',
         sprite2: '../../assets/sprites/eelektrik.png',
-        list: '../../assets/list-icon.png',
-        // list: '../../assets/sprites/blank.png',
         list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
@@ -1179,8 +1175,6 @@ let sixEvent = [
         firstName: 'Alexander M',
         sprite1: '../../assets/sprites/reshiram.png',
         sprite2: '../../assets/sprites/typhlosion.png',
-        list: '../../assets/list-icon.png',
-        // list: '../../assets/sprites/blank.png',
         list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
@@ -1194,11 +1188,164 @@ let sixEvent = [
 
 let sevenEvent = [
     {
-        firstName: 'eeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
+        firstName: 'Steven Mao',
+        sprite1: '../../assets/sprites/celebi.png',
+        sprite2: '../../assets/sprites/mewtwo.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Dennis Seebürger',
+        sprite1: '../../assets/sprites/mewtwo.png',
+        sprite2: '../../assets/sprites/terrakion.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Daniel H',
+        sprite1: '../../assets/sprites/celebi.png',
+        sprite2: '../../assets/sprites/mewtwo.png',
         list: '../../assets/list-icon.png',
-        // list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012/celebi-prime.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/mewtwo-ex.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/tornadus-ex.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/professor-juniper.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pont.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/n-dex.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pokemon-catcher.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/pluspower.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/dual-ball.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/junk-arm.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/switch-bw.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/random-receiver.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/energy-retrieval-bw.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/eviolite.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2010-2012/skyarrow-bridge.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/bw-energy-grass.png',
+                numImg: '../../assets/10.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/dce-bw.png',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Janik R',
+        sprite1: '../../assets/sprites/celebi.png',
+        sprite2: '../../assets/sprites/mewtwo.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Lutz R',
+        sprite1: '../../assets/sprites/darkrai.png',
+        sprite2: '../../assets/sprites/tornadus.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Thomas W',
+        sprite1: '../../assets/sprites/mew.png',
+        sprite2: '../../assets/sprites/accelgor.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Sabine G',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/sprites/donphan.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2010-2012',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Benjamin C',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/sprites/darkrai.png',
         list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
@@ -1215,8 +1362,6 @@ let eightEvent = [
         firstName: 'eeee',
         sprite1: '../../assets/sprites',
         sprite2: '../../assets/sprites',
-        list: '../../assets/list-icon.png',
-        // list: '../../assets/sprites/blank.png',
         list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
@@ -1233,8 +1378,6 @@ let nineEvent = [
         firstName: 'eeee',
         sprite1: '../../assets/sprites',
         sprite2: '../../assets/sprites',
-        list: '../../assets/list-icon.png',
-        // list: '../../assets/sprites/blank.png',
         list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
@@ -2142,7 +2285,7 @@ function displayList7(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Denmark Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2012 Germany Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
