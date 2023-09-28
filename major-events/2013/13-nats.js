@@ -718,7 +718,7 @@ let juniors = [
           ]
     },
     {
-        firstName: 'Denny F',
+        firstName: 'Denny Falls Rodriguez',
         sprite1: '../../assets/sprites/accelgor.png',
         sprite2: '../../assets/sprites/gothitelle.png',
         // list: '../../assets/list-icon.png',
@@ -732,7 +732,7 @@ let juniors = [
         ]
     },
     {
-        firstName: 'Finn L',
+        firstName: 'Finn Looft',
         sprite1: '../../assets/sprites/accelgor.png',
         sprite2: '../../assets/sprites/gothitelle.png',
         // list: '../../assets/list-icon.png',
@@ -746,7 +746,7 @@ let juniors = [
         ]
     },
     {
-        firstName: 'Dennis S',
+        firstName: 'Dennis Seebürger',
         sprite1: '../../assets/sprites/blank.png',
         sprite2: '../../assets/sprites/klinklang.png',
         // list: '../../assets/list-icon.png',
@@ -760,7 +760,7 @@ let juniors = [
         ]
     },
     {
-        firstName: 'Daniel H',
+        firstName: 'Daniel Hetzel',
         sprite1: '../../assets/sprites/blank.png',
         sprite2: '../../assets/sprites/darkrai.png',
         // list: '../../assets/list-icon.png',
@@ -774,7 +774,7 @@ let juniors = [
         ]
     },
     {
-        firstName: 'Marcel L',
+        firstName: 'Marcel Lung',
         sprite1: '../../assets/sprites/blank.png',
         sprite2: '../../assets/sprites/darkrai.png',
         // list: '../../assets/list-icon.png',
@@ -788,21 +788,96 @@ let juniors = [
         ]
     },
     {
-        firstName: 'Oleh S',
+        firstName: 'Ole Stognief',
         sprite1: '../../assets/sprites/blank.png',
         sprite2: '../../assets/sprites/klinklang.png',
-        // list: '../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
+        list: '../../assets/list-icon.png',
         type: 'normal',
         deck: [
             {
-                cardImg: '../../assets/cards/2014-2016',
+                cardImg: '../../assets/cards/2014-2016/klinklang-bw.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/klinklang.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/klang-bw.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/klink-bw.png',
                 numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/cobalion-ex.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/cobalion-nvi.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/colress.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/n-dex.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/skyla-bw.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/computer-search.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/heavy-ball-bw.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/max-potion-bw.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/rare-candy-bw.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/pokemon-catcher.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/switch-bw.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/tool-scrapper.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/super-rod-bw.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/float-stone-bw.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/tropical-beach-2012.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/bw-energy-metal.png',
+                numImg: '../../assets/10.png'
             },
         ]
     },
     {
-        firstName: 'Marc L ',
+        firstName: 'Marc Lutz',
         sprite1: '../../assets/sprites/kyurem.png',
         sprite2: '../../assets/sprites/deoxys.png',
         // list: '../../assets/list-icon.png',
@@ -816,7 +891,7 @@ let juniors = [
         ]
     },
     {
-        firstName: 'Benjamin C',
+        firstName: 'Benjamin Cheynubrata',
         sprite1: '../../assets/sprites/kyurem.png',
         sprite2: '../../assets/sprites/deoxys.png',
         list: '../../assets/list-icon.png',
