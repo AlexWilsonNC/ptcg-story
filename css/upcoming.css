@@ -151,9 +151,7 @@ table i:hover,
         width: 15px;
     }
     .upcoming-events-table tr th:nth-of-type(4),
-    .upcoming-events-table tr th:nth-of-type(5),
-    .upcoming-events-table tr td:nth-of-type(4),
-    .upcoming-events-table tr td:nth-of-type(5) {
+    .upcoming-events-table tr td:nth-of-type(4) {
         text-align: start;
 }
 }
