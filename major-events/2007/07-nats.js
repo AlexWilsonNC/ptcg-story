@@ -968,10 +968,153 @@ let tenEvent = [
 
 let fiveEvent = [
     {
-        firstName: 'eeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
-        // // list../../../assets/list-icon.png',
+        firstName: 'Arco O',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/sprites/grumpig.png',
+        list: '../../assets/list-icon.png',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2007-2008/grumpig.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/spoink.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/lm.031.dunsparce.jpg',
+                 numImg: '../../assets/02.png',
+                 oldCard: true
+             },
+            {
+                cardImg: '../../assets/cards/2004-2006/celebi-ex-psychic.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/latias-star.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/cg.005.dugtrio.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/cg.050.diglett.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/castform.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/holons-magnemite.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+               cardImg: '../../assets/cards/2004-2006/lm.080.root_fossil.jpg',
+                numImg: '../../assets/04.png',
+                oldCard: true
+            },
+            {
+               cardImg: '../../assets/cards/2004-2006/lm.078.claw_fossil.jpg',
+                numImg: '../../assets/04.png',
+                oldCard: true
+            },
+            {
+            cardImg: '../../assets/cards/2004-2006/lm.079.mysterious_fossil.jpg',
+                numImg: '../../assets/04.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/marys-request.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/celios-network.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/scott.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/holon-mentor.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/lanette-net-search.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/holons-farmer.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/stevens-advice.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/castaway.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/strangth-charm.png',
+                numImg: '../../assets/01.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/cursed-stone.png',
+                numImg: '../../assets/04.png',
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/giant-stump.png',
+                numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/old-energy/water-energy-power-keepers.png',
+                numImg: '../../assets/05.png',
+            },
+            {
+                cardImg: '../../assets/cards/old-energy/holon-energy-wp.png',
+                numImg: '../../assets/03.png',
+            },
+            {
+                cardImg: '../../assets/cards/old-energy/heal-energy.png',
+                numImg: '../../assets/02.png',
+            },
+        ]
+    },
+    {
+        firstName: 'Kevin de M',
+        sprite1: '../../assets/sprites/raichu.png',
+        sprite2: '../../assets/sprites/exeggutor.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2008-2010',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Manuel B',
+        sprite1: '../../assets/sprites/metagross.png',
+        sprite2: '../../assets/sprites/dragonite.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'dark',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2008-2010',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Florens v H',
+        sprite1: '../../assets/sprites/metagross.png',
+        sprite2: '../../assets/sprites/dragonite.png',
         list: '../../assets/sprites/blank.png',
         type: 'dark',
         deck: [
@@ -1667,7 +1810,7 @@ function displayList5(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2011 France Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2007 Germany Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
