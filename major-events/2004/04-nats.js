@@ -1090,12 +1090,166 @@ let sevenEvent = [
 
 let eightEvent = [
     {
-        firstName: 'eeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
+        firstName: 'Behrad Hossein',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/sprites/kingdra.png',
+        list: '../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2004-2006/dr.092.kingdra_ex.jpg',
+                numImg: '../../assets/03.png',
+                radiusCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/dr.039.seadra.jpg',
+                numImg: '../../assets/03.png',
+                radiusCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/dr.040.seadra.jpg',
+                numImg: '../../assets/01.png',
+                radiusCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/dr.033.horsea.jpg',
+                numImg: '../../assets/02.png',
+                radiusCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/aq.084.horsea.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/linoone.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/ss.085.zigzagoon.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/ss.060.dunsparce.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/ss.026.wobbuffet.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/ss.094.aerodactyl_ex.jpg',
+                numImg: '../../assets/01.png',
+                exCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/elms-training-method.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/e-reader/desert-shaman.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/tv-reporter-e-reader.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/prof-oaks-research-old.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/wallys-training-e-reader.png',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/team-magma-conspirator.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/bills-maintenance.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/base-fossil/ex.145.pokemon_nurse.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/lanette-net-search-e-reader.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/stevens-advice.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/e-reader/fisherman.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/e-reader/sk.120.relic_hunter.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/switch-e-reader.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/e-reader/potion.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/lm.079.mysterious_fossil.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/warp-point.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/e-reader/fast-ball.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/island-cave.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/e-reader/water-energy.jpg',
+                numImg: '../../assets/12.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/e-reader/psychic-energy.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true                
+            },
+            {
+                cardImg: '../../assets/cards/old-energy/boost-energy.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/old-energy/multi-energy-e-reader.png',
+                numImg: '../../assets/01.png'
+            },
+        ]
+    },
+    {
+        firstName: '--',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/hyphen.png',
         // // list../../../assets/list-icon.png',
         list: '../../assets/sprites/blank.png',
-        // list: '../../assets/sprites/blank.png',
         type: 'normal',
         deck: [
             {
@@ -2162,7 +2316,7 @@ function displayList8(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2014 Denmark Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2004 Germany Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
