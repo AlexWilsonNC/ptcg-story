@@ -437,6 +437,203 @@ let juniors = [
 
 let fiveEvent = [
     {
+        firstName: 'Sebastian Koziol',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/sprites/politoed.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2004-2006',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Cetin Vildirim',
+        sprite1: '../../assets/sprites/medicham.png',
+        sprite2: '../../assets/sprites/espeon.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2004-2006',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Max Benczek',
+        sprite1: '../../assets/sprites/mew.png',
+        sprite2: '../../assets/sprites/jynx.png',
+        list: '../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2004-2006/mew-ex.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/uf.028.jynx_.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/lm.028.wobbuffet.jpg',
+                numImg: '../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/lm.071.wynaut.jpg',
+                numImg: '../../assets/03.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/roselia.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/minun.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/uf.00I.unown_.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/uf.00E.unown_.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/lm.008.lapras.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/castform.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/holon-magnemite.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/holon-voltorb.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/tr.086.rockets_admin.jpg',
+                numImg: '../../assets/04.png',
+                radiusCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/holon-mentor.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/holon-adventurer.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/holon-transeiver.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/swoop-teleporter.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/pow-hand-extension.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2004-2006/battle-fronteir.png',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Anja P',
+        sprite1: '../../assets/sprites/scizor.png',
+        sprite2: '../../assets/sprites/metagross.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2004-2006',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Dennis D',
+        sprite1: '../../assets/sprites/tyranitar.png',
+        sprite2: '../../assets/sprites/ampharos.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2004-2006',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Lars L',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/sprites/wartortle.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2004-2006',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Hatem T',
+        sprite1: '../../assets/sprites/metagross.png',
+        sprite2: '../../assets/sprites/dragonite.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2004-2006',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+    {
+        firstName: 'Jonas S',
+        sprite1: '../../assets/sprites/blank.png',
+        sprite2: '../../assets/sprites/walrein.png',
+        // list: '../../../assets/list-icon.png',
+        list: '../../assets/sprites/blank.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2004-2006',
+                numImg: '../../assets/04.png'
+            },
+        ]
+    },
+]
+
+let sixEvent = [
+    {
         firstName: 'Fares Sekkoum',
         sprite1: '../../assets/sprites/blank.png',
         sprite2: '../../assets/sprites/politoed.png',
@@ -591,24 +788,6 @@ let fiveEvent = [
         deck: [
             {
                 cardImg: '../../assets/cards/2008-2010',
-                numImg: '../../assets/04.png'
-            },
-        ]
-    },
-]
-
-let sixEvent = [
-    {
-        firstName: 'eeee',
-        sprite1: '../../assets/sprites',
-        sprite2: '../../assets/sprites',
-        // // list../../../assets/list-icon.png',
-        list: '../../assets/sprites/blank.png',
-        // list: '../../assets/sprites/blank.png',
-        type: 'normal',
-        deck: [
-            {
-                cardImg: '../../assets/cards/2014-2016',
                 numImg: '../../assets/04.png'
             },
         ]
@@ -1139,7 +1318,7 @@ function displayList5(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + " - 2006 UK Nats";
+                document.querySelector('.playerName').innerHTML = item.firstName + " - 2006 Germany Nats";
 
                 if (item.type == 'psychic') {
                     document.querySelector('.modal').style.backgroundImage = "url(../../../assets/psychic-bg.png)";
