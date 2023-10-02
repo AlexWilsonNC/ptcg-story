@@ -1647,15 +1647,95 @@ let seniors = [
   {
     firstName: 'Ryan McGregor',
     flag: '../../assets/flags/usa.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
-    list: '../../assets/sprites/blank.png',
-    type: '',
+    sprite1: '../../assets/sprites/yanmega.png',
+    sprite2: '../../assets/sprites/magnezone.png',
+    list: '../../assets/list-icon.png',
+    type: 'grass',
     deck: [
       {
-        cardImg: '../../assets/cards/2010-2012',
+        cardImg: '../../assets/cards/2010-2012/yanmega.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/yanma.png',
         numImg: '../../assets/04.png'
       },
+      {
+        cardImg: '../../assets/cards/2010-2012/magnezone-prime.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/magneton.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/magnemite.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/kingdra.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/horsea.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/jirachi.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/cleffa-col.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/poke-collector.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/sages-training.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/judge-hgss.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/twins.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/pokemon-communication-bw.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/rare-candy-hgss.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/junk-arm.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/poke-reversal.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2010-2012/switch-bw.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/bw-energy-lightning.png',
+        numImg: '../../assets/07.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/bw-energy-psychic.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/rainbow-energy-hgss.png',
+        numImg: '../../assets/02.png'
+      }
     ]
   },
   {
