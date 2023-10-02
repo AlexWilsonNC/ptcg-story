@@ -31632,7 +31632,7 @@ function displayList(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.name + " - Pittsburgh Regionals";
+                document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + " - Pittsburgh Regionals";
 
                 for (let i = 0; i < item.deck.length; i++) {
                     let deck = item.deck[i];
