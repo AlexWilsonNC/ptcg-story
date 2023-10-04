@@ -745,7 +745,7 @@ margin-top: auto;
 .top-format-graphic.darkon {
     background-color: #191919;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
-    border: 1px solid black
+    border: 1px solid black;
 }
 .expanded-format,
 .top-format-expanded-graphic {
@@ -763,8 +763,8 @@ margin-top: auto;
 }
 .expanded-format.darkon,
 .top-format-expanded-graphic.darkon {
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
-    border:1px solid white;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    border: 1px solid black;
 }
 .worlds-expanded-txt h4 {
     font-size: 28px;

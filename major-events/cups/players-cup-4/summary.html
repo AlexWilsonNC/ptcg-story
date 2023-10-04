@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+
+    <meta property='og:title' content='PTCG Legends'/>
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg'/>
+    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
+    <meta property='og:url' content='www.ptcglegends.com'/>
+    <meta property='og:image:width' content='1200' />
+    <meta property='og:image:height' content='627' />    <title>PTCG Legends | Players Cup IV</title>
+    <link rel="stylesheet" href="../../../style.css">
+    <link rel="stylesheet" href="../../../css/nav.css">
+    <link rel="stylesheet" href="../../../css/worlds.css">
+    <link rel="stylesheet" href="../../../css/era.css">
+    <link rel="stylesheet" href="../../../css/nats.css">
+    <link rel="stylesheet" href="../../../css/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav id="top-navr">
+        <div id="nav-leftr">
+            <a href="../../../home">
+                <img src="" alt="pokeball logo">
+                <h1>PTCG <span class='legendsr'>Legends</span></h1>
+            </a>
+        </div>
+        <div class='push-right1'>
+            <ul id="nav-rightr">
+                <li><a href="../../../tournaments/upcoming">Tournaments <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down1'>
+                        <li><a href='../../../tournaments/upcoming'>Upcoming Events</a></li>
+                        <li><a href='../../../tournaments/completed'>Completed Events</a></li>
+                    </ul>
+                </li>
+                <li><a href="../../../event-archive">Event Archive <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down2'>
+                        <li><a href='../../../worlds/main'>Worlds</a></li>
+                        <li><a href='../../main'>Major Events</a></li>
+                        <li><a href='../../../tournaments/regional-spe' >Regionals & SPEs</a></li>
+                    </ul>
+                </li>                
+                <li><a href="../../../decks-by-era/main">Decks by Era</a></li>
+                <li><a href="../../../articles/all"  >Articles</a></li>
+            </ul>
+            <nav role="navigation">
+                <div id="menuToggle">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <ul id="menu">
+                        <div class='push-right'>
+                            <div onclick='rememberButton(this.id)' id='toggle'>
+                                <i class='indicator'></i>
+                                <div></div>
+                                <div></div>
+                            </div>
+                        </div>
+                        <!-- <li class='bold tittle'><a href="#">Mainpage</a></li>
+                        <hr> -->
+                        <li class='bold tittle'><a href="../../../tournaments/upcoming">Tournaments</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/upcoming">Upcoming Events</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/completed">Completed Events</a></li>
+                        <li class='bold tittle'><a href="../../../event-archive">Event Archive</a></li>
+                        <li class='sub-nav'><a href="../../../worlds/main">World Championships</a></li>
+                        <li class='sub-nav'><a href="../../main">Major Events (ICs, Nats, SCs)</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/regional-spe" >Regionals & SPEs</a>
+                        </li>
+                        <li class='bold tittle'><a href="../../../decks-by-era/main">Decks by Era</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../articles/all"  >Articles</a></li>
+                        <li class='sub-nav'><a href="../../../articles/all">All Articles</a></li>
+                        <li class='sub-nav'><a href="../../../card-of-the-week/all">Card of the Week</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../other/main">Other</a></li>
+                        <li class='sub-nav'><a href="../../../card-database">Pokémon Card Database</a></li>
+                        <li class='sub-nav'><a href="../../../other/expansions">TCG Expansions</a></li>
+                        <li class='sub-nav'><a href="../../../other/rules-by-era">Rules by Era</a></li>
+                        <li class='sub-nav'><a href="../../../other/banned-cards">Banned Cards</a></li>
+                        <li class='sub-nav'><a href="../../../other/timeline">Historic Timeline</a></li>
+                        <li class='sub-nav'><a href="../../../other/worlds-booklets">Worlds Booklets</a></li>
+                        <li class='sub-nav'><a href="../../../archive-updates/all">Archive Updates</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../contact">Contact & Socials</a></li>
+                        <div class='social-popup'>
+                            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                                <img src='../../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                                <img src='../../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                                <img src='../../../assets/patreon.webp' />
+                            </a>
+                            <a href='mailto:ptcglegends@gmail.com'>
+                                <img src='../../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                        </div>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </nav>
+
+    <div class='contain-extra-nav'>
+        <div class='extra-nav'>
+            <a href='./summary' class="active-extra underline">Summary</a>
+            <a href='./results'>Final Results</a>
+            <a href='./region-results'>Region Results</a>
+            <a href='./streams' style='color:rgb(101, 101, 101);pointer-events:none;'>Streams</a>
+        </div>
+    </div>
+
+    <div class='contain-event'>
+         <div id="zoom-card-box"></div>
+        <div class='event-content'>
+            <div class='summary'>
+                <div class='summ-left'>
+
+                    <div class='hidden-top-summ'>
+                        <div class='hidden-img'>
+                            <img class='worlds-logo5' src='../../../assets/nats-logos/players-cup-logo.png'>
+                            <p>PTCGO</p>
+                            <p>April - July, 2021</p>
+                        </div>
+                    </div>
+                    <img class='hidden-poke' src='../../../assets/2022/urshifu-gigantamax.png'>
+                    <!-- <img class='hidden-poke' src='../../../assets/2022/'> -->
+                    <h2>Players Cup IV</h2>
+                    <a href='#sets' class='set-btn'>SM: Team Up - SSH: Chilling Reign</a>
+                    <hr class='worlds-hr'>
+
+                    <div class='hidden-top-summ'>
+                        <div class='hidden-loc'>
+                            <img class='worlds-loc2' src='../../../assets/nats-logos/pcup4.jpg'>
+                        </div>
+                    </div>
+
+                    <hr class='hidden-hr'>
+
+                    <div class='worlds-paragraph'>
+                        <!-- <p>• The 2021 Players Cup Invitational tournament was the finale, and 25th Pokémon Anniversary celebration, to the Players Cup series that took place from 2020-2021 during covid. It was an online event that was played using PTCGO. The four previous Players Cup Champions, and four past World Champions, were invited to play in this exclusive event.</p>
+                        <p style='margin-top:20px;'>• The 8 invitees competed in a double elimination bracket, where the eventual Champion squared off in a final "Boss Battle" against the 2004 Pokémon World Champion, Tsuguyoshi Yamato.</p> -->
+                    </div>
+
+                    <h4 class='prizing-header hidden-item'>Prizing:</h4>
+                    <div class='hidden-prizing'>
+                        <div class='hidden-prize-left'>
+                            <div class='prize-zone'>
+                                <p>• 1st Place</p>
+                                <p>$5,000</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• 2nd Place</p>
+                                <p>$3,500</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• 3rd Place</p>
+                                <p>$2,500</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• 4th Place</p>
+                                <p>$2,000</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 6</p>
+                                <p>$1,250</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 8</p>
+                                <p>$750</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 12</p>
+                                <p>$500</p>
+                            </div>
+                            <div class='prize-zone'>
+                                <p>• Top 16</p>
+                                <p>$250</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class='sets' id='sets'>
+                        <h3 style='margin:10px 0px;'>Legal Sets:</h3>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/sm9-team-up-icon.png' class='set-icon' alt='set-icon'>
+                                <img src='../../../assets/sets/sm9-team-up.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/detective-pikachu-icon.webp' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/detective-pikachu.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/sm10-unbroken-bonds-icon.png' class='set-icon' alt='set-icon'>
+                                <img src='../../../assets/sets/sm10-unbroken-bonds.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/sm11-unified-minds-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/sm11-unified-minds.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/hidden-fates-icon.webp' class='set-icon' alt='set-icon'>
+                                <img src='../../../assets/sets/hidden-fates.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/cosmic-eclipse-icon.webp' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/cosmic-eclipse.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/ssh1-icon.png' class='set-icon' alt='set-icon'>
+                                <img src='../../../assets/sets/ssh1.webp' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/ssh2-rebel-clash-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/ssh2-rebel-clash.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/ssh3-darkness-ablaze-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/ssh3-darkness-ablaze.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/sshp-champions-path-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/ssh-champions-path.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/ssh4-vivid-voltage-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/ssh4-vivid-voltage.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/sshp-shining-fates-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/sshp-shining-fates.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                        </div>
+                        <div class='two-sets'>
+                            <div class='left-set'>
+                                <img src='../../../assets/sets/ssh5-battle-styles-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/ssh5-battle-styles.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                            <div class='right-set'>
+                                <img src='../../../assets/sets/ssh6-chilling-reign-icon.png' class='set-icon'
+                                    alt='set-icon'>
+                                <img src='../../../assets/sets/ssh6-chilling-reign.png' class='set-logo  '
+                                    alt='set-logo'>
+                            </div>
+                        </div>
+                        <h3 style='margin:10px 0px;'>Banned Card(s):</h3>
+                        <div style='display: flex;flex-direction: row;' class='center-small-only'>
+                            <a href='../../../other/banned-cards.html#misbry'>
+                                <img src='../../../assets/banned/mismagius.png' alt='banned card'
+                                    class='old-card pok-card-banned'>
+                            </a>
+                            <a href='../../../other/banned-cards.html#misbry'>
+                                <img src='../../../assets/banned/bellelba-and-brycenman.png'
+                                    alt='banned card' class='old-card pok-card-banned' style='margin-left: 10px;'>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+                <hr class='hidden-big-hr'>
+
+                <div class='hidden-cast-box'>
+                    <div class='hidden-cast'>
+                        <h5>TCG Casters:</h5>
+                        <div class='top-cast'>
+                            <div class='casters-zone'>
+                                <img src='../../../assets/people/chip.jpg'>
+                                <p>Chip Richey</p>
+                            </div>
+                            <div class='casters-zone'>
+                                <img src='../../../assets/people/ethan-h.jpg'>
+                                <p>Ethan Hegyi</p>
+                            </div>
+                        </div>
+                        <div class='bottom-cast'>
+                            <div class='casters-zone' style='margin-right:35px;'>
+                                <img src='../../../assets/people/jeremy_jallen.jpg'>
+                                <p>Jeremy Jallen</p>
+                            </div>
+                            <div class='casters-zone'>
+                                <img src='../../../assets/people/andrew-mahone.png'>
+                                <p>Andrew Mahone</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class='summ-right'>
+                    <img class='worlds-logo5 hide-it' src='../../../assets/nats-logos/players-cup-logo.png'>
+                    <p class='hide-it'>PTCGO</p>
+                    <p class='hide-it'>April - July, 2021</p>
+                    <img class='worlds-loc hide-it' src='../../../assets/nats-logos/pcup4.jpg'>
+
+                    <h4 class='prizing-header hide-it'>Prizing:</h4>
+                    <div class='prize-zone hide-it'>
+                        <p>• 1st Place</p>
+                        <p>$5,000</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• 2nd Place</p>
+                        <p>$3,500</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• 3rd Place</p>
+                        <p>$2,500</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• 4th Place</p>
+                        <p>$2,000</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 6</p>
+                        <p>$1,250</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 8</p>
+                        <p>$750</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 12</p>
+                        <p>$500</p>
+                    </div>
+                    <div class='prize-zone hide-it'>
+                        <p>• Top 16</p>
+                        <p>$250</p>
+                    </div>
+
+                    <div class='cast-box'>
+                        <h4 class='prizing-header'>TCG Casters:</h4>
+                        <div class='casters-zone'>
+                            <p>Chip Richey</p>
+                            <img src='../../../assets/people/chip.jpg'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>Ethan Hegyi</p>
+                            <img src='../../../assets/people/ethan-h.jpg'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>Jeremy Jallen</p>
+                            <img src='../../../assets/people/jeremy_jallen.jpg'>
+                        </div>
+                        <div class='casters-zone'>
+                            <p>Andrew Mahone</p>
+                            <img src='../../../assets/people/andrew-mahone.png'>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class='era-footer'>
+        <div id='foot-top'>
+            <a href="../../../tournaments/upcoming">Tournaments</a>
+            <a href="../../../event-archive">Event Archive</a>
+            <a href="../../../decks-by-era/main">Decks by Era</a>
+            <a href="../../../articles/all">Articles</a>
+        </div>
+        <div class='foot-mid'>
+            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                <img src='../../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                <img src='../../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                <img src='../../../assets/patreon.webp' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='../../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+        </div>
+        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon
+            Trading Card Game, including card text and images and tournament-related content, are copyrights of The
+            Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast.
+            This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company
+            (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This
+            website is simply a place for Pokémon TCG fans to look at events and results from the
+            greatest game in history!</div>
+    </footer>
+    <script src='../../../darkmode/darkmode-worlds-pages.js'></script>
+
+     
+    <script src='../../../../zoom.js'></script>
+     
+</body>
+
+</html>

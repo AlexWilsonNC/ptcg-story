@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel='icon' href="https://i.ibb.co/RzjmyRh/trophy-icon-transparent.png" type='image/x-icon' alt='logo'>
+
+    <meta property='og:title' content='PTCG Legends'/>
+    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg'/>
+    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
+    <meta property='og:url' content='www.ptcglegends.com'/>
+    <meta property='og:image:width' content='1200' />
+    <meta property='og:image:height' content='627' />    
+    <title>PTCG Legends | Players Cup IV</title>
+    <link rel="stylesheet"  href="../../../style.css">
+    <link rel="stylesheet" href="../../../css/nav.css">
+    <link rel="stylesheet" href="../../../css/worlds.css">
+    <link rel="stylesheet" href="../../../css/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav id="top-navr">
+        <div id="nav-leftr">
+            <a href="../../../home">
+                <img src="" alt="pokeball logo">
+                <h1>PTCG <span class='legendsr'>Legends</span></h1>
+            </a>
+        </div>
+        <div class='push-right1'>
+            <ul id="nav-rightr">
+                <li><a href="../../../tournaments/upcoming">Tournaments <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down1'>
+                        <li><a href='../../../tournaments/upcoming'>Upcoming Events</a></li>
+                        <li><a href='../../../tournaments/completed'>Completed Events</a></li>
+                    </ul>
+                </li>
+                <li><a href="../../../event-archive">Event Archive <i class="fas fa-chevron-down"></i></a>
+                    <ul class='drop-it-down2'>
+                        <li><a href='../../../worlds/main'>Worlds</a></li>
+                        <li><a href='../../main'>Major Events</a></li>
+                        <li><a href='../../../tournaments/regional-spe' >Regionals & SPEs</a></li>
+                    </ul>
+                </li>                
+                <li><a href="../../../decks-by-era/main">Decks by Era</a></li>
+                <li><a href="../../../articles/all"  >Articles</a></li>
+            </ul>
+            <nav role="navigation">
+                <div id="menuToggle">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <ul id="menu">
+                        <div class='push-right'>
+                            <div onclick='rememberButton(this.id)' id='toggle'>
+                                <i class='indicator'></i>
+                                <div></div>
+                                <div></div>
+                            </div>
+                        </div>
+                        <!-- <li class='bold tittle'><a href="#">Mainpage</a></li>
+                        <hr> -->
+                        <li class='bold tittle'><a href="../../../tournaments/upcoming">Tournaments</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/upcoming">Upcoming Events</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/completed">Completed Events</a></li>
+                        <li class='bold tittle'><a href="../../../event-archive">Event Archive</a></li>
+                        <li class='sub-nav'><a href="../../../worlds/main">World Championships</a></li>
+                        <li class='sub-nav'><a href="../../main">Major Events (ICs, Nats, SCs)</a></li>
+                        <li class='sub-nav'><a href="../../../tournaments/regional-spe" >Regionals & SPEs</a>
+                        </li>
+                        <li class='bold tittle'><a href="../../../decks-by-era/main">Decks by Era</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../articles/all"  >Articles</a></li>
+                        <li class='sub-nav'><a href="../../../articles/all">All Articles</a></li>
+                        <li class='sub-nav'><a href="../../../card-of-the-week/all">Card of the Week</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../other/main">Other</a></li>
+                        <li class='sub-nav'><a href="../../../card-database">Pokémon Card Database</a></li>
+                        <li class='sub-nav'><a href="../../../other/expansions">TCG Expansions</a></li>
+                        <li class='sub-nav'><a href="../../../other/rules-by-era">Rules by Era</a></li>
+                        <li class='sub-nav'><a href="../../../other/banned-cards">Banned Cards</a></li>
+                        <li class='sub-nav'><a href="../../../other/timeline">Historic Timeline</a></li>
+                        <li class='sub-nav'><a href="../../../other/worlds-booklets">Worlds Booklets</a></li>
+                        <li class='sub-nav'><a href="../../../archive-updates/all">Archive Updates</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../../../contact">Contact & Socials</a></li>
+                        <div class='social-popup'>
+                            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                                <img src='../../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                                <img src='../../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                                <img src='../../../assets/patreon.webp' />
+                            </a>
+                            <a href='mailto:ptcglegends@gmail.com'>
+                                <img src='../../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                        </div>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </nav>
+
+    <div class='contain-extra-nav'>
+        <div class='extra-nav'>
+            <a href='./summary'>Summary</a>
+            <a href='./results' class="active-extra underline">Final Results</a>
+            <a href='./region-results'>Region Results</a>
+            <a href='./streams' style='color:rgb(101, 101, 101);pointer-events:none;'>Streams</a>
+        </div>
+    </div>
+
+    <div id='modal-section'>
+        <div class='modal'>
+            <div class='modal-top'>
+                <div class='cs-plus-ap'>
+                    <p class='playerName'>Name</p>
+                </div>
+                <div class='modal-x'>
+                    <p>X</p>
+                </div>
+            </div>
+            <div class='modal-bottom'>
+                <!-- <div class='pokemon-card'> -->
+                    <!-- <img class='pok-card-small' src=''> -->
+                    <!-- <img class='num-1' src=''> -->
+                <!-- </div> -->
+            </div>
+        </div>
+    </div>
+<div class='behind-modal'></div>
+    <div class='second-behind-modal'></div>
+    <div class='contain-event'>
+         <div id="zoom-card-box"></div>
+        <div class='event-content'>
+            <div class='event-results'>
+                <div class='results-left'>
+                    <h2 class='center'>Players Cup IV Results</h2>
+                    <br>
+
+                    <ol class='masters-ol'>
+                        <!--Rendered masters List-->
+                    </ol>
+                    <ol class='seniors-ol'>
+                    </ol>
+                    <ol class='juniors-ol'>
+                    </ol>
+
+                </div>
+
+                <div class='results-right'>
+                    <div class='masters-meta'>
+                        <!-- <h2 class='center'>Top 64 Meta</h2> -->
+                        <!-- <img class='meta-chart' src='../../../assets/2023/23-naic-meta-chart.png'> -->
+                        <!-- <img class='meta-chart' style='border-radius:15px;width:80%;' src='../../../assets/2023/'> -->
+                         <!-- <p class='center italic' style='padding-bottom: 15px;'>Cyrus Davis - 2023 Masters NAIC Champion </p> -->
+                         <!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I finished this season 2nd in Canada, 18th in North America, and 24th in the world with an Internats 1st and Top 64, Regionals Top 16, Top 64, and 2 Top 128s, and top 32 in the London open. Kinda wild that it only gets me a day 1 invite but super excited to compete in Yokohama! <a href="https://t.co/xlJi84ZTsN">pic.twitter.com/xlJi84ZTsN</a></p>&mdash; Cyrus Davis (@CyrusDavisTCG) <a href="https://twitter.com/CyrusDavisTCG/status/1675933464720187413?ref_src=twsrc%5Etfw">July 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                         <blockquote class="twitter-tweet"><p lang="en" dir="ltr">2nd place at Naic still can’t believe the run that I just had. After spending all last week practicing before the event I knew that it could be a good run. I chose this deck because I knew that arceus vstar was one of the best choices for the event and it was my favorite flavor. <a href="https://t.co/to7pnXmAgv">pic.twitter.com/to7pnXmAgv</a></p>&mdash; Ian Robb (@Ian__Robb) <a href="https://twitter.com/Ian__Robb/status/1675878944120225793?ref_src=twsrc%5Etfw">July 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                    </div>
+                    <div class='seniors-meta'>
+                        <!-- <img class='meta-chart' style='border-radius:15px;width:80%;' src='../../../assets/2023/'> -->
+                        <!-- <p class='center italic' style='padding-bottom: 15px;'>Bodhi Robinson - 2023 Seniors NAIC Champion</p> -->
+                        <!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I WON NAIC! Did it with a pretty standard list as I figured that was the way to approach the deck. Seriously though, it feels amazing to win an IC after all of these years. I couldn’t have done it without my family and friends, especially the Gamer’s Basement and Hunter Butler. <a href="https://t.co/ufOa4lhjbB">pic.twitter.com/ufOa4lhjbB</a></p>&mdash; Bodhi Robinson (@BodhiRobinson) <a href="https://twitter.com/BodhiRobinson/status/1675658045064458241?ref_src=twsrc%5Etfw">July 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                        
+                    </div>
+                    <div class='juniors-meta'>
+                        <!-- <img class='meta-chart' style='border-radius:15px;width:70%;' src='../../../assets/2023/'> -->
+                    <!-- <p class='center italic' style='padding-bottom: 15px;'>Drake Z - 2023 Juniors NAIC Champion</p> -->
+                    <!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Step by step, I have collected all 3 colors of IC trophies. I&#39;m so happy today, for seeing my poke friends and for showing my 1st deck build. <a href="https://t.co/lo8obXE9GQ">pic.twitter.com/lo8obXE9GQ</a></p>&mdash; Ninjadrake (@NinjadrakeNZ) <a href="https://twitter.com/NinjadrakeNZ/status/1675692134224019457?ref_src=twsrc%5Etfw">July 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class='era-footer'>
+        <div id='foot-top'>
+            <a href="../../../tournaments/upcoming">Tournaments</a>
+            <a href="../../../event-archive">Event Archive</a>
+            <a href="../../../decks-by-era/main">Decks by Era</a>
+            <a href="../../../articles/all">Articles</a>
+        </div>
+        <div class='foot-mid'>
+            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                <img src='../../../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                <img src='../../../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                <img src='../../../assets/patreon.webp' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='../../../assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+        </div>
+        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon
+            Trading Card Game, including card text and images and tournament-related content, are copyrights of The
+            Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast.
+            This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company
+            (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This
+            website is simply a place for Pokémon TCG fans to look at events and results from the
+            greatest game in history!</div>
+    </footer>
+    <script src='../../../darkmode/darkmode-worlds-res-tweets2.js'></script>
+
+    <script src='./cup4.js'></script>
+    <script src='../../../worlds/division.js'></script>
+    <script src="../../../../index.js"></script>
+     
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+</body>
+
+</html>

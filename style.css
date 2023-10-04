@@ -154,6 +154,8 @@ hr {
     transition: ease all 0.2s;
     padding: 15px 0px 11px;
     display: block;
+    white-space: nowrap;
+    overflow: hidden;
 }
 .extra-nav a:hover {
     border-bottom: 4px solid rgb(224, 160, 22);
