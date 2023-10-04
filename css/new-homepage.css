@@ -37,6 +37,11 @@
     align-items: center;
     justify-content: space-between;
 }
+.flex-row-wide-out {
+    display: flex;
+    width: 100%;
+    align-items: start;
+}
 .side-icon {
     width: 17.5px;height:auto;
     border-radius: 5px;
@@ -385,6 +390,11 @@
     }
     
 }
+@media screen and (min-width: 1903px) {
+    .cotw-all {
+        min-width: 375px;
+    }
+}
 @media screen and (max-width: 1383px) {
     .welcome-header {
         font-size: 14px;
@@ -622,6 +632,9 @@
     .nart {
         margin-top: 10px;
     }
+    .fart {
+        margin-top: -30px;
+    }
     .homepage-box {
         height: 265px;
         width: 300px;
@@ -779,7 +792,7 @@
         display: none;
     }
     .move-more {
-        margin-top: -50px;
+        margin-top: -25px;
     }
     .article-type {
         bottom: 130px;
