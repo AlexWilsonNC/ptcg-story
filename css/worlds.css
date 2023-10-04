@@ -488,6 +488,7 @@ li {
 .masters-ol li,
 .seniors-ol li,
 .juniors-ol li, 
+.extras-ol li, 
 .yamato li,
 .four-ol li {
     border-bottom: 1px solid rgba(128, 128, 128, 0.04);
@@ -496,6 +497,7 @@ li {
 .masters-ol.darkon li,
 .seniors-ol.darkon li,
 .juniors-ol.darkon li,
+.extras-ol.darkon li,
 .yamato.darkon li,
 .four-ol.darkon li {
     color: white;
@@ -657,6 +659,8 @@ li {
 
 .seniors-ol,
 .juniors-ol,
+.extras-ol,
+.extras-meta,
 .seniors-meta,
 .juniors-meta {
     display: none;
@@ -1118,10 +1122,18 @@ li {
     margin: 7.5px 0px;
     box-shadow: 2px 2px 4px black;
 }
+.pcup-results {
+    font-size: 12px;
+}
 
 @media screen and (max-width: 700px) {
     #zoom-card-box img {
         height: 70%;
+    }
+}
+@media screen and (max-width: 900px) {
+    .pcup-results {
+        font-size: 10px;
     }
 }
 
@@ -1860,6 +1872,7 @@ li {
     .masters-ol,
     .seniors-ol,
     .juniors-ol,
+    .extras-ol,
     .four-ol {
         margin-left: 20px;
     }

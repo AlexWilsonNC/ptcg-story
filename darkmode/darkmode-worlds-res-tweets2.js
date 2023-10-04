@@ -13,6 +13,7 @@ const extranav = document.querySelector('.extra-nav');
 const mastersol = document.querySelector('.masters-ol');
 const seniorsol = document.querySelector('.seniors-ol');
 const juniorsol = document.querySelector('.juniors-ol');
+const extrasol = document.querySelector('.extras-ol');
 const h2 = document.querySelectorAll('h2');
 const pp = document.querySelectorAll('p');
 const twittertweet = document.querySelectorAll('.twitter-tweet');
@@ -36,9 +37,18 @@ const enableDarkMode = () => {
     };
     window.onload = addAttribute;
 
-    mastersol.classList.add('darkon');
-    seniorsol.classList.add('darkon');
-    juniorsol.classList.add('darkon');
+    if (mastersol) {
+      mastersol.classList.add('darkon');
+    }
+    if (seniorsol) {
+      seniorsol.classList.add('darkon');
+    }
+    if (juniorsol) {
+      juniorsol.classList.add('darkon');
+    }
+    if (extrasol) {
+      extrasol.classList.add('darkon');
+    }
 
     pp.forEach((pp) => {
       pp.classList.add('darkon');
@@ -67,10 +77,18 @@ const enableDarkMode = () => {
     extranav.classList.remove('darkon');
 
     document.querySelectorAll('[src="../../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon.png'));
-    mastersol.classList.remove('darkon');
-    seniorsol.classList.remove('darkon');
-    juniorsol.classList.remove('darkon');
-
+    if (mastersol) {
+      mastersol.classList.remove('darkon');
+    }
+    if (seniorsol) {
+      seniorsol.classList.remove('darkon');
+    }
+    if (juniorsol) {
+      juniorsol.classList.remove('darkon');
+    }
+    if (extrasol) {
+      extrasol.classList.remove('darkon');
+    }
     pp.forEach((pp) => {
       pp.classList.remove('darkon');
     })
