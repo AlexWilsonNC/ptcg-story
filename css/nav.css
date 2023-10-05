@@ -38,7 +38,7 @@
 .legendsr {
     font-size: 46px;
     font-family: 'Permanent Marker', cursive;
-    /* color: rgb(224, 160, 22); */
+    text-shadow: 1px 1px 1px black;
     color: rgb(197, 142, 23);
 }
 #nav-rightr {
