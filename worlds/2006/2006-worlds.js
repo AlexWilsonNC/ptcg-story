@@ -494,7 +494,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2004-2006/rockets-poke-ball.png',
+        cardImg: '../../assets/cards/2004-2006/tr.089.rockets_poke_ball.jpg',
         numImg: '../../assets/04.png'
       },
       {
@@ -1118,7 +1118,7 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2004-2006/rockets-poke-ball.png',
+        cardImg: '../../assets/cards/2004-2006/tr.089.rockets_poke_ball.jpg',
         numImg: '../../assets/01.png'
       },
       {
@@ -1420,7 +1420,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2004-2006/rockets-poke-ball.png',
+        cardImg: '../../assets/cards/2004-2006/tr.089.rockets_poke_ball.jpg',
         numImg: '../../assets/04.png'
       },
       {
@@ -1776,7 +1776,7 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2004-2006/rockets-poke-ball.png',
+        cardImg: '../../assets/cards/2004-2006/tr.089.rockets_poke_ball.jpg',
         numImg: '../../assets/01.png'
       },
       {

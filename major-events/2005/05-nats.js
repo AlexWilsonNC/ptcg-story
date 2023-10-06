@@ -376,8 +376,9 @@ let juniors = [
                 numImg: '../../assets/01.png',
             },
             {
-                cardImg: '../../assets/cards/2004-2006/rockets-poke-ball.png',
+                cardImg: '../../assets/cards/2004-2006/tr.089.rockets_poke_ball.jpg',
                 numImg: '../../assets/04.png',
+                radiusCard: true
             },
             {
                 cardImg: '../../assets/cards/2004-2006/dual-ball-old.png',
@@ -735,8 +736,9 @@ let fiveEvent = [
                 numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/rockets-poke-ball.png',
-                numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2004-2006/tr.089.rockets_poke_ball.jpg',
+                numImg: '../../assets/02.png',
+                radiusCard: true
             },
             {
                 cardImg: '../../assets/cards/2004-2006/pokemon-retriever.png',
@@ -906,8 +908,9 @@ let sixEvent = [
                 numImg: '../../assets/02.png'
             },
             {
-                cardImg: '../../assets/cards/2004-2006/rockets-poke-ball.png',
-                numImg: '../../assets/02.png'
+                cardImg: '../../assets/cards/2004-2006/tr.089.rockets_poke_ball.jpg',
+                numImg: '../../assets/02.png',
+                radiusCard: true
             },
             {
                 cardImg: '../../assets/cards/2004-2006/rare-candy-e-reader.png',
