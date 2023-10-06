@@ -19,6 +19,8 @@ const dropitdown2 = document.querySelector('.drop-it-down2');
 const titlehr = document.querySelectorAll('.title-hr');
 const bio = document.querySelector('.author-bio');
 const h4 = document.querySelector('h4');
+const articletable = document.querySelector('.article-table');
+const rightitbox = document.querySelectorAll('.right-it-box');
 
 const tbp3 = document.querySelector('.tbp3');
 const articletitle = document.querySelectorAll('.article-title');
@@ -37,11 +39,19 @@ const enableDarkMode = () => {
     if (bio) {
       bio.classList.add('darkon');
     }
+    if (rightitbox) {
+      rightitbox.forEach((rightitbox) => {
+        rightitbox.classList.remove('darkon');
+      })    
+    }
     if (h4) {
       h4.classList.add('darkon');
     }
     if (tbp3) {
       tbp3.classList.add('darkon');
+    }
+    if (articletable) {
+        articletable.classList.add('darkon');
     }
     if (articletitle) {
       articletitle.forEach((articletitle) => {
@@ -112,9 +122,17 @@ const enableDarkMode = () => {
     if (tbp3) {
       tbp3.classList.remove('darkon');
     }
+    if (articletable) {
+        articletable.classList.remove('darkon');
+    }
     if (articletitle) {
       articletitle.forEach((articletitle) => {
         articletitle.classList.remove('darkon');
+      })    
+    }
+    if (rightitbox) {
+      rightitbox.forEach((rightitbox) => {
+        rightitbox.classList.remove('darkon');
       })    
     }
     if (titlehr) {
