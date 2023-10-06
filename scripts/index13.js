@@ -19,6 +19,8 @@ const deckbuildE = document.querySelector('.deckbuilde');
 const deckbuildF = document.querySelector('.deckbuildf');
 const deckbuildG = document.querySelector('.deckbuildg');
 const deckbuildH = document.querySelector('.deckbuildh');
+const deckbuild100 = document.querySelector('.deckbuild100');
+const deckbuild200 = document.querySelector('.deckbuild200');
 
 const buildBox1 = document.querySelector('.build-box1');
 const buildBox2 = document.querySelector('.build-box2');
@@ -41,6 +43,8 @@ const buildBoxE = document.querySelector('.build-boxe');
 const buildBoxF = document.querySelector('.build-boxf');
 const buildBoxG = document.querySelector('.build-boxg');
 const buildBoxH = document.querySelector('.build-boxh');
+const buildBox100 = document.querySelector('.build-box100');
+const buildBox200 = document.querySelector('.build-box200');
 
 const descBox1 = document.querySelector('.descrip-box1');
 const descBox2 = document.querySelector('.descrip-box2');
@@ -63,6 +67,8 @@ const descBoxE = document.querySelector('.descrip-boxe');
 const descBoxF = document.querySelector('.descrip-boxf');
 const descBoxG = document.querySelector('.descrip-boxg');
 const descBoxH = document.querySelector('.descrip-boxh');
+const descBox100 = document.querySelector('.descrip-box100');
+const descBox200 = document.querySelector('.descrip-box200');
 
 function changeToBuild1() {
     deckbuild1.classList.add('dark-bg');
@@ -352,6 +358,27 @@ function changeToBuildH() {
     descBoxH.style.display = 'flex';
 }
 
+function changeToBuild100() {
+    deckbuild100.classList.add('dark-bg');
+    deckbuild200.classList.remove('dark-bg');
+    deckbuild200.classList.add('light-bg');
+
+    buildBox100.style.display = 'flex';
+    buildBox200.style.display = 'none';
+    descBox100.style.display = 'flex';
+    descBox200.style.display = 'none';
+}
+function changeToBuild200() {
+    deckbuild200.classList.add('dark-bg');
+    deckbuild100.classList.remove('dark-bg');
+    deckbuild100.classList.add('light-bg');
+
+    buildBox200.style.display = 'flex';
+    buildBox100.style.display = 'none';
+    descBox100.style.display = 'none';
+    descBox200.style.display = 'flex';
+}
+
 deckbuild1.addEventListener('click', changeToBuild1)
 deckbuild2.addEventListener('click', changeToBuild2)
 
@@ -381,3 +408,6 @@ deckbuildF.addEventListener('click', changeToBuildF)
 
 deckbuildG.addEventListener('click', changeToBuildG)
 deckbuildH.addEventListener('click', changeToBuildH)
+
+deckbuild100.addEventListener('click', changeToBuild100)
+deckbuild200.addEventListener('click', changeToBuild200)
