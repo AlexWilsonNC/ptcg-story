@@ -139,10 +139,10 @@
     font-weight: 600;
     font-style: italic;
 }
-.modern-article {
+.retro-article {
     background-color: rgb(0, 94, 255);
 }
-.retro-article {
+.modern-article {
     background-color: rgb(238, 65, 34);
 }
 .other-article {

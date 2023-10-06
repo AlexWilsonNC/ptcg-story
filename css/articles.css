@@ -120,6 +120,9 @@ img{
     width: 85%;
     margin-bottom: 15px;
 }
+.article-content.darkon h4 {
+    color: white;
+}
 .center-cards-of-week {
     display: flex;
     flex-direction: row;

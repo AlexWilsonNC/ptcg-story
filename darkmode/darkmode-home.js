@@ -18,6 +18,7 @@ const dropitdown1 = document.querySelector('.drop-it-down1');
 const dropitdown2 = document.querySelector('.drop-it-down2');
 const titlehr = document.querySelectorAll('.title-hr');
 const bio = document.querySelector('.author-bio');
+const h4 = document.querySelector('h4');
 
 const tbp3 = document.querySelector('.tbp3');
 const articletitle = document.querySelectorAll('.article-title');
@@ -35,6 +36,9 @@ const enableDarkMode = () => {
     }
     if (bio) {
       bio.classList.add('darkon');
+    }
+    if (h4) {
+      h4.classList.add('darkon');
     }
     if (tbp3) {
       tbp3.classList.add('darkon');
@@ -101,6 +105,9 @@ const enableDarkMode = () => {
     }
     if (bio) {
       bio.classList.remove('darkon');
+    }
+    if (h4) {
+      h4.classList.remove('darkon');
     }
     if (tbp3) {
       tbp3.classList.remove('darkon');
