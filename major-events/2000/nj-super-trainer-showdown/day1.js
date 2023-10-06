@@ -1472,7 +1472,7 @@ let seniors = [
                 oldCard: true
             },
             {
-                cardImg: '../../../assets/cards/base-fossil/bs.052.machop.jpg',
+                cardImg: '../../../assets/cards/base-fossil/ro.059.machop.jpg',
                 numImg: '../../../assets/02.png',
                 oldCard: true
             },
