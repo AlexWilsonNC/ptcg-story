@@ -206,7 +206,7 @@ let masters = [
         oldCard: true
       },
       {
-        cardImg: '../../assets/cards/e-reader/fan-club.jpg',
+        cardImg: '../../assets/cards/e-reader/town-volunteers.jpg',
         numImg: '../../assets/01.png',
         oldCard: true
       },
@@ -239,7 +239,7 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/e-reader/rainbow-energy.jpg',
+        cardImg: '../../assets/cards/e-reader/warp-energy.jpg',
         numImg: '../../assets/01.png',
         oldCard: true
       }
