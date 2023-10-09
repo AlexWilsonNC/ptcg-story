@@ -314,6 +314,13 @@
     background-repeat: no-repeat;
     width:33%;height:100%;
 }
+.left-vs-yanmega {
+    background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/yanmega.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
+}
 .left-vs-blastoise {
     background-image: linear-gradient(to right, transparent, rgba(49,49,49,0) 70%, rgba(49,49,49,0.2) 75%, rgba(49,49,49,0.4) 80%, rgba(49,49,49,0.6) 85%, rgba(49,49,49,0.7) 90%, rgba(49,49,49,1) 100%), url(../assets/vs-formats/blastoise.png);
     background-size: cover;
