@@ -285,7 +285,7 @@ let masters = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023/articuno-151.png',
+        cardImg: '../../../assets/cards/2022-2023/articuno-pogo.png',
         numImg: '../../../assets/01.png'
       },
       {
