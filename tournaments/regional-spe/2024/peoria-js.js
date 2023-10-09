@@ -304,16 +304,20 @@ let masters = [
         numImg: '../../../assets/02.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023/nest-ball.png',
-        numImg: '../../../assets/02.png'
-      },
-      {
         cardImg: '../../../assets/cards/2022-2023/escape-rope.png',
         numImg: '../../../assets/02.png'
       },
       {
         cardImg: '../../../assets/cards/2022-2023/grabber.png',
         numImg: '../../../assets/02.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/nest-ball.png',
+        numImg: '../../../assets/01.png'
+      },
+      {
+        cardImg: '../../../assets/cards/2022-2023/heavy-ball-hisuian.png',
+        numImg: '../../../assets/01.png'
       },
       {
         cardImg: '../../../assets/cards/2022-2023/pal-pad-sv.png',
