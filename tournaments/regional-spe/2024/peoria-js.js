@@ -78,7 +78,7 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023/energy-retrieval-sv.png',
+        cardImg: '../../../assets/cards/2022-2023/energy-recycler.png',
         numImg: '../../../assets/02.png'
       },
       {
