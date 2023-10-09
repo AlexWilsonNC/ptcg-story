@@ -110,12 +110,12 @@ let masters = [
         numImg: '../../../assets/01.png'
       },
       {
-        cardImg: '../../../assets/cards/new-energy/scvi-metal-energy.jpg',
+        cardImg: '../../../assets/cards/new-energy/scvi-water-energy.jpg',
         numImg: '../../../assets/04.png',
         radiusCard: true
       },
       {
-        cardImg: '../../../assets/cards/new-energy/scvi-water-energy.jpg',
+        cardImg: '../../../assets/cards/new-energy/scvi-metal-energy.jpg',
         numImg: '../../../assets/04.png',
         radiusCard: true
       },
