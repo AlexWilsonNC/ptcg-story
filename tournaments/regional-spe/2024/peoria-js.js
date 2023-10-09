@@ -545,7 +545,7 @@ let masters = [
         cardImg: '../../../assets/cards/new-energy/scvi-lightning-energy.jpg',
         numImg: '../../../assets/14.png',
         radiusCard: true
-      },
+      }, 
     ]
   },
   {
