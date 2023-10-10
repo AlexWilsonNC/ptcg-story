@@ -577,8 +577,8 @@ let masters = [
   },
   {
     firstName: 'Chan Hon Fee',
-    sprite1: '../../../assets/sprites/giratina-origin.png',
-    sprite2: '../../../assets/sprites/comfey.png',
+    sprite1: '../../../assets/sprites/charizard.png',
+    sprite2: '../../../assets/sprites/arceus.png',
     // list: '../../../assets/list-icon.png',
     list: '../../../assets/sprites/blank.png',
     type: 'dark',
