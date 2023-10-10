@@ -127,6 +127,7 @@
                 <option value="internationals">Internationals</option>
                 <option value="regionals">Regionals</option>
                 <option value="special-event">Special Events</option>
+                <option value="regional-league">Asia-Pacific Events</option>
             </select>
 
             <table class='upcoming-events-table'>
@@ -174,10 +175,20 @@
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
                         <div><img src='../assets/flags/brazil.png' /></div>
-                        <div>Latin American Internationals</div>
+                        <div><a href='../major-events/2024/laic/summary'>Latin American Internationals</a></div>
                     </td>
                     <td><a href='https://rk9.gg/tournament/LA1KwuOf7o9YjRkA9dlBFO8' target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
-                    <td><a href='./regional-spe/2024/laic'><i
+                    <td><a href='./regional-spe/2024/laic'><i class="fa-solid fa-book-open-reader"></i></a></td>
+                </tr>
+                <tr class='regional-league'>
+                    <td>Nov 18 - 19</td>
+                    <td><img class='event-type-logo2' src='../assets/event-logos/regional-league.png' /></td>
+                    <td>
+                        <div><img src='../assets/flags/philippines.png' /></div>
+                        <div><a href='./regional-spe/2024/philippines-regional-league1'>Philippines Regional League #1</a></div>
+                    </td>
+                    <td><a href='https://asia.pokemon-card.com/ph/archives/4681/' target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></td>
+                    <td><a href='./regional-spe/2024/philippines-regional-league1'><i
                         class="fa-solid fa-book-open-reader"></i></a></td>
                 </tr>
                 <tr class='regionals'>
@@ -412,6 +423,7 @@
         const internationals = document.querySelectorAll(".internationals");
         const regionals = document.querySelectorAll(".regionals");
         const specialEvent = document.querySelectorAll(".special-event");
+        const regionalLeague = document.querySelectorAll(".regional-league");
 
         function filterEvents() {
           var x = document.getElementById("mySelect").value;
@@ -432,6 +444,10 @@
                 specialEvent.style.display = 'table-row';
                 specialEvent.classList.remove('new-red-bg');
             });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'table-row';
+                regionalLeague.classList.remove('new-red-bg');
+            });
           } else if (x === "worlds") {
             worlds.forEach((worlds) => {
                 worlds.style.display = 'table-row';
@@ -445,6 +461,9 @@
             });
             specialEvent.forEach((specialEvent) => {
                 specialEvent.style.display = 'none';
+            });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
             });
           } else if (x === "internationals") {
             worlds.forEach((worlds) => {
@@ -460,6 +479,9 @@
             specialEvent.forEach((specialEvent) => {
                 specialEvent.style.display = 'none';
             });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
+            });
           } else if (x === "regionals") {
             worlds.forEach((worlds) => {
                 worlds.style.display = 'none';
@@ -473,6 +495,9 @@
             });
             specialEvent.forEach((specialEvent) => {
                 specialEvent.style.display = 'none';
+            });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
             });
           } else if (x === "special-event") {
             worlds.forEach((worlds) => {
@@ -488,7 +513,27 @@
                 specialEvent.style.display = 'table-row';
                 specialEvent.classList.add('new-red-bg');
             });
-          }
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
+            });
+        } else if (x === "regional-league") {
+            worlds.forEach((worlds) => {
+                worlds.style.display = 'none';
+            });
+            internationals.forEach((internationals) => {
+                internationals.style.display = 'none';
+            });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'table-row';
+                regionalLeague.classList.add('new-red-bg');
+            });
+            regionals.forEach((regionals) => {
+                regionals.style.display = 'none';
+            });
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'none';
+            });
+        }
         }
     </script>
 
