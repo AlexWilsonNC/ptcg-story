@@ -134,6 +134,7 @@
                 <option value="internationals">Internationals</option>
                 <option value="regionals">Regionals</option>
                 <option value="special-event">Special Events</option>
+                <option value="regional-league">Asia-Pacific Events</option>
                 <option value="players-cup">Players Cups</option>
                 <option value="nationals">Nationals</option>
                 <option value="stadium-challenge">Stadium Challenges</option>
@@ -149,7 +150,7 @@
                     <th>Results</th>
                 </tr>
 
-                  <tr class='regionals all-tr'>
+                <tr class='regionals all-tr'>
                     <td>Oct 6 - 8, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
                     <td>
@@ -159,6 +160,18 @@
                     <td><a href='../tournaments/regional-spe/2024/peoria'><i
                         class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../tournaments/regional-spe/2024/peoria'><i
+                        class="fa-regular fa-rectangle-list"></i></a></td>
+                </tr>   
+                <tr class='regional-league all-tr'>
+                    <td>Oct 7 - 8, 2023</td>
+                    <td><img class='event-type-logo2' src='../assets/event-logos/regional-league.png' /></td>
+                    <td>
+                        <div><img src='../assets/flags/liberia-malaysia.png' /></div>
+                        <div><a href='../tournaments/regional-spe/2024/malaysia-regional-league1'>Malaysia Regional League #1</a></div>
+                    </td>
+                    <td><a href='../tournaments/regional-spe/2024/malaysia-regional-league1'><i
+                        class="fa-solid fa-book-open-reader"></i></a></td>
+                    <td><a href='../tournaments/regional-spe/2024/malaysia-regional-league1'><i
                         class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>   
                 <tr class='regionals all-tr'>
@@ -1143,6 +1156,7 @@
         const worlds = document.querySelectorAll(".worlds");
         const internationals = document.querySelectorAll(".internationals");
         const regionals = document.querySelectorAll(".regionals");
+        const regionalLeague = document.querySelectorAll(".regional-league");
         const playersCup = document.querySelectorAll(".players-cup");
         const nationals = document.querySelectorAll(".nationals");
         const stadiumChallenge = document.querySelectorAll(".stadium-challenge");
@@ -1163,6 +1177,9 @@
             regionals.forEach((regionals) => {
                 regionals.style.display = 'table-row';
                 regionals.classList.remove('new-red-bg');
+            });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
             });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'table-row';
@@ -1195,6 +1212,9 @@
             regionals.forEach((regionals) => {
                 regionals.style.display = 'none';
             });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
+            });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'none';
             });
@@ -1220,6 +1240,9 @@
             });
             regionals.forEach((regionals) => {
                 regionals.style.display = 'none';
+            });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
             });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'none';
@@ -1247,6 +1270,38 @@
                 regionals.style.display = 'table-row';
                 regionals.classList.add('new-red-bg');
             });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
+            });
+            playersCup.forEach((playersCup) => {
+                playersCup.style.display = 'none';
+            });
+            nationals.forEach((nationals) => {
+                nationals.style.display = 'none';
+            });
+            stadiumChallenge.forEach((stadiumChallenge) => {
+                stadiumChallenge.style.display = 'none';
+            });
+            superTrainerShowdown.forEach((superTrainerShowdown) => {
+                superTrainerShowdown.style.display = 'none';
+            });
+            specialEvent.forEach((specialEvent) => {
+                specialEvent.style.display = 'none';
+            });
+          } else if (x === "regional-league") {
+            worlds.forEach((worlds) => {
+                worlds.style.display = 'none';
+            });
+            internationals.forEach((internationals) => {
+                internationals.style.display = 'none';
+            });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'table-row';
+                regionalLeague.classList.add('new-red-bg');
+            });
+            regionals.forEach((regionals) => {
+                regionals.style.display = 'none';
+            });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'none';
             });
@@ -1271,6 +1326,9 @@
             });
             regionals.forEach((regionals) => {
                 regionals.style.display = 'none';
+            });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
             });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'table-row';
@@ -1298,6 +1356,9 @@
             regionals.forEach((regionals) => {
                 regionals.style.display = 'none';
             });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
+            });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'none';
             });
@@ -1323,6 +1384,9 @@
             });
             regionals.forEach((regionals) => {
                 regionals.style.display = 'none';
+            });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
             });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'none';
@@ -1350,6 +1414,9 @@
             regionals.forEach((regionals) => {
                 regionals.style.display = 'none';
             });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
+            });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'none';
             });
@@ -1375,6 +1442,9 @@
             });
             regionals.forEach((regionals) => {
                 regionals.style.display = 'none';
+            });
+            regionalLeague.forEach((regionalLeague) => {
+                regionalLeague.style.display = 'none';
             });
             playersCup.forEach((playersCup) => {
                 playersCup.style.display = 'none';
