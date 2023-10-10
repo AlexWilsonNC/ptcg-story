@@ -453,7 +453,6 @@ let masters = [
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/miraidon.png',
     sprite2: '../../../assets/sprites/flaaffy.png',
-    list: '../../../assets/sprites/blank.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
