@@ -438,13 +438,13 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
+        cardImg: '../../../assets/cards/2022-2023/beach-court.png',
+        numImg: '../../../assets/02.png'
+      },
+      {
         cardImg: '../../../assets/cards/new-energy/scvi-lightning-energy.jpg',
         numImg: '../../../assets/14.png',
         radiusCard: true
-      },
-      {
-        cardImg: '../../../assets/cards/energy/question-mark.png',
-        numImg: '../../../assets/02.png'
       },
     ]
   },
