@@ -31850,21 +31850,23 @@ function displayList(array = []) {
                         if (card.set === "PR") {
                             pokeCard.setAttribute('src', "https://ptcglegends.com/assets/cards/promo/PR-" + card.number + ".png");
                         }
+                        // item.decklist[cardType].sort(function(a, b){return a.card.count - b.card.count});
+                        // item.decklist.trainer.sort(function(a, b){return a.count - b.count});
+                        // item.decklist.energy.sort(function(a, b){return a.count - b.count});
 
                         let zoomedImg = document.getElementById("insert-zoomed-img");
                         let zoombox = document.getElementById("zoomed-bg");
 
                         pokeCard.onclick = () => {
                             zoomedImg.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + "_hires.png");
+                            if (card.set === "PR") {
+                                pokeCard.setAttribute('src', "https://ptcglegends.com/assets/cards/promo/PR-" + card.number + "_hires.png");
+                            }
                             zoombox.className = "show";
                         };
                         zoombox.onclick = () => {
                             zoombox.className = "";
                         };
-
-                        item.decklist.pokemon.sort(function(a, b){return a-b});
-                        item.decklist.trainer.sort(function(a, b){return a-b});
-                        item.decklist.energy.sort(function(a, b){return a-b});
 
                         if (deck.radiusCard === true) {
                             pokeCard.classList.add('radius-card')
