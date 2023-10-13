@@ -14,11 +14,11 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: 'https://images.pokemontcg.io/swsh11/79.png',
+        cardImg: '../../../assets/cards/2022-2023/comfey.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: 'https://images.pokemontcg.io/swsh11/70.png',
+        cardImg: '../../../assets/cards/2022-2023/sableye.png',
         numImg: '../../../assets/02.png'
       },
       {
@@ -962,10 +962,11 @@ function displayList(array = []) {
 
           let pokeCard = document.createElement('img');
           pokeCard.classList.add('pok-card-small')
+
           pokeCard.setAttribute('src', deck.cardImg);
           if (deck.radiusCard === true) {
             pokeCard.classList.add('radius-card')
-        }
+          }
 
           let numberCounter = document.createElement('img');
           numberCounter.classList.add('num-1')

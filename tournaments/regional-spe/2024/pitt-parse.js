@@ -1,7 +1,4 @@
 const masterList = document.querySelector('.masters-ol');
-// const seniorList = document.querySelector('.seniors-ol');
-// const juniorList = document.querySelector('.juniors-ol');
-
 const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
@@ -9,6 +6,8 @@ let masters = [
         "name": "Andrew Estrada",
         "flag": "CA",
         "placing": 1,
+        "event": "Pittsburgh",
+        "event": "Pittsburgh",
         "record": {
             "wins": 15,
             "losses": 2,
@@ -44,7 +43,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -93,8 +92,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 3,
@@ -195,6 +194,7 @@ let masters = [
         "name": "Jesse Parker",
         "flag": "US",
         "placing": 2,
+        "event": "Pittsburgh",
         "record": {
             "wins": 14,
             "losses": 2,
@@ -357,6 +357,7 @@ let masters = [
         "name": "Collin Merli-Matthews",
         "flag": "US",
         "placing": 3,
+        "event": "Pittsburgh",
         "record": {
             "wins": 13,
             "losses": 3,
@@ -537,6 +538,7 @@ let masters = [
         "name": "Andrew Hedrick",
         "flag": "US",
         "placing": 4,
+        "event": "Pittsburgh",
         "record": {
             "wins": 12,
             "losses": 2,
@@ -699,6 +701,7 @@ let masters = [
         "name": "Michael Chen",
         "flag": "US",
         "placing": 5,
+        "event": "Pittsburgh",
         "record": {
             "wins": 12,
             "losses": 3,
@@ -759,8 +762,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -861,6 +864,7 @@ let masters = [
         "name": "Adam Reinhardt",
         "flag": "US",
         "placing": 6,
+        "event": "Pittsburgh",
         "record": {
             "wins": 12,
             "losses": 4,
@@ -1041,6 +1045,7 @@ let masters = [
         "name": "Lucas Xing",
         "flag": "CA",
         "placing": 7,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 2,
@@ -1197,6 +1202,7 @@ let masters = [
         "name": "Rahul Reddy",
         "flag": "US",
         "placing": 8,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 3,
@@ -1359,6 +1365,7 @@ let masters = [
         "name": "Isaiah Bradner",
         "flag": "US",
         "placing": 9,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 0,
@@ -1419,8 +1426,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -1533,6 +1540,7 @@ let masters = [
         "name": "Nicholas Moffitt",
         "flag": "US",
         "placing": 10,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 2,
@@ -1568,7 +1576,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -1593,8 +1601,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 4,
@@ -1707,6 +1715,7 @@ let masters = [
         "name": "Michael Davidson",
         "flag": "US",
         "placing": 11,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 2,
@@ -1887,6 +1896,7 @@ let masters = [
         "name": "Hunter Butler",
         "flag": "US",
         "placing": 12,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 2,
@@ -1922,7 +1932,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -1947,8 +1957,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -2061,6 +2071,7 @@ let masters = [
         "name": "Sawyer Melban",
         "flag": "US",
         "placing": 13,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 2,
@@ -2102,7 +2113,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -2121,8 +2132,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -2229,6 +2240,7 @@ let masters = [
         "name": "Noah Sawyer",
         "flag": "US",
         "placing": 14,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 3,
@@ -2397,6 +2409,7 @@ let masters = [
         "name": "Tyler Mathews",
         "flag": "US",
         "placing": 15,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 3,
@@ -2523,8 +2536,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -2577,6 +2590,7 @@ let masters = [
         "name": "Caleb Gedemer",
         "flag": "US",
         "placing": 16,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 3,
@@ -2745,6 +2759,7 @@ let masters = [
         "name": "Dre Alderette",
         "flag": "US",
         "placing": 17,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 3,
@@ -2877,8 +2892,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -2937,6 +2952,7 @@ let masters = [
         "name": "Brendan Cevasco",
         "flag": "US",
         "placing": 18,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 3,
@@ -3111,6 +3127,7 @@ let masters = [
         "name": "Landen Kaetler",
         "flag": "CA",
         "placing": 19,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 3,
@@ -3273,6 +3290,7 @@ let masters = [
         "name": "Benjamin Howard",
         "flag": "US",
         "placing": 20,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 3,
@@ -3417,6 +3435,7 @@ let masters = [
         "name": "Dan Hugar",
         "flag": "US",
         "placing": 21,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 2,
@@ -3525,8 +3544,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 4,
@@ -3573,6 +3592,7 @@ let masters = [
         "name": "Bryan McDaniel",
         "flag": "US",
         "placing": 22,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 4,
@@ -3735,6 +3755,7 @@ let masters = [
         "name": "Austin Ellis",
         "flag": "CA",
         "placing": 23,
+        "event": "Pittsburgh",
         "record": {
             "wins": 11,
             "losses": 4,
@@ -3795,8 +3816,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -3903,6 +3924,7 @@ let masters = [
         "name": "Gabe Shumway",
         "flag": "US",
         "placing": 24,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 2,
@@ -4077,6 +4099,7 @@ let masters = [
         "name": "Vance Kelley",
         "flag": "US",
         "placing": 25,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 2,
@@ -4257,6 +4280,7 @@ let masters = [
         "name": "Vincent D'Arcy",
         "flag": "US",
         "placing": 26,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 2,
@@ -4311,8 +4335,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -4419,6 +4443,7 @@ let masters = [
         "name": "Jon Eng",
         "flag": "US",
         "placing": 27,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -4593,6 +4618,7 @@ let masters = [
         "name": "Noah Hanerland",
         "flag": "US",
         "placing": 28,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -4755,6 +4781,7 @@ let masters = [
         "name": "Johnny Rabus",
         "flag": "US",
         "placing": 29,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -4929,6 +4956,7 @@ let masters = [
         "name": "Tord Reklev",
         "flag": "NO",
         "placing": 30,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -5121,6 +5149,7 @@ let masters = [
         "name": "Elliott Chereches",
         "flag": "CA",
         "placing": 31,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -5265,6 +5294,7 @@ let masters = [
         "name": "Christian Chase",
         "flag": "US",
         "placing": 32,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -5288,7 +5318,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -5325,8 +5355,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -5439,6 +5469,7 @@ let masters = [
         "name": "Grant Manley",
         "flag": "US",
         "placing": 33,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -5619,6 +5650,7 @@ let masters = [
         "name": "Calvin Connor",
         "flag": "US",
         "placing": 34,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -5781,6 +5813,7 @@ let masters = [
         "name": "Christopher Venier",
         "flag": "CA",
         "placing": 35,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -5961,6 +5994,7 @@ let masters = [
         "name": "Jeremy Gibson",
         "flag": "US",
         "placing": 36,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -6145,8 +6179,9 @@ let masters = [
     },
     {
         "name": "Haru Nishikawa",
-        "flag": "../../../assets/flags/japan.png",
+        "flag": "JP",
         "placing": 37,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -6327,6 +6362,7 @@ let masters = [
         "name": "Luke Smith",
         "flag": "US",
         "placing": 38,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -6489,6 +6525,7 @@ let masters = [
         "name": "Regan Retzloff",
         "flag": "US",
         "placing": 39,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -6669,6 +6706,7 @@ let masters = [
         "name": "Rowan Stavenow",
         "flag": "CA",
         "placing": 40,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -6837,6 +6875,7 @@ let masters = [
         "name": "Isaiah Cheville",
         "flag": "US",
         "placing": 41,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 3,
@@ -7017,6 +7056,7 @@ let masters = [
         "name": "Joshua Curtin",
         "flag": "US",
         "placing": 42,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -7179,6 +7219,7 @@ let masters = [
         "name": "Ivan Chan",
         "flag": "US",
         "placing": 43,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -7347,6 +7388,7 @@ let masters = [
         "name": "Mike Newey",
         "flag": "US",
         "placing": 44,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -7521,6 +7563,7 @@ let masters = [
         "name": "Gregory Playter",
         "flag": "US",
         "placing": 45,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -7581,8 +7624,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -7689,6 +7732,7 @@ let masters = [
         "name": "Gibson Archer-Tang",
         "flag": "US",
         "placing": 46,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -7881,6 +7925,7 @@ let masters = [
         "name": "Zach Lesage",
         "flag": "CA",
         "placing": 47,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -8043,6 +8088,7 @@ let masters = [
         "name": "Benjamin McEachen",
         "flag": "US",
         "placing": 48,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -8229,6 +8275,7 @@ let masters = [
         "name": "Grayson Lang",
         "flag": "US",
         "placing": 49,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -8403,6 +8450,7 @@ let masters = [
         "name": "Hunter Smith",
         "flag": "US",
         "placing": 50,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -8583,6 +8631,7 @@ let masters = [
         "name": "Jacky Su",
         "flag": "CA",
         "placing": 51,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -8745,6 +8794,7 @@ let masters = [
         "name": "Daniel Lopez",
         "flag": "US",
         "placing": 52,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -8768,7 +8818,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -8805,8 +8855,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -8925,6 +8975,7 @@ let masters = [
         "name": "Erin McCann",
         "flag": "US",
         "placing": 53,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -9081,6 +9132,7 @@ let masters = [
         "name": "Ryan Bownes",
         "flag": "US",
         "placing": 54,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 2,
@@ -9255,6 +9307,7 @@ let masters = [
         "name": "Harris Noor",
         "flag": "US",
         "placing": 55,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -9417,6 +9470,7 @@ let masters = [
         "name": "Benjamin Nackman",
         "flag": "US",
         "placing": 56,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -9603,6 +9657,7 @@ let masters = [
         "name": "Ryan Harris",
         "flag": "US",
         "placing": 57,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 2,
@@ -9663,8 +9718,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -9789,6 +9844,7 @@ let masters = [
         "name": "Ryan Sabelhaus",
         "flag": "US",
         "placing": 58,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 2,
@@ -9843,8 +9899,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -9933,6 +9989,7 @@ let masters = [
         "name": "Christopher Wigelsworth",
         "flag": "US",
         "placing": 59,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -10005,8 +10062,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 3,
@@ -10119,6 +10176,7 @@ let masters = [
         "name": "George Gebhardt",
         "flag": "US",
         "placing": 60,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 2,
@@ -10311,6 +10369,7 @@ let masters = [
         "name": "Evan Campbell",
         "flag": "US",
         "placing": 61,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -10407,8 +10466,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 4,
@@ -10461,6 +10520,7 @@ let masters = [
         "name": "Abaan Ahmed",
         "flag": "US",
         "placing": 62,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -10641,6 +10701,7 @@ let masters = [
         "name": "Jeremy Gumila",
         "flag": "US",
         "placing": 63,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 4,
@@ -10827,6 +10888,7 @@ let masters = [
         "name": "Colton Ames",
         "flag": "US",
         "placing": 64,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 3,
@@ -10899,8 +10961,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -11007,6 +11069,7 @@ let masters = [
         "name": "Noel Totomoch",
         "flag": "US",
         "placing": 65,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 5,
@@ -11067,8 +11130,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -11151,6 +11214,7 @@ let masters = [
         "name": "Jonathan Ramirez",
         "flag": "US",
         "placing": 66,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 3,
@@ -11211,8 +11275,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -11331,6 +11395,7 @@ let masters = [
         "name": "Alex Schemanske",
         "flag": "US",
         "placing": 67,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 5,
@@ -11517,6 +11582,7 @@ let masters = [
         "name": "Michael Otero",
         "flag": "US",
         "placing": 68,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 3,
@@ -11685,6 +11751,7 @@ let masters = [
         "name": "Ryan Soety",
         "flag": "US",
         "placing": 69,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 3,
@@ -11757,8 +11824,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -11847,6 +11914,7 @@ let masters = [
         "name": "Dylan Gunn",
         "flag": "US",
         "placing": 70,
+        "event": "Pittsburgh",
         "record": {
             "wins": 10,
             "losses": 5,
@@ -11907,8 +11975,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 4,
@@ -12015,6 +12083,7 @@ let masters = [
         "name": "Keaton Gill",
         "flag": "US",
         "placing": 71,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 3,
@@ -12183,6 +12252,7 @@ let masters = [
         "name": "Colton Meahl",
         "flag": "US",
         "placing": 72,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 3,
@@ -12249,8 +12319,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -12369,6 +12439,7 @@ let masters = [
         "name": "Darin O'Meara",
         "flag": "US",
         "placing": 73,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -12555,6 +12626,7 @@ let masters = [
         "name": "Soumil Dusara",
         "flag": "US",
         "placing": 74,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -12602,15 +12674,15 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 }
             ],
             "trainer": [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -12717,6 +12789,7 @@ let masters = [
         "name": "Michele Schiraldi",
         "flag": "CA",
         "placing": 75,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -12903,6 +12976,7 @@ let masters = [
         "name": "Conner Truitt",
         "flag": "US",
         "placing": 76,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -13113,6 +13187,7 @@ let masters = [
         "name": "Kamil Colatosti",
         "flag": "CA",
         "placing": 77,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -13160,7 +13235,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -13245,8 +13320,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -13299,6 +13374,7 @@ let masters = [
         "name": "Chris Fulop",
         "flag": "US",
         "placing": 78,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -13461,6 +13537,7 @@ let masters = [
         "name": "Prin Basser",
         "flag": "US",
         "placing": 79,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -13641,6 +13718,7 @@ let masters = [
         "name": "Owen Rhoads",
         "flag": "US",
         "placing": 80,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -13670,7 +13748,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -13701,8 +13779,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -13815,6 +13893,7 @@ let masters = [
         "name": "Joe Sturino",
         "flag": "US",
         "placing": 81,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -14001,6 +14080,7 @@ let masters = [
         "name": "Joshua Sambrano",
         "flag": "US",
         "placing": 82,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -14193,6 +14273,7 @@ let masters = [
         "name": "Peyton Bauermeister",
         "flag": "US",
         "placing": 83,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -14253,8 +14334,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -14367,6 +14448,7 @@ let masters = [
         "name": "Kyle Caruthers",
         "flag": "US",
         "placing": 84,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -14457,8 +14539,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -14547,6 +14629,7 @@ let masters = [
         "name": "Calvin Chang",
         "flag": "US",
         "placing": 85,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -14564,7 +14647,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -14691,8 +14774,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 3,
@@ -14739,6 +14822,7 @@ let masters = [
         "name": "Morgan Purdy",
         "flag": "US",
         "placing": 86,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -14919,6 +15003,7 @@ let masters = [
         "name": "Aden Cunningham",
         "flag": "US",
         "placing": 87,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 4,
@@ -14979,8 +15064,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -15099,6 +15184,7 @@ let masters = [
         "name": "Andrew Wu",
         "flag": "US",
         "placing": 88,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -15159,8 +15245,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -15285,6 +15371,7 @@ let masters = [
         "name": "Zeryx Schaefer",
         "flag": "US",
         "placing": 89,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -15399,8 +15486,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -15441,6 +15528,7 @@ let masters = [
         "name": "Brad Brown",
         "flag": "US",
         "placing": 90,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -15591,6 +15679,7 @@ let masters = [
         "name": "Julia Butenhoff",
         "flag": "US",
         "placing": 91,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 3,
@@ -15759,6 +15848,7 @@ let masters = [
         "name": "Riley Hulbert",
         "flag": "US",
         "placing": 92,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -15903,6 +15993,7 @@ let masters = [
         "name": "Ian Robb",
         "flag": "US",
         "placing": 93,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -16065,6 +16156,7 @@ let masters = [
         "name": "JW Kriewall",
         "flag": "US",
         "placing": 94,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -16233,6 +16325,7 @@ let masters = [
         "name": "Austin Daniels",
         "flag": "US",
         "placing": 95,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -16323,8 +16416,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -16401,6 +16494,7 @@ let masters = [
         "name": "Arron Sanyer",
         "flag": "US",
         "placing": 96,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -16455,8 +16549,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -16575,6 +16669,7 @@ let masters = [
         "name": "Michael Diaz",
         "flag": "US",
         "placing": 97,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -16761,6 +16856,7 @@ let masters = [
         "name": "Cody Graham",
         "flag": "US",
         "placing": 98,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -16839,8 +16935,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 3,
@@ -16923,6 +17019,7 @@ let masters = [
         "name": "Mitchell Roberge",
         "flag": "US",
         "placing": 99,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -17109,6 +17206,7 @@ let masters = [
         "name": "Chris Franco",
         "flag": "US",
         "placing": 100,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -17295,6 +17393,7 @@ let masters = [
         "name": "Ben Dobberstein",
         "flag": "US",
         "placing": 101,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -17457,6 +17556,7 @@ let masters = [
         "name": "Luke Morsa",
         "flag": "US",
         "placing": 102,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -17474,7 +17574,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -17607,8 +17707,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -17661,6 +17761,7 @@ let masters = [
         "name": "Corey Patterson",
         "flag": "US",
         "placing": 103,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -17805,6 +17906,7 @@ let masters = [
         "name": "Brandon Dean",
         "flag": "US",
         "placing": 104,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -17997,6 +18099,7 @@ let masters = [
         "name": "Suchit Koparde",
         "flag": "US",
         "placing": 105,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 1,
@@ -18057,8 +18160,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -18171,6 +18274,7 @@ let masters = [
         "name": "Shashi Naraine",
         "flag": "CA",
         "placing": 106,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -18321,6 +18425,7 @@ let masters = [
         "name": "Edwin Arrollo",
         "flag": "US",
         "placing": 107,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -18435,8 +18540,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -18495,6 +18600,7 @@ let masters = [
         "name": "Andrew Ryals",
         "flag": "US",
         "placing": 108,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 3,
@@ -18555,8 +18661,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 4,
@@ -18645,6 +18751,7 @@ let masters = [
         "name": "Ryan Miller",
         "flag": "US",
         "placing": 109,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -18831,6 +18938,7 @@ let masters = [
         "name": "Brayden Karvelas",
         "flag": "US",
         "placing": 110,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 3,
@@ -18891,8 +18999,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -19017,6 +19125,7 @@ let masters = [
         "name": "Erich Francis",
         "flag": "US",
         "placing": 111,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 3,
@@ -19161,6 +19270,7 @@ let masters = [
         "name": "Vincent Vuong",
         "flag": "CA",
         "placing": 112,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 3,
@@ -19305,6 +19415,7 @@ let masters = [
         "name": "Eddie North",
         "flag": "US",
         "placing": 113,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -19365,8 +19476,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -19461,6 +19572,7 @@ let masters = [
         "name": "Dakota Davey",
         "flag": "US",
         "placing": 114,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 5,
@@ -19527,8 +19639,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -19629,6 +19741,7 @@ let masters = [
         "name": "Jacob Noel",
         "flag": "US",
         "placing": 115,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 4,
@@ -19827,6 +19940,7 @@ let masters = [
         "name": "Chris Pagan",
         "flag": "US",
         "placing": 116,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 4,
@@ -19989,6 +20103,7 @@ let masters = [
         "name": "Jacob Stock",
         "flag": "US",
         "placing": 117,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 6,
@@ -20145,6 +20260,7 @@ let masters = [
         "name": "Michael Canaves",
         "flag": "US",
         "placing": 118,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 4,
@@ -20313,6 +20429,7 @@ let masters = [
         "name": "Kenny Hernandez",
         "flag": "US",
         "placing": 119,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 4,
@@ -20342,7 +20459,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -20379,8 +20496,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -20499,6 +20616,7 @@ let masters = [
         "name": "Justin Norris",
         "flag": "US",
         "placing": 120,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 4,
@@ -20661,6 +20779,7 @@ let masters = [
         "name": "Jose Medina",
         "flag": "US",
         "placing": 121,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 4,
@@ -20841,6 +20960,7 @@ let masters = [
         "name": "Kyle Tokarczyk",
         "flag": "US",
         "placing": 122,
+        "event": "Pittsburgh",
         "record": {
             "wins": 9,
             "losses": 6,
@@ -21009,6 +21129,7 @@ let masters = [
         "name": "Sanjay Sundararajan",
         "flag": "US",
         "placing": 123,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 4,
@@ -21165,6 +21286,7 @@ let masters = [
         "name": "Tyler Perry",
         "flag": "US",
         "placing": 124,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 4,
@@ -21219,8 +21341,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -21339,6 +21461,7 @@ let masters = [
         "name": "Giancarlo Bortolon",
         "flag": "CA",
         "placing": 125,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 4,
@@ -21507,6 +21630,7 @@ let masters = [
         "name": "Nicholas Moses",
         "flag": "US",
         "placing": 126,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 4,
@@ -21657,6 +21781,7 @@ let masters = [
         "name": "Patrick Scharff",
         "flag": "US",
         "placing": 127,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 4,
@@ -21849,6 +21974,7 @@ let masters = [
         "name": "Edwin Lopez",
         "flag": "US",
         "placing": 128,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -22023,6 +22149,7 @@ let masters = [
         "name": "Gilberto Acosta",
         "flag": "US",
         "placing": 129,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -22203,6 +22330,7 @@ let masters = [
         "name": "Jonathan Twigg",
         "flag": "US",
         "placing": 130,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -22371,6 +22499,7 @@ let masters = [
         "name": "Ely Greenfeld",
         "flag": "US",
         "placing": 131,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -22533,6 +22662,7 @@ let masters = [
         "name": "Krystal Florendo",
         "flag": "CA",
         "placing": 132,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -22731,6 +22861,7 @@ let masters = [
         "name": "Nick Trausch",
         "flag": "US",
         "placing": 133,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -22875,6 +23006,7 @@ let masters = [
         "name": "Mario Vivas",
         "flag": "CA",
         "placing": 134,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 3,
@@ -23031,6 +23163,7 @@ let masters = [
         "name": "Ryan Antonucci",
         "flag": "US",
         "placing": 135,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -23217,6 +23350,7 @@ let masters = [
         "name": "Christian Cantelon",
         "flag": "CA",
         "placing": 136,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -23373,6 +23507,7 @@ let masters = [
         "name": "Dalen Dockery",
         "flag": "US",
         "placing": 137,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -23535,6 +23670,7 @@ let masters = [
         "name": "Teja Gummadi",
         "flag": "US",
         "placing": 138,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -23637,8 +23773,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -23703,6 +23839,7 @@ let masters = [
         "name": "Cody Bruder",
         "flag": "US",
         "placing": 139,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -23871,6 +24008,7 @@ let masters = [
         "name": "Matthew Connors",
         "flag": "US",
         "placing": 140,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -24033,6 +24171,7 @@ let masters = [
         "name": "Jose Marzan",
         "flag": "US",
         "placing": 141,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 5,
@@ -24044,6 +24183,7 @@ let masters = [
         "name": "Jake Riggs",
         "flag": "US",
         "placing": 142,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -24224,6 +24364,7 @@ let masters = [
         "name": "Tristan Bennett",
         "flag": "US",
         "placing": 143,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -24265,7 +24406,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -24344,8 +24485,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 3,
@@ -24398,6 +24539,7 @@ let masters = [
         "name": "Justin Tse",
         "flag": "CA",
         "placing": 144,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -24494,8 +24636,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -24554,6 +24696,7 @@ let masters = [
         "name": "Joshua Acevedo",
         "flag": "US",
         "placing": 145,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -24668,8 +24811,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -24710,6 +24853,7 @@ let masters = [
         "name": "Alexander Phillips",
         "flag": "US",
         "placing": 146,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 4,
@@ -24721,7 +24865,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -24776,8 +24920,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -24884,6 +25028,7 @@ let masters = [
         "name": "Mason Lovato",
         "flag": "US",
         "placing": 147,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -25064,6 +25209,7 @@ let masters = [
         "name": "Andrew Weiss",
         "flag": "US",
         "placing": 148,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -25220,6 +25366,7 @@ let masters = [
         "name": "Gabriel Smart",
         "flag": "US",
         "placing": 149,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -25382,6 +25529,7 @@ let masters = [
         "name": "Caleb Rogerson",
         "flag": "US",
         "placing": 150,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 4,
@@ -25556,6 +25704,7 @@ let masters = [
         "name": "Cyrus Davis",
         "flag": "CA",
         "placing": 151,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -25634,8 +25783,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -25742,6 +25891,7 @@ let masters = [
         "name": "Elliot Sayles",
         "flag": "US",
         "placing": 152,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -25910,6 +26060,7 @@ let masters = [
         "name": "Brennon Conner",
         "flag": "US",
         "placing": 153,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -26096,6 +26247,7 @@ let masters = [
         "name": "Nathan Bumbarger",
         "flag": "US",
         "placing": 154,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -26318,6 +26470,7 @@ let masters = [
         "name": "McKinley Freeman",
         "flag": "US",
         "placing": 155,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 4,
@@ -26426,8 +26579,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 3,
@@ -26480,6 +26633,7 @@ let masters = [
         "name": "Matthew Hammond",
         "flag": "US",
         "placing": 156,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -26534,8 +26688,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -26624,6 +26778,7 @@ let masters = [
         "name": "Davin Erickson",
         "flag": "US",
         "placing": 157,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -26798,6 +26953,7 @@ let masters = [
         "name": "Liam Conant",
         "flag": "US",
         "placing": 158,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -26900,8 +27056,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -26978,6 +27134,7 @@ let masters = [
         "name": "Iyla Sutherland",
         "flag": "US",
         "placing": 159,
+        "event": "Pittsburgh",
         "record": {
             "wins": 8,
             "losses": 6,
@@ -27092,8 +27249,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -27134,6 +27291,7 @@ let masters = [
         "name": "Ralts Musser",
         "flag": "US",
         "placing": 160,
+        "event": "Pittsburgh",
         "record": {
             "wins": 6,
             "losses": 3,
@@ -27302,6 +27460,7 @@ let masters = [
         "name": "Aleaner Pabonnie",
         "flag": "US",
         "placing": 161,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 5,
@@ -27362,8 +27521,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -27464,6 +27623,7 @@ let masters = [
         "name": "Jonathan Valenzuela",
         "flag": "US",
         "placing": 162,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 5,
@@ -27650,6 +27810,7 @@ let masters = [
         "name": "Ryan Tongue",
         "flag": "US",
         "placing": 163,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 5,
@@ -27818,6 +27979,7 @@ let masters = [
         "name": "Dregan Shook",
         "flag": "US",
         "placing": 164,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 6,
@@ -28016,6 +28178,7 @@ let masters = [
         "name": "Joseph Sumner",
         "flag": "US",
         "placing": 165,
+        "event": "Pittsburgh",
         "record": {
             "wins": 6,
             "losses": 4,
@@ -28027,6 +28190,7 @@ let masters = [
         "name": "Omar Ben-Gacem",
         "flag": "UK",
         "placing": 166,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 6,
@@ -28087,8 +28251,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -28189,6 +28353,7 @@ let masters = [
         "name": "Dang Pho",
         "flag": "US",
         "placing": 167,
+        "event": "Pittsburgh",
         "record": {
             "wins": 6,
             "losses": 4,
@@ -28297,8 +28462,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 3,
@@ -28351,6 +28516,7 @@ let masters = [
         "name": "Jake Abrams",
         "flag": "US",
         "placing": 168,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 6,
@@ -28392,7 +28558,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -28411,8 +28577,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 1,
@@ -28537,6 +28703,7 @@ let masters = [
         "name": "June Norber",
         "flag": "US",
         "placing": 169,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 6,
@@ -28590,7 +28757,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -28609,8 +28776,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 4,
@@ -28723,6 +28890,7 @@ let masters = [
         "name": "Owen Johnson",
         "flag": "CA",
         "placing": 170,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 7,
@@ -28915,6 +29083,7 @@ let masters = [
         "name": "Jack Bray",
         "flag": "US",
         "placing": 171,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 7,
@@ -28969,8 +29138,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -29077,6 +29246,7 @@ let masters = [
         "name": "Victor Carrillo",
         "flag": "US",
         "placing": 172,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 7,
@@ -29239,6 +29409,7 @@ let masters = [
         "name": "Andres Estrada",
         "flag": "US",
         "placing": 173,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 7,
@@ -29443,6 +29614,7 @@ let masters = [
         "name": "Maxim Korobov",
         "flag": "US",
         "placing": 174,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 6,
@@ -29490,7 +29662,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR"
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -29509,8 +29681,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -29617,6 +29789,7 @@ let masters = [
         "name": "Mateo Thompson Soto",
         "flag": "US",
         "placing": 175,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 6,
@@ -29785,6 +29958,7 @@ let masters = [
         "name": "Scott Cottrell",
         "flag": "US",
         "placing": 176,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 5,
@@ -29923,6 +30097,7 @@ let masters = [
         "name": "Harrison Zipp",
         "flag": "US",
         "placing": 177,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 4,
@@ -30073,6 +30248,7 @@ let masters = [
         "name": "Michael Zheng",
         "flag": "US",
         "placing": 178,
+        "event": "Pittsburgh",
         "record": {
             "wins": 7,
             "losses": 4,
@@ -30223,6 +30399,7 @@ let masters = [
         "name": "Miguel Arocho",
         "flag": "US",
         "placing": 179,
+        "event": "Pittsburgh",
         "record": {
             "wins": 6,
             "losses": 6,
@@ -30319,8 +30496,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Colress's Experiment",
-                    "number": "GG59",
-                    "set": "CRZ"
+                    "number": "155",
+                    "set": "LOR"
                 },
                 {
                     "count": 2,
@@ -30385,6 +30562,7 @@ let masters = [
         "name": "Nhan Le",
         "flag": "US",
         "placing": 180,
+        "event": "Pittsburgh",
         "record": {
             "wins": 6,
             "losses": 1,
@@ -30535,6 +30713,7 @@ let masters = [
         "name": "Andrew Dombroski",
         "flag": "US",
         "placing": 181,
+        "event": "Pittsburgh",
         "record": {
             "wins": 6,
             "losses": 5,
@@ -30703,6 +30882,7 @@ let masters = [
         "name": "Joseph Horth",
         "flag": "US",
         "placing": 182,
+        "event": "Pittsburgh",
         "record": {
             "wins": 6,
             "losses": 6,
@@ -30889,6 +31069,7 @@ let masters = [
         "name": "Sammy Allen",
         "flag": "US",
         "placing": 183,
+        "event": "Pittsburgh",
         "record": {
             "wins": 6,
             "losses": 6,
@@ -31057,6 +31238,7 @@ let masters = [
         "name": "Zoe Jacobsen",
         "flag": "US",
         "placing": 184,
+        "event": "Pittsburgh",
         "record": {
             "wins": 6,
             "losses": 4,
@@ -31231,6 +31413,7 @@ let masters = [
         "name": "Charlie Kerr",
         "flag": "US",
         "placing": 185,
+        "event": "Pittsburgh",
         "record": {
             "wins": 6,
             "losses": 4,
@@ -31411,6 +31594,7 @@ let masters = [
         "name": "Jeffrey Chau",
         "flag": "CA",
         "placing": 186,
+        "event": "Pittsburgh",
         "record": {
             "wins": 6,
             "losses": 4,
@@ -31591,18 +31775,10 @@ function displayList(array = []) {
 
         let flagImg = document.createElement('img');
         flagImg.classList.add('flag-size');
-
-        if (item.flag === "US") {
-            flagImg.setAttribute('src', "../../../assets/flags/usa.png");
-        } else if (item.flag === "CA") {
-            flagImg.setAttribute('src', "../../../assets/flags/canada.png");
-        } else if (item.flag === "NO") {
-            flagImg.setAttribute('src', "../../../assets/flags/norway.png");
-        } else if (item.flag === "UK") {
-            flagImg.setAttribute('src', "../../../assets/flags/uk.png");
-        } else {
-            flagImg.setAttribute('src', "../../../assets/flags/unknown.png");
-        }
+        flagImg.setAttribute('src', "../../../assets/flag-codes/" + item.flag + ".png");
+        // else {
+        //     flagImg.setAttribute('src', "../../../assets/flags/unknown.png");
+        // }
 
         let deck = document.createElement('div');
         deck.classList.add('player-deck-icons');
@@ -31632,76 +31808,88 @@ function displayList(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + " - Pittsburgh Regionals";
+                document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + " -" + " " + item.event + " Regionals";
 
-                for (let i = 0; i < item.deck.length; i++) {
-                    let deck = item.deck[i];
+                const setConvert = {
+                    // sv
+                    "OBF": "sv3",
+                    "PAL": "sv2",
+                    "SVI": "sv1",
+                    // "PR-SV": "svp"
+                    // swsh
+                    "CRZ": "swsh12pt5",
+                    "SIT": "swsh12",
+                    "LOR": "swsh11",
+                    "PGO": "pgo",
+                    "ASR": "swsh10",
+                    "BRS": "swsh9",
+                    "FST": "swsh8",
+                    "CEL": "cel25",
+                    "EVS": "swsh7",
+                    "CRE": "swsh6",
+                    "BST": "swsh5",
+                    "SHF": "swsh45",
+                    "VIV": "swsh4",
+                    "CPA": "swsh35",
+                    "DAA": "swsh3",
+                    "RCL": "swsh2",
+                    "SSH": "swsh1",
+                    "PR-SW": "swshp"
+                }
 
-                    let cardSpace = document.createElement('div');
-                    cardSpace.classList.add('pokemon-card');
+                for(const cardType in item.decklist) {
+                    item.decklist[cardType].forEach(card => {
 
-                    let pokeCard = document.createElement('img');
-                    pokeCard.classList.add('pok-card-small')
+                        let cardSpace = document.createElement('div');
+                        cardSpace.classList.add('pokemon-card');
+    
+                        let pokeCard = document.createElement('img');
+                        pokeCard.classList.add('pok-card-small')
+    
+                        pokeCard.setAttribute('alt', card.name + " " + card.set);
+                        pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + ".png");
 
-                    // "decklist": {
-                    //     "pokemon": [
-                    //         {
-                    //             "count": 4,
-                    //             "name": "Mew V", | "name": "Mew V",
-                    //             "number": "113", | "id": "swsh8-113",
-                    //             "set": "FST"     | "set": { "id": "swsh8", "name": "Fusion Strike", "series" "Sword & Shield",
+                        let zoomedImg = document.getElementById("insert-zoomed-img");
+                        let zoombox = document.getElementById("zoomed-bg");
 
-                    for (let i = 0; i < item.decklist.length; i++) {
-                        pokeCard.setAttribute('alt', decklist[i].name + [i].set);
-                    }
-                    console.log(pokeCard)
-                    // pokeCard.setAttribute('src', deck.cardImg);
-                    if (deck.radiusCard === true) {
-                        pokeCard.classList.add('radius-card')
-                    }
+                        pokeCard.onclick = () => {
+                            zoomedImg.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + "_hires.png");
+                            zoombox.className = "show";
+                        };
+                        zoombox.onclick = () => {
+                            zoombox.className = "";
+                        };
 
-                    let numberCounter = document.createElement('img');
-                    numberCounter.classList.add('num-1')
-                    numberCounter.setAttribute('src', deck.numImg);
+                        item.decklist.pokemon.sort(function(a, b){return a-b});
+                        item.decklist.trainer.sort(function(a, b){return a-b});
+                        item.decklist.energy.sort(function(a, b){return a-b});
 
-                    cardSpace.appendChild(pokeCard);
-                    cardSpace.appendChild(numberCounter);
-                    modalBottom.appendChild(cardSpace);
+                        if (deck.radiusCard === true) {
+                            pokeCard.classList.add('radius-card')
+                        }
 
-                    modalX.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
-                    })
-                    behind.addEventListener('click', () => {
-                        modal.style.display = 'none';
-                        behind.style.display = 'none';
-                        cardSpace.remove();
+                        let numberCounter = document.createElement('img');
+                        numberCounter.classList.add('num-1')
+                        numberCounter.setAttribute('src', "../../../assets/card-count/" + card.count + ".png");
+
+                        cardSpace.appendChild(pokeCard);
+                        cardSpace.appendChild(numberCounter);
+
+                        modalBottom.appendChild(cardSpace);
+                        modalX.addEventListener('click', () => {
+                            modal.style.display = 'none';
+                            behind.style.display = 'none';
+                            cardSpace.remove();
+                        })
+                        behind.addEventListener('click', () => {
+                            modal.style.display = 'none';
+                            behind.style.display = 'none';
+                            cardSpace.remove();
+                        })
                     })
                 }
-                document.querySelectorAll('.pokemon-card').forEach(card => {
-                    let meep = document.getElementsByClassName("pok-card-small"),
-                        zoombox = document.getElementById("zoom-card-box");
-
-                    if (meep.length > 0) {
-                        for (let i of meep) {
-                            i.onclick = () => {
-                                let clone = i.cloneNode();
-                                clone.className = "";
-                                zoombox.innerHTML = "";
-                                zoombox.appendChild(clone);
-                                zoombox.className = "show";
-                            };
-                        }
-                    }
-
-                    zoombox.onclick = () => {
-                        zoombox.className = "";
-                    };
-                });
             })
         }
-
         masterList.appendChild(item_element);
     }
 }
@@ -31711,5 +31899,3 @@ const modalX = document.querySelector('.modal-x');
 const behind = document.querySelector('.behind-modal');
 
 displayList(masters);
-displayList2(seniors);
-displayList3(juniors);
