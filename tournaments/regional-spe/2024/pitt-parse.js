@@ -43,7 +43,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -1576,7 +1576,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -1932,7 +1932,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -2113,7 +2113,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -5318,7 +5318,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -8818,7 +8818,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -12674,7 +12674,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 }
             ],
             "trainer": [
@@ -13235,7 +13235,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -13748,7 +13748,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -14647,7 +14647,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 2,
@@ -17574,7 +17574,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 2,
@@ -20459,7 +20459,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -24406,7 +24406,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -24865,7 +24865,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 4,
@@ -28558,7 +28558,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -28757,7 +28757,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -29662,7 +29662,7 @@ let masters = [
                     "count": 1,
                     "name": "Dragonite V",
                     "number": "SWSH154",
-                    "set": "PR-SW"
+                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -31833,8 +31833,7 @@ function displayList(array = []) {
                     "CPA": "swsh35",
                     "DAA": "swsh3",
                     "RCL": "swsh2",
-                    "SSH": "swsh1",
-                    "PR-SW": "swshp"
+                    "SSH": "swsh1"
                 }
 
                 for(const cardType in item.decklist) {
@@ -31848,6 +31847,9 @@ function displayList(array = []) {
     
                         pokeCard.setAttribute('alt', card.name + " " + card.set);
                         pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + ".png");
+                        if (card.set === "PR") {
+                            pokeCard.setAttribute('src', "https://ptcglegends.com/assets/cards/promo/PR-" + card.number + ".png");
+                        }
 
                         let zoomedImg = document.getElementById("insert-zoomed-img");
                         let zoombox = document.getElementById("zoomed-bg");
