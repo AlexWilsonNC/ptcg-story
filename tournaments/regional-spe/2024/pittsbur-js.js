@@ -14,11 +14,11 @@ let masters = [
     type: 'dark',
     deck: [
       {
-        cardImg: '../../../assets/cards/2022-2023/comfey.png',
+        cardImg: 'https://images.pokemontcg.io/swsh11/79.png',
         numImg: '../../../assets/04.png'
       },
       {
-        cardImg: '../../../assets/cards/2022-2023/sableye.png',
+        cardImg: 'https://images.pokemontcg.io/swsh11/70.png',
         numImg: '../../../assets/02.png'
       },
       {
