@@ -85,6 +85,7 @@ function displayList(array = []) {
                     "DAA": "swsh3",
                     "RCL": "swsh2",
                     "SSH": "swsh1",
+                    "PR": "swshp",
                     // sm
                     "CEC": "sm12",
                     "UNM": "sm11",
@@ -180,8 +181,8 @@ function displayList(array = []) {
                         let zoombox = document.getElementById("zoomed-bg");
 
                         pokeCard.onclick = () => {
-                            if (card.set === "PR" && card.number.startsWith('SWSH' || 'swsh')) {
-                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/swshp/" + card.number + "_hires.png");
+                            if (card.set === "PR" && card.number.startsWith('SWSH')) {
+                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + "_hires.png");
                             }
                             if (card.set === "CRZ" && card.number.startsWith('G' || 'g')) {
                                 pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh12pt5gg/" + card.number + "_hires.png");
