@@ -722,16 +722,10 @@ let masters = [
                     "set": "LOR"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Comfey",
                     "number": "SWSH242",
                     "set": "PR"
-                },
-                {
-                    "count": 1,
-                    "name": "Comfey",
-                    "number": "GG14",
-                    "set": "CRZ"
                 },
                 {
                     "count": 2,
@@ -754,8 +748,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 }
             ],
             "trainer": [
@@ -2267,16 +2261,10 @@ let masters = [
                     "set": "SIT"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Tyranitar V",
                     "number": "97",
                     "set": "BST"
-                },
-                {
-                    "count": 1,
-                    "name": "Tyranitar V",
-                    "number": "SWSH109",
-                    "set": "PR"
                 },
                 {
                     "count": 1,
@@ -2444,8 +2432,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -2788,8 +2776,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -3808,8 +3796,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 }
             ],
             "trainer": [
@@ -5021,8 +5009,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -6059,8 +6047,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -8847,8 +8835,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 }
             ],
             "trainer": [
@@ -10036,8 +10024,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -11243,8 +11231,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -12299,8 +12287,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 2,
@@ -13053,8 +13041,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -13759,8 +13747,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -14302,8 +14290,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -14489,8 +14477,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -14869,8 +14857,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -15213,8 +15201,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -15424,8 +15412,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -16348,8 +16336,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 2,
@@ -16541,8 +16529,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 }
             ],
             "trainer": [
@@ -16746,8 +16734,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -18460,8 +18448,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -18653,8 +18641,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 }
             ],
             "trainer": [
@@ -18973,8 +18961,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -19468,8 +19456,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 }
             ],
             "trainer": [
@@ -19625,8 +19613,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -20482,8 +20470,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -20669,8 +20657,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 }
             ],
             "trainer": [
@@ -22226,8 +22214,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 }
             ],
             "trainer": [
@@ -23717,8 +23705,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 }
             ],
             "trainer": [
@@ -24260,8 +24248,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 }
             ],
             "trainer": [
@@ -25075,8 +25063,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -25588,8 +25576,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -26499,8 +26487,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 2,
@@ -27350,8 +27338,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -27501,8 +27489,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -28744,8 +28732,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -29655,8 +29643,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -30446,8 +30434,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -31122,8 +31110,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Manaphy",
-                    "number": "GG06",
-                    "set": "CRZ"
+                    "number": "41",
+                    "set": "BRS"
                 },
                 {
                     "count": 1,
@@ -31815,7 +31803,7 @@ function displayList(array = []) {
                     "OBF": "sv3",
                     "PAL": "sv2",
                     "SVI": "sv1",
-                    // "PR-SV": "svp"
+                    "SVP": "svp",
                     // swsh
                     "CRZ": "swsh12pt5",
                     "SIT": "swsh12",
@@ -31833,7 +31821,9 @@ function displayList(array = []) {
                     "CPA": "swsh35",
                     "DAA": "swsh3",
                     "RCL": "swsh2",
-                    "SSH": "swsh1"
+                    "SSH": "swsh1",
+                    // sm
+                    "CES": "sm7"
                 }
 
                 for(const cardType in item.decklist) {
@@ -31847,9 +31837,22 @@ function displayList(array = []) {
     
                         pokeCard.setAttribute('alt', card.name + " " + card.set);
                         pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + ".png");
-                        if (card.set === "PR") {
-                            pokeCard.setAttribute('src', "https://ptcglegends.com/assets/cards/promo/PR-" + card.number + ".png");
+                        if (card.set === "PR" && card.number.startsWith('SWSH' || 'swsh')) {
+                            pokeCard.setAttribute('src', "https://images.pokemontcg.io/swshp/" + card.number + ".png");
                         }
+                        if (card.set === "CRZ" && card.number.startsWith('G' || 'g')) {
+                            pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh12pt5gg/" + card.number + ".png");
+                        }
+                        if (card.set === "LOR" && card.number.startsWith('TG' || 'tg')) {
+                            pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh11tg/" + card.number + ".png");
+                        }
+                        if (card.set === "ASR" && card.number.startsWith('TG' || 'tg')) {
+                            pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh10tg/" + card.number + ".png");
+                        }
+                        if (card.set === "SIT" && card.number.startsWith('TG' || 'tg')) {
+                            pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh12tg/" + card.number + ".png");
+                        }
+
                         // item.decklist[cardType].sort(function(a, b){return a.card.count - b.card.count});
                         // item.decklist.trainer.sort(function(a, b){return a.count - b.count});
                         // item.decklist.energy.sort(function(a, b){return a.count - b.count});
@@ -31859,8 +31862,20 @@ function displayList(array = []) {
 
                         pokeCard.onclick = () => {
                             zoomedImg.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + "_hires.png");
-                            if (card.set === "PR") {
-                                pokeCard.setAttribute('src', "https://ptcglegends.com/assets/cards/promo/PR-" + card.number + "_hires.png");
+                            if (card.set === "PR" && card.number.startsWith('SWSH' || 'swsh')) {
+                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/swshp/" + card.number + "_hires.png");
+                            }
+                            if (card.set === "CRZ" && card.number.startsWith('G' || 'g')) {
+                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh12pt5gg/" + card.number + "_hires.png");
+                            }
+                            if (card.set === "LOR" && card.number.startsWith('TG' || 'tg')) {
+                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh11tg/" + card.number + "_hires.png");
+                            }
+                            if (card.set === "ASR" && card.number.startsWith('TG' || 'tg')) {
+                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh10tg/" + card.number + "_hires.png");
+                            }
+                            if (card.set === "SIT" && card.number.startsWith('TG' || 'tg')) {
+                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh12tg/" + card.number + "_hires.png");
                             }
                             zoombox.className = "show";
                         };
