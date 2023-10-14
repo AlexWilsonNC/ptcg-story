@@ -561,7 +561,7 @@ let masters = [
         oldCard: true
       },
       {
-        cardImg: '../../assets/cards/2004-2006/dx.009.jirachi.png',
+        cardImg: '../../assets/cards/2004-2006/jirachi-dual.png',
         numImg: '../../assets/01.png',
         radiusCard: true
       },

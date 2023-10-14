@@ -171,11 +171,15 @@ function displayList(array = []) {
                         //     console.log(cardResult) // "Charizard"
                         // })
 
+                        // TO DO
+                        // merge duplicate cards
+                        // fix deck icons
+                        // zoomed in promos are just backs???
+
                         let zoomedImg = document.getElementById("insert-zoomed-img");
                         let zoombox = document.getElementById("zoomed-bg");
 
                         pokeCard.onclick = () => {
-                            zoomedImg.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + "_hires.png");
                             if (card.set === "PR" && card.number.startsWith('SWSH' || 'swsh')) {
                                 pokeCard.setAttribute('src', "https://images.pokemontcg.io/swshp/" + card.number + "_hires.png");
                             }
@@ -190,6 +194,9 @@ function displayList(array = []) {
                             }
                             if (card.set === "SIT" && card.number.startsWith('TG' || 'tg')) {
                                 pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh12tg/" + card.number + "_hires.png");
+                            } 
+                            else {
+                                zoomedImg.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + "_hires.png");
                             }
                             zoombox.className = "show";
                         };
