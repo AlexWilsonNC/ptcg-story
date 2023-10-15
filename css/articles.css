@@ -257,7 +257,7 @@ img{
 }
 
 .old-card {
-    border-radius: 3.5%;
+    border-radius: 3.5% !important;
     background-color: rgb(255, 210, 0);
     padding: 1px;
 }
@@ -281,7 +281,7 @@ img{
     padding: 1px;
 }
 .radius-card {
-    border-radius: 4%;
+    border-radius: 4% !important;
 }
 .semi-radius-card {
     border-radius: 3.5%;
@@ -401,7 +401,8 @@ img{
     .article-title {
         width:95%;
     }
-    .article-content p {
+    .article-content p,
+    .article-content li {
         font-size: 14px;
     }
     .article-title p {
@@ -448,7 +449,8 @@ img{
     .article-title {
         width:97%;
     }
-    .article-content p {
+    .article-content p,
+    .article-content li {
         font-size: 12px;
     }
     .small-text {

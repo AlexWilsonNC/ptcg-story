@@ -27698,3 +27698,4 @@ let lostOrigin = [
         }
     }
 ]
+export { lostOrigin }

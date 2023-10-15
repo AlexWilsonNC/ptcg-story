@@ -1,4 +1,4 @@
-
+// import { lostOrigin } from "../../../card-database/swsh/lost-origin";
 const masterList = document.querySelector('.masters-ol');
 const modalBottom = document.querySelector('.modal-bottom');
 
@@ -114,8 +114,9 @@ function displayList(array = []) {
                         let pokeCard = document.createElement('img');
                         pokeCard.classList.add('pok-card-small')
     
-                        pokeCard.setAttribute('alt', card.name + " " + card.set);
+                        pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
                         pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + ".png");
+
                         if (card.set === "PR" && card.number.startsWith('SWSH' || 'swsh')) {
                             pokeCard.setAttribute('src', "https://images.pokemontcg.io/swshp/" + card.number + ".png");
                         }
@@ -173,7 +174,7 @@ function displayList(array = []) {
                         // })
 
                         // TO DO
-                        // merge duplicate cards
+                        // merge duplicate cards - cant be done until using api?
                         // fix deck icons
                         // zoomed in promos are just backs???
 
@@ -181,11 +182,13 @@ function displayList(array = []) {
                         let zoombox = document.getElementById("zoomed-bg");
 
                         pokeCard.onclick = () => {
+                            zoomedImg.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + "_hires.png");
+
                             if (card.set === "PR" && card.number.startsWith('SWSH')) {
                                 pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + "_hires.png");
                             }
                             if (card.set === "CRZ" && card.number.startsWith('G' || 'g')) {
-                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh12pt5gg/" + card.number + "_hires.png");
+                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "gg/" + card.number + "_hires.png");
                             }
                             if (card.set === "LOR" && card.number.startsWith('TG' || 'tg')) {
                                 pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh11tg/" + card.number + "_hires.png");
@@ -196,9 +199,6 @@ function displayList(array = []) {
                             if (card.set === "SIT" && card.number.startsWith('TG' || 'tg')) {
                                 pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh12tg/" + card.number + "_hires.png");
                             } 
-                            else {
-                                zoomedImg.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + "_hires.png");
-                            }
                             zoombox.className = "show";
                         };
                         zoombox.onclick = () => {
