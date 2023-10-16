@@ -36,10 +36,10 @@ let masters = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../assets/flags/unknown.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    firstName: 'Sawyer Melban',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/kyogre.png',
+    sprite2: '../../../assets/sprites/comfey.png',
     list: '../../../assets/sprites/blank.png',
     // list: '../../../assets/list-icon.png',
     type: 'dark',
