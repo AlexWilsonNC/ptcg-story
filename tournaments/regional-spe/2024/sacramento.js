@@ -333,8 +333,8 @@ let masters = [
   {
     firstName: 'Braiden Elfert',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/arceus.png',
-    sprite2: '../../../assets/sprites',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/arceus.png',
     list: '../../../assets/sprites/blank.png',
     // list: '../../../assets/list-icon.png',
     type: 'dark',
