@@ -159,7 +159,13 @@ img{
 .card-of-the-week {
     width: 30% !important; 
     height:auto;
-    margin:0 15px;
+    margin:0 5px;
+    border-radius: 0px !important;
+}
+.card-of-the-week-mid-multi {
+    width: 20% !important; 
+    height:auto;
+    margin:0 5px;
     border-radius: 0px !important;
 }
 .card-of-the-week-small {
