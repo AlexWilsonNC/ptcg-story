@@ -2839,10 +2839,6 @@ let seniors = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2018-17/acerola.png',
-        numImg: '../../assets/01.png'
-      },
-      {
         cardImg: '../../assets/cards/2018-17/vs-seeker.png',
         numImg: '../../assets/04.png'
       },
@@ -2860,7 +2856,7 @@ let seniors = [
       },
       {
         cardImg: '../../assets/cards/2018-17/rescue-stretcher.png',
-        numImg: '../../assets/01.png'
+        numImg: '../../assets/02.png'
       },
       {
         cardImg: '../../assets/cards/2018-17/float-stone.png',
