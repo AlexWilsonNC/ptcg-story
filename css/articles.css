@@ -256,7 +256,7 @@ img{
     margin-bottom: 10px;
 }
 .author-bio img {
-    width: 25px;height: auto;
+    width: 25px;height: 25px;
     margin: 0 5px;
     border-radius: 50%;
 }
