@@ -6,10 +6,10 @@ const modalBottom = document.querySelector('.modal-bottom');
 
 let masters = [
   {
-    firstName: '--',
-    flag: '../../../assets/flags/unknown.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    firstName: 'Alexander Flatos',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/lugia.png',
+    sprite2: '../../../assets/sprites/archeops.png',
     list: '../../../assets/sprites/blank.png',
     // list: '../../../assets/list-icon.png',
     type: 'dark',
@@ -21,10 +21,10 @@ let masters = [
     ]
   },
   {
-    firstName: '--',
-    flag: '../../../assets/flags/unknown.png',
-    sprite1: '../../../assets/sprites/blank.png',
-    sprite2: '../../../assets/sprites/blank.png',
+    firstName: 'Niccolo Abate',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/arceus.png',
+    sprite2: '../../../assets/sprites/gyarados.png',
     list: '../../../assets/sprites/blank.png',
     // list: '../../../assets/list-icon.png',
     type: 'dark',
