@@ -690,8 +690,8 @@ let masters = [
   {
     firstName: 'Cory Tangman',
     flag: '../../../assets/flags/usa.png',
-    sprite1: '../../../assets/sprites/comfey.png',
-    sprite2: '../../../assets/sprites/sableye.png',
+    sprite1: '../../../assets/sprites/kyogre.png',
+    sprite2: '../../../assets/sprites/comfey.png',
     list: '../../../assets/list-icon.png',
     type: 'dark',
     deck: [
@@ -969,8 +969,6 @@ function displayList(array = []) {
     listIcon.classList.add('list-icon');
     listIcon.setAttribute('src', item.list);
 
-     
-    
     item_element.appendChild(title);
     title.appendChild(playerName);
     playerName.appendChild(flagImg);

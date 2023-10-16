@@ -145,6 +145,11 @@ img{
     width: 85%;
     margin-bottom: 15px;
 }
+.article-content-image-small {
+    border-radius: 10px;
+    width: 55%;
+    margin-bottom: 15px;
+}
 .article-content.darkon h4 {
     color: white;
 }
@@ -268,7 +273,7 @@ img{
     padding: 1px;
 }
 .ex-era-card {
-    border-radius: 3.5%;
+    border-radius: 3.5% !important;
     background-color: rgb(196, 186, 170);
     padding: 1px;
 }
@@ -361,6 +366,9 @@ img{
 @media screen and (max-width: 700px) {
     .image-and-text img {
         width: 350px;height:auto;
+    }
+    .card-of-the-week-mid-multi {
+        width: 28% !important; 
     }
     .column-text {
         width: 100%;
