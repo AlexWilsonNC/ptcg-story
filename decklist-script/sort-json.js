@@ -60,9 +60,9 @@ function displayList(array = []) {
                 document.querySelector('.behind-modal').style.display = 'block';
                 document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + " -" + " " + item.event + " Regionals";
 
-                // item.decklist.pokemon.sort((a, b) => b.count - a.count);
-                // item.decklist.trainer.sort((a, b) => b.count - a.count);
-                // item.decklist.energy.sort((a, b) => b.count - a.count);
+                item.decklist.pokemon.sort((a, b) => b.count - a.count);
+                item.decklist.trainer.sort((a, b) => b.count - a.count);
+                item.decklist.energy.sort((a, b) => b.count - a.count);
 
                 for (const cardType in item.decklist) {
                     item.decklist[cardType].forEach(card => {
@@ -75,7 +75,14 @@ function displayList(array = []) {
 
                         /////////////////////////////
 
-                        const allSets = {sv3pt5, sv3, sv2, sv1, svp, swsh12pt5, swsh12, swsh11, pgo, swsh10, swsh9, swsh8, cel25, swsh7, swsh6, swsh5, swsh45, swsh4, swsh35, swsh3, swsh2, swsh1, swshp}
+                        const allSets = {
+                            // sv
+                            sv3pt5, sv3, sv2, sv1, svp, 
+                            //swsh
+                            swsh12pt5, swsh12, swsh11, pgo, swsh10, swsh9, swsh8, cel25, swsh7, swsh6, swsh5, swsh45, swsh4, swsh35, swsh3, swsh2, swsh1, swshp,
+                            //sm
+                            sm12, sm11, sm10, sm9, sm8, sm7, sm6, sm5, sm4, sm3, sm2, sm1, det, sm115, sm75, sm35, smp
+                        }
                         
                         const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
 

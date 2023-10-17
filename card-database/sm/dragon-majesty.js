@@ -1,4 +1,4 @@
-let dragonMajesty = [
+let sm75 = [
     {
         "id": "sm75-1",
         "name": "Charmander",

@@ -24015,7 +24015,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG01",
+        "id": "swsh10-TG01",
         "name": "Abomasnow",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24060,7 +24060,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24131,7 +24131,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG02",
+        "id": "swsh10-TG02",
         "name": "Flapple",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24172,7 +24172,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24243,7 +24243,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG03",
+        "id": "swsh10-TG03",
         "name": "Kingdra",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24283,7 +24283,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24354,7 +24354,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG04",
+        "id": "swsh10-TG04",
         "name": "Frosmoth",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24396,7 +24396,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24467,7 +24467,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG05",
+        "id": "swsh10-TG05",
         "name": "Gardevoir",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24510,7 +24510,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24581,7 +24581,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG06",
+        "id": "swsh10-TG06",
         "name": "Wyrdeer",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24629,7 +24629,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24700,7 +24700,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG07",
+        "id": "swsh10-TG07",
         "name": "Falinks",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24735,7 +24735,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24806,7 +24806,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG08",
+        "id": "swsh10-TG08",
         "name": "Kleavor",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24851,7 +24851,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24922,7 +24922,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG09",
+        "id": "swsh10-TG09",
         "name": "Mightyena",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24965,7 +24965,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25036,7 +25036,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG10",
+        "id": "swsh10-TG10",
         "name": "Galarian Obstagoon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25078,7 +25078,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25149,7 +25149,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG11",
+        "id": "swsh10-TG11",
         "name": "Bronzong",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25199,7 +25199,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25270,7 +25270,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG12",
+        "id": "swsh10-TG12",
         "name": "Hoothoot",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25319,7 +25319,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25390,7 +25390,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG13",
+        "id": "swsh10-TG13",
         "name": "Starmie V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25433,7 +25433,7 @@ let swsh10 = [
             }
         ],
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25503,7 +25503,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG14",
+        "id": "swsh10-TG14",
         "name": "Ice Rider Calyrex V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25551,7 +25551,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25621,7 +25621,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG15",
+        "id": "swsh10-TG15",
         "name": "Ice Rider Calyrex VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25669,7 +25669,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25739,7 +25739,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG16",
+        "id": "swsh10-TG16",
         "name": "Galarian Articuno V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25791,7 +25791,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25861,7 +25861,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG17",
+        "id": "swsh10-TG17",
         "name": "Shadow Rider Calyrex V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25915,7 +25915,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25985,7 +25985,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG18",
+        "id": "swsh10-TG18",
         "name": "Shadow Rider Calyrex VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26037,7 +26037,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26107,7 +26107,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG19",
+        "id": "swsh10-TG19",
         "name": "Galarian Zapdos V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26153,7 +26153,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26223,7 +26223,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG20",
+        "id": "swsh10-TG20",
         "name": "Galarian Moltres V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26269,7 +26269,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26339,7 +26339,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG21",
+        "id": "swsh10-TG21",
         "name": "Zacian V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26391,7 +26391,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26461,7 +26461,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG22",
+        "id": "swsh10-TG22",
         "name": "Zamazenta V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26513,7 +26513,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26583,7 +26583,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG23",
+        "id": "swsh10-TG23",
         "name": "Garchomp V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26623,7 +26623,7 @@ let swsh10 = [
             }
         ],
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26693,7 +26693,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG24",
+        "id": "swsh10-TG24",
         "name": "Allister",
         "supertype": "Trainer",
         "subtypes": [
@@ -26704,7 +26704,7 @@ let swsh10 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26771,7 +26771,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG25",
+        "id": "swsh10-TG25",
         "name": "Bea",
         "supertype": "Trainer",
         "subtypes": [
@@ -26782,7 +26782,7 @@ let swsh10 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26849,7 +26849,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG26",
+        "id": "swsh10-TG26",
         "name": "Melony",
         "supertype": "Trainer",
         "subtypes": [
@@ -26860,7 +26860,7 @@ let swsh10 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26927,7 +26927,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG27",
+        "id": "swsh10-TG27",
         "name": "Milo",
         "supertype": "Trainer",
         "subtypes": [
@@ -26938,7 +26938,7 @@ let swsh10 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -27005,7 +27005,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG28",
+        "id": "swsh10-TG28",
         "name": "Piers",
         "supertype": "Trainer",
         "subtypes": [
@@ -27016,7 +27016,7 @@ let swsh10 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -27083,7 +27083,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG29",
+        "id": "swsh10-TG29",
         "name": "Ice Rider Calyrex VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -27131,7 +27131,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -27201,7 +27201,7 @@ let swsh10 = [
         }
     },
     {
-        "id": "swsh10tg-TG30",
+        "id": "swsh10-TG30",
         "name": "Shadow Rider Calyrex VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -27253,7 +27253,7 @@ let swsh10 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh10tg",
+            "id": "swsh10",
             "name": "Astral Radiance Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,

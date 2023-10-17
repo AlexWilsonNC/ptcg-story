@@ -1,4 +1,4 @@
-let burningShadows = [
+let sm3 = [
     {
         "id": "sm3-1",
         "name": "Caterpie",

@@ -1,4 +1,4 @@
-let lostThunder = [
+let sm8 = [
     {
         "id": "sm8-1",
         "name": "Tangela",

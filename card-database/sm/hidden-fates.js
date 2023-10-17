@@ -1,4 +1,4 @@
-let hiddenFates = [
+let sm115 = [
     {
         "id": "sm115-1",
         "name": "Caterpie",

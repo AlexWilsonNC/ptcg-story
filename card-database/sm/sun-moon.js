@@ -1,4 +1,4 @@
-let sunMoon = [
+let sm1 = [
     {
         "id": "sm1-1",
         "name": "Caterpie",

@@ -1,4 +1,4 @@
-let teamUp = [
+let sm9 = [
     {
         "id": "sm9-1",
         "name": "Celebi & Venusaur-GX",

@@ -26,8 +26,10 @@ const setConvert = {
     "PR": "swshp",
     // sm
     "CEC": "sm12",
+    "HIF": "sm115",
     "UNM": "sm11",
     "UNB": "sm10",
+    "DPI": "det",
     "TEU": "sm9",
     "LOT": "sm8",
     "CES": "sm7",
@@ -36,5 +38,8 @@ const setConvert = {
     "CIN": "sm4",
     "BUS": "sm3",
     "GRI": "sm2",
-    "SUM": "sm1"
+    "SUM": "sm1",
+    "DRM": "sm75",
+    "SLG": "sm35",
+    "SMP": "smp",
 }

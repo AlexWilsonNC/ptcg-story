@@ -10896,7 +10896,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG01",
+        "id": "swsh12pt5-GG01",
         "name": "Hisuian Voltorb",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10935,7 +10935,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -10971,7 +10971,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG02",
+        "id": "swsh12pt5-GG02",
         "name": "Kricketune",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11009,7 +11009,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11045,7 +11045,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG03",
+        "id": "swsh12pt5-GG03",
         "name": "Magmortar",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11087,7 +11087,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11123,7 +11123,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG04",
+        "id": "swsh12pt5-GG04",
         "name": "Oricorio",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11161,7 +11161,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11197,7 +11197,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG05",
+        "id": "swsh12pt5-GG05",
         "name": "Lapras",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11228,7 +11228,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11264,7 +11264,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG06",
+        "id": "swsh12pt5-GG06",
         "name": "Manaphy",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11300,7 +11300,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11336,7 +11336,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG07",
+        "id": "swsh12pt5-GG07",
         "name": "Keldeo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11375,7 +11375,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11411,7 +11411,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG08",
+        "id": "swsh12pt5-GG08",
         "name": "Electivire",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11452,7 +11452,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11488,7 +11488,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG09",
+        "id": "swsh12pt5-GG09",
         "name": "Toxtricity",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11528,7 +11528,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11564,7 +11564,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG10",
+        "id": "swsh12pt5-GG10",
         "name": "Mew",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11607,7 +11607,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11643,7 +11643,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG11",
+        "id": "swsh12pt5-GG11",
         "name": "Lunatone",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11689,7 +11689,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11725,7 +11725,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG12",
+        "id": "swsh12pt5-GG12",
         "name": "Deoxys",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11765,7 +11765,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11801,7 +11801,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG13",
+        "id": "swsh12pt5-GG13",
         "name": "Diancie",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11837,7 +11837,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11873,7 +11873,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG14",
+        "id": "swsh12pt5-GG14",
         "name": "Comfey",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11910,7 +11910,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -11946,7 +11946,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG15",
+        "id": "swsh12pt5-GG15",
         "name": "Solrock",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11983,7 +11983,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12019,7 +12019,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG16",
+        "id": "swsh12pt5-GG16",
         "name": "Absol",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12058,7 +12058,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12094,7 +12094,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG17",
+        "id": "swsh12pt5-GG17",
         "name": "Thievul",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12133,7 +12133,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12169,7 +12169,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG18",
+        "id": "swsh12pt5-GG18",
         "name": "Magnezone",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12214,7 +12214,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12250,7 +12250,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG19",
+        "id": "swsh12pt5-GG19",
         "name": "Altaria",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12281,7 +12281,7 @@ let swsh12pt5 = [
             }
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12317,7 +12317,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG20",
+        "id": "swsh12pt5-GG20",
         "name": "Latias",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12350,7 +12350,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12386,7 +12386,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG21",
+        "id": "swsh12pt5-GG21",
         "name": "Hisuian Goodra",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12419,7 +12419,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12455,7 +12455,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG22",
+        "id": "swsh12pt5-GG22",
         "name": "Ditto",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12480,7 +12480,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12516,7 +12516,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG23",
+        "id": "swsh12pt5-GG23",
         "name": "Dunsparce",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12553,7 +12553,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12589,7 +12589,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG24",
+        "id": "swsh12pt5-GG24",
         "name": "Miltank",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12626,7 +12626,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12662,7 +12662,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG25",
+        "id": "swsh12pt5-GG25",
         "name": "Bibarel",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12701,7 +12701,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12737,7 +12737,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG26",
+        "id": "swsh12pt5-GG26",
         "name": "Riolu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12770,7 +12770,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12806,7 +12806,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG27",
+        "id": "swsh12pt5-GG27",
         "name": "Swablu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12844,7 +12844,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12880,7 +12880,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG28",
+        "id": "swsh12pt5-GG28",
         "name": "Duskull",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12918,7 +12918,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -12954,7 +12954,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG29",
+        "id": "swsh12pt5-GG29",
         "name": "Bidoof",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12994,7 +12994,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13030,7 +13030,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG30",
+        "id": "swsh12pt5-GG30",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13071,7 +13071,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13107,7 +13107,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG31",
+        "id": "swsh12pt5-GG31",
         "name": "Turtwig",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13149,7 +13149,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13185,7 +13185,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG32",
+        "id": "swsh12pt5-GG32",
         "name": "Paras",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13218,7 +13218,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13254,7 +13254,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG33",
+        "id": "swsh12pt5-GG33",
         "name": "Poochyena",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13296,7 +13296,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13332,7 +13332,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG34",
+        "id": "swsh12pt5-GG34",
         "name": "Mareep",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13374,7 +13374,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13410,7 +13410,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG35",
+        "id": "swsh12pt5-GG35",
         "name": "Leafeon VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13452,7 +13452,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13487,7 +13487,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG36",
+        "id": "swsh12pt5-GG36",
         "name": "Entei V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13528,7 +13528,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13563,7 +13563,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG37",
+        "id": "swsh12pt5-GG37",
         "name": "Simisear VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13607,7 +13607,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13642,7 +13642,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG38",
+        "id": "swsh12pt5-GG38",
         "name": "Suicune V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13683,7 +13683,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13718,7 +13718,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG39",
+        "id": "swsh12pt5-GG39",
         "name": "Lumineon V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13760,7 +13760,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13795,7 +13795,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG40",
+        "id": "swsh12pt5-GG40",
         "name": "Glaceon VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13841,7 +13841,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13876,7 +13876,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG41",
+        "id": "swsh12pt5-GG41",
         "name": "Raikou V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13917,7 +13917,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -13952,7 +13952,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG42",
+        "id": "swsh12pt5-GG42",
         "name": "Zeraora VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13997,7 +13997,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14032,7 +14032,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG43",
+        "id": "swsh12pt5-GG43",
         "name": "Zeraora VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14078,7 +14078,7 @@ let swsh12pt5 = [
             }
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14113,7 +14113,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG44",
+        "id": "swsh12pt5-GG44",
         "name": "Mewtwo VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14163,7 +14163,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14198,7 +14198,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG45",
+        "id": "swsh12pt5-GG45",
         "name": "Deoxys VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14246,7 +14246,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14281,7 +14281,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG46",
+        "id": "swsh12pt5-GG46",
         "name": "Deoxys VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14331,7 +14331,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14366,7 +14366,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG47",
+        "id": "swsh12pt5-GG47",
         "name": "Hatterene VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14414,7 +14414,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14449,7 +14449,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG48",
+        "id": "swsh12pt5-GG48",
         "name": "Zacian V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14491,7 +14491,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14526,7 +14526,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG49",
+        "id": "swsh12pt5-GG49",
         "name": "Drapion V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14569,7 +14569,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14604,7 +14604,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG50",
+        "id": "swsh12pt5-GG50",
         "name": "Darkrai VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14645,7 +14645,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14680,7 +14680,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG51",
+        "id": "swsh12pt5-GG51",
         "name": "Hisuian Samurott V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14724,7 +14724,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14759,7 +14759,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG52",
+        "id": "swsh12pt5-GG52",
         "name": "Hisuian Samurott VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14800,7 +14800,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14835,7 +14835,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG53",
+        "id": "swsh12pt5-GG53",
         "name": "Hoopa V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14878,7 +14878,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14913,7 +14913,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG54",
+        "id": "swsh12pt5-GG54",
         "name": "Zamazenta V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14961,7 +14961,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -14996,7 +14996,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG55",
+        "id": "swsh12pt5-GG55",
         "name": "Regigigas VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15038,7 +15038,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 4,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15073,7 +15073,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG56",
+        "id": "swsh12pt5-GG56",
         "name": "Hisuian Zoroark VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15114,7 +15114,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15149,7 +15149,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG57",
+        "id": "swsh12pt5-GG57",
         "name": "Adaman",
         "supertype": "Trainer",
         "subtypes": [
@@ -15160,7 +15160,7 @@ let swsh12pt5 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15192,7 +15192,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG58",
+        "id": "swsh12pt5-GG58",
         "name": "Cheren's Care",
         "supertype": "Trainer",
         "subtypes": [
@@ -15203,7 +15203,7 @@ let swsh12pt5 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15235,7 +15235,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG59",
+        "id": "swsh12pt5-GG59",
         "name": "Colress's Experiment",
         "supertype": "Trainer",
         "subtypes": [
@@ -15246,7 +15246,7 @@ let swsh12pt5 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15278,7 +15278,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG60",
+        "id": "swsh12pt5-GG60",
         "name": "Cynthia's Ambition",
         "supertype": "Trainer",
         "subtypes": [
@@ -15289,7 +15289,7 @@ let swsh12pt5 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15321,7 +15321,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG61",
+        "id": "swsh12pt5-GG61",
         "name": "Gardenia's Vigor",
         "supertype": "Trainer",
         "subtypes": [
@@ -15332,7 +15332,7 @@ let swsh12pt5 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15364,7 +15364,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG62",
+        "id": "swsh12pt5-GG62",
         "name": "Grant",
         "supertype": "Trainer",
         "subtypes": [
@@ -15375,7 +15375,7 @@ let swsh12pt5 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15407,7 +15407,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG63",
+        "id": "swsh12pt5-GG63",
         "name": "Irida",
         "supertype": "Trainer",
         "subtypes": [
@@ -15418,7 +15418,7 @@ let swsh12pt5 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15450,7 +15450,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG64",
+        "id": "swsh12pt5-GG64",
         "name": "Melony",
         "supertype": "Trainer",
         "subtypes": [
@@ -15461,7 +15461,7 @@ let swsh12pt5 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15493,7 +15493,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG65",
+        "id": "swsh12pt5-GG65",
         "name": "Raihan",
         "supertype": "Trainer",
         "subtypes": [
@@ -15504,7 +15504,7 @@ let swsh12pt5 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15536,7 +15536,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG66",
+        "id": "swsh12pt5-GG66",
         "name": "Roxanne",
         "supertype": "Trainer",
         "subtypes": [
@@ -15547,7 +15547,7 @@ let swsh12pt5 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15579,7 +15579,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG67",
+        "id": "swsh12pt5-GG67",
         "name": "Origin Forme Palkia VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15620,7 +15620,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15655,7 +15655,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG68",
+        "id": "swsh12pt5-GG68",
         "name": "Origin Forme Dialga VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15707,7 +15707,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15742,7 +15742,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG69",
+        "id": "swsh12pt5-GG69",
         "name": "Giratina VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15781,7 +15781,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,
@@ -15816,7 +15816,7 @@ let swsh12pt5 = [
         }
     },
     {
-        "id": "swsh12pt5gg-GG70",
+        "id": "swsh12pt5-GG70",
         "name": "Arceus VSTAR",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15858,7 +15858,7 @@ let swsh12pt5 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12pt5gg",
+            "id": "swsh12pt5",
             "name": "Crown Zenith Galarian Gallery",
             "series": "Sword & Shield",
             "printedTotal": 70,

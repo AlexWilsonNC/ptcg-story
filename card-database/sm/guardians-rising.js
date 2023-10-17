@@ -1,4 +1,4 @@
-let guardiansRising = [
+let sm2 = [
     {
         "id": "sm2-1",
         "name": "Bellsprout",

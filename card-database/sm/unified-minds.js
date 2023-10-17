@@ -1,4 +1,4 @@
-let unifiedMinds = [
+let sm11 = [
     {
         "id": "sm11-1",
         "name": "Rowlet & Alolan Exeggutor-GX",

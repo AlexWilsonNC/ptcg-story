@@ -1,4 +1,4 @@
-let unbrokenBonds = [
+let sm10 = [
     {
         "id": "sm10-1",
         "name": "Pheromosa & Buzzwole-GX",

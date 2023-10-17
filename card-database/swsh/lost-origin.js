@@ -24464,7 +24464,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG01",
+        "id": "swsh11-TG01",
         "name": "Parasect",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24506,7 +24506,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24577,7 +24577,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG02",
+        "id": "swsh11-TG02",
         "name": "Roserade",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24620,7 +24620,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24691,7 +24691,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG03",
+        "id": "swsh11-TG03",
         "name": "Charizard",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24734,7 +24734,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24805,7 +24805,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG04",
+        "id": "swsh11-TG04",
         "name": "Chandelure",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24847,7 +24847,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -24918,7 +24918,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG05",
+        "id": "swsh11-TG05",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -24962,7 +24962,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25033,7 +25033,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG06",
+        "id": "swsh11-TG06",
         "name": "Gengar",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25080,7 +25080,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25151,7 +25151,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG07",
+        "id": "swsh11-TG07",
         "name": "Banette",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25201,7 +25201,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25272,7 +25272,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG08",
+        "id": "swsh11-TG08",
         "name": "Hisuian Arcanine",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25315,7 +25315,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25386,7 +25386,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG09",
+        "id": "swsh11-TG09",
         "name": "Spiritomb",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25427,7 +25427,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25498,7 +25498,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG10",
+        "id": "swsh11-TG10",
         "name": "Snorlax",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25542,7 +25542,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 4,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25613,7 +25613,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG11",
+        "id": "swsh11-TG11",
         "name": "Castform",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25650,7 +25650,7 @@ const swsh11 = [
             }
         ],
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25721,7 +25721,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG12",
+        "id": "swsh11-TG12",
         "name": "Orbeetle V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25767,7 +25767,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25837,7 +25837,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG13",
+        "id": "swsh11-TG13",
         "name": "Orbeetle VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -25881,7 +25881,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -25951,7 +25951,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG14",
+        "id": "swsh11-TG14",
         "name": "Centiskorch V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26001,7 +26001,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26071,7 +26071,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG15",
+        "id": "swsh11-TG15",
         "name": "Centiskorch VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26110,7 +26110,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26180,7 +26180,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG16",
+        "id": "swsh11-TG16",
         "name": "Pikachu V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26230,7 +26230,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26300,7 +26300,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG17",
+        "id": "swsh11-TG17",
         "name": "Pikachu VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26342,7 +26342,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26412,7 +26412,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG18",
+        "id": "swsh11-TG18",
         "name": "Enamorus V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26458,7 +26458,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26528,7 +26528,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG19",
+        "id": "swsh11-TG19",
         "name": "Gallade V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26577,7 +26577,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26647,7 +26647,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG20",
+        "id": "swsh11-TG20",
         "name": "Crobat V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26691,7 +26691,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26761,7 +26761,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG21",
+        "id": "swsh11-TG21",
         "name": "Eternatus V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26810,7 +26810,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26880,7 +26880,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG22",
+        "id": "swsh11-TG22",
         "name": "Eternatus VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -26927,7 +26927,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -26997,7 +26997,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG23",
+        "id": "swsh11-TG23",
         "name": "Adventurer's Discovery",
         "supertype": "Trainer",
         "subtypes": [
@@ -27008,7 +27008,7 @@ const swsh11 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -27075,7 +27075,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG24",
+        "id": "swsh11-TG24",
         "name": "Boss's Orders",
         "supertype": "Trainer",
         "subtypes": [
@@ -27086,7 +27086,7 @@ const swsh11 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -27154,7 +27154,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG25",
+        "id": "swsh11-TG25",
         "name": "Cook",
         "supertype": "Trainer",
         "subtypes": [
@@ -27165,7 +27165,7 @@ const swsh11 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -27232,7 +27232,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG26",
+        "id": "swsh11-TG26",
         "name": "Kabu",
         "supertype": "Trainer",
         "subtypes": [
@@ -27243,7 +27243,7 @@ const swsh11 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -27310,7 +27310,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG27",
+        "id": "swsh11-TG27",
         "name": "Nessa",
         "supertype": "Trainer",
         "subtypes": [
@@ -27321,7 +27321,7 @@ const swsh11 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -27388,7 +27388,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG28",
+        "id": "swsh11-TG28",
         "name": "Opal",
         "supertype": "Trainer",
         "subtypes": [
@@ -27399,7 +27399,7 @@ const swsh11 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -27466,7 +27466,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG29",
+        "id": "swsh11-TG29",
         "name": "Pikachu VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -27508,7 +27508,7 @@ const swsh11 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -27578,7 +27578,7 @@ const swsh11 = [
         }
     },
     {
-        "id": "swsh11tg-TG30",
+        "id": "swsh11-TG30",
         "name": "Mew VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -27628,7 +27628,7 @@ const swsh11 = [
             }
         ],
         "set": {
-            "id": "swsh11tg",
+            "id": "swsh11",
             "name": "Lost Origin Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,

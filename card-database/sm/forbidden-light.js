@@ -1,4 +1,4 @@
-let forbiddenLight = [
+let sm6 = [
     {
         "id": "sm6-1",
         "name": "Exeggcute",

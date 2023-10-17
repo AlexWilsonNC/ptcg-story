@@ -1,4 +1,4 @@
-let shiningLegends = [
+let sm35 = [
     {
         "id": "sm35-1",
         "name": "Bulbasaur",

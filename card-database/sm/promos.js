@@ -1,4 +1,4 @@
-let promoSm = [
+let smp = [
     {
         "id": "smp-SM01",
         "name": "Rowlet",

@@ -1,4 +1,4 @@
-let cosmicEclipse = [
+let sm12 = [
     {
         "id": "sm12-1",
         "name": "Venusaur & Snivy-GX",

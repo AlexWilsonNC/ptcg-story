@@ -1,4 +1,4 @@
-let crimsonInvasion = [
+let sm4 = [
     {
         "id": "sm4-1",
         "name": "Weedle",

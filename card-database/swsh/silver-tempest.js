@@ -15220,7 +15220,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG01",
+        "id": "swsh12-TG01",
         "name": "Braixen",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15263,7 +15263,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15299,7 +15299,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG02",
+        "id": "swsh12-TG02",
         "name": "Milotic",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15339,7 +15339,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15375,7 +15375,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG03",
+        "id": "swsh12-TG03",
         "name": "Flaaffy",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15417,7 +15417,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15453,7 +15453,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG04",
+        "id": "swsh12-TG04",
         "name": "Jynx",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15496,7 +15496,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15532,7 +15532,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG05",
+        "id": "swsh12-TG05",
         "name": "Gardevoir",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15570,7 +15570,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15606,7 +15606,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG06",
+        "id": "swsh12-TG06",
         "name": "Malamar",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15643,7 +15643,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15679,7 +15679,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG07",
+        "id": "swsh12-TG07",
         "name": "Rockruff",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15713,7 +15713,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15749,7 +15749,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG08",
+        "id": "swsh12-TG08",
         "name": "Passimian",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15786,7 +15786,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15822,7 +15822,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG09",
+        "id": "swsh12-TG09",
         "name": "Druddigon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15857,7 +15857,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15893,7 +15893,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG10",
+        "id": "swsh12-TG10",
         "name": "Smeargle",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15932,7 +15932,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15968,7 +15968,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG11",
+        "id": "swsh12-TG11",
         "name": "Altaria",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16016,7 +16016,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16052,7 +16052,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG12",
+        "id": "swsh12-TG12",
         "name": "Kricketune V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16094,7 +16094,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16129,7 +16129,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG13",
+        "id": "swsh12-TG13",
         "name": "Serperior V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16173,7 +16173,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16208,7 +16208,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG14",
+        "id": "swsh12-TG14",
         "name": "Blaziken V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16255,7 +16255,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16290,7 +16290,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG15",
+        "id": "swsh12-TG15",
         "name": "Blaziken VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16334,7 +16334,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16369,7 +16369,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG16",
+        "id": "swsh12-TG16",
         "name": "Zeraora V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16405,7 +16405,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16440,7 +16440,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG17",
+        "id": "swsh12-TG17",
         "name": "Mawile V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16484,7 +16484,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16519,7 +16519,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG18",
+        "id": "swsh12-TG18",
         "name": "Corviknight V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16569,7 +16569,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16604,7 +16604,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG19",
+        "id": "swsh12-TG19",
         "name": "Corviknight VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16651,7 +16651,7 @@ let swsh12 = [
             }
         ],
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16686,7 +16686,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG20",
+        "id": "swsh12-TG20",
         "name": "Rayquaza VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16722,7 +16722,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16757,7 +16757,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG21",
+        "id": "swsh12-TG21",
         "name": "Duraludon VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16794,7 +16794,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16829,7 +16829,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG22",
+        "id": "swsh12-TG22",
         "name": "Blissey V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16869,7 +16869,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 4,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16904,7 +16904,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG23",
+        "id": "swsh12-TG23",
         "name": "Friends in Galar",
         "supertype": "Trainer",
         "subtypes": [
@@ -16915,7 +16915,7 @@ let swsh12 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16947,7 +16947,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG24",
+        "id": "swsh12-TG24",
         "name": "Gordie",
         "supertype": "Trainer",
         "subtypes": [
@@ -16958,7 +16958,7 @@ let swsh12 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -16990,7 +16990,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG25",
+        "id": "swsh12-TG25",
         "name": "Judge",
         "supertype": "Trainer",
         "subtypes": [
@@ -17001,7 +17001,7 @@ let swsh12 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -17033,7 +17033,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG26",
+        "id": "swsh12-TG26",
         "name": "Professor Burnet",
         "supertype": "Trainer",
         "subtypes": [
@@ -17044,7 +17044,7 @@ let swsh12 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -17076,7 +17076,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG27",
+        "id": "swsh12-TG27",
         "name": "Raihan",
         "supertype": "Trainer",
         "subtypes": [
@@ -17087,7 +17087,7 @@ let swsh12 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -17119,7 +17119,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG28",
+        "id": "swsh12-TG28",
         "name": "Sordward & Shielbert",
         "supertype": "Trainer",
         "subtypes": [
@@ -17130,7 +17130,7 @@ let swsh12 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -17162,7 +17162,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG29",
+        "id": "swsh12-TG29",
         "name": "Rayquaza VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17198,7 +17198,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -17233,7 +17233,7 @@ let swsh12 = [
         }
     },
     {
-        "id": "swsh12tg-TG30",
+        "id": "swsh12-TG30",
         "name": "Duraludon VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17270,7 +17270,7 @@ let swsh12 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh12tg",
+            "id": "swsh12",
             "name": "Silver Tempest Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,

@@ -1,4 +1,4 @@
-let detectivePikachu = [
+let det = [
     {
         "id": "det-1",
         "name": "Bulbasaur",

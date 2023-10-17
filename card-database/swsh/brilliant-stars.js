@@ -13047,7 +13047,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG01",
+        "id": "swsh9-TG01",
         "name": "Flareon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13086,7 +13086,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13122,7 +13122,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG02",
+        "id": "swsh9-TG02",
         "name": "Vaporeon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13160,7 +13160,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13196,7 +13196,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG03",
+        "id": "swsh9-TG03",
         "name": "Octillery",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13236,7 +13236,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13272,7 +13272,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG04",
+        "id": "swsh9-TG04",
         "name": "Jolteon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13311,7 +13311,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13347,7 +13347,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG05",
+        "id": "swsh9-TG05",
         "name": "Zekrom",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13388,7 +13388,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13424,7 +13424,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG06",
+        "id": "swsh9-TG06",
         "name": "Dusknoir",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13469,7 +13469,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13505,7 +13505,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG07",
+        "id": "swsh9-TG07",
         "name": "Dedenne",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13534,7 +13534,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13570,7 +13570,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG08",
+        "id": "swsh9-TG08",
         "name": "Alcremie",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13608,7 +13608,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13644,7 +13644,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG09",
+        "id": "swsh9-TG09",
         "name": "Ariados",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13682,7 +13682,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13718,7 +13718,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG10",
+        "id": "swsh9-TG10",
         "name": "Houndoom",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13757,7 +13757,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13793,7 +13793,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG11",
+        "id": "swsh9-TG11",
         "name": "Eevee",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13842,7 +13842,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13878,7 +13878,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG12",
+        "id": "swsh9-TG12",
         "name": "Oranguru",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13916,7 +13916,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -13952,7 +13952,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG13",
+        "id": "swsh9-TG13",
         "name": "Boltund V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13995,7 +13995,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14030,7 +14030,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG14",
+        "id": "swsh9-TG14",
         "name": "Sylveon V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14072,7 +14072,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14107,7 +14107,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG15",
+        "id": "swsh9-TG15",
         "name": "Sylveon VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14152,7 +14152,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14187,7 +14187,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG16",
+        "id": "swsh9-TG16",
         "name": "Mimikyu V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14233,7 +14233,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14268,7 +14268,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG17",
+        "id": "swsh9-TG17",
         "name": "Mimikyu VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14318,7 +14318,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 1,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14353,7 +14353,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG18",
+        "id": "swsh9-TG18",
         "name": "Single Strike Urshifu V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14398,7 +14398,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14433,7 +14433,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG19",
+        "id": "swsh9-TG19",
         "name": "Single Strike Urshifu VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14481,7 +14481,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14516,7 +14516,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG20",
+        "id": "swsh9-TG20",
         "name": "Rapid Strike Urshifu V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14561,7 +14561,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14596,7 +14596,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG21",
+        "id": "swsh9-TG21",
         "name": "Rapid Strike Urshifu VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14641,7 +14641,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14676,7 +14676,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG22",
+        "id": "swsh9-TG22",
         "name": "Umbreon V",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14721,7 +14721,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14756,7 +14756,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG23",
+        "id": "swsh9-TG23",
         "name": "Umbreon VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14799,7 +14799,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14834,7 +14834,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG24",
+        "id": "swsh9-TG24",
         "name": "Acerola's Premonition",
         "supertype": "Trainer",
         "subtypes": [
@@ -14845,7 +14845,7 @@ let swsh9 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14877,7 +14877,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG25",
+        "id": "swsh9-TG25",
         "name": "Café Master",
         "supertype": "Trainer",
         "subtypes": [
@@ -14888,7 +14888,7 @@ let swsh9 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14920,7 +14920,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG26",
+        "id": "swsh9-TG26",
         "name": "Gloria",
         "supertype": "Trainer",
         "subtypes": [
@@ -14931,7 +14931,7 @@ let swsh9 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -14963,7 +14963,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG27",
+        "id": "swsh9-TG27",
         "name": "Rapid Strike Style Mustard",
         "supertype": "Trainer",
         "subtypes": [
@@ -14976,7 +14976,7 @@ let swsh9 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15008,7 +15008,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG28",
+        "id": "swsh9-TG28",
         "name": "Single Strike Style Mustard",
         "supertype": "Trainer",
         "subtypes": [
@@ -15021,7 +15021,7 @@ let swsh9 = [
             "You may play only 1 Supporter card during your turn."
         ],
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15053,7 +15053,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG29",
+        "id": "swsh9-TG29",
         "name": "Single Strike Urshifu VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15101,7 +15101,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 3,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,
@@ -15136,7 +15136,7 @@ let swsh9 = [
         }
     },
     {
-        "id": "swsh9tg-TG30",
+        "id": "swsh9-TG30",
         "name": "Rapid Strike Urshifu VMAX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15181,7 +15181,7 @@ let swsh9 = [
         ],
         "convertedRetreatCost": 2,
         "set": {
-            "id": "swsh9tg",
+            "id": "swsh9",
             "name": "Brilliant Stars Trainer Gallery",
             "series": "Sword & Shield",
             "printedTotal": 30,

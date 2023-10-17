@@ -1,4 +1,4 @@
-let celestialStorm = [
+let sm7 = [
     {
         "id": "sm7-1",
         "name": "Bellsprout",

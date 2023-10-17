@@ -1,4 +1,4 @@
-let ultraPrism = [
+let sm5 = [
     {
         "id": "sm5-1",
         "name": "Exeggcute",
