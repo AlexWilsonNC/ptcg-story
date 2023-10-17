@@ -1,4 +1,4 @@
-let rebelClash = [
+let swsh2 = [
     {
         "id": "swsh2-1",
         "name": "Caterpie",

@@ -1,4 +1,4 @@
-let shiningFates = [
+let swsh45 = [
     {
         "id": "swsh45-1",
         "name": "Yanma",

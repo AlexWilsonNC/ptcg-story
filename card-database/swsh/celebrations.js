@@ -1,4 +1,4 @@
-let celebrations = [
+let cel25 = [
     {
         "id": "cel25-1",
         "name": "Ho-Oh",

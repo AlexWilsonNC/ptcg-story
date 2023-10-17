@@ -1,4 +1,4 @@
-let fusionStrike = [
+let swsh8 = [
     {
         "id": "swsh8-1",
         "name": "Caterpie",

@@ -1,4 +1,4 @@
-let lostOrigin = [
+const swsh11 = [
     {
         "id": "swsh11-1",
         "name": "Oddish",
@@ -27698,4 +27698,3 @@ let lostOrigin = [
         }
     }
 ]
-export { lostOrigin }

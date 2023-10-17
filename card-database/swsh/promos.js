@@ -1,4 +1,4 @@
-let promoSwSh = [
+let swshp = [
     {
         "id": "swshp-SWSH001",
         "name": "Grookey",
@@ -19735,6 +19735,19 @@ let promoSwSh = [
         "images": {
             "small": "https://images.pokemontcg.io/swshp/SWSH252.png",
             "large": "https://images.pokemontcg.io/swshp/SWSH252_hires.png"
+        }
+    },
+    {
+        "id": "swshp-SWSH259",
+        "name": "Giratina V",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "V"
+        ],
+        "images": {
+            "small": "https://images.pokemontcg.io/swshp/SWSH259.png",
+            "large": "https://images.pokemontcg.io/swshp/SWSH259_hires.png"
         }
     }
 ]

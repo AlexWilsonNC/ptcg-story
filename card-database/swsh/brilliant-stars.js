@@ -1,4 +1,4 @@
-let brilliantStars = [
+let swsh9 = [
     {
         "id": "swsh9-1",
         "name": "Exeggcute",

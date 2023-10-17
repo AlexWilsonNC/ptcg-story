@@ -1,4 +1,4 @@
-let chillingReign = [
+let swsh6 = [
     {
         "id": "swsh6-1",
         "name": "Weedle",

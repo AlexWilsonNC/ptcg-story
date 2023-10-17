@@ -1,4 +1,4 @@
-let vividVoltage = [
+let swsh4 = [
     {
         "id": "swsh4-1",
         "name": "Weedle",

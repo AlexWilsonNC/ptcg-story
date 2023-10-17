@@ -1,4 +1,4 @@
-let silverTempest = [
+let swsh12 = [
     {
         "id": "swsh12-1",
         "name": "Venonat",

@@ -1,4 +1,4 @@
-let darknessAblaze = [
+let swsh3 = [
     {
         "id": "swsh3-1",
         "name": "Butterfree V",

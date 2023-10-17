@@ -1,4 +1,4 @@
-let pokemonGo = [
+let pgo = [
     {
         "id": "pgo-1",
         "name": "Bulbasaur",

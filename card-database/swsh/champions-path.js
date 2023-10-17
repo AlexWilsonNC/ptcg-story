@@ -1,4 +1,4 @@
-let championsPath = [
+let swsh35 = [
     {
         "id": "swsh35-1",
         "name": "Venusaur V",

@@ -1,4 +1,4 @@
-let battleStyles = [
+let swsh5 = [
     {
         "id": "swsh5-1",
         "name": "Bellsprout",

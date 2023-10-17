@@ -1,4 +1,3 @@
-// import { lostOrigin } from "../../../card-database/swsh/lost-origin";
 const masterList = document.querySelector('.masters-ol');
 const modalBottom = document.querySelector('.modal-bottom');
 
@@ -61,49 +60,9 @@ function displayList(array = []) {
                 document.querySelector('.behind-modal').style.display = 'block';
                 document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + " -" + " " + item.event + " Regionals";
 
-                const setConvert = {
-                    // sv
-                    "OBF": "sv3",
-                    "PAL": "sv2",
-                    "SVI": "sv1",
-                    "SVP": "svp",
-                    // swsh
-                    "CRZ": "swsh12pt5",
-                    "SIT": "swsh12",
-                    "LOR": "swsh11",
-                    "PGO": "pgo",
-                    "ASR": "swsh10",
-                    "BRS": "swsh9",
-                    "FST": "swsh8",
-                    "CEL": "cel25",
-                    "EVS": "swsh7",
-                    "CRE": "swsh6",
-                    "BST": "swsh5",
-                    "SHF": "swsh45",
-                    "VIV": "swsh4",
-                    "CPA": "swsh35",
-                    "DAA": "swsh3",
-                    "RCL": "swsh2",
-                    "SSH": "swsh1",
-                    "PR": "swshp",
-                    // sm
-                    "CEC": "sm12",
-                    "UNM": "sm11",
-                    "UNB": "sm10",
-                    "TEU": "sm9",
-                    "LOT": "sm8",
-                    "CES": "sm7",
-                    "FLI": "sm6",
-                    "UPR": "sm5",
-                    "CIN": "sm4",
-                    "BUS": "sm3",
-                    "GRI": "sm2",
-                    "SUM": "sm1"
-                }
-
-                item.decklist.pokemon.sort((a, b) => b.count - a.count);
-                item.decklist.trainer.sort((a, b) => b.count - a.count);
-                item.decklist.energy.sort((a, b) => b.count - a.count);
+                // item.decklist.pokemon.sort((a, b) => b.count - a.count);
+                // item.decklist.trainer.sort((a, b) => b.count - a.count);
+                // item.decklist.energy.sort((a, b) => b.count - a.count);
 
                 for (const cardType in item.decklist) {
                     item.decklist[cardType].forEach(card => {
@@ -113,25 +72,33 @@ function displayList(array = []) {
     
                         let pokeCard = document.createElement('img');
                         pokeCard.classList.add('pok-card-small')
-    
-                        pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
-                        pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + ".png");
 
-                        if (card.set === "PR" && card.number.startsWith('SWSH' || 'swsh')) {
-                            pokeCard.setAttribute('src', "https://images.pokemontcg.io/swshp/" + card.number + ".png");
+                        /////////////////////////////
+
+                        const allSets = {sv3pt5, sv3, sv2, sv1, svp, swsh12pt5, swsh12, swsh11, pgo, swsh10, swsh9, swsh8, cel25, swsh7, swsh6, swsh5, swsh45, swsh4, swsh35, swsh3, swsh2, swsh1, swshp}
+                        
+                        const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+
+                        pokeCard.setAttribute('src', cardFound.images.small);
+                        pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+
+                        let zoomedImg = document.getElementById("insert-zoomed-img");
+                        let zoombox = document.getElementById("zoomed-bg");
+
+                        pokeCard.onclick = () => {
+                            zoomedImg.setAttribute('src', cardFound.images.large);
+                        zoombox.className = "show";
                         }
-                        if (card.set === "CRZ" && card.number.startsWith('G' || 'g')) {
-                            pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh12pt5gg/" + card.number + ".png");
-                        }
-                        if (card.set === "LOR" && card.number.startsWith('TG' || 'tg')) {
-                            pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh11tg/" + card.number + ".png");
-                        }
-                        if (card.set === "ASR" && card.number.startsWith('TG' || 'tg')) {
-                            pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh10tg/" + card.number + ".png");
-                        }
-                        if (card.set === "SIT" && card.number.startsWith('TG' || 'tg')) {
-                            pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh12tg/" + card.number + ".png");
-                        }
+                        zoombox.onclick = () => {
+                            zoombox.className = "";
+                        };
+
+                        // console.log('pizza', allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number))
+                        
+                        /////////////////////////////
+
+                        // pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + ".png");
+
                         if (card.name === "Grass Energy - Basic") {
                             pokeCard.setAttribute('src', "../../../assets/cards/new-energy/scvi-grass-energy.jpg");
                             pokeCard.classList.add('radius-card');
@@ -164,50 +131,9 @@ function displayList(array = []) {
                             pokeCard.setAttribute('src', "../../../assets/cards/new-energy/scvi-dark-energy.jpg");
                             pokeCard.classList.add('radius-card');
                         }
-                        // let xhr = new XMLHttpRequest();
-                        
-                        // xhr.open('GET', 'https://api.pokemontcg.io/v2/cards/', true);  
-
-                        // pokemon.card.find(card.set + '-' + card.number)
-                        //     .then(cardResult => {
-                        //     console.log(cardResult) // "Charizard"
-                        // })
-
-                        // TO DO
-                        // merge duplicate cards - cant be done until using api?
-                        // fix deck icons
-                        // zoomed in promos are just backs???
-
-                        let zoomedImg = document.getElementById("insert-zoomed-img");
-                        let zoombox = document.getElementById("zoomed-bg");
-
-                        pokeCard.onclick = () => {
-                            zoomedImg.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + "_hires.png");
-
-                            if (card.set === "PR" && card.number.startsWith('SWSH')) {
-                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + "_hires.png");
-                            }
-                            if (card.set === "CRZ" && card.number.startsWith('G' || 'g')) {
-                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "gg/" + card.number + "_hires.png");
-                            }
-                            if (card.set === "LOR" && card.number.startsWith('TG' || 'tg')) {
-                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh11tg/" + card.number + "_hires.png");
-                            }
-                            if (card.set === "ASR" && card.number.startsWith('TG' || 'tg')) {
-                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh10tg/" + card.number + "_hires.png");
-                            }
-                            if (card.set === "SIT" && card.number.startsWith('TG' || 'tg')) {
-                                pokeCard.setAttribute('src', "https://images.pokemontcg.io/swsh12tg/" + card.number + "_hires.png");
-                            } 
-                            zoombox.className = "show";
-                        };
-                        zoombox.onclick = () => {
-                            zoombox.className = "";
-                        };
-
-                        // if (deck.radiusCard === true) {
-                        //     pokeCard.classList.add('radius-card')
-                        // }
+                        if (deck.radiusCard === true) {
+                            pokeCard.classList.add('radius-card')
+                        }
 
                         let numberCounter = document.createElement('img');
                         numberCounter.classList.add('num-1')

@@ -1,4 +1,4 @@
-let crownZenith = [
+let swsh12pt5 = [
     {
         "id": "swsh12pt5-1",
         "name": "Oddish",

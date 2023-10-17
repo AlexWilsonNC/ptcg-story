@@ -1,4 +1,4 @@
-let astralRadiance = [
+let swsh10 = [
     {
         "id": "swsh10-1",
         "name": "Beedrill V",

@@ -1,4 +1,4 @@
-let evolvingSkies = [
+let swsh7 = [
     {
         "id": "swsh7-1",
         "name": "Pinsir",
@@ -17485,5 +17485,5 @@ let evolvingSkies = [
     }
 ]
 
-// let order = evolvingSkies.sort((a,b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
+// let order = swsh7.sort((a,b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
 // console.log(order)

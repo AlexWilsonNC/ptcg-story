@@ -1,4 +1,4 @@
-let swordShield = [
+let swsh1 = [
     {
         "id": "swsh1-1",
         "name": "Celebi V",
