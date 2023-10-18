@@ -38,6 +38,7 @@
 .card-count,
 .card-name {
     font-size: 16px;
+    color:black !important;
 }
 .card-count {
     width: 6%;

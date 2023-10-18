@@ -165,7 +165,7 @@ function displayList(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + " -" + " " + item.event + " Regionals";
+                document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + "<br><i>" + item.event + " Regionals</i>";
 
                 item.decklist.pokemon.sort((a, b) => b.count - a.count);
                 item.decklist.trainer.sort((a, b) => b.count - a.count);
@@ -257,6 +257,35 @@ function displayList(array = []) {
                         cardSpace.appendChild(pokeCard);
                         cardSpace.appendChild(numberCounter);
 
+                        // CHANGE LIST VIEW //
+                        const listChange = document.querySelector('.change-list-view');
+                        listChange.addEventListener('click', function () {
+
+                            // let pokemonSideCount = document.createElement('div');
+                            // pokemonSideCount.classList.add('card');
+                            // pokemonSideCount.classList.add('top-total');
+                            // pokemonSideCount.innerHTML = "Pokemon -" + " " + item.decklist.pokemon.length
+
+                            let pokemonSide = document.createElement('div');
+                            pokemonSide.classList.add('pokemon-side');
+
+                            let trainerSide = document.createElement('div');
+                            trainerSide.classList.add('trainer-side');
+
+                            let energySide = document.createElement('div');
+                            energySide.classList.add('energy-side');
+
+                            cardSpace.classList.remove('pokemon-card');
+                            cardSpace.classList.add('card');
+                            pokeCard.classList.remove('pok-card-small');
+                            numberCounter.style.display = 'none';
+                            let numberCounter2 = document.createElement('p');
+                            numberCounter2.classList.add('card-count');
+                            numberCounter2.innterHTML = card.count;
+                            console.log('hair', card.count)
+
+                        })
+
                         modalBottom.appendChild(cardSpace);
                         modalX.addEventListener('click', () => {
                             modal.style.display = 'none';
@@ -270,6 +299,25 @@ function displayList(array = []) {
                         })
                     })
                 }
+                // PRINT DECKLIST //
+                const copyButton = document.querySelector('.copy-to-clip');
+
+                copyButton.addEventListener('click', function () {
+                    console.log('Pokemon', item.decklist.pokemon.length, item.decklist.pokemon)
+                    console.log('Trainers', item.decklist.trainer.length, item.decklist.trainer)
+                    console.log('Energy', item.decklist.energy.length, item.decklist.energy)
+
+                    copyButton.setAttribute('value', "hellp")
+
+                    navigator.clipboard
+                    .writeText(copyButton.value)
+                      .then(() => {
+                        alert("successfully copied");
+                      })
+                      .catch(() => {
+                        alert("something went wrong");
+                      });
+                })
             })
         }
         masterList.appendChild(item_element);
