@@ -303,15 +303,14 @@ function displayList(array = []) {
                 const copyButton = document.querySelector('.copy-to-clip');
 
                 copyButton.addEventListener('click', function () {
-                    console.log('Pokemon', item.decklist.pokemon.length, item.decklist.pokemon)
-                    console.log('Trainers', item.decklist.trainer.length, item.decklist.trainer)
-                    console.log('Energy', item.decklist.energy.length, item.decklist.energy)
 
-                    copyButton.setAttribute('value', "hellp")
+                    let pokeString = JSON.stringify(item.decklist.pokemon)
+                    let trainString = JSON.stringify(item.decklist.trainer)
+                    let energyString = JSON.stringify(item.decklist.energy)
+
+                    copyButton.setAttribute('value', pokeString + trainString + energyString)
 
                     navigator.clipboard.writeText(copyButton.value)
-                      .then(() => {alert("successfully copied");})
-                      .catch(() => {alert("something went wrong");});
                 })
             })
         }

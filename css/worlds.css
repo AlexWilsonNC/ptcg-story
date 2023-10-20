@@ -736,7 +736,7 @@ li {
     justify-content: flex-start;
     padding: 2px 15px;
 }
-.modal-buttons p {
+.modal-buttons button {
     color:white;
     background-color: rgb(122, 122, 122);
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
@@ -744,8 +744,16 @@ li {
     padding: 5px 10px;
     font-size: 14px;
     transition: ease all 0.2s;
+
+    display: inline-block;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    -webkit-appearance: none;
+    -moz-appearance: none;
 }
-.modal-buttons p:hover {
+.modal-buttons button:hover {
     cursor: pointer;
     background-color: rgb(71, 71, 71);
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
@@ -1560,7 +1568,7 @@ li {
     .modal-buttons {
         margin-top: -2px;
     }
-    .modal-buttons p {
+    .modal-buttons button {
         font-size: 13px;
     }
 
@@ -1879,7 +1887,7 @@ li {
     .modal-buttons {
         margin-top: -3px;
     }
-    .modal-buttons p {
+    .modal-buttons button {
         font-size: 11px;
     }
     .copy-to-clip {
@@ -2073,7 +2081,7 @@ li {
     .modal-buttons {
         padding: 2px 7px;
     }
-    .modal-buttons p {
+    .modal-buttons button {
         padding: 4px 8px;
     }
     .modal-bottom {
