@@ -309,14 +309,9 @@ function displayList(array = []) {
 
                     copyButton.setAttribute('value', "hellp")
 
-                    navigator.clipboard
-                    .writeText(copyButton.value)
-                      .then(() => {
-                        alert("successfully copied");
-                      })
-                      .catch(() => {
-                        alert("something went wrong");
-                      });
+                    navigator.clipboard.writeText(copyButton.value)
+                      .then(() => {alert("successfully copied");})
+                      .catch(() => {alert("something went wrong");});
                 })
             })
         }

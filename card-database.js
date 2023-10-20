@@ -1,12 +1,12 @@
 // fetch('https://api.pokemontcg.io/v2/sets').then(res => { console.log('List of All Sets', res.json()) })
-/* set */ fetch('https://api.pokemontcg.io/v2/cards?q=set.id:swshp').then(res => { console.log('Download New Set', res.json()) })
+// /* set */ fetch('https://api.pokemontcg.io/v2/cards?q=set.id:swshp&page=2').then(res => { console.log('Download New Set', res.json()) })
 // /* card */ fetch('https://api.pokemontcg.io/v2/cards/sv2-1').then(res => { console.log('Download New Card', res.json()) })
 
-// sv3pt5.forEach(cardObject => {
+// swshp.forEach(cardObject => {
 //     delete cardObject.tcgplayer;
 //     delete cardObject.cardmarket;
 // })
-// console.log('Edited Set Object 2 - Removing Values', sv3pt5)
+// console.log('Edited Set Object 2 - Removing Values', swshp)
 
 // const allStandardLegalCards = [];
 // let page = 2;
