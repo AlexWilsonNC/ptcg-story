@@ -77,8 +77,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -463,14 +463,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 2,
@@ -505,8 +505,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -813,8 +813,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -1012,8 +1012,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -1489,8 +1489,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -1676,8 +1676,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 }
             ],
             "energy": [
@@ -1845,8 +1845,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 4,
@@ -1996,8 +1996,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 4,
@@ -2509,14 +2509,14 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 4,
@@ -2612,8 +2612,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 2,
@@ -2696,8 +2696,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -2714,8 +2714,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -3390,8 +3390,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
@@ -3475,8 +3475,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -3692,8 +3692,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -3867,14 +3867,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 }
             ],
             "energy": [
@@ -4145,8 +4145,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -4163,8 +4163,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 4,
@@ -4175,8 +4175,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 2,
@@ -4386,14 +4386,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 }
             ],
             "energy": [
@@ -4543,8 +4543,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
@@ -4555,8 +4555,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 1,
@@ -4567,8 +4567,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 3,
@@ -4899,8 +4899,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 }
             ],
             "energy": [
@@ -5080,8 +5080,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 3,
@@ -5261,8 +5261,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 }
             ],
             "energy": [
@@ -5491,8 +5491,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 2,
@@ -5581,8 +5581,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -5599,8 +5599,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -5847,8 +5847,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 1,
@@ -5931,8 +5931,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -5955,8 +5955,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 }
             ],
             "energy": [
@@ -6124,8 +6124,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -6311,8 +6311,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -6818,8 +6818,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -6957,8 +6957,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -6975,8 +6975,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 1,
@@ -7011,8 +7011,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 3,
@@ -7180,8 +7180,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -8116,8 +8116,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -8170,8 +8170,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -8218,8 +8218,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 2,
@@ -9051,8 +9051,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -9087,8 +9087,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -9799,8 +9799,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 }
             ],
             "energy": [
@@ -9902,8 +9902,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 4,
@@ -10113,8 +10113,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -10125,8 +10125,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -10300,8 +10300,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -10409,8 +10409,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 3,
@@ -10542,8 +10542,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 1,
@@ -10626,14 +10626,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -10843,8 +10843,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -11024,8 +11024,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 }
             ],
             "energy": [
@@ -11109,8 +11109,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 4,
@@ -11821,8 +11821,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 3,
@@ -12467,8 +12467,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 2,
@@ -12557,8 +12557,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -12569,8 +12569,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -12895,8 +12895,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -13619,8 +13619,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 3,
@@ -13631,8 +13631,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 1,
@@ -13643,8 +13643,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 4,
@@ -14566,14 +14566,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 3,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -14729,8 +14729,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 4,
@@ -15121,8 +15121,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -15477,14 +15477,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 3,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 3,
@@ -15640,8 +15640,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -15960,8 +15960,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 }
             ],
             "energy": [
@@ -16612,8 +16612,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -16817,8 +16817,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 }
             ],
             "energy": [
@@ -17101,8 +17101,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -17131,8 +17131,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 4,
@@ -17300,8 +17300,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -17312,8 +17312,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 2,
@@ -17336,8 +17336,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -17662,14 +17662,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 4,
@@ -17849,8 +17849,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
@@ -17861,8 +17861,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -18308,8 +18308,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 4,
@@ -18338,8 +18338,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
@@ -18694,8 +18694,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
@@ -19068,8 +19068,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -19231,8 +19231,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
@@ -19382,8 +19382,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 }
             ],
             "energy": [
@@ -19503,8 +19503,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 4,
@@ -19696,14 +19696,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 }
             ],
             "energy": [
@@ -20052,8 +20052,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -20662,8 +20662,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -20915,8 +20915,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -21410,8 +21410,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 }
             ],
             "energy": [
@@ -21519,8 +21519,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 4,
@@ -21579,8 +21579,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -22026,8 +22026,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 1,
@@ -22062,8 +22062,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -22104,8 +22104,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -22370,8 +22370,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 1,
@@ -22448,8 +22448,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -22460,8 +22460,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 }
             ],
             "energy": [
@@ -22967,8 +22967,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 4,
@@ -23311,8 +23311,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 }
             ],
             "energy": [
@@ -23390,8 +23390,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -23728,8 +23728,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 4,
@@ -24084,8 +24084,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -24108,8 +24108,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
@@ -24120,8 +24120,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 2,
@@ -24319,14 +24319,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 4,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 }
             ],
             "energy": [
@@ -24494,8 +24494,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 }
             ],
             "energy": [
@@ -24609,8 +24609,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 3,
@@ -24766,8 +24766,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -25237,8 +25237,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 4,
@@ -25303,8 +25303,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -25659,8 +25659,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -26401,14 +26401,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -26576,8 +26576,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
@@ -26721,8 +26721,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
@@ -27198,8 +27198,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
@@ -27572,8 +27572,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 }
             ],
             "energy": [
@@ -27904,8 +27904,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 4,
@@ -28103,8 +28103,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -28284,14 +28284,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 3,
@@ -28423,8 +28423,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 3,
@@ -28821,8 +28821,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -28990,8 +28990,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -29177,8 +29177,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -29473,8 +29473,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 2,
@@ -29527,8 +29527,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 3,
@@ -29539,8 +29539,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -29841,8 +29841,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 4,
@@ -29907,8 +29907,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 }
             ],
             "energy": [
@@ -29974,8 +29974,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 3,
@@ -30028,8 +30028,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 4,
@@ -30209,8 +30209,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -30282,8 +30282,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 3,
@@ -30360,8 +30360,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
@@ -30451,8 +30451,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Artazon",
-                    "number": "229",
-                    "set": "OBF"
+                    "number": "171",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -30523,8 +30523,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 }
             ],
             "energy": [
@@ -31332,8 +31332,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 4,
@@ -31350,8 +31350,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 1,
@@ -31501,8 +31501,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Elesa's Sparkle",
-                    "number": "147",
-                    "set": "CRZ"
+                    "number": "233",
+                    "set": "FST"
                 },
                 {
                     "count": 2,
@@ -31531,14 +31531,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 2,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 1,
@@ -31664,8 +31664,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Path to the Peak",
-                    "number": "213",
-                    "set": "ASR"
+                    "number": "148",
+                    "set": "CRE"
                 },
                 {
                     "count": 3,
@@ -31694,8 +31694,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Choice Belt",
-                    "number": "211",
-                    "set": "ASR"
+                    "number": "176",
+                    "set": "PAL"
                 },
                 {
                     "count": 3,

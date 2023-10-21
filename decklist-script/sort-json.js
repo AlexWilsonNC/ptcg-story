@@ -35,7 +35,7 @@ function displayList(array = []) {
             item.decklist[pokemonCardInDeck].forEach(pokemon => {
                 if (Object.values(pokemon).includes("Comfey")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
-                         if (Object.values(pokemon).includes("Sableye")) {
+                        if (Object.values(pokemon).includes("Sableye")) {
                             firstSprite.setAttribute('src', "../../../assets/sprites/comfey.png");
                             secondSprite.setAttribute('src', "../../../assets/sprites/sableye.png");
                         }
@@ -62,7 +62,7 @@ function displayList(array = []) {
                         if (Object.values(pokemon).includes("Comfey")) {
                             firstSprite.setAttribute('src', "../../../assets/sprites/kyogre.png");
                             secondSprite.setAttribute('src', "../../../assets/sprites/comfey.png");
-                                }
+                        }
                     })
                 }
                 if (Object.values(pokemon).includes("Comfey")) {
@@ -70,7 +70,7 @@ function displayList(array = []) {
                         if (Object.values(pokemon).includes("Radiant Charizard")) {
                             firstSprite.setAttribute('src', "../../../assets/sprites/charizard-shiny.png");
                             secondSprite.setAttribute('src', "../../../assets/sprites/comfey.png");
-                                }
+                        }
                     })
                 }
                 if (Object.values(pokemon).includes("Miraidon ex")) {
@@ -78,7 +78,7 @@ function displayList(array = []) {
                         if (Object.values(pokemon).includes("Flaaffy")) {
                             firstSprite.setAttribute('src', "../../../assets/sprites/miraidon.png");
                             secondSprite.setAttribute('src', "../../../assets/sprites/flaaffy.png");
-                                }
+                        }
                     })
                 }
                 if (Object.values(pokemon).includes("Comfey")) {
@@ -91,7 +91,7 @@ function displayList(array = []) {
                 }
                 if (Object.values(pokemon).includes("Chien-Pao ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
-                         if (Object.values(pokemon).includes("Origin Forme Palkia VSTAR")) {
+                        if (Object.values(pokemon).includes("Origin Forme Palkia VSTAR")) {
                             firstSprite.setAttribute('src', "../../../assets/sprites/palkia-origin.png");
                             secondSprite.setAttribute('src', "../../../assets/sprites/chien-pao.png");
                         }
@@ -126,7 +126,7 @@ function displayList(array = []) {
                 }
                 if (Object.values(pokemon).includes("Arceus VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
-                         if (Object.values(pokemon).includes("Flying Pikachu VMAX")) {
+                        if (Object.values(pokemon).includes("Flying Pikachu VMAX")) {
                             firstSprite.setAttribute('src', "../../../assets/sprites/arceus.png");
                             secondSprite.setAttribute('src', "../../../assets/sprites/pikachu-gmax.png");
                         } else if (Object.values(pokemon).includes("Umbreon VMAX")) {
@@ -180,8 +180,6 @@ function displayList(array = []) {
                         let pokeCard = document.createElement('img');
                         pokeCard.classList.add('pok-card-small')
 
-                        /////////////////////////////
-
                         const allSets = {
                             // sv
                             sv3pt5, sv3, sv2, sv1, svp,
@@ -206,13 +204,6 @@ function displayList(array = []) {
                         zoombox.onclick = () => {
                             zoombox.className = "";
                         };
-
-                        // console.log('pizza', allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number))
-
-                        /////////////////////////////
-
-                        // old way
-                        // pokeCard.setAttribute('src', "https://images.pokemontcg.io/" + setConvert[card.set] + "/" + card.number + ".png");
 
                         if (card.name === "Grass Energy - Basic") {
                             pokeCard.setAttribute('src', "../../../assets/cards/new-energy/scvi-grass-energy.jpg");
@@ -257,34 +248,88 @@ function displayList(array = []) {
                         cardSpace.appendChild(pokeCard);
                         cardSpace.appendChild(numberCounter);
 
+                        // PRINT DECKLIST //
+                        const copyButton = document.querySelector('.copy-to-clip');
+
+                        copyButton.addEventListener('click', function () {
+
+                            // let pokeString = JSON.stringify(item.decklist.pokemon)
+                            // let trainString = JSON.stringify(item.decklist.trainer)
+                            // let energyString = JSON.stringify(item.decklist.energy)
+
+                            copyButton.setAttribute('value', card.count + " " + card.name + " " + card.set + " " + card.number)
+                            navigator.clipboard.writeText(copyButton.value)
+                        })
+
                         // CHANGE LIST VIEW //
                         const listChange = document.querySelector('.change-list-view');
                         listChange.addEventListener('click', function () {
+                            listChange.classList.add('showingList');
 
                             // let pokemonSideCount = document.createElement('div');
                             // pokemonSideCount.classList.add('card');
                             // pokemonSideCount.classList.add('top-total');
                             // pokemonSideCount.innerHTML = "Pokemon -" + " " + item.decklist.pokemon.length
 
-                            let pokemonSide = document.createElement('div');
-                            pokemonSide.classList.add('pokemon-side');
+                            // let pokemonSide = document.createElement('div');
+                            // pokemonSide.classList.add('pokemon-side');
 
-                            let trainerSide = document.createElement('div');
-                            trainerSide.classList.add('trainer-side');
+                            // let trainerSide = document.createElement('div');
+                            // trainerSide.classList.add('trainer-side');
 
-                            let energySide = document.createElement('div');
-                            energySide.classList.add('energy-side');
+                            // let energySide = document.createElement('div');
+                            // energySide.classList.add('energy-side');
 
                             cardSpace.classList.remove('pokemon-card');
                             cardSpace.classList.add('card');
-                            pokeCard.classList.remove('pok-card-small');
+
                             numberCounter.style.display = 'none';
                             let numberCounter2 = document.createElement('p');
                             numberCounter2.classList.add('card-count');
                             numberCounter2.innterHTML = card.count;
-                            console.log('hair', card.count)
 
-                        })
+                            let cardNmes = document.createElement('p');
+                            cardNmes.classList.add('card-name');
+                            cardNmes.innterHTML = card.name;
+
+                            pokeCard.classList.remove('pok-card-small');
+                            if (card.name.includes("Energy - Basic")) {
+                                cardSpace.classList.add('card-45');
+                            } if (card.name.includes("Raikou V")) {
+                                cardSpace.classList.add('card-45');
+                            } if (card.name.includes("Miraidon ex")) {
+                                cardSpace.classList.add('card-25');
+                            } if (card.name.includes("Flying Pikachu")) {
+                                cardSpace.classList.add('card-45');
+                            } if (card.name.includes("Lumineon V")) {
+                                cardSpace.classList.add('card-45');
+                            }
+
+                            cardSpace.appendChild(numberCounter2);
+                            cardSpace.appendChild(cardNmes);
+                            cardSpace.appendChild(pokeCard);
+                        });
+
+                        // if (listChange.className === 'showingList') {
+                        //     listChange.addEventListener('click', function () {
+                        //         listChange.classList.remove('showingList');
+
+                        //         cardSpace.style.display = 'none';
+
+                        //         let cardSpace = document.createElement('div');
+                        //         cardSpace.classList.add('pokemon-card');
+        
+                        //         let pokeCard = document.createElement('img');
+                        //         pokeCard.classList.add('pok-card-small')
+                        //         pokeCard.setAttribute('src', cardFound.images.small);
+                               
+                        //         numberCounter.style.display = 'block';
+                        //         numberCounter2.style.display = 'none';
+                        //         cardNmes.style.display = 'none';
+
+                        //         cardSpace.appendChild(pokeCard);
+                        //     })
+                        // }
 
                         modalBottom.appendChild(cardSpace);
                         modalX.addEventListener('click', () => {
@@ -299,19 +344,7 @@ function displayList(array = []) {
                         })
                     })
                 }
-                // PRINT DECKLIST //
-                const copyButton = document.querySelector('.copy-to-clip');
 
-                copyButton.addEventListener('click', function () {
-
-                    let pokeString = JSON.stringify(item.decklist.pokemon)
-                    let trainString = JSON.stringify(item.decklist.trainer)
-                    let energyString = JSON.stringify(item.decklist.energy)
-
-                    copyButton.setAttribute('value', pokeString + trainString + energyString)
-
-                    navigator.clipboard.writeText(copyButton.value)
-                })
             })
         }
         masterList.appendChild(item_element);
