@@ -1207,9 +1207,8 @@ let eightEvent = [
                 oldCard: true
             },
             {
-                cardImg: '../../assets/cards/2004-2006/lm.079.mysterious_fossil.jpg',
-                numImg: '../../assets/01.png',
-                oldCard: true
+                cardImg: '../../assets/cards/2004-2006/mysterious-fossil.png',
+                numImg: '../../assets/01.png'
             },
             {
                 cardImg: '../../assets/cards/2004-2006/warp-point.png',
