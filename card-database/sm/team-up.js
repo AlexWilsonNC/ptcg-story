@@ -13645,8 +13645,8 @@ let sm9 = [
             "Basic"
         ],
         "images": {
-            "small": "https://i.ibb.co/myyL0vD/grass-energy-teu.png",
-            "large": "https://i.ibb.co/myyL0vD/grass-energy-teu.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_G_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_G_R_EN.png"
         }
     },
     {
@@ -13656,8 +13656,8 @@ let sm9 = [
             "Basic"
         ],
         "images": {
-            "small": "https://i.ibb.co/Db1nKmw/fire-energy-teu.png",
-            "large": "https://i.ibb.co/Db1nKmw/fire-energy-teu.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_R_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_R_R_EN.png"
         }
     },
     {
@@ -13667,8 +13667,8 @@ let sm9 = [
             "Basic"
         ],
         "images": {
-            "small": "https://i.ibb.co/KzJXgzd/water-energy-teu.png",
-            "large": "https://i.ibb.co/KzJXgzd/water-energy-teu.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_W_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_W_R_EN.png"
         }
     },
     {
@@ -13678,8 +13678,8 @@ let sm9 = [
             "Basic"
         ],
         "images": {
-            "small": "https://i.ibb.co/ZdVnw16/lightning-energy-teu.png",
-            "large": "https://i.ibb.co/ZdVnw16/lightning-energy-teu.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_L_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_L_R_EN.png"
         }
     },
     {
@@ -13689,8 +13689,8 @@ let sm9 = [
             "Basic"
         ],
         "images": {
-            "small": "https://i.ibb.co/bPhbBWk/fighting-energy-teu.png",
-            "large": "https://i.ibb.co/bPhbBWk/fighting-energy-teu.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_F_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_F_R_EN.png"
         }
     },
     {
@@ -13700,8 +13700,8 @@ let sm9 = [
             "Basic"
         ],
         "images": {
-            "small": "https://i.ibb.co/mXHKbwv/psychic-energy-teu.png",
-            "large": "https://i.ibb.co/mXHKbwv/psychic-energy-teu.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_P_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_P_R_EN.png"
         }
     },
     {
@@ -13711,8 +13711,8 @@ let sm9 = [
             "Basic"
         ],
         "images": {
-            "small": "https://i.ibb.co/hsz8kvx/dark-energy-teu.png",
-            "large": "https://i.ibb.co/hsz8kvx/dark-energy-teu.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_D_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_D_R_EN.png"
         }
     },
     {
@@ -13722,8 +13722,8 @@ let sm9 = [
             "Basic"
         ],
         "images": {
-            "small": "https://i.ibb.co/0K6vT8L/metal-energy-teu.png",
-            "large": "https://i.ibb.co/0K6vT8L/metal-energy-teu.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_M_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_M_R_EN.png"
         }
     },
     {
@@ -13733,8 +13733,8 @@ let sm9 = [
             "Basic"
         ],
         "images": {
-            "small": "https://i.ibb.co/TvT42VD/fairy-energy-teu.png",
-            "large": "https://i.ibb.co/TvT42VD/fairy-energy-teu.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_Y_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/TEU/TEU_Y_R_EN.png"
         }
     },
 ]
