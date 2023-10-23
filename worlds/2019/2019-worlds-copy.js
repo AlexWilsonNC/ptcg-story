@@ -3698,184 +3698,196 @@ let masters = [
     sprite1: '../../assets/sprites/keldeo.png',
     sprite2: '../../assets/sprites/bronzong.png',
     list: '../../assets/list-icon.png',
-    deckid: "0000",
+    deckid: "keldeo-stall",
     event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Keldeo GX",
+          "number": "47",
+          "set": "UNM"
+        },
+        {
+            "count": 1,
+            "name": "Lugia GX",
+            "number": "159",
+            "set": "LOT"
+          },
+          {
+            "count": 2,
+            "name": "Bronzong",
+            "number": "101",
+            "set": "TEU"
+          },
+          {
+            "count": 3,
+            "name": "Bronzor",
+            "number": "100",
+            "set": "TEU"
+          },
+          {
+            "count": 1,
+            "name": "Alolan Ninetales",
+            "number": "111",
+            "set": "TEU"
+          },
+          {
+            "count": 1,
+            "name": "Alolan Vulpix",
+            "number": "53",
+            "set": "LOT"
+          },
+        {
+          "count": 1,
+          "name": "Girafarig",
+          "number": "94",
+          "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Wobbuffet",
+          "number": "93",
+          "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Steven's Resolve",
+          "number": "145",
+          "set": "CES"
+        },
+        {
+          "count": 3,
+          "name": "Lusamine",
+          "number": "96",
+          "set": "CIN"
+        },
+        {
+            "count": 2,
+            "name": "Gardenia",
+            "number": "124",
+            "set": "UPR"
+          },
+        {
+          "count": 2,
+          "name": "Lt. Surge's Strategy",
+          "number": "178",
+          "set": "UNB"
+        },
+        {
+            "count": 1,
+            "name": "Faba",
+            "number": "173",
+            "set": "LOT"
+          },
+        {
+          "count": 1,
+          "name": "Hapu",
+          "number": "200",
+          "set": "UNM"
+        },
+        {
+          "count": 1,
+          "name": "Grimsley",
+          "number": "199",
+          "set": "UNM"
+        },
+        {
+          "count": 1,
+          "name": "Mars",
+          "number": "128",
+          "set": "UPR"
+        },
+        {
+            "count": 1,
+            "name": "Red's Challenge",
+            "number": "184",
+            "set": "UNB"
+          },
+        {
+          "count": 1,
+          "name": "Tate & Liza",
+          "number": "148",
+          "set": "CES"
+        },
+        {
+          "count": 4,
+          "name": "Acro Bike",
+          "number": "123",
+          "set": "CES"
+        },
+        {
+          "count": 4,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
+        {
+          "count": 3,
+          "name": "Pokémon Communication",
+          "number": "152",
+          "set": "TEU"
+        },
+        {
+          "count": 2,
+          "name": "Cherish Ball",
+          "number": "191",
+          "set": "UNM"
+        },
+        {
+          "count": 1,
+          "name": "Great Potion",
+          "number": "198",
+          "set": "UNM"
+        },
+        {
+          "count": 1,
+          "name": "Reset Stamp",
+          "number": "206",
+          "set": "UNM"
+        },
+        {
+          "count": 2,
+          "name": "Counter Gain",
+          "number": "170",
+          "set": "LOT"
+        },
+        {
+          "count": 2,
+          "name": "Blizzard Town",
+          "number": "187",
+          "set": "UNM"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 3,
+          "name": "Water Energy",
+          "number": "water",
+          "set": "TEU"
+        },
+        {
+          "count": 4,
+          "name": "Unit Energy GRW",
+          "number": "137",
+          "set": "UPR"
+        },
+        {
+          "count": 2,
+          "name": "Rainbow Energy",
+          "number": "151",
+          "set": "CES"
         },
       ]
-    },
-    deck: [
-      {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/lugia-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/bronzong-fireproof.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/bronzor.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/ninetales-alolan-fairy.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/vulpix-alolan.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-        "name": "Girafarig",
-        "number": "94",
-        "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/wobbufet.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-        "name": "Ditto ♢",
-        "number": "154",
-        "set": "LOT"
-      },
-      {
-        "count": 4,
-        "name": "Steven's Resolve",
-        "number": "145",
-        "set": "CES"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/03.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/gardenia.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 2,
-        "name": "Lt. Surge's Strategy",
-        "number": "178",
-        "set": "UNB"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/faba.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-        "name": "Hapu",
-        "number": "200",
-        "set": "UNM"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/grimsley.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-        "name": "Mars",
-        "number": "128",
-        "set": "UPR"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/reds-challenge.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-        "name": "Tate & Liza",
-        "number": "148",
-        "set": "CES"
-      },
-      {
-        "count": 4,
-        "name": "Acro Bike",
-        "number": "123",
-        "set": "CES"
-      },
-      {
-        "count": 4,
-        "name": "Pokégear 3.0",
-        "number": "182",
-        "set": "UNB"
-      },
-      {
-        "count": 3,
-        "name": "Pokémon Communication",
-        "number": "152",
-        "set": "TEU"
-      },
-      {
-        "count": 2,
-        "name": "Cherish Ball",
-        "number": "191",
-        "set": "UNM"
-      },
-      {
-        "count": 1,
-        "name": "Great Potion",
-        "number": "198",
-        "set": "UNM"
-      },
-      {
-        "count": 1,
-        "name": "Reset Stamp",
-        "number": "206",
-        "set": "UNM"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/counter-gain.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/blizzard-town.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        "count": 3,
-        "name": "Water Energy",
-        "number": "water",
-        "set": "TEU"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/energy-unit-gwf.png',
-        numImg: '../../assets/04.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/energy-rainbow.png',
-        numImg: '../../assets/02.png'
-      }
-    ]
+    }
   },
   {
     firstName: 'Louis Chi',
@@ -6347,9 +6359,11 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-rainbow.png',
-        numImg: '../../assets/04.png'
-      }
+        "count": 4,
+        "name": "Rainbow Energy",
+        "number": "151",
+        "set": "CES"
+      },
     ]
   },
   {
@@ -6750,9 +6764,11 @@ let masters = [
         "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lugia-gx.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Lugia GX",
+          "number": "159",
+          "set": "LOT"
+        },
       {
         cardImg: '../../assets/cards/2019-2020/mismagius.png',
         numImg: '../../assets/02.png'
@@ -7009,8 +7025,10 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/faba.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Faba",
+        "number": "173",
+        "set": "LOT"
       },
       {
         "count": 1,
@@ -7019,9 +7037,11 @@ let masters = [
         "set": "CES"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/reds-challenge.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Red's Challenge",
+          "number": "184",
+          "set": "UNB"
+        },
       {
         "count": 4,
         "name": "Pokémon Communication",
@@ -9080,17 +9100,23 @@ let masters = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/gardenia.png',
-        numImg: '../../assets/02.png'
+          "count": 2,
+          "name": "Gardenia",
+          "number": "124",
+          "set": "UPR"
+        },
+      {
+        "count": 2,
+        "name": "Lusamine",
+        "number": "96",
+        "set": "CIN"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/lusamine.png',
-        numImg: '../../assets/02.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/faba.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Faba",
+          "number": "173",
+          "set": "LOT"
+        },
       {
         "count": 1,
         "name": "Mars",
@@ -9156,9 +9182,11 @@ let masters = [
         numImg: '../../assets/02.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/energy-rainbow.png',
-        numImg: '../../assets/02.png'
-      },
+        "count": 2,
+        "name": "Rainbow Energy",
+        "number": "151",
+        "set": "CES"
+      },,
       {
         cardImg: '../../assets/cards/2019-2020/energy-memory.png',
         numImg: '../../assets/01.png'
@@ -9224,8 +9252,10 @@ let masters = [
         numImg: '../../assets/01.png'
       },
       {
-        cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Keldeo GX",
+        "number": "47",
+        "set": "UNM"
       },
       {
         cardImg: '../../assets/cards/2019-2020/greninja-gx.png',
@@ -9395,9 +9425,11 @@ let masters = [
         "set": "TEU"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/reds-challenge.png',
-        numImg: '../../assets/01.png'
-      },
+          "count": 1,
+          "name": "Red's Challenge",
+          "number": "184",
+          "set": "UNB"
+        },
       {
         "count": 4,
         "name": "Custom Catcher",
@@ -9818,10 +9850,2107 @@ let masters = [
   }
 ]
 
-// let seniors = [
+let seniors = [
+  {
+    firstName: 'Kaya Lichtleitner',
+    flag: '../../assets/flags/germany.png',
+    sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/sprites/reshiram-charizard-tagteam.png',
+    list: '../../assets/list-icon.png',
+    deckid: "0000",
+    event: "2019 World Championships - Seniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+    deck: [
+      {
+        cardImg: '../../assets/cards/2019-2020/reshiram-charizard-gx.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/heatran-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/jirachi-stellar-wish.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/ninetales.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/vulpix.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/victini-prism.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/turtonator.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/welder.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/acro-bike.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/pokemon-comm.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/switch.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/fiery-flint.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/palpad.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/escapeboard.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/giant-hearth.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/heat-factory.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
+        numImg: '../../assets/18.png'
+      }
+    ]
+  },
+  {
+      firstName: 'Grant Shen',
+      flag: '../../assets/flags/usa.png',
+      sprite1: '../../assets/sprites/blank.png',
+      sprite2: '../../assets/sprites/gardevoir-sylveon-tagteam.png',
+      list: '../../assets/list-icon.png',
+      deckid: "0000",
+    event: "2019 World Championships - Seniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+      deck: [
+        {
+          cardImg: '../../assets/cards/2019-2020/gardevoir-sylveon-gx.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/coach-trainer.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/greens-exploration.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/bills-analysis.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/cynthia.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/pokegear.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/great-potion.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/super-scoop-up.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/tag-switch.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/switch.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/energy-spinner.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/fairy-charm-lightning.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/fairy-charm-ub.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/fairy-charm-dragon.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/choice-helmet.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/giantbomb.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/power-plant.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/wondrous-lab.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/energy/fairy-energy-teu.png',
+          numImg: '../../assets/09.png'
+        }
+      ]
+  },
+  {
+      firstName: 'Rowan Stavenow',
+      flag: '../../assets/flags/uk.png',
+      sprite1: '../../assets/sprites/blank.png',
+      sprite2: '../../assets/sprites/mewtwo-mew-tagteam.png',
+      list: '../../assets/list-icon.png',
+      deckid: "0000",
+    event: "2019 World Championships - Seniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+      deck: [
+        {
+          cardImg: '../../assets/cards/2019-2020/mewtwo-mew.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/solgaleo-gx.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/reshiram-charizard-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/deoxys-espeon-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/naganadel-gx-dragon.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/cobalion-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/latios-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/dargonite-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/jirachi-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/marshadow.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/welder.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/sightseer.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/bills-analysis.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/faba.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/judge.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/pokegear.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/super-scoop-up.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/mysterious-treasure.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/palpad.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/giant-hearth.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/heat-factory.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/energy/fire-energy-teu.png',
+          numImg: '../../assets/09.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/unit-energy-lm.png',
+          numImg: '../../assets/04.png'
+        }
+      ]
+  },
+  {
+      firstName: 'Thomas Naylor',
+      flag: '../../assets/flags/uk.png',
+      sprite1: '../../assets/sprites/blank.png',
+      sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
+      list: '../../assets/list-icon.png',
+      deckid: "0000",
+    event: "2019 World Championships - Seniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+      deck: [
+        {
+          cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/raichu-alolan-raichu.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/mewtwo-mew.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/tapufini.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/tapukoko-p.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/zapdos.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/cynthia.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/volkner.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/lillie.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/electropower.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/energy-switch.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/pokemon-comm.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/super-scoop-up.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/tag-switch.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/stadiumnav.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/switch.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/lysandre-lab.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
+          numImg: '../../assets/11.png'
+        }
+      ]
+  },
+  {
+      firstName: 'Iain Harding',
+      flag: '../../assets/flags/usa.png',
+      sprite1: '../../assets/sprites/reshiram-charizard-tagteam.png',
+      sprite2: '../../assets/sprites/volcanion-right.png',
+      list: '../../assets/list-icon.png',
+      deckid: "0000",
+    event: "2019 World Championships - Seniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+      deck: [
+        {
+          cardImg: '../../assets/cards/2019-2020/reshiram-charizard-gx.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/volcanion.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/welder.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/greens-exploration.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/lysandre-p.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/acro-bike.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/mixed-herbs.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/pokegear.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/great-potion.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/fiery-flint.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/switch.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/choice-helmet.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/lysandre-lab.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/power-plant.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/heat-factory.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/energy/fire-energy-teu.png',
+          numImg: '../../assets/11.png'
+        }
+      ]
+  },
+  {
+      firstName: 'YouTae Woo',
+      flag: '../../assets/flags/korea.png',
+      sprite1: '../../assets/sprites/blank.png',
+      sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
+      list: '../../assets/list-icon.png',
+      deckid: "0000",
+    event: "2019 World Championships - Seniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+      deck: [
+    {
+      cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
+      numImg: '../../assets/02.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/raichu-alolan-raichu.png',
+      numImg: '../../assets/02.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
+      numImg: '../../assets/02.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
+      numImg: '../../assets/02.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/necrozma-dawn-wings.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/zapdos.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/tapukoko-p.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/mew.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/volkner.png',
+      numImg: '../../assets/04.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/lillie.png',
+      numImg: '../../assets/03.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/cynthia.png',
+      numImg: '../../assets/02.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+      numImg: '../../assets/04.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/electropower.png',
+      numImg: '../../assets/04.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
+      numImg: '../../assets/03.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/energy-switch.png',
+      numImg: '../../assets/03.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/pokemon-comm.png',
+      numImg: '../../assets/03.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+      numImg: '../../assets/02.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/tag-switch.png',
+      numImg: '../../assets/02.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/stadiumnav.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/lysandre-lab.png',
+      numImg: '../../assets/02.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
+      numImg: '../../assets/12.png'
+    }
+      ]
+  },
+  {
+      firstName: 'James Cox',
+      flag: '../../assets/flags/australia.png',
+      sprite1: '../../assets/sprites/blank.png',
+      sprite2: '../../assets/sprites/mewtwo-mew-tagteam.png',
+      list: '../../assets/list-icon.png',
+      deckid: "0000",
+    event: "2019 World Championships - Seniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+      deck: [
+        {
+          cardImg: '../../assets/cards/2019-2020/mewtwo-mew.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/solgaleo-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/reshiram-charizard-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/deoxys-espeon-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/naganadel-gx-dragon.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/latios-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/jirachi-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/dargonite-gx.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/marshadow.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/mew.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/tapufini.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/wobbufet.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/welder.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/lillie.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/mysterious-treasure.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/acro-bike.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/switch.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/escapeboard.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/energy/fire-energy-teu.png',
+          numImg: '../../assets/08.png'
+        },
+        {
+          cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
+          numImg: '../../assets/04.png'
+        }
+      ]
+  },
+  {
+      firstName: 'Noa Bell',
+      flag: '../../assets/flags/usa.png',
+      sprite1: '../../assets/sprites/reshiram-charizard-tagteam.png',
+      sprite2: '../../assets/sprites/volcanion-right.png',
+      list: '../../assets/list-icon.png',
+      deckid: "0000",
+    event: "2019 World Championships - Seniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+      deck: [
+        {
+          cardImg: '../../assets/cards/2019-2020/reshiram-charizard-gx.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/volcanion.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/welder.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/greens-exploration.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/acro-bike.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/mixed-herbs.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/pokegear.png',
+          numImg: '../../assets/04.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/great-potion.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
+          numImg: '../../assets/03.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/fiery-flint.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+          numImg: '../../assets/02.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/switch.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/choice-helmet.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/lysandre-lab.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/power-plant.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/2019-2020/heat-factory.png',
+          numImg: '../../assets/01.png'
+        },
+        {
+          cardImg: '../../assets/cards/energy/fire-energy-teu.png',
+          numImg: '../../assets/11.png'
+        }
+      ]
+  }
+]
 
-// ]
+let juniors = [
+  {
+    firstName: 'Haruki Miyamoto',
+    flag: '../../assets/flags/japan.png',
+    sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
+    list: '../../assets/list-icon.png',
+    deckid: "0000",
+    event: "2019 World Championships - Juniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+    deck: [
+  {
+    cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/raichu-alolan-raichu.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/tapukoko-p.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/mew.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/tapufini.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/marshadow.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/volkner.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/judge.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/cynthia.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/electropower.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/energy-switch.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/pokemon-comm.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/tag-switch.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/stadiumnav.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/switch.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/lysandre-lab.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/power-plant.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
+    numImg: '../../assets/11.png'
+  }
+    ]
+  },
+  {
+    firstName: 'Issac Terceira',
+    flag: '../../assets/flags/usa.png',
+    sprite1: '../../assets/sprites/reshiram-charizard-tagteam.png',
+    sprite2: '../../assets/sprites/volcanion-right.png',
+    list: '../../assets/list-icon.png',
+    deckid: "0000",
+    event: "2019 World Championships - Juniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+    deck: [
+      {
+        cardImg: '../../assets/cards/2019-2020/reshiram-charizard-gx.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/volcanion.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/welder.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/greens-exploration.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/acro-bike.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/mixed-herbs.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/pokegear.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/great-potion.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/fiery-flint.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/switch.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/choice-helmet.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/power-plant.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/heat-factory.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
+        numImg: '../../assets/11.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Logan Maracle',
+    flag: '../../assets/flags/usa.png',
+    sprite1: '../../assets/sprites/reshiram-charizard-tagteam.png',
+    sprite2: '../../assets/sprites/volcanion-right.png',
+    list: '../../assets/list-icon.png',
+    deckid: "0000",
+    event: "2019 World Championships - Juniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+    deck: [
+      {
+        cardImg: '../../assets/cards/2019-2020/reshiram-charizard-gx.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/volcanion.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/welder.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/greens-exploration.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/acro-bike.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/mixed-herbs.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/pokegear.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/great-potion.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/switch.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/fiery-flint.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/energy-spinner.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/choice-helmet.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/power-plant.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/shrineofpunush.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/heat-factory.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
+        numImg: '../../assets/11.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Cassio Moraes',
+    flag: '../../assets/flags/brazil.png',
+    sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/sprites/mewtwo-mew-tagteam.png',
+    list: '../../assets/list-icon.png',
+    deckid: "0000",
+    event: "2019 World Championships - Juniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+    deck: [
+      {
+        cardImg: '../../assets/cards/2019-2020/mewtwo-mew.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/solgaleo-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/reshiram-charizard-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/deoxys-espeon-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/naganadel-gx-dragon.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/latios-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/jirachi-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/dargonite-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/muk-alolan-muk-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/jirachi-stellar-wish.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/mewtwo.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/welder.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/judge.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/acro-bike.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/switch.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/mysterious-treasure.png',
+        numImg: '../../assets/02.png'
+      }, 
+      {
+        cardImg: '../../assets/cards/2019-2020/energy-recycler.png',
+        numImg: '../../assets/02.png'
+      }, 
+      {
+        cardImg: '../../assets/cards/2019-2020/pokemon-comm.png',
+        numImg: '../../assets/02.png'
+      }, 
+      {
+        cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/escapeboard.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/giant-hearth.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
+        numImg: '../../assets/08.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
+        numImg: '../../assets/04.png'
+      }
+    ]
+  },
+  {
+    firstName: 'Sechan Oh',
+    flag: '../../assets/flags/korea.png',
+    sprite1: '../../assets/sprites/blank.png',
+      sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
+    list: '../../assets/list-icon.png',
+    deckid: "0000",
+    event: "2019 World Championships - Juniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+    deck: [
+  {
+    cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/raichu-alolan-raichu.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/mewtwo-mew.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/necrozma-dawn-wings.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/tapukoko-p.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/zapdos.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/volkner.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/lillie.png',
+    numImg: '../../assets/03.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/cynthia.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/erikas-hospitality.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/electropower.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
+    numImg: '../../assets/03.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/energy-switch.png',
+    numImg: '../../assets/03.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/pokemon-comm.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/tag-switch.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/stadiumnav.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/lysandre-lab.png',
+    numImg: '../../assets/03.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
+    numImg: '../../assets/11.png'
+  }
+    ]
+  },
+  {
+    firstName: 'Daniel Magda',
+    flag: '../../assets/flags/czech-republic.png',
+    sprite1: '../../assets/sprites/blank.png',
+      sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
+    list: '../../assets/list-icon.png',
+    deckid: "0000",
+    event: "2019 World Championships - Juniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+    deck: [
+  {
+    cardImg: '../../assets/cards/2019-2020/pikachu-zekrom-gx.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/raichu-alolan-raichu.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
+    numImg: '../../assets/03.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/zeraora-gx.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/tapukoko-p.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/tapufini.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/mew.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/marshadow.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/zapdos.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/volkner.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/cynthia.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/lillie.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/electropower.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/electromagnetic-radar.png',
+    numImg: '../../assets/04.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/energy-switch.png',
+    numImg: '../../assets/03.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/pokemon-comm.png',
+    numImg: '../../assets/03.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/switch.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/tag-switch.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/stadiumnav.png',
+    numImg: '../../assets/01.png'
+  },
 
-// let juniors = [
-
-// ]
+  {
+    cardImg: '../../assets/cards/2019-2020/lysandre-lab.png',
+    numImg: '../../assets/02.png'
+  },
+  {
+    cardImg: '../../assets/cards/2019-2020/thunder-mtn.png',
+    numImg: '../../assets/01.png'
+  },
+  {
+    cardImg: '../../assets/cards/energy/lightning-energy-teu.png',
+    numImg: '../../assets/11.png'
+  }
+    ]
+  },
+  {
+    firstName: 'Mitchell Ransome',
+    flag: '../../assets/flags/usa.png',
+    sprite1: '../../assets/sprites/quagsire.png',
+    sprite2: '../../assets/sprites/naganadel.png',
+    list: '../../assets/list-icon.png',
+    deckid: "0000",
+    event: "2019 World Championships - Juniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+    deck: [
+      {
+        cardImg: '../../assets/cards/2019-2020/quagsire.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/wooper.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/wooper-ground.png',
+        numImg: '../../assets/01.png'
+      },
+    {
+      cardImg: '../../assets/cards/2019-2020/naganadel.png',
+      numImg: '../../assets/03.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/poipole-belt.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/poipole-eye.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/poipole-spit.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/keldeo-gx.png',
+      numImg: '../../assets/03.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/kyurem.png',
+      numImg: '../../assets/02.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/volcanion-p.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/cynthia.png',
+      numImg: '../../assets/04.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/lillie.png',
+      numImg: '../../assets/03.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/blues-tactics.png',
+      numImg: '../../assets/02.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/tate-n-liza.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/crushing-hammer.png',
+      numImg: '../../assets/04.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+      numImg: '../../assets/04.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/acro-bike.png',
+      numImg: '../../assets/03.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/pokemon-comm.png',
+      numImg: '../../assets/03.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+      numImg: '../../assets/03.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/pokenav.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/blizzard-town.png',
+      numImg: '../../assets/02.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/ultra-space.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/2019-2020/viridian-forest.png',
+      numImg: '../../assets/01.png'
+    },
+    {
+      cardImg: '../../assets/cards/energy/water-energy-teu.png',
+      numImg: '../../assets/10.png'
+    },
+  ]
+  },
+  {
+    firstName: 'Hotaru Yoshinari',
+    flag: '../../assets/flags/japan.png',
+    sprite1: '../../assets/sprites/blank.png',
+    sprite2: '../../assets/sprites/mewtwo-mew-tagteam.png',
+    list: '../../assets/list-icon.png',
+    deckid: "0000",
+    event: "2019 World Championships - Juniors",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "trainer": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ],
+      "energy": [
+        {
+          "count": 0,
+          "name": "ee",
+          "number": "ee",
+          "set": "ee"
+        },
+      ]
+    },
+    deck: [
+      {
+        cardImg: '../../assets/cards/2019-2020/mewtwo-mew.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/dedenne-gx.png',
+        numImg: '../../assets/03.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/solgaleo-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/reshiram-charizard-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/deoxys-espeon-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/latios-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/jirachi-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/dargonite-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/blaziken-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/altaria-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/heatran-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/cobalion-gx.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/jirachi-stellar-wish.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/mew.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/hoopa-evil-abomanatino.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/welder.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/hapu.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+          "count": 1,
+          "name": "Red's Challenge",
+          "number": "184",
+          "set": "UNB"
+        },
+      {
+        cardImg: '../../assets/cards/2019-2020/cherish-ball.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/custom-catcher.png',
+        numImg: '../../assets/04.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/switch.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/pokemon-comm.png',
+        numImg: '../../assets/02.png'
+      }, 
+      {
+        cardImg: '../../assets/cards/2019-2020/reset-stamp.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/fire-crystal.png',
+        numImg: '../../assets/01.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/escapeboard.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/giant-hearth.png',
+        numImg: '../../assets/02.png'
+      },
+      {
+        cardImg: '../../assets/cards/2019-2020/lysandre-lab.png',
+        numImg: '../../assets/01.png'
+      },
+        {
+          cardImg: '../../assets/cards/2019-2020/heat-factory.png',
+          numImg: '../../assets/01.png'
+        },
+      {
+        cardImg: '../../assets/cards/energy/fire-energy-teu.png',
+        numImg: '../../assets/08.png'
+      },
+      {
+        cardImg: '../../assets/cards/energy/psychic-energy-teu.png',
+        numImg: '../../assets/04.png'
+      }
+    ]
+  }
+]
