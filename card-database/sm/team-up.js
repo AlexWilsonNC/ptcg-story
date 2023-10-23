@@ -13637,5 +13637,104 @@ let sm9 = [
             "small": "https://images.pokemontcg.io/sm9/196.png",
             "large": "https://images.pokemontcg.io/sm9/196_hires.png"
         }
-    }
+    },
+    {
+        "id": "sm9-grass",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://i.ibb.co/myyL0vD/grass-energy-teu.png",
+            "large": "https://i.ibb.co/myyL0vD/grass-energy-teu.png"
+        }
+    },
+    {
+        "id": "sm9-fire",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://i.ibb.co/Db1nKmw/fire-energy-teu.png",
+            "large": "https://i.ibb.co/Db1nKmw/fire-energy-teu.png"
+        }
+    },
+    {
+        "id": "sm9-water",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://i.ibb.co/KzJXgzd/water-energy-teu.png",
+            "large": "https://i.ibb.co/KzJXgzd/water-energy-teu.png"
+        }
+    },
+    {
+        "id": "sm9-lightning",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://i.ibb.co/ZdVnw16/lightning-energy-teu.png",
+            "large": "https://i.ibb.co/ZdVnw16/lightning-energy-teu.png"
+        }
+    },
+    {
+        "id": "sm9-fighting",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://i.ibb.co/bPhbBWk/fighting-energy-teu.png",
+            "large": "https://i.ibb.co/bPhbBWk/fighting-energy-teu.png"
+        }
+    },
+    {
+        "id": "sm9-psychic",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://i.ibb.co/mXHKbwv/psychic-energy-teu.png",
+            "large": "https://i.ibb.co/mXHKbwv/psychic-energy-teu.png"
+        }
+    },
+    {
+        "id": "sm9-dark",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://i.ibb.co/hsz8kvx/dark-energy-teu.png",
+            "large": "https://i.ibb.co/hsz8kvx/dark-energy-teu.png"
+        }
+    },
+    {
+        "id": "sm9-metal",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://i.ibb.co/0K6vT8L/metal-energy-teu.png",
+            "large": "https://i.ibb.co/0K6vT8L/metal-energy-teu.png"
+        }
+    },
+    {
+        "id": "sm9-fairy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://i.ibb.co/TvT42VD/fairy-energy-teu.png",
+            "large": "https://i.ibb.co/TvT42VD/fairy-energy-teu.png"
+        }
+    },
 ]

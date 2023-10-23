@@ -4,7 +4,6 @@ let masters = [
         "flag": "CA",
         "placing": 1,
         "event": "2024 Pittsburgh",
-        "event": "2024 Pittsburgh",
         "record": {
             "wins": 15,
             "losses": 2,
