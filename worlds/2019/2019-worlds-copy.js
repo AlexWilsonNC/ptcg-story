@@ -3895,152 +3895,136 @@ let masters = [
     sprite1: '../../assets/sprites/blacephalon.png',
     sprite2: '../../assets/sprites/naganadel.png',
     list: '../../assets/list-icon.png',
-    deckid: "0000",
+    deckid: "blacephalon-naganadel",
     event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Blacephalon GX",
+          "number": "52",
+          "set": "LOT"
+        },
+        {
+          "count": 3,
+          "name": "Naganadel",
+          "number": "108",
+          "set": "LOT"
+        },
+        {
+          "count": 2,
+          "name": "Poipole",
+          "number": "55",
+          "set": "FLI"
+        },
+        {
+          "count": 1,
+          "name": "Poipole",
+          "number": "102",
+          "set": "UNM"
+        },
+        {
+          "count": 1,
+          "name": "Ditto ♢",
+          "number": "154",
+          "set": "LOT"
+        },
+        {
+          "count": 1,
+          "name": "Persian GX",
+          "number": "149",
+          "set": "UNB"
+        },
+         {
+          "count": 1,
+          "name": "Meowth",
+          "number": "125",
+          "set": "TEU"
+        },
+        {
+          "count": 1,
+          "name": "Dedenne GX",
+          "number": "57",
+          "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Welder",
+          "number": "189",
+          "set": "UNB"
+        },
+        {
+          "count": 4,
+          "name": "Cynthia",
+          "number": "119",
+          "set": "UPR"
+        },
+        {
+          "count": 2,
+          "name": "Lillie",
+          "number": "125",
+          "set": "UPR"
+        },
+        {
+          "count": 4,
+          "name": "Beast Ring",
+          "number": "102",
+          "set": "FLI"
+        },
+        {
+          "count": 4,
+          "name": "Custom Catcher",
+          "number": "171",
+          "set": "LOT"
+        },
+        {
+          "count": 4,
+          "name": "Mysterious Treasure",
+          "number": "113",
+          "set": "FLI"
+        },
+        {
+          "count": 4,
+          "name": "Pokémon Communication",
+          "number": "152",
+          "set": "TEU"
+        },
+        {
+          "count": 2,
+          "name": "Giant Hearth",
+          "number": "197",
+          "set": "UNM"
+        },
+        {
+          "count": 1,
+          "name": "Ultra Space",
+          "number": "115",
+          "set": "FLI"
+        },
+        {
+          "count": 1,
+          "name": "Heat Factory ♢",
+          "number": "178",
+          "set": "LOT"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 15,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "TEU"
+        },
+        {
+          "count": 1,
+          "name": "Beast Energy ♢",
+          "number": "117",
+          "set": "FLI"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 4,
-        "name": "Blacephalon GX",
-        "number": "52",
-        "set": "LOT"
-      },
-      {
-        "count": 3,
-        "name": "Naganadel",
-        "number": "108",
-        "set": "LOT"
-      },
-      {
-        "count": 2,
-        "name": "Poipole",
-        "number": "55",
-        "set": "FLI"
-      },
-      {
-        "count": 1,
-        "name": "Poipole",
-        "number": "102",
-        "set": "UNM"
-      },
-      {
-        "count": 1,
-        "name": "Ditto ♢",
-        "number": "154",
-        "set": "LOT"
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/persian-gx.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        cardImg: '../../assets/cards/2019-2020/meowth.png',
-        numImg: '../../assets/01.png'
-      },
-      {
-        "count": 1,
-        "name": "Dedenne GX",
-        "number": "57",
-        "set": "UNB"
-      },
-      {
-        "count": 4,
-        "name": "Welder",
-        "number": "189",
-        "set": "UNB"
-      },
-      {
-        "count": 4,
-        "name": "Cynthia",
-        "number": "119",
-        "set": "UPR"
-      },
-      {
-        "count": 2,
-        "name": "Lillie",
-        "number": "125",
-        "set": "UPR"
-      },
-      {
-        "count": 4,
-        "name": "Beast Ring",
-        "number": "102",
-        "set": "fli"
-      },
-      {
-        "count": 4,
-        "name": "Custom Catcher",
-        "number": "171",
-        "set": "LOT"
-      },
-      {
-        "count": 4,
-        "name": "Mysterious Treasure",
-        "number": "113",
-        "set": "FLI"
-      },
-      {
-        "count": 4,
-        "name": "Pokémon Communication",
-        "number": "152",
-        "set": "TEU"
-      },
-      {
-        "count": 2,
-        "name": "Giant Hearth",
-        "number": "197",
-        "set": "UNM"
-      },
-      {
-        "count": 1,
-        "name": "Ultra Space",
-        "number": "115",
-        "set": "FLI"
-      },
-      {
-        "count": 1,
-        "name": "Heat Factory ♢",
-        "number": "178",
-        "set": "LOT"
-      },
-      {
-        "count": 15,
-        "name": "Fire Energy",
-        "number": "fire",
-        "set": "TEU"
-      },
-      {
-        "count": 1,
-        "name": "Beast Energy ♢",
-        "number": "117",
-        "set": "FLI"
-      },
-    ]
+    }
   },
   {
     firstName: 'Mehdi Hafi',
@@ -4048,156 +4032,136 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../assets/list-icon.png',
-    deckid: "0000",
+    deckid: "reshizard",
     event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 2,
+          "name": "Reshiram & Charizard GX",
+          "number": "20",
+          "set": "UNB"
+        },
+        {
+          "count": 3,
+          "name": "Dedenne GX",
+          "number": "57",
+          "set": "UNB"
+        },
+        {
+          "count": 1,
+          "name": "Heatran GX",
+          "number": "25",
+          "set": "UNM"
+        },
+        {
+          "count": 2,
+          "name": "Jirachi",
+          "number": "99",
+          "set": "TEU"
+        },
+        {
+          "count": 2,
+          "name": "Ninetales",
+          "number": "16",
+          "set": "TEU"
+        },
+        {
+          "count": 3,
+          "name": "Vulpix",
+          "number": "15",
+          "set": "TEU"
+        },
+        {
+          "count": 1,
+          "name": "Victini ♢",
+          "number": "7",
+          "set": "DRM"
+        },
+        {
+          "count": 1,
+          "name": "Turtonator",
+          "number": "50",
+          "set": "DRM"
+        },
+        {
+          "count": 1,
+          "name": "Mew",
+          "number": "76",
+          "set": "UNB"
         },
       ],
       "trainer": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 4,
+          "name": "Welder",
+          "number": "189",
+          "set": "UNB"
+        },
+        {
+          "count": 4,
+          "name": "Acro Bike",
+          "number": "123",
+          "set": "CES"
+        },
+        {
+          "count": 4,
+          "name": "Cherish Ball",
+          "number": "191",
+          "set": "UNM"
+        },
+        {
+          "count": 3,
+          "name": "Pokémon Communication",
+          "number": "152",
+          "set": "TEU"
+        },
+        {
+          "count": 3,
+          "name": "Pokégear 3.0",
+          "number": "182",
+          "set": "UNB"
+        },
+        {
+          "count": 2,
+          "name": "Fire Crystal",
+          "number": "173",
+          "set": "UNB"
+        },
+        {
+          "count": 2,
+          "name": "Switch",
+          "number": "147",
+          "set": "CES"
+        },
+        {
+          "count": 1,
+          "name": "Pal Pad",
+          "number": "132",
+          "set": "UPR"
+        },
+        {
+          "count": 2,
+          "name": "Escape Board",
+          "number": "122",
+          "set": "UPR"
+        },
+        {
+          "count": 4,
+          "name": "Giant Hearth",
+          "number": "197",
+          "set": "UNM"
         },
       ],
       "energy": [
         {
-          "count": 0,
-          "name": "ee",
-          "number": "ee",
-          "set": "ee"
+          "count": 15,
+          "name": "Fire Energy",
+          "number": "fire",
+          "set": "TEU"
         },
       ]
-    },
-    deck: [
-      {
-        "count": 2,
-        "name": "Reshiram & Charizard GX",
-        "number": "20",
-        "set": "UNB"
-      },
-      {
-        "count": 3,
-        "name": "Dedenne GX",
-        "number": "57",
-        "set": "UNB"
-      },
-      {
-        "count": 1,
-        "name": "Heatran GX",
-        "number": "25",
-        "set": "UNM"
-      },
-      {
-        "count": 2,
-        "name": "Jirachi",
-        "number": "99",
-        "set": "TEU"
-      },
-      {
-        "count": 2,
-        "name": "Ninetales",
-        "number": "16",
-        "set": "TEU"
-      },
-      {
-        "count": 3,
-        "name": "Vulpix",
-        "number": "15",
-        "set": "TEU"
-      },
-      {
-        "count": 1,
-        "name": "Victini ♢",
-        "number": "7",
-        "set": "DRM"
-      },
-      {
-        "count": 1,
-        "name": "Turtonator",
-        "number": "50",
-        "set": "DRM"
-      },
-      {
-        "count": 1,
-        "name": "Mew",
-        "number": "76",
-        "set": "UNB"
-      },
-      {
-        "count": 4,
-        "name": "Welder",
-        "number": "189",
-        "set": "UNB"
-      },
-      {
-        "count": 4,
-        "name": "Acro Bike",
-        "number": "123",
-        "set": "CES"
-      },
-      {
-        "count": 4,
-        "name": "Cherish Ball",
-        "number": "191",
-        "set": "UNM"
-      },
-      {
-        "count": 3,
-        "name": "Pokémon Communication",
-        "number": "152",
-        "set": "TEU"
-      },
-      {
-        "count": 3,
-        "name": "Pokégear 3.0",
-        "number": "182",
-        "set": "UNB"
-      },
-      {
-        "count": 2,
-        "name": "Fire Crystal",
-        "number": "173",
-        "set": "UNB"
-      },
-      {
-        "count": 2,
-        "name": "Switch",
-        "number": "147",
-        "set": "CES"
-      },
-      {
-        "count": 1,
-        "name": "Pal Pad",
-        "number": "132",
-        "set": "UPR"
-      },
-      {
-        "count": 2,
-        "name": "Escape Board",
-        "number": "122",
-        "set": "UPR"
-      },
-      {
-        "count": 4,
-        "name": "Giant Hearth",
-        "number": "197",
-        "set": "UNM"
-      },
-      {
-        "count": 15,
-        "name": "Fire Energy",
-        "number": "fire",
-        "set": "TEU"
-      },
-    ]
+    }
   },
   {
     firstName: 'Pedro Torres',
@@ -4205,7 +4169,7 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../assets/list-icon.png',
-    deckid: "0000",
+    deckid: "reshizard",
     event: "2019 World Championships",
     decklist: {
       "pokemon": [
@@ -7468,12 +7432,16 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/persian-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Persian GX",
+        "number": "149",
+        "set": "UNB"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/meowth.png',
-        numImg: '../../assets/02.png'
+        "count": 2,
+        "name": "Meowth",
+        "number": "125",
+        "set": "TEU"
       },
       {
         "count": 1,
@@ -8151,12 +8119,16 @@ let masters = [
         "set": "LOT"
       },
       {
-        cardImg: '../../assets/cards/2019-2020/persian-gx.png',
-        numImg: '../../assets/01.png'
+        "count": 1,
+        "name": "Persian GX",
+        "number": "149",
+        "set": "UNB"
       },
-      {
-        cardImg: '../../assets/cards/2019-2020/meowth.png',
-        numImg: '../../assets/01.png'
+       {
+        "count": 1,
+        "name": "Meowth",
+        "number": "125",
+        "set": "TEU"
       },
       {
         "count": 2,
