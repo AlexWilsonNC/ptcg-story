@@ -415,7 +415,8 @@ h2.darkon {
     margin-top: 10px;
 }
 
-.divisions p {
+.divisions p,
+.divisions a {
     padding: 5px 10px;
     border-radius: 10px;
 }

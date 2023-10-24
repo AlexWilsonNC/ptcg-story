@@ -68,6 +68,12 @@ function displayList(array = []) {
                             sm12, sm11, sm10, sm9, sm8, sm7, sm6, sm5, sm4, sm3, sm2, sm1, det, sm115, sm75, sm35, smp
                         }
 
+                        // 60 card checker
+                        let sixtyCheck = item.decklist.pokemon.reduce((n, {count}) => n + count, 0) + item.decklist.trainer.reduce((n, {count}) => n + count, 0) + item.decklist.energy.reduce((n, {count}) => n + count, 0);
+                        if (sixtyCheck !== 60) {
+                            confirm('NOT 60 CARD! only' + " " + sixtyCheck)
+                        }
+
                         const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
 
                         pokeCard.setAttribute('src', cardFound.images.small);
