@@ -42,7 +42,7 @@ function displayList(array = []) {
         deck.appendChild(secondSprite);
         deck.appendChild(listIcon);
 
-        if (item.list === '../../assets/list-icon.png') {
+        if (item.list === '../../assets/list-icon.png' || '../../../assets/list-icon.png') {
 
             item_element.addEventListener('click', function () {
                 document.querySelector('#modal-section').style.display = "flex";
@@ -93,6 +93,9 @@ function displayList(array = []) {
                         let numberCounter = document.createElement('img');
                         numberCounter.classList.add('num-1')
                         numberCounter.setAttribute('src', "../../assets/card-count/" + card.count + ".png");
+                        if (item.event.includes('Internationals')) {
+                            numberCounter.setAttribute('src', "../../../assets/card-count/" + card.count + ".png");
+                            }
 
                         cardSpace.appendChild(pokeCard);
                         cardSpace.appendChild(numberCounter);

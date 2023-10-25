@@ -24424,5 +24424,104 @@ let swsh1 = [
                 "reverseHoloAvg30": 31.26
             }
         }
-    }
+    },
+    {
+        "id": "swsh1-grass",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_G_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_G_R_EN.png"
+        }
+    },
+    {
+        "id": "swsh1-fire",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_R_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_R_R_EN.png"
+        }
+    },
+    {
+        "id": "swsh1-water",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_W_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_W_R_EN.png"
+        }
+    },
+    {
+        "id": "swsh1-lightning",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_L_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_L_R_EN.png"
+        }
+    },
+    {
+        "id": "swsh1-fighting",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_F_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_F_R_EN.png"
+        }
+    },
+    {
+        "id": "swsh1-psychic",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_P_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_P_R_EN.png"
+        }
+    },
+    {
+        "id": "swsh1-dark",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_D_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_D_R_EN.png"
+        }
+    },
+    {
+        "id": "swsh1-metal",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_M_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_M_R_EN.png"
+        }
+    },
+    {
+        "id": "swsh1-fairy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_Y_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SSH/SSH_Y_R_EN.png"
+        }
+    },
 ]
