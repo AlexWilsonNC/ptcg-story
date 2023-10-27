@@ -171,6 +171,14 @@ function displayList(array = []) {
                 item.decklist.trainer.sort((a, b) => b.count - a.count);
                 item.decklist.energy.sort((a, b) => b.count - a.count);
 
+                const copyButton = document.querySelector('.copy-to-clip');
+                
+                // PRINT DECKLIST //
+                copyButton.addEventListener('click', function () {
+                    copyButton.setAttribute('value', "")
+                    navigator.clipboard.writeText(copyButton.value)
+                })
+
                 for (const cardType in item.decklist) {
                     item.decklist[cardType].forEach(card => {
 
@@ -247,17 +255,10 @@ function displayList(array = []) {
 
                         cardSpace.appendChild(pokeCard);
                         cardSpace.appendChild(numberCounter);
-
+                        
                         // PRINT DECKLIST //
-                        const copyButton = document.querySelector('.copy-to-clip');
-
                         copyButton.addEventListener('click', function () {
-
-                            // let pokeString = JSON.stringify(item.decklist.pokemon)
-                            // let trainString = JSON.stringify(item.decklist.trainer)
-                            // let energyString = JSON.stringify(item.decklist.energy)
-
-                            copyButton.setAttribute('value', card.count + " " + card.name + " " + card.set + " " + card.number)
+                            copyButton.setAttribute('value', copyButton.value ? `${copyButton.value}\n${card.count} ${card.name} ${card.set} ${card.number}` : `${card.count} ${card.name} ${card.set} ${card.number}`)
                             navigator.clipboard.writeText(copyButton.value)
                         })
 

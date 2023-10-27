@@ -50,6 +50,14 @@ function displayList(array = []) {
                 document.querySelector('.behind-modal').style.display = 'block';
                 document.querySelector('.playerName').innerHTML = item.firstName + "<br><i>" + item.event + " " + "- Juniors</i>";
 
+                const copyButton = document.querySelector('.copy-to-clip');
+
+                // PRINT DECKLIST //
+                copyButton.addEventListener('click', function () {
+                    copyButton.setAttribute('value', "")
+                    navigator.clipboard.writeText(copyButton.value)
+                })
+                
                 for (const cardType in item.decklist) {
                     item.decklist[cardType].forEach(card => {
 
@@ -99,6 +107,12 @@ function displayList(array = []) {
 
                         cardSpace.appendChild(pokeCard);
                         cardSpace.appendChild(numberCounter);
+
+                        // PRINT DECKLIST //
+                        copyButton.addEventListener('click', function () {
+                            copyButton.setAttribute('value', copyButton.value ? `${copyButton.value}\n${card.count} ${card.name} ${card.set} ${card.number}` : `${card.count} ${card.name} ${card.set} ${card.number}`)
+                            navigator.clipboard.writeText(copyButton.value)
+                        })
 
                         modalBottom.appendChild(cardSpace);
                         modalX.addEventListener('click', () => {

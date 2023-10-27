@@ -715,7 +715,6 @@ li {
     display: flex;
     flex-direction: column;
     background-color: rgba(0, 0, 0, 0.8);
-    /* background-color: rgba(0, 0, 0, 0.9); */
     z-index: 99;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -725,6 +724,21 @@ li {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+}
+.modal-top-new {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.8);
+    /* background-color: rgba(0, 0, 0, 0.9); */
+    z-index: 99;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    border-bottom: 2px solid rgb(163, 163, 163);
+    box-shadow: 0px 1px 5px black;
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
 }
 .modal-top-parts {
     display: flex;
@@ -1804,7 +1818,8 @@ li {
     .num-1 {
         width: 17px;
     }
-    .modal-top {
+    .modal-top,
+    .modal-top-new {
         padding: 7px;
     }
     .cs-plus-ap p {
@@ -2175,7 +2190,8 @@ li {
     .pok-card-small {
         width: 39px;
     }
-    .modal-top p {
+    .modal-top p,
+    .modal-top-new p {
         font-size: 11px;
     }
 }
