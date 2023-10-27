@@ -740,8 +740,8 @@ let masters = [
        {
          "count": 1,
            "name": "Tapu Koko",
-           "number": "SM31",
-           "set": "SMP"
+           "number": "31",
+           "set": "PR-SM"
        },
        {
          "count": 1,
@@ -913,8 +913,8 @@ let masters = [
        {
          "count": 2,
            "name": "Lucario GX",
-           "number": "SM100",
-           "set": "SMP"
+           "number": "100",
+           "set": "PR-SM"
        },
        {
          "count": 2,
@@ -1247,8 +1247,8 @@ let masters = [
         {
           "count": 1,
           "name": "Jolteon GX",
-          "number": "SM173",
-          "set": "SMP"
+          "number": "173",
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -1569,8 +1569,8 @@ let masters = [
         {
           "count": 4,
             "name": "Tapu Koko",
-            "number": "SM31",
-            "set": "SMP"
+            "number": "31",
+            "set": "PR-SM"
         },
         {
           "count": 2,
@@ -1791,8 +1791,8 @@ let masters = [
        {
          "count": 1,
            "name": "Lucario GX",
-           "number": "SM100",
-           "set": "SMP"
+           "number": "100",
+           "set": "PR-SM"
        },
        {
          "count": 2,
@@ -2007,8 +2007,8 @@ let masters = [
         {
          "count": 1,
           "name": "Jolteon GX",
-          "number": "SM173",
-          "set": "SMP"
+          "number": "173",
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -2162,8 +2162,8 @@ let masters = [
       {
        "count": 2,
         "name": "Jolteon GX",
-        "number": "SM173",
-        "set": "SMP"
+        "number": "173",
+        "set": "PR-SM"
       },
       {
         "count": 2,
@@ -2652,8 +2652,8 @@ let masters = [
         {
           "count": 1,
           "name": "Magikarp & Wailord GX",
-          "number": "SM166",
-          "set": "SMP"
+          "number": "166",
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -3559,8 +3559,8 @@ let masters = [
       {
         "count": 1,
           "name": "Lucario GX",
-          "number": "SM100",
-          "set": "SMP"
+          "number": "100",
+          "set": "PR-SM"
       },
       {
         "count": 2,
@@ -4078,8 +4078,8 @@ let masters = [
         {
           "count": 1,
             "name": "Tapu Koko",
-            "number": "SM31",
-            "set": "SMP"
+            "number": "31",
+            "set": "PR-SM"
         },
       ],
       "trainer": [
@@ -5047,8 +5047,8 @@ let masters = [
         {
          "count": 1,
           "name": "Jolteon GX",
-          "number": "SM173",
-          "set": "SMP"
+          "number": "173",
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -5531,8 +5531,8 @@ let masters = [
         {
          "count": 1,
           "name": "Jolteon GX",
-          "number": "SM173",
-          "set": "SMP"
+          "number": "173",
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -5877,8 +5877,8 @@ let masters = [
         {
          "count": 1,
           "name": "Jolteon GX",
-          "number": "SM173",
-          "set": "SMP"
+          "number": "173",
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -6936,8 +6936,8 @@ let masters = [
       {
        "count": 1,
         "name": "Jolteon GX",
-        "number": "SM173",
-        "set": "SMP"
+        "number": "173",
+        "set": "PR-SM"
       },
       {
         "count": 1,
@@ -7389,8 +7389,8 @@ let masters = [
       {
        "count": 2,
         "name": "Jolteon GX",
-        "number": "SM173",
-        "set": "SMP"
+        "number": "173",
+        "set": "PR-SM"
       },
       {
         "count": 2,
@@ -8082,8 +8082,8 @@ let masters = [
       {
        "count": 2,
         "name": "Jolteon GX",
-        "number": "SM173",
-        "set": "SMP"
+        "number": "173",
+        "set": "PR-SM"
       },
       {
         "count": 2,
@@ -8297,8 +8297,8 @@ let masters = [
         {
           "count": 1,
             "name": "Tapu Koko",
-            "number": "SM31",
-            "set": "SMP"
+            "number": "31",
+            "set": "PR-SM"
         },
       ],
       "trainer": [
@@ -8428,8 +8428,8 @@ let masters = [
       {
        "count": 2,
         "name": "Jolteon GX",
-        "number": "SM173",
-        "set": "SMP"
+        "number": "173",
+        "set": "PR-SM"
       },
       {
         "count": 2,
@@ -8625,8 +8625,8 @@ let masters = [
       {
        "count": 1,
         "name": "Jolteon GX",
-        "number": "SM173",
-        "set": "SMP"
+        "number": "173",
+        "set": "PR-SM"
       },
       {
         "count": 1,
@@ -9982,8 +9982,8 @@ let seniors = [
       {
        "count": 1,
         "name": "Jolteon GX",
-        "number": "SM173",
-        "set": "SMP"
+        "number": "173",
+        "set": "PR-SM"
       },
       {
         "count": 1,
@@ -10194,8 +10194,8 @@ let juniors = [
         {
           "count": 1,
             "name": "Tapu Koko",
-            "number": "SM31",
-            "set": "SMP"
+            "number": "31",
+            "set": "PR-SM"
         },
       ],
       "trainer": [

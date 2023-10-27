@@ -3515,14 +3515,14 @@ let masters = [
         {
           "count": 1,
             "name": "Tapu Koko",
-            "number": "SM31",
-            "set": "SMP"
+            "number": "31",
+            "set": "PR-SM"
         },
         {
           "count": 1,
             "name": "Tapu Lele",
-            "number": "SM45",
-            "set": "SMP"
+            "number": "45",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -4745,8 +4745,8 @@ let masters = [
         {
           "count": 1,
           "name": "Magikarp & Wailord GX",
-          "number": "SM166",
-          "set": "SMP"
+          "number": "166",
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -6586,14 +6586,14 @@ let seniors = [
         {
           "count": 1,
             "name": "Tapu Koko",
-            "number": "SM31",
-            "set": "SMP"
+            "number": "31",
+            "set": "PR-SM"
         },
         {
           "count": 1,
             "name": "Tapu Lele",
-            "number": "SM45",
-            "set": "SMP"
+            "number": "45",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -7332,14 +7332,14 @@ let seniors = [
         {
           "count": 1,
             "name": "Tapu Koko",
-            "number": "SM31",
-            "set": "SMP"
+            "number": "31",
+            "set": "PR-SM"
         },
         {
           "count": 1,
             "name": "Tapu Lele",
-            "number": "SM45",
-            "set": "SMP"
+            "number": "45",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -8665,8 +8665,8 @@ let juniors = [
       {
          "count": 1,
           "name": "Shining Lugia",
-          "number": "SM82",
-          "set": "SMP"
+          "number": "82",
+          "set": "PR-SM"
       },
       {
           "count": 1,
@@ -8975,14 +8975,14 @@ let juniors = [
         {
           "count": 1,
             "name": "Tapu Koko",
-            "number": "SM31",
-            "set": "SMP"
+            "number": "31",
+            "set": "PR-SM"
         },
         {
           "count": 1,
             "name": "Tapu Lele",
-            "number": "SM45",
-            "set": "SMP"
+            "number": "45",
+            "set": "PR-SM"
         },
         {
           "count": 1,

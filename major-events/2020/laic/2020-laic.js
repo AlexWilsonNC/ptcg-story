@@ -179,8 +179,8 @@ let masters = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -209,14 +209,14 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
           "count": 1,
           "name": "Greninja GX",
-          "number": "SM197",
-          "set": "SMP"
+          "number": "197",
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -1217,8 +1217,8 @@ let masters = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -1241,14 +1241,14 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
           "count": 1,
           "name": "Greninja GX",
-          "number": "SM197",
-          "set": "SMP"
+          "number": "197",
+          "set": "PR-SM"
         },
       ],
       "trainer": [
@@ -1619,8 +1619,8 @@ let masters = [
         {
           "count": 1,
             "name": "Champions Festival",
-            "number": "SM231",
-            "set": "SMP"
+            "number": "231",
+            "set": "PR-SM"
         },
       ],
       "energy": [
@@ -2588,8 +2588,8 @@ let masters = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -2618,8 +2618,8 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -2630,8 +2630,8 @@ let masters = [
         {
           "count": 1,
           "name": "Greninja GX",
-          "number": "SM197",
-          "set": "SMP"
+          "number": "197",
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -3413,8 +3413,8 @@ let masters = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -3443,14 +3443,14 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
           "count": 1,
           "name": "Greninja GX",
-          "number": "SM197",
-          "set": "SMP"
+          "number": "197",
+          "set": "PR-SM"
         },
       ],
       "trainer": [
@@ -3622,8 +3622,8 @@ let masters = [
         {
           "count": 1,
             "name": "Trevenant & Dusknoir GX",
-            "number": "SM217",
-            "set": "SMP"
+            "number": "217",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -3783,8 +3783,8 @@ let masters = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -3807,14 +3807,14 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
           "count": 1,
           "name": "Greninja GX",
-          "number": "SM197",
-          "set": "SMP"
+          "number": "197",
+          "set": "PR-SM"
         },
       ],
       "trainer": [
@@ -4297,8 +4297,8 @@ let masters = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -4321,8 +4321,8 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -5056,8 +5056,8 @@ let masters = [
         {
           "count": 1,
             "name": "Trevenant & Dusknoir GX",
-            "number": "SM217",
-            "set": "SMP"
+            "number": "217",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -5217,8 +5217,8 @@ let masters = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -5241,14 +5241,14 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
           "count": 1,
           "name": "Greninja GX",
-          "number": "SM197",
-          "set": "SMP"
+          "number": "197",
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -5748,8 +5748,8 @@ let masters = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -5772,14 +5772,14 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
           "count": 1,
           "name": "Greninja GX",
-          "number": "SM197",
-          "set": "SMP"
+          "number": "197",
+          "set": "PR-SM"
         },
       ],
       "trainer": [
@@ -6537,8 +6537,8 @@ let masters = [
       {
         "count": 1,
           "name": "Charizard GX",
-          "number": "SM211",
-          "set": "SMP"
+          "number": "211",
+          "set": "PR-SM"
       },
       {
           "count": 1,
@@ -7643,8 +7643,8 @@ let masters = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -7667,14 +7667,14 @@ let masters = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
           "count": 1,
           "name": "Greninja GX",
-          "number": "SM197",
-          "set": "SMP"
+          "number": "197",
+          "set": "PR-SM"
         },
       ],
       "trainer": [
@@ -8460,8 +8460,8 @@ let masters = [
       {
         "count": 2,
           "name": "Flareon GX",
-          "number": "SM171",
-          "set": "SMP"
+          "number": "171",
+          "set": "PR-SM"
       },
       {
         "count": 1,
@@ -8749,8 +8749,8 @@ let seniors = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -8779,14 +8779,14 @@ let seniors = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
           "count": 1,
           "name": "Greninja GX",
-          "number": "SM197",
-          "set": "SMP"
+          "number": "197",
+          "set": "PR-SM"
         },
       ],
       "trainer": [
@@ -9274,8 +9274,8 @@ let seniors = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -9310,14 +9310,14 @@ let seniors = [
         {
           "count": 1,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
           "count": 1,
           "name": "Greninja GX",
-          "number": "SM197",
-          "set": "SMP"
+          "number": "197",
+          "set": "PR-SM"
         },
         {
           "count": 1,
@@ -10419,8 +10419,8 @@ let juniors = [
         {
          "count": 1,
             "name": "Champions Festival",
-            "number": "SM231",
-            "set": "SMP"
+            "number": "231",
+            "set": "PR-SM"
         },
       ],
       "energy": [
@@ -10619,8 +10619,8 @@ let juniors = [
         {
           "count": 3,
             "name": "Victini",
-            "number": "SM225",
-            "set": "SMP"
+            "number": "225",
+            "set": "PR-SM"
         },
         {
           "count": 2,
@@ -11120,8 +11120,8 @@ let juniors = [
         {
           "count": 1,
             "name": "Trevenant & Dusknoir GX",
-            "number": "SM217",
-            "set": "SMP"
+            "number": "217",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -11263,8 +11263,8 @@ let juniors = [
         {
           "count": 2,
             "name": "Solgaleo GX",
-            "number": "SM104",
-            "set": "SMP"
+            "number": "104",
+            "set": "PR-SM"
         },
         {
             "count": 1,
@@ -11275,8 +11275,8 @@ let juniors = [
         {
           "count": 1,
             "name": "Charizard GX",
-            "number": "SM211",
-            "set": "SMP"
+            "number": "211",
+            "set": "PR-SM"
         },
         {
           "count": 1,
@@ -11305,8 +11305,8 @@ let juniors = [
         {
           "count": 1,
           "name": "Greninja GX",
-          "number": "SM197",
-          "set": "SMP"
+          "number": "197",
+          "set": "PR-SM"
         },
         {
           "count": 1,

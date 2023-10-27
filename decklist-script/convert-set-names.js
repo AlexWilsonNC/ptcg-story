@@ -4,7 +4,7 @@ const setConvert = {
     "OBF": "sv3",
     "PAL": "sv2",
     "SVI": "sv1",
-    "SVP": "svp",
+    "PR-SV": "svp",
     // swsh
     "CRZ": "swsh12pt5",
     "SIT": "swsh12",
@@ -23,7 +23,7 @@ const setConvert = {
     "DAA": "swsh3",
     "RCL": "swsh2",
     "SSH": "swsh1",
-    "PR": "swshp",
+    "PR-SW": "swshp",
     // sm
     "CEC": "sm12",
     "HIF": "sm115",
@@ -41,5 +41,5 @@ const setConvert = {
     "SUM": "sm1",
     "DRM": "sm75",
     "SLG": "sm35",
-    "SMP": "smp",
+    "PR-SM": "smp",
 }

@@ -38,8 +38,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -619,8 +619,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -708,14 +708,14 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Giratina V",
-                    "number": "SWSH259",
-                    "set": "PR"
+                    "number": "259",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -1277,8 +1277,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -1565,8 +1565,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -1897,8 +1897,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -1921,8 +1921,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -2102,8 +2102,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -2309,8 +2309,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -2965,8 +2965,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Tyranitar V",
-                    "number": "SWSH109",
-                    "set": "PR"
+                    "number": "109",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -3033,8 +3033,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -3232,8 +3232,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 }
             ],
             "energy": [
@@ -3430,8 +3430,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -3750,8 +3750,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -3999,8 +3999,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -4631,8 +4631,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Tyranitar V",
-                    "number": "SWSH109",
-                    "set": "PR"
+                    "number": "109",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -4687,8 +4687,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -4824,8 +4824,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -4856,8 +4856,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -5301,8 +5301,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -5663,8 +5663,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Tyranitar V",
-                    "number": "SWSH109",
-                    "set": "PR"
+                    "number": "109",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -5719,8 +5719,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -5995,8 +5995,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Kirlia",
-                    "number": "SWSH271",
-                    "set": "PR"
+                    "number": "271",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -6381,8 +6381,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Tyranitar V",
-                    "number": "SWSH109",
-                    "set": "PR"
+                    "number": "109",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -6393,8 +6393,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -6425,8 +6425,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -6618,8 +6618,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -7438,7 +7438,7 @@ let masters = [
                     "count": 2,
                     "name": "Chien-Pao ex",
                     "number": "30",
-                    "set": "SVP"
+                    "set": "PR-SV"
                 }
             ],
             "trainer": [
@@ -7938,14 +7938,14 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Tyranitar V",
-                    "number": "SWSH109",
-                    "set": "PR"
+                    "number": "109",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -8012,8 +8012,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -8493,8 +8493,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -8632,8 +8632,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Tyranitar V",
-                    "number": "SWSH109",
-                    "set": "PR"
+                    "number": "109",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -8674,8 +8674,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 }
             ],
             "trainer": [
@@ -8724,8 +8724,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -8801,8 +8801,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -9127,8 +9127,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Archeops",
-                    "number": "SWSH272",
-                    "set": "PR"
+                    "number": "272",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -9145,8 +9145,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -9219,8 +9219,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -9326,8 +9326,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Archeops",
-                    "number": "SWSH272",
-                    "set": "PR"
+                    "number": "272",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -9376,8 +9376,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -9652,8 +9652,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -9851,8 +9851,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Giratina V",
-                    "number": "SWSH259",
-                    "set": "PR"
+                    "number": "259",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -9985,7 +9985,7 @@ let masters = [
                     "count": 3,
                     "name": "Charmander",
                     "number": "44",
-                    "set": "SVP"
+                    "set": "PR-SV"
                 },
                 {
                     "count": 3,
@@ -10883,8 +10883,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -10938,7 +10938,7 @@ let masters = [
                     "count": 1,
                     "name": "Hawlucha",
                     "number": "7",
-                    "set": "SVP"
+                    "set": "PR-SV"
                 }
             ],
             "trainer": [
@@ -11064,8 +11064,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -11669,8 +11669,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -11764,8 +11764,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -12140,8 +12140,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -12657,8 +12657,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 }
             ],
             "trainer": [
@@ -13218,8 +13218,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -13449,8 +13449,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -13731,8 +13731,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -13756,7 +13756,7 @@ let masters = [
                     "count": 1,
                     "name": "Hawlucha",
                     "number": "7",
-                    "set": "SVP"
+                    "set": "PR-SV"
                 }
             ],
             "trainer": [
@@ -13918,8 +13918,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Octillery",
-                    "number": "SWSH089",
-                    "set": "PR"
+                    "number": "089",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -14087,8 +14087,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -14268,8 +14268,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -14444,7 +14444,7 @@ let masters = [
                     "count": 4,
                     "name": "Charmander",
                     "number": "44",
-                    "set": "SVP"
+                    "set": "PR-SV"
                 },
                 {
                     "count": 2,
@@ -14491,8 +14491,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Arceus V",
-                    "number": "SWSH204",
-                    "set": "PR"
+                    "number": "204",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -14630,8 +14630,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -14829,8 +14829,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Kirlia",
-                    "number": "SWSH271",
-                    "set": "PR"
+                    "number": "271",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -15367,7 +15367,7 @@ let masters = [
                     "count": 3,
                     "name": "Charmander",
                     "number": "44",
-                    "set": "SVP"
+                    "set": "PR-SV"
                 },
                 {
                     "count": 3,
@@ -15378,14 +15378,14 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Arceus V",
-                    "number": "SWSH204",
-                    "set": "PR"
+                    "number": "204",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
                     "name": "Arceus VSTAR",
-                    "number": "SWSH307",
-                    "set": "PR"
+                    "number": "307",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -15692,8 +15692,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Tyranitar V",
-                    "number": "SWSH109",
-                    "set": "PR"
+                    "number": "109",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -15754,8 +15754,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -16068,8 +16068,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -17027,7 +17027,7 @@ let masters = [
                     "count": 4,
                     "name": "Charmander",
                     "number": "44",
-                    "set": "SVP"
+                    "set": "PR-SV"
                 },
                 {
                     "count": 1,
@@ -17456,8 +17456,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -17557,8 +17557,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -18776,8 +18776,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Flaaffy",
-                    "number": "SWSH122",
-                    "set": "PR"
+                    "number": "122",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -18933,8 +18933,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -20128,8 +20128,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -20196,8 +20196,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -20285,8 +20285,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Origin Forme Palkia VSTAR",
-                    "number": "SWSH254",
-                    "set": "PR"
+                    "number": "254",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -20298,7 +20298,7 @@ let masters = [
                     "count": 1,
                     "name": "Chien-Pao ex",
                     "number": "30",
-                    "set": "SVP"
+                    "set": "PR-SV"
                 },
                 {
                     "count": 1,
@@ -20309,8 +20309,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 }
             ],
             "trainer": [
@@ -20442,8 +20442,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -20635,14 +20635,14 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Arceus VSTAR",
-                    "number": "SWSH307",
-                    "set": "PR"
+                    "number": "307",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
                     "name": "Arceus V",
-                    "number": "SWSH306",
-                    "set": "PR"
+                    "number": "306",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -21035,8 +21035,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -21142,8 +21142,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -21824,8 +21824,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -22168,8 +22168,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Kirlia",
-                    "number": "SWSH271",
-                    "set": "PR"
+                    "number": "271",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -22506,8 +22506,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Archeops",
-                    "number": "SWSH272",
-                    "set": "PR"
+                    "number": "272",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -22592,8 +22592,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -22898,8 +22898,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Flaaffy",
-                    "number": "SWSH122",
-                    "set": "PR"
+                    "number": "122",
+                    "set": "PR-SW"
                 }
             ],
             "trainer": [
@@ -23025,8 +23025,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -23087,8 +23087,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -23514,8 +23514,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Archeops",
-                    "number": "SWSH272",
-                    "set": "PR"
+                    "number": "272",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -23582,8 +23582,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -23846,8 +23846,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Archeops",
-                    "number": "SWSH272",
-                    "set": "PR"
+                    "number": "272",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -23902,8 +23902,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -24161,7 +24161,7 @@ let masters = [
             "losses": 5,
             "ties": 2
         },
-        "decklist": { "pokemon": [{ "count": 4, "name": "Charmander", "number": "44", "set": "SVP" }, { "count": 2, "name": "Charizard ex", "number": "228", "set": "OBF" }, { "count": 1, "name": "Charizard ex", "number": "215", "set": "OBF" }, { "count": 2, "name": "Pidgey", "number": "162", "set": "OBF" }, { "count": 2, "name": "Pidgeot ex", "number": "225", "set": "OBF" }, { "count": 1, "name": "Manaphy", "number": "GG06", "set": "CRZ" }, { "count": 1, "name": "Entei V", "number": "GG36", "set": "CRZ" }, { "count": 1, "name": "Arceus V", "number": "166", "set": "BRS" }, { "count": 1, "name": "Arceus V", "number": "SWSH204", "set": "PR" }, { "count": 2, "name": "Arceus VSTAR", "number": "184", "set": "BRS" }, { "count": 1, "name": "Pumpkaboo", "number": "76", "set": "EVS" }, { "count": 1, "name": "Radiant Charizard", "number": "20", "set": "CRZ" }], "trainer": [{ "count": 4, "name": "Iono", "number": "185", "set": "PAL" }, { "count": 2, "name": "Colress's Experiment", "number": "GG59", "set": "CRZ" }, { "count": 2, "name": "Professor's Research", "number": "147", "set": "BRS" }, { "count": 1, "name": "Switch", "number": "147", "set": "CES" }, { "count": 3, "name": "Boss's Orders", "number": "132", "set": "BRS" }, { "count": 1, "name": "Raihan", "number": "140", "set": "CRZ" }, { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" }, { "count": 4, "name": "Ultra Ball", "number": "150", "set": "BRS" }, { "count": 1, "name": "Choice Belt", "number": "211", "set": "ASR" }, { "count": 3, "name": "Artazon", "number": "229", "set": "OBF" }, { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" }, { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" }, { "count": 4, "name": "Rare Candy", "number": "142", "set": "CES" }], "energy": [{ "count": 8, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" }, { "count": 1, "name": "Double Turbo Energy - Special", "number": "216", "set": "ASR" }] }
+        "decklist": { "pokemon": [{ "count": 4, "name": "Charmander", "number": "44", "set": "PR-SV" }, { "count": 2, "name": "Charizard ex", "number": "228", "set": "OBF" }, { "count": 1, "name": "Charizard ex", "number": "215", "set": "OBF" }, { "count": 2, "name": "Pidgey", "number": "162", "set": "OBF" }, { "count": 2, "name": "Pidgeot ex", "number": "225", "set": "OBF" }, { "count": 1, "name": "Manaphy", "number": "GG06", "set": "CRZ" }, { "count": 1, "name": "Entei V", "number": "GG36", "set": "CRZ" }, { "count": 1, "name": "Arceus V", "number": "166", "set": "BRS" }, { "count": 1, "name": "Arceus V", "number": "204", "set": "PR-SW" }, { "count": 2, "name": "Arceus VSTAR", "number": "184", "set": "BRS" }, { "count": 1, "name": "Pumpkaboo", "number": "76", "set": "EVS" }, { "count": 1, "name": "Radiant Charizard", "number": "20", "set": "CRZ" }], "trainer": [{ "count": 4, "name": "Iono", "number": "185", "set": "PAL" }, { "count": 2, "name": "Colress's Experiment", "number": "GG59", "set": "CRZ" }, { "count": 2, "name": "Professor's Research", "number": "147", "set": "BRS" }, { "count": 1, "name": "Switch", "number": "147", "set": "CES" }, { "count": 3, "name": "Boss's Orders", "number": "132", "set": "BRS" }, { "count": 1, "name": "Raihan", "number": "140", "set": "CRZ" }, { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" }, { "count": 4, "name": "Ultra Ball", "number": "150", "set": "BRS" }, { "count": 1, "name": "Choice Belt", "number": "211", "set": "ASR" }, { "count": 3, "name": "Artazon", "number": "229", "set": "OBF" }, { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" }, { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" }, { "count": 4, "name": "Rare Candy", "number": "142", "set": "CES" }], "energy": [{ "count": 8, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" }, { "count": 1, "name": "Double Turbo Energy - Special", "number": "216", "set": "ASR" }] }
     },
     {
         "name": "Jake Riggs",
@@ -24203,7 +24203,7 @@ let masters = [
                     "count": 1,
                     "name": "Charmander",
                     "number": "44",
-                    "set": "SVP"
+                    "set": "PR-SV"
                 },
                 {
                     "count": 2,
@@ -24389,8 +24389,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -24727,8 +24727,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Giratina V",
-                    "number": "SWSH259",
-                    "set": "PR"
+                    "number": "259",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -24848,14 +24848,14 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -25385,14 +25385,14 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Archeops",
-                    "number": "SWSH272",
-                    "set": "PR"
+                    "number": "272",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
                     "name": "Tyranitar V",
-                    "number": "SWSH109",
-                    "set": "PR"
+                    "number": "109",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -25441,8 +25441,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -25916,8 +25916,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Tyranitar V",
-                    "number": "SWSH109",
-                    "set": "PR"
+                    "number": "109",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -25960,8 +25960,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 4,
@@ -26159,8 +26159,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -26948,8 +26948,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -27298,8 +27298,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Kirlia",
-                    "number": "SWSH271",
-                    "set": "PR"
+                    "number": "271",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -28004,8 +28004,8 @@ let masters = [
                 {
                     "count": 2,
                     "name": "Umbreon V",
-                    "number": "SWSH203",
-                    "set": "PR"
+                    "number": "203",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -28168,7 +28168,7 @@ let masters = [
             "losses": 4,
             "ties": 5
         },
-        "decklist":{"pokemon":[{"count":1, "name": "Miraidon ex", "number":"81", "set": "SVI"},{"count":1, "name": "Miraidon ex", "number":"244", "set": "SVI"},{"count":1, "name": "Miraidon ex", "number":"253", "set": "SVI"},{"count":2, "name": "Raikou V", "number":"GG41", "set": "CRZ"},{"count":2, "name": "Mareep", "number":"GG34", "set": "CRZ"},{"count":2, "name": "Flaaffy", "number":"SWSH122", "set": "PR"},{"count":1, "name": "Lumineon V", "number":"156", "set": "BRS"},{"count":1, "name": "Squawkabilly ex", "number":"169", "set": "PAL"},{"count":1, "name": "Drapion V", "number":"118", "set": "LOR"},{"count":1, "name": "Flying Pikachu V", "number":"6", "set": "CEL"},{"count":2, "name": "Raichu V", "number":"45", "set": "BRS"},{"count":1, "name": "Zapdos", "number":"29", "set": "PGO"}],"trainer":[{"count":2, "name": "Beach Court", "number":"167", "set": "SVI"},{"count":2, "name": "Forest Seal Stone", "number":"156", "set": "SIT"},{"count":1, "name": "Bravery Charm", "number":"173", "set": "PAL"},{"count":1, "name": "Lost Vacuum", "number":"135", "set": "CRZ"},{"count":2, "name": "Escape Rope", "number":"125", "set": "BST"},{"count":4, "name": "Ultra Ball", "number":"150", "set": "BRS"},{"count":1, "name": "Nest Ball", "number":"181", "set": "SVI"},{"count":4, "name": "Electric Generator", "number":"170", "set": "SVI"},{"count":1, "name": "Switch Cart", "number":"154", "set": "ASR"},{"count":2, "name": "Judge", "number":"235", "set": "FST"},{"count":1, "name": "Iono", "number":"185", "set": "PAL"},{"count":3, "name": "Boss's Orders", "number":"132", "set": "BRS"},{"count":1, "name": "Penny", "number":"183", "set": "SVI"},{"count":4, "name": "Professor's Research", "number":"147", "set": "BRS"},{"count":1, "name": "Arven", "number":"186", "set": "OBF"}],"energy":[{"count":14, "name": "Lightning Energy - Basic", "number":"155", "set": "CRZ"}]}
+        "decklist":{"pokemon":[{"count":1, "name": "Miraidon ex", "number":"81", "set": "SVI"},{"count":1, "name": "Miraidon ex", "number":"244", "set": "SVI"},{"count":1, "name": "Miraidon ex", "number":"253", "set": "SVI"},{"count":2, "name": "Raikou V", "number":"GG41", "set": "CRZ"},{"count":2, "name": "Mareep", "number":"GG34", "set": "CRZ"},{"count":2, "name": "Flaaffy", "number":"SWSH122", "set": "PR-SW"},{"count":1, "name": "Lumineon V", "number":"156", "set": "BRS"},{"count":1, "name": "Squawkabilly ex", "number":"169", "set": "PAL"},{"count":1, "name": "Drapion V", "number":"118", "set": "LOR"},{"count":1, "name": "Flying Pikachu V", "number":"6", "set": "CEL"},{"count":2, "name": "Raichu V", "number":"45", "set": "BRS"},{"count":1, "name": "Zapdos", "number":"29", "set": "PGO"}],"trainer":[{"count":2, "name": "Beach Court", "number":"167", "set": "SVI"},{"count":2, "name": "Forest Seal Stone", "number":"156", "set": "SIT"},{"count":1, "name": "Bravery Charm", "number":"173", "set": "PAL"},{"count":1, "name": "Lost Vacuum", "number":"135", "set": "CRZ"},{"count":2, "name": "Escape Rope", "number":"125", "set": "BST"},{"count":4, "name": "Ultra Ball", "number":"150", "set": "BRS"},{"count":1, "name": "Nest Ball", "number":"181", "set": "SVI"},{"count":4, "name": "Electric Generator", "number":"170", "set": "SVI"},{"count":1, "name": "Switch Cart", "number":"154", "set": "ASR"},{"count":2, "name": "Judge", "number":"235", "set": "FST"},{"count":1, "name": "Iono", "number":"185", "set": "PAL"},{"count":3, "name": "Boss's Orders", "number":"132", "set": "BRS"},{"count":1, "name": "Penny", "number":"183", "set": "SVI"},{"count":4, "name": "Professor's Research", "number":"147", "set": "BRS"},{"count":1, "name": "Arven", "number":"186", "set": "OBF"}],"energy":[{"count":14, "name": "Lightning Energy - Basic", "number":"155", "set": "CRZ"}]}
     },
     {
         "name": "Omar Ben-Gacem",
@@ -28541,8 +28541,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -28704,8 +28704,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -28740,8 +28740,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -29253,8 +29253,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Archeops",
-                    "number": "SWSH272",
-                    "set": "PR"
+                    "number": "272",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -29315,8 +29315,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 3,
@@ -29615,8 +29615,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Comfey",
-                    "number": "SWSH242",
-                    "set": "PR"
+                    "number": "242",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -29645,8 +29645,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Dragonite V",
-                    "number": "SWSH154",
-                    "set": "PR"
+                    "number": "154",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -30395,7 +30395,7 @@ let masters = [
                     "count": 4,
                     "name": "Charmander",
                     "number": "44",
-                    "set": "SVP"
+                    "set": "PR-SV"
                 },
                 {
                     "count": 3,
@@ -30611,8 +30611,8 @@ let masters = [
                 {
                     "count": 4,
                     "name": "Kirlia",
-                    "number": "SWSH271",
-                    "set": "PR"
+                    "number": "271",
+                    "set": "PR-SW"
                 }
             ],
             "trainer": [
@@ -30756,8 +30756,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Lumineon V",
-                    "number": "SWSH250",
-                    "set": "PR"
+                    "number": "250",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -30782,8 +30782,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Professor Burnet",
-                    "number": "SWSH167",
-                    "set": "PR"
+                    "number": "167",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 2,
@@ -31124,8 +31124,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Origin Forme Palkia V",
-                    "number": "SWSH253",
-                    "set": "PR"
+                    "number": "253",
+                    "set": "PR-SW"
                 }
             ],
             "trainer": [
@@ -31251,8 +31251,8 @@ let masters = [
                 {
                     "count": 3,
                     "name": "Arceus V",
-                    "number": "SWSH204",
-                    "set": "PR"
+                    "number": "204",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,
@@ -31281,8 +31281,8 @@ let masters = [
                 {
                     "count": 1,
                     "name": "Bibarel",
-                    "number": "SWSH188",
-                    "set": "PR"
+                    "number": "188",
+                    "set": "PR-SW"
                 },
                 {
                     "count": 1,

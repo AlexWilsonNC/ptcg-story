@@ -1,6 +1,6 @@
 let smp = [
     {
-        "id": "smp-SM01",
+        "id": "smp-01",
         "name": "Rowlet",
         "supertype": "Pokémon",
         "subtypes": [
@@ -65,7 +65,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM02",
+        "id": "smp-02",
         "name": "Litten",
         "supertype": "Pokémon",
         "subtypes": [
@@ -131,7 +131,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM03",
+        "id": "smp-03",
         "name": "Popplio",
         "supertype": "Pokémon",
         "subtypes": [
@@ -196,7 +196,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM04",
+        "id": "smp-04",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -278,7 +278,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM05",
+        "id": "smp-05",
         "name": "Snorlax-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -371,7 +371,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM06",
+        "id": "smp-06",
         "name": "Rockruff",
         "supertype": "Pokémon",
         "subtypes": [
@@ -446,7 +446,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM07",
+        "id": "smp-07",
         "name": "Pikipek",
         "supertype": "Pokémon",
         "subtypes": [
@@ -518,7 +518,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM08",
+        "id": "smp-08",
         "name": "Litten",
         "supertype": "Pokémon",
         "subtypes": [
@@ -593,7 +593,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM09",
+        "id": "smp-09",
         "name": "Togedemaru",
         "supertype": "Pokémon",
         "subtypes": [
@@ -670,7 +670,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM10",
+        "id": "smp-10",
         "name": "Shiinotic",
         "supertype": "Pokémon",
         "subtypes": [
@@ -741,7 +741,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM11",
+        "id": "smp-11",
         "name": "Bruxish",
         "supertype": "Pokémon",
         "subtypes": [
@@ -814,7 +814,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM12",
+        "id": "smp-12",
         "name": "Passimian",
         "supertype": "Pokémon",
         "subtypes": [
@@ -886,7 +886,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM13",
+        "id": "smp-13",
         "name": "Oranguru",
         "supertype": "Pokémon",
         "subtypes": [
@@ -957,7 +957,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM14",
+        "id": "smp-14",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1046,7 +1046,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM15",
+        "id": "smp-15",
         "name": "Zygarde",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1122,7 +1122,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM16",
+        "id": "smp-16",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1212,7 +1212,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM17",
+        "id": "smp-17",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1305,7 +1305,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM18",
+        "id": "smp-18",
         "name": "Alolan Sandslash",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1377,7 +1377,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM19",
+        "id": "smp-19",
         "name": "Oricorio",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1454,7 +1454,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM20",
+        "id": "smp-20",
         "name": "Mudsdale",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1531,7 +1531,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM21",
+        "id": "smp-21",
         "name": "Drampa",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1604,7 +1604,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM22",
+        "id": "smp-22",
         "name": "Rowlet",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1679,7 +1679,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM23",
+        "id": "smp-23",
         "name": "Litten",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1754,7 +1754,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM24",
+        "id": "smp-24",
         "name": "Popplio",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1829,7 +1829,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM25",
+        "id": "smp-25",
         "name": "Lurantis",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1901,7 +1901,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM26",
+        "id": "smp-26",
         "name": "Tsareena",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1973,7 +1973,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM27",
+        "id": "smp-27",
         "name": "Turtonator",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2047,7 +2047,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM28",
+        "id": "smp-28",
         "name": "Vikavolt",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2126,7 +2126,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM29",
+        "id": "smp-29",
         "name": "Mimikyu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2192,7 +2192,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM30",
+        "id": "smp-30",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2271,7 +2271,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM30a",
+        "id": "smp-30a",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2350,7 +2350,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM31",
+        "id": "smp-31",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2429,7 +2429,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM32",
+        "id": "smp-32",
         "name": "Tapu Bulu-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2510,7 +2510,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM33",
+        "id": "smp-33",
         "name": "Tapu Koko-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2589,7 +2589,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM34",
+        "id": "smp-34",
         "name": "Bewear-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2681,7 +2681,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM35",
+        "id": "smp-35",
         "name": "Espeon-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2769,7 +2769,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM36",
+        "id": "smp-36",
         "name": "Umbreon-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2862,7 +2862,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM37",
+        "id": "smp-37",
         "name": "Decidueye-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2946,7 +2946,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM38",
+        "id": "smp-38",
         "name": "Incineroar-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3034,7 +3034,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM39",
+        "id": "smp-39",
         "name": "Primarina-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3123,7 +3123,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM40",
+        "id": "smp-40",
         "name": "Jangmo-o",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3198,7 +3198,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM41",
+        "id": "smp-41",
         "name": "Komala",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3269,7 +3269,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM42",
+        "id": "smp-42",
         "name": "Cosmog",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3334,7 +3334,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM43",
+        "id": "smp-43",
         "name": "Alolan Meowth",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3413,7 +3413,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM44",
+        "id": "smp-44",
         "name": "Togedemaru",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3492,7 +3492,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM45",
+        "id": "smp-45",
         "name": "Tapu Lele",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3564,7 +3564,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM46",
+        "id": "smp-46",
         "name": "Seviper",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3635,7 +3635,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM47",
+        "id": "smp-47",
         "name": "Crabominable",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3709,7 +3709,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM48",
+        "id": "smp-48",
         "name": "Zygarde",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3785,7 +3785,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM49",
+        "id": "smp-49",
         "name": "Bewear",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3860,7 +3860,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM50",
+        "id": "smp-50",
         "name": "Tapu Koko-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3939,7 +3939,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM51",
+        "id": "smp-51",
         "name": "Alolan Meowth",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4017,7 +4017,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM52",
+        "id": "smp-52",
         "name": "Golisopod",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4089,7 +4089,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM53",
+        "id": "smp-53",
         "name": "Dhelmise",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4166,7 +4166,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM54",
+        "id": "smp-54",
         "name": "Lucario",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4238,7 +4238,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM55",
+        "id": "smp-55",
         "name": "Decidueye",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4312,7 +4312,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM56",
+        "id": "smp-56",
         "name": "Tsareena-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4400,7 +4400,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM57",
+        "id": "smp-57",
         "name": "Ho-Oh-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4496,7 +4496,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM58",
+        "id": "smp-58",
         "name": "Necrozma-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4581,7 +4581,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM59",
+        "id": "smp-59",
         "name": "Marshadow-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4664,7 +4664,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM60",
+        "id": "smp-60",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4756,7 +4756,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM61",
+        "id": "smp-61",
         "name": "Tapu Bulu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4830,7 +4830,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM62",
+        "id": "smp-62",
         "name": "Golisopod-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4918,7 +4918,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM63",
+        "id": "smp-63",
         "name": "Salazzle-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5005,7 +5005,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM64",
+        "id": "smp-64",
         "name": "Silvally",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5079,7 +5079,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM65",
+        "id": "smp-65",
         "name": "Alolan Raichu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5159,7 +5159,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM66",
+        "id": "smp-66",
         "name": "Pheromosa-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5245,7 +5245,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM67",
+        "id": "smp-67",
         "name": "Celesteela-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5343,7 +5343,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM68",
+        "id": "smp-68",
         "name": "Xurkitree-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5433,7 +5433,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM69",
+        "id": "smp-69",
         "name": "Buzzwole-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5521,7 +5521,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM70",
+        "id": "smp-70",
         "name": "Shining Ho-Oh",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5599,7 +5599,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM71",
+        "id": "smp-71",
         "name": "Kommo-o-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5689,7 +5689,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM72",
+        "id": "smp-72",
         "name": "Alolan Raichu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5767,7 +5767,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM73",
+        "id": "smp-73",
         "name": "Salazzle",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5839,7 +5839,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM74",
+        "id": "smp-74",
         "name": "Regirock",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5910,7 +5910,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM75",
+        "id": "smp-75",
         "name": "Registeel",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5989,7 +5989,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM76",
+        "id": "smp-76",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6071,7 +6071,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM77",
+        "id": "smp-77",
         "name": "Mewtwo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6142,7 +6142,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM78",
+        "id": "smp-78",
         "name": "Champions Festival",
         "supertype": "Trainer",
         "subtypes": [
@@ -6182,7 +6182,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM79",
+        "id": "smp-79",
         "name": "Shining Celebi",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6252,7 +6252,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM80",
+        "id": "smp-80",
         "name": "Ho-Oh-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6348,7 +6348,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM81",
+        "id": "smp-81",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6430,7 +6430,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM82",
+        "id": "smp-82",
         "name": "Shining Lugia",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6512,7 +6512,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM83",
+        "id": "smp-83",
         "name": "Zorua",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6593,7 +6593,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM84",
+        "id": "smp-84",
         "name": "Zoroark-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6683,7 +6683,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM85",
+        "id": "smp-85",
         "name": "Marshadow",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6759,7 +6759,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM86",
+        "id": "smp-86",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6840,7 +6840,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM87",
+        "id": "smp-87",
         "name": "Latias",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6909,7 +6909,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM88",
+        "id": "smp-88",
         "name": "Latios",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6983,7 +6983,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM89",
+        "id": "smp-89",
         "name": "Zoroark",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7064,7 +7064,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM90",
+        "id": "smp-90",
         "name": "Raichu-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7159,7 +7159,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM91",
+        "id": "smp-91",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7245,7 +7245,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM92",
+        "id": "smp-92",
         "name": "Tapu Fini",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7319,7 +7319,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM93",
+        "id": "smp-93",
         "name": "Marshadow",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7397,7 +7397,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM94",
+        "id": "smp-94",
         "name": "Wash Rotom",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7468,7 +7468,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM95",
+        "id": "smp-95",
         "name": "Lucario",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7539,7 +7539,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM96",
+        "id": "smp-96",
         "name": "Heatran",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7619,7 +7619,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM97",
+        "id": "smp-97",
         "name": "Gumshoos",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7694,7 +7694,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM98",
+        "id": "smp-98",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7775,7 +7775,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM99",
+        "id": "smp-99",
         "name": "Mimikyu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7841,7 +7841,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM100",
+        "id": "smp-100",
         "name": "Lucario-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7928,7 +7928,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM101",
+        "id": "smp-101",
         "name": "Dawn Wings Necrozma-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8020,7 +8020,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM102",
+        "id": "smp-102",
         "name": "Dusk Mane Necrozma-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8117,7 +8117,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM103",
+        "id": "smp-103",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8213,7 +8213,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM103a",
+        "id": "smp-103a",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8309,7 +8309,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM104",
+        "id": "smp-104",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8399,7 +8399,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM104a",
+        "id": "smp-104a",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8489,7 +8489,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM105",
+        "id": "smp-105",
         "name": "Lycanroc",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8564,7 +8564,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM106",
+        "id": "smp-106",
         "name": "Dawn Wings Necrozma",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8644,7 +8644,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM107",
+        "id": "smp-107",
         "name": "Dusk Mane Necrozma",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8724,7 +8724,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM108",
+        "id": "smp-108",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8806,7 +8806,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM109",
+        "id": "smp-109",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8888,7 +8888,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM110",
+        "id": "smp-110",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8970,7 +8970,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM111",
+        "id": "smp-111",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9052,7 +9052,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM112",
+        "id": "smp-112",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9134,7 +9134,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM113",
+        "id": "smp-113",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9216,7 +9216,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM114",
+        "id": "smp-114",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9298,7 +9298,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM115",
+        "id": "smp-115",
         "name": "Pheromosa",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9371,7 +9371,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM116",
+        "id": "smp-116",
         "name": "Xurkitree",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9451,7 +9451,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM117",
+        "id": "smp-117",
         "name": "Malamar",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9523,7 +9523,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM118",
+        "id": "smp-118",
         "name": "Lycanroc",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9598,7 +9598,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM119",
+        "id": "smp-119",
         "name": "Exeggcute",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9664,7 +9664,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM120",
+        "id": "smp-120",
         "name": "Rockruff",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9730,7 +9730,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM121",
+        "id": "smp-121",
         "name": "Raikou-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9826,7 +9826,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM122",
+        "id": "smp-122",
         "name": "Zygarde-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9914,7 +9914,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM123",
+        "id": "smp-123",
         "name": "Dawn Wings Necrozma",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9994,7 +9994,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM124",
+        "id": "smp-124",
         "name": "Dusk Mane Necrozma",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10074,7 +10074,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM125",
+        "id": "smp-125",
         "name": "Naganadel-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10163,7 +10163,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM126",
+        "id": "smp-126",
         "name": "Ultra Necrozma-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10239,7 +10239,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM127",
+        "id": "smp-127",
         "name": "Alolan Sandslash",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10319,7 +10319,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM128",
+        "id": "smp-128",
         "name": "Alolan Ninetales",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10400,7 +10400,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM129",
+        "id": "smp-129",
         "name": "Kyogre",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10474,7 +10474,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM130",
+        "id": "smp-130",
         "name": "Manectric",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10549,7 +10549,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM131",
+        "id": "smp-131",
         "name": "Celesteela",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10622,7 +10622,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM132",
+        "id": "smp-132",
         "name": "Delcatty",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10693,7 +10693,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM133",
+        "id": "smp-133",
         "name": "Thundurus-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10786,7 +10786,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM134",
+        "id": "smp-134",
         "name": "Tornadus-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10880,7 +10880,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM135",
+        "id": "smp-135",
         "name": "Latias",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10954,7 +10954,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM136",
+        "id": "smp-136",
         "name": "Latios",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11028,7 +11028,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM137",
+        "id": "smp-137",
         "name": "Reshiram-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11117,7 +11117,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM138",
+        "id": "smp-138",
         "name": "Zekrom-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11212,7 +11212,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM139",
+        "id": "smp-139",
         "name": "Salamence-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11299,7 +11299,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM140",
+        "id": "smp-140",
         "name": "Salamence",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11372,7 +11372,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM141",
+        "id": "smp-141",
         "name": "White Kyurem-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11460,7 +11460,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM142",
+        "id": "smp-142",
         "name": "Kyurem",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11534,7 +11534,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM143",
+        "id": "smp-143",
         "name": "Moltres",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11616,7 +11616,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM144",
+        "id": "smp-144",
         "name": "Articuno",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11696,7 +11696,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM145",
+        "id": "smp-145",
         "name": "Zapdos",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11776,7 +11776,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM146",
+        "id": "smp-146",
         "name": "Leafeon-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11860,7 +11860,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM147",
+        "id": "smp-147",
         "name": "Glaceon-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11946,7 +11946,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM148",
+        "id": "smp-148",
         "name": "Champions Festival",
         "supertype": "Trainer",
         "subtypes": [
@@ -11986,7 +11986,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM149",
+        "id": "smp-149",
         "name": "Suicune",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12057,7 +12057,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM150",
+        "id": "smp-150",
         "name": "Raikou",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12126,7 +12126,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM151",
+        "id": "smp-151",
         "name": "Giratina",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12203,7 +12203,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM152",
+        "id": "smp-152",
         "name": "Tapu Lele",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12280,7 +12280,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM153",
+        "id": "smp-153",
         "name": "Rowlet",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12346,7 +12346,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM154",
+        "id": "smp-154",
         "name": "Salandit",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12421,7 +12421,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM155",
+        "id": "smp-155",
         "name": "Kingdra-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12505,7 +12505,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM156",
+        "id": "smp-156",
         "name": "Dragonite-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12594,7 +12594,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM157",
+        "id": "smp-157",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12672,7 +12672,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM158",
+        "id": "smp-158",
         "name": "Charizard",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12743,7 +12743,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM159",
+        "id": "smp-159",
         "name": "Zapdos",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12811,7 +12811,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM160",
+        "id": "smp-160",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12883,7 +12883,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM161",
+        "id": "smp-161",
         "name": "Jirachi",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12959,7 +12959,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM162",
+        "id": "smp-162",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13040,7 +13040,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM163",
+        "id": "smp-163",
         "name": "Mimikyu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13106,7 +13106,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM164",
+        "id": "smp-164",
         "name": "Deoxys",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13177,7 +13177,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM165",
+        "id": "smp-165",
         "name": "Ultra Necrozma",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13243,7 +13243,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM166",
+        "id": "smp-166",
         "name": "Magikarp & Wailord-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13326,7 +13326,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM167",
+        "id": "smp-167",
         "name": "Celebi & Venusaur-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13419,7 +13419,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM168",
+        "id": "smp-168",
         "name": "Pikachu & Zekrom-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13508,7 +13508,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM169",
+        "id": "smp-169",
         "name": "Eevee & Snorlax-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13609,7 +13609,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM170",
+        "id": "smp-170",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13690,7 +13690,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM171",
+        "id": "smp-171",
         "name": "Flareon-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13776,7 +13776,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM172",
+        "id": "smp-172",
         "name": "Vaporeon-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13860,7 +13860,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM173",
+        "id": "smp-173",
         "name": "Jolteon-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13951,7 +13951,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM174",
+        "id": "smp-174",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14044,7 +14044,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM175",
+        "id": "smp-175",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14137,7 +14137,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM176",
+        "id": "smp-176",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14230,7 +14230,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM177",
+        "id": "smp-177",
         "name": "Meltan",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14311,7 +14311,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM178",
+        "id": "smp-178",
         "name": "Melmetal-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14402,7 +14402,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM179",
+        "id": "smp-179",
         "name": "Volcanion",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14474,7 +14474,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM180",
+        "id": "smp-180",
         "name": "Stakataka",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14546,7 +14546,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM181",
+        "id": "smp-181",
         "name": "Melmetal",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14625,7 +14625,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM182",
+        "id": "smp-182",
         "name": "Persian",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14696,7 +14696,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM183",
+        "id": "smp-183",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14768,7 +14768,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM184",
+        "id": "smp-184",
         "name": "Eevee",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14850,7 +14850,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM185",
+        "id": "smp-185",
         "name": "Typhlosion",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14924,7 +14924,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM186",
+        "id": "smp-186",
         "name": "Flareon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14998,7 +14998,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM187",
+        "id": "smp-187",
         "name": "Alolan Marowak-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15080,7 +15080,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM188",
+        "id": "smp-188",
         "name": "Kangaskhan-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15167,7 +15167,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM189",
+        "id": "smp-189",
         "name": "Blastoise-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15250,7 +15250,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM190",
+        "id": "smp-190",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15331,7 +15331,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM191",
+        "id": "smp-191",
         "name": "Mewtwo & Mew-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15407,7 +15407,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM192",
+        "id": "smp-192",
         "name": "Lucario & Melmetal-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15502,7 +15502,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM193",
+        "id": "smp-193",
         "name": "Garchomp & Giratina-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15591,7 +15591,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM194",
+        "id": "smp-194",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15662,7 +15662,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM195",
+        "id": "smp-195",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15754,7 +15754,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM196",
+        "id": "smp-196",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15844,7 +15844,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM197",
+        "id": "smp-197",
         "name": "Greninja-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15927,7 +15927,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM198",
+        "id": "smp-198",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16003,7 +16003,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM199",
+        "id": "smp-199",
         "name": "Psyduck",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16069,7 +16069,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM200",
+        "id": "smp-200",
         "name": "Snubbull",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16150,7 +16150,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM201",
+        "id": "smp-201",
         "name": "Reshiram & Charizard-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16241,7 +16241,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM202",
+        "id": "smp-202",
         "name": "Amoonguss",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16312,7 +16312,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM203",
+        "id": "smp-203",
         "name": "Tapu Fini",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16385,7 +16385,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM204",
+        "id": "smp-204",
         "name": "Necrozma",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16459,7 +16459,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM205",
+        "id": "smp-205",
         "name": "Terrakion",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16535,7 +16535,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM206",
+        "id": "smp-206",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16608,7 +16608,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM207",
+        "id": "smp-207",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16680,7 +16680,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM208",
+        "id": "smp-208",
         "name": "Vikavolt",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16759,7 +16759,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM209",
+        "id": "smp-209",
         "name": "Stakataka",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16831,7 +16831,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM210",
+        "id": "smp-210",
         "name": "Moltres & Zapdos & Articuno-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16917,7 +16917,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM211",
+        "id": "smp-211",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -16998,7 +16998,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM212",
+        "id": "smp-212",
         "name": "Gyarados-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17079,7 +17079,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM213",
+        "id": "smp-213",
         "name": "Raichu-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17164,7 +17164,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM214",
+        "id": "smp-214",
         "name": "Mewtwo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17235,7 +17235,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM215",
+        "id": "smp-215",
         "name": "Mew",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17304,7 +17304,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM216",
+        "id": "smp-216",
         "name": "Porygon-Z-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17388,7 +17388,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM217",
+        "id": "smp-217",
         "name": "Trevenant & Dusknoir-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17473,7 +17473,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM218",
+        "id": "smp-218",
         "name": "Buzzwole",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17544,7 +17544,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM219",
+        "id": "smp-219",
         "name": "Entei",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17618,7 +17618,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM220",
+        "id": "smp-220",
         "name": "Phione",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17687,7 +17687,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM221",
+        "id": "smp-221",
         "name": "Blacephalon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17757,7 +17757,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM222",
+        "id": "smp-222",
         "name": "Mismagius",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17836,7 +17836,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM223",
+        "id": "smp-223",
         "name": "Terrakion",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17912,7 +17912,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM224",
+        "id": "smp-224",
         "name": "Celebi",
         "supertype": "Pokémon",
         "subtypes": [
@@ -17985,7 +17985,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM225",
+        "id": "smp-225",
         "name": "Victini",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18056,7 +18056,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM226",
+        "id": "smp-226",
         "name": "Charizard",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18127,7 +18127,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM227",
+        "id": "smp-227",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18209,7 +18209,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM228",
+        "id": "smp-228",
         "name": "Armored Mewtwo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18273,7 +18273,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM229",
+        "id": "smp-229",
         "name": "Venusaur & Snivy-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18364,7 +18364,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM230",
+        "id": "smp-230",
         "name": "Charizard & Braixen-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18446,7 +18446,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM231",
+        "id": "smp-231",
         "name": "Champions Festival",
         "supertype": "Trainer",
         "subtypes": [
@@ -18486,7 +18486,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM232",
+        "id": "smp-232",
         "name": "Pikachu-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18582,7 +18582,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM233",
+        "id": "smp-233",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18675,7 +18675,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM234",
+        "id": "smp-234",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18756,7 +18756,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM235",
+        "id": "smp-235",
         "name": "Eevee",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18829,7 +18829,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM236",
+        "id": "smp-236",
         "name": "Alolan Sandslash-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18915,7 +18915,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM237",
+        "id": "smp-237",
         "name": "Leafeon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -18989,7 +18989,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM238",
+        "id": "smp-238",
         "name": "Glaceon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -19063,7 +19063,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM239",
+        "id": "smp-239",
         "name": "Carracosta-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -19148,7 +19148,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM240",
+        "id": "smp-240",
         "name": "Espeon & Deoxys-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -19228,7 +19228,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM241",
+        "id": "smp-241",
         "name": "Umbreon & Darkrai-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -19312,7 +19312,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM242",
+        "id": "smp-242",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -19405,7 +19405,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM243",
+        "id": "smp-243",
         "name": "Regigigas",
         "supertype": "Pokémon",
         "subtypes": [
@@ -19482,7 +19482,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM244",
+        "id": "smp-244",
         "name": "Aipom",
         "supertype": "Pokémon",
         "subtypes": [
@@ -19557,7 +19557,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM246",
+        "id": "smp-246",
         "name": "Sabrina & Brycen",
         "supertype": "Trainer",
         "subtypes": [
@@ -19599,7 +19599,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM247",
+        "id": "smp-247",
         "name": "Reshiram & Charizard-GX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -19690,7 +19690,7 @@ let smp = [
         }
     },
     {
-        "id": "smp-SM245",
+        "id": "smp-245",
         "name": "Mismagius",
         "supertype": "Pokémon",
         "subtypes": [
