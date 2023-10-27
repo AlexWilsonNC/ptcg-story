@@ -28,8 +28,7 @@ function displayList(array = []) {
         secondSprite.classList.add('sprite');
         secondSprite.classList.add('second-sprite');
         firstSprite.setAttribute('src', "../../../assets/sprites/blank.png");
-        secondSprite.setAttribute('src', "../../../assets/sprites/substitute.png");
-
+        secondSprite.setAttribute('src', "../../../assets/sprites/blank.png");
 
         for (const pokemonCardInDeck in item.decklist) {
             item.decklist[pokemonCardInDeck].forEach(pokemon => {
