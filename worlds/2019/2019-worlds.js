@@ -9262,7 +9262,7 @@ let seniors = [
     sprite2: '../../assets/sprites/reshiram-charizard-tagteam.png',
     list: '../../assets/list-icon.png',
     deckid: "reshizard",
-    event: "2019 World Championships - Seniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -9393,7 +9393,7 @@ let seniors = [
     sprite2: '../../assets/sprites/gardevoir-sylveon-tagteam.png',
     list: '../../assets/list-icon.png',
     deckid: "gardevoir-sylveon-tagteam",
-    event: "2019 World Championships - Seniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -9542,7 +9542,7 @@ let seniors = [
     sprite2: '../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../assets/list-icon.png',
     deckid: "mewtwo-and-mew-tagteam",
-    event: "2019 World Championships - Seniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -9709,7 +9709,7 @@ let seniors = [
     sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../assets/list-icon.png',
     deckid: "pikarom",
-    event: "2019 World Championships - Seniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -9876,7 +9876,7 @@ let seniors = [
     sprite2: '../../assets/sprites/volcanion-right.png',
     list: '../../assets/list-icon.png',
     deckid: "greens-zard",
-    event: "2019 World Championships - Seniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -10019,7 +10019,7 @@ let seniors = [
     sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../assets/list-icon.png',
     deckid: "pikarom",
-    event: "2019 World Championships - Seniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -10180,7 +10180,7 @@ let seniors = [
     sprite2: '../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../assets/list-icon.png',
     deckid: "mewtwo-and-mew-tagteam",
-    event: "2019 World Championships - Seniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -10353,7 +10353,7 @@ let seniors = [
     sprite2: '../../assets/sprites/volcanion-right.png',
     list: '../../assets/list-icon.png',
     deckid: "greens-zard",
-    event: "2019 World Championships - Seniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -10493,7 +10493,7 @@ let juniors = [
     sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../assets/list-icon.png',
     deckid: "pikarom",
-    event: "2019 World Championships - Juniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -10666,7 +10666,7 @@ let juniors = [
     sprite2: '../../assets/sprites/volcanion-right.png',
     list: '../../assets/list-icon.png',
     deckid: "greens-zard",
-    event: "2019 World Championships - Juniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -10797,7 +10797,7 @@ let juniors = [
     sprite2: '../../assets/sprites/volcanion-right.png',
     list: '../../assets/list-icon.png',
     deckid: "greens-zard",
-    event: "2019 World Championships - Juniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -10934,7 +10934,7 @@ let juniors = [
     sprite2: '../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../assets/list-icon.png',
     deckid: "mewtwo-and-mew-tagteam",
-    event: "2019 World Championships - Juniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -11101,7 +11101,7 @@ let juniors = [
     sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../assets/list-icon.png',
     deckid: "pikarom",
-    event: "2019 World Championships - Juniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -11262,7 +11262,7 @@ let juniors = [
     sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../assets/list-icon.png',
     deckid: "pikarom",
-    event: "2019 World Championships - Juniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -11430,7 +11430,7 @@ let juniors = [
     sprite2: '../../assets/sprites/naganadel.png',
     list: '../../assets/list-icon.png',
     deckid: "0000",
-    event: "2019 World Championships - Juniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {
@@ -11591,7 +11591,7 @@ let juniors = [
     sprite2: '../../assets/sprites/mewtwo-mew-tagteam.png',
     list: '../../assets/list-icon.png',
     deckid: "0mewtwo-and-mew-tagteam000",
-    event: "2019 World Championships - Juniors",
+    event: "2019 World Championships",
     decklist: {
       "pokemon": [
         {

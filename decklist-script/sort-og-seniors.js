@@ -48,7 +48,7 @@ function displayList(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + "<br><i>" + item.event + "</i>";
+                document.querySelector('.playerName').innerHTML = item.firstName + "<br><i>" + item.event + " " + "- Seniors</i>";
 
                 for (const cardType in item.decklist) {
                     item.decklist[cardType].forEach(card => {
