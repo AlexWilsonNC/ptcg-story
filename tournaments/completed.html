@@ -78,13 +78,11 @@
                         <li class='bold tittle'><a href="../event-archive">Event Archive</a></li>
                         <li class='sub-nav'><a href="../worlds/main">World Championships</a></li>
                         <li class='sub-nav'><a href="../major-events/main">Major Events (ICs, Nats, SCs)</a></li>
-                        <li class='sub-nav'><a href="./regional-spe"
-                                >Regionals & SPEs</a>
+                        <li class='sub-nav'><a href="./regional-spe">Regionals & SPEs</a>
                         </li>
                         <li class='bold tittle'><a href="../decks-by-era/main">Decks by Era</a></li>
                         <hr>
-                        <li class='bold tittle'><a href="../articles/all"
-                                 >Articles</a>
+                        <li class='bold tittle'><a href="../articles/all">Articles</a>
                         </li>
                         <li class='sub-nav'><a href="../articles/all">All Articles</a></li>
                         <li class='sub-nav'><a href="../card-of-the-week/all">Card of the Week</a></li>
@@ -121,35 +119,86 @@
 
     <div class='center-me'>
         <div class='upcoming-events'>
-            <h2 class='featured-headers'>Completed Major Events</h2>
-            
-            <p class='sort-events'>Filter:</p>
-            <select id="mySelect" onchange="filterEvents()">
-                <option value="all">All Completed Events</option>
+            <div class='completed-n-upcoming'>
+                <a class='completed-btn' href='./completed'>Completed</a>
+                <a class='upcoming-btn' href='./upcoming'>Upcoming</a>
+            </div>
 
-                <!-- <option value="Newest">Newest First</option>
-                <option value="Oldest">Oldest First</option> -->
-
-                <option value="worlds">World Championships</option>
-                <option value="internationals">Internationals</option>
-                <option value="regionals">Regionals</option>
-                <option value="special-event">Special Events</option>
-                <option value="regional-league">Asia-Pacific Events</option>
-                <option value="players-cup">Players Cups</option>
-                <option value="nationals">Nationals</option>
-                <option value="stadium-challenge">Stadium Challenges</option>
-                <option value="super-trainer-showdown">Super Trainer Showdowns</option>
-            </select>
+            <div class='filters-top'>
+                <div class='indiv-filter'>
+                    <p class='sort-events'>Event Type:</p>
+                    <select id="mySelect" onchange="filterEvents()">
+                        <option value="" selected disabled hidden>Filter by Event</option>
+                        <option value="all">All</option>
+                        <option value="worlds">World Championships</option>
+                        <option value="internationals">Internationals</option>
+                        <option value="regionals">Regionals</option>
+                        <option value="special-event">Special Events</option>
+                        <option value="regional-league">Asia-Pacific Events</option>
+                        <option value="players-cup">Players Cups</option>
+                        <option value="nationals">Nationals</option>
+                        <option value="stadium-challenge">Stadium Challenges</option>
+                        <option value="super-trainer-showdown">Super Trainer Showdowns</option>
+                    </select>
+                </div>
+                <div class='indiv-filter'>
+                    <p class='sort-events'>Time:</p>
+                    <select id="mySelect2" onchange="filterEventsByTime()">
+                        <option value="" selected disabled hidden>Filter by Era</option>
+                        <option value="all">All</option>
+                        <optgroup label="Modern Era"></optgroup>
+                        <option value="2023">2023</option>
+                        <option value="2022">2022</option>
+                        <option value="2021">2021</option>
+                        <option value="2020">2020</option>
+                        <option value="2019">2019</option>
+                        <option value="2018">2018</option>
+                        <option value="2017">2017</option>
+                        <optgroup label="Legacy Era"></optgroup>
+                        <option value="2016">2016</option>
+                        <option value="2015">2015</option>
+                        <option value="2014">2014</option>
+                        <option value="2013">2013</option>
+                        <option value="2012">2012</option>
+                        <option value="2011">2011</option>
+                        <option value="2010">2010</option>
+                        <option value="2009">2009</option>
+                        <option value="2008">2008</option>
+                        <option value="2007">2007</option>
+                        <option value="2006">2006</option>
+                        <option value="2005">2005</option>
+                        <option value="2004">2004</option>
+                        <optgroup label="WOTC Era"></optgroup>
+                        <option value="2003">2003</option>
+                        <option value="2002">2002</option>
+                        <option value="2001">2001</option>
+                        <option value="2000">2000</option>
+                        <!-- <option value="1999">1999</option> -->
+                    </select>
+                </div>
+                <div class='indiv-filter2'>
+                    <p class='sort-events'>Order:</p>
+                    <button type="button" class='reversebutn'>Newest &nbsp;<i class='fa-solid fa-arrow-right-arrow-left'></i>&nbsp; Oldest</button>
+                </div>
+                <!-- <div class='indiv-filter'>
+                    <p class='sort-events'>Format:</p>
+                    <select id="mySelect3" onchange="filterEventsByTime()">
+                        <option value="" selected disabled hidden>Choose Format</option>
+                        <option value="151">Battle Styles - 151</option>
+                        <option value="Obf">Battle Styles - Obsidian Flame</option>
+                    </select>
+                </div> -->
+            </div>
 
             <table class='upcoming-events-table'>
-                <tr>
+                <tr style='background-color: transparent !important;'>
                     <th>Date</th>
                     <th>Event</th>
-                    <th>(click for event page)</th>
+                    <th style='transform: scale(0.9);font-style: italic;'>(click for event page)</th>
                     <th>Info<span class='hide-word'>rmation</span></th>
                     <th>Results</th>
                 </tr>
-                <tr class='regionals all-tr'>
+                <tr class='regionals all-tr year-2023'>
                     <td>Oct 21 - 22, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
                     <td>
@@ -157,11 +206,11 @@
                         <div><a href='../tournaments/regional-spe/2024/lille/results'>Lille Regionals</a></div>
                     </td>
                     <td><a href='../tournaments/regional-spe/2024/lille/results'><i
-                        class="fa-solid fa-book-open-reader"></i></a></td>
+                                class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../tournaments/regional-spe/2024/lille/results'><i
-                        class="fa-regular fa-rectangle-list"></i></a></td>
+                                class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='regional-league all-tr'>
+                <tr class='regional-league all-tr year-2023'>
                     <td>Oct 21, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/regional-league.png' /></td>
                     <td>
@@ -169,10 +218,10 @@
                         <div><a href='./regional-spe/2024/taiwan-regional-league1'>Taiwan Regional League #1</a></div>
                     </td>
                     <td><a href='../tournaments/regional-spe/2024/lille'><i
-                        class="fa-solid fa-book-open-reader"></i></a></td>
+                                class="fa-solid fa-book-open-reader"></i></a></td>
                     <td></td>
                 </tr>
-                <tr class='regionals all-tr'>
+                <tr class='regionals all-tr year-2023'>
                     <td>Oct 13 - 15, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
                     <td>
@@ -180,23 +229,24 @@
                         <div><a href='../tournaments/regional-spe/2024/sacramento'>Sacramento, CA Regionals</a></div>
                     </td>
                     <td><a href='../tournaments/regional-spe/2024/sacramento'><i
-                        class="fa-solid fa-book-open-reader"></i></a></td>
+                                class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../tournaments/regional-spe/2024/sacramento'><i
-                        class="fa-regular fa-rectangle-list"></i></a></td>
+                                class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='regional-league all-tr'>
+                <tr class='regional-league all-tr year-2023'>
                     <td>Oct 7 - 8, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/regional-league.png' /></td>
                     <td>
                         <div><img src='../assets/flags/liberia-malaysia.png' /></div>
-                        <div><a href='../tournaments/regional-spe/2024/malaysia-regional-league1'>Malaysia Regional League #1</a></div>
+                        <div><a href='../tournaments/regional-spe/2024/malaysia-regional-league1'>Malaysia Regional
+                                League #1</a></div>
                     </td>
                     <td><a href='../tournaments/regional-spe/2024/malaysia-regional-league1'><i
-                        class="fa-solid fa-book-open-reader"></i></a></td>
+                                class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../tournaments/regional-spe/2024/malaysia-regional-league1'><i
-                        class="fa-regular fa-rectangle-list"></i></a></td>
-                </tr>   
-                <tr class='regionals all-tr'>
+                                class="fa-regular fa-rectangle-list"></i></a></td>
+                </tr>
+                <tr class='regionals all-tr year-2023'>
                     <td>Oct 6 - 8, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
                     <td>
@@ -204,22 +254,23 @@
                         <div><a href='../tournaments/regional-spe/2024/peoria'>Peoria, IL Regionals</a></div>
                     </td>
                     <td><a href='../tournaments/regional-spe/2024/peoria'><i
-                        class="fa-solid fa-book-open-reader"></i></a></td>
+                                class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../tournaments/regional-spe/2024/peoria'><i
-                        class="fa-regular fa-rectangle-list"></i></a></td>
-                </tr>   
-                <tr class='regional-league all-tr'>
+                                class="fa-regular fa-rectangle-list"></i></a></td>
+                </tr>
+                <tr class='regional-league all-tr year-2023'>
                     <td>Oct 1, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/regional-league.png' /></td>
                     <td>
                         <div><img src='../assets/flags/hong-kong.png' /></div>
-                        <div><a href='../tournaments/regional-spe/2024/hongkong-regional-league1'>Hong Kong Regional League #1</a></div>
+                        <div><a href='../tournaments/regional-spe/2024/hongkong-regional-league1'>Hong Kong Regional
+                                League #1</a></div>
                     </td>
                     <td><a href='../tournaments/regional-spe/2024/hongkong-regional-league1'><i
-                        class="fa-solid fa-book-open-reader"></i></a></td>
+                                class="fa-solid fa-book-open-reader"></i></a></td>
                     <td></td>
-                </tr>   
-                <tr class='regionals all-tr'>
+                </tr>
+                <tr class='regionals all-tr year-2023'>
                     <td>Sep 23 - 24, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
                     <td>
@@ -227,12 +278,12 @@
                         <div><a href='../tournaments/regional-spe/2024/curitiba'>Curitiba Regionals</a></div>
                     </td>
                     <td><a href='../tournaments/regional-spe/2024/curitiba'><i
-                        class="fa-solid fa-book-open-reader"></i></a></td>
+                                class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../tournaments/regional-spe/2024/curitiba'><i
-                        class="fa-regular fa-rectangle-list"></i></a></td>
+                                class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
 
-                <tr class='special-event all-tr'>
+                <tr class='special-event all-tr year-2023'>
                     <td>Sep 16 - 17, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/spe.png' /></td>
                     <td>
@@ -240,23 +291,24 @@
                         <div><a href='../tournaments/regional-spe/2024/barcelona'>Barcelona Special Event</a></div>
                     </td>
                     <td><a href='../tournaments/regional-spe/2024/barcelona'><i
-                        class="fa-solid fa-book-open-reader"></i></a></td>
+                                class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../tournaments/regional-spe/2024/barcelona'><i
-                        class="fa-regular fa-rectangle-list"></i></a></td>
+                                class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='regional-league all-tr'>
+                <tr class='regional-league all-tr year-2023'>
                     <td>Sep 9 - 10, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/champions-league.png' /></td>
                     <td>
                         <div><img src='../assets/flags/japan.png' /></div>
-                        <div><a href='../tournaments/regional-spe/2024/yokohama-champions-league'>Champions League - Yokohama</a></div>
+                        <div><a href='../tournaments/regional-spe/2024/yokohama-champions-league'>Champions League -
+                                Yokohama</a></div>
                     </td>
                     <td><a href='../tournaments/regional-spe/2024/yokohama-champions-league'><i
-                        class="fa-solid fa-book-open-reader"></i></a></td>
+                                class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../tournaments/regional-spe/2024/yokohama-champions-league'><i
-                        class="fa-regular fa-rectangle-list"></i></a></td>
-                </tr>  
-                <tr class='regionals all-tr'>
+                                class="fa-regular fa-rectangle-list"></i></a></td>
+                </tr>
+                <tr class='regionals all-tr year-2023'>
                     <td>Sep 8 - 10, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
                     <td>
@@ -268,7 +320,7 @@
                     <td><a href='../tournaments/regional-spe/2024/pittsburgh'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2023'>
                     <td>Aug 11 - 13, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
                     <td>
@@ -278,7 +330,7 @@
                     <td><a href='../worlds/2023/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2023/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2023'>
                     <td>Jun 30 - Jul 2, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -290,7 +342,7 @@
                     <td><a href='../major-events/2023/naic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2023'>
                     <td>Apr 14 - 16, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -302,7 +354,7 @@
                     <td><a href='../major-events/2023/euic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2023'>
                     <td>Feb 17 - 19, 2023</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -314,7 +366,7 @@
                     <td><a href='../major-events/2023/ocic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2022'>
                     <td>Nov 25 - 27, 2022</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -326,21 +378,7 @@
                     <td><a href='../major-events/2023/laic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-
-            <!-- </table>
-        </div>
-        <div class='upcoming-events'>
-            <h2 class='featured-headers'>Older Major Events</h2>
-            <table class='upcoming-events-table'>
-                <tr>
-                    <th>Date</th>
-                    <th>Event</th>
-                    <th></th>
-                    <th>Info<span class='hide-word'>rmation</span></th>
-                    <th>Results</th>
-                </tr> -->
-               
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2022'>
                     <td>Aug 18 - 21, 2022</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
                     <td>
@@ -350,7 +388,7 @@
                     <td><a href='../worlds/2022/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2022/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2022'>
                     <td>Jun 24 - 26, 2022</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -362,7 +400,7 @@
                     <td><a href='../major-events/2022/naic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2022'>
                     <td>Apr 22 - 24, 2022</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -374,7 +412,7 @@
                     <td><a href='../major-events/2022/euic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='players-cup all-tr'>
+                <tr class='players-cup all-tr year-2021'>
                     <td>Aug 13 - 15, 2021</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/players-cup-logo.png' /></td>
                     <td>
@@ -386,7 +424,7 @@
                     <td><a href='../major-events/cups/25th/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2020'>
                     <td>Feb 21 - 23, 2020</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -398,7 +436,7 @@
                     <td><a href='../major-events/2020/ocic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2019'>
                     <td>Nov 15 - 17, 2019</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -410,7 +448,7 @@
                     <td><a href='../major-events/2020/laic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2019'>
                     <td>Aug 16 - 18, 2019</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
                     <td>
@@ -420,7 +458,7 @@
                     <td><a href='../worlds/2019/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2019/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2019'>
                     <td>Jun 21 - 23, 2019</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -432,7 +470,7 @@
                     <td><a href='../major-events/2019/naic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2019'>
                     <td>Apr 26 - 28, 2019</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -444,7 +482,7 @@
                     <td><a href='../major-events/2019/euic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2019'>
                     <td>Feb 15 - 17, 2019</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -456,7 +494,7 @@
                     <td><a href='../major-events/2019/ocic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2018'>
                     <td>Nov 16 - 18, 2018</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -468,7 +506,7 @@
                     <td><a href='../major-events/2019/laic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2018'>
                     <td>Aug 24 - 26, 2018</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
                     <td>
@@ -478,7 +516,7 @@
                     <td><a href='../worlds/2018/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2018/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2018'>
                     <td>Jul 6 - 8, 2018</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -490,7 +528,7 @@
                     <td><a href='../major-events/2018/naic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2018'>
                     <td>Apr 27 - 29, 2018</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -502,7 +540,7 @@
                     <td><a href='../major-events/2018/laic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2018'>
                     <td>Feb 9 - 11, 2018</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -514,7 +552,7 @@
                     <td><a href='../major-events/2018/ocic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2017'>
                     <td>Nov 17 - 19, 2017</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -526,7 +564,7 @@
                     <td><a href='../major-events/2018/euic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2017'>
                     <td>Aug 18 - 20, 2017</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
                     <td>
@@ -536,7 +574,7 @@
                     <td><a href='../worlds/2017/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2017/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2017'>
                     <td>Jun 30 - Jul 2, 2017</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -548,7 +586,7 @@
                     <td><a href='../major-events/2017/naic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2017'>
                     <td>Apr 21 - 23, 2017</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -560,7 +598,7 @@
                     <td><a href='../major-events/2017/laic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2017'>
                     <td>Mar 10 - 12, 2017</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -572,7 +610,7 @@
                     <td><a href='../major-events/2017/ocic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='internationals all-tr'>
+                <tr class='internationals all-tr year-2016'>
                     <td>Dec 9 - 11, 2016</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/internats-logo.png' /></td>
                     <td>
@@ -584,7 +622,7 @@
                     <td><a href='../major-events/2017/euic/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2016'>
                     <td>Aug 19 - 21, 2016</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
                     <td>
@@ -595,7 +633,7 @@
                     <td><a href='../worlds/2016/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
                 <!-- nationals -->
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2016'>
                     <td>Jul 1 - 3, 2016</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -607,7 +645,7 @@
                     <td><a href='../major-events/2016/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2016'>
                     <td>May - Jul, 2016</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -618,7 +656,7 @@
                     <td><a href='../major-events/2016/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2015'>
                     <td>Aug 21 - 23, 2015</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
                     <td>
@@ -628,7 +666,7 @@
                     <td><a href='../worlds/2015/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2015/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2015'>
                     <td>Jul 3 - 5, 2015</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -640,7 +678,7 @@
                     <td><a href='../major-events/2015/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2015'>
                     <td>May - Jun, 2015</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -651,7 +689,7 @@
                     <td><a href='../major-events/2015/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2014'>
                     <td>Aug 15 - 17, 2014</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
                     <td>
@@ -661,7 +699,7 @@
                     <td><a href='../worlds/2014/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2014/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2014'>
                     <td>Jul 4 - 6, 2014</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -673,7 +711,7 @@
                     <td><a href='../major-events/2014/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2014'>
                     <td>May - Jun, 2014</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -684,7 +722,7 @@
                     <td><a href='../major-events/2014/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2013'>
                     <td>Aug 9 - 11, 2013</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
                     <td>
@@ -694,7 +732,7 @@
                     <td><a href='../worlds/2013/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2013/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2013'>
                     <td>Jul 5 - 7, 2013</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -706,7 +744,7 @@
                     <td><a href='../major-events/2013/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2013'>
                     <td>May - Jun, 2013</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -717,7 +755,7 @@
                     <td><a href='../major-events/2013/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2012'>
                     <td>Aug 13 - 15, 2012</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
                     <td>
@@ -727,7 +765,7 @@
                     <td><a href='../worlds/2012/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2012/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2012'>
                     <td>Jun 30 - Jul 1 2012</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -739,7 +777,7 @@
                     <td><a href='../major-events/2012/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2012'>
                     <td>May - Jun, 2012</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -750,7 +788,7 @@
                     <td><a href='../major-events/2012/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2011'>
                     <td>Aug 12 - 14, 2011</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/worlds.png' /></td>
                     <td>
@@ -760,7 +798,7 @@
                     <td><a href='../worlds/2011/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2011/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2011'>
                     <td>Jul 8 - 10, 2011</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -772,7 +810,7 @@
                     <td><a href='../major-events/2011/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2011'>
                     <td>May - Jul, 2011</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo.png' /></td>
                     <td>
@@ -783,7 +821,7 @@
                     <td><a href='../major-events/2011/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2010'>
                     <td>Aug 13 - 15, 2010</td>
                     <td><img class='event-type-logo2' src='../assets/worlds-logos/2010.png' /></td>
                     <td>
@@ -793,7 +831,7 @@
                     <td><a href='../worlds/2010/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2010/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2010'>
                     <td>Jun 25 - 27, 2010</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -805,7 +843,7 @@
                     <td><a href='../major-events/2010/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2010'>
                     <td>May - Jun, 2010</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -816,7 +854,7 @@
                     <td><a href='../major-events/2010/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2009'>
                     <td>Aug 13 - 15, 2009</td>
                     <td><img class='event-type-logo2' src='../assets/worlds-logos/2009.jpg' /></td>
                     <td>
@@ -826,7 +864,7 @@
                     <td><a href='../worlds/2009/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2009/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2009'>
                     <td>Jun 27 - 28, 2009</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -838,7 +876,7 @@
                     <td><a href='../major-events/2009/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2009'>
                     <td>May - Jun, 2009</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -849,7 +887,7 @@
                     <td><a href='../major-events/2009/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2008'>
                     <td>Aug 15 - 17, 2008</td>
                     <td><img class='event-type-logo2' src='../assets/worlds-logos/2008.png' /></td>
                     <td>
@@ -859,7 +897,7 @@
                     <td><a href='../worlds/2008/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2008/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2008'>
                     <td>Jun 28 - 29, 2008</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -871,7 +909,7 @@
                     <td><a href='../major-events/2008/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2008'>
                     <td>May - Jun, 2008</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -882,7 +920,7 @@
                     <td><a href='../major-events/2008/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2007'>
                     <td>Aug 10 - 12, 2007</td>
                     <td><img class='event-type-logo2' src='../assets/worlds-logos/2007.png' /></td>
                     <td>
@@ -892,7 +930,7 @@
                     <td><a href='../worlds/2007/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2007/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2007'>
                     <td>Jul 7 - 8, 2007</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -904,7 +942,7 @@
                     <td><a href='../major-events/2007/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2007'>
                     <td>May - Jun, 2007</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -915,7 +953,7 @@
                     <td><a href='../major-events/2007/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2006'>
                     <td>Aug 18 - 20, 2006</td>
                     <td><img class='event-type-logo2' src='../assets/worlds-logos/2006.png' /></td>
                     <td>
@@ -925,7 +963,7 @@
                     <td><a href='../worlds/2006/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2006/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2006'>
                     <td>Jul 1 - 2, 2006</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -937,7 +975,7 @@
                     <td><a href='../major-events/2006/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2006'>
                     <td>May - Jun, 2006</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -948,7 +986,7 @@
                     <td><a href='../major-events/2006/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2005'>
                     <td>Aug 19 - 21, 2005</td>
                     <td><img class='event-type-logo2' src='../assets/worlds-logos/2005.png' /></td>
                     <td>
@@ -958,7 +996,7 @@
                     <td><a href='../worlds/2005/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2005/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2005'>
                     <td>Jul 2 - 3, 2005</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -970,7 +1008,7 @@
                     <td><a href='../major-events/2005/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2005'>
                     <td>May - Jun, 2005</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-nats-logo.png' /></td>
                     <td>
@@ -981,7 +1019,7 @@
                     <td><a href='../major-events/2005/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2004'>
                     <td>Aug 20 - 22, 2004</td>
                     <td><img class='event-type-logo2' src='../assets/worlds-logos/2004.png' /></td>
                     <td>
@@ -991,7 +1029,7 @@
                     <td><a href='../worlds/2004/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2004/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='stadium-challenge all-tr'>
+                <tr class='stadium-challenge all-tr year-2004'>
                     <td>Jul 17, 2004</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-stadium-challenge.png' /></td>
                     <td>
@@ -1004,7 +1042,7 @@
                     <td><a href='../major-events/2004/west-coast-stadium-challenge/results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='stadium-challenge all-tr'>
+                <tr class='stadium-challenge all-tr year-2004'>
                     <td>Jul 17, 2004</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-stadium-challenge.png' /></td>
                     <td>
@@ -1017,7 +1055,7 @@
                     <td><a href='../major-events/2004/east-coast-stadium-challenge/results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='stadium-challenge all-tr'>
+                <tr class='stadium-challenge all-tr year-2004'>
                     <td>Jul 10, 2004</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/old-stadium-challenge.png' /></td>
                     <td>
@@ -1030,7 +1068,7 @@
                     <td><a href='../major-events/2004/south-stadium-challenge/results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <!-- <tr class='stadium-challenge all-tr'>
+                <tr class='stadium-challenge all-tr year-2004'>
                     <td>Jun 2004</td>
                     <td><img class='event-type-logo2' src='../assets/nats-logos/old-stadium-challenge.png' /></td>
                     <td>
@@ -1039,8 +1077,8 @@
                     </td>
                     <td></td>
                     <td></td>
-                </tr> -->
-                <tr class='nationals all-tr'>
+                </tr>
+                <tr class='nationals all-tr year-2004'>
                     <td>Jun 26, 2004</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo-04.gif' /></td>
                     <td>
@@ -1052,7 +1090,7 @@
                     <td><a href='../major-events/2004/us-nats/results'><i class="fa-regular fa-rectangle-list"></i></a>
                     </td>
                 </tr>
-                <tr class='nationals all-tr'>
+                <tr class='nationals all-tr year-2004'>
                     <td>May - Jun, 2004</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/nats-logo-04.gif' /></td>
                     <td>
@@ -1063,7 +1101,7 @@
                     <td><a href='../major-events/2004/global-nationals-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='worlds all-tr'>
+                <tr class='worlds all-tr year-2002'>
                     <td>Aug 2 - 4, 2002</td>
                     <td><img class='event-type-logo2' src='../assets/worlds-logos/2002.png' /></td>
                     <td>
@@ -1073,7 +1111,7 @@
                     <td><a href='../worlds/2002/summary'><i class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../worlds/2002/results'><i class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <!-- <tr class='stadium-challenge all-tr'>
+                <tr class='stadium-challenge all-tr year-2002'>
                     <td>Jun 2002</td>
                     <td><img class='event-type-logo2' src='../assets/nats-logos/stadium-challenge-wotc.png' /></td>
                     <td>
@@ -1082,8 +1120,8 @@
                     </td>
                     <td></td>
                     <td></td>
-                </tr> -->
-                <tr class='stadium-challenge all-tr'>
+                </tr>
+                <tr class='stadium-challenge all-tr year-2002'>
                     <td>Jun 8, 2002</td>
                     <td><img class='event-type-logo2' src='../assets/nats-logos/stadium-challenge-wotc.png' /></td>
                     <td>
@@ -1096,7 +1134,7 @@
                     <td><a href='../major-events/2002/west-coast-stadium-challenge/results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='stadium-challenge all-tr'>
+                <tr class='stadium-challenge all-tr year-2002'>
                     <td>Apr 20, 2002</td>
                     <td><img class='event-type-logo2' src='../assets/nats-logos/stadium-challenge-wotc.png' /></td>
                     <td>
@@ -1109,7 +1147,7 @@
                     <td><a href='../major-events/2002/central-stadium-challenge/results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='stadium-challenge all-tr'>
+                <tr class='stadium-challenge all-tr year-2002'>
                     <td>Mar 16, 2002</td>
                     <td><img class='event-type-logo2' src='../assets/nats-logos/stadium-challenge-wotc.png' /></td>
                     <td>
@@ -1122,7 +1160,7 @@
                     <td><a href='../major-events/2002/east-coast-stadium-challenge/results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='super-trainer-showdown all-tr'>
+                <tr class='super-trainer-showdown all-tr year-2001'>
                     <td>Dec 1 - 2, 2001</td>
                     <td><img class='event-type-logo2' src='../assets/nats-logos/super-trainer-showdown-logo.png' /></td>
                     <td>
@@ -1135,7 +1173,7 @@
                     <td><a href='../major-events/2001/ca-super-trainer-showdown/day2-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='super-trainer-showdown all-tr'>
+                <tr class='super-trainer-showdown all-tr year-2001'>
                     <td>Jun 23 - 24, 2001</td>
                     <td><img class='event-type-logo2' src='../assets/nats-logos/super-trainer-showdown-logo.png' /></td>
                     <td>
@@ -1148,7 +1186,7 @@
                     <td><a href='../major-events/2001/nj-super-trainer-showdown/day2-results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='super-trainer-showdown all-tr'>
+                <tr class='super-trainer-showdown all-tr year-2000'>
                     <td>Nov 8, 2000</td>
                     <td><img class='event-type-logo2' src='../assets/nats-logos/super-trainer-showdown-logo.png' /></td>
                     <td>
@@ -1161,7 +1199,7 @@
                     <td><a href='../major-events/2000/nj-super-trainer-showdown/results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
                 </tr>
-                <tr class='super-trainer-showdown all-tr'>
+                <tr class='super-trainer-showdown all-tr year-2000'>
                     <td>Jul 22, 2000</td>
                     <td><img class='event-type-logo2' src='../assets/nats-logos/super-trainer-showdown-logo.png' /></td>
                     <td>
@@ -1173,6 +1211,13 @@
                                 class="fa-solid fa-book-open-reader"></i></a></td>
                     <td><a href='../major-events/2000/ca-super-trainer-showdown/results'><i
                                 class="fa-regular fa-rectangle-list"></i></a></td>
+                </tr>
+                <tr class='bottom-table-tr'>
+                    <th>Date</th>
+                    <th>Event</th>
+                    <th style='transform: scale(0.9);font-style: italic;'>(click for event page)</th>
+                    <th>Info<span class='hide-word'>rmation</span></th>
+                    <th>Results</th>
                 </tr>
             </table>
         </div>
@@ -1208,321 +1253,16 @@
             greatest game in history!</div>
     </footer>
     <script src='../darkmode/darkmode-tournaments.js'></script>
-    
+    <script src='./filter-completed-events.js'></script>
+    <script src='./filter-year.js'></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script>
-        const worlds = document.querySelectorAll(".worlds");
-        const internationals = document.querySelectorAll(".internationals");
-        const regionals = document.querySelectorAll(".regionals");
-        const regionalLeague = document.querySelectorAll(".regional-league");
-        const playersCup = document.querySelectorAll(".players-cup");
-        const nationals = document.querySelectorAll(".nationals");
-        const stadiumChallenge = document.querySelectorAll(".stadium-challenge");
-        const superTrainerShowdown = document.querySelectorAll(".super-trainer-showdown");
-        const specialEvent = document.querySelectorAll(".special-event");
-
-        function filterEvents() {
-          var x = document.getElementById("mySelect").value;
-          if (x === "all") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'table-row';
-                worlds.classList.remove('new-red-bg');
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'table-row';
-                internationals.classList.remove('new-red-bg');
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'table-row';
-                regionals.classList.remove('new-red-bg');
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-            playersCup.forEach((playersCup) => {
-                playersCup.style.display = 'table-row';
-                playersCup.classList.remove('new-red-bg');
-            });
-            nationals.forEach((nationals) => {
-                nationals.style.display = 'table-row';
-                nationals.classList.remove('new-red-bg');
-            });
-            stadiumChallenge.forEach((stadiumChallenge) => {
-                stadiumChallenge.style.display = 'table-row';
-                stadiumChallenge.classList.remove('new-red-bg');
-            });
-            superTrainerShowdown.forEach((superTrainerShowdown) => {
-                superTrainerShowdown.style.display = 'table-row';
-                superTrainerShowdown.classList.remove('new-red-bg');
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'table-row';
-                specialEvent.classList.remove('new-red-bg');
-            });
-          } else if (x === "worlds") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'table-row';
-                worlds.classList.add('new-red-bg');
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-            playersCup.forEach((playersCup) => {
-                playersCup.style.display = 'none';
-            });
-            nationals.forEach((nationals) => {
-                nationals.style.display = 'none';
-            });
-            stadiumChallenge.forEach((stadiumChallenge) => {
-                stadiumChallenge.style.display = 'none';
-            });
-            superTrainerShowdown.forEach((superTrainerShowdown) => {
-                superTrainerShowdown.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-          } else if (x === "internationals") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'table-row';
-                internationals.classList.add('new-red-bg');
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-            playersCup.forEach((playersCup) => {
-                playersCup.style.display = 'none';
-            });
-            nationals.forEach((nationals) => {
-                nationals.style.display = 'none';
-            });
-            stadiumChallenge.forEach((stadiumChallenge) => {
-                stadiumChallenge.style.display = 'none';
-            });
-            superTrainerShowdown.forEach((superTrainerShowdown) => {
-                superTrainerShowdown.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-          } else if (x === "regionals") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'table-row';
-                regionals.classList.add('new-red-bg');
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-            playersCup.forEach((playersCup) => {
-                playersCup.style.display = 'none';
-            });
-            nationals.forEach((nationals) => {
-                nationals.style.display = 'none';
-            });
-            stadiumChallenge.forEach((stadiumChallenge) => {
-                stadiumChallenge.style.display = 'none';
-            });
-            superTrainerShowdown.forEach((superTrainerShowdown) => {
-                superTrainerShowdown.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-          } else if (x === "regional-league") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'table-row';
-                regionalLeague.classList.add('new-red-bg');
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            playersCup.forEach((playersCup) => {
-                playersCup.style.display = 'none';
-            });
-            nationals.forEach((nationals) => {
-                nationals.style.display = 'none';
-            });
-            stadiumChallenge.forEach((stadiumChallenge) => {
-                stadiumChallenge.style.display = 'none';
-            });
-            superTrainerShowdown.forEach((superTrainerShowdown) => {
-                superTrainerShowdown.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-          } else if (x === "players-cup") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-            playersCup.forEach((playersCup) => {
-                playersCup.style.display = 'table-row';
-                playersCup.classList.add('new-red-bg');
-            });
-            nationals.forEach((nationals) => {
-                nationals.style.display = 'none';
-            });
-            stadiumChallenge.forEach((stadiumChallenge) => {
-                stadiumChallenge.style.display = 'none';
-            });
-            superTrainerShowdown.forEach((superTrainerShowdown) => {
-                superTrainerShowdown.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-          } else if (x === "nationals") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-            playersCup.forEach((playersCup) => {
-                playersCup.style.display = 'none';
-            });
-            nationals.forEach((nationals) => {
-                nationals.style.display = 'table-row';
-                nationals.classList.add('new-red-bg');
-            });
-            stadiumChallenge.forEach((stadiumChallenge) => {
-                stadiumChallenge.style.display = 'none';
-            });
-            superTrainerShowdown.forEach((superTrainerShowdown) => {
-                superTrainerShowdown.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-          } else if (x === "stadium-challenge") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-            playersCup.forEach((playersCup) => {
-                playersCup.style.display = 'none';
-            });
-            nationals.forEach((nationals) => {
-                nationals.style.display = 'none';
-            });
-            stadiumChallenge.forEach((stadiumChallenge) => {
-                stadiumChallenge.style.display = 'table-row';
-                stadiumChallenge.classList.add('new-red-bg');
-            });
-            superTrainerShowdown.forEach((superTrainerShowdown) => {
-                superTrainerShowdown.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-          } else if (x === "super-trainer-showdown") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-            playersCup.forEach((playersCup) => {
-                playersCup.style.display = 'none';
-            });
-            nationals.forEach((nationals) => {
-                nationals.style.display = 'none';
-            });
-            stadiumChallenge.forEach((stadiumChallenge) => {
-                stadiumChallenge.style.display = 'none';
-            });
-            superTrainerShowdown.forEach((superTrainerShowdown) => {
-                superTrainerShowdown.style.display = 'table-row';
-                superTrainerShowdown.classList.add('new-red-bg');
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'none';
-            });
-          } else if (x === "special-event") {
-            worlds.forEach((worlds) => {
-                worlds.style.display = 'none';
-            });
-            internationals.forEach((internationals) => {
-                internationals.style.display = 'none';
-            });
-            regionals.forEach((regionals) => {
-                regionals.style.display = 'none';
-            });
-            regionalLeague.forEach((regionalLeague) => {
-                regionalLeague.style.display = 'none';
-            });
-            playersCup.forEach((playersCup) => {
-                playersCup.style.display = 'none';
-            });
-            nationals.forEach((nationals) => {
-                nationals.style.display = 'none';
-            });
-            stadiumChallenge.forEach((stadiumChallenge) => {
-                stadiumChallenge.style.display = 'none';
-            });
-            superTrainerShowdown.forEach((superTrainerShowdown) => {
-                superTrainerShowdown.style.display = 'none';
-            });
-            specialEvent.forEach((specialEvent) => {
-                specialEvent.style.display = 'table-row';
-                specialEvent.classList.add('new-red-bg');
-            });
-          }
-        }
+        $(':button').on('click', function () {
+            var tbody = $('table tbody');
+            tbody.html($('tr', tbody).get().reverse());
+            $('.bottom-table-tr').css('visibility', 'visible');
+        });
     </script>
-
 </body>
 
 </html>
