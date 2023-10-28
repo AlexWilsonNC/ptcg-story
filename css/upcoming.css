@@ -349,4 +349,7 @@ table i:hover,
     .upcoming-events-table tr th:nth-of-type(2) {
         text-align: center;
     }
+    .upcoming-events {
+        margin-left: -5px;
+    }
 }
