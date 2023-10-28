@@ -116,19 +116,27 @@
 
     <div class='center-me'>
         <div class='upcoming-events'>
-            <h2 class='featured-headers'>Upcoming Major Events</h2>
-
-            <p class='sort-events'>Filter:</p>
-            <select id="mySelect" onchange="filterEvents()">
-                <option value="all">All Upcoming Events</option>
-                <!-- <option value="Newest">Newest First</option>
-                <option value="Oldest">Oldest First</option> -->
-                <option value="worlds">World Championships</option>
-                <option value="internationals">Internationals</option>
-                <option value="regionals">Regionals</option>
-                <option value="special-event">Special Events</option>
-                <option value="regional-league">Asia-Pacific Events</option>
-            </select>
+            <div class='completed-n-upcoming'>
+                <a class='completed-btn' href='./completed'>Completed</a>
+                <a class='upcoming-btn active-evt-btn' href='./upcoming'>Upcoming</a>
+            </div>
+            <div class='filters-top'>
+                <div class='indiv-filter'>
+                    <p class='sort-events'>Event Type:</p>
+                    <select id="mySelect" onchange="filterEvents()">
+                        <option value="all">All Upcoming Events</option>
+                        <option value="worlds">World Championships</option>
+                        <option value="internationals">Internationals</option>
+                        <option value="regionals">Regionals</option>
+                        <option value="special-event">Special Events</option>
+                        <option value="regional-league">Asia-Pacific Events</option>
+                            </select>
+                </div>
+                <div class='indiv-filter2'>
+                    <p class='sort-events'>Order:</p>
+                    <button type="button" class='reversebutn'>Soonest &nbsp;<i class='fa-solid fa-arrow-right-arrow-left'></i>&nbsp; Latest</button>
+                </div>
+            </div>
 
             <table class='upcoming-events-table'>
                 <tr>
@@ -138,9 +146,7 @@
                     <th style='padding-right: 8px;'>Reg<span class='hide-word'>istration</span></th>
                     <th>Info<span class='hide-word'>rmation</span></th>
                 </tr>
-                
 
-                
                 <tr class='regionals all-tr'>
                     <td>Oct 27 - 29</td>
                     <td><img class='event-type-logo2' src='../assets/event-logos/regionals.png' /></td>
@@ -429,8 +435,14 @@
                     <td><!-- <i class="fa-solid fa-arrow-up-right-from-square"></i> --></td>
                     <td><a href='../worlds/2024/summary'><i
                         class="fa-solid fa-book-open-reader"></i></a></td>
-        </tr>
-
+                </tr>
+                <tr class='bottom-table-tr'>
+                    <th>Date</th>
+                    <th>Event</th>
+                    <th style='transform: scale(0.9);font-style: italic;'>(click for event page)</th>
+                    <th>Info<span class='hide-word'>rmation</span></th>
+                    <th>Results</th>
+                </tr>
             </table>
         </div>
     </div>
@@ -583,7 +595,14 @@
         }
         }
     </script>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+        $(':button').on('click', function () {
+            var tbody = $('table tbody');
+            tbody.html($('tr', tbody).get().reverse());
+            $('.bottom-table-tr').css('visibility', 'visible');
+        });
+    </script>
 </body>
 
 </html>
