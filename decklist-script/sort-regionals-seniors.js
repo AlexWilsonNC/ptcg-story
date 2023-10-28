@@ -1,8 +1,8 @@
-const masterList = document.querySelector('.masters-ol');
+const seniorsList = document.querySelector('.seniors-ol');
 const modalBottom = document.querySelector('.modal-bottom');
 
 function displayList(array = []) {
-    masterList.innerHTML = '';
+    seniorsList.innerHTML = '';
 
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
@@ -19,7 +19,7 @@ function displayList(array = []) {
 
         let flagImg = document.createElement('img');
         flagImg.classList.add('flag-size');
-        flagImg.setAttribute('src', "../../../assets/flag-codes/" + item.flag + ".png");
+        flagImg.setAttribute('src', "../../../../assets/flag-codes/" + item.flag + ".png");
 
         let deck = document.createElement('div');
         deck.classList.add('player-deck-icons');
@@ -29,157 +29,157 @@ function displayList(array = []) {
         let secondSprite = document.createElement('img');
         secondSprite.classList.add('sprite');
         secondSprite.classList.add('second-sprite');
-        firstSprite.setAttribute('src', "../../../assets/sprites/blank.png");
-        secondSprite.setAttribute('src', "../../../assets/sprites/blank.png");
+        firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+        secondSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
 
         for (const pokemonCardInDeck in item.decklist) {
             item.decklist[pokemonCardInDeck].forEach(pokemon => {
                 if (Object.values(pokemon).includes("Comfey")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Sableye")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/comfey.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/sableye.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/sableye.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Snorlax")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Rotom V")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/snorlax.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/rotom.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/snorlax.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/rotom.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Arceus VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Gyarados VMAX")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/arceus.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/gyarados-vmax.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/gyarados-vmax.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Arceus VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Duraludon VMAX")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/arceus.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/duraludon-gmax.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/duraludon-gmax.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Arceus VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Hisuian Goodra VSTAR")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/arceus.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/goodra-hisui.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/goodra-hisui.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Charizard ex")) {
-                    firstSprite.setAttribute('src', "../../../assets/sprites/blank.png");
-                    secondSprite.setAttribute('src', "../../../assets/sprites/charizard.png");
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/charizard.png");
                 }
                 if (Object.values(pokemon).includes("Mew VMAX")) {
-                    firstSprite.setAttribute('src', "../../../assets/sprites/mew-vmax.png");
-                    secondSprite.setAttribute('src', "../../../assets/sprites/genesect.png");
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/mew-vmax.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/genesect.png");
                 }
                 if (Object.values(pokemon).includes("Lugia VSTAR")) {
-                    firstSprite.setAttribute('src', "../../../assets/sprites/lugia.png");
-                    secondSprite.setAttribute('src', "../../../assets/sprites/archeops.png");
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/lugia.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/archeops.png");
                 }
                 if (Object.values(pokemon).includes("Gardevoir ex")) {
-                    firstSprite.setAttribute('src', "../../../assets/sprites/blank.png");
-                    secondSprite.setAttribute('src', "../../../assets/sprites/gardevoir.png");
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/gardevoir.png");
                 }
                 if (Object.values(pokemon).includes("Baxcalibur")) {
-                    firstSprite.setAttribute('src', "../../../assets/sprites/chien-pao.png");
-                    secondSprite.setAttribute('src', "../../../assets/sprites/baxcalibur.png");
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/chien-pao.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/baxcalibur.png");
                 }
                 if (Object.values(pokemon).includes("Kyogre")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Comfey")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/kyogre.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/comfey.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/kyogre.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Comfey")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Radiant Charizard")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/charizard-shiny.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/comfey.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/charizard-shiny.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Miraidon ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Flaaffy")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/miraidon.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/flaaffy.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/miraidon.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/flaaffy.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Comfey")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Giratina VSTAR")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/giratina-origin.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/comfey.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/giratina-origin.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Chien-Pao ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Origin Forme Palkia VSTAR")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/palkia-origin.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/chien-pao.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/palkia-origin.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/chien-pao.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Inteleon VMAX")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Rapid Strike Urshifu VMAX")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/inteleon-vmax.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/urshifu-rapid-strike-gmax.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/inteleon-vmax.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/urshifu-rapid-strike-gmax.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Arceus VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Charizard ex")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/charizard.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/arceus.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/charizard.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Charizard ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Pidgeot ex")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/charizard.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/pidgeot.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/charizard.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/pidgeot.png");
                         } else if (Object.values(pokemon).includes("Comfey")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/charizard.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/comfey.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/charizard.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
                         }
                     })
                 }
                 if (Object.values(pokemon).includes("Arceus VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Flying Pikachu VMAX")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/arceus.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/pikachu-gmax.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/pikachu-gmax.png");
                         } else if (Object.values(pokemon).includes("Umbreon VMAX")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/arceus.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/umbreon-vmax.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/umbreon-vmax.png");
                         } else if (Object.values(pokemon).includes("Giratina VSTAR")) {
-                            firstSprite.setAttribute('src', "../../../assets/sprites/arceus.png");
-                            secondSprite.setAttribute('src', "../../../assets/sprites/giratina-origin.png");
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/giratina-origin.png");
                         }
                     })
                 }
 
                 // if (!item.decklist) {
-                //     firstSprite.setAttribute('src', "../../../assets/sprites/blank.png");
-                //     secondSprite.setAttribute('src', "../../../assets/hyphen.png");   
-                //     listIcon.setAttribute('src', "../../../sprites/blank.png");   
+                //     firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                //     secondSprite.setAttribute('src', "../../../../assets/hyphen.png");   
+                //     listIcon.setAttribute('src', "../../../../sprites/blank.png");   
                 // }
             })
         }
@@ -195,7 +195,7 @@ function displayList(array = []) {
         if (item.decklist) {
             let listIcon = document.createElement('img');
             listIcon.classList.add('list-icon');
-            listIcon.setAttribute('src', "../../../assets/list-icon.png");
+            listIcon.setAttribute('src', "../../../../assets/list-icon.png");
             deck.appendChild(listIcon);
 
             item_element.addEventListener('click', function () {
@@ -250,35 +250,35 @@ function displayList(array = []) {
                         };
 
                         if (card.name === "Grass Energy - Basic") {
-                            pokeCard.setAttribute('src', "../../../assets/cards/new-energy/scvi-grass-energy.jpg");
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-grass-energy.jpg");
                             pokeCard.classList.add('radius-card');
                         }
                         if (card.name === "Water Energy - Basic") {
-                            pokeCard.setAttribute('src', "../../../assets/cards/new-energy/scvi-water-energy.jpg");
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-water-energy.jpg");
                             pokeCard.classList.add('radius-card');
                         }
                         if (card.name === "Lightning Energy - Basic") {
-                            pokeCard.setAttribute('src', "../../../assets/cards/new-energy/scvi-lightning-energy.jpg");
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-lightning-energy.jpg");
                             pokeCard.classList.add('radius-card');
                         }
                         if (card.name === "Fire Energy - Basic") {
-                            pokeCard.setAttribute('src', "../../../assets/cards/new-energy/scvi-fire-energy.jpg");
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-fire-energy.jpg");
                             pokeCard.classList.add('radius-card');
                         }
                         if (card.name === "Psychic Energy - Basic") {
-                            pokeCard.setAttribute('src', "../../../assets/cards/new-energy/scvi-psychic-energy.jpg");
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-psychic-energy.jpg");
                             pokeCard.classList.add('radius-card');
                         }
                         if (card.name === "Fighting Energy - Basic") {
-                            pokeCard.setAttribute('src', "../../../assets/cards/new-energy/scvi-fighting-energy.jpg");
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-fighting-energy.jpg");
                             pokeCard.classList.add('radius-card');
                         }
                         if (card.name === "Metal Energy - Basic") {
-                            pokeCard.setAttribute('src', "../../../assets/cards/new-energy/scvi-metal-energy.jpg");
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-metal-energy.jpg");
                             pokeCard.classList.add('radius-card');
                         }
                         if (card.name === "Dark Energy - Basic") {
-                            pokeCard.setAttribute('src', "../../../assets/cards/new-energy/scvi-dark-energy.jpg");
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-dark-energy.jpg");
                             pokeCard.classList.add('radius-card');
                         }
                         if (deck.radiusCard === true) {
@@ -287,7 +287,7 @@ function displayList(array = []) {
 
                         let numberCounter = document.createElement('img');
                         numberCounter.classList.add('num-1')
-                        numberCounter.setAttribute('src', "../../../assets/card-count/" + card.count + ".png");
+                        numberCounter.setAttribute('src', "../../../../assets/card-count/" + card.count + ".png");
 
                         cardSpace.appendChild(pokeCard);
                         cardSpace.appendChild(numberCounter);
@@ -314,7 +314,7 @@ function displayList(array = []) {
 
             })
         }
-        masterList.appendChild(item_element);
+        seniorsList.appendChild(item_element);
     }
 }
 
@@ -322,4 +322,4 @@ const modal = document.querySelector('.modal');
 const modalX = document.querySelector('.modal-x');
 const behind = document.querySelector('.behind-modal');
 
-displayList(masters);
+displayList(seniors);
