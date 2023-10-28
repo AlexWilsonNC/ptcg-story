@@ -307,9 +307,6 @@ table i:hover,
     }
 }
 @media screen and (max-width: 500px) {
-    .filters-top {
-        justify-content: space-around;
-    }
     #mySelect,
     #mySelect2 {
         width: 100px;
@@ -328,20 +325,13 @@ table i:hover,
     .indiv-filter2 {
         margin-top: -5px;
     }
-    .completed-n-upcoming {
-        margin-top: -10px;
-        margin-left: -16px;
-    }
-    .completed-n-upcoming {
-        padding: 10px 10px 10px 25px;
-    }
     .completed-n-upcoming a {
         font-size: 12px;
     }
     .completed-btn {
         margin-right: 15px;
         border-radius: 7px;
-        margin-left: 2px;
+        margin-left: 15px;
     }
     .upcoming-btn {
         border-radius: 7px;
