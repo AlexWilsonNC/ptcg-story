@@ -114,7 +114,6 @@
 .upcoming-events-table td:nth-of-type(1) {
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-    padding: 0px 15px;
 }
 .upcoming-events-table td:nth-of-type(5) {
     border-top-right-radius: 10px;
@@ -229,10 +228,6 @@ table i:hover,
         margin-right: 6px;
         width: 15px;
     }
-    .upcoming-events-table tr th:nth-of-type(4),
-    .upcoming-events-table tr td:nth-of-type(4) {
-        text-align: start;
-}
 }
 @media screen and (max-width: 900px) {
     .upcoming-events-table {
