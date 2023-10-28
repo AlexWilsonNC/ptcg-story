@@ -124,7 +124,8 @@
                 <div class='indiv-filter'>
                     <p class='sort-events'>Event Type:</p>
                     <select id="mySelect" onchange="filterEvents()">
-                        <option value="all">All Upcoming Events</option>
+                        <option value="" selected disabled hidden>Filter by Event</option>
+                        <option value="all">All</option>
                         <option value="worlds">World Championships</option>
                         <option value="internationals">Internationals</option>
                         <option value="regionals">Regionals</option>
@@ -142,7 +143,7 @@
                 <tr>
                     <th>Date</th>
                     <th>Event</th>
-                    <th>(click for event page)</th>
+                    <th style='transform: scale(0.9);font-style: italic;'>(click for event page)</th>
                     <th style='padding-right: 8px;'>Reg<span class='hide-word'>istration</span></th>
                     <th>Info<span class='hide-word'>rmation</span></th>
                 </tr>
