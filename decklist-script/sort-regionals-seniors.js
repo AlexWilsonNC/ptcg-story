@@ -150,6 +150,14 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Ting-Lu ex")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Koraidon ex")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/ting-lu.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/koraidon.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Charizard ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Pidgeot ex")) {
@@ -172,6 +180,9 @@ function displayList(array = []) {
                         } else if (Object.values(pokemon).includes("Giratina VSTAR")) {
                             firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
                             secondSprite.setAttribute('src', "../../../../assets/sprites/giratina-origin.png");
+                        } else if (Object.values(pokemon).includes("Alolan Vulpix VSTAR")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/vulpix-alola.png");
                         }
                     })
                 }
@@ -202,7 +213,7 @@ function displayList(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + "<br><i>" + item.event + "</i>";
+                document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + "<br><i>" + item.event + " " + "- Seniors</i>";
 
                 item.decklist.pokemon.sort((a, b) => b.count - a.count);
                 item.decklist.trainer.sort((a, b) => b.count - a.count);
