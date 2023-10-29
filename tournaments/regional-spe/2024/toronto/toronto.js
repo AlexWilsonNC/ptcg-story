@@ -4,35 +4,39 @@ let masters = [
         flag: '../../../../assets/flags/usa.png',
         sprite1: '../../../../assets/sprites/miraidon.png',
         sprite2: '../../../../assets/sprites/flaaffy.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "event": "2024 Toronto Regionals",
-        // "decklist": {
-        //     "pokemon": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "trainer": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "energy": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ]
-        // }
+        list: '../../../../assets/list-icon.png',
+        "decklist":
+        {
+            "pokemon": [
+                { "count": 3, "name": "Miraidon ex", "number": "81", "set": "SVI" },
+                { "count": 2, "name": "Raikou V", "number": "48", "set": "BRS" },
+                { "count": 1, "name": "Raichu V", "number": "45", "set": "BRS" },
+                { "count": 2, "name": "Flaaffy", "number": "55", "set": "EVS" },
+                { "count": 2, "name": "Mareep", "number": "54", "set": "EVS" },
+                { "count": 1, "name": "Flying Pikachu V", "number": "6", "set": "CEL" }, 
+                { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
+                { "count": 1, "name": "Zapdos", "number": "29", "set": "PGO" }, 
+                { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" }
+            ], "trainer": [
+                { "count": 4, "name": "Professor's Research", "number": "189", "set": "SVI" },
+                { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 2, "name": "Arven", "number": "186", "set": "OBF" },
+                { "count": 2, "name": "Judge", "number": "176", "set": "SVI" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 4, "name": "Electric Generator", "number": "170", "set": "SVI" },
+                { "count": 3, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" }, 
+                { "count": 2, "name": "Bravery Charm", "number": "173", "set": "PAL" },
+                { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+                { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
+            ], "energy": [
+                { "count": 13, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" }
+            ]
+        },
     },
     {
         firstName: "Demetris Eaton",
@@ -109,35 +113,43 @@ let masters = [
         flag: '../../../../assets/flags/usa.png',
         sprite1: '../../../../assets/sprites/lugia.png',
         sprite2: '../../../../assets/sprites/archeops.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
-        // "decklist": {
-        //     "pokemon": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "trainer": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "energy": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ]
-        // }
+        "decklist":
+        {
+            "pokemon": [
+                { "count": 3, "name": "Lugia VSTAR", "number": "139", "set": "SIT" },
+                { "count": 4, "name": "Lugia V", "number": "138", "set": "SIT" },
+                { "count": 4, "name": "Archeops", "number": "147", "set": "SIT" },
+                { "count": 2, "name": "Tyranitar V", "number": "109", "set": "PR-SW" },
+                { "count": 2, "name": "Lumineon V", "number": "250", "set": "PR-SW" },
+                { "count": 1, "name": "Single Strike Urshifu VMAX", "number": "86", "set": "BST" },
+                { "count": 1, "name": "Single Strike Urshifu V", "number": "85", "set": "BST" },
+                { "count": 1, "name": "Stonjourner", "number": "84", "set": "BST" },
+                { "count": 1, "name": "Radiant Tsareena", "number": "16", "set": "SIT" },
+                { "count": 1, "name": "Pumpkaboo", "number": "76", "set": "EVS" },
+            ],
+            "trainer":
+                [
+                    { "count": 4, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                    { "count": 3, "name": "Professor's Research", "number": "189", "set": "SVI" },
+                    { "count": 3, "name": "Iono", "number": "185", "set": "PAL" },
+                    { "count": 1, "name": "Professor Burnet", "number": "167", "set": "PR-SW" },
+                    { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                    { "count": 4, "name": "Capturing Aroma", "number": "153", "set": "SIT" },
+                    { "count": 3, "name": "Urn of Vitality", "number": "139", "set": "BST" },
+                    { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                    { "count": 2, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
+                    { "count": 1, "name": "Mesagoza", "number": "178", "set": "SVI" },
+                ],
+            "energy":
+                [
+                    { "count": 4, "name": "Single Strike Energy - Special", "number": "141", "set": "BST" },
+                    { "count": 3, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
+                    { "count": 3, "name": "Gift Energy - Special", "number": "171", "set": "LOR" },
+                    { "count": 3, "name": "V Guard Energy - Special", "number": "169", "set": "SIT" },
+                ]
+        },
     },
     {
         firstName: "Hermanni Hietalahti",
@@ -146,40 +158,42 @@ let masters = [
         sprite2: '../../../../assets/sprites/comfey.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
-        "decklist": 
-        { "pokemon": [
-        { "count": 2, "name": "Hisuian Goodra VSTAR", "number": "136", "set": "LOR" },
-        { "count": 2, "name": "Hisuian Goodra V", "number": "135", "set": "LOR" },
-        { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
-        { "count": 2, "name": "Sableye", "number": "70", "set": "LOR" }, 
-        { "count": 1, "name": "Cramorant", "number": "50", "set": "LOR" }, 
-        { "count": 1, "name": "Zamazenta", "number": "97", "set": "CRZ" }, 
-        { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" }, 
-        { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" }, 
-        { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" }, 
-      ], 
-      "trainer": [
-        { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
-        { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" }, 
-        { "count": 1, "name": "Roxanne", "number": "150", "set": "ASR" }, 
-        { "count": 1, "name": "Raihan", "number": "140", "set": "CRZ" }, 
-        { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" }, 
-        { "count": 4, "name": "Mirage Gate", "number": "163", "set": "LOR" },
-        { "count": 4, "name": "Switch Cart", "number": "154", "set": "ASR" }, 
-        { "count": 3, "name": "Super Rod", "number": "188", "set": "PAL" }, 
-        { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" }, 
-        { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" }, 
-        { "count": 2, "name": "Pokegear 3.0", "number": "186", "set": "SVI" }, 
-        { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" }, 
-        { "count": 1, "name": "Ultra Ball", "number": "196", "set": "SVI" }, 
-        { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" }, 
-      ], "energy": [
-        { "count": 4, "name": "Metal Energy - Basic", "number": "159", "set": "CRZ" },
-        { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-        { "count": 2, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" }, 
-        { "count": 3, "name": "Jet Energy - Special", "number": "190", "set": "PAL" }, 
-      ] }, 
-          },
+        "decklist":
+        {
+            "pokemon": [
+                { "count": 2, "name": "Hisuian Goodra VSTAR", "number": "136", "set": "LOR" },
+                { "count": 2, "name": "Hisuian Goodra V", "number": "135", "set": "LOR" },
+                { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
+                { "count": 2, "name": "Sableye", "number": "70", "set": "LOR" },
+                { "count": 1, "name": "Cramorant", "number": "50", "set": "LOR" },
+                { "count": 1, "name": "Zamazenta", "number": "97", "set": "CRZ" },
+                { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+                { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+                { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
+                { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 1, "name": "Roxanne", "number": "150", "set": "ASR" },
+                { "count": 1, "name": "Raihan", "number": "140", "set": "CRZ" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Mirage Gate", "number": "163", "set": "LOR" },
+                { "count": 4, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 3, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 2, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
+                { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 1, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" },
+            ], "energy": [
+                { "count": 4, "name": "Metal Energy - Basic", "number": "159", "set": "CRZ" },
+                { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
+                { "count": 2, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
+                { "count": 3, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
+            ]
+        },
+    },
     {
         firstName: "Jake Riggs",
         flag: '../../../../assets/flags/usa.png',
