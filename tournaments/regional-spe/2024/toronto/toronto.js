@@ -6,6 +6,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/flaaffy.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
+        "placing": 1,
         "decklist":
         {
             "pokemon": [
@@ -47,6 +48,7 @@ let masters = [
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
+        "placing": 2,
         // "decklist": {
         //     "pokemon": [
         //         {
@@ -82,6 +84,7 @@ let masters = [
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
+        "placing": 3,
         // "decklist": {
         //     "pokemon": [
         //         {
@@ -116,6 +119,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/archeops.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
+        "placing": 4,
         "decklist":
         {
             "pokemon": [
@@ -159,6 +163,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/comfey.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
+        "placing": 5,
         "decklist":
         {
             "pokemon": [
@@ -202,6 +207,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/baxcalibur.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
+        "placing": 6,
         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "Chien-Pao ex", "number": "61", "set": "PAL" },
@@ -237,6 +243,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/baxcalibur.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
+        "placing": 7,
         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "Chien-Pao ex", "number": "61", "set": "PAL" },
@@ -270,35 +277,42 @@ let masters = [
         flag: '../../../../assets/flags/usa.png',
         sprite1: '../../../../assets/sprites/comfey.png',
         sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
-        // "decklist": {
-        //     "pokemon": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "trainer": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "energy": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ]
-        // }
+        "placing": 8,
+        "decklist": {
+            "pokemon": [
+                { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
+                { "count": 2, "name": "Sableye", "number": "70", "set": "LOR" },
+                { "count": 1, "name": "Cramorant", "number": "50", "set": "LOR" },
+                { "count": 1, "name": "Dragonite V", "number": "154", "set": "PR-SW" },
+                { "count": 1, "name": "Raikou V", "number": "48", "set": "BRS" },
+                { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+                { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+                { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" }, 
+            ], "trainer": [
+                { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
+                { "count": 1, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 1, "name": "Klara", "number": "145", "set": "CRE" }, 
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Mirage Gate", "number": "163", "set": "LOR" },
+                { "count": 4, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 4, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 3, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 3, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 3, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" }, 
+                { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
+                { "count": 1, "name": "Echoing Horn", "number": "136", "set": "CRE" },
+                { "count": 2, "name": "Bravery Charm", "number": "173", "set": "PAL" }, 
+                { "count": 2, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 1, "name": "Town Store", "number": "196", "set": "OBF" }, 
+            ], "energy": [
+                { "count": 4, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
+                { "count": 3, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
+                { "count": 2, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" },
+            ]
+        },
     },
     {
         firstName: "Christian LaBella",
@@ -307,6 +321,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/duraludon-gmax.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
+        "placing": 9,
         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "Arceus VSTAR", "number": "123", "set": "BRS" },
@@ -348,6 +363,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/archeops.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
+        "placing": 10,
         "decklist":
         {
             "pokemon": [
@@ -391,6 +407,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/urshifu-rapid-strike-gmax.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
+        "placing": 11,
         "decklist":
         {
             "pokemon": [
@@ -435,6 +452,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/sableye.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
+        "placing": 12,
         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
@@ -474,6 +492,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/baxcalibur.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
+        "placing": 13,
         "decklist":
         {
             "pokemon": [
@@ -511,6 +530,7 @@ let masters = [
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
+        "placing": 14,
         // "decklist": {
         //     "pokemon": [
         //         {
@@ -545,6 +565,7 @@ let masters = [
         sprite2: '../../../../assets/sprites/gardevoir.png',
         list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
+        "placing": 15,
         "decklist": {
             "pokemon": [
                 { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
@@ -584,6 +605,7 @@ let masters = [
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
+        "placing": 16,
         // "decklist": {
         //     "pokemon": [
         //         {
