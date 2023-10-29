@@ -34,6 +34,14 @@ function displayList(array = []) {
 
         for (const pokemonCardInDeck in item.decklist) {
             item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                if (Object.values(pokemon).includes("Hisuian Goodra VSTAR")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Comfey")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/goodra-hisui.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Comfey")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Sableye")) {
@@ -50,6 +58,22 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Regigigas")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Regidrago")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/regigigas.png");
+                        }
+                    })
+                }
+                if (Object.values(pokemon).includes("Hisuian Zoroark VSTAR")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Gengar")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/zoroark-hisui.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/gengar.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Arceus VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Gyarados VMAX")) {
@@ -63,14 +87,6 @@ function displayList(array = []) {
                         if (Object.values(pokemon).includes("Duraludon VMAX")) {
                             firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
                             secondSprite.setAttribute('src', "../../../../assets/sprites/duraludon-gmax.png");
-                        }
-                    })
-                }
-                if (Object.values(pokemon).includes("Arceus VSTAR")) {
-                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
-                        if (Object.values(pokemon).includes("Hisuian Goodra VSTAR")) {
-                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
-                            secondSprite.setAttribute('src', "../../../../assets/sprites/goodra-hisui.png");
                         }
                     })
                 }
@@ -111,6 +127,10 @@ function displayList(array = []) {
                     })
                 }
                 if (Object.values(pokemon).includes("Miraidon ex")) {
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/miraidon.png");
+                }
+                if (Object.values(pokemon).includes("Miraidon ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Flaaffy")) {
                             firstSprite.setAttribute('src', "../../../../assets/sprites/miraidon.png");
@@ -147,22 +167,6 @@ function displayList(array = []) {
                         if (Object.values(pokemon).includes("Charizard ex")) {
                             firstSprite.setAttribute('src', "../../../../assets/sprites/charizard.png");
                             secondSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
-                        }
-                    })
-                }
-                if (Object.values(pokemon).includes("Regigigas")) {
-                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
-                        if (Object.values(pokemon).includes("Regidrago")) {
-                            firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
-                            secondSprite.setAttribute('src', "../../../../assets/sprites/regigigas.png");
-                        }
-                    })
-                }
-                if (Object.values(pokemon).includes("Hisuian Zoroark VSTAR")) {
-                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
-                        if (Object.values(pokemon).includes("Gengar")) {
-                            firstSprite.setAttribute('src', "../../../../assets/sprites/zoroark-hisui.png");
-                            secondSprite.setAttribute('src', "../../../../assets/sprites/gengar.png");
                         }
                     })
                 }

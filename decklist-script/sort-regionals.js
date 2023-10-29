@@ -34,6 +34,14 @@ function displayList(array = []) {
 
         for (const pokemonCardInDeck in item.decklist) {
             item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                if (Object.values(pokemon).includes("Hisuian Goodra VSTAR")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Comfey")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/goodra-hisui.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Comfey")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Sableye")) {
@@ -82,14 +90,6 @@ function displayList(array = []) {
                         }
                     })
                 }
-                if (Object.values(pokemon).includes("Arceus VSTAR")) {
-                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
-                        if (Object.values(pokemon).includes("Hisuian Goodra VSTAR")) {
-                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
-                            secondSprite.setAttribute('src', "../../../../assets/sprites/goodra-hisui.png");
-                        }
-                    })
-                }
                 if (Object.values(pokemon).includes("Charizard ex")) {
                     firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
                     secondSprite.setAttribute('src', "../../../../assets/sprites/charizard.png");
@@ -125,6 +125,10 @@ function displayList(array = []) {
                             secondSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
                         }
                     })
+                }
+                if (Object.values(pokemon).includes("Miraidon ex")) {
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/miraidon.png");
                 }
                 if (Object.values(pokemon).includes("Miraidon ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {

@@ -1,10 +1,11 @@
 let masters = [
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -35,10 +36,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -69,10 +71,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -103,10 +106,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -137,10 +141,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -171,10 +176,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -205,10 +211,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -239,10 +246,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -273,10 +281,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -307,10 +316,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -341,10 +351,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -375,10 +386,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -409,10 +421,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -443,10 +456,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -477,10 +491,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
@@ -511,10 +526,11 @@ let masters = [
     },
     {
         firstName: "--",
-        flag: '../../../assets/flags/unknown.png',
-        sprite1: '../../../assets/sprites/blank.png',
-        sprite2: '../../../assets/sprites/blank.png',
-        list: '../../../assets/list-icon.png',
+        flag: '../../../../assets/flags/unknown.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
         // "decklist": {
         //     "pokemon": [
