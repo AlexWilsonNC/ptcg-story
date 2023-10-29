@@ -70,10 +70,10 @@ let masters = [
         // }
     },
     {
-        firstName: "--",
-        flag: '../../../../assets/flags/unknown.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        firstName: "Azul Griego",
+        flag: '../../../../assets/flags/usa.png',
+        sprite1: '../../../../assets/sprites/charizard.png',
+        sprite2: '../../../../assets/sprites/pidgeot.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
