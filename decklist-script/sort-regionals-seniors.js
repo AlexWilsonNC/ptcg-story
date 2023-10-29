@@ -150,6 +150,22 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Regigigas")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Regidrago")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/regigigas.png");
+                        }
+                    })
+                }
+                if (Object.values(pokemon).includes("Hisuian Zoroark VSTAR")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Gengar")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/zoroark-hisui.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/gengar.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Ting-Lu ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Koraidon ex")) {
