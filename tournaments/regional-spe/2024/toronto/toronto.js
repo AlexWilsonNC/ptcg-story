@@ -1,9 +1,9 @@
 let masters = [
     {
-        firstName: "--",
-        flag: '../../../../assets/flags/unknown.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        firstName: "JW Kriewall",
+        flag: '../../../../assets/flags/usa.png',
+        sprite1: '../../../../assets/sprites/miraidon.png',
+        sprite2: '../../../../assets/sprites/flaaffy.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
@@ -35,10 +35,10 @@ let masters = [
         // }
     },
     {
-        firstName: "--",
-        flag: '../../../../assets/flags/unknown.png',
+        firstName: "Demetris Eaton",
+        flag: '../../../../assets/flags/uk.png',
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/gardevoir.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
