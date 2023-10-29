@@ -45,36 +45,38 @@ let masters = [
         flag: '../../../../assets/flags/uk.png',
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/gardevoir.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
         "placing": 2,
-        // "decklist": {
-        //     "pokemon": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "trainer": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "energy": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ]
-        // }
+        "decklist": {
+            "pokemon": [
+                { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
+                { "count": 2, "name": "Gardevoir", "number": "61", "set": "CRE" },
+                { "count": 3, "name": "Kirlia", "number": "68", "set": "SIT" },
+                { "count": 1, "name": "Kirlia", "number": "60", "set": "CRE" },
+                { "count": 4, "name": "Ralts", "number": "60", "set": "ASR" },
+                { "count": 1, "name": "Zacian V", "number": "16", "set": "CEL" },
+                { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
+                { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
+                { "count": 1, "name": "Cresselia", "number": "74", "set": "LOR" },
+                { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+                { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+            ], "trainer": [
+                { "count": 4, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 2, "name": "Worker", "number": "167", "set": "SIT" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Fog Crystal", "number": "140", "set": "CRE" },
+                { "count": 4, "name": "Level Ball", "number": "129", "set": "BST" },
+                { "count": 3, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 3, "name": "Rare Candy", "number": "191", "set": "SVI" },
+                { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 2, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
+            ], "energy": [
+                { "count": 10, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
+                { "count": 2, "name": "Reversal Energy - Special", "number": "192", "set": "PAL" },
+            ]
+        },
     },
     {
         firstName: "Azul Griego",
@@ -559,7 +561,7 @@ let masters = [
         // }
     },
     {
-        firstName: "Iann Robb",
+        firstName: "Ian Robb",
         flag: '../../../../assets/flags/usa.png',
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/gardevoir.png',
