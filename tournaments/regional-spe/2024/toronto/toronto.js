@@ -140,39 +140,80 @@ let masters = [
         // }
     },
     {
-        firstName: "--",
-        flag: '../../../../assets/flags/unknown.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        firstName: "Hermanni Hietalahti",
+        flag: '../../../../assets/flags/finland.png',
+        sprite1: '../../../../assets/sprites/goodra-hisui.png',
+        sprite2: '../../../../assets/sprites/comfey.png',
+        list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
-        // "decklist": {
-        //     "pokemon": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "trainer": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "energy": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ]
-        // }
+        "decklist": 
+        { "pokemon": [
+        { "count": 2, "name": "Hisuian Goodra VSTAR", "number": "136", "set": "LOR" },
+        { "count": 2, "name": "Hisuian Goodra V", "number": "135", "set": "LOR" },
+        { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
+        { "count": 2, "name": "Sableye", "number": "70", "set": "LOR" }, 
+        { "count": 1, "name": "Cramorant", "number": "50", "set": "LOR" }, 
+        { "count": 1, "name": "Zamazenta", "number": "97", "set": "CRZ" }, 
+        { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" }, 
+        { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" }, 
+        { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" }, 
+      ], 
+      "trainer": [
+        { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
+        { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" }, 
+        { "count": 1, "name": "Roxanne", "number": "150", "set": "ASR" }, 
+        { "count": 1, "name": "Raihan", "number": "140", "set": "CRZ" }, 
+        { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" }, 
+        { "count": 4, "name": "Mirage Gate", "number": "163", "set": "LOR" },
+        { "count": 4, "name": "Switch Cart", "number": "154", "set": "ASR" }, 
+        { "count": 3, "name": "Super Rod", "number": "188", "set": "PAL" }, 
+        { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" }, 
+        { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" }, 
+        { "count": 2, "name": "Pokegear 3.0", "number": "186", "set": "SVI" }, 
+        { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" }, 
+        { "count": 1, "name": "Ultra Ball", "number": "196", "set": "SVI" }, 
+        { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" }, 
+      ], "energy": [
+        { "count": 4, "name": "Metal Energy - Basic", "number": "159", "set": "CRZ" },
+        { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
+        { "count": 2, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" }, 
+        { "count": 3, "name": "Jet Energy - Special", "number": "190", "set": "PAL" }, 
+      ] }, 
+          },
+    {
+        firstName: "Jake Riggs",
+        flag: '../../../../assets/flags/usa.png',
+        sprite1: '../../../../assets/sprites/chien-pao.png',
+        sprite2: '../../../../assets/sprites/baxcalibur.png',
+        list: '../../../../assets/list-icon.png',
+        "event": "2024 Toronto Regionals",
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "Chien-Pao ex", "number": "61", "set": "PAL" },
+                { "count": 2, "name": "Baxcalibur", "number": "60", "set": "PAL" },
+                { "count": 2, "name": "Frigibax", "number": "57", "set": "PAL" },
+                { "count": 1, "name": "Frigibax", "number": "58", "set": "PAL" },
+                { "count": 2, "name": "Bibarel", "number": "121", "set": "BRS" },
+                { "count": 2, "name": "Bidoof", "number": "111", "set": "CRZ" },
+                { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+                { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+            ], "trainer": [
+                { "count": 4, "name": "Irida", "number": "147", "set": "ASR" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 4, "name": "Superior Energy Retrieval", "number": "189", "set": "PAL" },
+                { "count": 4, "name": "Cross Switcher", "number": "230", "set": "FST" },
+                { "count": 3, "name": "Rare Candy", "number": "191", "set": "SVI" },
+                { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 2, "name": "Canceling Cologne", "number": "136", "set": "ASR" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 4, "name": "PokeStop", "number": "68", "set": "PGO" },
+            ], "energy": [
+                { "count": 9, "name": "Water Energy - Basic", "number": "231", "set": "CRE" }
+            ]
+        },
     },
     {
         firstName: "Grant Shen",
@@ -210,45 +251,10 @@ let masters = [
         },
     },
     {
-        firstName: "--",
-        flag: '../../../../assets/flags/unknown.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "event": "2024 Toronto Regionals",
-        // "decklist": {
-        //     "pokemon": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "trainer": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "energy": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ]
-        // }
-    },
-    {
-        firstName: "--",
-        flag: '../../../../assets/flags/unknown.png',
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        firstName: "Dylan Gunn",
+        flag: '../../../../assets/flags/usa.png',
+        sprite1: '../../../../assets/sprites/comfey.png',
+        sprite2: '../../../../assets/sprites/sableye.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "event": "2024 Toronto Regionals",
