@@ -5,6 +5,7 @@ let masters = [
         sprite1: '../../../../assets/sprites/miraidon.png',
         sprite2: '../../../../assets/sprites/flaaffy.png',
         list: '../../../../assets/list-icon.png',
+        "event": "2024 Toronto Regionals",
         "decklist":
         {
             "pokemon": [
