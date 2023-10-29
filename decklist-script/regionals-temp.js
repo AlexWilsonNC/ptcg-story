@@ -98,6 +98,42 @@ function displayList(array = []) {
                             zoombox.className = "";
                         };
 
+                        if (card.name === "Grass Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-grass-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Water Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-water-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Lightning Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-lightning-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Fire Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-fire-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Psychic Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-psychic-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Fighting Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-fighting-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Metal Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-metal-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Dark Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-dark-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (deck.radiusCard === true) {
+                            pokeCard.classList.add('radius-card')
+                        }
+
                         let numberCounter = document.createElement('img');
                         numberCounter.classList.add('num-1')
                         numberCounter.setAttribute('src', "../../../../assets/card-count/" + card.count + ".png");
