@@ -359,7 +359,7 @@
 .deck-description p:nth-child(1) {
     margin-bottom: 10px;
     font-style: italic;
-    color:rgb(224, 160, 22);
+    color:white;
     text-align: center;
 }
 .deck-description a:nth-child(1) {
