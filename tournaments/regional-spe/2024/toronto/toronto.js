@@ -656,7 +656,7 @@ let masters = [
 let seniors = [
     {
         firstName: "Lucas Oldale",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/canada.png',
         sprite1: '../../../../assets/sprites/arceus.png',
         sprite2: '../../../../assets/sprites/duraludon-gmax.png',
         list: '../../../../assets/list-icon.png',
