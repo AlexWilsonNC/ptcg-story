@@ -14,7 +14,7 @@ const blue = document.querySelectorAll('.blue');
 const makemewhite = document.querySelectorAll('.make-me-white');
 const navrightr = document.getElementById('nav-rightr');
 const upcomingevents = document.querySelector('.upcoming-events');
-const dropitdown1 = document.querySelector('.drop-it-down1');
+ 
 const dropitdown2 = document.querySelector('.drop-it-down2');
 const titlehr = document.querySelectorAll('.title-hr');
 const bio = document.querySelector('.author-bio');
@@ -97,7 +97,7 @@ const enableDarkMode = () => {
       })
     }
     navrightr.classList.add('darkon');
-    dropitdown1.classList.add('darkon');
+    // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
 
     localStorage.setItem('darkMode', 'enabled');
@@ -174,7 +174,7 @@ const enableDarkMode = () => {
       })
     }
     navrightr.classList.remove('darkon');
-    dropitdown1.classList.remove('darkon');
+    // dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
 
     localStorage.setItem('darkMode', null);
