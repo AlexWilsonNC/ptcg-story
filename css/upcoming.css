@@ -157,13 +157,35 @@ table i:hover,
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: space-between;
     margin-top: -10px;
     width: 100%;
 }
-.completed-n-upcoming a {
+.bts-in {
+    display: flex;
+    flex-direction: row;
+    align-items: center; justify-content: center;
+}
+.bts-in a {
     color:white !important;
     font-size: 16px;
     font-weight: 600;
+}
+.event-searchbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+}
+.event-searchbar i {
+    color:white;
+    margin-right: 10px;
+    font-size: 18px;
+}
+.event-searchbar input {
+    padding: 3px;
+    font-size: 16px;
 }
 .active-evt-btn {
     background-color: #353535;
