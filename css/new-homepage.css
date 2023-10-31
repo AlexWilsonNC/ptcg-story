@@ -101,7 +101,7 @@
 }
 .wrapped-feature,
 .wrapped-feature-second-row {
-    border: 1px solid rgb(140, 140, 140);
+    border: 1px solid black;
     border-radius: 10px;
     overflow: hidden;
     background-color: rgb(60, 60, 60);
@@ -110,6 +110,10 @@
     padding-bottom: 10px;
     position: relative;
     transition: ease-out all 0.25;
+}
+.wrapped-feature.darkon,
+.wrapped-feature-second-row.darkon {
+    border: 1px solid rgb(140, 140, 140);
 }
 .wrapped-feature {
     height: 340px;

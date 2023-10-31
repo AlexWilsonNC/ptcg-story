@@ -11,6 +11,8 @@ const twittertweet = document.querySelectorAll('.twitter-tweet');
 const onemorelink = document.querySelectorAll('.one-more-link');
 const sidesection = document.querySelectorAll('.side-section');
 const blue = document.querySelectorAll('.blue');
+const wrwapped = document.querySelectorAll('.wrapped-feature');
+const wrwapped2 = document.querySelectorAll('.wrapped-feature-second-row');
 const makemewhite = document.querySelectorAll('.make-me-white');
 const navrightr = document.getElementById('nav-rightr');
 const upcomingevents = document.querySelector('.upcoming-events');
@@ -41,7 +43,17 @@ const enableDarkMode = () => {
     }
     if (rightitbox) {
       rightitbox.forEach((rightitbox) => {
-        rightitbox.classList.remove('darkon');
+        rightitbox.classList.add('darkon');
+      })    
+    }
+    if (wrwapped) {
+      wrwapped.forEach((wrwapped) => {
+        wrwapped.classList.add('darkon');
+      })    
+    }
+    if (wrwapped2) {
+      wrwapped2.forEach((wrwapped2) => {
+        wrwapped2.classList.add('darkon');
       })    
     }
     if (h4) {
@@ -128,6 +140,16 @@ const enableDarkMode = () => {
     if (articletitle) {
       articletitle.forEach((articletitle) => {
         articletitle.classList.remove('darkon');
+      })    
+    }
+    if (wrwapped) {
+      wrwapped.forEach((wrwapped) => {
+        wrwapped.classList.remove('darkon');
+      })    
+    }
+    if (wrwapped2) {
+      wrwapped2.forEach((wrwapped2) => {
+        wrwapped2.classList.remove('darkon');
       })    
     }
     if (rightitbox) {
