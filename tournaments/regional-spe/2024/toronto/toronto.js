@@ -533,40 +533,44 @@ let masters = [
         },
     },
     {
-        firstName: "Brett Gorneyus",
+        firstName: "Brett Gorney",
         flag: '../../../../assets/flags/usa.png',
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/charizard.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "event": "2024 Toronto Regionals",
         "placing": 14,
-        // "decklist": {
-        //     "pokemon": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "trainer": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ],
-        //     "energy": [
-        //         {
-        //             "count": 0,
-        //             "name": "eee",
-        //             "number": "eee",
-        //             "set": "eee"
-        //         },
-        //     ]
-        // }
+        "decklist": {
+            "pokemon": [
+               { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
+               { "count": 1, "name": "Charmeleon", "number": "5", "set": "MEW" },
+              { "count": 3, "name": "Charmander", "number": "4", "set": "MEW" },
+              { "count": 1, "name": "Charmander", "number": "26", "set": "OBF" },
+              { "count": 3, "name": "Arceus VSTAR", "number": "123", "set": "BRS" },
+              { "count": 3, "name": "Arceus V", "number": "122", "set": "BRS" },
+              { "count": 2, "name": "Pidgeot ex", "number": "164", "set": "OBF" },
+               { "count": 2, "name": "Pidgey", "number": "16", "set": "MEW" },
+               { "count": 1, "name": "Radiant Tsareena", "number": "16", "set": "SIT" },
+               { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
+               { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+            ], 
+               "trainer": [
+                { "count": 4, "name": "Iono", "number": "185", "set": "PAL" },
+                 { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                 { "count": 3, "name": "Professor's Research", "number": "189", "set": "SVI" },
+                 { "count": 1, "name": "Avery", "number": "130", "set": "CRE" },
+                 { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                 { "count": 4, "name": "Rare Candy", "number": "191", "set": "SVI" },
+                 { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                 { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
+                 { "count": 2, "name": "Pokémon League Headquarters", "number": "192", "set": "OBF" },
+                 { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" },
+                ], 
+                 "energy": [
+                  { "count": 9, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" },
+                  { "count": 2, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
+                ]
+          },
     },
     {
         firstName: "Ian Robb",
