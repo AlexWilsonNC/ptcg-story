@@ -30,7 +30,6 @@ const enableDarkMode = () => {
     // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
     extranav.classList.add('darkon');
-    modal.classList.add('darkon');
 
     document.querySelectorAll('[src="../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon-white.png'));
     function addAttribute(){
@@ -76,7 +75,6 @@ const enableDarkMode = () => {
     // dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
     extranav.classList.remove('darkon');
-    modal.classList.remove('darkon');
 
     document.querySelectorAll('[src="../../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon.png'));
     if (mastersol) {
