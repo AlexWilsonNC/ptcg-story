@@ -273,6 +273,11 @@ function displayList(array = []) {
                         }
 
                         let cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number);
+
+                        // if (cardFound.rarity === "Ultra Rare" || "Special Illustration Rare" || "Hyper Rare") {
+                            // find card of same name and use card.rarity = "Double Rare"
+                        // }
+
                         pokeCard.setAttribute('src', cardFound.images.small);
                         pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
 

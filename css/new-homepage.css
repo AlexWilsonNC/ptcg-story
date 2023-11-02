@@ -69,7 +69,7 @@
     margin-bottom: 40px;
 }
 .homepage-box {
-    height: 325px;
+    height: 330px;
     width: 375px;
     margin-bottom: 50px;
 }
@@ -190,6 +190,9 @@
 .homepage-box-content p {
     font-size: 13px;
 }
+.force-small-txt {
+    font-size: 11px;
+}
 .featured-box-date {
     display: flex;
     justify-content: flex-end;
@@ -219,6 +222,7 @@
     margin-right: 8px;
     border: 1px solid rgb(116, 116, 116);
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+    z-index: 100;
 }
 .profile-pic p {
     font-size: 14px;
@@ -501,11 +505,6 @@
     .homepage-box-content p {
         font-size: 10px;
     }
-    /* .featured-box-date {
-        font-size: 10px;
-        bottom: 5px;
-        right: 10px;
-    } */
     .profile-pic img {
         height: 23px;
         width: 23px;
@@ -533,19 +532,8 @@
         font-size: 12px;
     }  
     .homepage-side {
-        /* width: 100%;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        flex-wrap: wrap; */
         display: none;
     }
-    /* .side-section {
-        margin-bottom: 10px;
-        width: 200px;
-        margin-left: 25px;
-        margin-right: 15px;
-    } */
     .homepage-main-content {
         width: 100%;
     }
@@ -673,15 +661,15 @@
     .welcome-top {
        display: none;
     }
+    .wrapped-feature {
+        height: 280px;
+    }
 }
 @media screen and (max-width: 675px) {
     .homepage-box {
         height: 225px;
         width: 250px;
         margin-bottom: 105px;
-    }
-    .wrapped-feature {
-        height: 280px;
     }
     .homepage-box2 {
         height: 225px;
@@ -753,7 +741,7 @@
         margin-bottom: -8px;
     }
     .wrapped-feature {
-        height: 270px;
+        height: 275px;
     }
     .move-it-up-some {
         justify-content: center !important;
@@ -776,6 +764,9 @@
     }
     .homepage-box-content p {
         font-size: 12px;
+    }
+    .force-small-txt {
+        font-size: 9px;
     }
     .wrapped-feature-second-row {
         height: 215px;
@@ -807,14 +798,24 @@
         margin-top: -30px;
     }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 390px) {
     .homepage-box-content h3 {
         font-size: 12px;
     }
     .homepage-box-content p {
-        font-size: 10px;
+        font-size: 11px;
     }
     .featured-link {
-        font-size: 10px;
+        font-size: 11px;
+    }
+}
+@media screen and (max-width: 360px) {
+    .wrapped-feature {
+        height: 280px;
+    }
+}
+@media only screen and (min-width: 359px) and (max-width: 405px) {
+    .hide-super-small {
+        display: none;
     }
 }
