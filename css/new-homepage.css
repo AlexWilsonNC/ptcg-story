@@ -656,7 +656,7 @@
         margin-bottom: 0px;
     }
     .article-type {
-        bottom: 131px;
+        bottom: 140px;
     } 
     .welcome-top {
        display: none;
@@ -771,10 +771,6 @@
     .wrapped-feature-second-row {
         height: 215px;
     }
-    .article-type {
-        bottom: 140px;
-        font-size: 13px;
-    } 
     .featured-headers {
         font-size: 14px;
     }
@@ -791,7 +787,7 @@
         margin-top: -25px;
     }
     .article-type {
-        bottom: 130px;
+        bottom: 135px;
         font-size: 10px;
     } 
     .peepee {
@@ -813,6 +809,10 @@
     .wrapped-feature {
         height: 280px;
     }
+    .article-type {
+        bottom: 140px;
+        font-size: 10px;
+    } 
 }
 @media only screen and (min-width: 359px) and (max-width: 405px) {
     .hide-super-small {
