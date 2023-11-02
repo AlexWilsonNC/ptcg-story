@@ -5,22 +5,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel='icon' href="https://i.ibb.co/rFQ53Qq/android-chrome-192x192.png" type='image/x-icon' alt='logo'>
+    <link rel='icon' href="https://i.ibb.co/rFQ53Qq/android-chrome-192x192.png" type='image/x-icon' alt='logo'>
 
     <title>2019 Worlds | PTCG Legends</title>
-	<link rel="canonical" href="https://ptcglegends.com/worlds/2019/results" />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="2019 World Championships" />
-	<meta property="og:description" content="2019 Pokémon TCG World Championships - Masters Results" />
-	<meta property="og:url" content="https://ptcglegends.com/worlds/2019/results" />
-	<meta property="og:site_name" content="PTCG Legends" />
-	<meta property="article:publisher" content="https://www.facebook.com/alex.wilson.7503/" />
-	<meta property="og:image" content="../../assets/worlds-logos/2019-worlds-banner.jpg" />
-	<meta property="og:image:width" content="1278" />
-	<meta property="og:image:height" content="426" />
-	<meta property="og:image:type" content="image/jpeg" />
-	<meta name="author" content="Alex Wilson" />
+    <link rel="canonical" href="https://ptcglegends.com/worlds/2019/results" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="2019 World Championships" />
+    <meta property="og:description" content="2019 Pokémon TCG World Championships - Masters Results" />
+    <meta property="og:url" content="https://ptcglegends.com/worlds/2019/results" />
+    <meta property="og:site_name" content="PTCG Legends" />
+    <meta property="article:publisher" content="https://www.facebook.com/alex.wilson.7503/" />
+    <meta property="og:image" content="../../assets/worlds-logos/2019-worlds-banner.jpg" />
+    <meta property="og:image:width" content="1278" />
+    <meta property="og:image:height" content="426" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta name="author" content="Alex Wilson" />
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@PTCG_Legends">
@@ -57,17 +57,17 @@
         <div class='push-right1'>
             <ul id="nav-rightr">
                 <li><a href="../../tournaments/completed">Tournaments</a>
-                     
+
                 </li>
                 <li><a href="../../event-archive">Event Archive <i class="fas fa-chevron-down"></i></a>
                     <ul class='drop-it-down2'>
                         <li><a href='../main'>Worlds</a></li>
                         <li><a href='../../major-events/main'>Major Events</a></li>
-                        <li><a href='../../tournaments/regional-spe' >Regionals & SPEs</a></li>
+                        <li><a href='../../tournaments/regional-spe'>Regionals & SPEs</a></li>
                     </ul>
-                </li>                
+                </li>
                 <li><a href="../../decks-by-era/main">Decks by Era</a></li>
-                <li><a href="../../articles/all"  >Articles</a></li>
+                <li><a href="../../articles/all">Articles</a></li>
             </ul>
             <nav role="navigation">
                 <div id="menuToggle">
@@ -95,7 +95,7 @@
                         </li> -->
                         <li class='bold tittle'><a href="../../decks-by-era/main">Decks by Era</a></li>
                         <hr>
-                        <li class='bold tittle'><a href="../../articles/all"  >Articles</a></li>
+                        <li class='bold tittle'><a href="../../articles/all">Articles</a></li>
                         <li class='sub-nav'><a href="../../articles/all">All Articles</a></li>
                         <li class='sub-nav'><a href="../../card-of-the-week/all">Card of the Week</a></li>
                         <hr>
@@ -162,15 +162,15 @@
             </div>
         </div>
     </div>
-<div class='behind-modal'></div>
+    <div class='behind-modal'></div>
     <div class='second-behind-modal'></div>
-    
+
     <div id='zoomed-bg'>
         <img id='insert-zoomed-img' src='' alt='zoomed in card'>
     </div>
 
     <div class='contain-event'>
-         <div id="zoom-card-box"></div>
+        <div id="zoom-card-box"></div>
         <div class='event-content'>
             <div class='event-results'>
                 <div class='results-left'>
@@ -196,9 +196,9 @@
                 <div class='results-right'>
                     <div class='masters-meta'>
                         <h2 class='center'>Top 64 Meta</h2>
-                        <img class='meta-chart' src='../../assets/worlds-results/2019-worlds-meta.png'>
-                        <h2 class='center'>Top Cut Bracket</h2>
-                        <img class='meta-chart' src='../../assets/worlds-results/2019-bracket.png'>
+                        <canvas id="myChart" style="width:100%;" class='new-charts-large'></canvas>
+                        <canvas id="myChart1" style="width:100%;height:350px;" class='new-charts-small'></canvas>
+
                         <img class='meta-chart' style='border-radius:15px;width:70%;'
                             src='../../assets/worlds-results/henry-win.jpg'>
                         <p class='center italic' style='padding-bottom: 15px;'>Henry Brand - 2019 Masters World Champion
@@ -256,6 +256,106 @@
             greatest game in history!</div>
     </footer>
     <script src='../../darkmode/darkmode-worlds-res-tweets.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+    <script>
+        var MeSeContext = document.getElementById("myChart").getContext("2d");
+        var MeSeData = {
+            labels: [
+                "Pikarom",
+                "Mewtwo & Mew",
+                "Gardevoir & Sylveon",
+                "ReshiZard",
+                "Green's Zard",
+                "Malamar",
+                "Pidgey Control",
+                "Blowns (Naganadel)",
+                "Blacephalon GX",
+                "Dark Box",
+                "Spiritomb",
+                "Keldeo Stall",
+                "Gengar & Mimikyu",
+                "Giratina & Garchomp",
+                "RowEggs Stall",
+                "Fossils",
+            ],
+            datasets: [
+                {
+                    data: [15, 7, 7, 6, 5, 5, 4, 3, 3, 1, 1, 1, 1, 1, 1, 1],
+                    backgroundColor: ["grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey"],
+                    borderColor: ["black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black"],
+                    borderWidth: 1
+                }]
+        };
+
+        var MeSeChart = new Chart(MeSeContext, {
+            type: 'horizontalBar',
+            data: MeSeData,
+            options: {
+                scales: {
+                    xAxes: [{
+                        ticks: {
+                            min: 0 // Edit the value according to what you need
+                        }
+                    }],
+                    yAxes: [{
+                        stacked: true
+                    }],
+                },
+                legend: {
+                    display: false,
+                },
+            }
+        });
+
+        var MeSeContext = document.getElementById("myChart1").getContext("2d");
+        var MeSeData = {
+            labels: [
+                "Pikarom",
+                "Mewtwo & Mew",
+                "Gardevoir & Sylveon",
+                "ReshiZard",
+                "Green's Zard",
+                "Malamar",
+                "Pidgey Control",
+                "Blowns (Naganadel)",
+                "Blacephalon GX",
+                "Dark Box",
+                "Spiritomb",
+                "Keldeo Stall",
+                "Gengar & Mimikyu",
+                "Giratina & Garchomp",
+                "RowEggs Stall",
+                "Fossils",
+            ],
+            datasets: [
+                {
+                    data: [15, 7, 7, 6, 5, 5, 4, 3, 3, 1, 1, 1, 1, 1, 1, 1],
+                    backgroundColor: ["grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey", "grey"],
+                    borderColor: ["black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black", "black"],
+                    borderWidth: 1
+                }]
+        };
+
+        var MeSeChart = new Chart(MeSeContext, {
+            type: 'horizontalBar',
+            data: MeSeData,
+            options: {
+                scales: {
+                    xAxes: [{
+                        ticks: {
+                            min: 0 // Edit the value according to what you need
+                        }
+                    }],
+                    yAxes: [{
+                        stacked: true
+                    }],
+                },
+                legend: {
+                    display: false,
+                },
+            }
+        });
+    </script>
 
     <script src='./2019-worlds.js'></script>
     <script src='../../decklist-script/sort-og-events.js'></script>

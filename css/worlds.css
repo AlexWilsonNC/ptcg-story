@@ -1188,6 +1188,10 @@ li {
     font-size: 12px;
 }
 
+.new-charts-small {
+    display: none !important;
+}
+
 @media screen and (max-width: 700px) {
     #zoom-card-box img {
         height: 70%;
@@ -1255,6 +1259,14 @@ li {
     }
 }
 
+@media screen and (max-width: 1350px) {
+    .new-charts-large {
+        display: none !important;
+    }
+    .new-charts-small {
+        display: block !important;
+    }
+}
 @media screen and (max-width: 1300px) {
     .modal {
         width: 80%;

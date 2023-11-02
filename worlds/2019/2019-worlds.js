@@ -2139,7 +2139,7 @@ let masters = [
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/pikachu-zekrom-tagteam.png',
     list: '../../assets/sprites/blank.png',
-    deckid: "0000",
+    deckid: "pikarom",
     event: "2019 World Championships"
   },
   {
@@ -11429,7 +11429,7 @@ let juniors = [
     sprite1: '../../assets/sprites/quagsire.png',
     sprite2: '../../assets/sprites/naganadel.png',
     list: '../../assets/list-icon.png',
-    deckid: "0000",
+    deckid: "nagquag",
     event: "2019 World Championships",
     decklist: {
       "pokemon": [

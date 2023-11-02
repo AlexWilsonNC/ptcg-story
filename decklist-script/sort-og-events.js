@@ -129,6 +129,7 @@ function displayList(array = []) {
                 }
 
             })
+            // console.log(item.deckid)
         }
         masterList.appendChild(item_element);
     }
