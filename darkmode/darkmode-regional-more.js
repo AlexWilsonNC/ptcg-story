@@ -31,6 +31,7 @@ const enableDarkMode = () => {
     navrightr.classList.add('darkon');
     // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
+    modal.classList.add('darkon');
 
     placeflag.classList.add('darkon');
     regionalcontainer.classList.add('darkon');
@@ -73,6 +74,7 @@ const enableDarkMode = () => {
     placeflag.classList.remove('darkon');
     regionalcontainer.classList.remove('darkon');
     regionalresult.classList.remove('darkon');
+    modal.classList.remove('darkon');
 
     // hover.forEach((hover) => {
     //   hover.classList.remove('darkon');

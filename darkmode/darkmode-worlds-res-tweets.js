@@ -17,7 +17,6 @@ const h2 = document.querySelectorAll('h2');
 const pp = document.querySelectorAll('p');
 const twittertweet = document.querySelectorAll('.twitter-tweet');
 
-
 const enableDarkMode = () => {
     document.body.classList.add('darkon');
     toggle.classList.add('darkon');
@@ -29,14 +28,13 @@ const enableDarkMode = () => {
     // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
     extranav.classList.add('darkon');
-
+    modal.classList.add('darkon');
 
     document.querySelectorAll('[src="../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../assets/list-icon-white.png'));
     function addAttribute(){
       document.querySelectorAll('[src="../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../assets/list-icon-white.png'));
     };
     window.onload = addAttribute;
-    
 
     mastersol.classList.add('darkon');
     seniorsol.classList.add('darkon');
@@ -73,6 +71,7 @@ const enableDarkMode = () => {
     mastersol.classList.remove('darkon');
     seniorsol.classList.remove('darkon');
     juniorsol.classList.remove('darkon');
+    modal.classList.remove('darkon');
 
     pp.forEach((pp) => {
       pp.classList.remove('darkon');

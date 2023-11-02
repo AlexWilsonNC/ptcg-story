@@ -18,7 +18,6 @@ const pp = document.querySelectorAll('p');
 const twittertweet = document.querySelectorAll('.twitter-tweet');
 const foursol = document.querySelector('.four-ol');
 
-
 const enableDarkMode = () => {
     document.body.classList.add('darkon');
     toggle.classList.add('darkon');
