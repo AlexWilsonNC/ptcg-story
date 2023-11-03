@@ -16,6 +16,7 @@ const regionalresult = document.querySelector('.regional-result');
 const mastersol = document.querySelector('.masters-ol');
 const seniorsol = document.querySelector('.seniors-ol');
 const juniorsol = document.querySelector('.juniors-ol');
+const hiyamodal = document.querySelector('.modal');
 
 // const hover = document.querySelectorAll('.results-list-item');
 
@@ -31,6 +32,7 @@ const enableDarkMode = () => {
     navrightr.classList.add('darkon');
     // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
+    hiyamodal.classList.add('darkon');
 
     placeflag.classList.add('darkon');
     regionalcontainer.classList.add('darkon');
@@ -73,6 +75,7 @@ const enableDarkMode = () => {
     placeflag.classList.remove('darkon');
     regionalcontainer.classList.remove('darkon');
     regionalresult.classList.remove('darkon');
+    hiyamodal.classList.remove('darkon');
 
     // hover.forEach((hover) => {
     //   hover.classList.remove('darkon');

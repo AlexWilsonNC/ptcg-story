@@ -13,6 +13,7 @@ const extranav = document.querySelector('.extra-nav');
 const mastersol = document.querySelector('.masters-ol');
 const seniorsol = document.querySelector('.seniors-ol');
 const juniorsol = document.querySelector('.juniors-ol');
+const hiyamodal = document.querySelector('.modal');
 const h2 = document.querySelectorAll('h2');
 const pp = document.querySelectorAll('p');
 const twittertweet = document.querySelectorAll('.twitter-tweet');
@@ -38,6 +39,7 @@ const enableDarkMode = () => {
     window.onload = addAttribute;
     
 
+    hiyamodal.classList.add('darkon');
     mastersol.classList.add('darkon');
     seniorsol.classList.add('darkon');
     juniorsol.classList.add('darkon');
@@ -80,6 +82,8 @@ const enableDarkMode = () => {
     h2.forEach((h2) => {
       h2.classList.remove('darkon');
     })
+    hiyamodal.classList.remove('darkon');
+
 
     twittertweet.forEach((twittertweet) => {
       twittertweet.setAttribute('data-theme', 'light');

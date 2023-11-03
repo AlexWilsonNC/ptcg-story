@@ -8,6 +8,7 @@ const navleftr = document.getElementById('nav-leftr');
 const navrightr = document.getElementById('nav-rightr');
  
 const dropitdown2 = document.querySelector('.drop-it-down2');
+const hiyamodal = document.querySelector('.modal');
 
 const extranav = document.querySelector('.extra-nav');
 const mastersol = document.querySelector('.masters-ol');
@@ -30,6 +31,7 @@ const enableDarkMode = () => {
     // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
     extranav.classList.add('darkon');
+    hiyamodal.classList.add('darkon');
 
     document.querySelectorAll('[src="../../../assets/list-icon.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon-white.png'));
     function addAttribute(){
@@ -75,6 +77,7 @@ const enableDarkMode = () => {
     // dropitdown1.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
     extranav.classList.remove('darkon');
+    hiyamodal.classList.remove('darkon');
 
     document.querySelectorAll('[src="../../../assets/list-icon-white.png"]').forEach(item => item.setAttribute('src', '../../../assets/list-icon.png'));
     if (mastersol) {

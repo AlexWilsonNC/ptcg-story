@@ -708,12 +708,12 @@ li {
     margin-right: -50%;
     transform: translate(-50%, -50%);
     z-index: 100;
-    background-image: url(../assets/dark-bg.png) !important;
-    /* background-image: url(../assets/normal-bg3.png) !important; */
+    /* background-image: url(../assets/dark-bg.png) !important; */
+    background-image: url(../assets/normal-bg3.png) !important;
 }
-/* .modal.darkon {
+.modal.darkon {
     background-image: url(../assets/dark-bg.png) !important;
-} */
+}
 .modal-top {
     display: flex;
     flex-direction: column;
