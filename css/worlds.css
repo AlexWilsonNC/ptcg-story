@@ -708,7 +708,6 @@ li {
     margin-right: -50%;
     transform: translate(-50%, -50%);
     z-index: 100;
-    /* background-image: url(../assets/dark-bg.png) !important; */
     background-image: url(../assets/normal-bg3.png) !important;
 }
 .modal.darkon {
@@ -929,12 +928,12 @@ li {
     justify-content: center;
     align-items: flex-end;
     margin: 2.5px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-    -webkit-box-shadow: rgba(0, 0, 0, 0.8) 2px 2px 7px;
-    -moz-box-shadow: rgba(0, 0, 0, 0.8) 2px 2px 7px;
-    box-shadow: rgba(0, 0, 0, 0.8) 2px 2px 7px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: rgb(0, 0, 0) 0px 0px 7px;
+    -moz-box-shadow: rgb(0, 0, 0) 0px 0px 7px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 7px;
 }
 
 .pokemon-card:hover {
