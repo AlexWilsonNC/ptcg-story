@@ -8,13 +8,13 @@
         <link rel='icon' href="https://i.ibb.co/rFQ53Qq/android-chrome-192x192.png" type='image/x-icon' alt='logo'>
 
         <title>2019 LAIC | PTCG Legends</title>
-        <link rel="canonical" href="https://ptcglegends.com/major-events/2019/laic/results" />
+        <link rel="canonical" href="https://ptcglegends.com/major-events/2019/laic/results-seniors" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="2019 Latin America Internationals" />
         <meta property="og:description"
-            content="2019 Pokémon TCG Latin America International Championships - Masters Results" />
-        <meta property="og:url" content="https://ptcglegends.com/major-events/2019/laic/results" />
+            content="2019 Pokémon TCG Latin America International Championships - Seniors Results" />
+        <meta property="og:url" content="https://ptcglegends.com/major-events/2019/laic/results-seniors" />
         <meta property="og:site_name" content="PTCG Legends" />
         <meta property="article:publisher" content="https://www.facebook.com/alex.wilson.7503/" />
         <meta property="og:image" content="../../../assets/nats-logos/19-la.jpg" />
@@ -27,14 +27,15 @@
         <meta name="twitter:site" content="@PTCG_Legends">
         <meta name="twitter:title" content="2019 Latin America Internationals - PTCG Legends">
         <meta name="twitter:description"
-            content="2019 Pokémon TCG Latin America International Championships - Masters Results">
+            content="2019 Pokémon TCG Latin America International Championships - Seniors Results">
         <meta name="twitter:image" content="">
-
-        <link rel="stylesheet"  href="../../../style.css">
+    
+    <link rel="stylesheet"  href="../../../style.css">
     <link rel="stylesheet" href="../../../css/nav.css">
     <link rel="stylesheet" href="../../../css/worlds.css">
     <link rel="stylesheet" href="../../../css/footer.css">
-    <link rel="stylesheet" href="../../../css/card-database.css">
+        <link rel="stylesheet" href="../../../css/card-database.css">
+    <link rel="stylesheet" href="../../../css/era.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -166,26 +167,26 @@
     </div>
     <div class='behind-modal'></div>
     <div class='second-behind-modal'></div>
-
+    
     <div id='zoomed-bg'>
         <img id='insert-zoomed-img' src='' alt='zoomed in card'>
     </div>
-        <div class='contain-event'>
+    <div class='contain-event'>
          <div id="zoom-card-box"></div>
         <div class='event-content'>
             <div class='event-results'>
                 <div class='results-left'>
-                    <h2 class='center'>2019 LAIC Results</h2>
+                    <h2 class='center'>2019 NAIC Results</h2>
                     <div class='divisions'>
-                        <a class='dark-bg mastersBtn' href='./results'>Masters</a>
-                        <a class='light-bg seniorsBtn' href='./results-seniors'>Seniors</a>
+                        <a class='light-bg mastersBtn' href='./results'>Masters</a>
+                        <a class='dark-bg seniorsBtn' href='./results-seniors'>Seniors</a>
                         <a class='light-bg juniorsBtn' href='./results-juniors'>Juniors</a>
                     </div>
 
                     <ol class='masters-ol'>
                         <!--Rendered masters List-->
                     </ol>
-                    <ol class='seniors-ol'>
+                    <ol class='seniors-ol' style='display: block;'>
                         <!--Rendered seniors List-->
                     </ol>
                     <ol class='juniors-ol'>
@@ -195,15 +196,12 @@
                 </div>
 
                 <div class='results-right'>
-                    <div class='masters-meta'>
-                        <h2 class='center'>Top 64 Meta</h2>
-                        <img class='meta-chart' src='../../../assets/2019/la-19-18-meta-chart.png'>
-                        <!-- <h2 class='center'>Top Cut Bracket</h2>
+                    <div class='seniors-meta'  style='display: flex;'>
+                        <!-- <h2 class='center'>Top 8 Bracket</h2>
                         <img class='meta-chart' src='../../../assets/'> -->
-                        <img class='meta-chart' style='border-radius:15px;width:60%;'
-                            src='../../../assets/2019/dan-a.jpg'>
-                        <p class='center italic' style='padding-bottom: 15px;'>Daniel Altavilla - 2019 Masters LAIC Champion
-                        </p>
+                        <img class='meta-chart' style='border-radius:15px;width:75%;'
+                            src='../../../assets/2019/laic-champ-sr.jpg'>
+                        <p class='center italic'>Christian Moreno - 2019 Seniors LAIC Champion</p>
                     </div>
                 </div>
             </div>
@@ -241,8 +239,8 @@
     </footer>
      <script src='../../../darkmode/darkmode-worlds-res-tweets2.js'></script>
 
-    <script src='./2019-laic.js'></script>
-    <script src='../../../decklist-script/sort-og-events.js'></script>
+     <script src='./2019-laic.js'></script>
+     <script src='../../../decklist-script/sort-og-seniors.js'></script>
     <script src='../../../decklist-script/convert-set-names.js'></script>
 
     <script src='../../../card-database/sv/sv151.js'></script>
