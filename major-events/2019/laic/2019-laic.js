@@ -5255,7 +5255,7 @@ let masters = [
     sprite1: '../../../assets/sprites/malamar.png',
     sprite2: '../../../assets/sprites/tapu-koko.png',
     list: '../../../assets/list-icon.png',
-    deckid: "eee",
+    deckid: "malamar",
     event: "2019 Latin America Internationals",
     decklist: {
       "pokemon": [
