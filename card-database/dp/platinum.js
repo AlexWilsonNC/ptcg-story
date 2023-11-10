@@ -1,4 +1,4 @@
-let platinum = [
+let pl1 = [
     {
         "id": "pl1-1",
         "name": "Ampharos",

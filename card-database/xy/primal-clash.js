@@ -1,4 +1,4 @@
-let primalClash = [
+let xy5 = [
     {
         "id": "xy5-1",
         "name": "Weedle",

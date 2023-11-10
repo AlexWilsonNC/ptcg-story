@@ -1,4 +1,4 @@
-let evolutions = [
+let xy12 = [
     {
         "id": "xy12-1",
         "name": "Venusaur-EX",

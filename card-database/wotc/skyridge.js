@@ -1,4 +1,4 @@
-let skyridge = [
+let ecard3 = [
     {
         "id": "ecard3-H1",
         "name": "Alakazam",

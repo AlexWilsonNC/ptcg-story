@@ -1,4 +1,4 @@
-let blackWhite = [
+let bw1 = [
     {
         "id": "bw1-1",
         "name": "Snivy",

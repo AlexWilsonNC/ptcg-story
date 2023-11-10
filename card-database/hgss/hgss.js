@@ -1,4 +1,4 @@
-let heartgoldSoulsilver = [
+let hgss1 = [
     {
         "id": "hgss1-1",
         "name": "Arcanine",

@@ -1,4 +1,4 @@
-let darkExplorers = [
+let bw5 = [
     {
         "id": "bw5-1",
         "name": "Bulbasaur",

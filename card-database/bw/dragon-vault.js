@@ -1,4 +1,4 @@
-let dragonVault = [
+let dv1 = [
     {
         "id": "dv1-1",
         "name": "Dratini",

@@ -1,4 +1,4 @@
-let nextDestinies = [
+let bw4 = [
     {
         "id": "bw4-1",
         "name": "Pinsir",

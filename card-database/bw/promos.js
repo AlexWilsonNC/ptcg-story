@@ -1,4 +1,4 @@
-let promoBw = [
+let bwp = [
     {
         "id": "bwp-BW01",
         "name": "Snivy",

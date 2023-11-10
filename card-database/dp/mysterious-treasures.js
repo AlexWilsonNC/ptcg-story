@@ -1,4 +1,4 @@
-let mysteriousTreasures = [
+let dp2 = [
     {
         "id": "dp2-1",
         "name": "Aggron",

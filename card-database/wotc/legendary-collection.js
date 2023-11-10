@@ -1,4 +1,4 @@
-let legendaryCollection = [
+let base6 = [
     {
         "id": "base6-1",
         "name": "Alakazam",

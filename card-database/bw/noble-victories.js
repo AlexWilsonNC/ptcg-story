@@ -1,4 +1,4 @@
-let nobleVictories = [
+let bw3 = [
     {
         "id": "bw3-1",
         "name": "Sewaddle",

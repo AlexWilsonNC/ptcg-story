@@ -1,4 +1,4 @@
-let deltaSpecies = [
+let ex11 = [
     {
         "id": "ex11-1",
         "name": "Beedrill δ",

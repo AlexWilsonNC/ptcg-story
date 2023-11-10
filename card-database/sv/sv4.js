@@ -49,7 +49,7 @@ let sv4 = [
             "updatedAt": "2023/11/03 15:00:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
-                "logo": "https://archives.bulbagarden.net/media/upload/thumb/7/7e/SV4_Logo_EN.png/799px-SV4_Logo_EN.png"
+                "logo": "https://i0.wp.com/churapereviews.com/wp-content/uploads/2023/08/pokemon_tcg_scarlet_violete28094paradox_rift_logo_png_jpgcopy.jpg?fit=816%2C271&ssl=1"
             }
         },
         "number": "1",

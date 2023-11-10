@@ -1,4 +1,4 @@
-let steamSiege = [
+let xy11 = [
     {
         "id": "xy11-1",
         "name": "Tangela",

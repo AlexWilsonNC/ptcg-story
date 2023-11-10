@@ -1,4 +1,4 @@
-let teamRocket = [
+let base5 = [
     {
         "id": "base5-1",
         "name": "Dark Alakazam",

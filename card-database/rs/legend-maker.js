@@ -1,4 +1,4 @@
-let legendMaker = [
+let ex12 = [
     {
         "id": "ex12-1",
         "name": "Aerodactyl",

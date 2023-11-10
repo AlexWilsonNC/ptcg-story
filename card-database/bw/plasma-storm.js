@@ -1,4 +1,4 @@
-let plasmaStorm = [
+let bw8 = [
     {
         "id": "bw8-1",
         "name": "Turtwig",

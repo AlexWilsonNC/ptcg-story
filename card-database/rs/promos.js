@@ -1,4 +1,4 @@
-let promoRs = [
+let np = [
     {
         "id": "np-1",
         "name": "Kyogre ex",

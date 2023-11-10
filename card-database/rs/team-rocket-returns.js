@@ -1,4 +1,4 @@
-let teamRocketReturns = [
+let ex7 = [
     {
         "id": "ex7-1",
         "name": "Azumarill",

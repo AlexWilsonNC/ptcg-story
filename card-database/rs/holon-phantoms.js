@@ -1,4 +1,4 @@
-let holonPhantoms = [
+let ex13 = [
     {
         "id": "ex13-1",
         "name": "Armaldo δ",

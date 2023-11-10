@@ -1,8 +1,8 @@
-const masterList = document.querySelector('.masters-ol');
+const renderedList = document.querySelector('.masters-ol');
 const modalBottom = document.querySelector('.modal-bottom');
 
 function displayList(array = []) {
-    masterList.innerHTML = '';
+    renderedList.innerHTML = '';
 
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
@@ -73,13 +73,27 @@ function displayList(array = []) {
                             //swsh
                             swsh12pt5, swsh12, swsh11, pgo, swsh10, swsh9, swsh8, cel25, swsh7, swsh6, swsh5, swsh45, swsh4, swsh35, swsh3, swsh2, swsh1, swshp,
                             //sm
-                            sm12, sm11, sm10, sm9, sm8, sm7, sm6, sm5, sm4, sm3, sm2, sm1, det, sm115, sm75, sm35, smp
+                            sm12, sm11, sm10, sm9, sm8, sm7, sm6, sm5, sm4, sm3, sm2, sm1, det, sm115, sm75, sm35, smp,
+                            //xy
+                            xy12, xy11, xy10, g1, xy9, xy8, xy7, xy6, dc1, xy5, xy4, xy3, xy2, xy1, xyp,
+                            //bw
+                            bw11, bw10, bw9, bw8, bw7, bw6, bw5, bw4, bw3, bw2, bw1, dv1, bwp,
+                            //hgss
+                            col1, hgss4, hgss3, hgss2, hgss1, hsp,
+                            //dp
+                            pl4, pl3, pl2, pl1, dp7, dp6, dp5, dp4, dp3, dp2, dp1, dpp,
+                            //rs
+                            ex16, ex15, ex14, ex13, ex12, ex11, ex10, ex9, ex8, ex7, ex6, ex5, ex4, ex3, ex2, ex1, np,
+                            //wotc
+                            ecard3, ecard2, ecard1, neo4, neo3, neo2, neo1, gym2, gym1, base6, base5, base4, base3, base2, base1, basep,
+                            //other
+                            xy0, pop1, pop2, pop3, pop4, pop5, pop6, pop7, pop8, pop9, ru1, si1, tk1a, tk2a
                         }
 
                         // 60 card checker
                         let sixtyCheck = item.decklist.pokemon.reduce((n, {count}) => n + count, 0) + item.decklist.trainer.reduce((n, {count}) => n + count, 0) + item.decklist.energy.reduce((n, {count}) => n + count, 0);
                         if (sixtyCheck !== 60) {
-                            confirm('NOT 60 CARD! only' + " " + sixtyCheck)
+                            confirm('NOT 60 CARDS! only' + " " + sixtyCheck)
                         }
 
                         const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
@@ -131,7 +145,7 @@ function displayList(array = []) {
             })
             // console.log(item.deckid)
         }
-        masterList.appendChild(item_element);
+        renderedList.appendChild(item_element);
     }
 }
 

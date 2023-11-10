@@ -1,4 +1,4 @@
-let greatEncounters = [
+let dp4 = [
     {
         "id": "dp4-1",
         "name": "Blaziken",

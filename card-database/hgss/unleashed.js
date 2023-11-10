@@ -1,4 +1,4 @@
-let unleashed = [
+let hgss2 = [
     {
         "id": "hgss2-1",
         "name": "Jirachi",

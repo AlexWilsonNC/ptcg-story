@@ -1,4 +1,4 @@
-let doubleCrisis = [
+let dc1 = [
     {
         "id": "dc1-1",
         "name": "Team Magma's Numel",

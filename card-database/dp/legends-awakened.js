@@ -1,4 +1,4 @@
-let legendsAwakened = [
+let dp6 = [
     {
         "id": "dp6-1",
         "name": "Deoxys Normal Forme",

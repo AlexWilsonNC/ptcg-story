@@ -1,4 +1,4 @@
-let genesis = [
+let neo1 = [
     {
         "id": "neo1-1",
         "name": "Ampharos",

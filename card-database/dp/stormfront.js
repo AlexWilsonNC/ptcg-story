@@ -1,4 +1,4 @@
-let stormfront = [
+let dp7 = [
     {
         "id": "dp7-1",
         "name": "Dusknoir",

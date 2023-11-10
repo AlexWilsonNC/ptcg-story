@@ -1,4 +1,4 @@
-let promoHgSs = [
+let hsp = [
     {
         "id": "hsp-HGSS01",
         "name": "Ho-Oh",

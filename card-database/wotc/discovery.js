@@ -1,4 +1,4 @@
-let discovery = [
+let neo2 = [
     {
         "id": "neo2-1",
         "name": "Espeon",

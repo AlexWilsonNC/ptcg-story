@@ -1,4 +1,4 @@
-let gymChallenge = [
+let gym2 = [
     {
         "id": "gym2-1",
         "name": "Blaine's Arcanine",

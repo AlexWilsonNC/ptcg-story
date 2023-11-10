@@ -1,4 +1,4 @@
-let ancientOrigins = [
+let xy7 = [
     {
         "id": "xy7-1",
         "name": "Oddish",

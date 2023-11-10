@@ -1,4 +1,4 @@
-let crystalGuardians = [
+let ex14 = [
     {
         "id": "ex14-1",
         "name": "Banette",

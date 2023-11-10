@@ -1,4 +1,4 @@
-let sandstorm = [
+let ex2 = [
     {
         "id": "ex2-1",
         "name": "Armaldo",

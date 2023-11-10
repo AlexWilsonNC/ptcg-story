@@ -1,4 +1,4 @@
-let phantomForces = [
+let xy4 = [
     {
         "id": "xy4-1",
         "name": "Venonat",

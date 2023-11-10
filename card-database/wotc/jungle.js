@@ -1,4 +1,4 @@
-let jungle = [
+let base2 = [
     {
         "id": "base2-1",
         "name": "Clefable",

@@ -1,6 +1,6 @@
-let promoXy = [
+let xyp = [
     {
-        "id": "xyp-XY01",
+        "id": "xyp-01",
         "name": "Chespin",
         "supertype": "Pokémon",
         "subtypes": [
@@ -75,7 +75,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY02",
+        "id": "xyp-02",
         "name": "Fennekin",
         "supertype": "Pokémon",
         "subtypes": [
@@ -150,7 +150,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY03",
+        "id": "xyp-03",
         "name": "Froakie",
         "supertype": "Pokémon",
         "subtypes": [
@@ -225,7 +225,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY04",
+        "id": "xyp-04",
         "name": "Sylveon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -305,7 +305,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY05",
+        "id": "xyp-05",
         "name": "Xerneas",
         "supertype": "Pokémon",
         "subtypes": [
@@ -384,7 +384,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY06",
+        "id": "xyp-06",
         "name": "Yveltal",
         "supertype": "Pokémon",
         "subtypes": [
@@ -463,7 +463,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY07",
+        "id": "xyp-07",
         "name": "Xerneas-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -548,7 +548,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY08",
+        "id": "xyp-08",
         "name": "Yveltal-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -631,7 +631,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY09",
+        "id": "xyp-09",
         "name": "Garchomp-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -711,7 +711,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY10",
+        "id": "xyp-10",
         "name": "Dragalge",
         "supertype": "Pokémon",
         "subtypes": [
@@ -783,7 +783,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY11",
+        "id": "xyp-11",
         "name": "Skiddo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -849,7 +849,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY12",
+        "id": "xyp-12",
         "name": "Honedge",
         "supertype": "Pokémon",
         "subtypes": [
@@ -930,7 +930,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY13",
+        "id": "xyp-13",
         "name": "Machamp",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1002,7 +1002,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY14",
+        "id": "xyp-14",
         "name": "Trevenant",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1082,7 +1082,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY15",
+        "id": "xyp-15",
         "name": "Slurpuff",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1163,7 +1163,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY16",
+        "id": "xyp-16",
         "name": "Gogoat",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1238,7 +1238,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY17",
+        "id": "xyp-17",
         "name": "Charizard-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1319,7 +1319,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY18",
+        "id": "xyp-18",
         "name": "Chesnaught-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1398,7 +1398,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY19",
+        "id": "xyp-19",
         "name": "Delphox-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1475,7 +1475,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY20",
+        "id": "xyp-20",
         "name": "Greninja-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1551,7 +1551,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY21",
+        "id": "xyp-21",
         "name": "Bronzong",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1629,7 +1629,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY22",
+        "id": "xyp-22",
         "name": "Darkrai",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1709,7 +1709,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY23",
+        "id": "xyp-23",
         "name": "Shiftry",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1783,7 +1783,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY24",
+        "id": "xyp-24",
         "name": "Greninja",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1860,7 +1860,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY25",
+        "id": "xyp-25",
         "name": "Krookodile-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1945,7 +1945,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY26",
+        "id": "xyp-26",
         "name": "Pyroar",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2021,7 +2021,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY27",
+        "id": "xyp-27",
         "name": "Champions Festival",
         "supertype": "Trainer",
         "subtypes": [
@@ -2061,7 +2061,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY28",
+        "id": "xyp-28",
         "name": "Venusaur-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2143,7 +2143,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY29",
+        "id": "xyp-29",
         "name": "Charizard-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2223,7 +2223,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY30",
+        "id": "xyp-30",
         "name": "Blastoise-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2303,7 +2303,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY31",
+        "id": "xyp-31",
         "name": "Xerneas",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2385,7 +2385,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY32",
+        "id": "xyp-32",
         "name": "Yveltal",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2467,7 +2467,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY33",
+        "id": "xyp-33",
         "name": "Trevor",
         "supertype": "Trainer",
         "subtypes": [
@@ -2507,7 +2507,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY34",
+        "id": "xyp-34",
         "name": "Metagross-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2594,7 +2594,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY35",
+        "id": "xyp-35",
         "name": "M Metagross-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2670,7 +2670,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY36",
+        "id": "xyp-36",
         "name": "Treecko",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2735,7 +2735,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY37",
+        "id": "xyp-37",
         "name": "Torchic",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2800,7 +2800,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY38",
+        "id": "xyp-38",
         "name": "Mudkip",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2875,7 +2875,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY39",
+        "id": "xyp-39",
         "name": "Kingdra",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2953,7 +2953,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY40",
+        "id": "xyp-40",
         "name": "Ditto",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3022,7 +3022,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY41",
+        "id": "xyp-41",
         "name": "Kyogre-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3100,7 +3100,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY42",
+        "id": "xyp-42",
         "name": "Groudon-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3178,7 +3178,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY43",
+        "id": "xyp-43",
         "name": "Diancie-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3264,7 +3264,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY44",
+        "id": "xyp-44",
         "name": "M Diancie-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3339,7 +3339,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY45",
+        "id": "xyp-45",
         "name": "Gallade-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3421,7 +3421,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY46",
+        "id": "xyp-46",
         "name": "Altaria",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3502,7 +3502,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY47",
+        "id": "xyp-47",
         "name": "Heliolisk",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3580,7 +3580,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY48",
+        "id": "xyp-48",
         "name": "Meowstic",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3652,7 +3652,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY49",
+        "id": "xyp-49",
         "name": "Regirock",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3730,7 +3730,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY50",
+        "id": "xyp-50",
         "name": "Pangoro",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3802,7 +3802,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY51",
+        "id": "xyp-51",
         "name": "Kyogre",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3877,7 +3877,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY52",
+        "id": "xyp-52",
         "name": "Groudon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3952,7 +3952,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY53",
+        "id": "xyp-53",
         "name": "Sceptile-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4031,7 +4031,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY54",
+        "id": "xyp-54",
         "name": "Blaziken-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4112,7 +4112,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY55",
+        "id": "xyp-55",
         "name": "Swampert-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4194,7 +4194,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY56",
+        "id": "xyp-56",
         "name": "Blissey",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4270,7 +4270,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY57",
+        "id": "xyp-57",
         "name": "Fearow",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4354,7 +4354,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY58",
+        "id": "xyp-58",
         "name": "Malamar",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4436,7 +4436,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY59",
+        "id": "xyp-59",
         "name": "Salamence",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4515,7 +4515,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY60",
+        "id": "xyp-60",
         "name": "Gyarados",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4595,7 +4595,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY61",
+        "id": "xyp-61",
         "name": "Flygon-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4670,7 +4670,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY62",
+        "id": "xyp-62",
         "name": "Absol-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4755,7 +4755,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY63",
+        "id": "xyp-63",
         "name": "M Absol-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4829,7 +4829,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY64",
+        "id": "xyp-64",
         "name": "Rayquaza",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4901,7 +4901,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY65",
+        "id": "xyp-65",
         "name": "Latios",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4975,7 +4975,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY66",
+        "id": "xyp-66",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5062,7 +5062,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY67",
+        "id": "xyp-67",
         "name": "Jirachi",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5140,7 +5140,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY67a",
+        "id": "xyp-67a",
         "name": "Jirachi",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5218,7 +5218,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY68",
+        "id": "xyp-68",
         "name": "Chesnaught",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5295,7 +5295,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY69",
+        "id": "xyp-69",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5382,7 +5382,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY70",
+        "id": "xyp-70",
         "name": "Tyrantrum-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5457,7 +5457,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY71",
+        "id": "xyp-71",
         "name": "Hoopa-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5531,7 +5531,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY72",
+        "id": "xyp-72",
         "name": "Latios-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5611,7 +5611,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY73",
+        "id": "xyp-73",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5692,7 +5692,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY74",
+        "id": "xyp-74",
         "name": "Reshiram",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5767,7 +5767,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY75",
+        "id": "xyp-75",
         "name": "Palkia",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5841,7 +5841,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY76",
+        "id": "xyp-76",
         "name": "Zekrom",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5922,7 +5922,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY77",
+        "id": "xyp-77",
         "name": "Dialga",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6002,7 +6002,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY78",
+        "id": "xyp-78",
         "name": "Latias",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6075,7 +6075,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY79",
+        "id": "xyp-79",
         "name": "Latios",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6149,7 +6149,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY80",
+        "id": "xyp-80",
         "name": "Black Kyurem",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6225,7 +6225,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY81",
+        "id": "xyp-81",
         "name": "White Kyurem",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6301,7 +6301,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY82",
+        "id": "xyp-82",
         "name": "Regigigas",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6373,7 +6373,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY83",
+        "id": "xyp-83",
         "name": "Arceus",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6446,7 +6446,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY84",
+        "id": "xyp-84",
         "name": "Pikachu-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6531,7 +6531,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY85",
+        "id": "xyp-85",
         "name": "Hoopa-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6607,7 +6607,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY86",
+        "id": "xyp-86",
         "name": "M Blaziken-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6677,7 +6677,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY87",
+        "id": "xyp-87",
         "name": "M Swampert-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6747,7 +6747,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY88",
+        "id": "xyp-88",
         "name": "Chespin",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6813,7 +6813,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY89",
+        "id": "xyp-89",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6895,7 +6895,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY90",
+        "id": "xyp-90",
         "name": "Hoopa",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6968,7 +6968,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY91",
+        "id": "xyp-91",
         "name": "Champions Festival",
         "supertype": "Trainer",
         "subtypes": [
@@ -7008,7 +7008,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY92",
+        "id": "xyp-92",
         "name": "Sableye",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7078,7 +7078,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY93",
+        "id": "xyp-93",
         "name": "Celebi",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7151,7 +7151,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY94",
+        "id": "xyp-94",
         "name": "Trevenant",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7229,7 +7229,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY95",
+        "id": "xyp-95",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7310,7 +7310,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY96",
+        "id": "xyp-96",
         "name": "Umbreon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7391,7 +7391,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY97",
+        "id": "xyp-97",
         "name": "Aerodactyl-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7477,7 +7477,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY98",
+        "id": "xyp-98",
         "name": "M Aerodactyl-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7552,7 +7552,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY99",
+        "id": "xyp-99",
         "name": "Aerodactyl Spirit Link",
         "supertype": "Trainer",
         "subtypes": [
@@ -7593,7 +7593,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY100",
+        "id": "xyp-100",
         "name": "Mewtwo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7668,7 +7668,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY101",
+        "id": "xyp-101",
         "name": "Mewtwo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7743,7 +7743,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY102",
+        "id": "xyp-102",
         "name": "Aurorus-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7818,7 +7818,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY103",
+        "id": "xyp-103",
         "name": "Mawile-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7903,7 +7903,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY104",
+        "id": "xyp-104",
         "name": "M Mawile-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7978,7 +7978,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY105",
+        "id": "xyp-105",
         "name": "Mawile Spirit Link",
         "supertype": "Trainer",
         "subtypes": [
@@ -8019,7 +8019,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY106",
+        "id": "xyp-106",
         "name": "Gyarados-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8099,7 +8099,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY107",
+        "id": "xyp-107",
         "name": "Mewtwo-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8178,7 +8178,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY108",
+        "id": "xyp-108",
         "name": "Machamp-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8255,7 +8255,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY109",
+        "id": "xyp-109",
         "name": "Gyarados",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8332,7 +8332,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY110",
+        "id": "xyp-110",
         "name": "Mew",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8405,7 +8405,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY111",
+        "id": "xyp-111",
         "name": "Celebi",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8476,7 +8476,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY112",
+        "id": "xyp-112",
         "name": "Jirachi",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8554,7 +8554,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY113",
+        "id": "xyp-113",
         "name": "Manaphy",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8626,7 +8626,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY114",
+        "id": "xyp-114",
         "name": "Darkrai",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8706,7 +8706,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY115",
+        "id": "xyp-115",
         "name": "Shaymin",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8780,7 +8780,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY116",
+        "id": "xyp-116",
         "name": "Arceus",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8854,7 +8854,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY117",
+        "id": "xyp-117",
         "name": "Victini",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8926,7 +8926,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY118",
+        "id": "xyp-118",
         "name": "Keldeo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -8997,7 +8997,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY119",
+        "id": "xyp-119",
         "name": "Genesect",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9077,7 +9077,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY120",
+        "id": "xyp-120",
         "name": "Meloetta",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9149,7 +9149,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY121",
+        "id": "xyp-121",
         "name": "Charizard-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9231,7 +9231,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY122",
+        "id": "xyp-122",
         "name": "Blastoise-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9311,7 +9311,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY123",
+        "id": "xyp-123",
         "name": "Venusaur-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9393,7 +9393,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY124",
+        "id": "xyp-124",
         "name": "Pikachu-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9478,7 +9478,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY125",
+        "id": "xyp-125",
         "name": "Mewtwo-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9559,7 +9559,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY126",
+        "id": "xyp-126",
         "name": "Mew-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9631,7 +9631,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY127",
+        "id": "xyp-127",
         "name": "Moltres",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9711,7 +9711,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY128",
+        "id": "xyp-128",
         "name": "White Kyurem",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9785,7 +9785,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY129",
+        "id": "xyp-129",
         "name": "Zygarde",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9859,7 +9859,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY130",
+        "id": "xyp-130",
         "name": "Tyranitar",
         "supertype": "Pokémon",
         "subtypes": [
@@ -9939,7 +9939,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY131",
+        "id": "xyp-131",
         "name": "Pansear",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10004,7 +10004,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY132",
+        "id": "xyp-132",
         "name": "Gastly",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10075,7 +10075,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY133",
+        "id": "xyp-133",
         "name": "Ash-Greninja-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10152,7 +10152,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY134",
+        "id": "xyp-134",
         "name": "Empoleon BREAK",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10211,7 +10211,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY135",
+        "id": "xyp-135",
         "name": "Beheeyem BREAK",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10271,7 +10271,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY136",
+        "id": "xyp-136",
         "name": "Noctowl BREAK",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10331,7 +10331,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY137",
+        "id": "xyp-137",
         "name": "Vivillon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10403,7 +10403,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY138",
+        "id": "xyp-138",
         "name": "Froakie",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10468,7 +10468,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY139",
+        "id": "xyp-139",
         "name": "Floette",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10550,7 +10550,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY140",
+        "id": "xyp-140",
         "name": "Lucario",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10624,7 +10624,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY141",
+        "id": "xyp-141",
         "name": "Rayquaza",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10699,7 +10699,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY142",
+        "id": "xyp-142",
         "name": "Azelf",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10772,7 +10772,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY143",
+        "id": "xyp-143",
         "name": "Magikarp",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10837,7 +10837,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY144",
+        "id": "xyp-144",
         "name": "Yanmega",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10914,7 +10914,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY145",
+        "id": "xyp-145",
         "name": "Volcanion",
         "supertype": "Pokémon",
         "subtypes": [
@@ -10987,7 +10987,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY146",
+        "id": "xyp-146",
         "name": "Clawitzer",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11059,7 +11059,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY147",
+        "id": "xyp-147",
         "name": "Hoopa",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11132,7 +11132,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY148",
+        "id": "xyp-148",
         "name": "Shaymin-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11206,7 +11206,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY149",
+        "id": "xyp-149",
         "name": "Xerneas-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11291,7 +11291,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY150",
+        "id": "xyp-150",
         "name": "Yveltal-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11374,7 +11374,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY150a",
+        "id": "xyp-150a",
         "name": "Yveltal-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11457,7 +11457,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY151",
+        "id": "xyp-151",
         "name": "Zygarde-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11543,7 +11543,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY152",
+        "id": "xyp-152",
         "name": "Zygarde",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11617,7 +11617,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY153",
+        "id": "xyp-153",
         "name": "Ho-Oh",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11697,7 +11697,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY154",
+        "id": "xyp-154",
         "name": "Ho-Oh BREAK",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11759,7 +11759,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY155",
+        "id": "xyp-155",
         "name": "Wobbuffet BREAK",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11818,7 +11818,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY156",
+        "id": "xyp-156",
         "name": "Lugia",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11899,7 +11899,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY157",
+        "id": "xyp-157",
         "name": "Beedrill-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -11977,7 +11977,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY158",
+        "id": "xyp-158",
         "name": "M Beedrill-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12044,7 +12044,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY159",
+        "id": "xyp-159",
         "name": "Beedrill Spirit Link",
         "supertype": "Trainer",
         "subtypes": [
@@ -12085,7 +12085,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY160",
+        "id": "xyp-160",
         "name": "Black Kyurem",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12161,7 +12161,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY161",
+        "id": "xyp-161",
         "name": "Braixen",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12237,7 +12237,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY162",
+        "id": "xyp-162",
         "name": "Greninja",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12310,7 +12310,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY163",
+        "id": "xyp-163",
         "name": "Weezing",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12380,7 +12380,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY164",
+        "id": "xyp-164",
         "name": "Volcanion",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12456,7 +12456,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY165",
+        "id": "xyp-165",
         "name": "Magearna",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12533,7 +12533,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY166",
+        "id": "xyp-166",
         "name": "M Gengar-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12609,7 +12609,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY167",
+        "id": "xyp-167",
         "name": "Garchomp-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12689,7 +12689,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY168",
+        "id": "xyp-168",
         "name": "M Garchomp-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12758,7 +12758,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY169",
+        "id": "xyp-169",
         "name": "Garchomp Spirit Link",
         "supertype": "Trainer",
         "subtypes": [
@@ -12799,7 +12799,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY170",
+        "id": "xyp-170",
         "name": "Salamence-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12881,7 +12881,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY171",
+        "id": "xyp-171",
         "name": "M Salamence-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -12951,7 +12951,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY172",
+        "id": "xyp-172",
         "name": "Salamence Spirit Link",
         "supertype": "Trainer",
         "subtypes": [
@@ -12992,7 +12992,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY173",
+        "id": "xyp-173",
         "name": "Volcanion-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13067,7 +13067,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY174",
+        "id": "xyp-174",
         "name": "Pikachu-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13153,7 +13153,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY175",
+        "id": "xyp-175",
         "name": "Magearna-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13233,7 +13233,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY176",
+        "id": "xyp-176",
         "name": "Champions Festival",
         "supertype": "Trainer",
         "subtypes": [
@@ -13273,7 +13273,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY177",
+        "id": "xyp-177",
         "name": "Karen",
         "supertype": "Trainer",
         "subtypes": [
@@ -13313,7 +13313,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY177a",
+        "id": "xyp-177a",
         "name": "Karen",
         "supertype": "Trainer",
         "subtypes": [
@@ -13353,7 +13353,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY178",
+        "id": "xyp-178",
         "name": "Absol",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13430,7 +13430,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY179",
+        "id": "xyp-179",
         "name": "Snorlax",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13502,7 +13502,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY180",
+        "id": "xyp-180",
         "name": "Arcanine BREAK",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13561,7 +13561,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY181",
+        "id": "xyp-181",
         "name": "Crobat BREAK",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13621,7 +13621,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY182",
+        "id": "xyp-182",
         "name": "Mandibuzz BREAK",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13679,7 +13679,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY183",
+        "id": "xyp-183",
         "name": "Mewtwo-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13760,7 +13760,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY184",
+        "id": "xyp-184",
         "name": "Giratina",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13838,7 +13838,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY185",
+        "id": "xyp-185",
         "name": "Volcanion",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13914,7 +13914,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY186",
+        "id": "xyp-186",
         "name": "Magearna",
         "supertype": "Pokémon",
         "subtypes": [
@@ -13991,7 +13991,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY187",
+        "id": "xyp-187",
         "name": "Celebi",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14062,7 +14062,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY188",
+        "id": "xyp-188",
         "name": "Shaymin",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14136,7 +14136,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY189",
+        "id": "xyp-189",
         "name": "Victini",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14208,7 +14208,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY190",
+        "id": "xyp-190",
         "name": "Manaphy",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14280,7 +14280,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY191",
+        "id": "xyp-191",
         "name": "Keldeo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14351,7 +14351,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY192",
+        "id": "xyp-192",
         "name": "Mew",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14424,7 +14424,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY193",
+        "id": "xyp-193",
         "name": "Meloetta",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14496,7 +14496,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY194",
+        "id": "xyp-194",
         "name": "Darkrai",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14576,7 +14576,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY195",
+        "id": "xyp-195",
         "name": "Jirachi",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14654,7 +14654,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY196",
+        "id": "xyp-196",
         "name": "Genesect",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14734,7 +14734,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY197",
+        "id": "xyp-197",
         "name": "Arceus",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14808,7 +14808,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY198",
+        "id": "xyp-198",
         "name": "M Camerupt-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14878,7 +14878,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY198a",
+        "id": "xyp-198a",
         "name": "M Camerupt-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -14948,7 +14948,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY199",
+        "id": "xyp-199",
         "name": "Camerupt Spirit Link",
         "supertype": "Trainer",
         "subtypes": [
@@ -14989,7 +14989,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY200",
+        "id": "xyp-200",
         "name": "M Sharpedo-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15057,7 +15057,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY200a",
+        "id": "xyp-200a",
         "name": "M Sharpedo-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15125,7 +15125,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY201",
+        "id": "xyp-201",
         "name": "Sharpedo Spirit Link",
         "supertype": "Trainer",
         "subtypes": [
@@ -15166,7 +15166,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY202",
+        "id": "xyp-202",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -15248,7 +15248,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY203",
+        "id": "xyp-203",
         "name": "Gym Badge",
         "supertype": "Trainer",
         "subtypes": [
@@ -15288,7 +15288,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY204",
+        "id": "xyp-204",
         "name": "Gym Badge",
         "supertype": "Trainer",
         "subtypes": [
@@ -15328,7 +15328,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY205",
+        "id": "xyp-205",
         "name": "Gym Badge",
         "supertype": "Trainer",
         "subtypes": [
@@ -15368,7 +15368,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY206",
+        "id": "xyp-206",
         "name": "Gym Badge",
         "supertype": "Trainer",
         "subtypes": [
@@ -15408,7 +15408,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY207",
+        "id": "xyp-207",
         "name": "Gym Badge",
         "supertype": "Trainer",
         "subtypes": [
@@ -15448,7 +15448,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY208",
+        "id": "xyp-208",
         "name": "Gym Badge",
         "supertype": "Trainer",
         "subtypes": [
@@ -15488,7 +15488,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY209",
+        "id": "xyp-209",
         "name": "Gym Badge",
         "supertype": "Trainer",
         "subtypes": [
@@ -15528,7 +15528,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY210",
+        "id": "xyp-210",
         "name": "Gym Badge",
         "supertype": "Trainer",
         "subtypes": [
@@ -15568,7 +15568,7 @@ let promoXy = [
         }
     },
     {
-        "id": "xyp-XY211",
+        "id": "xyp-211",
         "name": "Lucario Spirit Link",
         "supertype": "Trainer",
         "subtypes": [

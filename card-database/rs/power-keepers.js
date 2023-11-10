@@ -1,4 +1,4 @@
-let powerKeepers = [
+let ex16 = [
     {
         "id": "ex16-1",
         "name": "Aggron",

@@ -1,4 +1,4 @@
-let boundariesCrossed = [
+let bw7 = [
     {
         "id": "bw7-1",
         "name": "Oddish",

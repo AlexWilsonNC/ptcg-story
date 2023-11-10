@@ -1,4 +1,4 @@
-let emergingPowers = [
+let bw2 = [
     {
         "id": "bw2-1",
         "name": "Pansage",

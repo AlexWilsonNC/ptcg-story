@@ -1,4 +1,4 @@
-let fatesCollide = [
+let xy10 = [
     {
         "id": "xy10-1",
         "name": "Shuckle",

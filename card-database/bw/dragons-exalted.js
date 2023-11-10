@@ -1,4 +1,4 @@
-let dragonsExalted = [
+let bw6 = [
     {
         "id": "bw6-1",
         "name": "Hoppip",

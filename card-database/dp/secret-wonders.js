@@ -1,4 +1,4 @@
-let secretWonders = [
+let dp3 = [
     {
         "id": "dp3-1",
         "name": "Ampharos",

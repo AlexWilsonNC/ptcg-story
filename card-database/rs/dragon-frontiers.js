@@ -1,4 +1,4 @@
-let dragonFrontiers = [
+let ex15 = [
     {
         "id": "ex15-1",
         "name": "Ampharos δ",

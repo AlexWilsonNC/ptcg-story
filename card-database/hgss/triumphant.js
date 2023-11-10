@@ -1,4 +1,4 @@
-let triumphant = [
+let hgss4 = [
     {
         "id": "hgss4-1",
         "name": "Aggron",

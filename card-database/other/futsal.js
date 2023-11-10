@@ -1,4 +1,4 @@
-let futsal = [
+let fut20 = [
     {
         "id": "fut20-1",
         "name": "Pikachu on the Ball",

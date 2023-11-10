@@ -1,4 +1,4 @@
-let arceus = [
+let pl4 = [
     {
         "id": "pl4-1",
         "name": "Charizard",

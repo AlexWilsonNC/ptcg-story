@@ -1,4 +1,4 @@
-let plasmaFreeze = [
+let bw9 = [
     {
         "id": "bw9-1",
         "name": "Weedle",

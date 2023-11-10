@@ -1,4 +1,4 @@
-let dragon = [
+let ex3 = [
     {
         "id": "ex3-1",
         "name": "Absol",

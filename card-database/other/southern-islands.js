@@ -1,4 +1,4 @@
-let southernIslands = [
+let si1 = [
     {
         "id": "si1-1",
         "name": "Mew",

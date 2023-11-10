@@ -1,4 +1,4 @@
-let undaunted = [
+let hgss3 = [
     {
         "id": "hgss3-1",
         "name": "Bellossom",

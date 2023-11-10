@@ -1,4 +1,4 @@
-let deoxys = [
+let ex8 = [
     {
         "id": "ex8-1",
         "name": "Altaria",

@@ -1,4 +1,4 @@
-let legendaryTreasures = [
+let bw11 = [
     {
         "id": "bw11-1",
         "name": "Tangela",

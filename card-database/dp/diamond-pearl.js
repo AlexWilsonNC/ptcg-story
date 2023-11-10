@@ -1,4 +1,4 @@
-let diamondPearl = [
+let dp1 = [
     {
         "id": "dp1-1",
         "name": "Dialga",

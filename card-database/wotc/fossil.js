@@ -1,4 +1,4 @@
-let fossil = [
+let base3 = [
     {
         "id": "base3-1",
         "name": "Aerodactyl",

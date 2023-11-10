@@ -1,4 +1,4 @@
-let destiny = [
+let neo4 = [
     {
         "id": "neo4-1",
         "name": "Dark Ampharos",

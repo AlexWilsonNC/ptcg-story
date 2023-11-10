@@ -1,4 +1,4 @@
-let promoDp = [
+let dpp = [
     {
         "id": "dpp-DP01",
         "name": "Turtwig",

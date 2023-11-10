@@ -1,4 +1,4 @@
-let fireredLeafgreen = [
+let ex6 = [
     {
         "id": "ex6-1",
         "name": "Beedrill",

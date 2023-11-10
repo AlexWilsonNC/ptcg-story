@@ -1,4 +1,4 @@
-let risingRivals = [
+let pl2 = [
     {
         "id": "pl2-1",
         "name": "Arcanine",

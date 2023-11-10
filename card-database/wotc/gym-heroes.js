@@ -1,4 +1,4 @@
-let gymHeroes = [
+let gym1 = [
     {
         "id": "gym1-1",
         "name": "Blaine's Moltres",

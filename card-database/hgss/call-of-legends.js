@@ -1,4 +1,4 @@
-let callOfLegends = [
+let col1 = [
     {
         "id": "col1-1",
         "name": "Clefable",

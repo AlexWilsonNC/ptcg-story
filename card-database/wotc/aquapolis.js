@@ -1,4 +1,4 @@
-let aquapolis = [
+let ecard2 = [
     {
         "id": "ecard2-H1",
         "name": "Ampharos",

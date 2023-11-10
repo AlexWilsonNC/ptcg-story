@@ -1,4 +1,4 @@
-let rubySapphire = [
+let ex1 = [
     {
         "id": "ex1-1",
         "name": "Aggron",

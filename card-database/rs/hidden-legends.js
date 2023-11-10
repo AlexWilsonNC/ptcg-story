@@ -1,4 +1,4 @@
-let hiddenLegends = [
+let ex5 = [
     {
         "id": "ex5-1",
         "name": "Banette",

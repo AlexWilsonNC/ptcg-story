@@ -1,4 +1,4 @@
-let rumble = [
+let ru1 = [
     {
         "id": "ru1-1",
         "name": "Venusaur",

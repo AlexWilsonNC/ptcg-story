@@ -1,4 +1,4 @@
-let generations = [
+let g1 = [
     {
         "id": "g1-1",
         "name": "Venusaur-EX",

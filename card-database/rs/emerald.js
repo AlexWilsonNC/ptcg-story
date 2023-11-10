@@ -1,4 +1,4 @@
-let emerald = [
+let ex9 = [
     {
         "id": "ex9-1",
         "name": "Blaziken",

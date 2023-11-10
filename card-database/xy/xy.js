@@ -1,4 +1,4 @@
-let xySet = [
+let xy1 = [
     {
         "id": "xy1-1",
         "name": "Venusaur-EX",

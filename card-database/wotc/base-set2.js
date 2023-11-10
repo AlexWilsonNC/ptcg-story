@@ -1,4 +1,4 @@
-let baseSet2 = [
+let base4 = [
     {
         "id": "base4-1",
         "name": "Alakazam",

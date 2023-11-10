@@ -1,4 +1,4 @@
-let flashfire = [
+let xy2 = [
     {
         "id": "xy2-1",
         "name": "Caterpie",

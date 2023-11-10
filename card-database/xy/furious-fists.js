@@ -1,4 +1,4 @@
-let furiousFists = [
+let xy3 = [
     {
         "id": "xy3-1",
         "name": "Bellsprout",

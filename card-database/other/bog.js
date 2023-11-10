@@ -1,4 +1,4 @@
-let bog = [
+let bp = [
     {
         "id": "bp-1",
         "name": "Electabuzz",

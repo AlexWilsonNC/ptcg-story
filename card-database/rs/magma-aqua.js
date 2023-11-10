@@ -1,4 +1,4 @@
-let magmaAqua = [
+let ex4 = [
     {
         "id": "ex4-1",
         "name": "Team Aqua's Cacturne",

@@ -1,4 +1,4 @@
-let kalos = [
+let xy0 = [
     {
         "id": "xy0-1",
         "name": "Weedle",

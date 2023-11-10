@@ -1,4 +1,4 @@
-let supremeVictors = [
+let pl3 = [
     {
         "id": "pl3-1",
         "name": "Absol G",

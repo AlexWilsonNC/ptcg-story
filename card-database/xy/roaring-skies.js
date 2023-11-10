@@ -1,4 +1,4 @@
-let roaringSkies = [
+let xy6 = [
     {
         "id": "xy6-1",
         "name": "Exeggcute",

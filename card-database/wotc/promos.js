@@ -1,4 +1,4 @@
-let promoWotc = [
+let basep = [
     {
         "id": "basep-1",
         "name": "Pikachu",

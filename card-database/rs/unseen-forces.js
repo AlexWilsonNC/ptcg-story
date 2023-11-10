@@ -1,4 +1,4 @@
-let unseenForces = [
+let ex10 = [
     {
         "id": "ex10-1",
         "name": "Ampharos",

@@ -1,4 +1,4 @@
-let expedition = [
+let ecard1 = [
     {
         "id": "ecard1-1",
         "name": "Alakazam",
