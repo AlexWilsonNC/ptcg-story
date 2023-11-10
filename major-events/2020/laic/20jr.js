@@ -943,16 +943,16 @@ let masters = [
             "set": "CEC"
         },
         {
-          "count": 1,
-            "name": "Fairy Charm UB",
-            "number": "142",
-            "set": "TEU"
-        },
-        {
           "count": 2,
             "name": "Fairy Charm Psychic",
             "number": "175",
             "set": "LOT"
+        },
+        {
+          "count": 1,
+            "name": "Fairy Charm UB",
+            "number": "142",
+            "set": "TEU"
         },
         {
           "count": 1,

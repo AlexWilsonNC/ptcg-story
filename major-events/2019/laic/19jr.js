@@ -408,8 +408,8 @@ let masters = [
         {
           "count": 2,
           "name": "Great Ball",
-          "number": "164",
-          "set": "SSH"
+          "number": "119",
+          "set": "SUM"
         },
         {
           "count": 2,

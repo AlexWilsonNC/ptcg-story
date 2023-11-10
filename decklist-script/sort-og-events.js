@@ -43,7 +43,6 @@ function displayList(array = []) {
         deck.appendChild(listIcon);
 
         if (item.list === '../../assets/list-icon.png' || '../../../assets/list-icon.png') {
-
             item_element.addEventListener('click', function () {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
@@ -183,7 +182,7 @@ function displayList(array = []) {
 
             })
             // console.log(item.deckid)
-        }
+        } 
         renderedList.appendChild(item_element);
     }
 }

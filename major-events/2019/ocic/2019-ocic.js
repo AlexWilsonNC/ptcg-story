@@ -6073,8 +6073,8 @@ let masters = [
         {
           "count": 4,
           "name": "Great Ball",
-          "number": "164",
-          "set": "SSH"
+          "number": "119",
+          "set": "SUM"
         },
         {
           "count": 3,
