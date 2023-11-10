@@ -11385,326 +11385,102 @@ let sm1 = [
         }
     },
     {
-        "id": "sm1-164",
-        "name": "Grass Energy",
+        "id": "sm1-grass",
         "supertype": "Energy",
         "subtypes": [
             "Basic"
         ],
-        "set": {
-            "id": "sm1",
-            "name": "Sun & Moon",
-            "series": "Sun & Moon",
-            "printedTotal": 149,
-            "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "SUM",
-            "releaseDate": "2017/02/03",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
-                "logo": "https://images.pokemontcg.io/sm1/logo.png"
-            }
-        },
-        "number": "164",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "images": {
-            "small": "https://images.pokemontcg.io/sm1/164.png",
-            "large": "https://images.pokemontcg.io/sm1/164_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_G_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_G_R_EN.png"
         }
     },
     {
-        "id": "sm1-165",
-        "name": "Fire Energy",
+        "id": "sm1-fire",
         "supertype": "Energy",
         "subtypes": [
             "Basic"
         ],
-        "set": {
-            "id": "sm1",
-            "name": "Sun & Moon",
-            "series": "Sun & Moon",
-            "printedTotal": 149,
-            "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "SUM",
-            "releaseDate": "2017/02/03",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
-                "logo": "https://images.pokemontcg.io/sm1/logo.png"
-            }
-        },
-        "number": "165",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "images": {
-            "small": "https://images.pokemontcg.io/sm1/165.png",
-            "large": "https://images.pokemontcg.io/sm1/165_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_R_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_R_R_EN.png"
         }
     },
     {
-        "id": "sm1-166",
-        "name": "Water Energy",
+        "id": "sm1-water",
         "supertype": "Energy",
         "subtypes": [
             "Basic"
         ],
-        "set": {
-            "id": "sm1",
-            "name": "Sun & Moon",
-            "series": "Sun & Moon",
-            "printedTotal": 149,
-            "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "SUM",
-            "releaseDate": "2017/02/03",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
-                "logo": "https://images.pokemontcg.io/sm1/logo.png"
-            }
-        },
-        "number": "166",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "images": {
-            "small": "https://images.pokemontcg.io/sm1/166.png",
-            "large": "https://images.pokemontcg.io/sm1/166_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_W_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_W_R_EN.png"
         }
     },
     {
-        "id": "sm1-167",
-        "name": "Lightning Energy",
+        "id": "sm1-lightning",
         "supertype": "Energy",
         "subtypes": [
             "Basic"
         ],
-        "set": {
-            "id": "sm1",
-            "name": "Sun & Moon",
-            "series": "Sun & Moon",
-            "printedTotal": 149,
-            "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "SUM",
-            "releaseDate": "2017/02/03",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
-                "logo": "https://images.pokemontcg.io/sm1/logo.png"
-            }
-        },
-        "number": "167",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "images": {
-            "small": "https://images.pokemontcg.io/sm1/167.png",
-            "large": "https://images.pokemontcg.io/sm1/167_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_L_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_L_R_EN.png"
         }
     },
     {
-        "id": "sm1-168",
-        "name": "Psychic Energy",
+        "id": "sm1-fighting",
         "supertype": "Energy",
         "subtypes": [
             "Basic"
         ],
-        "set": {
-            "id": "sm1",
-            "name": "Sun & Moon",
-            "series": "Sun & Moon",
-            "printedTotal": 149,
-            "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "SUM",
-            "releaseDate": "2017/02/03",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
-                "logo": "https://images.pokemontcg.io/sm1/logo.png"
-            }
-        },
-        "number": "168",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "images": {
-            "small": "https://images.pokemontcg.io/sm1/168.png",
-            "large": "https://images.pokemontcg.io/sm1/168_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_F_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_F_R_EN.png"
         }
     },
     {
-        "id": "sm1-169",
-        "name": "Fighting Energy",
+        "id": "sm1-psychic",
         "supertype": "Energy",
         "subtypes": [
             "Basic"
         ],
-        "set": {
-            "id": "sm1",
-            "name": "Sun & Moon",
-            "series": "Sun & Moon",
-            "printedTotal": 149,
-            "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "SUM",
-            "releaseDate": "2017/02/03",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
-                "logo": "https://images.pokemontcg.io/sm1/logo.png"
-            }
-        },
-        "number": "169",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "images": {
-            "small": "https://images.pokemontcg.io/sm1/169.png",
-            "large": "https://images.pokemontcg.io/sm1/169_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_P_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_P_R_EN.png"
         }
     },
     {
-        "id": "sm1-170",
-        "name": "Darkness Energy",
+        "id": "sm1-dark",
         "supertype": "Energy",
         "subtypes": [
             "Basic"
         ],
-        "set": {
-            "id": "sm1",
-            "name": "Sun & Moon",
-            "series": "Sun & Moon",
-            "printedTotal": 149,
-            "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "SUM",
-            "releaseDate": "2017/02/03",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
-                "logo": "https://images.pokemontcg.io/sm1/logo.png"
-            }
-        },
-        "number": "170",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "images": {
-            "small": "https://images.pokemontcg.io/sm1/170.png",
-            "large": "https://images.pokemontcg.io/sm1/170_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_D_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_D_R_EN.png"
         }
     },
     {
-        "id": "sm1-171",
-        "name": "Metal Energy",
+        "id": "sm1-metal",
         "supertype": "Energy",
         "subtypes": [
             "Basic"
         ],
-        "set": {
-            "id": "sm1",
-            "name": "Sun & Moon",
-            "series": "Sun & Moon",
-            "printedTotal": 149,
-            "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "SUM",
-            "releaseDate": "2017/02/03",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
-                "logo": "https://images.pokemontcg.io/sm1/logo.png"
-            }
-        },
-        "number": "171",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "standard": "Legal",
-            "expanded": "Legal"
-        },
         "images": {
-            "small": "https://images.pokemontcg.io/sm1/171.png",
-            "large": "https://images.pokemontcg.io/sm1/171_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_M_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_M_R_EN.png"
         }
     },
     {
-        "id": "sm1-172",
-        "name": "Fairy Energy",
+        "id": "sm1-fairy",
         "supertype": "Energy",
         "subtypes": [
             "Basic"
         ],
-        "set": {
-            "id": "sm1",
-            "name": "Sun & Moon",
-            "series": "Sun & Moon",
-            "printedTotal": 149,
-            "total": 173,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "SUM",
-            "releaseDate": "2017/02/03",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sm1/symbol.png",
-                "logo": "https://images.pokemontcg.io/sm1/logo.png"
-            }
-        },
-        "number": "172",
-        "rarity": "Common",
-        "legalities": {
-            "unlimited": "Legal",
-            "expanded": "Legal"
-        },
         "images": {
-            "small": "https://images.pokemontcg.io/sm1/172.png",
-            "large": "https://images.pokemontcg.io/sm1/172_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_Y_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/SUM/SUM_Y_R_EN.png"
         }
-    }
+    },
 ]

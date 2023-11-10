@@ -1,8 +1,8 @@
-const juniorList = document.querySelector('.juniors-ol');
+const masterList = document.querySelector('.masters-ol');
 const modalBottom = document.querySelector('.modal-bottom');
 
 function displayList(array = []) {
-    juniorList.innerHTML = '';
+    masterList.innerHTML = '';
 
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
@@ -48,7 +48,7 @@ function displayList(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + "<br><i>" + item.event + " " + "- Juniors</i>";
+                document.querySelector('.playerName').innerHTML = item.firstName + "<br><i>" + item.event + "</i>";
 
                 const copyButton = document.querySelector('.copy-to-clip');
 
@@ -57,7 +57,7 @@ function displayList(array = []) {
                     copyButton.setAttribute('value', "")
                     navigator.clipboard.writeText(copyButton.value)
                 })
-                
+
                 for (const cardType in item.decklist) {
                     item.decklist[cardType].forEach(card => {
 
@@ -98,12 +98,45 @@ function displayList(array = []) {
                             zoombox.className = "";
                         };
 
+                        if (card.name === "Grass Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-grass-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Water Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-water-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Lightning Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-lightning-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Fire Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-fire-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Psychic Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-psychic-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Fighting Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-fighting-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Metal Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-metal-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (card.name === "Dark Energy - Basic") {
+                            pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-dark-energy.jpg");
+                            pokeCard.classList.add('radius-card');
+                        }
+                        if (deck.radiusCard === true) {
+                            pokeCard.classList.add('radius-card')
+                        }
+
                         let numberCounter = document.createElement('img');
                         numberCounter.classList.add('num-1')
-                        numberCounter.setAttribute('src', "../../assets/card-count/" + card.count + ".png");
-                        if (item.event.includes('Internationals')) {
-                            numberCounter.setAttribute('src', "../../../assets/card-count/" + card.count + ".png");
-                            }
+                        numberCounter.setAttribute('src', "../../../../assets/card-count/" + card.count + ".png");
 
                         cardSpace.appendChild(pokeCard);
                         cardSpace.appendChild(numberCounter);
@@ -130,7 +163,7 @@ function displayList(array = []) {
 
             })
         }
-        juniorList.appendChild(item_element);
+        masterList.appendChild(item_element);
     }
 }
 
@@ -138,4 +171,4 @@ const modal = document.querySelector('.modal');
 const modalX = document.querySelector('.modal-x');
 const behind = document.querySelector('.behind-modal');
 
-displayList(juniors);
+displayList(masters);
