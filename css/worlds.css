@@ -2209,7 +2209,7 @@ li {
         font-size: 11px;
     }
 }
-@media screen and (max-height: 749px) {
+@media screen and (max-height: 700px) {
     .pok-card-small {
         width: 45px;
     }
