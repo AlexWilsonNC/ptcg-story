@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/necrozma-ultra.png',
       list: '../../../assets/list-icon.png',
       deckid: "malamar",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -173,7 +173,7 @@ let masters = [
       sprite2: '../../../assets/sprites/buzzwole.png',
       list: '../../../assets/list-icon.png',
       deckid: "zap-beasts",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -340,7 +340,7 @@ let masters = [
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-lycanroc",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -579,7 +579,7 @@ let masters = [
       sprite2: '../../../assets/sprites/naganadel.png',
       list: '../../../assets/list-icon.png',
       deckid: "blacephalon-naganadel",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -710,7 +710,7 @@ let masters = [
       sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "pikarom",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -859,7 +859,7 @@ let masters = [
       sprite2: '../../../assets/sprites/buzzwole.png',
       list: '../../../assets/list-icon.png',
       deckid: "zap-beasts",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -1026,7 +1026,7 @@ let masters = [
       sprite2: '../../../assets/sprites/buzzwole.png',
       list: '../../../assets/list-icon.png',
       deckid: "zap-beasts",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -1205,7 +1205,7 @@ let masters = [
       sprite2: '../../../assets/sprites/naganadel.png',
       list: '../../../assets/list-icon.png',
       deckid: "blacephalon-naganadel",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Juniors",
       decklist: {
         "pokemon": [
           {

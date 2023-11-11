@@ -2209,7 +2209,14 @@ li {
         font-size: 11px;
     }
 }
-
+@media screen and (max-height: 749px) {
+    .pok-card-small {
+        width: 45px;
+    }
+    .num-1 {
+        width: 13px;
+    }
+}
 @media screen and (max-width: 370px) {
     .others-box {
         width: 130px;

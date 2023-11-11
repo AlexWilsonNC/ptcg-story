@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-lycanroc",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -173,7 +173,7 @@ let masters = [
       sprite2: '../../../assets/sprites/garbodor.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-garbodor",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -340,7 +340,7 @@ let masters = [
       sprite2: '../../../assets/sprites/necrozma-ultra.png',
       list: '../../../assets/list-icon.png',
       deckid: "malamar",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -507,7 +507,7 @@ let masters = [
       sprite2: '../../../assets/sprites/necrozma.png',
       list: '../../../assets/list-icon.png',
       deckid: "malamar",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -650,7 +650,7 @@ let masters = [
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
       deckid: "buzzwole-gx",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -805,7 +805,7 @@ let masters = [
       sprite2: '../../../assets/sprites/marshadow.png',
       list: '../../../assets/list-icon.png',
       deckid: "malamar",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -972,7 +972,7 @@ let masters = [
       sprite2: '../../../assets/sprites/garbodor.png',
       list: '../../../assets/list-icon.png',
       deckid: "buzzwole-garbodor",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -1109,7 +1109,7 @@ let masters = [
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
       deckid: "buzzwole-gx",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {

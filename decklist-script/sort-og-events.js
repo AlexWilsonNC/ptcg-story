@@ -182,7 +182,7 @@ function displayList(array = []) {
 
             })
             // console.log(item.deckid)
-        } 
+        }
         renderedList.appendChild(item_element);
     }
 }

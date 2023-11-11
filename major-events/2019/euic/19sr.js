@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/buzzwole.png',
       list: '../../../assets/list-icon.png',
       deckid: "zap-beasts",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -179,7 +179,7 @@ let masters = [
       sprite2: '../../../assets/sprites/buzzwole.png',
       list: '../../../assets/list-icon.png',
       deckid: "zap-beasts",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -352,7 +352,7 @@ let masters = [
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-lycanroc",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -543,7 +543,7 @@ let masters = [
       sprite2: '../../../assets/sprites/hoopa-unbound.png',
       list: '../../../assets/list-icon.png',
       deckid: "wall",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -728,7 +728,7 @@ let masters = [
       sprite2: '../../../assets/sprites/oranguru.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-control",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -895,7 +895,7 @@ let masters = [
       sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "pikarom",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -1044,7 +1044,7 @@ let masters = [
       sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "pikarom",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -1205,7 +1205,7 @@ let masters = [
       sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "pikarom",
-      event: "2019 Europe Internationals",
+      event: "2019 Europe Internationals - Seniors",
       decklist: {
         "pokemon": [
           {

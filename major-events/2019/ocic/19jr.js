@@ -5,7 +5,7 @@ let masters = [
       sprite1: '../../../assets/sprites/blank.png',
       sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Juniors",
       deckid: "pikarom",
       decklist: {
         "pokemon": [
@@ -148,7 +148,7 @@ let masters = [
       sprite1: '../../../assets/sprites/blank.png',
       sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Juniors",
       deckid: "pikarom",
       decklist: {
         "pokemon": [
@@ -303,7 +303,7 @@ let masters = [
       sprite1: '../../../assets/sprites/blank.png',
       sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Juniors",
       deckid: "pikarom",
       decklist: {
         "pokemon": [
@@ -458,7 +458,7 @@ let masters = [
       sprite1: '../../../assets/sprites/blacephalon.png',
       sprite2: '../../../assets/sprites/naganadel.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Juniors",
       deckid: "blacephalon-naganadel",
       decklist: {
         "pokemon": [
@@ -589,7 +589,7 @@ let masters = [
       sprite1: '../../../assets/sprites/blank.png',
       sprite2: '../../../assets/sprites/zapdos.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Juniors",
       deckid: "zapdos",
       decklist: {
         "pokemon": [
@@ -744,7 +744,7 @@ let masters = [
       sprite1: '../../../assets/sprites/malamar.png',
       sprite2: '../../../assets/sprites/necrozma-ultra.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Juniors",
       deckid: "malamar",
       decklist: {
         "pokemon": [
@@ -893,7 +893,7 @@ let masters = [
       sprite1: '../../../assets/sprites/zoroark.png',
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Juniors",
       deckid: "zoroark-lycanroc",
       decklist: {
         "pokemon": [
@@ -1102,7 +1102,7 @@ let masters = [
       sprite1: '../../../assets/sprites/zoroark.png',
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Juniors",
       deckid: "zoroark-lycanroc",
       decklist: {
         "pokemon": [

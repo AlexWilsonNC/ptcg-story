@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
       deckid: "buzzwole-gx",
-      event: "2019 Latin America Internationals",
+      event: "2019 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -167,7 +167,7 @@ let masters = [
       sprite2: '../../../assets/sprites/naganadel.png',
       list: '../../../assets/list-icon.png',
       deckid: "blacephalon-naganadel",
-      event: "2019 Latin America Internationals",
+      event: "2019 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -304,7 +304,7 @@ let masters = [
       sprite2: '../../../assets/sprites/decidueye.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-decidueye",
-      event: "2019 Latin America Internationals",
+      event: "2019 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -483,7 +483,7 @@ let masters = [
       sprite2: '../../../assets/sprites/ninetales-alola.png',
       list: '../../../assets/list-icon.png',
       deckid: "buzzwole-gx",
-      event: "2019 Latin America Internationals",
+      event: "2019 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -638,7 +638,7 @@ let masters = [
       sprite2: '../../../assets/sprites/oranguru.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-control",
-      event: "2019 Latin America Internationals",
+      event: "2019 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -835,7 +835,7 @@ let masters = [
       sprite2: '../../../assets/sprites/tapu-koko.png',
       list: '../../../assets/list-icon.png',
       deckid: "passimian",
-      event: "2019 Latin America Internationals",
+      event: "2019 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -984,7 +984,7 @@ let masters = [
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-lycanroc",
-      event: "2019 Latin America Internationals",
+      event: "2019 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -1169,7 +1169,7 @@ let masters = [
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-lycanroc",
-      event: "2019 Latin America Internationals",
+      event: "2019 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {

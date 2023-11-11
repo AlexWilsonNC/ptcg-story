@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/keldeo.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -155,7 +155,7 @@ let masters = [
       sprite2: '../../../assets/sprites/pidgeotto.png',
       list: '../../../assets/list-icon.png',
       deckid: "guru-pidgey",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -346,7 +346,7 @@ let masters = [
       sprite2: '../../../assets/sprites/keldeo.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -513,7 +513,7 @@ let masters = [
       sprite2: '../../../assets/sprites/keldeo.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -680,7 +680,7 @@ let masters = [
       sprite2: '../../../assets/sprites/giratina.png',
       list: '../../../assets/list-icon.png',
       deckid: "malamar",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -835,7 +835,7 @@ let masters = [
       sprite2: '../../../assets/sprites/xerneas-active.png',
       list: '../../../assets/list-icon.png',
       deckid: "gardevoir-sylveon-tagteam",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -990,7 +990,7 @@ let masters = [
       sprite2: '../../../assets/sprites/giratina.png',
       list: '../../../assets/list-icon.png',
       deckid: "malamar",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -1145,7 +1145,7 @@ let masters = [
       sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "mewtwo-and-mew-tagteam",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {

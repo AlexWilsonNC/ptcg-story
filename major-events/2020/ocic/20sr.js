@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/malamar.png',
       list: '../../../assets/list-icon.png',
       deckid: "malamar-mewtwo-and-mew-tagteam",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -197,7 +197,7 @@ let masters = [
       sprite2: '../../../assets/sprites/ninetales.png',
       list: '../../../assets/list-icon.png',
       deckid: "reshizard",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -358,7 +358,7 @@ let masters = [
       sprite2: '../../../assets/sprites/oranguru.png',
       list: '../../../assets/list-icon.png',
       deckid: "oranguru-mill",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -543,7 +543,7 @@ let masters = [
       sprite2: '../../../assets/sprites/ninetales.png',
       list: '../../../assets/list-icon.png',
       deckid: "reshizard",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -680,7 +680,7 @@ let masters = [
       sprite2: '../../../assets/sprites/zacian-crowned.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -847,7 +847,7 @@ let masters = [
       sprite2: '../../../assets/sprites/zacian-crowned.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -1032,7 +1032,7 @@ let masters = [
       sprite2: '../../../assets/sprites/zacian-crowned.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -1193,7 +1193,7 @@ let masters = [
       sprite2: '../../../assets/sprites/pidgeotto.png',
       list: '../../../assets/list-icon.png',
       deckid: "guru-pidgey",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Seniors",
       decklist: {
         "pokemon": [
           {

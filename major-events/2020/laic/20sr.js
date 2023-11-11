@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "mewtwo-and-mew-tagteam",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -179,7 +179,7 @@ let masters = [
       sprite2: '../../../assets/sprites/keldeo.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -334,7 +334,7 @@ let masters = [
       sprite2: '../../../assets/sprites/pidgeotto.png',
       list: '../../../assets/list-icon.png',
       deckid: "guru-pidgey",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -531,7 +531,7 @@ let masters = [
       sprite2: '../../../assets/sprites/mewtwo-mew-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "mewtwo-and-mew-tagteam",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -722,7 +722,7 @@ let masters = [
       sprite2: '../../../assets/sprites/charizard-braixen-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "charizard-braixen",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -889,7 +889,7 @@ let masters = [
       sprite2: '../../../assets/sprites/munchlax.png',
       list: '../../../assets/list-icon.png',
       deckid: "florges-munchlax",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -1068,7 +1068,7 @@ let masters = [
       sprite2: '../../../assets/sprites/keldeo.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -1217,7 +1217,7 @@ let masters = [
       sprite2: '../../../assets/sprites/keldeo.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Latin America Internationals",
+      event: "2020 Latin America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {

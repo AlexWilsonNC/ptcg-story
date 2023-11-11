@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
       deckid: "buzzwole-gx",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -155,7 +155,7 @@ let masters = [
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
       deckid: "buzzwole-gx",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -304,7 +304,7 @@ let masters = [
       sprite2: '../../../assets/sprites/garbodor.png',
       list: '../../../assets/list-icon.png',
       deckid: "buzzwole-garbodor",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -453,7 +453,7 @@ let masters = [
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-lycanroc",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -638,7 +638,7 @@ let masters = [
       sprite2: '../../../assets/sprites/garbodor.png',
       list: '../../../assets/list-icon.png',
       deckid: "golisopod-garbodor",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -793,7 +793,7 @@ let masters = [
       sprite2: '../../../assets/sprites/garbodor.png',
       list: '../../../assets/list-icon.png',
       deckid: "buzzwole-garbodor",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -936,7 +936,7 @@ let masters = [
       sprite2: '../../../assets/sprites/golisopod.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-golisopod",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -1103,7 +1103,7 @@ let masters = [
       sprite2: '../../../assets/sprites/garbodor.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-garbodor",
-      event: "2018 North America Internationals",
+      event: "2018 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {

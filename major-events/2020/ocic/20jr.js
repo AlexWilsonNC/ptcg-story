@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/zacian-crowned.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -155,7 +155,7 @@ let masters = [
       sprite2: '../../../assets/sprites/malamar.png',
       list: '../../../assets/list-icon.png',
       deckid: "malamar-mewtwo-and-mew-tagteam",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -340,7 +340,7 @@ let masters = [
       sprite2: '../../../assets/sprites/zacian-crowned.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -489,7 +489,7 @@ let masters = [
       sprite2: '../../../assets/sprites/oranguru.png',
       list: '../../../assets/list-icon.png',
       deckid: "oranguru-mill",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -662,7 +662,7 @@ let masters = [
       sprite2: '../../../assets/sprites/zacian-crowned.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -823,7 +823,7 @@ let masters = [
       sprite2: '../../../assets/sprites/zacian-crowned.png',
       list: '../../../assets/list-icon.png',
       deckid: "adp",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -990,7 +990,7 @@ let masters = [
       sprite2: '../../../assets/sprites/blacephalon.png',
       list: '../../../assets/list-icon.png',
       deckid: "baby-blowns",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -1145,7 +1145,7 @@ let masters = [
       sprite2: '../../../assets/sprites/blacephalon.png',
       list: '../../../assets/list-icon.png',
       deckid: "baby-blowns",
-      event: "2020 Oceania Internationals",
+      event: "2020 Oceania Internationals - Juniors",
       decklist: {
         "pokemon": [
           {

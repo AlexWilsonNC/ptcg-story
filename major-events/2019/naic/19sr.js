@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/dewgong.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-checkmate",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -203,7 +203,7 @@ let masters = [
       sprite2: '../../../assets/sprites/weezing.png',
       list: '../../../assets/list-icon.png',
       deckid: "weezing",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -382,7 +382,7 @@ let masters = [
       sprite2: '../../../assets/sprites/dewgong.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-checkmate",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -579,7 +579,7 @@ let masters = [
       sprite2: '../../../assets/sprites/persian.png',
       list: '../../../assets/list-icon.png',
       deckid: "zoroark-checkmate",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -776,7 +776,7 @@ let masters = [
       sprite2: '../../../assets/sprites/buzzwole.png',
       list: '../../../assets/list-icon.png',
       deckid: "zap-beasts",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -949,7 +949,7 @@ let masters = [
       sprite2: '../../../assets/sprites/weezing.png',
       list: '../../../assets/list-icon.png',
       deckid: "weezing",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -1128,7 +1128,7 @@ let masters = [
       sprite1: '../../../assets/sprites/hoopa-unbound.png',
       list: '../../../assets/list-icon.png',
       deckid: "wall",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {
@@ -1301,7 +1301,7 @@ let masters = [
       sprite2: '../../../assets/sprites/snorlax-eevee-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "reshizard",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Seniors",
       decklist: {
         "pokemon": [
           {

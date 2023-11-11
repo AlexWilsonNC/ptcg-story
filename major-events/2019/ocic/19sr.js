@@ -5,7 +5,7 @@ let masters = [
       sprite1: '../../../assets/sprites/zoroark.png',
       sprite2: '../../../assets/sprites/oranguru.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Seniors",
       deckid: "zoroark-control",
       decklist: {
         "pokemon": [
@@ -238,7 +238,7 @@ let masters = [
       sprite1: '../../../assets/sprites/zoroark.png',
       sprite2: '../../../assets/sprites/lycanroc-midnight.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Seniors",
       deckid: "zoroark-lycanroc",
       decklist: {
         "pokemon": [
@@ -405,7 +405,7 @@ let masters = [
       sprite1: '../../../assets/sprites/zapdos.png',
       sprite2: '../../../assets/sprites/jolteon.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Seniors",
       deckid: "zapdos",
       decklist: {
         "pokemon": [
@@ -572,7 +572,7 @@ let masters = [
       sprite1: '../../../assets/sprites/zapdos.png',
       sprite2: '../../../assets/sprites/jolteon.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Seniors",
       deckid: "zapdos",
       decklist: {
         "pokemon": [
@@ -739,7 +739,7 @@ let masters = [
       sprite1: '../../../assets/sprites/blank.png',
       sprite2: '../../../assets/sprites/zapdos.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Seniors",
       deckid: "zapdos",
       decklist: {
         "pokemon": [
@@ -888,7 +888,7 @@ let masters = [
       sprite1: '../../../assets/sprites/malamar.png',
       sprite2: '../../../assets/sprites/necrozma-ultra.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Seniors",
       deckid: "malamar",
       decklist: {
         "pokemon": [
@@ -1025,7 +1025,7 @@ let masters = [
       sprite1: '../../../assets/sprites/zapdos.png',
       sprite2: '../../../assets/sprites/buzzwole.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Seniors",
       deckid: "zap-beasts",
       decklist: {
         "pokemon": [
@@ -1186,7 +1186,7 @@ let masters = [
       sprite1: '../../../assets/sprites/zapdos.png',
       sprite2: '../../../assets/sprites/pikachu-zekrom-tagteam.png',
       list: '../../../assets/list-icon.png',
-      event: "2019 Oceania Internationals",
+      event: "2019 Oceania Internationals - Seniors",
       deckid: "pikarom",
       decklist: {
         "pokemon": [

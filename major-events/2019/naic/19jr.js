@@ -6,7 +6,7 @@ let masters = [
       sprite2: '../../../assets/sprites/buzzwole.png',
       list: '../../../assets/list-icon.png',
       deckid: "zap-beasts",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -191,7 +191,7 @@ let masters = [
       sprite2: '../../../assets/sprites/umbreon.png',
       list: '../../../assets/list-icon.png',
       deckid: "spiritomb",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -352,7 +352,7 @@ let masters = [
       sprite2: '../../../assets/sprites/buzzwole.png',
       list: '../../../assets/list-icon.png',
       deckid: "zap-beasts",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -525,7 +525,7 @@ let masters = [
       sprite2: '../../../assets/sprites/necrozma-ultra.png',
       list: '../../../assets/list-icon.png',
       deckid: "malamar",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -662,7 +662,7 @@ let masters = [
       sprite2: '../../../assets/sprites/snorlax-eevee-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "reshizard",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -823,7 +823,7 @@ let masters = [
       sprite2: '../../../assets/sprites/snorlax-eevee-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "reshizard",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -978,7 +978,7 @@ let masters = [
       sprite2: '../../../assets/sprites/snorlax-eevee-tagteam.png',
       list: '../../../assets/list-icon.png',
       deckid: "reshizard",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
@@ -1139,7 +1139,7 @@ let masters = [
       sprite2: '../../../assets/sprites/weezing.png',
       list: '../../../assets/list-icon.png',
       deckid: "weezing",
-      event: "2019 North America Internationals",
+      event: "2019 North America Internationals - Juniors",
       decklist: {
         "pokemon": [
           {
