@@ -15,6 +15,10 @@ function displayList(array = []) {
         let playerName = document.createElement('div');
         playerName.classList.add('name-n-flag');
 
+        if (item.banned === true) {
+            playerName.classList.add('crossed-out');
+        }
+
         let flagImg = document.createElement('img');
         flagImg.classList.add('flag-size');
         flagImg.setAttribute('src', item.flag);
