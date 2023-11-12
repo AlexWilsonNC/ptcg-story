@@ -7,16 +7,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='icon' href="https://i.ibb.co/rFQ53Qq/android-chrome-192x192.png" type='image/x-icon' alt='logo'>
 
-    <meta property='og:title' content='PTCG Legends' />
-    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg' />
-    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!' />
-    <meta property='og:url' content='www.ptcglegends.com' />
-    <meta property='og:image:width' content='1200' />
-    <meta property='og:image:height' content='627' />
-    <title>PTCG Legends | Regionals</title>
+    <title>Thailand Regional League | PTCG Legends</title>
+    <link rel="canonical" href="https://ptcglegends.com/articles/other/tournaments/regional-spe/2024/thailand-regional-league1/results" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Thailand Regional League | PTCG Legends" />
+    <meta property="og:description" content="Results of the Pokémon TCG 2024 Thailand Regional League." />
+    <meta property="og:url" content="https://ptcglegends.com/articles/other/tournaments/regional-spe/2024/thailand-regional-league1/results" />
+    <meta property="og:site_name" content="PTCG Legends" />
+    <meta property="article:publisher" content="https://www.facebook.com/alex.wilson.7503/" />
+    <meta property="og:image" content="https://asia.pokemon-card.com/build/images/my/ogp/ogp.png" />
+    <meta property="og:image:width" content="1278" />
+    <meta property="og:image:height" content="426" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta name="author" content="Alex Wilson" />
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@PTCG_Legends">
+    <meta name="twitter:title" content="Thailand Regional League | PTCG Legends">
+    <meta name="twitter:description" content="Results of the Pokémon TCG 2024 Thailand Regional League.">
+    <meta name="twitter:image" content="https://asia.pokemon-card.com/build/images/my/ogp/ogp.png">
+
     <link rel="stylesheet" href="../../../../style.css">
     <link rel="stylesheet" href="../../../../css/nav.css">
+    <link rel="stylesheet" href="../../../../css/worlds.css">
     <link rel="stylesheet" href="../../../../css/regionals.css">
+    <link rel="stylesheet" href="../../../../css/card-database.css">
     <link rel="stylesheet" href="../../../../css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -75,8 +91,8 @@
                         <li class='sub-nav'><a href="../../../../worlds/main">World Championships</a></li>
                         <li class='sub-nav'><a href="../../../../major-events/main">Major Events (ICs, Nats, SCs)</a></li>
                         <!-- <li class='sub-nav'><a href="../../../regional-spe"
-                                >Regionals & SPEs</a> -->
-                        </li>
+                                >Regionals & SPEs</a>
+                        </li> -->
                         <li class='bold tittle'><a href="../../../../decks-by-era/main">Decks by Era</a></li>
                         <hr>
                         <li class='bold tittle'><a href="../../../../articles/all">Articles</a></li>
@@ -112,6 +128,36 @@
             </nav>
         </div>
     </nav>
+    <div id='modal-section'>
+        <div class='modal'>
+            <div class='modal-top-new'>
+                <div class='modal-top-parts'>
+                    <div class='cs-plus-ap'>
+                        <p class='playerName'>Name</p>
+                    </div>
+                    <div class='modal-x'>
+                        <p>X</p>
+                    </div>
+                </div>
+                <div class='modal-buttons'>
+                    <button class='copy-to-clip'>Copy to Clipboard</button>
+                    <!-- <button class='change-list-view'>Change List View</button> -->
+                </div>
+            </div>
+            <div class='modal-bottom'>
+                <!-- <div class='pokemon-card'> -->
+                <!-- <img class='pok-card-small' src=''> -->
+                <!-- <img class='num-1' src=''> -->
+                <!-- </div> -->
+            </div>
+        </div>
+    </div>
+    <div class='behind-modal'></div>
+    <div class='second-behind-modal'></div>
+    
+    <div id='zoomed-bg'>
+        <img id='insert-zoomed-img' src='' alt='zoomed in card'>
+    </div>
 
     <div class='center'>
         <div class='regional-container'>
@@ -122,21 +168,34 @@
                         <img src='../../../../assets/flags/thailand.png' />
                     </div>
                     <p>November 11 - 12, 2023</p>
-                    <!-- <a href='https://maps.app.goo.gl/hJGW5F7BZc3cT5637' target="_blank">Venue Address</a> -->
                     <p>Venue Address: Bangkok</p>
+                    <p>Streams: --</p>
                 </div>
                 <hr class='reg-hr'>
                 <div class='outer-links'>
-                    <p><strong>Registration:</strong> <a href='https://asia.pokemon-card.com/th/archives/3083/' target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
-                    <!-- <p>Sep 6: 7pm EST (11pm UTC)</p> -->
                     <p><strong>Organizer:</strong> <a href='https://asia.pokemon-card.com/th/archives/3083/' target="_blank">TPC</a></p>
                     <p><strong>Format:</strong> Battle Styles - Raging Surf</p>
-                    <p>(Some Paradox Rift cards)</p>
+                    <p>(some Paradox Rift cards)</p>
+                    <p><strong>Day 1:</strong> -- Masters</p>
+                    <p><strong>Day 2:</strong> -- Masters</p>
                 </div>
             </div>
-            <div class='regional-result'>
-                <div class='pending'>
-                    <h3>Results will appear here if and when they are made available.</h3>
+            <div class='contain-event'>
+                <div id="zoom-card-box"></div>
+                <div class='event-content'>
+                        <!-- <div class='divisions' style='margin-top: -10px;'>
+                            <a class='dark-bg mastersBtn' href="./results">Masters</a>
+                            <a class='light-bg seniorsBtn' href="./results-seniors">Seniors</a>
+                            <a class='light-bg juniorsBtn' href="./results-juniors" style='opacity: 0.1;pointer-events: none;'>Juniors</a>
+                        </div>
+                        <br> -->
+                    <div class='event-results'>
+                        <div class='regional-result'>
+                            <ol class='masters-ol'><!--Rendered masters List--></ol>
+                            <ol class='seniors-ol'><!--Rendered seniors List--></ol>
+                            <ol class='juniors-ol'><!--Rendered juniors List--></ol>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -171,7 +230,51 @@
             website is simply a place for Pokémon TCG fans to look at events and results from the
             greatest game in history!</div>
     </footer>
-    <script src='../../../../darkmode/darkmode-regional.js'></script>
+    <script src='../../../../darkmode/darkmode-regional-more.js'></script>
+    <script src='./thai.js'></script>
+    <script src='../../../../decklist-script/regionals-temp.js'></script>
+    <script src='../../../../decklist-script/convert-set-names.js'></script>
+
+    <script src='../../../../card-database/sv/sv151.js'></script>
+    <script src='../../../../card-database/sv/sv3.js'></script>
+    <script src='../../../../card-database/sv/sv2.js'></script>
+    <script src='../../../../card-database/sv/sv1.js'></script>
+    <script src='../../../../card-database/sv/promos.js'></script>
+    <script src='../../../../card-database/swsh/lost-origin.js'></script>
+    <script src='../../../../card-database/swsh/brilliant-stars.js'></script>
+    <script src='../../../../card-database/swsh/astral-radiance.js'></script>
+    <script src='../../../../card-database/swsh/battle-styles.js'></script>
+    <script src='../../../../card-database/swsh/celebrations.js'></script>
+    <script src='../../../../card-database/swsh/chilling-reign.js'></script>
+    <script src='../../../../card-database/swsh/crown-zenith.js'></script>
+    <script src='../../../../card-database/swsh/evolving-skies.js'></script>
+    <script src='../../../../card-database/swsh/fusion-strike.js'></script>
+    <script src='../../../../card-database/swsh/pokemon-go.js'></script>
+    <script src='../../../../card-database/swsh/shining-fates.js'></script>
+    <script src='../../../../card-database/swsh/silver-tempest.js'></script>
+    <script src='../../../../card-database/swsh/vivid-voltage.js'></script>
+    <script src='../../../../card-database/swsh/champions-path.js'></script>
+    <script src='../../../../card-database/swsh/darkness-ablaze.js'></script>
+    <script src='../../../../card-database/swsh/rebel-clash.js'></script>
+    <script src='../../../../card-database/swsh/sword-shield.js'></script>
+    <script src='../../../../card-database/swsh/promos.js'></script>
+    <script src='../../../../card-database/sm/burning-shadow.js'></script>
+    <script src='../../../../card-database/sm/celestial-storm.js'></script>
+    <script src='../../../../card-database/sm/cosmic-eclipse.js'></script>
+    <script src='../../../../card-database/sm/crimson-invasion.js'></script>
+    <script src='../../../../card-database/sm/detective-pikachu.js'></script>
+    <script src='../../../../card-database/sm/dragon-majesty.js'></script>
+    <script src='../../../../card-database/sm/forbidden-light.js'></script>
+    <script src='../../../../card-database/sm/guardians-rising.js'></script>
+    <script src='../../../../card-database/sm/hidden-fates.js'></script>
+    <script src='../../../../card-database/sm/lost-thunder.js'></script>
+    <script src='../../../../card-database/sm/promos.js'></script>
+    <script src='../../../../card-database/sm/shining-legends.js'></script>
+    <script src='../../../../card-database/sm/sun-moon.js'></script>
+    <script src='../../../../card-database/sm/team-up.js'></script>
+    <script src='../../../../card-database/sm/ultra-prism.js'></script>
+    <script src='../../../../card-database/sm/unbroken-bonds.js'></script>
+    <script src='../../../../card-database/sm/unified-minds.js'></script>
 
 </body>
 
