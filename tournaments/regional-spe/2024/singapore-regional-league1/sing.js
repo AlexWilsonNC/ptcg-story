@@ -72,7 +72,7 @@ let masters = [
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Singapore Regional League #1",
     sprite1: '../../../../assets/sprites/chien-pao.png',
-    sprite2: '../../../../assets/sprites/baxcalibur.png',
+    sprite2: '../../../../assets/sprites/palkia-origin.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": { 
