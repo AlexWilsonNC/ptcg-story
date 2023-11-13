@@ -1288,9 +1288,9 @@ let masters = [
   },
   {
     firstName: 'Evan Bennett',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/shiftry.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -3542,8 +3542,8 @@ let juniors = [
   {
     firstName: 'Ukyo Kurashita',
     flag: '../../assets/flags/japan.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/ampharos.png',
+    sprite2: '../../assets/sprites/slaking.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
