@@ -667,10 +667,10 @@ let masters = [
           },
           {
             "count": 1,
-              "name": "Dialga GX",
-              "number": "82",
-              "set": "FLI"
-          },
+            "name": "Dialga GX",
+            "number": "100",
+            "set": "UPR"
+            },
           {
             "count": 1,
                 "name": "Mew-EX",
