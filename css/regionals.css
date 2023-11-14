@@ -78,6 +78,8 @@
     }
 .name-n-flag {
     text-align: start;
+    /* white-space: nowrap; */
+    overflow: hidden;
 }
 
 @media screen and (max-width: 1200px) {
