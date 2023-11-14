@@ -1,5 +1,8 @@
 const setConvert = {
+    //other
+    "FR": "fr",
     // sv
+    "PAR": "sv4",
     "MEW": "sv3pt5",
     "OBF": "sv3",
     "PAL": "sv2",
