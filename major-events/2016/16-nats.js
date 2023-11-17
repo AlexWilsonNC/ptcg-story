@@ -1475,34 +1475,22 @@ let juniors = [
             },
             {
                 cardImg: '../../assets/cards/2014-2016/professor-sycamore.png',
-                numImg: '../../assets/02.png',
+                numImg: '../../assets/04.png',
             },
             {
                 cardImg: '../../assets/cards/2014-2016/lysandre.png',
-                numImg: '../../assets/01.png',
+                numImg: '../../assets/02.png',
             },
             {
                 cardImg: '../../assets/cards/2014-2016/judge.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/skyla-bkp.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/shauna.png',
-                numImg: '../../assets/01.png',
+                numImg: '../../assets/02.png',
             },
             {
                 cardImg: '../../assets/cards/2014-2016/hex-maniac.png',
                 numImg: '../../assets/01.png',
             },
             {
-                cardImg: '../../assets/cards/2014-2016/delinquent.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/cassius.png',
+                cardImg: '../../assets/cards/2014-2016/az.png',
                 numImg: '../../assets/01.png',
             },
             {
@@ -1515,10 +1503,6 @@ let juniors = [
             },
             {
                 cardImg: '../../assets/cards/2014-2016/vs-seeker.png',
-                numImg: '../../assets/04.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/puzzle-of-time.png',
                 numImg: '../../assets/04.png',
             },
             {
@@ -1535,14 +1519,10 @@ let juniors = [
             },
             {
                 cardImg: '../../assets/cards/2014-2016/trainers-mail.png',
-                numImg: '../../assets/03.png',
+                numImg: '../../assets/04.png',
             },
             {
-                cardImg: '../../assets/cards/2014-2016/switch.png',
-                numImg: '../../assets/01.png',
-            },
-            {
-                cardImg: '../../assets/cards/2014-2016/red-card.png',
+                cardImg: '../../assets/cards/2014-2016/escape-rope.png',
                 numImg: '../../assets/01.png',
             },
             {
@@ -1554,8 +1534,16 @@ let juniors = [
                 numImg: '../../assets/02.png',
             },
             {
+                cardImg: '../../assets/cards/2014-2016/float-stone.png',
+                numImg: '../../assets/02.png',
+            },
+            {
                 cardImg: '../../assets/cards/2014-2016/sky-field.png',
                 numImg: '../../assets/02.png',
+            },
+            {
+                cardImg: '../../assets/cards/2014-2016/team-aquas-secret-base.png',
+                numImg: '../../assets/01.png',
             },
             {
                 cardImg: '../../assets/cards/energy/xy-dce.png',
