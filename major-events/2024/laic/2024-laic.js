@@ -1,455 +1,633 @@
-const masterList = document.querySelector('.masters-ol');
-const seniorList = document.querySelector('.seniors-ol');
-const juniorList = document.querySelector('.juniors-ol');
-
-const modalBottom = document.querySelector('.modal-bottom');
-
 let masters = [
   {
     firstName: '--',
     flag: '../../../assets/flags/unknown.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
-    list: '../../../assets/list-icon.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/blank.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 3, "name": "Miraidon ex", "number": "81", "set": "SVI" },
+                { "count": 2, "name": "Raikou V", "number": "48", "set": "BRS" },
+                { "count": 1, "name": "Raichu V", "number": "45", "set": "BRS" },
+                { "count": 2, "name": "Flaaffy", "number": "55", "set": "EVS" },
+                { "count": 2, "name": "Mareep", "number": "54", "set": "EVS" },
+                { "count": 1, "name": "Flying Pikachu V", "number": "6", "set": "CEL" }, 
+                { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
+                { "count": 1, "name": "Zapdos", "number": "29", "set": "PGO" }, 
+                { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" }
+            ], "trainer": [
+                { "count": 4, "name": "Professor's Research", "number": "189", "set": "SVI" },
+                { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 2, "name": "Arven", "number": "186", "set": "OBF" },
+                { "count": 2, "name": "Judge", "number": "176", "set": "SVI" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 4, "name": "Electric Generator", "number": "170", "set": "SVI" },
+                { "count": 3, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" }, 
+                { "count": 2, "name": "Bravery Charm", "number": "173", "set": "PAL" },
+                { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+                { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
+            ], "energy": [
+                { "count": 13, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" }
+            ]
+        },
   },
-]
-
-let seniors = [
   {
     firstName: '--',
     flag: '../../../assets/flags/unknown.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
-    list: '../../../assets/list-icon.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/blank.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
   },
-]
-
-let juniors = [
   {
-    firstName: '--',
-    flag: '../../../assets/flags/unknown.png',
-    sprite1: '../../../assets/sprites',
-    sprite2: '../../../assets/sprites',
-    list: '../../../assets/list-icon.png',
-    type: 'normal',
-    deck: [
-      {
-        cardImg: '../../../assets/cards/2022-2023',
-        numImg: '../../../assets/04.png'
-      },
-    ]
+    firstName: 'Ciaran Farah',
+    flag: '../../../assets/flags/canada.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Gabriel Veloso',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/giratina-origin.png',
+    sprite2: '../../../assets/sprites/comfey.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Brennan Kamerman',
+    flag: '../../../assets/flags/netherlands.png',
+    sprite1: '../../../assets/sprites/comfey.png',
+    sprite2: '../../../assets/sprites/sableye.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Matthew Burris',
+    flag: '../../../assets/flags/australia.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Keito Arai',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/snorlax.png',
+    sprite2: '../../../assets/sprites/mimikyu.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Jeremy Gibson',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Fabrizio Inga Silva',
+    flag: '../../../assets/flags/peru.png',
+    sprite1: '../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../assets/sprites/genesect.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Facundo Facio',
+    flag: '../../../assets/flags/argentina.png',
+    sprite1: '../../../assets/sprites/inteleon-vmax.png',
+    sprite2: '../../../assets/sprites/urshifu-rapid-strike-gmax.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Pedro Pertusi',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/charizard.png',
+    sprite2: '../../../assets/sprites/pidgeot.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'William Azevedo',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/charizard.png',
+    sprite2: '../../../assets/sprites/pidgeot.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Aneil Saini',
+    flag: '../../../assets/flags/canada.png',
+    sprite1: '../../../assets/sprites/miraidon.png',
+    sprite2: '../../../assets/sprites/flaaffy.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Ian Robb',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/chien-pao.png',
+    sprite2: '../../../assets/sprites/baxcalibur.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Caleb Rogerson',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Angel Aranibar Huamaní',
+    flag: '../../../assets/flags/peru.png',
+    sprite1: '../../../assets/sprites/giratina-origin.png',
+    sprite2: '../../../assets/sprites/comfey.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Jeremy Gumila',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Okada Ryuki',
+    flag: '../../../assets/flags/japan.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/charizard.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Miloslav Poslední',
+    flag: '../../../assets/flags/czech-republic.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Maurício Almeida',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/giratina-origin.png',
+    sprite2: '../../../assets/sprites/comfey.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Bryan de Vries',
+    flag: '../../../assets/flags/netherlands.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Angus Johnson',
+    flag: '../../../assets/flags/australia.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Thales Andrade',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/charizard.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Duncan Crowley',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../assets/sprites/genesect.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Douglas Maiola',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/arceus.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Nicholas Moffitt',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/charizard.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Grant Hays',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/giratina-origin.png',
+    sprite2: '../../../assets/sprites/comfey.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Michael Bergerac',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Heddi Brahmi',
+    flag: '../../../assets/flags/france.png',
+    sprite1: '../../../assets/sprites/mew-vmax.png',
+    sprite2: '../../../assets/sprites/genesect.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Lucas Jordão',
+    flag: '../../../assets/flags/brazil.png',
+    sprite1: '../../../assets/sprites/comfey.png',
+    sprite2: '../../../assets/sprites/sableye.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Juan Andree',
+    flag: '../../../assets/flags/chile.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/gardevoir.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
+  },
+  {
+    firstName: 'Alessandro Cremascoli',
+    flag: '../../../assets/flags/italy.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    "event": "2024 Toronto Regionals",
+    "decklist":
+        {
+            "pokemon": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "trainer": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+            ], "energy": [
+                { "count": 4, "name": "eee", "number": "eee", "set": "eee" }
+            ]
+        },
   },
 ]
 
-//masters
-function displayList(array = []) {
-    masterList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-    
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2023 LAIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-
-    masterList.appendChild(item_element);
-  }
-}
-
-// seniors
-function displayList2(array = []) {
-    seniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-    
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2023 LAIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-    seniorList.appendChild(item_element);
-  }
-}
-
-// juniors
-function displayList3(array = []) {
-    juniorList.innerHTML = '';
-
-  for (let i = 0; i < array.length; i++) {
-    let item = array[i];
-
-    let item_element = document.createElement('li');
-    item_element.classList.add('player-list-hover');
-    let title = document.createElement('li');
-    title.classList.add('results-list-item');
-
-    let playerName = document.createElement('div');
-    playerName.classList.add('name-n-flag');
-
-    let flagImg = document.createElement('img');
-    flagImg.classList.add('flag-size');
-    flagImg.setAttribute('src', item.flag);
-    
-    let deck = document.createElement('div');
-    deck.classList.add('player-deck-icons');
-
-    let firstSprite = document.createElement('img');
-    firstSprite.classList.add('sprite');
-    firstSprite.setAttribute('src', item.sprite1);
-    let secondSprite = document.createElement('img');
-    secondSprite.classList.add('sprite');
-    secondSprite.classList.add('second-sprite');
-    secondSprite.setAttribute('src', item.sprite2);
-    let listIcon = document.createElement('img');
-    listIcon.classList.add('list-icon');
-    listIcon.setAttribute('src', item.list);
-
-     
-    
-    item_element.appendChild(title);
-    title.appendChild(playerName);
-    playerName.appendChild(flagImg);
-    playerName.append(item.firstName);
-    title.appendChild(deck);
-    deck.appendChild(firstSprite);
-    deck.appendChild(secondSprite);
-    deck.appendChild(listIcon);
-
-    if (item.list === '../../../assets/list-icon.png') {
-      item_element.addEventListener('click', function () {
-        document.querySelector('#modal-section').style.display = "flex";
-        document.querySelector('.modal').style.display = 'block';
-        document.querySelector('.behind-modal').style.display = 'block';
-                    document.querySelector('.playerName').innerHTML = item.firstName + " - 2023 LAIC";
-
-        if (item.type == 'psychic') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/psychic-bg.png)";
-        } else if (item.type == 'fire') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fire-bg.png)";
-        } else if (item.type == 'fairy') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fairy-bg.png)";
-        } else if (item.type == 'normal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/normal-bg.png)";
-        } else if (item.type == 'lightning') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/lightning-bg.png)";
-        } else if (item.type == 'dark') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        } else if (item.type == 'dragon') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dragon-bg.png)";
-        } else if (item.type == 'fighting') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/fighting-bg.png)";
-        } else if (item.type == 'grass') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/grass-bg.png)";
-        } else if (item.type == 'metal') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/metal-bg.png)";
-        } else if (item.type == 'water') {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/water-bg.png)";
-        } else {
-          document.querySelector('.modal').style.backgroundImage = "url(../../../../assets/dark-bg.png)";
-        }
-
-        for (let i = 0; i < item.deck.length; i++) {
-          let deck = item.deck[i];
-
-          let cardSpace = document.createElement('div');
-          cardSpace.classList.add('pokemon-card');
-
-          let pokeCard = document.createElement('img');
-          pokeCard.classList.add('pok-card-small')
-          pokeCard.setAttribute('src', deck.cardImg);
-
-          let numberCounter = document.createElement('img');
-          numberCounter.classList.add('num-1')
-          numberCounter.setAttribute('src', deck.numImg);
-
-          cardSpace.appendChild(pokeCard);
-          cardSpace.appendChild(numberCounter);
-          modalBottom.appendChild(cardSpace);
-
-          modalX.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-          behind.addEventListener('click', () => {
-            modal.style.display = 'none';
-            behind.style.display = 'none';
-            cardSpace.remove();
-          })
-        }
-        document.querySelectorAll('.pokemon-card').forEach(card => {
-          let meep = document.getElementsByClassName("pok-card-small"),
-          zoombox = document.getElementById("zoom-card-box");
-         
-          if (meep.length > 0) { for (let i of meep) {
-            i.onclick = () => {
-              let clone = i.cloneNode();
-              clone.className = "";
-              zoombox.innerHTML = "";
-              zoombox.appendChild(clone);
-              zoombox.className = "show";
-            };
-          }}
-         
-          zoombox.onclick = () => {
-            zoombox.className = "";
-          };
-        });
-      })
-    }
-    juniorList.appendChild(item_element);
-  }
-}
-
-const modal = document.querySelector('.modal');
-const modalX = document.querySelector('.modal-x');
-const behind = document.querySelector('.behind-modal');
-
-displayList(masters);
-displayList2(seniors);
-displayList3(juniors);

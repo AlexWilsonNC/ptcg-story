@@ -7,16 +7,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel='icon' href="https://i.ibb.co/rFQ53Qq/android-chrome-192x192.png" type='image/x-icon' alt='logo'>
 
-    <meta property='og:title' content='PTCG Legends'/>
-    <meta property='og:image' content='https://i.ibb.co/55411Sx/zar.jpg'/>
-    <meta property='og:description' content='The largest retro/historical Pokémon TCG website in the world!'/>
-    <meta property='og:url' content='www.ptcglegends.com'/>
-    <meta property='og:image:width' content='1200' />
-    <meta property='og:image:height' content='627' />    
-    <title>PTCG Legends | 2024 LAIC</title>
-    <link rel="stylesheet"  href="../../../style.css">
+        <title>2024 LAIC | PTCG Legends</title>
+        <link rel="canonical" href="https://ptcglegends.com/major-events/2024/laic/results" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="Latin America Internationals | PTCG Legends" />
+        <meta property="og:description" content="Results of the Pokémon TCG 2024 Latin America Internationals." />
+        <meta property="og:url" content="https://ptcglegends.com/major-events/2024/laic/results" />
+        <meta property="og:site_name" content="PTCG Legends" />
+        <meta property="article:publisher" content="https://www.facebook.com/alex.wilson.7503/" />
+        <meta property="og:image" content="../../../assets/nats-logos/24-laic-loc.jpg" />
+        <meta property="og:image:width" content="1278" />
+        <meta property="og:image:height" content="426" />
+        <meta property="og:image:type" content="image/jpeg" />
+        <meta name="author" content="Alex Wilson" />
+    
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@PTCG_Legends">
+        <meta name="twitter:title" content="2024 LAIC | PTCG Legends">
+        <meta name="twitter:description" content="Results of the Pokémon TCG 2024 Latin America Internationals.">
+        <meta name="twitter:image" content="../../../assets/nats-logos/24-laic-loc.jpg">
+
+        <link rel="stylesheet"  href="../../../style.css">
     <link rel="stylesheet" href="../../../css/nav.css">
     <link rel="stylesheet" href="../../../css/worlds.css">
+    <link rel="stylesheet" href="../../../css/card-database.css">
     <link rel="stylesheet" href="../../../css/footer.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -124,25 +139,35 @@
 
     <div id='modal-section'>
         <div class='modal'>
-            <div class='modal-top'>
-                <div class='cs-plus-ap'>
-                    <p class='playerName'>Name</p>
+            <div class='modal-top-new'>
+                <div class='modal-top-parts'>
+                    <div class='cs-plus-ap'>
+                        <p class='playerName'>Name</p>
+                    </div>
+                    <div class='modal-x'>
+                        <p>X</p>
+                    </div>
                 </div>
-                <div class='modal-x'>
-                    <p>X</p>
+                <div class='modal-buttons'>
+                    <button class='copy-to-clip'>Copy to Clipboard</button>
+                    <!-- <button class='change-list-view'>Change List View</button> -->
                 </div>
             </div>
             <div class='modal-bottom'>
                 <!-- <div class='pokemon-card'> -->
-                    <!-- <img class='pok-card-small' src=''> -->
-                    <!-- <img class='num-1' src=''> -->
+                <!-- <img class='pok-card-small' src=''> -->
+                <!-- <img class='num-1' src=''> -->
                 <!-- </div> -->
             </div>
         </div>
     </div>
-<div class='behind-modal'></div>
+    <div class='behind-modal'></div>
     <div class='second-behind-modal'></div>
-    <div class='contain-event'>
+    
+    <div id='zoomed-bg'>
+        <img id='insert-zoomed-img' src='' alt='zoomed in card'>
+    </div>
+        <div class='contain-event'>
          <div id="zoom-card-box"></div>
         <div class='event-content'>
             <div class='event-results'>
@@ -150,8 +175,8 @@
                     <h2 class='center'>2024 LAIC Results</h2>
                     <div class='divisions'>
                         <p class='dark-bg mastersBtn'>Masters</p>
-                        <p class='light-bg seniorsBtn'>Seniors</p>
-                        <p class='light-bg juniorsBtn'>Juniors</p>
+                        <p class='light-bg seniorsBtn' style='opacity: 0.05;pointer-events: none;'>Seniors</p>
+                        <p class='light-bg juniorsBtn' style='opacity: 0.05;pointer-events: none;'>Juniors</p>
                     </div>
 
                     <ol class='masters-ol'>
@@ -223,13 +248,50 @@
     </footer>
      <script src='../../../darkmode/darkmode-worlds-res-tweets2.js'></script>
 
-    <!-- <script src='./2024-laic.js'></script> -->
-    <script src='../../../worlds/division.js'></script>
-    <script src="../../../../index.js"></script>
-     
+    <script src='./2024-laic.js'></script>
+    <script src='../../../decklist-script/regionals-temp.js'></script>
+    <script src='../../../decklist-script/convert-set-names.js'></script>
 
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
-        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src='../../../card-database/sv/sv151.js'></script>
+    <script src='../../../card-database/sv/sv3.js'></script>
+    <script src='../../../card-database/sv/sv2.js'></script>
+    <script src='../../../card-database/sv/sv1.js'></script>
+    <script src='../../../card-database/sv/promos.js'></script>
+    <script src='../../../card-database/swsh/lost-origin.js'></script>
+    <script src='../../../card-database/swsh/brilliant-stars.js'></script>
+    <script src='../../../card-database/swsh/astral-radiance.js'></script>
+    <script src='../../../card-database/swsh/battle-styles.js'></script>
+    <script src='../../../card-database/swsh/celebrations.js'></script>
+    <script src='../../../card-database/swsh/chilling-reign.js'></script>
+    <script src='../../../card-database/swsh/crown-zenith.js'></script>
+    <script src='../../../card-database/swsh/evolving-skies.js'></script>
+    <script src='../../../card-database/swsh/fusion-strike.js'></script>
+    <script src='../../../card-database/swsh/pokemon-go.js'></script>
+    <script src='../../../card-database/swsh/shining-fates.js'></script>
+    <script src='../../../card-database/swsh/silver-tempest.js'></script>
+    <script src='../../../card-database/swsh/vivid-voltage.js'></script>
+    <script src='../../../card-database/swsh/champions-path.js'></script>
+    <script src='../../../card-database/swsh/darkness-ablaze.js'></script>
+    <script src='../../../card-database/swsh/rebel-clash.js'></script>
+    <script src='../../../card-database/swsh/sword-shield.js'></script>
+    <script src='../../../card-database/swsh/promos.js'></script>
+    <script src='../../../card-database/sm/burning-shadow.js'></script>
+    <script src='../../../card-database/sm/celestial-storm.js'></script>
+    <script src='../../../card-database/sm/cosmic-eclipse.js'></script>
+    <script src='../../../card-database/sm/crimson-invasion.js'></script>
+    <script src='../../../card-database/sm/detective-pikachu.js'></script>
+    <script src='../../../card-database/sm/dragon-majesty.js'></script>
+    <script src='../../../card-database/sm/forbidden-light.js'></script>
+    <script src='../../../card-database/sm/guardians-rising.js'></script>
+    <script src='../../../card-database/sm/hidden-fates.js'></script>
+    <script src='../../../card-database/sm/lost-thunder.js'></script>
+    <script src='../../../card-database/sm/promos.js'></script>
+    <script src='../../../card-database/sm/shining-legends.js'></script>
+    <script src='../../../card-database/sm/sun-moon.js'></script>
+    <script src='../../../card-database/sm/team-up.js'></script>
+    <script src='../../../card-database/sm/ultra-prism.js'></script>
+    <script src='../../../card-database/sm/unbroken-bonds.js'></script>
+    <script src='../../../card-database/sm/unified-minds.js'></script>
 </body>
 
 </html>
