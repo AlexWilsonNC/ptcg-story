@@ -398,17 +398,36 @@ let masters = [
         flag: '../../../assets/flags/canada.png',
         sprite1: '../../../assets/sprites/miraidon.png',
         sprite2: '../../../assets/sprites/flaaffy.png',
-        // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+        list: '../../../assets/list-icon.png',
         "event": "2024 Latin America Internationals",
         "decklist":
         {
             "pokemon": [
-                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+                { "count": 2, "name": "Miraidon ex", "number": "81", "set": "SVI" },
+                { "count": 2, "name": "Raikou V", "number": "48", "set": "BRS" },
+                { "count": 2, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
+                { "count": 1, "name": "Raichu V", "number": "45", "set": "BRS" },
+                { "count": 2, "name": "Flaaffy", "number": "55", "set": "EVS" },
+                { "count": 2, "name": "Mareep", "number": "54", "set": "EVS" },
+                { "count": 2, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
+                { "count": 1, "name": "Lumineon V", "number": "250", "set": "PR-SW" },
+                { "count": 1, "name": "Zapdos", "number": "29", "set": "PGO" }, 
             ], "trainer": [
-                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+                { "count": 3, "name": "Arven", "number": "186", "set": "OBF" },
+                { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 1, "name": "Professor's Research", "number": "189", "set": "SVI" },
+                { "count": 1, "name": "Raihan", "number": "140", "set": "CRZ" },
+                { "count": 1, "name": "Peony", "number": "150", "set": "CRE" },
+                { "count": 4, "name": "Electric Generator", "number": "170", "set": "SVI" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 2, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 1, "name": "Switch", "number": "194", "set": "SVI" },
+                { "count": 2, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 1, "name": "Bravery Charm", "number": "173", "set": "PAL" },
+                { "count": 3, "name": "Beach Court", "number": "167", "set": "SVI" }, 
             ], "energy": [
-                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+                { "count": 18, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" }
             ]
         },
     },
@@ -417,17 +436,36 @@ let masters = [
         flag: '../../../assets/flags/usa.png',
         sprite1: '../../../assets/sprites/chien-pao.png',
         sprite2: '../../../assets/sprites/baxcalibur.png',
-        // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+        list: '../../../assets/list-icon.png',
         "event": "2024 Latin America Internationals",
         "decklist":
         {
             "pokemon": [
-                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+                { "count": 3, "name": "Chien-Pao ex", "number": "61", "set": "PAL" },
+                { "count": 2, "name": "Baxcalibur", "number": "60", "set": "PAL" },
+                { "count": 2, "name": "Frigibax", "number": "57", "set": "PAL" },
+                { "count": 1, "name": "Frigibax", "number": "58", "set": "PAL" },
+                { "count": 2, "name": "Bibarel", "number": "121", "set": "BRS" },
+                { "count": 2, "name": "Bidoof", "number": "111", "set": "CRZ" },
+                { "count": 1, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
+                { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+                { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
             ], "trainer": [
-                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+                { "count": 4, "name": "Irida", "number": "147", "set": "ASR" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 4, "name": "Superior Energy Retrieval", "number": "189", "set": "PAL" },
+                { "count": 4, "name": "Cross Switcher", "number": "230", "set": "FST" },
+                { "count": 3, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 3, "name": "Rare Candy", "number": "191", "set": "SVI" },
+                { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 2, "name": "Earthen Vessel", "number": "163", "set": "PAR" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 4, "name": "PokeStop", "number": "68", "set": "PGO" },
             ], "energy": [
-                { "count": 4, "name": "eee", "number": "eee", "set": "eee" },
+                { "count": 8, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
+                { "count": 1, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" }
             ]
         },
     },
