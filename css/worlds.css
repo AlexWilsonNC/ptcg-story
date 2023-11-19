@@ -1237,11 +1237,11 @@ li {
 }
 
 
-@media screen and (min-width: 1650px) {
+/* @media screen and (min-width: 1650px) {
     .modal {
         width: 70%;
     }
-}
+} */
 
 @media screen and (max-width: 1550px) {
     .others-icons {
@@ -1252,14 +1252,14 @@ li {
         width: 50%;
     }
 }
-@media screen and (min-width: 1402px) {
+/* @media screen and (min-width: 1402px) {
     .pok-card-small {
         width: 115px;
     }
     .deck-box {
         width: 75%;
     }
-}
+} */
 
 @media screen and (max-width: 1350px) {
     .new-charts-large {
@@ -1272,6 +1272,9 @@ li {
 @media screen and (max-width: 1300px) {
     .modal {
         width: 80%;
+    }
+    .pok-card-small {
+        width: 80px;
     }
 }
 
@@ -1299,11 +1302,6 @@ li {
     .results-right {
         width: 45%;
     }
-
-    .pok-card-small {
-        width: 80px;
-    }
-
     .others-icons {
         width: 90%;
     }
