@@ -4,39 +4,39 @@ let masters = [
         flag: '../../../assets/flags/finland.png',
         sprite1: '../../../assets/sprites/miraidon.png',
         sprite2: '../../../assets/sprites/flaaffy.png',
-        // list: '../../../assets/list-icon.png',
-        list: '../../../assets/sprites/blank.png',
+        list: '../../../assets/list-icon.png',
         "event": "2024 Latin America Internationals",
         "decklist":
         {
             "pokemon": [
                 { "count": 3, "name": "Miraidon ex", "number": "81", "set": "SVI" },
                 { "count": 2, "name": "Raikou V", "number": "48", "set": "BRS" },
+                { "count": 1, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
                 { "count": 1, "name": "Raichu V", "number": "45", "set": "BRS" },
                 { "count": 2, "name": "Flaaffy", "number": "55", "set": "EVS" },
                 { "count": 2, "name": "Mareep", "number": "54", "set": "EVS" },
-                { "count": 1, "name": "Flying Pikachu V", "number": "6", "set": "CEL" },
+                { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
                 { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
-                { "count": 1, "name": "Zapdos", "number": "29", "set": "PGO" },
-                { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" }
+                { "count": 1, "name": "Zapdos", "number": "29", "set": "PGO" }, 
+                { "count": 1, "name": "Zeraora", "number": "56", "set": "SIT" }, 
             ], "trainer": [
                 { "count": 4, "name": "Professor's Research", "number": "189", "set": "SVI" },
+                { "count": 3, "name": "Iono", "number": "185", "set": "PAL" },
                 { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
-                { "count": 2, "name": "Arven", "number": "186", "set": "OBF" },
-                { "count": 2, "name": "Judge", "number": "176", "set": "SVI" },
-                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 1, "name": "Arven", "number": "186", "set": "OBF" },
                 { "count": 4, "name": "Electric Generator", "number": "170", "set": "SVI" },
-                { "count": 3, "name": "Ultra Ball", "number": "196", "set": "SVI" },
-                { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
                 { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
                 { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 1, "name": "Nest Ball", "number": "181", "set": "SVI" },
                 { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
                 { "count": 2, "name": "Bravery Charm", "number": "173", "set": "PAL" },
                 { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
-                { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
-                { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
+                { "count": 2, "name": "Path to the Peak", "number": "148", "set": "CRE" },
             ], "energy": [
-                { "count": 13, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" }
+                { "count": 13, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" },
+                { "count": 1, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
             ]
         },
     },
