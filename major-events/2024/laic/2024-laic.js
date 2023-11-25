@@ -143,8 +143,8 @@ let masters = [
             ],
             "trainer": [
                 { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
+                { "count": 2, "name": "Roxanne", "number": "150", "set": "ASR" },
                 { "count": 1, "name": "Boss's Orders", "number": "172", "set": "PAL" },
-                { "count": 1, "name": "Roxanne", "number": "150", "set": "ASR" },
                 { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
                 { "count": 4, "name": "Mirage Gate", "number": "163", "set": "LOR" },
                 { "count": 3, "name": "Nest Ball", "number": "181", "set": "SVI" },
@@ -153,7 +153,8 @@ let masters = [
                 { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
                 { "count": 1, "name": "Switch", "number": "194", "set": "SVI" },
                 { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
-                { "count": 3, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
                 { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
             ],
             "energy": [
