@@ -774,8 +774,8 @@ let masters = [
                 { "count": 1, "name": "Scream Tail", "number": "86", "set": "PAR" },
                 { "count": 1, "name": "Cresselia", "number": "74", "set": "LOR" },
                 { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
-                { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" },
                 { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+                { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" },
             ], "trainer": [
                 { "count": 4, "name": "Iono", "number": "185", "set": "PAL" },
                 { "count": 2, "name": "Avery", "number": "130", "set": "CRE" },
