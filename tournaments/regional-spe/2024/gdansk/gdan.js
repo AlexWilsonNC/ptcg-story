@@ -77,15 +77,38 @@ let masters = [
         "event": "2024 Gdańsk Regionals",
         sprite1: '../../../../assets/sprites/comfey.png',
         sprite2: '../../../../assets/sprites/roaring-moon.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
+                { "count": 1, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
+                { "count": 1, "name": "Roaring Moon ex", "number": "124", "set": "PAR" },
+                { "count": 1, "name": "Kyogre", "number": "3", "set": "CEL" },
+                { "count": 1, "name": "Sableye", "number": "70", "set": "LOR" },
+                { "count": 1, "name": "Cramorant", "number": "50", "set": "LOR" },
+                { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+                { "count": 1, "name": "Palkia V", "number": "40", "set": "ASR" },
+                { "count": 1, "name": "Palkia V", "number": "39", "set": "ASR" },
+
             ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Mirage Gate", "number": "163", "set": "LOR" },
+                { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 4, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 4, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 3, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
+                { "count": 3, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 2, "name": "Energy Recycler", "number": "124", "set": "BST" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" }, 
+                { "count": 1, "name": "Pal Pad", "number": "172", "set": "SSH" },
+                { "count": 2, "name": "PokeStop", "number": "68", "set": "PGO" },
+
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
+                { "count": 4, "name": "Darkness Energy - Basic", "number": "231", "set": "CRE" },
+                { "count": 2, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" },
+                { "count": 2, "name": "Psychic Energy - Basic", "number": "155", "set": "CRZ" },
             ]
         }
     },
