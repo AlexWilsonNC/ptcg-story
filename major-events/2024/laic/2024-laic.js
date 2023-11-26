@@ -725,7 +725,7 @@ let masters = [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 1, "name": "Charmeleon", "number": "5", "set": "MEW" },
                 { "count": 3, "name": "Charmander", "number": "4", "set": "MEW" },
-                { "count": 2, "name": "Charmander", "number": "26", "set": "OBF" },
+                { "count": 1, "name": "Charmander", "number": "26", "set": "OBF" },
                 { "count": 2, "name": "Pidgeot ex", "number": "164", "set": "OBF" },
                 { "count": 2, "name": "Pidgey", "number": "16", "set": "MEW" },
                 { "count": 1, "name": "Radiant Charizard", "number": "20", "set": "CRZ" },
