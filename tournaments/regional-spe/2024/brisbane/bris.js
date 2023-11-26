@@ -1,10 +1,10 @@
 let masters = [
     {
-        "firstName": "--",
-        flag: '../../../../assets/sprites/blank.png',
+        "firstName": "Harry Shallcrass",
+        flag: '../../../../assets/flags/australia.png',
         "event": "2024 Brisbane Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/gardevoir.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -18,11 +18,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/sprites/blank.png',
+        "firstName": "Haru Nishikawa",
+        flag: '../../../../assets/flags/japan.png',
         "event": "2024 Brisbane Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/charizard.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -36,11 +36,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/sprites/blank.png',
+        "firstName": "Hayden Matthews",
+        flag: '../../../../assets/flags/australia.png',
         "event": "2024 Brisbane Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/charizard.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -54,11 +54,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/sprites/blank.png',
+        "firstName": "Joshua Sparks",
+        flag: '../../../../assets/flags/australia.png',
         "event": "2024 Brisbane Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/mew-vmax.png',
+        sprite2: '../../../../assets/sprites/genesect.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -167,15 +167,43 @@ let masters = [
         "event": "2024 Brisbane Regionals",
         sprite1: '../../../../assets/sprites/snorlax.png',
         sprite2: '../../../../assets/sprites/mimikyu.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Snorlax", "number": "55", "set": "PGO" },
+                { "count": 2, "name": "Mimikyu", "number": "97", "set": "PAL" },
+                { "count": 1, "name": "Rotom V", "number": "58", "set": "LOR" },
+                { "count": 1, "name": "Pidgeot V", "number": "137", "set": "LOR" },
+                { "count": 1, "name": "Crabominable V", "number": "76", "set": "FST" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
+                { "count": 3, "name": "Miss Fortune Sisters", "number": "164", "set": "LOR" },
+                { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 3, "name": "Penny", "number": "183", "set": "SVI" },
+                { "count": 2, "name": "Erika's Invitation", "number": "160", "set": "MEW" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 1, "name": "Avery", "number": "130", "set": "CRE" },
+                { "count": 1, "name": "Giacomo", "number": "182", "set": "PAL" },
+                { "count": 1, "name": "Cyllene", "number": "138", "set": "ASR" },
+                { "count": 1, "name": "Peonia", "number": "149", "set": "CRE" },
+                { "count": 1, "name": "Sidney", "number": "241", "set": "FST" },
+                { "count": 1, "name": "Team Yell's Cheer", "number": "149", "set": "BRS" },
+                { "count": 4, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
+                { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 4, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 2, "name": "Pal Pad", "number": "172", "set": "SSH" },
+                { "count": 1, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 1, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 1, "name": "Echoing Horn", "number": "136", "set": "CRE" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 3, "name": "Bravery Charm", "number": "173", "set": "PAL" },
+                { "count": 2, "name": "Luxurious Cape", "number": "166", "set": "PAR" },
+                { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 3, "name": "Temple of Sinnoh", "number": "155", "set": "ASR" },
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 1, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
             ]
         }
     },
@@ -317,17 +345,37 @@ let masters = [
         "firstName": "Joel Suryadi",
         flag: '../../../../assets/flags/australia.png',
         "event": "2024 Brisbane Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/miraidon.png',
+        sprite2: '../../../../assets/sprites/flaaffy.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Miraidon ex", "number": "81", "set": "SVI" },
+                { "count": 2, "name": "Raikou V", "number": "48", "set": "BRS" },
+                { "count": 2, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
+                { "count": 1, "name": "Raichu V", "number": "45", "set": "BRS" },
+                { "count": 2, "name": "Flaaffy", "number": "55", "set": "EVS" },
+                { "count": 2, "name": "Mareep", "number": "54", "set": "EVS" },
+                { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
+                { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
+                { "count": 1, "name": "Zapdos", "number": "29", "set": "PGO" },
             ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Peony", "number": "150", "set": "CRE" },
+                { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 2, "name": "Raihan", "number": "140", "set": "CRZ" },
+                { "count": 1, "name": "Professor's Research", "number": "189", "set": "SVI" },
+                { "count": 1, "name": "Arven", "number": "186", "set": "OBF" },
+                { "count": 4, "name": "Electric Generator", "number": "170", "set": "SVI" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 2, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 1, "name": "Switch", "number": "194", "set": "SVI" },
+                { "count": 2, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 1, "name": "Bravery Charm", "number": "173", "set": "PAL" },
+                { "count": 3, "name": "Beach Court", "number": "167", "set": "SVI" },
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 15, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" },
+                { "count": 2, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
             ]
         }
     },
@@ -335,17 +383,39 @@ let masters = [
         "firstName": "Callum Walker",
         flag: '../../../../assets/flags/australia.png',
         "event": "2024 Brisbane Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/mew-vmax.png',
+        sprite2: '../../../../assets/sprites/genesect.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Mew VMAX", "number": "114", "set": "FST" },
+                { "count": 4, "name": "Mew V", "number": "113", "set": "FST" },
+                { "count": 4, "name": "Genesect V", "number": "185", "set": "FST" },
+                { "count": 1, "name": "Oricorio", "number": "42", "set": "FST" }
+            ],
+            "trainer": [
+                { "count": 3, "name": "Judge", "number": "176", "set": "SVI" },
+                { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 4, "name": "Cram-o-matic", "number": "229", "set": "FST" },
+                { "count": 4, "name": "Power Tablet", "number": "236", "set": "FST" },
+                { "count": 4, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 2, "name": "Feather Ball", "number": "141", "set": "ASR" },
+                { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
+                { "count": 3, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 1, "name": "Choice Belt", "number": "176", "set": "PAL" },
+                { "count": 1, "name": "Box of Disaster", "number": "154", "set": "LOR" },
+                { "count": 1, "name": "Technical Machine: Devolution", "number": "177", "set": "PAR" },
+                { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+                { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" }, 
+            ],
+            "energy": [
+                { "count": 4, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
             ]
         }
     },
