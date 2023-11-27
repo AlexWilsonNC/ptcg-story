@@ -386,8 +386,8 @@ let masters = [
         "firstName": "Jiawel Sun",
         flag: '../../../../assets/flags/new-zealand.png',
         "event": "2024 Brisbane Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/giratina-origin.png',
+        sprite2: '../../../../assets/sprites/comfey.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -404,8 +404,8 @@ let masters = [
         "firstName": "Yu Xiang",
         flag: '../../../../assets/flags/new-zealand.png',
         "event": "2024 Brisbane Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/miraidon.png',
+        sprite2: '../../../../assets/sprites/flaaffy.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
