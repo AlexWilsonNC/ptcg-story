@@ -335,15 +335,31 @@ let masters = [
         "event": "2024 Gdańsk Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/roaring-moon.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Roaring Moon ex", "number": "124", "set": "PAR" },
+                { "count": 1, "name": "Morpeko", "number": "121", "set": "PAR" },
+                { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
+                { "count": 1, "name": "Lumineon V", "number": "250", "set": "PR-SW" },
+                { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
+                { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+                { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
             ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Professor Sada's Vitality", "number": "170", "set": "PAR" },
+                { "count": 1, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 4, "name": "Trekking Shoes", "number": "145", "set": "CRZ" },
+                { "count": 4, "name": "Earthen Vessel", "number": "163", "set": "PAR" },
+                { "count": 4, "name": "Dark Patch", "number": "139", "set": "ASR" },
+                { "count": 4, "name": "Cross Switcher", "number": "230", "set": "FST" },
+                { "count": 4, "name": "Energy Switch", "number": "173", "set": "SVI" },
+                { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
+                { "count": 4, "name": "PokeStop", "number": "68", "set": "PGO" },
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 10, "name": "Darkness Energy - Basic", "number": "231", "set": "CRE" },
             ]
         }
     },
