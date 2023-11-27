@@ -85,9 +85,9 @@ let masters = [
         },
         {
           "count": 2,
-          "name": "Steven's Resolve",
-          "number": "145",
-          "set": "CES"
+          "name": "Bill Analysis",
+          "number": "133",
+          "set": "TEU"
         },
         {
           "count": 4,
