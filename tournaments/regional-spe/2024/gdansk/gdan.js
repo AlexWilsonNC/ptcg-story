@@ -359,7 +359,8 @@ let masters = [
                 { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
                 { "count": 4, "name": "PokeStop", "number": "68", "set": "PGO" },
             ], "energy": [
-                { "count": 10, "name": "Darkness Energy - Basic", "number": "231", "set": "CRE" },
+                { "count": 8, "name": "Darkness Energy - Basic", "number": "231", "set": "CRE" },
+                { "count": 2, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
             ]
         }
     },
