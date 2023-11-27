@@ -330,7 +330,7 @@ let masters = [
         }
     },
     {
-        "firstName": "Maciej Dmoch",
+        "firstName": "Maciek Dmoch",
         flag: '../../../../assets/flags/poland.png',
         "event": "2024 Gdańsk Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
