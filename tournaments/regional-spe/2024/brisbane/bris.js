@@ -1,7 +1,7 @@
 let masters = [
     {
         "firstName": "Harry Shallcrass",
-        flag: '../../../../assets/flags/australia.png',
+        flag: '../../../../assets/flags/new-zealand.png',
         "event": "2024 Brisbane Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/gardevoir.png',
@@ -35,8 +35,8 @@ let masters = [
                 { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
                 { "count": 1, "name": "Artazon", "number": "171", "set": "PAL" },
             ], "energy": [
-                { "count": 10, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
-                { "count": 2, "name": "Reversal Energy - Special", "number": "192", "set": "PAL" },
+                { "count": 9, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
+                { "count": 3, "name": "Reversal Energy - Special", "number": "192", "set": "PAL" },
             ]
         }
     },
