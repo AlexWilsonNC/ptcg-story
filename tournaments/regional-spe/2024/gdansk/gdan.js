@@ -9,7 +9,8 @@ let masters = [
         "decklist": {
             "pokemon": [
                 { "count": 4, "name": "Snorlax", "number": "55", "set": "PGO" },
-                { "count": 2, "name": "Mimikyu", "number": "97", "set": "PAL" },
+                { "count": 1, "name": "Mimikyu", "number": "97", "set": "PAL" },
+                { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" },
                 { "count": 1, "name": "Rotom V", "number": "58", "set": "LOR" },
                 { "count": 1, "name": "Pidgeot V", "number": "137", "set": "LOR" },
                 { "count": 1, "name": "Crabominable V", "number": "76", "set": "FST" },
