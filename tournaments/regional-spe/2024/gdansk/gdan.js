@@ -385,7 +385,7 @@ let masters = [
                 { "count": 4, "name": "Dark Patch", "number": "139", "set": "ASR" },
                 { "count": 4, "name": "Cross Switcher", "number": "230", "set": "FST" },
                 { "count": 4, "name": "Energy Switch", "number": "173", "set": "SVI" },
-                { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
                 { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
                 { "count": 4, "name": "PokeStop", "number": "68", "set": "PGO" },
             ], "energy": [
