@@ -1070,12 +1070,12 @@
     background-position: center center;
     background-repeat: no-repeat;
 }
-.left-vs-sableye.darkon {
-    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/sableye-overgear.png);
+.right-vs-sableye1.darkon {
+    background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/sableye-overgear.png);
+    width:33%;height:100%;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    width:33%;height:100%;
 }
 .right-vs-garchomp.darkon {
     background-image: linear-gradient(to left, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/garchomp-lvx.png);
@@ -1083,6 +1083,13 @@
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
+}
+.left-vs-mewtwo-ex.darkon {
+    background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/mewtwo-ex.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:33%;height:100%;
 }
 .left-vs-umbreon-vmax.darkon {
     background-image: linear-gradient(to right, transparent, rgba(25,25,25,0) 70%, rgba(25,25,25,0.2) 75%, rgba(25,25,25,0.4) 80%, rgba(25,25,25,0.6) 85%, rgba(25,25,25,0.7) 90%, rgba(25,25,25,1) 100%), url(../assets/vs-formats/umbreon-vmax.png);
