@@ -144,10 +144,10 @@
     font-style: italic;
 }
 .modern-article {
-    background-color: rgb(79, 143, 255);
+    background-color: rgb(255, 94, 66);
 }
 .retro-article {
-    background-color: rgb(255, 94, 66);
+    background-color: rgb(79, 143, 255);
 }
 .other-article {
     background-color: rgb(224, 160, 22);
