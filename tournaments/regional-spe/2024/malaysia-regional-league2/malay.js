@@ -32,7 +32,7 @@ let masters = [
                 { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
             ], "energy": [
                 { "count": 4, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
-                { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
+                { "count": 3, "name": "Grass Energy - Basic", "number": "231", "set": "CRE" },
                 { "count": 3, "name": "Darkness Energy - Basic", "number": "152", "set": "CRZ" },
                 { "count": 3, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
             ]
