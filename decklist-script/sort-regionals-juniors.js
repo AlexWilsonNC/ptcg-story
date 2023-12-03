@@ -315,7 +315,7 @@ function displayList(array = []) {
                             pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-metal-energy.jpg");
                             pokeCard.classList.add('radius-card');
                         }
-                        if (card.name === "Dark Energy - Basic") {
+                        if (card.name === "Darkness Energy - Basic") {
                             pokeCard.setAttribute('src', "../../../../assets/cards/new-energy/scvi-dark-energy.jpg");
                             pokeCard.classList.add('radius-card');
                         }

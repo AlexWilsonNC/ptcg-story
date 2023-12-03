@@ -1,8 +1,8 @@
-const seniorsList = document.querySelector('.seniors-ol');
+const masterList = document.querySelector('.masters-ol');
 const modalBottom = document.querySelector('.modal-bottom');
 
 function displayList(array = []) {
-    seniorsList.innerHTML = '';
+    masterList.innerHTML = '';
 
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
@@ -74,6 +74,14 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Mewtwo V-UNION")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Snorlax")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/mewtwo.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/snorlax.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Arceus VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Gyarados VMAX")) {
@@ -87,6 +95,42 @@ function displayList(array = []) {
                         if (Object.values(pokemon).includes("Duraludon VMAX")) {
                             firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
                             secondSprite.setAttribute('src', "../../../../assets/sprites/duraludon-gmax.png");
+                        }
+                    })
+                }
+                if (Object.values(pokemon).includes("Hisuian Electrode V")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Klawf")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/klawf.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/electrode-hisui.png");
+                        }
+                    })
+                }
+                if (Object.values(pokemon).includes("Entei V")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Iron Valiant ex")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/entei.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/iron-valiant.png");
+                        }
+                    })
+                }
+                if (Object.values(pokemon).includes("Rapid Strike Urshifu VMAX")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Iron Valiant ex")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/urshifu-rapid-strike-gmax.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/iron-valiant.png");
+                        }
+                    })
+                }
+                if (Object.values(pokemon).includes("Roaring Moon ex")) {
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/roaring-moon.png");
+                }
+                if (Object.values(pokemon).includes("Roaring Moon ex")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Comfey")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/roaring-moon.png");
                         }
                     })
                 }
@@ -240,7 +284,7 @@ function displayList(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + "<br><i>" + item.event + " " + "- Seniors</i>";
+                document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + "<br><i>" + item.event + "</i>";
 
                 item.decklist.pokemon.sort((a, b) => b.count - a.count);
                 item.decklist.trainer.sort((a, b) => b.count - a.count);
@@ -265,7 +309,7 @@ function displayList(array = []) {
 
                         const allSets = {
                             // sv
-                            sv3pt5, sv3, sv2, sv1, svp,
+                            sv4, sv3pt5, sv3, sv2, sv1, svp,
                             //swsh
                             swsh12pt5, swsh12, swsh11, pgo, swsh10, swsh9, swsh8, cel25, swsh7, swsh6, swsh5, swsh45, swsh4, swsh35, swsh3, swsh2, swsh1, swshp,
                             //sm
@@ -273,6 +317,11 @@ function displayList(array = []) {
                         }
 
                         let cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number);
+
+                        // if (cardFound.rarity === "Ultra Rare" || "Special Illustration Rare" || "Hyper Rare") {
+                            // find card of same name and use card.rarity = "Double Rare"
+                        // }
+
                         pokeCard.setAttribute('src', cardFound.images.small);
                         pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
 
@@ -352,7 +401,7 @@ function displayList(array = []) {
 
             })
         }
-        seniorsList.appendChild(item_element);
+        masterList.appendChild(item_element);
     }
 }
 
@@ -360,4 +409,4 @@ const modal = document.querySelector('.modal');
 const modalX = document.querySelector('.modal-x');
 const behind = document.querySelector('.behind-modal');
 
-displayList(seniors);
+displayList(masters);
