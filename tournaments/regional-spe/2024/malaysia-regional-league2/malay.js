@@ -1,6 +1,6 @@
 let masters = [
     {
-        "firstName": "--",
+        "firstName": "Aaron Kang",
         flag: '../../../../assets/sprites/blank.png',
         "event": "2024 Malaysia Regional League #2",
         sprite1: '../../../../assets/sprites/giratina-origin.png',
