@@ -28,12 +28,13 @@ let masters = [
                 { "count": 3, "name": "Nest Ball", "number": "181", "set": "SVI" },
                 { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
                 { "count": 1, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 1, "name": "Technical Machine: Devolution", "number": "177", "set": "PAR" },
                 { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
             ], "energy": [
                 { "count": 4, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
                 { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
                 { "count": 3, "name": "Darkness Energy - Basic", "number": "152", "set": "CRZ" },
-                { "count": 4, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
+                { "count": 3, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
             ]
         },
     },
