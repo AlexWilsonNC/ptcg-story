@@ -39,11 +39,11 @@ let masters = [
         },
     },
     {
-        "firstName": "--",
+        "firstName": "Gary",
         flag: '../../../../assets/sprites/blank.png',
         "event": "2024 Malaysia Regional League #2",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/charizard.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -102,11 +102,263 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
+        "firstName": "Kar Lok",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/kyogre.png',
+        sprite2: '../../../../assets/sprites/comfey.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Willie Ting Ka Tung",
         flag: '../../../../assets/sprites/blank.png',
         "event": "2024 Malaysia Regional League #2",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/roaring-moon.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Shairil Shamsol Baharin",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/giratina-origin.png',
+        sprite2: '../../../../assets/sprites/comfey.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Azrul Amir",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/entei.png',
+        sprite2: '../../../../assets/sprites/iron-valiant.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Low Kien Xun",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/inteleon-vmax.png',
+        sprite2: '../../../../assets/sprites/urshifu-rapid-strike-gmax.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Rinesh John",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/charizard.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "BGBS",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/gholdengo.png',
+        sprite2: '../../../../assets/sprites/palkia-origin.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Cheong Xiang Ying",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/charizard.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Yong Jun Xin",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/palkia-origin.png',
+        sprite2: '../../../../assets/sprites/chien-pao.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Jason Chew",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/gardevoir.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "CY",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/chien-pao.png',
+        sprite2: '../../../../assets/sprites/baxcalibur.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Carney Quek",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/charizard.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "trainer": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ], "energy": [
+
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Wong Yin Hao",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Malaysia Regional League #2",
+        sprite1: '../../../../assets/sprites/giratina-origin.png',
+        sprite2: '../../../../assets/sprites/comfey.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
