@@ -307,7 +307,7 @@
 }
 .deck-description {
     width: 40.5%;
-    text-align: start;
+    text-align: center;
     padding: 20px 10px 10px;
     border-radius: 10px;
     border: 2px solid black;

@@ -39,23 +39,49 @@ let masters = [
         },
     },
     {
-        "firstName": "Gary",
+        "firstName": "Lu Zhan Fong",
         flag: '../../../../assets/sprites/blank.png',
         "event": "2024 Malaysia Regional League #2",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/charizard.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
 
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
+                { "count": 2, "name": "Charmeleon", "number": "5", "set": "MEW" },
+                { "count": 1, "name": "Charmeleon", "number": "27", "set": "OBF" },
+                { "count": 3, "name": "Charmander", "number": "4", "set": "MEW" },
+                { "count": 1, "name": "Charmander", "number": "26", "set": "OBF" },
+                { "count": 2, "name": "Bibarel", "number": "121", "set": "BRS" },
+                { "count": 2, "name": "Bidoof", "number": "111", "set": "CRZ" },
+                { "count": 1, "name": "Radiant Charizard", "number": "20", "set": "CRZ" },
+                { "count": 1, "name": "Lumineon V", "number": "250", "set": "PR-SW" },
+                { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
+                { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+                { "count": 1, "name": "Toedscruel", "number": "17", "set": "PAR" }, 
+                { "count": 1, "name": "Toedscool", "number": "16", "set": "PAR" },
             ], "trainer": [
-
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
+                { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 2, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 2, "name": "Rare Candy", "number": "191", "set": "SVI" },
+                { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 1, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 1, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 1, "name": "Switch", "number": "194", "set": "SVI" },
+                { "count": 2, "name": "Technical Machine: Evolution", "number": "178", "set": "PAR" },
+                { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 1, "name": "Defiance Band", "number": "169", "set": "SVI" },
+                { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" }, 
+                { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" }, 
             ], "energy": [
-
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 7, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" },
+                { "count": 1, "name": "Jet Energy", "number": "190", "set": "PAL" },
             ]
         }
     },

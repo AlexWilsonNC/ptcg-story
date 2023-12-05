@@ -5253,10 +5253,6 @@ let seniors = [
         numImg: '../../../assets/01.png',
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/computer-search.png',
-        numImg: '../../../assets/01.png',
-      },
-      {
         cardImg: '../../../assets/cards/2014-2016/vs-seeker.png',
         numImg: '../../../assets/04.png',
       },
@@ -5290,7 +5286,7 @@ let seniors = [
       },
       {
         cardImg: '../../../assets/cards/energy/xy-energy-lightning.png',
-        numImg: '../../../assets/06.png',
+        numImg: '../../../assets/07.png',
       },
       {
         cardImg: '../../../assets/cards/energy/dce-xy1.png',
