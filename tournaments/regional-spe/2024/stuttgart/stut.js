@@ -37,8 +37,8 @@ let masters = [
       "firstName": "Alberto Conti",
       flag: '../../../../assets/flags/italy.png',
       "event": "2024 Stuttgart Regionals",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/blank.png',
+      sprite1: '../../../../assets/sprites/giratina-origin.png',
+      sprite2: '../../../../assets/sprites/comfey.png',
       // list: '../../../../assets/list-icon.png',
       list: '../../../../assets/sprites/blank.png',
       "decklist": { 
@@ -54,8 +54,8 @@ let masters = [
       "firstName": "Kristian Hodas",
       flag: '../../../../assets/flags/slovakia.png',
       "event": "2024 Stuttgart Regionals",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/blank.png',
+      sprite1: '../../../../assets/sprites/comfey.png',
+      sprite2: '../../../../assets/sprites/roaring-moon.png',
       // list: '../../../../assets/list-icon.png',
       list: '../../../../assets/sprites/blank.png',
       "decklist": { 
