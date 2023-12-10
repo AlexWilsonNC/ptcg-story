@@ -305,15 +305,42 @@ let masters = [
       "event": "2024 Stuttgart Regionals",
       sprite1: '../../../../assets/sprites/comfey.png',
       sprite2: '../../../../assets/sprites/roaring-moon.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      list: '../../../../assets/list-icon.png',
       "decklist": { 
         "pokemon": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
+            { "count": 1, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
+            { "count": 1, "name": "Roaring Moon ex", "number": "124", "set": "PAR" },
+            { "count": 1, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
+            { "count": 1, "name": "Giratina V", "number": "130", "set": "LOR" },
+            { "count": 1, "name": "Kyogre", "number": "3", "set": "CEL" },
+            { "count": 1, "name": "Sableye", "number": "70", "set": "LOR" },
+            { "count": 1, "name": "Cramorant", "number": "50", "set": "LOR" },
+            { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+            { "count": 1, "name": "Lumineon V", "number": "250", "set": "PR-SW" },
         ], "trainer": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
+            { "count": 1, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+            { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+            { "count": 4, "name": "Mirage Gate", "number": "163", "set": "LOR" },
+            { "count": 4, "name": "Switch Cart", "number": "154", "set": "ASR" },
+            { "count": 3, "name": "Nest Ball", "number": "181", "set": "SVI" },
+            { "count": 3, "name": "Super Rod", "number": "188", "set": "PAL" },
+            { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
+            { "count": 2, "name": "Energy Recycler", "number": "124", "set": "BST" },
+            { "count": 1, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+            { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" }, 
+            { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
+            { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+            { "count": 2, "name": "PokeStop", "number": "68", "set": "PGO" },
+
         ], "energy": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-        ]}
+            { "count": 4, "name": "Darkness Energy - Basic", "number": "231", "set": "CRE" },
+            { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
+            { "count": 2, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" },
+            { "count": 2, "name": "Psychic Energy - Basic", "number": "155", "set": "CRZ" },
+            { "count": 1, "name": "Grass Energy - Basic", "number": "155", "set": "CRZ" },
+            { "count": 2, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
+    ]}
     },
 ]
