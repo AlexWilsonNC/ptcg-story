@@ -68,11 +68,28 @@ let masters = [
         ]}
     },
     {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Ethan Wilde",
+        flag: '../../../../assets/flags/uk.png',
+        "event": "2024 Stuttgart Regionals",
+        sprite1: '../../../../assets/sprites/mew-vmax.png',
+        sprite2: '../../../../assets/sprites/genesect.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": { 
+          "pokemon": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ], "trainer": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ], "energy": [
+              { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+          ]}
+      },
+    {
+      "firstName": "Théo Grimoud",
+      flag: '../../../../assets/flags/france.png',
       "event": "2024 Stuttgart Regionals",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/blank.png',
+      sprite1: '../../../../assets/sprites/inteleon-vmax.png',
+      sprite2: '../../../../assets/sprites/urshifu-rapid-strike-gmax.png',
       // list: '../../../../assets/list-icon.png',
       list: '../../../../assets/sprites/blank.png',
       "decklist": { 
@@ -85,11 +102,11 @@ let masters = [
         ]}
     },
     {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
+      "firstName": "Gino Pili",
+      flag: '../../../../assets/flags/netherlands.png',
       "event": "2024 Stuttgart Regionals",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/blank.png',
+      sprite1: '../../../../assets/sprites/inteleon-vmax.png',
+      sprite2: '../../../../assets/sprites/urshifu-rapid-strike-gmax.png',
       // list: '../../../../assets/list-icon.png',
       list: '../../../../assets/sprites/blank.png',
       "decklist": { 
@@ -102,28 +119,11 @@ let masters = [
         ]}
     },
     {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
+      "firstName": "Dustin Bachmann",
+      flag: '../../../../assets/flags/germany.png',
       "event": "2024 Stuttgart Regionals",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/blank.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
-      "decklist": { 
-        "pokemon": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-        ], "trainer": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-        ], "energy": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-        ]}
-    },
-    {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
-      "event": "2024 Stuttgart Regionals",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/blank.png',
+      sprite1: '../../../../assets/sprites/comfey.png',
+      sprite2: '../../../../assets/sprites/charizard.png',
       // list: '../../../../assets/list-icon.png',
       list: '../../../../assets/sprites/blank.png',
       "decklist": { 
