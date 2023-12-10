@@ -7,6 +7,7 @@ const setConvert = {
     "OBF": "sv3",
     "PAL": "sv2",
     "SVI": "sv1",
+    "SVE": "sve",
     "PR-SV": "svp",
     // swsh
     "CRZ": "swsh12pt5",

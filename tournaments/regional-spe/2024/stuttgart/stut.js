@@ -5,15 +5,40 @@ let masters = [
       "event": "2024 Stuttgart Regionals",
       sprite2: '../../../../assets/sprites/comfey.png',
       sprite1: '../../../../assets/sprites/charizard-shiny.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
+      list: '../../../../assets/list-icon.png',
       "decklist": { 
         "pokemon": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-        ], "trainer": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
+            { "count": 2, "name": "Sableye", "number": "70", "set": "LOR" },
+            { "count": 2, "name": "Cramorant", "number": "50", "set": "LOR" },
+            { "count": 1, "name": "Radiant Charizard", "number": "20", "set": "CRZ" },
+            { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" },
+            { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+            { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" },
+    ], "trainer": [
+            { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
+            { "count": 2, "name": "Raihan", "number": "140", "set": "CRZ" },
+            { "count": 2, "name": "Klara", "number": "145", "set": "CRE" },
+            { "count": 1, "name": "Roxanne", "number": "150", "set": "ASR" },
+            { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+            { "count": 4, "name": "Switch Cart", "number": "154", "set": "ASR" },
+            { "count": 4, "name": "Escape Rope", "number": "125", "set": "BST" },
+            { "count": 3, "name": "Nest Ball", "number": "181", "set": "SVI" },
+            { "count": 2, "name": "Fog Crystal", "number": "140", "set": "CRE" },
+            { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+            { "count": 2, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+            { "count": 2, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
+            { "count": 2, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+            { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" }, 
+            { "count": 1, "name": "Mirage Gate", "number": "163", "set": "LOR" },
+            { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
+            { "count": 2, "name": "Technical Machine: Devolution", "number": "177", "set": "PAR" },
+            { "count": 2, "name": "Beach Court", "number": "167", "set": "SVI" },
+            { "count": 1, "name": "Artazon", "number": "171", "set": "PAL" },
         ], "energy": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            { "count": 3, "name": "Basic Psychic Energy", "number": "5", "set": "SVE" },
+            { "count": 2, "name": "Basic Fire Energy", "number": "2", "set": "SVE" },
+            { "count": 1, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
         ]}
     },
     {
@@ -295,7 +320,7 @@ let masters = [
             { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
             { "count": 1, "name": "Artazon", "number": "171", "set": "PAL" },
         ], "energy": [
-            { "count": 10, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
+            { "count": 10, "name": "Basic Psychic Energy", "number": "5", "set": "SVE" },
             { "count": 2, "name": "Reversal Energy - Special", "number": "192", "set": "PAL" },
     ]}
     },
@@ -335,11 +360,11 @@ let masters = [
             { "count": 2, "name": "PokeStop", "number": "68", "set": "PGO" },
 
         ], "energy": [
-            { "count": 4, "name": "Darkness Energy - Basic", "number": "231", "set": "CRE" },
-            { "count": 3, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-            { "count": 2, "name": "Lightning Energy - Basic", "number": "155", "set": "CRZ" },
-            { "count": 2, "name": "Psychic Energy - Basic", "number": "155", "set": "CRZ" },
-            { "count": 1, "name": "Grass Energy - Basic", "number": "155", "set": "CRZ" },
+            { "count": 4, "name": "Basic Darkness Energy", "number": "7", "set": "SVE" },
+            { "count": 3, "name": "Basic Water Energy", "number": "3", "set": "SVE" },
+            { "count": 2, "name": "Basic Lightning Energy", "number": "4", "set": "SVE" },
+            { "count": 2, "name": "Basic Psychic Energy", "number": "5", "set": "SVE" },
+            { "count": 1, "name": "Basic Grass Energy", "number": "1", "set": "SVE" },
             { "count": 2, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
     ]}
     },
