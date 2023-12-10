@@ -1,7 +1,41 @@
 let masters = [
     {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
+      "firstName": "Christian Fontenot",
+      flag: '../../../../assets/flags/denmark.png',
+      "event": "2024 Stuttgart Regionals",
+      sprite2: '../../../../assets/sprites/comfey.png',
+      sprite1: '../../../../assets/sprites/charizard-shiny.png',
+      // list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/sprites/blank.png',
+      "decklist": { 
+        "pokemon": [
+            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+        ], "trainer": [
+            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+        ], "energy": [
+            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+        ]}
+    },
+    {
+      "firstName": "Simon Tschan",
+      flag: '../../../../assets/flags/switzerland.png',
+      "event": "2024 Stuttgart Regionals",
+      sprite1: '../../../../assets/sprites/miraidon.png',
+      sprite2: '../../../../assets/sprites/flaaffy.png',
+      // list: '../../../../assets/list-icon.png',
+      list: '../../../../assets/sprites/blank.png',
+      "decklist": { 
+        "pokemon": [
+            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+        ], "trainer": [
+            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+        ], "energy": [
+            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+        ]}
+    },
+    {
+      "firstName": "Alberto Conti",
+      flag: '../../../../assets/flags/italy.png',
       "event": "2024 Stuttgart Regionals",
       sprite1: '../../../../assets/sprites/blank.png',
       sprite2: '../../../../assets/sprites/blank.png',
@@ -17,42 +51,8 @@ let masters = [
         ]}
     },
     {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
-      "event": "2024 Stuttgart Regionals",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/blank.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
-      "decklist": { 
-        "pokemon": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-        ], "trainer": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-        ], "energy": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-        ]}
-    },
-    {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
-      "event": "2024 Stuttgart Regionals",
-      sprite1: '../../../../assets/sprites/blank.png',
-      sprite2: '../../../../assets/sprites/blank.png',
-      // list: '../../../../assets/list-icon.png',
-      list: '../../../../assets/sprites/blank.png',
-      "decklist": { 
-        "pokemon": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-        ], "trainer": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-        ], "energy": [
-            { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-        ]}
-    },
-    {
-      "firstName": "--",
-      flag: '../../../../assets/flags/unknown.png',
+      "firstName": "Kristian Hodas",
+      flag: '../../../../assets/flags/slovakia.png',
       "event": "2024 Stuttgart Regionals",
       sprite1: '../../../../assets/sprites/blank.png',
       sprite2: '../../../../assets/sprites/blank.png',
