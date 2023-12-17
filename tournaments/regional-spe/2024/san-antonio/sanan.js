@@ -72,11 +72,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
+        "firstName": "Calvin Connor",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 San Antonio Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/snorlax.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
