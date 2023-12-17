@@ -131,8 +131,8 @@ let masters = [
         "event": "2024 San Antonio Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/blank.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
+        // list: '../../../../assets/sprites/blank.png',
         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
@@ -151,22 +151,22 @@ let masters = [
             ], "trainer": [
                 { "count": 4, "name": "Avery", "number": "130", "set": "CRE" },
                 { "count": 4, "name": "Iono", "number": "185", "set": "PAL" },
-                { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
-                { "count": 1, "name": "Professor's Research", "number": "189", "set": "SVI" },
-                { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
-                { "count": 1, "name": "Avery", "number": "130", "set": "CRE" },
+                { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
                 { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
                 { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
                 { "count": 4, "name": "Rare Candy", "number": "191", "set": "SVI" },
                 { "count": 2, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 2, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
                 { "count": 1, "name": "Nest Ball", "number": "181", "set": "SVI" },
-                { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
-                { "count": 1, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 1, "name": "Level Ball", "number": "129", "set": "BST" },
                 { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
-                { "count": 1, "name": "Defiance Band", "number": "169", "set": "SVI" },
-                { "count": 3, "name": "Lost City", "number": "161", "set": "LOR" }, 
+                { "count": 1, "name": "Justufied Gloves", "number": "143", "set": "CRE" },
+                { "count": 1, "name": "Vitality Band", "number": "197", "set": "SVI" },
+                { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" }, 
+                { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
             ], "energy": [
-                { "count": 8, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" },
+                { "count": 7, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" },
             ]
         }
     },
