@@ -131,8 +131,8 @@ let masters = [
         "event": "2024 San Antonio Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/blank.png',
-        list: '../../../../assets/list-icon.png',
-        // list: '../../../../assets/sprites/blank.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
