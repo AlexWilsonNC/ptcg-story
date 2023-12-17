@@ -90,11 +90,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
+        "firstName": "Dan Hugar",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 San Antonio Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/giratina-origin.png',
+        sprite2: '../../../../assets/sprites/comfey.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -108,11 +108,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
+        "firstName": "Nick Robinson",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 San Antonio Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/miraidon.png',
+        sprite2: '../../../../assets/sprites/flaaffy.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -193,16 +193,46 @@ let masters = [
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 San Antonio Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/snorlax.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Snorlax", "number": "55", "set": "PGO" },
+                { "count": 2, "name": "Pidgeot ex", "number": "164", "set": "OBF" },
+                { "count": 2, "name": "Pidgey", "number": "16", "set": "MEW" },
+                { "count": 1, "name": "Rotom V", "number": "58", "set": "LOR" },
+                { "count": 1, "name": "Luxray V", "number": "50", "set": "ASR" },
+                { "count": 1, "name": "Mimikyu", "number": "97", "set": "PAL" },
+                { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
+                { "count": 3, "name": "Penny", "number": "183", "set": "SVI" },
+                { "count": 2, "name": "Peonia", "number": "149", "set": "CRE" },
+                { "count": 1, "name": "Miss Fortune Sisters", "number": "164", "set": "LOR" },
+                { "count": 1, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 1, "name": "Erika's Invitation", "number": "160", "set": "MEW" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 1, "name": "Giacomo", "number": "182", "set": "PAL" },
+                { "count": 1, "name": "Cyllene", "number": "138", "set": "ASR" },
+                { "count": 1, "name": "Sidney", "number": "241", "set": "FST" },
+                { "count": 1, "name": "Team Yell's Cheer", "number": "149", "set": "BRS" },
+                { "count": 4, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 3, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
+                { "count": 3, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 3, "name": "Rare Candy", "number": "191", "set": "SVI" },
+                { "count": 2, "name": "Pal Pad", "number": "172", "set": "SSH" },
+                { "count": 1, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 1, "name": "Echoing Horn", "number": "136", "set": "CRE" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 3, "name": "Bravery Charm", "number": "173", "set": "PAL" },
+                { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 3, "name": "Stormy Mountains", "number": "161", "set": "EVS" },
+                { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" }, 
+                { "count": 1, "name": "Artazon", "number": "171", "set": "PAL" }, 
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
             ]
         }
     },
