@@ -625,6 +625,7 @@ let masters = [
                 { "count": 2, "name": "Melony", "number": "146", "set": "CRE" },
                 { "count": 2, "name": "Korrina's Focus", "number": "128", "set": "BST" },
                 { "count": 2, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 1, "name": "Arven", "number": "186", "set": "OBF" },
                 { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
                 { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
                 { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
