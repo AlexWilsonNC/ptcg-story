@@ -1,10 +1,10 @@
 let masters = [
     {
-        "firstName": "--",
+        "firstName": "Azul Griego",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 San Antonio Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/charizard.png',
+        sprite2: '../../../../assets/sprites/pidgeot.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -18,11 +18,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
+        "firstName": "Grant Hays",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 San Antonio Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/giratina-origin.png',
+        sprite2: '../../../../assets/sprites/comfey.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
