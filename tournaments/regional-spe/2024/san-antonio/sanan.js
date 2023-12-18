@@ -36,11 +36,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
+        "firstName": "Joseph Nawal",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 San Antonio Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/palkia-origin.png',
+        sprite2: '../../../../assets/sprites/chien-pao.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -54,11 +54,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
+        "firstName": "Grant Manley",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 San Antonio Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/charizard.png',
+        sprite2: '../../../../assets/sprites/pidgeot.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
