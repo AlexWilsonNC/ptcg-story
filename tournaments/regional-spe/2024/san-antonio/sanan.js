@@ -567,15 +567,36 @@ let masters = [
         "event": "2024 San Antonio Regionals",
         sprite1: '../../../../assets/sprites/mew-vmax.png',
         sprite2: '../../../../assets/sprites/genesect.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Mew VMAX", "number": "114", "set": "FST" },
+                { "count": 4, "name": "Mew V", "number": "60", "set": "CRZ" },
+                { "count": 4, "name": "Genesect V", "number": "185", "set": "FST" },
+            ],
+            "trainer": [
+                { "count": 3, "name": "Judge", "number": "176", "set": "SVI" },
+                { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 4, "name": "Cram-o-matic", "number": "229", "set": "FST" },
+                { "count": 4, "name": "Power Tablet", "number": "236", "set": "FST" },
+                { "count": 4, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 2, "name": "Feather Ball", "number": "141", "set": "ASR" },
+                { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 1, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 3, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 2, "name": "Box of Disaster", "number": "154", "set": "LOR" },
+                { "count": 1, "name": "Choice Belt", "number": "176", "set": "PAL" },
+                { "count": 4, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+            ],
+            "energy": [
+                { "count": 4, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
+                { "count": 1, "name": "Fusion Strike Energy - Special", "number": "244", "set": "FST" },
             ]
         }
     },
