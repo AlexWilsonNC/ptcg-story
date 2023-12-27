@@ -42,6 +42,14 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Arceus VSTAR")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Regigigas VSTAR")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/regigigas.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Comfey")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Sableye")) {
