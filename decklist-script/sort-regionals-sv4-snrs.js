@@ -1,8 +1,8 @@
-const masterList = document.querySelector('.masters-ol');
+const seniorsList = document.querySelector('.seniors-ol');
 const modalBottom = document.querySelector('.modal-bottom');
 
 function displayList(array = []) {
-    masterList.innerHTML = '';
+    seniorsList.innerHTML = '';
 
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
@@ -401,7 +401,7 @@ function displayList(array = []) {
 
             })
         }
-        masterList.appendChild(item_element);
+        seniorsList.appendChild(item_element);
     }
 }
 
@@ -409,4 +409,4 @@ const modal = document.querySelector('.modal');
 const modalX = document.querySelector('.modal-x');
 const behind = document.querySelector('.behind-modal');
 
-displayList(masters);
+displayList(seniors);

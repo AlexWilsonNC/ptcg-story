@@ -2682,4 +2682,4 @@ let juniors = [{
   "event": "2024 Lille Regionals",
   "record": { "wins": 4, "losses": 1, "ties": 2 }, 
    "decklist": "", 
-},]
+}]

@@ -4408,5 +4408,61 @@ let svp = [
             "small": "https://images.pokemontcg.io/svp/51.png",
             "large": "https://images.pokemontcg.io/svp/51_hires.png"
         }
+    },
+    {
+        "id": "svp-56",
+        "name": "Charizard ex",
+        "images": {
+            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_056_std.jpg?w=733&ssl=1",
+            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_056_std.jpg?w=733&ssl=1"
+        }
+    },
+    {
+        "id": "svp-58",
+        "name": "Iron Bundle",
+        "images": {
+            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_058_std.jpg?w=733&ssl=1",
+            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_058_std.jpg?w=733&ssl=1"
+        }
+    },
+    {
+        "id": "svp-59",
+        "name": "Xatu",
+        "images": {
+            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_059_std.jpg?w=733&ssl=1",
+            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_059_std.jpg?w=733&ssl=1"
+        }
+    },
+    {
+        "id": "svp-65",
+        "name": "Scream Tail",
+        "images": {
+            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_065_std.jpg?w=733&ssl=1",
+            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_065_std.jpg?w=733&ssl=1"
+        }
+    },
+    {
+        "id": "svp-66",
+        "name": "Iron Bundle",
+        "images": {
+            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_066_std.jpg?w=733&ssl=1",
+            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_066_std.jpg?w=733&ssl=1"
+        }
+    },
+    {
+        "id": "svp-67",
+        "name": "Roaring Moon ex",
+        "images": {
+            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_067_std.jpg?w=733&ssl=1",
+            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_067_std.jpg?w=733&ssl=1"
+        }
+    },
+    {
+        "id": "svp-68",
+        "name": "Iron Valiant ex",
+        "images": {
+            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_068_std.jpg?fit=733%2C1024&ssl=1",
+            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_068_std.jpg?fit=733%2C1024&ssl=1"
+        }
     }
 ]
