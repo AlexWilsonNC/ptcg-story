@@ -481,7 +481,7 @@ let masters = [
     "decklist": {
       "pokemon": [
         { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
-        { "count": 1, "name": "Charmeleon", "number": "27", "set": "OBF" },
+        { "count": 1, "name": "Charmeleon", "number": "2", "set": "FR" },
         { "count": 4, "name": "Charmander", "number": "4", "set": "MEW" },
         { "count": 2, "name": "Pidgeot ex", "number": "164", "set": "OBF" },
         { "count": 2, "name": "Pidgey", "number": "16", "set": "MEW" },
