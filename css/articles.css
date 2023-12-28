@@ -150,6 +150,11 @@ img{
     width: 55%;
     margin-bottom: 15px;
 }
+.article-content-image-xsmall {
+    border-radius: 10px;
+    width: 35%;
+    margin-bottom: 15px;
+}
 .article-content.darkon h4 {
     color: white;
 }
