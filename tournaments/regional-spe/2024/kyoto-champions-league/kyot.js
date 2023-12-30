@@ -360,7 +360,7 @@ let masters = [
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Kyoto Champions League",
     sprite1: '../../../../assets/sprites/comfey.png',
-    sprite2: '../../../../assets/sprites/sableye.png',
+    sprite2: '../../../../assets/sprites/roaring-moon.png',
     list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
