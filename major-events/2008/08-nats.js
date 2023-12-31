@@ -973,7 +973,7 @@ let tenEvent = [
                 numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2008-2010/aarons-collection.png',
+                cardImg: '../../assets/cards/2007-2008/celios-network.png',
                 numImg: '../../assets/03.png'
             },
             {
