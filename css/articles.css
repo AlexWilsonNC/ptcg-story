@@ -308,6 +308,37 @@ img{
     background-color: rgb(196, 186, 170);
     padding: 0.5px;
 }
+
+.hiddenimg,
+.hiddenimg2,
+.hiddenimg3 {
+    display: none;
+    width: 245px;
+    height: auto;
+}
+.hiddentxt,
+.hiddentxt2,
+.hiddentxt3 {
+    font-weight: bold;
+}
+.hiddentxt a,
+.hiddentxt2 a,
+.hiddentxt3 a {
+    text-decoration: none;
+}
+.hiddentxt:hover ~ .hiddenimg {
+    display: block;
+    position: absolute;
+}
+.hiddentxt2:hover ~ .hiddenimg2 {
+    display: block;
+    position: absolute;
+}
+.hiddentxt3:hover ~ .hiddenimg3 {
+    display: block;
+    position: absolute;
+}
+
 @media screen and (max-width: 812px) {
     .old-card {
         padding: 0.5px;
