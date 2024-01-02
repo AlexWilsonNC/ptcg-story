@@ -311,19 +311,32 @@ img{
 
 .hiddenimg,
 .hiddenimg2,
-.hiddenimg3 {
+.hiddenimg3,
+.hiddenimg4,
+.hiddenimg5,
+.hiddenimg6,
+.hiddenimg7 {
     display: none;
     width: 245px;
     height: auto;
+    z-index: 1000;
 }
 .hiddentxt,
 .hiddentxt2,
-.hiddentxt3 {
+.hiddentxt3,
+.hiddentxt4,
+.hiddentxt5,
+.hiddentxt6,
+.hiddentxt7 {
     font-weight: bold;
 }
 .hiddentxt a,
 .hiddentxt2 a,
-.hiddentxt3 a {
+.hiddentxt3 a,
+.hiddentxt4 a,
+.hiddentxt5 a,
+.hiddentxt6 a,
+.hiddentxt7 a {
     text-decoration: none;
 }
 .hiddentxt:hover ~ .hiddenimg {
@@ -335,6 +348,22 @@ img{
     position: absolute;
 }
 .hiddentxt3:hover ~ .hiddenimg3 {
+    display: block;
+    position: absolute;
+}
+.hiddentxt4:hover ~ .hiddenimg4 {
+    display: block;
+    position: absolute;
+}
+.hiddentxt5:hover ~ .hiddenimg5 {
+    display: block;
+    position: absolute;
+}
+.hiddentxt6:hover ~ .hiddenimg6 {
+    display: block;
+    position: absolute;
+}
+.hiddentxt7:hover ~ .hiddenimg7 {
     display: block;
     position: absolute;
 }
