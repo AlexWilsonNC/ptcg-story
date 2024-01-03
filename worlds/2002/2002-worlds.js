@@ -349,7 +349,7 @@ let masters = [
     firstName: 'Kevin Cheng',
     flag: '../../assets/flags/unknown.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/kingdra.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
