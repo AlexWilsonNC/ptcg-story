@@ -627,7 +627,7 @@ let seniors = [
   },
   {
     firstName: 'Jonathan Recktenwald',
-    disclaimer: "<span class='disclaimer'>(unconfirmed list)</span>",
+    // disclaimer: "<span class='disclaimer'>(unconfirmed list)</span>",
     flag: '../../../assets/flags/usa.png',
     sprite1: '../../../assets/sprites/umbreon.png',
     sprite2: '../../../assets/sprites/slowking.png',
