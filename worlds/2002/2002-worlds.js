@@ -2724,7 +2724,7 @@ let juniors = [
     firstName: 'Matt Catalano',
     flag: '../../assets/flags/unknown.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/feraligatr.png',
     list: '../../assets/sprites/blank.png',
     type: 'dark',
     deck: []
