@@ -487,8 +487,8 @@ let masters = [
         "firstName": "Hale Obernolte",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 Portland Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
+        sprite1: '../../../../assets/sprites/pidgeot.png',
+        sprite2: '../../../../assets/sprites/snorlax.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
