@@ -77,15 +77,37 @@ let masters = [
         "event": "2024 Portland Regionals",
         sprite1: '../../../../assets/sprites/miraidon.png',
         sprite2: '../../../../assets/sprites/flaaffy.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 2, "name": "Miraidon ex", "number": "81", "set": "SVI" },
+                { "count": 2, "name": "Raichu V", "number": "45", "set": "BRS" },
+                { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
+                { "count": 1, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
+                { "count": 1, "name": "Tapu Koko ex", "number": "68", "set": "PAR" },
+                { "count": 1, "name": "Raikou V", "number": "48", "set": "BRS" },
+                { "count": 2, "name": "Flaaffy", "number": "55", "set": "EVS" },
+                { "count": 2, "name": "Mareep", "number": "54", "set": "EVS" },
+                { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
+                { "count": 1, "name": "Zapdos", "number": "29", "set": "PGO" },
+                { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" },
             ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
+                { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 2, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 2, "name": "Judge", "number": "176", "set": "SVI" },
+                { "count": 4, "name": "Electric Generator", "number": "170", "set": "SVI" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 2, "name": "Switch", "number": "194", "set": "SVI" },
+                { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 1, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 2, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 2, "name": "Exp. Share", "number": "174", "set": "SVI" },
+                { "count": 2, "name": "Beach Court", "number": "167", "set": "SVI" },
+                { "count": 2, "name": "Path to the Peak", "number": "148", "set": "CRE" },
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 13, "name": "Lightning Energy - Basic", "number": "4", "set": "SVE" },
+                { "count": 1, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
             ]
         }
     },
@@ -185,16 +207,40 @@ let masters = [
         "event": "2024 Portland Regionals",
         sprite1: '../../../../assets/sprites/comfey.png',
         sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
+                { "count": 2, "name": "Sableye", "number": "70", "set": "LOR" },
+                { "count": 2, "name": "Cramorant", "number": "50", "set": "LOR" },
+                { "count": 1, "name": "Radiant Charizard", "number": "20", "set": "CRZ" },
+                { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" },
+                { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+                { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" },
             ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
+                { "count": 2, "name": "Raihan", "number": "140", "set": "CRZ" },
+                { "count": 2, "name": "Klara", "number": "145", "set": "CRE" },
+                { "count": 1, "name": "Roxanne", "number": "150", "set": "ASR" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 4, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 3, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 3, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 2, "name": "Fog Crystal", "number": "140", "set": "CRE" },
+                { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 2, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
+                { "count": 2, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 1, "name": "Mirage Gate", "number": "163", "set": "LOR" },
+                { "count": 2, "name": "Technical Machine: Devolution", "number": "177", "set": "PAR" },
+                { "count": 2, "name": "Beach Court", "number": "167", "set": "SVI" },
+                { "count": 1, "name": "Artazon", "number": "171", "set": "PAL" },
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ]
+                { "count": 3, "name": "Basic Psychic Energy", "number": "5", "set": "SVE" },
+                { "count": 2, "name": "Basic Fire Energy", "number": "2", "set": "SVE" },
+                { "count": 1, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
+                ]
         }
     },
     {
