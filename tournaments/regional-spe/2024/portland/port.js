@@ -541,16 +541,43 @@ let masters = [
         "event": "2024 Portland Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/snorlax.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ]
+                { "count": 4, "name": "Snorlax", "number": "55", "set": "PGO" },
+                { "count": 1, "name": "Rotom V", "number": "58", "set": "LOR" },
+                { "count": 1, "name": "Pidgeot V", "number": "137", "set": "LOR" },
+                { "count": 1, "name": "Mimikyu", "number": "97", "set": "PAL" },
+                { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
+                { "count": 3, "name": "Penny", "number": "183", "set": "SVI" },
+                { "count": 3, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 3, "name": "Miss Fortune Sisters", "number": "164", "set": "LOR" },
+                { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 2, "name": "Erika's Invitation", "number": "160", "set": "MEW" },
+                { "count": 1, "name": "Peonia", "number": "149", "set": "CRE" },
+                { "count": 1, "name": "Giacomo", "number": "182", "set": "PAL" },
+                { "count": 1, "name": "Cyllene", "number": "138", "set": "ASR" },
+                { "count": 1, "name": "Sidney", "number": "241", "set": "FST" },
+                { "count": 1, "name": "Team Yell's Cheer", "number": "149", "set": "BRS" },
+                { "count": 1, "name": "Avery", "number": "130", "set": "CRE" },
+                { "count": 4, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 4, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
+                { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 2, "name": "Pal Pad", "number": "182", "set": "SVI" },
+                { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 1, "name": "Echoing Horn", "number": "136", "set": "CRE" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 1, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 3, "name": "Bravery Charm", "number": "173", "set": "PAL" },
+                { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 1, "name": "Luxurious Cape", "number": "166", "set": "PAR" },
+                { "count": 2, "name": "Pokemon League Headquarters", "number": "192", "set": "OBF" },
+                { "count": 2, "name": "Temple of Sinnoh", "number": "155", "set": "ASR" },
+                ]
         }
     },
     {
