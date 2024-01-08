@@ -577,6 +577,8 @@ let masters = [
                 { "count": 1, "name": "Luxurious Cape", "number": "166", "set": "PAR" },
                 { "count": 2, "name": "Pokemon League Headquarters", "number": "192", "set": "OBF" },
                 { "count": 2, "name": "Temple of Sinnoh", "number": "155", "set": "ASR" },
+                ],
+                "energy": [
                 ]
         }
     },
