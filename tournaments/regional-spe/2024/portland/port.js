@@ -139,12 +139,42 @@ let masters = [
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
+                { "count": 1, "name": "Charmeleon", "number": "27", "set": "OBF" },
+                { "count": 3, "name": "Charmander", "number": "4", "set": "MEW" },
+                { "count": 1, "name": "Charmander", "number": "47", "set": "PR-SV" },
+                { "count": 2, "name": "Pidgeot ex", "number": "164", "set": "OBF" },
+                { "count": 2, "name": "Pidgey", "number": "16", "set": "MEW" },
+                { "count": 1, "name": "Rotom V", "number": "58", "set": "LOR" },
+                { "count": 1, "name": "Lumineon V", "number": "250", "set": "PR-SW" },
+                { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
+                { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+                { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" },
             ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
+                { "count": 3, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 1, "name": "Professor's Research", "number": "190", "set": "SVI" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 4, "name": "Rare Candy", "number": "191", "set": "SVI" },
+                { "count": 2, "name": "Level Ball", "number": "129", "set": "BST" },
+                { "count": 2, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 2, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 1, "name": "Justified Gloves", "number": "143", "set": "CRE" },
+                { "count": 1, "name": "Vitality Band", "number": "197", "set": "SVI" },
+                { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" },
+                { "count": 1, "name": "Artazon", "number": "171", "set": "PAL" },
+                { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 7, "name": "Fire Energy - Basic", "number": "2", "set": "SVE" },
             ]
+            // switch
+            // Devolution
+            // CHARMANDER
+
         }
     },
     {
@@ -466,17 +496,44 @@ let masters = [
         "firstName": "Manuel Soto",
         flag: '../../../../assets/flags/usa.png',
         "event": "2024 Portland Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/arceus.png',
+        sprite2: '../../../../assets/sprites/serperior.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Arceus VSTAR", "number": "123", "set": "BRS" },
+                { "count": 4, "name": "Arceus V", "number": "122", "set": "BRS" },
+                { "count": 2, "name": "Serperior VSTAR", "number": "8", "set": "SIT" },
+                { "count": 2, "name": "Serperior V", "number": "7", "set": "SIT" },
+                { "count": 1, "name": "Slaking V", "number": "58", "set": "PGO" },
+                { "count": 2, "name": "Bibarel", "number": "121", "set": "BRS" },
+                { "count": 2, "name": "Bidoof", "number": "111", "set": "CRZ" },
+                { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" },
+                { "count": 1, "name": "Radiant Alakazam", "number": "59", "set": "SIT" },
+                { "count": 1, "name": "Skwovet", "number": "151", "set": "SVI" },
+
             ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 3, "name": "Judge", "number": "176", "set": "SVI" },
+                { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 1, "name": "Professor's Research", "number": "190", "set": "SVI" },
+                { "count": 1, "name": "Raihan", "number": "140", "set": "CRZ" },
+                { "count": 1, "name": "Cheren's Care", "number": "134", "set": "BRS" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 1, "name": "Switch", "number": "194", "set": "SVI" },
+                { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 1, "name": "Bravery Charm", "number": "173", "set": "PAL" },
+                { "count": 1, "name": "Choice Belt", "number": "176", "set": "PAL" },
+                { "count": 3, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 5, "name": "Grass Energy - Basic", "number": "4", "set": "SVE" },
+                { "count": 1, "name": "Psychic Energy - Basic", "number": "1", "set": "SVE" },
+                { "count": 4, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
+                { "count": 2, "name": "V Guard Energy - Special", "number": "169", "set": "SIT" },
+                { "count": 1, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
             ]
         }
     },
