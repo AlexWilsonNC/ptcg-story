@@ -1,10 +1,10 @@
 let masters = [
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Jon Eng",
+        flag: '../../../../assets/flags/usa.png',
         "event": "2024 Portland Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/giratina-origin.png',
+        sprite2: '../../../../assets/sprites/comfey.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -18,11 +18,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Sam Hough",
+        flag: '../../../../assets/flags/usa.png',
         "event": "2024 Portland Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/blank.png',
+        sprite1: '../../../../assets/sprites/giratina-origin.png',
+        sprite2: '../../../../assets/sprites/comfey.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -135,13 +135,13 @@ let masters = [
         "event": "2024 Portland Regionals",
         sprite1: '../../../../assets/sprites/charizard.png',
         sprite2: '../../../../assets/sprites/pidgeot.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
                 { "count": 1, "name": "Charmeleon", "number": "27", "set": "OBF" },
-                { "count": 3, "name": "Charmander", "number": "4", "set": "MEW" },
+                { "count": 2, "name": "Charmander", "number": "4", "set": "MEW" },
+                { "count": 1, "name": "Charmander", "number": "26", "set": "OBF" },
                 { "count": 1, "name": "Charmander", "number": "47", "set": "PR-SV" },
                 { "count": 2, "name": "Pidgeot ex", "number": "164", "set": "OBF" },
                 { "count": 2, "name": "Pidgey", "number": "16", "set": "MEW" },
@@ -158,23 +158,20 @@ let masters = [
                 { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
                 { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
                 { "count": 4, "name": "Rare Candy", "number": "191", "set": "SVI" },
-                { "count": 2, "name": "Level Ball", "number": "129", "set": "BST" },
                 { "count": 2, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
                 { "count": 2, "name": "Counter Catcher", "number": "160", "set": "PAR" },
-                { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 1, "name": "Level Ball", "number": "129", "set": "BST" },
+                { "count": 1, "name": "Switch", "number": "194", "set": "SVI" },
                 { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
-                { "count": 1, "name": "Justified Gloves", "number": "143", "set": "CRE" },
+                { "count": 1, "name": "Technical Machine: Devolution", "number": "177", "set": "PAR" },
                 { "count": 1, "name": "Vitality Band", "number": "197", "set": "SVI" },
                 { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" },
                 { "count": 1, "name": "Artazon", "number": "171", "set": "PAL" },
                 { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
             ], "energy": [
-                { "count": 7, "name": "Fire Energy - Basic", "number": "2", "set": "SVE" },
+                { "count": 6, "name": "Fire Energy - Basic", "number": "2", "set": "SVE" },
             ]
-            // switch
-            // Devolution
-            // CHARMANDER
-
         }
     },
     {
