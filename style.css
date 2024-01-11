@@ -58,6 +58,13 @@ hr {
 #nav-left {
     margin: 0px 0px 0px 40px;
 }
+.move-left-five {
+    padding-right: 15px;
+}
+.material-symbols-outlined {
+    padding-top: 5px;
+    position: absolute;
+}
 #nav-left a {
     display: flex;
     flex-direction: row;

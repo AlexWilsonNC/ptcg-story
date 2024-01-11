@@ -301,6 +301,9 @@
     #nav-rightr a:nth-of-type(4) {
         margin-right: 50px;
     }
+  .material-symbols-outlined {
+      padding-top: 0px;
+  }
   }
   @media screen and (max-width: 1100px) {
     #nav-rightr {
