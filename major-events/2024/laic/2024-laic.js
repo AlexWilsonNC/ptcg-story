@@ -732,6 +732,7 @@ let masters = [
                 { "count": 1, "name": "Rotom V", "number": "58", "set": "LOR" },
                 { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
                 { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" },
+                { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
             ], "trainer": [
                 { "count": 4, "name": "Iono", "number": "185", "set": "PAL" },
                 { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
