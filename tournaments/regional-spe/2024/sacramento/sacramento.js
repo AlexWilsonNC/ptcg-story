@@ -5422,7 +5422,7 @@ let seniors = [{
   },
 },
 {
-  "name": "Liam Halliburton",
+  "name": "Liam H.",
   "flag": "US",
   "event": "2024 Sacramento Regionals",
   "placing": 3, "record": { "wins": 6, "losses": 1, "ties": 2 },
