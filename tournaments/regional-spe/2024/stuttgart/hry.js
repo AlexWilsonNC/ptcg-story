@@ -1392,7 +1392,7 @@ let seniors = [{
     }
 },
 {
-    "name": "Owen D.",
+    "name": "Owen Dalgard",
     "flag": "US",
     "placing": 6,
     "event": "2024 Stuttgart Regionals",

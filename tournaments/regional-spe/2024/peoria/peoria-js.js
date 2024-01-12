@@ -1239,7 +1239,7 @@ let masters = [{
 },
 ]
 let seniors = [{
-  "name": "Owen D.",
+  "name": "Owen Dalgard",
   "flag": "US",
   "event": "2024 Peoria Regionals",
   "placing": 1, "record": { "wins": 8, "losses": 0, "ties": 2 },
