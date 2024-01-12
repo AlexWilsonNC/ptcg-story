@@ -2729,15 +2729,6 @@ let juniors = [
     type: 'dark',
     deck: []
   },
-  // {
-  //   firstName: 'eeeeee',
-  //   flag: '../../assets/flags/unknown.png',
-  //   sprite1: '../../assets/sprites/blank.png',
-  //   sprite2: '../../assets/hyphen.png',
-  //   list: '../../assets/sprites/blank.png',
-  //   type: 'dark',
-  //   deck: []
-  // },
 ]
 
 //masters
