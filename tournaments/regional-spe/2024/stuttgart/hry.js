@@ -1337,7 +1337,7 @@ let masters = [{
 }]
 
 let seniors = [{
-    "name": "Marley Sylvester S.",
+    "name": "Marley Sylvester Skyum",
     "flag": "DK",
     "placing": 1,
     "event": "2024 Stuttgart Regionals",
@@ -1348,7 +1348,7 @@ let seniors = [{
     }
 },
 {
-    "name": "Alessandro V.",
+    "name": "Alessandro Vezzoni",
     "flag": "IT",
     "placing": 2,
     "event": "2024 Stuttgart Regionals",
@@ -1359,7 +1359,7 @@ let seniors = [{
     }
 },
 {
-    "name": "Omar C.",
+    "name": "Omar Cortes",
     "flag": "US",
     "placing": 3,
     "event": "2024 Stuttgart Regionals",
@@ -1370,7 +1370,7 @@ let seniors = [{
     }
 },
 {
-    "name": "Matthew K.",
+    "name": "Matthew Krajíček",
     "flag": "CZ",
     "placing": 4,
     "event": "2024 Stuttgart Regionals",
@@ -1381,7 +1381,7 @@ let seniors = [{
     }
 },
 {
-    "name": "Daniel M.",
+    "name": "Daniel Magda",
     "flag": "CZ",
     "placing": 5,
     "event": "2024 Stuttgart Regionals",
@@ -1403,7 +1403,7 @@ let seniors = [{
     }
 },
 {
-    "name": "Rasmus W.",
+    "name": "Rasmus Wagner",
     "flag": "DK",
     "placing": 7,
     "event": "2024 Stuttgart Regionals",
@@ -1414,7 +1414,7 @@ let seniors = [{
     }
 },
 {
-    "name": "Tigran F.",
+    "name": "Tigran Fatunz",
     "flag": "DE",
     "placing": 8,
     "event": "2024 Stuttgart Regionals",

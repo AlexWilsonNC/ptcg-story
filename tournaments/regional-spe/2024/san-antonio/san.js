@@ -2543,7 +2543,7 @@ let masters = [{
 }]
 
 let seniors = [{
-    "name": "Nathan O.",
+    "name": "Nathan Osterkatz",
     "flag": "US",
     "placing": 1,
     "event": "2024 San Antonio Regionals",
