@@ -385,16 +385,38 @@ let masters = [
     "event": "2024 Charlotte Regionals",
     sprite1: '../../../../assets/sprites/miraidon.png',
     sprite2: '../../../../assets/sprites/flaaffy.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-      ], "trainer": [
-        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-      ], "energy": [
-        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-      ]
+        { "count": 2, "name": "Miraidon ex", "number": "81", "set": "SVI" },
+        { "count": 2, "name": "Mew ex", "number": "151", "set": "MEW" },
+        { "count": 1, "name": "Raichu V", "number": "45", "set": "BRS" },
+        { "count": 1, "name": "Raikou V", "number": "48", "set": "BRS" },
+        { "count": 1, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
+        { "count": 1, "name": "Drapion V", "number": "118", "set": "LOR" },
+        { "count": 1, "name": "Flaaffy", "number": "55", "set": "EVS" },
+        { "count": 1, "name": "Mareep", "number": "54", "set": "EVS" },
+        { "count": 1, "name": "Squawkabilly ex", "number": "169", "set": "PAL" },
+        { "count": 1, "name": "Zapdos", "number": "29", "set": "PGO" },
+    ], "trainer": [
+      { "count": 4, "name": "Peony", "number": "150", "set": "CRE" },
+      { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+      { "count": 1, "name": "Arven", "number": "186", "set": "OBF" },
+      { "count": 4, "name": "Electric Generator", "number": "170", "set": "SVI" },
+        { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+        { "count": 2, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+        { "count": 2, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+        { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+        { "count": 2, "name": "Switch", "number": "194", "set": "SVI" },
+        { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
+        { "count": 1, "name": "Nest Ball", "number": "181", "set": "SVI" },
+        { "count": 2, "name": "Exp. Share", "number": "174", "set": "SVI" },
+        { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+        { "count": 2, "name": "Beach Court", "number": "167", "set": "SVI" },
+    ], "energy": [
+        { "count": 16, "name": "Lightning Energy - Basic", "number": "4", "set": "SVE" },
+        { "count": 1, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
+]
     }
   },
   {
