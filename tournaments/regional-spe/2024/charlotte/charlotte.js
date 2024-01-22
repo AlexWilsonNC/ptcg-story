@@ -375,7 +375,7 @@ let masters = [
   },
   {
     "firstName": "Andres David Torres",
-    flag: '../../../../assets/flags/columbia.png',
+    flag: '../../../../assets/flags/colombia.png',
     "event": "2024 Charlotte Regionals",
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/gardevoir.png',
