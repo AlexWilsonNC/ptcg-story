@@ -171,7 +171,7 @@ let masters = [
   },
   {
     "firstName": "Raymond Long",
-    flag: '../../../../assets/flags/usa.png',
+    flag: '../../../../assets/flags/canada.png',
     "event": "2024 Charlotte Regionals",
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/gardevoir.png',
@@ -188,7 +188,7 @@ let masters = [
   },
   {
     "firstName": "Jay Cristiano",
-    flag: '../../../../assets/flags/usa.png',
+    flag: '../../../../assets/flags/canada.png',
     "event": "2024 Charlotte Regionals",
     sprite1: '../../../../assets/sprites/mew-vmax.png',
     sprite2: '../../../../assets/sprites/genesect.png',
@@ -375,7 +375,7 @@ let masters = [
   },
   {
     "firstName": "Andres David Torres",
-    flag: '../../../../assets/flags/usa.png',
+    flag: '../../../../assets/flags/columbia.png',
     "event": "2024 Charlotte Regionals",
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/gardevoir.png',
@@ -409,7 +409,7 @@ let masters = [
   },
   {
     "firstName": "Paul Margold",
-    flag: '../../../../assets/flags/usa.png',
+    flag: '../../../../assets/flags/canada.png',
     "event": "2024 Charlotte Regionals",
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/charizard.png',
@@ -477,7 +477,7 @@ let masters = [
   },
   {
     "firstName": "Michael Meal",
-    flag: '../../../../assets/flags/usa.png',
+    flag: '../../../../assets/flags/canada.png',
     "event": "2024 Charlotte Regionals",
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/gardevoir.png',
