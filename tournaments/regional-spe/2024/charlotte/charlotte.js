@@ -511,7 +511,7 @@ let masters = [
     flag: '../../../../assets/flags/usa.png',
     "event": "2024 Charlotte Regionals",
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/hyphen.png',
+    sprite2: '../../../../assets/sprites/roaring-moon.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
