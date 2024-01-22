@@ -721,7 +721,7 @@ let masters = [
     }
   },
   {
-    "firstName": "Alex krekeler",
+    "firstName": "Alex Krekeler",
     flag: '../../../../assets/flags/usa.png',
     "event": "2024 Charlotte Regionals",
     sprite1: '../../../../assets/sprites/inteleon-vmax.png',
