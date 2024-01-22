@@ -141,7 +141,9 @@ table i {
     color: black;
 }
 td div a:hover,
-table i:hover,
+table i:hover {
+    color: rgb(0, 58, 167);
+}
 .upcoming-events-table.darkon i,
 .upcoming-events-table.darkon div a:hover {
     color: rgb(224, 160, 22);
