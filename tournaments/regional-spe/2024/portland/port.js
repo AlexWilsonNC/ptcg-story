@@ -24,7 +24,7 @@ let masters = [
                 { "count": 4, "name": "Mew V", "number": "60", "set": "CRZ" },
                 { "count": 4, "name": "Genesect V", "number": "185", "set": "FST" },
                 { "count": 1, "name": "Meloetta", "number": "124", "set": "FST" },
-                { "count": 1, "name": "Eiscue", "number": "44", "set": "BRS" },    
+                { "count": 1, "name": "Eiscue", "number": "44", "set": "BRS" },
             ],
             "trainer": [
                 { "count": 2, "name": "Elesa's Sparkle", "number": "233", "set": "FST" },
@@ -91,7 +91,7 @@ let masters = [
             ], "energy": [
                 { "count": 10, "name": "Basic Psychic Energy", "number": "5", "set": "SVE" },
                 { "count": 2, "name": "Reversal Energy - Special", "number": "192", "set": "PAL" },
-                ]
+            ]
         }
     },
     {
@@ -130,7 +130,8 @@ let masters = [
                 { "count": 13, "name": "Lightning Energy - Basic", "number": "4", "set": "SVE" },
                 { "count": 1, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
             ]
-        }    },
+        }
+    },
     {
         "name": "Makani Tran",
         "flag": "US",
@@ -251,7 +252,8 @@ let masters = [
                 { "count": 4, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
                 { "count": 2, "name": "Fusion Strike Energy - Special", "number": "244", "set": "FST" },
             ]
-        }    },
+        }
+    },
     {
         "name": "Keaton Gill",
         "flag": "US",
@@ -294,8 +296,9 @@ let masters = [
                 { "count": 3, "name": "Grass Energy - Basic", "number": "152", "set": "CRZ" },
                 { "count": 2, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
                 { "count": 4, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
-                ]
-        }    },
+            ]
+        }
+    },
     {
         "name": "Justin Teng",
         "flag": "US",
@@ -333,8 +336,9 @@ let masters = [
                 { "count": 3, "name": "Basic Psychic Energy", "number": "5", "set": "SVE" },
                 { "count": 2, "name": "Basic Fire Energy", "number": "2", "set": "SVE" },
                 { "count": 1, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
-                ]
-        }    },
+            ]
+        }
+    },
     {
         "name": "Vance Kelley",
         "flag": "US",
@@ -376,7 +380,7 @@ let masters = [
             "energy": [
                 { "count": 4, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
                 { "count": 2, "name": "Fusion Strike Energy - Special", "number": "244", "set": "FST" },
-                ]
+            ]
         }
     },
     {
@@ -478,8 +482,9 @@ let masters = [
                 { "count": 3, "name": "Grass Energy - Basic", "number": "152", "set": "CRZ" },
                 { "count": 2, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
                 { "count": 4, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
-                ]
-        }    },
+            ]
+        }
+    },
     {
         "name": "Bradley Sumoge",
         "flag": "US",
@@ -549,7 +554,8 @@ let masters = [
                 { "count": 2, "name": "V Guard Energy - Special", "number": "169", "set": "SIT" },
                 { "count": 1, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
             ]
-        }    },
+        }
+    },
     {
         "name": "Jared Grimes",
         "flag": "US",
@@ -558,31 +564,31 @@ let masters = [
         "decklist": {
             "pokemon": [
                 { "count": 3, "name": "Chien-Pao ex", "number": "61", "set": "PAL" },
-                { "count": 2, "name": "Baxcalibur", "number": "60", "set": "PAL" }, 
+                { "count": 2, "name": "Baxcalibur", "number": "60", "set": "PAL" },
                 { "count": 2, "name": "Frigibax", "number": "57", "set": "PAL" },
                 { "count": 1, "name": "Frigibax", "number": "58", "set": "PAL" },
                 { "count": 2, "name": "Bibarel", "number": "121", "set": "BRS" },
                 { "count": 2, "name": "Bidoof", "number": "111", "set": "CRZ" },
                 { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
                 { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
-            ], 
-                "trainer": [
-                 { "count": 4, "name": "Irida", "number": "147", "set": "ASR" },
-                 { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
-                  { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
-                  { "count": 4, "name": "Superior Energy Retrieval", "number": "189", "set": "PAL" },
-                  { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
-                  { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
-                  { "count": 4, "name": "Cross Switcher", "number": "230", "set": "FST" },
-                  { "count": 3, "name": "Rare Candy", "number": "191", "set": "SVI" },
-                  { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
-                  { "count": 2, "name": "Canceling Cologne", "number": "136", "set": "ASR" },
-                  { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
-                  { "count": 4, "name": "PokeStop", "number": "68", "set": "PGO" },
-                ], 
-                  "energy": [
-                   { "count": 9, "name": "Water Energy - Basic", "number": "231", "set": "CRE" }
-                ]
+            ],
+            "trainer": [
+                { "count": 4, "name": "Irida", "number": "147", "set": "ASR" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Superior Energy Retrieval", "number": "189", "set": "PAL" },
+                { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 4, "name": "Cross Switcher", "number": "230", "set": "FST" },
+                { "count": 3, "name": "Rare Candy", "number": "191", "set": "SVI" },
+                { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 2, "name": "Canceling Cologne", "number": "136", "set": "ASR" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 4, "name": "PokeStop", "number": "68", "set": "PGO" },
+            ],
+            "energy": [
+                { "count": 9, "name": "Water Energy - Basic", "number": "231", "set": "CRE" }
+            ]
         }
     },
     {
@@ -632,10 +638,11 @@ let masters = [
                 { "count": 1, "name": "Luxurious Cape", "number": "166", "set": "PAR" },
                 { "count": 2, "name": "Pokemon League Headquarters", "number": "192", "set": "OBF" },
                 { "count": 2, "name": "Temple of Sinnoh", "number": "155", "set": "ASR" },
-                ],
-                "energy": [
-                ]
-        }    },
+            ],
+            "energy": [
+            ]
+        }
+    },
     {
         "name": "Simon Copenhaver",
         "flag": "US",
@@ -700,7 +707,7 @@ let masters = [
             ], "energy": [
                 { "count": 16, "name": "Lightning Energy - Basic", "number": "4", "set": "SVE" },
                 { "count": 1, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
-                ]
+            ]
         }
     },
     {
@@ -742,7 +749,8 @@ let masters = [
             ], "energy": [
                 { "count": 7, "name": "Fire Energy - Basic", "number": "2", "set": "SVE" },
             ]
-        }    },
+        }
+    },
     {
         "name": "Ross Cawthon",
         "flag": "US",
@@ -1181,8 +1189,9 @@ let masters = [
                 { "count": 3, "name": "Beach Court", "number": "167", "set": "SVI" },
             ], "energy": [
                 { "count": 17, "name": "Lightning Energy - Basic", "number": "4", "set": "SVE" },
-                ]
-        }    },
+            ]
+        }
+    },
     {
         "name": "Jose Villarreal",
         "flag": "US",

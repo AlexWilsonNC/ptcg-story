@@ -24,6 +24,9 @@
     /* color: rgb(224, 160, 22); */
     border-bottom: 4px solid rgb(224, 160, 22);
 }
+.a-new-color {
+    color: blue !important;
+}
 
 .era-toc {
     display: flex;
@@ -942,9 +945,6 @@ margin-top: auto;
 .opace {
     opacity: 0.4;
 }
-/* .hide-rules {
-    display: none;
-} */
 .doofus {
     margin: 10px 0;
 }

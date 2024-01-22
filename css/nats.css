@@ -80,6 +80,20 @@
     text-align: center;
     justify-content: space-between;
   }
+  .collapsible3 {
+    background-color: rgb(182, 182, 182);
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 60%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+  }
   .collapsible-alt {
     background-color: rgb(157, 157, 157);
     color: white;
@@ -98,14 +112,16 @@
   
   .hello, .collapsible:hover {
     background-color: #555;
-    /* color: rgb(187, 173, 45); */
   }
   .hello, .collapsible-alt:hover {
     background-color: #555;
-    /* color: rgb(187, 173, 45); */
   }
-  .hello, .collapsible2:hover {
-    filter:grayscale(1);
+  .hello, 
+  .collapsible2:hover {
+    background-color: #555;
+  }
+  .collapsible3:hover {
+    background-color: #4b4b4b;
   }
   
   .collapsible:after,
@@ -117,7 +133,8 @@
     margin-left: 5px;
     text-shadow: 1px 1px 3px black;
   }
-  .collapsible2:after {
+  .collapsible2:after,
+  .collapsible3:after {
     content: '\002B';
     color: white;
     font-weight: bold;
@@ -362,7 +379,8 @@
       }
 }
 @media screen and (max-width: 1200px) {
-    .collapsible2 {
+    .collapsible2,
+    .collapsible3 {
         width: 70%;
       }
     .country-content2 {
@@ -490,7 +508,8 @@
     .stipeds-right {
         text-align: center;
     }
-    .collapsible2 {
+    .collapsible2,
+    .collapsible3 {
         width: 80%;
       }
     .country-content2 {
@@ -523,7 +542,8 @@
     .country-content {
         width:75%;
       }
-    .collapsible2 {
+    .collapsible2,
+    .collapsible3 {
         width: 90%;
     }
     .country-content2 {
@@ -567,7 +587,8 @@
     }
 }
 @media screen and (max-width: 500px) {
-    .collapsible2 {
+    .collapsible2,
+    .collapsible3 {
         width: 92%;
     }
     .country-content2 {
