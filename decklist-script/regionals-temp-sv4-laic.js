@@ -42,7 +42,7 @@ function displayList(array = []) {
         deck.appendChild(secondSprite);
         deck.appendChild(listIcon);
 
-        if (item.list === '../../../../assets/list-icon.png') {
+        if (item.list === '../../../assets/list-icon.png') {
 
             item_element.addEventListener('click', function () {
                 document.querySelector('#modal-section').style.display = "flex";
