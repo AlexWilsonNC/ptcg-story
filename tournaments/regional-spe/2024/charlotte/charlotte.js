@@ -1034,3 +1034,297 @@ let masters = [
     }
   },
 ]
+
+let seniors = [
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+]
+
+let juniors = [
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+  {
+    "firstName": "eeee",
+    flag: '../../../../assets/flags',
+    "event": "2024 Charlotte Regionals",
+    sprite1: '../../../../assets/sprites',
+    sprite2: '../../../../assets/sprites',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "trainer": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ], "energy": [
+        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+      ]
+    }
+  },
+]
