@@ -168,7 +168,7 @@ function displayList(array = []) {
                 }
                 if (Object.values(pokemon).includes("Gholdengo ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
-                        if (Object.values(pokemon).includes("Greedent VMAX")) {
+                        if (Object.values(pokemon).includes("Origin Forme Palkia VSTAR")) {
                             firstSprite.setAttribute('src', "../../../../assets/sprites/gholdengo.png");
                             secondSprite.setAttribute('src', "../../../../assets/sprites/palkia-origin.png");
                         }
