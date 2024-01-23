@@ -51,6 +51,10 @@
 .regional-info a {
     margin-bottom: 5px;
 }
+.outer-links i {
+    font-size: 18px;
+    transform: rotate(-45deg);
+}
 
 .regional-result {
     width: 100%;
