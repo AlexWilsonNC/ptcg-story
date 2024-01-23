@@ -328,7 +328,7 @@ function displayList(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + "<br><i>" + item.event + "</i>";
+                document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + "<br><i>" + item.event + " " + "- Seniors" + "</i>";
 
                 item.decklist.pokemon.sort((a, b) => b.count - a.count);
                 item.decklist.trainer.sort((a, b) => b.count - a.count);
