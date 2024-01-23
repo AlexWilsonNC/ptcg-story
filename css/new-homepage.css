@@ -87,8 +87,9 @@
     color: white;
 }
 .blue {
-    color: rgb(0, 58, 167) !important;
+    color: rgb(0, 102, 255) !important;
     font-size: 13px;
+    font-weight: 600;
 }
 .blue:hover {
     color: rgb(224, 160, 22) !important;
