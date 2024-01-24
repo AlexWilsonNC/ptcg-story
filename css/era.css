@@ -742,7 +742,7 @@ margin-top: auto;
     margin-bottom: 35px;
     border-radius: 25px;
     box-shadow: 5px 5px 5px rgba(23, 12, 44, 0.7);
-    transition: ease all 0.19s;
+    transition: ease all 0.3s;
 }
 .specific-format.darkon,
 .top-format-graphic.darkon {
@@ -762,7 +762,7 @@ margin-top: auto;
     margin-bottom: 35px;
     border-radius: 25px;
     box-shadow: 5px 5px 5px rgba(9, 16, 74, 0.7);
-    transition: ease all 0.19s;
+    transition: ease all 0.3s;
 }
 .expanded-format.darkon,
 .top-format-expanded-graphic.darkon {
@@ -825,29 +825,29 @@ margin-top: auto;
     text-align: center;
     transition: ease all 0.19s;
 }
-.specific-format:hover {
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
-}
-.specific-format:hover > h3 {
-    color: rgb(187, 173, 45);
-}
-.specific-format.darkon:hover > h3 {
-    color: rgb(224, 160, 22)
-}
-.specific-format:hover > .worlds-expanded-txt {
-    color: rgb(187, 173, 45);
-}
-.specific-format.darkon:hover > .worlds-expanded-txt {
-    color: rgb(224, 160, 22)
-}
+.specific-format:hover,
 .expanded-format:hover {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
-.expanded-format:hover > h3 {
-    color: rgb(0, 52, 125);
+.specific-format div,
+.expanded-format div {
+    transition: ease all 0.3s;
 }
+.specific-format:hover > div,
+.expanded-format:hover > div,
+.specific-format:hover > h3,
+.expanded-format:hover > h3 {
+    transform: scale(1.05);
+}
+.specific-format.darkon:hover > .worlds-expanded-txt,
+.specific-format:hover > h3,
+.specific-format.darkon:hover > h3,
+.specific-format:hover > .worlds-expanded-txt {
+    color: rgb(224, 160, 22)
+}
+.expanded-format:hover > h3,
 .expanded-format:hover > .worlds-expanded-txt {
-    color: rgb(0, 52, 125);
+    color: rgb(0, 0, 193);
 }
 .specific-format img,
 .top-format-graphic img {
