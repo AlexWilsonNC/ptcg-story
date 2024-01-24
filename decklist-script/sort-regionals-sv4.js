@@ -158,9 +158,21 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Roaring Moon ex")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Giratina VSTAR")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/giratina-origin.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Charizard ex")) {
                     firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
                     secondSprite.setAttribute('src', "../../../../assets/sprites/charizard.png");
+                }
+                if (Object.values(pokemon).includes("Zoroark")) {
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/zoroark.png");
                 }
                 if (Object.values(pokemon).includes("Gholdengo ex")) {
                     firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
