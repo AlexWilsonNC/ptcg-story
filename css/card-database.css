@@ -1010,6 +1010,7 @@
 .obsidian-flames:hover,
 .sv151:hover,
 .paradox-rift:hover,
+.paldean-fates:hover,
 .legendary-treasures:hover,
 .plasma-blast:hover,
 .plasma-freeze:hover,
@@ -1445,6 +1446,13 @@
 }
 
 /* Scarlet & Violet */
+.paldean-fates {
+    background: url(../assets/set-filter/scvi/paf.png) no-repeat center;
+    background-size: auto 100%;
+    object-fit: contain;
+    transition: ease all 0.3s;
+    content-visibility: auto;
+}
 .paradox-rift {
     background: url(../assets/set-filter/scvi/paradox-rift.jpg) no-repeat center;
     background-size: auto 100%;

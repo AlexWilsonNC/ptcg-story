@@ -222,6 +222,14 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Comfey")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Charizard ex")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/charizard.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Miraidon ex")) {
                     firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
                     secondSprite.setAttribute('src', "../../../../assets/sprites/miraidon.png");
