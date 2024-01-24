@@ -29,7 +29,9 @@ const enableDarkMode = () => {
     dropitdown2.classList.add('darkon');
 
     toperaselector.classList.add('darkon');
-    scrolltopbtn.classList.add('darkon');
+    if (scrolltopbtn) {
+      scrolltopbtn.classList.add('darkon');
+    }
     messageus.classList.add('darkon');
     specificformat.forEach((specificformat) => {
       specificformat.classList.add('darkon');
@@ -53,7 +55,9 @@ const enableDarkMode = () => {
     dropitdown2.classList.remove('darkon');
 
     toperaselector.classList.remove('darkon');
-    scrolltopbtn.classList.remove('darkon');
+    if (scrolltopbtn) {
+      scrolltopbtn.classList.remove('darkon');
+    }
     messageus.classList.remove('darkon');
     specificformat.forEach((specificformat) => {
       specificformat.classList.remove('darkon');

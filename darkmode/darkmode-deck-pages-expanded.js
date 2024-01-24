@@ -35,7 +35,9 @@ const enableDarkMode = () => {
     topformatgraphic.classList.add('darkon');
     decksmain.classList.add('darkon');
     eratocbox.classList.add('darkon');
-    scrolltopbtn.classList.add('darkon');
+    if (scrolltopbtn) {
+      scrolltopbtn.classList.add('darkon');
+    }
     format.forEach((format) => {
       format.classList.add('darkon');
     })
@@ -64,7 +66,9 @@ const enableDarkMode = () => {
     toperaselector.classList.remove('darkon');
     topformatgraphic.classList.remove('darkon');
     decksmain.classList.remove('darkon');
-    scrolltopbtn.classList.remove('darkon');
+    if (scrolltopbtn) {
+      scrolltopbtn.classList.remove('darkon');
+    }
     eratocbox.classList.remove('darkon');
     format.forEach((format) => {
       format.classList.remove('darkon');
