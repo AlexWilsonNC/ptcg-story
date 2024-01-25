@@ -2769,7 +2769,7 @@ let masters = [
     }
   },
   {
-    firstName: 'Robin Shulz',
+    firstName: 'Robin Schulz',
     flag: '../../assets/flags/germany.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/mewtwo-mew-tagteam.png',
