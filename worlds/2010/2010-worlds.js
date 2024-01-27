@@ -1795,7 +1795,7 @@ let masters = [
         numImg: '../../assets/04.png'
       },
       {
-        cardImg: '../../assets/cards/2008-2010/pluspower.png',
+        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
         numImg: '../../assets/03.png'
       },
       {
@@ -3766,7 +3766,7 @@ let juniors = [
         numImg: '../../assets/03.png'
       },
       {
-        cardImg: '../../assets/cards/2008-2010/pluspower.png',
+        cardImg: '../../assets/cards/2010-2012/pluspower-hgss.png',
         numImg: '../../assets/03.png'
       },
       {
