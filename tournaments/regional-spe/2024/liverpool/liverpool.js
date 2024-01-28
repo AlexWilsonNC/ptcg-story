@@ -453,8 +453,8 @@ let masters = [
     "firstName": "Liam Burden",
     flag: '../../../../assets/flags/uk.png',
     "event": "2024 Liverpool Regionals",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/hyphen.png',
+    sprite1: '../../../../assets/sprites/rayquaza-vmax.png',
+    sprite2: '../../../../assets/sprites/arceus.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
