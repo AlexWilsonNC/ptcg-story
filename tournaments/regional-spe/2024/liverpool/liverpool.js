@@ -633,21 +633,45 @@ let masters = [
     "firstName": "Javier Tengo Jofre",
     flag: '../../../../assets/flags/spain.png',
     "event": "2024 Liverpool Regionals",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/palkia-origin.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/palkia-origin.png',
+    sprite2: '../../../../assets/sprites/calyrex-ice-rider.png',
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-      ], "trainer": [
-        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-      ], "energy": [
-        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+        { "count": 3, "name": "Origin Forme Palkia V", "number": "39", "set": "ASR" },
+         { "count": 3, "name": "Origin Forme Palkia VSTAR", "number": "40", "set": "ASR" },
+         { "count": 1, "name": "Ice Rider Calyrex VMAX", "number": "46", "set": "CRE" },
+         { "count": 1, "name": "Ice Rider Calyrex V", "number": "45", "set": "CRE" },
+         { "count": 1, "name": "Chien-Pao ex", "number": "61", "set": "PAL" },
+         { "count": 1, "name": "Suicune V", "number": "31", "set": "EVS" },
+         { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+         { "count": 1, "name": "Lumineon V", "number": "40", "set": "BRS" },
+         { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
+         { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" },
+         { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
+        ], "trainer": [
+          { "count": 4, "name": "Melony", "number": "146", "set": "CRE" },
+          { "count": 4, "name": "Irida", "number": "147", "set": "ASR" },
+          { "count": 1, "name": "Roxanne", "number": "150", "set": "ASR" },
+          { "count": 1, "name": "Boss's Orders", "number": "132", "set": "BRS" },
+         { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+         { "count": 4, "name": "Cross Switcher", "number": "230", "set": "FST" },
+         { "count": 3, "name": "Ultra Ball", "number": "150", "set": "BRS" },
+         { "count": 3, "name": "Nest Ball", "number": "181", "set": "SVI" },
+         { "count": 3, "name": "Earthen Vessel", "number": "163", "set": "PAR" },
+         { "count": 2, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+         { "count": 2, "name": "Switch", "number": "147", "set": "CES" },
+         { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
+         { "count": 1, "name": "Switch Cart", "number": "154", "set": "ASR" },
+         { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+         { "count": 1, "name": "Canceling Cologne", "number": "136", "set": "ASR" },
+         { "count": 1, "name": "PokeStop", "number": "68", "set": "PGO" },
+        ], "energy": [
+        { "count": 9, "name": "Water Energy - Basic", "number": "231", "set": "CRE" }
       ]
-    }
+    },
   },
-  
+
 ]
 
 let seniors = []
