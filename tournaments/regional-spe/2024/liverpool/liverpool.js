@@ -54,11 +54,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/unknown.png',
+    "firstName": "Niklaus Christen",
+    flag: '../../../../assets/flags/switzerland.png',
     "event": "2024 Liverpool Regionals",
     sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/snorlax.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
