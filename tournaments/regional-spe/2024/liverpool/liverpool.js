@@ -72,11 +72,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/unknown.png',
+    "firstName": "Laurens van Brecht",
+    flag: '../../../../assets/flags/netherlands.png',
     "event": "2024 Liverpool Regionals",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/charizard.png',
+    sprite2: '../../../../assets/sprites/pidgeot.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
@@ -90,11 +90,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/unknown.png',
+    "firstName": "Magnus Pedersen",
+    flag: '../../../../assets/flags/denmark.png',
     "event": "2024 Liverpool Regionals",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/comfey.png',
+    sprite2: '../../../../assets/sprites/roaring-moon.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
@@ -108,11 +108,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/unknown.png',
+    "firstName": "Gavin Irving",
+    flag: '../../../../assets/flags/uk.png',
     "event": "2024 Liverpool Regionals",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/giratina-origin.png',
+    sprite2: '../../../../assets/sprites/comfey.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
@@ -126,11 +126,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/unknown.png',
+    "firstName": "Keito Arai",
+    flag: '../../../../assets/flags/japan.png',
     "event": "2024 Liverpool Regionals",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/blank.png',
+    sprite1: '../../../../assets/sprites/charizard.png',
+    sprite2: '../../../../assets/sprites/pidgeot.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
