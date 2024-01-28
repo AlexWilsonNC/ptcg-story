@@ -555,15 +555,37 @@ let masters = [
     "event": "2024 Liverpool Regionals",
     sprite1: '../../../../assets/sprites/rayquaza-vmax.png',
     sprite2: '../../../../assets/sprites/arceus.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+        { "count": 3, "name": "Arceus VSTAR", "number": "123", "set": "BRS" },
+        { "count": 4, "name": "Arceus V", "number": "122", "set": "BRS" },
+        { "count": 2, "name": "Rayquaza VMAX", "number": "102", "set": "CRZ" },
+        { "count": 2, "name": "Rayquaza V", "number": "100", "set": "CRZ" },
+        { "count": 2, "name": "Armarouge", "number": "41", "set": "SVI" },
+        { "count": 2, "name": "Charcadet", "number": "43", "set": "OBF" },
+        { "count": 1, "name": "Charcadet", "number": "40", "set": "SVI" },
+        { "count": 1, "name": "Delphox V", "number": "27", "set": "LOR" },
+        { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
+        { "count": 1, "name": "Drapion V", "number": "118", "set": "LOR" },
+        { "count": 1, "name": "Radiant Heatran", "number": "27", "set": "ASR" },
       ], "trainer": [
-        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+        { "count": 3, "name": "Iono", "number": "185", "set": "PAL" },
+        { "count": 3, "name": "Professor's Research", "number": "190", "set": "SVI" },
+        { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+        { "count": 1, "name": "Judge", "number": "176", "set": "SVI" },
+        { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+        { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+        { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
+        { "count": 1, "name": "Switch", "number": "194", "set": "SVI" },
+        { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
+        { "count": 1, "name": "Choice Belt", "number": "176", "set": "PAL" },
+        { "count": 4, "name": "Magma Basin", "number": "144", "set": "BRS" },
+
       ], "energy": [
-        { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+        { "count": 8, "name": "Fire Energy - Basic", "number": "2", "set": "SVE" },
+        { "count": 2, "name": "Lightning Energy - Basic", "number": "4", "set": "SVE" },
+        { "count": 4, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
       ]
     }
   },
