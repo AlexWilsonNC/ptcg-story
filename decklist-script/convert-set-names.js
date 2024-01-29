@@ -2,6 +2,7 @@ const setConvert = {
     //other
     "FR": "fr",
     // sv
+    "PAF": "sv4pt5",
     "PAR": "sv4",
     "MEW": "sv3pt5",
     "OBF": "sv3",
