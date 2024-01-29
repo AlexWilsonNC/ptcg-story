@@ -264,6 +264,14 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Cherrim")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Regidrago")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/cherrim-sunshine.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/regidrago.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Chien-Pao ex")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Origin Forme Palkia VSTAR")) {
