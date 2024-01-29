@@ -1039,7 +1039,7 @@ let masters = [{
   "decklist": {
     "pokemon": [
       { "count": 4, "name": "Archeops", "number": "272", "set": "PR-SW" },
-       { "count": 3, "name": "Lugia V", "number": "301", "set": "PR-SW" },
+       { "count": 3, "name": "Lugia V", "number": "138", "set": "SIT" },
        { "count": 3, "name": "Lugia VSTAR", "number": "139", "set": "SIT" },
        { "count": 3, "name": "Snorlax", "number": "TG10", "set": "LOR" },
        { "count": 2, "name": "Lumineon V", "number": "40", "set": "BRS" },

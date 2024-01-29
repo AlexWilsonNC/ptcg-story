@@ -79,7 +79,7 @@ let masters = [
                 { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
                 { "count": 2, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
                 { "count": 1, "name": "Defiance Band", "number": "169", "set": "SVI" },
-                { "count": 2, "name": "Lost City", "number": "161", "set": "LOR" }, 
+                { "count": 2, "name": "Lost City", "number": "161", "set": "LOR" },
             ], "energy": [
                 { "count": 8, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" },
             ]
@@ -158,7 +158,7 @@ let masters = [
                 { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
                 { "count": 1, "name": "Defiance Band", "number": "169", "set": "SVI" },
                 { "count": 1, "name": "Vitality Band", "number": "197", "set": "SVI" },
-                { "count": 3, "name": "Lost City", "number": "161", "set": "LOR" }, 
+                { "count": 3, "name": "Lost City", "number": "161", "set": "LOR" },
             ], "energy": [
                 { "count": 8, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" },
             ]
@@ -191,7 +191,7 @@ let masters = [
                 { "count": 3, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
                 { "count": 3, "name": "Super Rod", "number": "188", "set": "PAL" },
                 { "count": 2, "name": "Energy Recycler", "number": "124", "set": "BST" },
-                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" }, 
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
                 { "count": 1, "name": "Pal Pad", "number": "172", "set": "SSH" },
                 { "count": 2, "name": "PokeStop", "number": "68", "set": "PGO" },
 
@@ -241,7 +241,7 @@ let masters = [
                 { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
                 { "count": 1, "name": "Defiance Band", "number": "169", "set": "SVI" },
                 { "count": 1, "name": "Vitality Band", "number": "197", "set": "SVI" },
-                { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" }, 
+                { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" },
                 { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
             ], "energy": [
                 { "count": 7, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" },
@@ -660,7 +660,41 @@ let masters = [
         "flag": "DE",
         "event": "2024 Gdańsk Regionals",
         "placing": 38,
-        "decklist": "",
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "Mew VMAX", "number": "114", "set": "FST" },
+                { "count": 3, "name": "Mew V", "number": "113", "set": "FST" },
+                { "count": 4, "name": "Genesect V", "number": "185", "set": "FST" },
+                { "count": 1, "name": "Meloetta", "number": "124", "set": "FST" },
+                { "count": 1, "name": "Eiscue", "number": "44", "set": "BRS" }]
+            , "trainer": [
+                { "count": 2, "name": "Boss's Orders", "number": "132", "set": "BRS" },
+                { "count": 2, "name": "Elesa's Sparkle", "number": "233", "set": "FST" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 1, "name": "Judge", "number": "235", "set": "FST" },
+                { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 1, "name": "Feather Ball", "number": "141", "set": "ASR" },
+                { "count": 4, "name": "Power Tablet", "number": "236", "set": "FST" },
+                { "count": 4, "name": "Cram-o-matic", "number": "229", "set": "FST" },
+                { "count": 3, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 3, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 1, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 1, "name": "Pal Pad", "number": "172", "set": "SSH" },
+                { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" },
+                { "count": 2, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+                { "count": 1, "name": "Choice Belt", "number": "176", "set": "PAL" },
+                { "count": 1, "name": "Trekking Shoes", "number": "156", "set": "ASR" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 1, "name": "Box of Disaster", "number": "154", "set": "LOR" },
+            ], "energy": [
+                { "count": 4, "name": "Fusion Strike Energy - Special", "number": "244", "set": "FST" },
+                { "count": 3, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }
+            ]
+        },
+
     },
     {
         "name": "FRANCISCO TORANZO",
