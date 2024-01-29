@@ -33,10 +33,18 @@ function displayList(array = []) {
         listIcon.classList.add('list-icon');
         listIcon.setAttribute('src', item.list);    
 
+        function convertToTitleCase(str) {
+            if (!str) {
+                return ""
+            }
+            return str.toLowerCase().split(' ').map(function (word) {
+                return word.charAt(0).toUpperCase().concat(word.substr(1));
+            }).join(' ');
+        }
         item_element.appendChild(title);
         title.appendChild(playerName);
         playerName.appendChild(flagImg);
-        playerName.append(item.firstName);
+        playerName.append(convertToTitleCase(item.firstName));
         title.appendChild(deck);
         deck.appendChild(firstSprite);
         deck.appendChild(secondSprite);
@@ -48,7 +56,7 @@ function displayList(array = []) {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
-                document.querySelector('.playerName').innerHTML = item.firstName + "<br><i>" + item.event + "</i>";
+                document.querySelector('.playerName').innerHTML = convertToTitleCase(item.firstName) + "<br><i>" + item.event + "</i>";
 
                 const copyButton = document.querySelector('.copy-to-clip');
 

@@ -325,11 +325,18 @@ function displayList(array = []) {
                 // }
             })
         }
-
+        function convertToTitleCase(str) {
+            if (!str) {
+                return ""
+            }
+            return str.toLowerCase().split(' ').map(function (word) {
+                return word.charAt(0).toUpperCase().concat(word.substr(1));
+            }).join(' ');
+        }
         item_element.appendChild(title);
         title.appendChild(playerName);
         playerName.appendChild(flagImg);
-        playerName.append(item.name);
+        playerName.append(convertToTitleCase(item.name));
         title.appendChild(deck);
         deck.appendChild(firstSprite);
         deck.appendChild(secondSprite);
@@ -345,9 +352,9 @@ function displayList(array = []) {
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
                 if (item.placing) {
-                    document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + "<br><i>" + item.event + " " + "- Seniors" + "</i>";
+                    document.querySelector('.playerName').innerHTML = item.placing + ". " + convertToTitleCase(item.name) + "<br><i>" + item.event + " " + "- Seniors" + "</i>";
                 } else {
-                    document.querySelector('.playerName').innerHTML = item.name + "<br><i>" + item.event + " " + "- Seniors" + "</i>";
+                    document.querySelector('.playerName').innerHTML = convertToTitleCase(item.name) + "<br><i>" + item.event + " " + "- Seniors" + "</i>";
                 }
 
                 item.decklist.pokemon.sort((a, b) => b.count - a.count);

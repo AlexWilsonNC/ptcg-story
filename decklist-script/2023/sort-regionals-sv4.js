@@ -7,8 +7,6 @@ function displayList(array = []) {
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
 
-        // item.name.charAt(0).toUpperCase() + str.slice(1);
-
         let item_element = document.createElement('li');
         item_element.classList.add('player-list-hover');
         let title = document.createElement('li');
@@ -341,11 +339,18 @@ function displayList(array = []) {
                 // }
             })
         }
-
+        function convertToTitleCase(str) {
+            if (!str) {
+                return ""
+            }
+            return str.toLowerCase().split(' ').map(function (word) {
+                return word.charAt(0).toUpperCase().concat(word.substr(1));
+            }).join(' ');
+        }
         item_element.appendChild(title);
         title.appendChild(playerName);
         playerName.appendChild(flagImg);
-        playerName.append(item.name);
+        playerName.append(convertToTitleCase(item.name));
         title.appendChild(deck);
         deck.appendChild(firstSprite);
         deck.appendChild(secondSprite);
@@ -361,9 +366,9 @@ function displayList(array = []) {
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
                 if (item.placing) {
-                    document.querySelector('.playerName').innerHTML = item.placing + ". " + item.name + "<br><i>" + item.event + "</i>";
+                    document.querySelector('.playerName').innerHTML = item.placing + ". " + convertToTitleCase(item.name) + "<br><i>" + item.event + "</i>";
                 } else {
-                    document.querySelector('.playerName').innerHTML = item.name + "<br><i>" + item.event + "</i>";
+                    document.querySelector('.playerName').innerHTML = convertToTitleCase(item.name) + "<br><i>" + item.event + "</i>";
                 }
 
                 item.decklist.pokemon.sort((a, b) => b.count - a.count);
@@ -397,7 +402,7 @@ function displayList(array = []) {
                         }
 
                         // 60 card checker
-                        let sixtyCheck = item.decklist.pokemon.reduce((n, {count}) => n + count, 0) + item.decklist.trainer.reduce((n, {count}) => n + count, 0) + item.decklist.energy.reduce((n, {count}) => n + count, 0);
+                        let sixtyCheck = item.decklist.pokemon.reduce((n, { count }) => n + count, 0) + item.decklist.trainer.reduce((n, { count }) => n + count, 0) + item.decklist.energy.reduce((n, { count }) => n + count, 0);
                         if (sixtyCheck !== 60) {
                             confirm('NOT 60 CARD! only' + " " + sixtyCheck)
                         }
@@ -405,7 +410,7 @@ function displayList(array = []) {
                         let cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number);
 
                         // if (cardFound.rarity === "Ultra Rare" || "Special Illustration Rare" || "Hyper Rare") {
-                            // find card of same name and use card.rarity = "Double Rare"
+                        // find card of same name and use card.rarity = "Double Rare"
                         // }
 
                         pokeCard.setAttribute('src', cardFound.images.small);
