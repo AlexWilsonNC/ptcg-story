@@ -5,8 +5,8 @@ let masters = [{"name":"Fabrizio Inga Silva",
 "decklist": {
     "pokemon": [
       { "count": 3, "name": "Mew VMAX", "number": "114", "set": "FST" },
-      { "count": 4, "name": "Mew V", "number": "60", "set": "CRZ" },
       { "count": 4, "name": "Genesect V", "number": "185", "set": "FST" },
+      { "count": 4, "name": "Mew V", "number": "60", "set": "CRZ" },
     ],
     "trainer": [
       { "count": 3, "name": "Judge", "number": "176", "set": "SVI" },
