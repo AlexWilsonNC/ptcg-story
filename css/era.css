@@ -73,9 +73,6 @@
 .era-toc-box ul {
     list-style-type: circle;
 }
-/* .era-toc-box li {
-    margin: 6px 0px;
-} */
 .era-toc-box li a {
     color: black;
     width: 100%;
@@ -86,9 +83,6 @@
     white-space: nowrap;
     overflow: hidden;
 }
-/* .era-toc-box li a img {
-    margin-left: 3px;
-} */
 .era-toc-box li a img:first-of-type {
     margin-left: 3px;
 }
@@ -872,6 +866,7 @@ margin-top: auto;
 .build-box2,
 .build-box4,
 .build-box6, 
+.build-box65, 
 .build-box8,
 .build-box85,
 .build-boxb,
@@ -885,8 +880,14 @@ margin-top: auto;
 .build-box200,
 .build-box400,
 .build-boxh,
+.build-boxh1,
 .build-boxj,
 .build-boxm,
+.build-boxP,
+.build-boxQ,
+.build-boxS,
+.build-boxU,
+.build-boxW,
 .build-boxl {
     display: none;
 }
@@ -894,6 +895,7 @@ margin-top: auto;
 .descrip-box4,
 .descrip-boxb,
 .descrip-box6,
+.descrip-box65,
 .descrip-box8,
 .descrip-box85,
 .descrip-box10,
@@ -906,8 +908,14 @@ margin-top: auto;
 .descrip-box200,
 .descrip-box400,
 .descrip-boxh,
+.descrip-boxh1,
 .descrip-boxj,
 .descrip-boxm,
+.descrip-boxP,
+.descrip-boxQ,
+.descrip-boxS,
+.descrip-boxU,
+.descrip-boxW,
 .descrip-boxl {
     display: none;
 }
