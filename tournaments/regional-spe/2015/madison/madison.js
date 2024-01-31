@@ -763,8 +763,8 @@ let masters = [
         "firstName": "Jake Jensen",
         flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
-        sprite1: '../../../../assets/sprites/seismitoad.png',
-        sprite2: '../../../../assets/sprites/giratina-origin.png',
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/seismitoad.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
