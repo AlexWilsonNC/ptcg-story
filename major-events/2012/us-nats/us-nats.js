@@ -74,7 +74,7 @@ let masters = [
         numImg: '../../../assets/03.png'
       },
       {
-        cardImg: '../../../assets/cards/2014-2016/pokemon-catcher.png',
+        cardImg: '../../../assets/cards/2010-2012/pokemon-catcher.png',
         numImg: '../../../assets/02.png'
       },
       {

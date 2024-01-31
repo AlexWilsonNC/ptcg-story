@@ -395,7 +395,7 @@ let juniors = [
                 numImg: '../../assets/04.png'
             },
             {
-                cardImg: '../../assets/cards/2014-2016/pokemon-catcher.png',
+                cardImg: '../../assets/cards/2010-2012/pokemon-catcher.png',
                 numImg: '../../assets/04.png'
             },
             {
@@ -539,7 +539,7 @@ let juniors = [
                 numImg: '../../assets/04.png'
             },
             {
-                cardImg: '../../assets/cards/2014-2016/pokemon-catcher.png',
+                cardImg: '../../assets/cards/2010-2012/pokemon-catcher.png',
                 numImg: '../../assets/04.png'
             },
             {
@@ -847,7 +847,7 @@ let juniors = [
                 numImg: '../../assets/04.png'
             },
             {
-                cardImg: '../../assets/cards/2014-2016/pokemon-catcher.png',
+                cardImg: '../../assets/cards/2010-2012/pokemon-catcher.png',
                 numImg: '../../assets/03.png'
             },
             {
@@ -1050,7 +1050,7 @@ let tenEvent = [
                 numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2014-2016/pokemon-catcher.png',
+                cardImg: '../../assets/cards/2010-2012/pokemon-catcher.png',
                 numImg: '../../assets/04.png'
             },
             {
@@ -1175,7 +1175,7 @@ let tenEvent = [
                 numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2014-2016/pokemon-catcher.png',
+                cardImg: '../../assets/cards/2010-2012/pokemon-catcher.png',
                 numImg: '../../assets/04.png'
             },
             {
@@ -1679,7 +1679,7 @@ let fiveEvent = [
                 numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2014-2016/pokemon-catcher.png',
+                cardImg: '../../assets/cards/2010-2012/pokemon-catcher.png',
                 numImg: '../../assets/04.png'
             },
             {
@@ -1915,7 +1915,7 @@ let sixEvent = [
                 numImg: '../../assets/01.png'
             },
             {
-                cardImg: '../../assets/cards/2014-2016/pokemon-catcher.png',
+                cardImg: '../../assets/cards/2010-2012/pokemon-catcher.png',
                 numImg: '../../assets/04.png'
             },
             {
