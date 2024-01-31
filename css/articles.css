@@ -48,6 +48,10 @@ img{
     justify-content: flex-start;
     margin-bottom: 5px;
 }
+.small-text-archive {
+    font-size: 12px !important;
+    margin-top: -15px;
+}
 .tbp1, 
 .tbp2 {
     color: grey;
@@ -187,6 +191,10 @@ img{
 @media screen and (max-width: 600px) {
     .card-of-the-week-small {
         width: 13% !important; 
+    }
+    .small-text-archive {
+        font-size: 10px !important;
+        margin-top: -15px;
     }
 }
 .align-row {
@@ -521,6 +529,9 @@ img{
     .video-blastoise {
         width: 520px;
         height: 220px;
+    }
+    .small-text-archive {
+        font-size: 8px !important;
     }
     .top-backtrack {
         width:97%;
