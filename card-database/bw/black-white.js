@@ -7349,8 +7349,8 @@ let bw1 = [
             "expanded": "Legal"
         },
         "images": {
-            "small": "https://images.pokemontcg.io/bw1/105.png",
-            "large": "https://images.pokemontcg.io/bw1/105_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_105_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_105_R_EN_SM.png"
         }
     },
     {
@@ -7385,8 +7385,8 @@ let bw1 = [
             "expanded": "Legal"
         },
         "images": {
-            "small": "https://images.pokemontcg.io/bw1/106.png",
-            "large": "https://images.pokemontcg.io/bw1/106_hires.png"
+            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_106_R_EN_SM.png",
+            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpci/BLW/BLW_106_R_EN_SM.png"
         }
     },
     {
