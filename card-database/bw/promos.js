@@ -1,6 +1,6 @@
 let bwp = [
     {
-        "id": "bwp-BW01",
+        "id": "bwp-01",
         "name": "Snivy",
         "supertype": "Pokémon",
         "subtypes": [
@@ -72,7 +72,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW02",
+        "id": "bwp-02",
         "name": "Tepig",
         "supertype": "Pokémon",
         "subtypes": [
@@ -138,7 +138,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW03",
+        "id": "bwp-03",
         "name": "Oshawott",
         "supertype": "Pokémon",
         "subtypes": [
@@ -204,7 +204,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW004",
+        "id": "bwp-004",
         "name": "Reshiram",
         "supertype": "Pokémon",
         "subtypes": [
@@ -278,7 +278,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW005",
+        "id": "bwp-005",
         "name": "Zekrom",
         "supertype": "Pokémon",
         "subtypes": [
@@ -352,7 +352,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW06",
+        "id": "bwp-06",
         "name": "Snivy",
         "supertype": "Pokémon",
         "subtypes": [
@@ -433,7 +433,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW07",
+        "id": "bwp-07",
         "name": "Tepig",
         "supertype": "Pokémon",
         "subtypes": [
@@ -508,7 +508,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW08",
+        "id": "bwp-08",
         "name": "Oshawott",
         "supertype": "Pokémon",
         "subtypes": [
@@ -583,7 +583,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW09",
+        "id": "bwp-09",
         "name": "Zoroark",
         "supertype": "Pokémon",
         "subtypes": [
@@ -662,7 +662,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW10",
+        "id": "bwp-10",
         "name": "Axew",
         "supertype": "Pokémon",
         "subtypes": [
@@ -722,7 +722,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW11",
+        "id": "bwp-11",
         "name": "Pansage",
         "supertype": "Pokémon",
         "subtypes": [
@@ -794,7 +794,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW12",
+        "id": "bwp-12",
         "name": "Zorua",
         "supertype": "Pokémon",
         "subtypes": [
@@ -866,7 +866,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW13",
+        "id": "bwp-13",
         "name": "Minccino",
         "supertype": "Pokémon",
         "subtypes": [
@@ -941,7 +941,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW14",
+        "id": "bwp-14",
         "name": "Pansage",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1013,7 +1013,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW15",
+        "id": "bwp-15",
         "name": "Pidove",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1085,7 +1085,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW16",
+        "id": "bwp-16",
         "name": "Axew",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1145,7 +1145,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW17",
+        "id": "bwp-17",
         "name": "Ducklett",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1216,7 +1216,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW18",
+        "id": "bwp-18",
         "name": "Darumaka",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1282,7 +1282,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW19",
+        "id": "bwp-19",
         "name": "Zoroark",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1362,7 +1362,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW20",
+        "id": "bwp-20",
         "name": "Serperior",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1439,7 +1439,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW21",
+        "id": "bwp-21",
         "name": "Emboar",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1512,7 +1512,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW22",
+        "id": "bwp-22",
         "name": "Samurott",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1584,7 +1584,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW23",
+        "id": "bwp-23",
         "name": "Reshiram",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1658,7 +1658,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW24",
+        "id": "bwp-24",
         "name": "Zekrom",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1732,7 +1732,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW25",
+        "id": "bwp-25",
         "name": "Scraggy",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1814,7 +1814,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW26",
+        "id": "bwp-26",
         "name": "Axew",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1874,7 +1874,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW27",
+        "id": "bwp-27",
         "name": "Litwick",
         "supertype": "Pokémon",
         "subtypes": [
@@ -1949,7 +1949,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW28",
+        "id": "bwp-28",
         "name": "Tropical Beach",
         "supertype": "Trainer",
         "subtypes": [
@@ -1989,7 +1989,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW29",
+        "id": "bwp-29",
         "name": "Victory Cup",
         "supertype": "Trainer",
         "subtypes": [
@@ -2029,7 +2029,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW30",
+        "id": "bwp-30",
         "name": "Victory Cup",
         "supertype": "Trainer",
         "subtypes": [
@@ -2069,7 +2069,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW31",
+        "id": "bwp-31",
         "name": "Victory Cup",
         "supertype": "Trainer",
         "subtypes": [
@@ -2109,7 +2109,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW32",
+        "id": "bwp-32",
         "name": "Victini",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2179,7 +2179,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW33",
+        "id": "bwp-33",
         "name": "Riolu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2254,7 +2254,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW34",
+        "id": "bwp-34",
         "name": "Luxio",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2331,7 +2331,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW35",
+        "id": "bwp-35",
         "name": "Meowth",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2406,7 +2406,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW36",
+        "id": "bwp-36",
         "name": "Reshiram-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2485,7 +2485,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW37",
+        "id": "bwp-37",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2564,7 +2564,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW38",
+        "id": "bwp-38",
         "name": "Zekrom-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2643,7 +2643,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW39",
+        "id": "bwp-39",
         "name": "Battle City",
         "supertype": "Trainer",
         "subtypes": [
@@ -2683,7 +2683,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW40",
+        "id": "bwp-40",
         "name": "Volcarona",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2755,7 +2755,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW41",
+        "id": "bwp-41",
         "name": "Thundurus",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2828,7 +2828,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW42",
+        "id": "bwp-42",
         "name": "Tornadus",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2907,7 +2907,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW43",
+        "id": "bwp-43",
         "name": "Landorus",
         "supertype": "Pokémon",
         "subtypes": [
@@ -2986,7 +2986,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW44",
+        "id": "bwp-44",
         "name": "Kyurem",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3060,7 +3060,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW45",
+        "id": "bwp-45",
         "name": "Mewtwo-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3140,7 +3140,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW46",
+        "id": "bwp-46",
         "name": "Darkrai-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3220,7 +3220,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW47",
+        "id": "bwp-47",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3298,7 +3298,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW48",
+        "id": "bwp-48",
         "name": "Altaria",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3370,7 +3370,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW49",
+        "id": "bwp-49",
         "name": "Lilligant",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3449,7 +3449,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW50",
+        "id": "bwp-50",
         "name": "Tropical Beach",
         "supertype": "Trainer",
         "subtypes": [
@@ -3489,7 +3489,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW51",
+        "id": "bwp-51",
         "name": "Crobat",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3567,7 +3567,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW52",
+        "id": "bwp-52",
         "name": "Lillipup",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3633,7 +3633,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW53",
+        "id": "bwp-53",
         "name": "Flygon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3706,7 +3706,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW54",
+        "id": "bwp-54",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3782,7 +3782,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW55",
+        "id": "bwp-55",
         "name": "Elgyem",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3855,7 +3855,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW56",
+        "id": "bwp-56",
         "name": "Empoleon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -3929,7 +3929,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW57",
+        "id": "bwp-57",
         "name": "Haxorus",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4004,7 +4004,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW58",
+        "id": "bwp-58",
         "name": "Black Kyurem",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4079,7 +4079,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW59",
+        "id": "bwp-59",
         "name": "White Kyurem",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4154,7 +4154,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW60",
+        "id": "bwp-60",
         "name": "Keldeo",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4227,7 +4227,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW61",
+        "id": "bwp-61",
         "name": "Keldeo-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4301,7 +4301,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW62",
+        "id": "bwp-62",
         "name": "Black Kyurem-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4380,7 +4380,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW63",
+        "id": "bwp-63",
         "name": "White Kyurem-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4459,7 +4459,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW64",
+        "id": "bwp-64",
         "name": "Drifblim",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4532,7 +4532,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW65",
+        "id": "bwp-65",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4597,7 +4597,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW66",
+        "id": "bwp-66",
         "name": "Ninetales",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4667,7 +4667,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW67",
+        "id": "bwp-67",
         "name": "Ampharos",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4741,7 +4741,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW68",
+        "id": "bwp-68",
         "name": "Meloetta",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4814,7 +4814,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW69",
+        "id": "bwp-69",
         "name": "Meloetta",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4887,7 +4887,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW70",
+        "id": "bwp-70",
         "name": "Virizion",
         "supertype": "Pokémon",
         "subtypes": [
@@ -4964,7 +4964,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW71",
+        "id": "bwp-71",
         "name": "Terrakion",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5036,7 +5036,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW72",
+        "id": "bwp-72",
         "name": "Cobalion",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5113,7 +5113,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW73",
+        "id": "bwp-73",
         "name": "Darkrai",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5195,7 +5195,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW74",
+        "id": "bwp-74",
         "name": "Giratina",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5272,7 +5272,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW75",
+        "id": "bwp-75",
         "name": "Metagross",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5346,7 +5346,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW76",
+        "id": "bwp-76",
         "name": "Electrode",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5420,7 +5420,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW77",
+        "id": "bwp-77",
         "name": "Pikachu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5496,7 +5496,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW78",
+        "id": "bwp-78",
         "name": "Raichu",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5571,7 +5571,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW79",
+        "id": "bwp-79",
         "name": "Landorus",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5653,7 +5653,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW80",
+        "id": "bwp-80",
         "name": "Druddigon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5727,7 +5727,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW81",
+        "id": "bwp-81",
         "name": "Thundurus-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5805,7 +5805,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW82",
+        "id": "bwp-82",
         "name": "Deoxys-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5879,7 +5879,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW83",
+        "id": "bwp-83",
         "name": "Lugia-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -5961,7 +5961,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW84",
+        "id": "bwp-84",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6034,7 +6034,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW85",
+        "id": "bwp-85",
         "name": "Lucario",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6106,7 +6106,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW86",
+        "id": "bwp-86",
         "name": "Genesect",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6182,7 +6182,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW87",
+        "id": "bwp-87",
         "name": "Leafeon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6261,7 +6261,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW88",
+        "id": "bwp-88",
         "name": "Flareon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6335,7 +6335,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW89",
+        "id": "bwp-89",
         "name": "Vaporeon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6409,7 +6409,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW90",
+        "id": "bwp-90",
         "name": "Glaceon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6482,7 +6482,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW91",
+        "id": "bwp-91",
         "name": "Jolteon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6555,7 +6555,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW92",
+        "id": "bwp-92",
         "name": "Espeon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6627,7 +6627,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW93",
+        "id": "bwp-93",
         "name": "Umbreon",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6708,7 +6708,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW94",
+        "id": "bwp-94",
         "name": "Eevee",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6790,7 +6790,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW95",
+        "id": "bwp-95",
         "name": "Champions Festival",
         "supertype": "Trainer",
         "subtypes": [
@@ -6830,7 +6830,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW96",
+        "id": "bwp-96",
         "name": "Tornadus-EX",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6913,7 +6913,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW97",
+        "id": "bwp-97",
         "name": "Eevee",
         "supertype": "Pokémon",
         "subtypes": [
@@ -6995,7 +6995,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW98",
+        "id": "bwp-98",
         "name": "Mew",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7064,7 +7064,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW99",
+        "id": "bwp-99",
         "name": "Genesect",
         "supertype": "Pokémon",
         "subtypes": [
@@ -7138,7 +7138,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW100",
+        "id": "bwp-100",
         "name": "N",
         "supertype": "Trainer",
         "subtypes": [
@@ -7178,7 +7178,7 @@ let bwp = [
         }
     },
     {
-        "id": "bwp-BW101",
+        "id": "bwp-101",
         "name": "Genesect",
         "supertype": "Pokémon",
         "subtypes": [
