@@ -20,7 +20,7 @@ html,body{
     -webkit-tap-highlight-color: transparent;
 }
 body.darkon {
-    background-color: #2b2b2b;
+    background-color: rgb(35, 35, 35);
 }
 .home-twitter-icon {
     width: 40px;

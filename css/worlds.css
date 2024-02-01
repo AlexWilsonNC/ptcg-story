@@ -211,11 +211,6 @@ h2.darkon {
     margin-bottom: 5px;
 }
 
-/* .worlds-hr {
-    width: 55%;
-    margin-left: 10px;
-    margin-top: 15px;
-} */
 .worlds-hr {
     display: none;
 }
@@ -413,6 +408,9 @@ h2.darkon {
     flex-direction: row;
     justify-content: space-around;
     margin-top: 10px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    margin-bottom: -10px;
 }
 
 .divisions p,
@@ -458,10 +456,11 @@ li {
     display: flex;
     flex-direction: row;
     align-items: center;
-    /* justify-content: flex-start; */
     text-align: start;
     padding-left: 15px;
     font-size: 18px;
+    /* white-space: wrap; */
+    overflow: hidden;
 }
 .flag-size {
     width: 20px;
@@ -495,8 +494,18 @@ li {
 .extras-ol li, 
 .yamato li,
 .four-ol li {
-    border-bottom: 1px solid rgba(128, 128, 128, 0.04);
+    /* border-bottom: 1px solid rgba(128, 128, 128, 0.04); */
     color:black;
+    border-radius: 5px;
+    /* list-style-position: inside; --- ONLY ON REGIONALS LISTS */
+}
+.masters-ol li:nth-of-type(2n),
+.seniors-ol li:nth-of-type(2n),
+.juniors-ol li:nth-of-type(2n),
+.extras-ol li:nth-of-type(2n),
+.yamato li:nth-of-type(2n),
+.four-ol li:nth-of-type(2n) {
+    background-color: rgb(239, 239, 239);
 }
 .masters-ol.darkon li,
 .seniors-ol.darkon li,
@@ -506,8 +515,16 @@ li {
 .four-ol.darkon li {
     color: white;
 }
+.masters-ol.darkon li:nth-of-type(2n),
+.seniors-ol.darkon li:nth-of-type(2n),
+.juniors-ol.darkon li:nth-of-type(2n),
+.extras-ol.darkon li:nth-of-type(2n),
+.yamato.darkon li:nth-of-type(2n),
+.four-ol.darkon li:nth-of-type(2n) {
+    background-color: rgba(161, 161, 161, 0.1);
+}
 .player-deck-icons {
-    display: flex;                     /* remove? */
+    display: flex;
     flex-direction: row;
     align-items: center;
     margin-top: -5px;
@@ -515,10 +532,6 @@ li {
 .sprite {
     width: 55px;
 }
-/* .sprite-retro {
-    width: 32px;
-    height: auto;
-} */
 
 .lcq-q li {
     font-size: 12px;
@@ -1891,7 +1904,6 @@ li {
         height: auto;
         opacity: 0.4;
     }
-
     .big-pika {
         display: block;
         top: 150px;
@@ -1910,7 +1922,6 @@ li {
 }
 
 @media screen and (max-width: 530px) {
-
     .summary,
     .event-results {
         align-items: center;
@@ -1927,54 +1938,42 @@ li {
     .country-txt {
         font-size: 12px;
     }
-
     .cs-plus-ap p {
         font-size: 13px;
         font-weight: bold;
     }
-
     .modal-x p {
         font-family: 'Permanent Marker', cursive;
         margin-bottom: 6px;
-        /* padding: 0px 2px; */
     }
-
     .hidden-prize-left {
         width: 60%;
     }
-
     .hidden-prize-right {
         width: 45%;
     }
-
     .hidden-hr {
         display: flex;
     }
-
     .prizing-header {
         margin-bottom: 10px;
         margin-left: 0px;
     }
-
     .auto-day2-area {
         width: 80%;
         margin-left: 0px;
     }
-
     .auto-day2-area2 {
         width: 100%;
         margin-left: 0px;
     }
-
     .auto-day2-area2 ol {
         font-size: 14px;
     }
-
     .results-left {
         width: 100%;
         margin: 0px auto;
     }
-
     .masters-ol,
     .seniors-ol,
     .juniors-ol,
@@ -1982,39 +1981,35 @@ li {
     .four-ol {
         margin-left: 20px;
     }
-
     .list-icon {
         padding-right: 0px;
+        width: 18px;
     }
-
     .player-deck-icons {
         margin-left: 20px;
+        padding-right: 10px;
     }
-
+    .sprite {
+        width: 45px;
+    }
     .results-right {
         margin-top: 25px;
     }
-
     .worlds-hr {
         display: none;
     }
-
     .casters-zone p {
         width: 88%;
     }
-
     .gallery {
         width: 97%;
     }
-
     .videos-section a img {
         width: 95%;
     }
-
     .videos-section a p {
         width: 90%;
     }
-
     .shrink-it {
         width: 100%;
     }
@@ -2129,11 +2124,6 @@ li {
     .flag-size {
         width: 16px;
         height: 16px;
-    }
-
-    .list-icon {
-        width: 19px;
-        height: auto;
     }
  .booklet-set-indiv img {
     height: 200px; width: auto;
