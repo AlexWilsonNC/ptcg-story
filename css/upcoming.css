@@ -30,7 +30,7 @@
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
-    color: black !important;
+    /* color: black !important; */
 }
 .indiv-filter,
 .indiv-filter2 {
@@ -81,6 +81,7 @@
     margin-top: 4px;
     border-radius: 4px;
     padding-left: 5px;
+    color: black !important;
 }
 #mySelect:hover,
 #mySelect2:hover {
