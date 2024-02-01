@@ -49,6 +49,7 @@
     padding:0 7px;
     border: none;
     border:1px solid grey;
+    color:black !important;
 }
 .reversebutn:hover {
     cursor: pointer;
