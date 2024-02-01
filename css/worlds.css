@@ -505,7 +505,7 @@ li {
 .extras-ol li:nth-of-type(2n),
 .yamato li:nth-of-type(2n),
 .four-ol li:nth-of-type(2n) {
-    background-color: rgb(239, 239, 239);
+    background-color: rgb(235, 235, 235);
 }
 .masters-ol.darkon li,
 .seniors-ol.darkon li,
@@ -521,7 +521,7 @@ li {
 .extras-ol.darkon li:nth-of-type(2n),
 .yamato.darkon li:nth-of-type(2n),
 .four-ol.darkon li:nth-of-type(2n) {
-    background-color: rgba(161, 161, 161, 0.1);
+    background-color: rgba(161, 161, 161, 0.15);
 }
 .player-deck-icons {
     display: flex;
