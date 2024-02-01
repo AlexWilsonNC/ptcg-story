@@ -274,6 +274,9 @@ color: white;
     display: flex;
     flex-direction: column;
 }
+.order-vertival a {
+    border: 1px solid white;
+}
 .two-archive-sidebyside {
     display: flex;
     flex-direction: row;
@@ -372,6 +375,12 @@ color: white;
 @media screen and (max-width: 1000px) {
     .two-archive-sidebyside {
         flex-direction: column;
+    }
+    .order-vertival a {
+        border-top: 1px solid white;
+        border-bottom: none;
+        border-left: none;
+        border-right: none;
     }
     #internats-archive,
     #regionals-archive,

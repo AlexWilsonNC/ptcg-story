@@ -342,12 +342,14 @@ function displayList(array = []) {
         deck.appendChild(secondSprite);
 
         if (item.decklist) {
-            let listIcon = document.createElement('img');
+            let listIcon = document.createElement('i');
             listIcon.classList.add('list-icon');
-            listIcon.setAttribute('src', "../../../../assets/list-icon.png");
+            listIcon.classList.add('list-icon-live');
+            listIcon.classList.add('material-symbols-outlined');
+            listIcon.innerHTML = "format_list_bulleted";
             deck.appendChild(listIcon);
 
-            item_element.addEventListener('click', function () {
+            listIcon.addEventListener('click', function () {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';

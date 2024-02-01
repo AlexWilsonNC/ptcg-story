@@ -29,9 +29,6 @@ function displayList(array = []) {
         secondSprite.classList.add('sprite');
         secondSprite.classList.add('second-sprite');
         secondSprite.setAttribute('src', item.sprite2);
-        let listIcon = document.createElement('img');
-        listIcon.classList.add('list-icon');
-        listIcon.setAttribute('src', item.list);    
 
         function convertToTitleCase(str) {
             if (!str) {
@@ -48,11 +45,15 @@ function displayList(array = []) {
         title.appendChild(deck);
         deck.appendChild(firstSprite);
         deck.appendChild(secondSprite);
-        deck.appendChild(listIcon);
+        if (item.list.includes('./assets/list-icon.png')) {
+            let listIcon = document.createElement('i');
+            listIcon.classList.add('list-icon');
+            listIcon.classList.add('list-icon-live');
+            listIcon.classList.add('material-symbols-outlined');
+            listIcon.innerHTML = "format_list_bulleted";   
+            deck.appendChild(listIcon);
 
-        if (item.list === '../../../../assets/list-icon.png') {
-
-            item_element.addEventListener('click', function () {
+            listIcon.addEventListener('click', function () {
                 document.querySelector('#modal-section').style.display = "flex";
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
@@ -209,6 +210,12 @@ function displayList(array = []) {
                 }
 
             })
+
+        } if (item.list.includes('./assets/sprites/blank.png')) {
+            let listIcon = document.createElement('img');
+            listIcon.classList.add('list-icon');
+            listIcon.setAttribute('src', item.list);
+            deck.appendChild(listIcon);
         }
         masterList.appendChild(item_element);
     }

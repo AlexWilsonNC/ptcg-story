@@ -447,11 +447,11 @@ li {
 .player-list-hover {
     max-height: 50px; 
 }
-.player-list-hover:hover {
+/* .player-list-hover:hover {
     background-color: rgb(226, 226, 226);
     border-radius: 10px;
     cursor: pointer;
-}
+} */
 .name-n-flag {
     display: flex;
     flex-direction: row;
@@ -505,7 +505,7 @@ li {
 .extras-ol li:nth-of-type(2n),
 .yamato li:nth-of-type(2n),
 .four-ol li:nth-of-type(2n) {
-    background-color: rgb(235, 235, 235);
+    background-color: rgb(240, 240, 240);
 }
 .masters-ol.darkon li,
 .seniors-ol.darkon li,
@@ -575,7 +575,12 @@ li {
 
 .list-icon {
     padding-right: 15px;
-    width: 22px;
+    font-size: 26px !important;
+    width: 18px;
+}
+.list-icon-live:hover {
+    cursor: pointer;
+    color: rgb(224, 160, 22);
 }
 
 .promo-card,
@@ -1921,6 +1926,11 @@ li {
     }
 }
 
+@media screen and (max-width: 555px) {
+    .list-icon {
+        font-size: 22px !important;
+    }
+}
 @media screen and (max-width: 530px) {
     .summary,
     .event-results {
@@ -1983,7 +1993,6 @@ li {
     }
     .list-icon {
         padding-right: 0px;
-        width: 18px;
     }
     .player-deck-icons {
         margin-left: 20px;

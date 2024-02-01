@@ -14,7 +14,7 @@
     margin: 25px 0px;
 }
 .all-tr:nth-of-type(2n) {
-    background-color: rgb(235, 235, 235);
+    background-color: rgb(240, 240, 240);
 }
 .upcoming-events-table.darkon tr:nth-of-type(2n) {
     background-color: rgba(161, 161, 161, 0.15);
