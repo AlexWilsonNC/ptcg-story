@@ -38,6 +38,14 @@ function displayList(array = []) {
                 }
                 if (Object.values(pokemon).includes("Arceus VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Rayquaza VMAX")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/rayquaza-vmax.png");
+                        }
+                    })
+                }
+                if (Object.values(pokemon).includes("Arceus VSTAR")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Hisuian Goodra VSTAR")) {
                             firstSprite.setAttribute('src', "../../../../assets/sprites/arceus.png");
                             secondSprite.setAttribute('src', "../../../../assets/sprites/goodra-hisui.png");
