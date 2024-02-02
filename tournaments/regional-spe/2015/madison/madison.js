@@ -125,7 +125,7 @@ let masters = [
     },
     {
         "firstName": "Austin Zettel",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
         sprite1: '../../../../assets/sprites/virizion.png',
         sprite2: '../../../../assets/sprites/genesect.png',
