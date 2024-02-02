@@ -1562,6 +1562,108 @@ let fiveEvent = [
             },
         ]
     },
+    {
+        firstName: 'Anna Schipper',
+        sprite1: '../../assets/sprites/empoleon.png',
+        sprite2: '../../assets/sprites/omastar.png',
+        list: '../../assets/list-icon.png',
+        type: 'normal',
+        deck: [
+            {
+                cardImg: '../../assets/cards/2007-2008/empoleon-dual-splash.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/prinplup.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/piplup.png',
+                numImg: '../../assets/04.png',
+                radiusCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/md.026.omastar.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/md.069.omanyte.jpg',
+                numImg: '../../assets/01.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/md.012.phione.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/claydol.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/baltoy-fighting.png',
+                numImg: '../../assets/02.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/bronzong.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/bronzor.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2008-2010/md.091.helix_fossil.jpg',
+                numImg: '../../assets/02.png',
+                oldCard: true
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/celios-network.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/stevens-advice.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/roseannes-research.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/team-galactic-wager.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/bebes-search.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/rare-candy-2008.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/warp-point-2007.png',
+                numImg: '../../assets/03.png'
+            },
+            {
+                cardImg: '../../assets/cards/2007-2008/night-maintenance.png',
+                numImg: '../../assets/01.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/water-energy-capsule.png',
+                numImg: '../../assets/07.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/call-energy.png',
+                numImg: '../../assets/04.png'
+            },
+            {
+                cardImg: '../../assets/cards/energy/scramble-energy-promo.png',
+                numImg: '../../assets/03.png'
+            },
+        ]
+    },
 ]
 
 let sevenEvent = [
