@@ -46,16 +46,43 @@ let masters = [
         "event": "2024 Knoxville Regionals",
         sprite1: '../../../../assets/sprites/comfey.png',
         sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
-            ]
+                {"count": 4,"name":"Comfey", "set": "LOR", "number":"79" },
+                {"count": 1,"name":"Sableye", "set": "LOR", "number":"70"},
+                {"count": 1,"name":"Cramorant", "set": "LOR", "number":"50"},
+                {"count": 1,"name":"Radiant Greninja", "set": "ASR", "number":"46"},
+                {"count": 1,"name":"Kyogre", "set": "CEL", "number":"3" },
+                {"count": 1,"name":"Dragonite V", "set": "PR-SW", "number":"154"},
+                {"count": 1,"name":"Pidgeot V", "set": "LOR", "number":"137"},
+                {"count": 1,"name":"Mawile", "set": "LOR", "number":"71" },
+                {"count": 1,"name":"Manaphy", "set": "BRS", "number":"41"},
+                {"count": 1,"name":"Jirachi", "set":"PAR", "number":"126"},
+                            ], "trainer": [
+                {"count": 4,"name":"Colress's Experiment", "set": "LOR", "number":"155"},
+                {"count": 1,"name":"Boss's Orders", "set": "PAL", "number":"172"},
+                {"count": 1,"name":"Roxanne", "set": "ASR", "number":"150"},
+                {"count": 4,"name":"Mirage Gate", "set": "LOR", "number":"163"},
+                {"count": 4,"name":"Battle VIP Pass", "set": "FST", "number":"225"},
+                {"count": 4,"name":"Switch Cart", "set": "ASR", "number":"154"},
+                {"count": 3,"name":"Nest Ball", "set": "PAF", "number":"84"},
+                {"count": 3,"name":"Super Rod", "set": "PAL", "number":"188"},
+                {"count": 2,"name":"Escape Rope", "set": "BST", "number":"125"},
+                {"count": 1,"name":"Switch", "set": "SVI", "number":"194"},
+                {"count": 1,"name":"Energy Recycler", "set": "BST", "number":"124"},
+                {"count": 1,"name":"Hisuian Heavy Ball", "set": "ASR", "number":"146"},
+                {"count": 1,"name":"Counter Catcher", "set":"PAR", "number":"160"},
+                {"count": 1,"name":"Lost Vacuum", "set": "CRZ", "number":"135"},
+                {"count": 1,"name":"Pokégear 3.0", "set": "SVI", "number":"186"},
+                {"count": 1,"name":"Pal Pad", "set": "SVI", "number":"182"},
+                {"count": 2,"name":"Forest Seal Stone", "set": "SIT", "number":"156"},
+                {"count": 2,"name":"PokéStop", "set": "PGO", "number":"68"},
+                            ], "energy": [
+                {"count": 4,"name":"Water Energy", "number": "3", "set": "SVE" },
+                {"count": 3,"name":"Psychic Energy", "number": "5", "set": "SVE" },
+                {"count": 3,"name":"Lightning Energy", "number": "4", "set": "SVE" },
+                            ]
         }
     },
     {
@@ -64,16 +91,34 @@ let masters = [
         "event": "2024 Knoxville Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/roaring-moon.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
-            ]
+                {"count": 4,"name":"Roaring Moon ex", "set":"PAR", "number":"124"},
+                {"count": 2,"name":"Galarian Moltres V", "set": "CRE", "number":"97"},
+                {"count": 1,"name":"Morpeko", "set":"PAR", "number":"121"},
+                {"count": 1,"name":"Mew ex", "set": "MEW", "number":"151"},
+                {"count": 1,"name":"Squawkabilly ex", "set": "PAF", "number":"75"},
+                {"count": 1,"name":"Radiant Greninja", "set": "ASR", "number":"46"},
+                            ], "trainer": [
+                {"count": 3,"name":"Professor's Research", "set": "PAF", "number":"88"},
+                {"count": 2,"name":"Professor Sada's Vitality", "set":"PAR", "number":"170"},
+                {"count": 1,"name":"Boss's Orders", "set": "PAL", "number":"172"},
+                {"count": 1,"name":"Iono", "set": "PAF", "number":"80" },
+                {"count": 4,"name":"Battle VIP Pass", "set": "FST", "number":"225"},
+                {"count": 4,"name":"Dark Patch", "set": "ASR", "number":"139"},
+                {"count": 4,"name":"Energy Switch", "set": "SVI", "number":"173"},
+                {"count": 4,"name":"Trekking Shoes", "set": "CRZ", "number":"145"},
+                {"count": 4,"name":"Pokémon Catcher", "set": "SVI", "number":"187"},
+                {"count": 3,"name":"Ultra Ball", "set": "PAF", "number":"91"},
+                {"count": 2,"name":"Earthen Vessel", "set":"PAR", "number":"163"},
+                {"count": 2,"name":"Switch Cart", "set": "ASR", "number":"154"},
+                {"count": 1,"name":"Pal Pad", "set": "SVI", "number":"182"},
+                {"count": 2,"name":"Forest Seal Stone", "set": "SIT", "number":"156"},
+                {"count": 4,"name":"PokéStop", "set": "PGO", "number":"68"},
+                            ], "energy": [
+                                { "count": 9, "name": "Darkness Energy - Basic", "number": "7", "set": "SVE" },
+                            ]
         }
     },
     {
@@ -82,16 +127,37 @@ let masters = [
         "event": "2024 Knoxville Regionals",
         sprite1: '../../../../assets/sprites/giratina-origin.png',
         sprite2: '../../../../assets/sprites/comfey.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
-            ]
+                {"count": 4,"name":"Comfey", "set": "LOR", "number":"79" },
+                {"count": 3,"name":"Giratina V", "set": "LOR", "number":"130"},
+                {"count": 3,"name":"Giratina VSTAR", "set": "LOR", "number":"131"},
+                {"count": 1,"name":"Sableye", "set": "LOR", "number":"70"},
+                {"count": 1,"name":"Cramorant", "set": "LOR", "number":"50"},
+                {"count": 1,"name":"Radiant Greninja", "set": "ASR", "number":"46"},
+                {"count": 1,"name":"Spiritomb", "set": "PAL", "number":"89"},
+                {"count": 1,"name":"Manaphy", "set": "BRS", "number":"41"},
+                            ], "trainer": [
+                                {"count": 4,"name":"Colress's Experiment", "set": "LOR", "number":"155"},
+                                {"count": 2,"name":"Boss's Orders", "set": "PAL", "number":"172"},
+                                {"count": 2,"name":"Roxanne", "set": "ASR", "number":"150"},
+                                {"count": 1,"name":"Avery", "set": "CRE", "number":"130" },
+                                {"count": 4,"name":"Mirage Gate", "set": "LOR", "number":"163"},
+                                {"count": 4,"name":"Battle VIP Pass", "set": "FST", "number":"225"},
+                                {"count": 3,"name":"Nest Ball", "set": "PAF", "number":"84"},
+                                {"count": 2,"name":"Switch Cart", "set": "ASR", "number":"154"},
+                                {"count": 2,"name":"Switch", "set": "SVI", "number":"194"},
+                                {"count": 2,"name":"Pokégear 3.0", "set": "SVI", "number":"186"},
+                                {"count": 2,"name":"Super Rod", "set": "PAL", "number":"188"},
+                                {"count": 1,"name":"Counter Catcher", "set":"PAR", "number":"160"},
+                                {"count": 3,"name":"Path to the Peak", "set": "CRE", "number":"148"},
+                                            ], "energy": [
+                                                {"count": 4,"name":"Jet Energy", "set": "PAL", "number":"190"},
+                                                {"count": 4,"name":"Psychic Energy", "number": "5", "set": "SVE" },
+                                                {"count": 3,"name":"Grass Energy", "number": "1", "set": "SVE" },
+                                                {"count": 2,"name":"Water Energy", "number": "3", "set": "SVE" },
+                                                        ]
         }
     },
     {
@@ -100,15 +166,39 @@ let masters = [
         "event": "2024 Knoxville Regionals",
         sprite1: '../../../../assets/sprites/entei.png',
         sprite2: '../../../../assets/sprites/iron-valiant.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "set": "ee", "number": "ee" },
+                { "count": 3, "name" :"Iron Valiant ex", "set": "PAR", "number" : "89" },
+                { "count": 2, "name" :"Entei V", "set": "BRS", "number" : "22" },
+                { "count": 1, "name" :"Moltres", "set": "BRS", "number" : "21" },
+                { "count": 1, "name" :"Radiant Charizard", "set": "CRZ", "number" : "20" },
+                { "count": 1, "name" :"Medicham V", "set": "EVS", "number" : "83" },
+                { "count": 1, "name" :"Bidoof", "set": "CRZ", "number" : "111" },
+                { "count": 1, "name" :"Bibarel", "set": "BRS", "number" : "121" },
+                { "count": 1, "name" :"Squawkabilly ex", "set": "PAF", "number" : "75" },
+                { "count": 1, "name" :"Spiritomb", "set": "PAL", "number" : "89" },
+                            ], "trainer": [
+                                { "count": 4, "name" :"Professor's Research", "set": "PAF", "number" : "88" },
+                                { "count": 2, "name" :"Iono", "set": "PAF", "number" : "80" },
+                                { "count": 1, "name" :"Boss's Orders", "set": "PAL", "number" : "172" },
+                                { "count": 1, "name" :"Serena", "set": "SIT", "number" : "164" },
+                                { "count": 4, "name" :"Battle VIP Pass", "set": "FST", "number" : "225" },
+                                { "count": 4, "name" :"Switch Cart", "set": "ASR", "number" : "154" },
+                                { "count": 4, "name" :"Switch", "set": "SVI", "number" : "194" },
+                                { "count": 4, "name" :"Escape Rope", "set": "BST", "number" : "125" },
+                                { "count": 3, "name" :"Ultra Ball", "set": "PAF", "number" : "91" },
+                                { "count": 1, "name" :"Hisuian Heavy Ball", "set": "ASR", "number" : "146" },
+                                { "count": 1, "name" :"Earthen Vessel", "set": "PAR", "number" : "163" },
+                                { "count": 1, "name" :"Super Rod", "set": "PAL", "number" : "188" },
+                                { "count": 1, "name" :"Lost Vacuum", "set": "CRZ", "number" : "135" },
+                                { "count": 2, "name" :"Future Booster Energy Capsule", "set": "PAR", "number" : "164" },
+                                { "count": 2, "name" :"Forest Seal Stone", "set": "SIT", "number" : "156" },
+                                { "count": 1, "name" :"Technical Machine: Devolution", "set": "PAR", "number" : "177" },
+                                { "count": 4, "name" :"Magma Basin", "set": "BRS", "number" : "144" },
+                                            ], "energy": [
+                { "count": 5, "name": "Fire Energy", "set": "SVE", "number": "2" },
+                { "count": 3, "name" :"Double Turbo Energy", "set": "BRS", "number" : "151" },
             ]
         }
     },
