@@ -67,7 +67,7 @@
     text-shadow: 1px 1px 3px black;
   }
   .collapsible2 {
-    background-color: #777777c1;
+    background-color: #777777;
     color: white;
     cursor: pointer;
     padding: 18px;
@@ -76,12 +76,15 @@
     text-align: left;
     outline: none;
     font-size: 15px;
+    max-height: 65px;
     display: flex;
     text-align: center;
+    /* border-left: 2px solid black;
+    border-right: 2px solid black; */
     justify-content: space-between;
   }
   .collapsible3 {
-    background-color: rgb(149, 149, 149);
+    background-color: #9D9D9D;
     color: white;
     cursor: pointer;
     padding: 18px;
@@ -90,8 +93,11 @@
     text-align: left;
     outline: none;
     font-size: 15px;
+    max-height: 65px;
     display: flex;
     text-align: center;
+    /* border-left: 2px solid black;
+    border-right: 2px solid black; */
     justify-content: space-between;
   }
   .collapsible-alt {
@@ -332,6 +338,49 @@
     margin-left: 20px;
     font-size: 20px;
 }
+.country-name img {
+    opacity: 0.3;
+}
+.sv1 {
+    height: 35px; 
+    margin-left: 65px;
+}
+.ssh1 {
+    height: 25px;
+    margin-left: 10px; 
+}
+.sm1 {
+   height: 25px; 
+   margin-left: 20px;
+}
+.xy1 {
+    height: 23px;
+    margin-left: 23px;
+}
+.bw1 {
+    height: 18px;
+    margin-left: 25px;
+}
+.dp1 {
+    height: 24px;
+    margin-left: 18px;
+}
+.wotc111 {
+    height: 28px;
+    margin-left: 23px;
+}
+.rs11 {
+    height: 20px;
+    margin-left: 20px;
+}
+.dx1 {
+    height: 23px;
+    margin-left: 85px;
+}
+.hp1 {
+    height: 30px;
+    margin-left: 85px;
+}
 .title-flag {
     display: flex;
     flex-direction: row;
@@ -449,6 +498,18 @@
     }
     .center-column img {
         width: 280px;
+    }
+    .sv1 {
+        height: 32px; 
+        margin-left: 55px;
+    }
+    .dx1 {
+        height: 23px;
+        margin-left: 72px;
+    }
+    .hp1 {
+        height: 30px;
+        margin-left: 72px;
     }
 }
 @media screen and (max-width: 803px) {
@@ -619,7 +680,47 @@
     }
     .country-content {
         background-color: transparent;
-      }
+    }
+    .sv1 {
+        height: 30px; 
+        margin-left: 45px;
+    }
+    .ssh1 {
+        height: 20px;
+        margin-left: 10px; 
+    }
+    .sm1 {
+       height: 20px; 
+       margin-left: 20px;
+    }
+    .xy1 {
+        height: 20px;
+        margin-left: 23px;
+    }
+    .bw1 {
+        height: 12px;
+        margin-left: 25px;
+    }
+    .dp1 {
+        height: 20px;
+        margin-left: 18px;
+    }
+    .wotc111 {
+        height: 25px;
+        margin-left: 23px;
+    }
+    .rs11 {
+        height: 15px;
+        margin-left: 20px;
+    }
+    .dx1 {
+        height: 20px;
+        margin-left: 65px;
+    }
+    .hp1 {
+        height: 20px;
+        margin-left: 65px;
+    }
 }
 @media screen and (max-width: 370px) {
     .nats-box,
