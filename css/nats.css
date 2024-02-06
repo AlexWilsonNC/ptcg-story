@@ -67,7 +67,7 @@
     text-shadow: 1px 1px 3px black;
   }
   .collapsible2 {
-    background-color: #777;
+    background-color: #777777c1;
     color: white;
     cursor: pointer;
     padding: 18px;
@@ -81,7 +81,7 @@
     justify-content: space-between;
   }
   .collapsible3 {
-    background-color: rgb(182, 182, 182);
+    background-color: rgb(149, 149, 149);
     color: white;
     cursor: pointer;
     padding: 18px;
@@ -118,7 +118,7 @@
   }
   .hello, 
   .collapsible2:hover {
-    background-color: #555;
+    background-color: #4b4b4b;
   }
   .collapsible3:hover {
     background-color: #4b4b4b;
