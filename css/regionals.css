@@ -93,34 +93,15 @@
     list-style-position: inside;
     padding-left: 5px;
 }
-.masters-ol li:nth-of-type(1),
-.masters-ol li:nth-of-type(2),
-.masters-ol li:nth-of-type(3),
-.masters-ol li:nth-of-type(4),
-.masters-ol li:nth-of-type(5),
-.masters-ol li:nth-of-type(6),
-.masters-ol li:nth-of-type(7),
-.masters-ol li:nth-of-type(8),
-.masters-ol li:nth-of-type(9),
-.seniors-ol li:nth-of-type(1),
-.seniors-ol li:nth-of-type(2),
-.seniors-ol li:nth-of-type(3),
-.seniors-ol li:nth-of-type(4),
-.seniors-ol li:nth-of-type(5),
-.seniors-ol li:nth-of-type(6),
-.seniors-ol li:nth-of-type(7),
-.seniors-ol li:nth-of-type(8),
-.seniors-ol li:nth-of-type(9),
-.juniors-ol li:nth-of-type(1),
-.juniors-ol li:nth-of-type(2),
-.juniors-ol li:nth-of-type(3),
-.juniors-ol li:nth-of-type(4),
-.juniors-ol li:nth-of-type(5),
-.juniors-ol li:nth-of-type(6),
-.juniors-ol li:nth-of-type(7),
-.juniors-ol li:nth-of-type(8),
-.juniors-ol li:nth-of-type(9) {
-    padding-left: 17px !important; 
+.masters-ol li:nth-of-type(-n+99),
+.seniors-ol li:nth-of-type(-n+99),
+.juniors-ol li:nth-of-type(-n+99) {
+    padding-left: 17px ; 
+}
+.masters-ol li:nth-of-type(-n+9),
+.seniors-ol li:nth-of-type(-n+9),
+.juniors-ol li:nth-of-type(-n+9) {
+    padding-left: 28px; 
 }
 .contain-event {
     margin-left: 50px;
@@ -202,6 +183,16 @@
     .name-n-flag {
         padding-left: 5px;
     }
+    .masters-ol li:nth-of-type(-n+99),
+    .seniors-ol li:nth-of-type(-n+99),
+    .juniors-ol li:nth-of-type(-n+99) {
+        padding-left: 17px !important; 
+    }
+    .masters-ol li:nth-of-type(-n+9),
+    .seniors-ol li:nth-of-type(-n+9),
+    .juniors-ol li:nth-of-type(-n+9) {
+        padding-left: 28px !important; 
+    }
 }
 @media screen and (max-width: 625px) {
     .regional-info {
@@ -224,7 +215,7 @@
         font-size: 12px !important;
     }
 }
-@media screen and (max-width: 555px) {
+@media screen and (max-width: 570px) {
     .name-n-flag {
         font-size: 12px;
     }
@@ -246,34 +237,15 @@
         width: 15px;
         border-radius: 3px;
     }
-    .masters-ol li:nth-of-type(1),
-    .masters-ol li:nth-of-type(2),
-    .masters-ol li:nth-of-type(3),
-    .masters-ol li:nth-of-type(4),
-    .masters-ol li:nth-of-type(5),
-    .masters-ol li:nth-of-type(6),
-    .masters-ol li:nth-of-type(7),
-    .masters-ol li:nth-of-type(8),
-    .masters-ol li:nth-of-type(9),
-    .seniors-ol li:nth-of-type(1),
-    .seniors-ol li:nth-of-type(2),
-    .seniors-ol li:nth-of-type(3),
-    .seniors-ol li:nth-of-type(4),
-    .seniors-ol li:nth-of-type(5),
-    .seniors-ol li:nth-of-type(6),
-    .seniors-ol li:nth-of-type(7),
-    .seniors-ol li:nth-of-type(8),
-    .seniors-ol li:nth-of-type(9),
-    .juniors-ol li:nth-of-type(1),
-    .juniors-ol li:nth-of-type(2),
-    .juniors-ol li:nth-of-type(3),
-    .juniors-ol li:nth-of-type(4),
-    .juniors-ol li:nth-of-type(5),
-    .juniors-ol li:nth-of-type(6),
-    .juniors-ol li:nth-of-type(7),
-    .juniors-ol li:nth-of-type(8),
-    .juniors-ol li:nth-of-type(9) {
-        padding-left: 14px !important; 
+    .masters-ol li:nth-of-type(-n+99),
+    .seniors-ol li:nth-of-type(-n+99),
+    .juniors-ol li:nth-of-type(-n+99) {
+        padding-left: 13px !important; 
+    }
+    .masters-ol li:nth-of-type(-n+9),
+    .seniors-ol li:nth-of-type(-n+9),
+    .juniors-ol li:nth-of-type(-n+9) {
+        padding-left: 22px !important; 
     }
 }
 @media screen and (max-width: 530px) {
