@@ -629,16 +629,38 @@ let masters = [
         "event": "2024 Dortmund Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/roaring-moon.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Roaring Moon ex", "set": "PAR", "number": "124" },
+                { "count": 1, "name": "Galarian Moltres V", "set": "CRE", "number": "97" },
+                { "count": 1, "name": "Morpeko", "set": "PAR", "number": "121" },
+                { "count": 1, "name": "Mew ex", "set": "MEW", "number": "151" },
+                { "count": 1, "name": "Squawkabilly ex", "set": "PAF", "number": "75" },
+                { "count": 1, "name": "Lumineon V", "number":"40", "set": "BRS" },
+                { "count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46" },
+                { "count": 1, "name": "Mew", "set": "CEL", "number": "11" },
             ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Professor Sada's Vitality", "set": "PAR", "number": "170" },
+                { "count": 1, "name": "Boss's Orders", "set": "PAL", "number": "172" },
+                { "count": 4, "name": "Battle VIP Pass", "set": "FST", "number": "225" },
+                { "count": 4, "name": "Dark Patch", "set": "ASR", "number": "139" },
+                { "count": 4, "name": "Energy Switch", "set": "SVI", "number": "173" },
+                { "count": 4, "name": "Cross Switcher", "number":"230", "set": "FST" },
+                { "count": 4, "name": "Ultra Ball", "set": "PAF", "number": "91" },
+                { "count": 4, "name": "Earthen Vessel", "set": "PAR", "number": "163" },
+                { "count": 1, "name": "Switch Cart", "set": "ASR", "number": "154" },
+                { "count": 1, "name": "Escape Rope", "set": "BST", "number": "125" },
+                { "count": 1, "name": "Canceling Cologne", "number":"136", "set": "ASR" },
+                { "count": 1, "name": "Trekking Shoes", "set": "CRZ", "number": "145" },
+                { "count": 2, "name": "Forest Seal Stone", "set": "SIT", "number": "156" },
+                { "count": 1, "name": "Emergency Jelly", "number":"155", "set": "SIT" },
+                { "count": 4, "name": "PokéStop", "set": "PGO", "number": "68" },
+                { "count": 1, "name": "Town Store", "number":"196", "set": "OBF" },
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ]
+                { "count": 6, "name": "Darkness Energy - Basic", "number": "7", "set": "SVE" },
+                { "count": 3, "name": "Water Energy - Basic", "number": "3", "set": "SVE" },
+                ]
         }
     },
 ]
