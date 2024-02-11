@@ -243,8 +243,8 @@ let masters = [
         "firstName": "Mathias Bøcker Jakobsen",
         flag: '../../../../assets/flags/denmark.png',
         "event": "2024 Dortmund Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/entei.png',
+        sprite2: '../../../../assets/sprites/iron-valiant.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -297,8 +297,8 @@ let masters = [
         "firstName": "Pedro Vicêncio",
         flag: '../../../../assets/flags/portugal.png',
         "event": "2024 Dortmund Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/charizard.png',
+        sprite1: '../../../../assets/sprites/charizard.png',
+        sprite2: '../../../../assets/sprites/pidgeot.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
