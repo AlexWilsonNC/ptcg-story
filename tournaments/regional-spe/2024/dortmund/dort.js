@@ -1,10 +1,10 @@
 let masters = [
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Owyn Kamerman",
+        flag: '../../../../assets/flags/netherlands.png',
         "event": "2024 Dortmund Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/chien-pao.png',
+        sprite2: '../../../../assets/sprites/baxcalibur.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -18,11 +18,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Jelle van Kampen",
+        flag: '../../../../assets/flags/netherlands.png',
         "event": "2024 Dortmund Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/gholdengo.png',
+        sprite2: '../../../../assets/sprites/palkia-origin.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
