@@ -1,6 +1,6 @@
 let masters = [
   {
-    "firstName": "The Vespa",
+    "firstName": "Thanthawat Chujitngamsuwong",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
     sprite1: "../../../../assets/sprites/comfey.png",
@@ -46,7 +46,7 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Arnan S",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
     sprite1: "../../../../assets/sprites/blank.png",
@@ -64,7 +64,7 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Poonyapat Leelalumler",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
     sprite1: "../../../../assets/sprites/comfey.png",
@@ -82,11 +82,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Aukarawat Somkaisri",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
     sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
+    sprite2: "../../../../assets/sprites/gholdengo.png",
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
@@ -100,7 +100,25 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Puthaned Silpasophon",
+    flag: '../../../../assets/sprites/blank.png',
+    "event": "2024 Thailand Regional League #2",
+    sprite1: "../../../../assets/sprites/comfey.png",
+    sprite2: "../../../../assets/sprites/charizard.png",
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
+      ], "trainer": [
+        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
+      ], "energy": [
+        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
+      ]
+    }
+  },
+  {
+    "firstName": "Tuchchai Pinnaratip",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
     sprite1: "../../../../assets/sprites/arceus.png",
@@ -118,11 +136,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Chutipan Songmanee",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
+    sprite1: "../../../../assets/sprites/charizard.png",
+    sprite2: "../../../../assets/sprites/pidgeot.png",
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
@@ -136,11 +154,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Siwat Insatoon",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
+    sprite1: "../../../../assets/sprites/charizard.png",
+    sprite2: "../../../../assets/sprites/pidgeot.png",
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
@@ -154,11 +172,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Nitikorn Nilkul",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
+    sprite1: "../../../../assets/sprites/charizard.png",
+    sprite2: "../../../../assets/sprites/pidgeot.png",
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
@@ -172,7 +190,25 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Wayu Saengphithak",
+    flag: '../../../../assets/sprites/blank.png',
+    "event": "2024 Thailand Regional League #2",
+    sprite1: "../../../../assets/sprites/giratina-origin.png",
+    sprite2: "../../../../assets/sprites/comfey.png",
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
+      ], "trainer": [
+        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
+      ], "energy": [
+        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
+      ]
+    }
+  },
+  {
+    "firstName": "Jirawetch Vattanakidrungroj",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
     sprite1: "../../../../assets/sprites/blank.png",
@@ -190,11 +226,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Dechapol Dechaumphai",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
+    sprite1: "../../../../assets/sprites/arceus.png",
+    sprite2: "../../../../assets/sprites/rayquaza-vmax.png",
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
@@ -208,11 +244,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Krittamet Santivivattanapong",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
+    sprite1: "../../../../assets/sprites/inteleon-vmax.png",
+    sprite2: "../../../../assets/sprites/urshifu-rapid-strike-gmax.png",
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
@@ -226,11 +262,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Mongkol Boonyaamornrat",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
+    sprite1: "../../../../assets/sprites/giratina-origin.png",
+    sprite2: "../../../../assets/sprites/comfey.png",
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
@@ -244,11 +280,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Phrutthinun Lerksomboon",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
+    sprite1: "../../../../assets/sprites/comfey.png",
+    sprite2: "../../../../assets/sprites/charizard-shiny.png",
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
@@ -262,47 +298,11 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Pipatphoom Rattanakaianan",
     flag: '../../../../assets/sprites/blank.png',
     "event": "2024 Thailand Regional League #2",
     sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    "decklist": {
-      "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
-    }
-  },
-  {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
-    "event": "2024 Thailand Regional League #2",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    "decklist": {
-      "pokemon": [
-        { "count": 3, "name": "Inteleon VMAX", "number": "79", "set": "FST" },
-      ], "trainer": [
-        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-      ], "energy": [
-        { "count": 7, "name": "Water Energy - Basic", "number": "231", "set": "CRE" },
-      ]
-    }
-  },
-  {
-    "firstName": "--",
-    flag: '../../../../assets/sprites/blank.png',
-    "event": "2024 Thailand Regional League #2",
-    sprite1: "../../../../assets/sprites/blank.png",
-    sprite2: "../../../../assets/sprites/hyphen.png",
+    sprite2: "../../../../assets/sprites/gardevoir.png",
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
     "decklist": {
