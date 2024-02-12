@@ -1,7 +1,11 @@
 const worlds = document.querySelectorAll(".worlds");
 const internationals = document.querySelectorAll(".internationals");
 const regionals = document.querySelectorAll(".regionals");
-const regionalLeague = document.querySelectorAll(".regional-league");
+const asiaEvent = document.querySelectorAll(".asia-event");
+const koreanLeague = document.querySelectorAll(".korean-league");
+const regionalLeague = document.querySelectorAll(".regional-league-event");
+const jpChamps = document.querySelectorAll(".jp-championships");
+const championsLeague = document.querySelectorAll(".champions-league");
 const playersCup = document.querySelectorAll(".players-cup");
 const nationals = document.querySelectorAll(".nationals");
 const stadiumChallenge = document.querySelectorAll(".stadium-challenge");
@@ -23,9 +27,9 @@ function filterEvents() {
         regionals.style.display = 'table-row';
         regionals.classList.remove('new-red-bg');
     });
-    regionalLeague.forEach((regionalLeague) => {
-        regionalLeague.style.display = 'table-row';
-        regionalLeague.classList.remove('new-red-bg');
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'table-row';
+        asiaEvent.classList.remove('new-red-bg');
     });
     playersCup.forEach((playersCup) => {
         playersCup.style.display = 'table-row';
@@ -58,8 +62,8 @@ function filterEvents() {
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
     });
-    regionalLeague.forEach((regionalLeague) => {
-        regionalLeague.style.display = 'none';
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
     });
     playersCup.forEach((playersCup) => {
         playersCup.style.display = 'none';
@@ -87,8 +91,8 @@ function filterEvents() {
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
     });
-    regionalLeague.forEach((regionalLeague) => {
-        regionalLeague.style.display = 'none';
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
     });
     playersCup.forEach((playersCup) => {
         playersCup.style.display = 'none';
@@ -116,8 +120,8 @@ function filterEvents() {
         regionals.style.display = 'table-row';
         regionals.classList.add('new-red-bg');
     });
-    regionalLeague.forEach((regionalLeague) => {
-        regionalLeague.style.display = 'none';
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
     });
     playersCup.forEach((playersCup) => {
         playersCup.style.display = 'none';
@@ -134,16 +138,144 @@ function filterEvents() {
     specialEvent.forEach((specialEvent) => {
         specialEvent.style.display = 'none';
     });
-    } else if (x === "regional-league") {
+    } else if (x === "asia-event") {
     worlds.forEach((worlds) => {
         worlds.style.display = 'none';
     });
     internationals.forEach((internationals) => {
         internationals.style.display = 'none';
     });
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'table-row';
+        asiaEvent.classList.add('new-red-bg');
+    });
+    regionals.forEach((regionals) => {
+        regionals.style.display = 'none';
+    });
+    playersCup.forEach((playersCup) => {
+        playersCup.style.display = 'none';
+    });
+    nationals.forEach((nationals) => {
+        nationals.style.display = 'none';
+    });
+    stadiumChallenge.forEach((stadiumChallenge) => {
+        stadiumChallenge.style.display = 'none';
+    });
+    superTrainerShowdown.forEach((superTrainerShowdown) => {
+        superTrainerShowdown.style.display = 'none';
+    });
+    specialEvent.forEach((specialEvent) => {
+        specialEvent.style.display = 'none';
+    });
+    } else if (x === "korean-league") {
+    worlds.forEach((worlds) => {
+        worlds.style.display = 'none';
+    });
+    internationals.forEach((internationals) => {
+        internationals.style.display = 'none';
+    });
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
+    });
+    koreanLeague.forEach((koreanLeague) => {
+        koreanLeague.style.display = 'table-row';
+        koreanLeague.classList.add('new-red-bg');
+    });
+    regionals.forEach((regionals) => {
+        regionals.style.display = 'none';
+    });
+    playersCup.forEach((playersCup) => {
+        playersCup.style.display = 'none';
+    });
+    nationals.forEach((nationals) => {
+        nationals.style.display = 'none';
+    });
+    stadiumChallenge.forEach((stadiumChallenge) => {
+        stadiumChallenge.style.display = 'none';
+    });
+    superTrainerShowdown.forEach((superTrainerShowdown) => {
+        superTrainerShowdown.style.display = 'none';
+    });
+    specialEvent.forEach((specialEvent) => {
+        specialEvent.style.display = 'none';
+    });
+    } else if (x === "champions-league") {
+    worlds.forEach((worlds) => {
+        worlds.style.display = 'none';
+    });
+    internationals.forEach((internationals) => {
+        internationals.style.display = 'none';
+    });
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
+    });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'table-row';
+        championsLeague.classList.add('new-red-bg');
+    });
+    regionals.forEach((regionals) => {
+        regionals.style.display = 'none';
+    });
+    playersCup.forEach((playersCup) => {
+        playersCup.style.display = 'none';
+    });
+    nationals.forEach((nationals) => {
+        nationals.style.display = 'none';
+    });
+    stadiumChallenge.forEach((stadiumChallenge) => {
+        stadiumChallenge.style.display = 'none';
+    });
+    superTrainerShowdown.forEach((superTrainerShowdown) => {
+        superTrainerShowdown.style.display = 'none';
+    });
+    specialEvent.forEach((specialEvent) => {
+        specialEvent.style.display = 'none';
+    });
+    } else if (x === "regional-league-event") {
+    worlds.forEach((worlds) => {
+        worlds.style.display = 'none';
+    });
+    internationals.forEach((internationals) => {
+        internationals.style.display = 'none';
+    });
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
+    });
     regionalLeague.forEach((regionalLeague) => {
         regionalLeague.style.display = 'table-row';
         regionalLeague.classList.add('new-red-bg');
+    });
+    regionals.forEach((regionals) => {
+        regionals.style.display = 'none';
+    });
+    playersCup.forEach((playersCup) => {
+        playersCup.style.display = 'none';
+    });
+    nationals.forEach((nationals) => {
+        nationals.style.display = 'none';
+    });
+    stadiumChallenge.forEach((stadiumChallenge) => {
+        stadiumChallenge.style.display = 'none';
+    });
+    superTrainerShowdown.forEach((superTrainerShowdown) => {
+        superTrainerShowdown.style.display = 'none';
+    });
+    specialEvent.forEach((specialEvent) => {
+        specialEvent.style.display = 'none';
+    });
+    } else if (x === "jp-championships") {
+    worlds.forEach((worlds) => {
+        worlds.style.display = 'none';
+    });
+    internationals.forEach((internationals) => {
+        internationals.style.display = 'none';
+    });
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
+    });
+    jpChamps.forEach((jpChamps) => {
+        jpChamps.style.display = 'table-row';
+        jpChamps.classList.add('new-red-bg');
     });
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
@@ -173,8 +305,8 @@ function filterEvents() {
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
     });
-    regionalLeague.forEach((regionalLeague) => {
-        regionalLeague.style.display = 'none';
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
     });
     playersCup.forEach((playersCup) => {
         playersCup.style.display = 'table-row';
@@ -202,8 +334,8 @@ function filterEvents() {
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
     });
-    regionalLeague.forEach((regionalLeague) => {
-        regionalLeague.style.display = 'none';
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
     });
     playersCup.forEach((playersCup) => {
         playersCup.style.display = 'none';
@@ -231,8 +363,8 @@ function filterEvents() {
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
     });
-    regionalLeague.forEach((regionalLeague) => {
-        regionalLeague.style.display = 'none';
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
     });
     playersCup.forEach((playersCup) => {
         playersCup.style.display = 'none';
@@ -260,8 +392,8 @@ function filterEvents() {
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
     });
-    regionalLeague.forEach((regionalLeague) => {
-        regionalLeague.style.display = 'none';
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
     });
     playersCup.forEach((playersCup) => {
         playersCup.style.display = 'none';
@@ -289,8 +421,8 @@ function filterEvents() {
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
     });
-    regionalLeague.forEach((regionalLeague) => {
-        regionalLeague.style.display = 'none';
+    asiaEvent.forEach((asiaEvent) => {
+        asiaEvent.style.display = 'none';
     });
     playersCup.forEach((playersCup) => {
         playersCup.style.display = 'none';
