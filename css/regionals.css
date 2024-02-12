@@ -19,18 +19,28 @@
     background-color: #191919;
     border-top: 2px solid grey;
     color: #E1E1E1;
+    z-index: -2;
+    /* white-space: nowrap; */
 }
 .place-n-flag {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
-.regional-info-bg-logo {
-    opacity: 0.1;
+.regional-info-bg-logo-kl {
+    opacity: 0.5;
+    position: absolute;
+    height: 120px;width:auto;
+    left: 50%;
+    margin-left: -60px;
+}
+.regional-info-bg-logo-reg {
+    opacity: 0.5;
     position: absolute;
     height: 130px;width:auto;
     left: 50%;
-    margin-left: -65px;
+    margin-left: -58px;
+    z-index: -1;
 }
 .regional-container a {
     color: rgb(224, 160, 22);
@@ -134,9 +144,14 @@
     .place-n-flag img {
         width: 28px;height:auto;
     }
-    .regional-info-bg-logo {
+    .regional-info-bg-logo-kl {
         height: 110px;
         margin-left: -55px;
+    }
+    .regional-info-bg-logo-reg {
+        height: 110px;
+        left: 50%;
+        margin-left: -49px;
     }
 }
 @media screen and (max-width: 1050px) {
@@ -181,9 +196,13 @@
     .results-list-item {
         width: 500px;
     }
-    .regional-info-bg-logo {
+    .regional-info-bg-logo-kl {
         height: 90px;
         margin-left: -45px;
+    }
+    .regional-info-bg-logo-reg {
+        height: 90px;
+        margin-left: -39px;
     }
 }
 @media screen and (max-width: 675px) {
@@ -229,11 +248,17 @@
     .pending h3 { 
         font-size: 12px !important;
     }
-    .regional-info-bg-logo {
+    .regional-info-bg-logo-kl {
         height: 100px;
         margin-left: -100px;
         left: 80%;
-        top: 12%;
+        top: 9%;
+    }
+    .regional-info-bg-logo-reg {
+        height: 120px;
+        margin-left: -39px;
+        left: 80%;
+        top: 8%;
     }
 }
 @media screen and (max-width: 570px) {
@@ -311,10 +336,14 @@
     .place-n-flag img {
         margin: -3px 0 2px;   
     }
-    .regional-info-bg-logo {
+    .regional-info-bg-logo-kl {
         height: 80px;
         margin-left: -100px;
         left: 85%;
+        top: 10%;
+    }
+    .regional-info-bg-logo-reg {
+        height: 100px;
         top: 10%;
     }
 }
