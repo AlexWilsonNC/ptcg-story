@@ -536,16 +536,42 @@ let masters = [
         "event": "2024 Dortmund Regionals",
         sprite1: '../../../../assets/sprites/comfey.png',
         sprite2: '../../../../assets/sprites/sableye.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
+                { "count": 1, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
+                { "count": 1, "name": "Roaring Moon ex", "number": "124", "set": "PAR" },
+                { "count": 1, "name": "Galarian Moltres V", "number": "97", "set": "CRE" },
+                { "count": 1, "name": "Tropius", "number": "6", "set": "EVS" },
+                { "count": 1, "name": "Minior", "number": "99", "set": "PAR" },
+                { "count": 1, "name": "Cramorant", "number": "50", "set": "LOR" },
+                { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+                { "count": 1, "name": "Mew ex", "number": "151", "set": "MEW" },
             ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
+                { "count": 1, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 1, "name": "Raihan", "number": "140", "set": "CRZ" },
+                { "count": 1, "name": "Roxanne", "number": "150", "set": "ASR" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Mirage Gate", "number": "163", "set": "LOR" },
+                { "count": 4, "name": "Switch Cart", "number": "154", "set": "ASR" },
+                { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 3, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 3, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 1, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 1, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 2, "name": "Supereffective Glasses", "number": "152", "set": "ASR" },
+                { "count": 1, "name": "Bravery Charm", "number": "173", "set": "PAL" },
+                { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 2, "name": "Town Store", "number": "196", "set": "OBF" },
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ]
+                { "count": 5, "name": "Basic Darkness Energy", "number": "7", "set": "SVE" },
+                { "count": 2, "name": "Basic Grass Energy", "number": "1", "set": "SVE" },
+                { "count": 2, "name": "Basic Lightning Energy", "number": "4", "set": "SVE" },
+                      ]
         }
     },
     {
