@@ -5,15 +5,33 @@ let masters = [
         "event": "2024 Dortmund Regionals",
         sprite1: '../../../../assets/sprites/chien-pao.png',
         sprite2: '../../../../assets/sprites/baxcalibur.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Chien-Pao ex", "number": "61", "set": "PAL" },
+                { "count": 2, "name": "Baxcalibur", "number": "60", "set": "PAL" },
+                { "count": 2, "name": "Frigibax", "number": "57", "set": "PAL" },
+                { "count": 1, "name": "Frigibax", "number": "58", "set": "PAL" },
+                { "count": 2, "name": "Bibarel", "number": "121", "set": "BRS" },
+                { "count": 2, "name": "Bidoof", "number": "111", "set": "CRZ" },
+                { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+                { "count": 1, "name": "Iron Hands ex", "number": "70", "set": "PAR" }
             ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 4, "name": "Irida", "number": "147", "set": "ASR" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Ultra Ball", "number": "150", "set": "BRS" },
+                { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+                { "count": 4, "name": "Superior Energy Retrieval", "number": "189", "set": "PAL" },
+                { "count": 4, "name": "Cross Switcher", "number": "230", "set": "FST" },
+                { "count": 3, "name": "Rare Candy", "number": "142", "set": "CES" },
+                { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 2, "name": "Earthen Vessel", "number": "163", "set": "PAR" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 4, "name": "PokeStop", "number": "68", "set": "PGO" },
             ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 8, "name": "Water Energy - Basic", "number": "3", "set": "SVE" },
+                { "count": 1, "name": "Lightning Energy - Basic", "number": "4", "set": "SVE" }
             ]
         }
     },
@@ -105,9 +123,9 @@ let masters = [
                 { "count": 4, "name": "Genesect V", "number": "185", "set": "FST" },
                 { "count": 1, "name": "Meloetta", "number": "124", "set": "FST" },
                 { "count": 1, "name": "Eiscue", "number": "44", "set": "BRS" },
-              ],
-              "trainer": [
-                { "count": 2, "name": "Elesa's Sparkle", "number":"233", "set": "FST" },
+            ],
+            "trainer": [
+                { "count": 2, "name": "Elesa's Sparkle", "number": "233", "set": "FST" },
                 { "count": 2, "name": "Judge", "number": "176", "set": "SVI" },
                 { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
                 { "count": 1, "name": "Roxanne", "number": "150", "set": "ASR" },
@@ -125,9 +143,9 @@ let masters = [
                 { "count": 1, "name": "Choice Belt", "number": "176", "set": "PAL" },
                 { "count": 2, "name": "Lost City", "number": "161", "set": "LOR" },
                 { "count": 1, "name": "Path to the Peak", "number": "148", "set": "CRE" },
-              ],
-              "energy": [
-                { "count": 4, "name": "Fusion Strike Energy - Special", "number": "244", "set": "FST" },          
+            ],
+            "energy": [
+                { "count": 4, "name": "Fusion Strike Energy - Special", "number": "244", "set": "FST" },
                 { "count": 3, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
             ]
         }
@@ -157,7 +175,7 @@ let masters = [
                 { "count": 1, "name": "Professor's Research", "set": "PAF", "number": "88" },
                 { "count": 1, "name": "Boss's Orders", "set": "PAL", "number": "172" },
                 { "count": 1, "name": "Worker", "set": "SIT", "number": "167" },
-                { "count": 1, "name": "Professor Turo's Scenario", "number":"171", "set": "PAR" },
+                { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
                 { "count": 4, "name": "Level Ball", "set": "BST", "number": "129" },
                 { "count": 3, "name": "Battle VIP Pass", "set": "FST", "number": "225" },
                 { "count": 3, "name": "Ultra Ball", "set": "PAF", "number": "91" },
@@ -196,10 +214,10 @@ let masters = [
                 { "count": 1, "name": "Manaphy", "set": "BRS", "number": "41" },
             ], "trainer": [
                 { "count": 4, "name": "Iono", "set": "PAF", "number": "80" },
-                { "count": 2, "name": "Avery", "number":"130", "set": "CRE" },
+                { "count": 2, "name": "Avery", "number": "130", "set": "CRE" },
                 { "count": 1, "name": "Boss's Orders", "set": "PAL", "number": "172" },
                 { "count": 1, "name": "Worker", "set": "SIT", "number": "167" },
-                { "count": 1, "name": "Professor Turo's Scenario", "number":"171", "set": "PAR" },
+                { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
                 { "count": 4, "name": "Battle VIP Pass", "set": "FST", "number": "225" },
                 { "count": 3, "name": "Level Ball", "set": "BST", "number": "129" },
                 { "count": 3, "name": "Ultra Ball", "set": "PAF", "number": "91" },
@@ -232,7 +250,7 @@ let masters = [
                 { "count": 4, "name": "Ralts", "set": "ASR", "number": "60" },
                 { "count": 1, "name": "Zacian V", "set": "CEL", "number": "16" },
                 { "count": 1, "name": "Cresselia", "number": "74", "set": "LOR" },
-                { "count": 1, "name": "Lumineon V", "number":"40", "set": "BRS" },
+                { "count": 1, "name": "Lumineon V", "number": "40", "set": "BRS" },
                 { "count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46" },
                 { "count": 1, "name": "Manaphy", "set": "BRS", "number": "41" },
                 { "count": 1, "name": "Jirachi", "set": "PAR", "number": "126" },
@@ -241,7 +259,7 @@ let masters = [
                 { "count": 1, "name": "Professor's Research", "set": "PAF", "number": "88" },
                 { "count": 1, "name": "Boss's Orders", "set": "PAL", "number": "172" },
                 { "count": 1, "name": "Worker", "set": "SIT", "number": "167" },
-                { "count": 1, "name": "Professor Turo's Scenario", "number":"171", "set": "PAR" },
+                { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
                 { "count": 4, "name": "Level Ball", "set": "BST", "number": "129" },
                 { "count": 4, "name": "Ultra Ball", "set": "PAF", "number": "91" },
                 { "count": 3, "name": "Fog Crystal", "set": "CRE", "number": "140" },
@@ -410,7 +428,7 @@ let masters = [
                 { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
                 { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
                 { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" },
-              ], "trainer": [
+            ], "trainer": [
                 { "count": 3, "name": "Arven", "number": "186", "set": "OBF" },
                 { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
                 { "count": 3, "name": "Iono", "number": "185", "set": "PAL" },
@@ -429,9 +447,9 @@ let masters = [
                 { "count": 1, "name": "Artazon", "number": "171", "set": "PAL" },
                 { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
                 { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" },
-              ], "energy": [
+            ], "energy": [
                 { "count": 6, "name": "Fire Energy - Basic", "number": "2", "set": "SVE" },
-                    ]
+            ]
         }
     },
     {
@@ -473,7 +491,7 @@ let masters = [
             ], "energy": [
                 { "count": 10, "name": "Psychic Energy", "set": "SVE", "number": "5" },
                 { "count": 2, "name": "Reversal Energy", "set": "PAL", "number": "192" },
-                ]
+            ]
         }
     },
     {
@@ -628,7 +646,7 @@ let masters = [
                 { "count": 1, "name": "Professor's Research", "set": "PAF", "number": "88" },
                 { "count": 1, "name": "Boss's Orders", "set": "PAL", "number": "172" },
                 { "count": 1, "name": "Worker", "set": "SIT", "number": "167" },
-                { "count": 1, "name": "Professor Turo's Scenario", "number":"171", "set": "PAR" },
+                { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
                 { "count": 4, "name": "Battle VIP Pass", "set": "FST", "number": "225" },
                 { "count": 3, "name": "Level Ball", "set": "BST", "number": "129" },
                 { "count": 3, "name": "Ultra Ball", "set": "PAF", "number": "91" },
@@ -679,7 +697,7 @@ let masters = [
                 { "count": 3, "name": "Grass Energy", "number": "1", "set": "SVE" },
                 { "count": 2, "name": "Water Energy", "number": "3", "set": "SVE" },
                 { "count": 4, "name": "Jet Energy", "set": "PAL", "number": "190" },
-                ]
+            ]
         }
     },
     {
@@ -723,7 +741,7 @@ let masters = [
                 { "count": 4, "name": "Iono", "set": "PAF", "number": "80" },
                 { "count": 2, "name": "Professor's Research", "set": "PAF", "number": "88" },
                 { "count": 1, "name": "Boss's Orders", "set": "PAL", "number": "172" },
-                { "count": 1, "name": "Professor Turo's Scenario", "number":"171", "set": "PAR" },
+                { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
                 { "count": 4, "name": "Battle VIP Pass", "set": "FST", "number": "225" },
                 { "count": 3, "name": "Level Ball", "set": "BST", "number": "129" },
                 { "count": 3, "name": "Ultra Ball", "set": "PAF", "number": "91" },
@@ -815,7 +833,7 @@ let masters = [
                 { "count": 4, "name": "Colress's Experiment", "set": "LOR", "number": "155" },
                 { "count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172" },
                 { "count": 2, "name": "Iono", "set": "PAF", "number": "80" },
-                { "count": 1, "name": "Raihan", "number":"140", "set": "CRZ" },
+                { "count": 1, "name": "Raihan", "number": "140", "set": "CRZ" },
                 { "count": 4, "name": "Battle VIP Pass", "set": "FST", "number": "225" },
                 { "count": 4, "name": "Mirage Gate", "set": "LOR", "number": "163" },
                 { "count": 4, "name": "Switch", "set": "SVI", "number": "194" },
@@ -824,8 +842,8 @@ let masters = [
                 { "count": 2, "name": "Switch Cart", "set": "ASR", "number": "154" },
                 { "count": 1, "name": "Escape Rope", "set": "BST", "number": "125" },
                 { "count": 1, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
-                { "count": 1, "name": "Lost Vacuum", "number":"135", "set": "CRZ" },
-                { "count": 1, "name": "Leafy Camo Poncho", "number":"160", "set": "SIT" },
+                { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 1, "name": "Leafy Camo Poncho", "number": "160", "set": "SIT" },
                 { "count": 1, "name": "Technical Machine: Devolution", "set": "PAR", "number": "177" },
                 { "count": 2, "name": "Path to the Peak", "number": "148", "set": "CRE" },
             ], "energy": [
@@ -869,14 +887,14 @@ let masters = [
                 { "count": 3, "name": "Kirlia", "set": "SIT", "number": "68" },
                 { "count": 3, "name": "Ralts", "set": "SIT", "number": "67" },
                 { "count": 1, "name": "Mew ex", "set": "MEW", "number": "151" },
-                { "count": 1, "name": "Radiant Alakazam", "number":"59", "set": "SIT" },
+                { "count": 1, "name": "Radiant Alakazam", "number": "59", "set": "SIT" },
                 { "count": 1, "name": "Spiritomb", "set": "PAL", "number": "89" },
                 { "count": 1, "name": "Dreepy", "set": "FST", "number": "128" },
             ], "trainer": [
                 { "count": 4, "name": "Iono", "set": "PAF", "number": "80" },
                 { "count": 2, "name": "Professor's Research", "set": "PAF", "number": "88" },
                 { "count": 2, "name": "Boss's Orders", "set": "PAL", "number": "172" },
-                { "count": 2, "name": "Professor Turo's Scenario", "number":"171", "set": "PAR" },
+                { "count": 2, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
                 { "count": 4, "name": "Battle VIP Pass", "set": "FST", "number": "225" },
                 { "count": 4, "name": "Ultra Ball", "set": "PAF", "number": "91" },
                 { "count": 4, "name": "Fog Crystal", "set": "CRE", "number": "140" },
@@ -905,7 +923,7 @@ let masters = [
                 { "count": 1, "name": "Morpeko", "set": "PAR", "number": "121" },
                 { "count": 1, "name": "Mew ex", "set": "MEW", "number": "151" },
                 { "count": 1, "name": "Squawkabilly ex", "set": "PAF", "number": "75" },
-                { "count": 1, "name": "Lumineon V", "number":"40", "set": "BRS" },
+                { "count": 1, "name": "Lumineon V", "number": "40", "set": "BRS" },
                 { "count": 1, "name": "Radiant Greninja", "set": "ASR", "number": "46" },
                 { "count": 1, "name": "Mew", "set": "CEL", "number": "11" },
             ], "trainer": [
@@ -914,21 +932,21 @@ let masters = [
                 { "count": 4, "name": "Battle VIP Pass", "set": "FST", "number": "225" },
                 { "count": 4, "name": "Dark Patch", "set": "ASR", "number": "139" },
                 { "count": 4, "name": "Energy Switch", "set": "SVI", "number": "173" },
-                { "count": 4, "name": "Cross Switcher", "number":"230", "set": "FST" },
+                { "count": 4, "name": "Cross Switcher", "number": "230", "set": "FST" },
                 { "count": 4, "name": "Ultra Ball", "set": "PAF", "number": "91" },
                 { "count": 4, "name": "Earthen Vessel", "set": "PAR", "number": "163" },
                 { "count": 1, "name": "Switch Cart", "set": "ASR", "number": "154" },
                 { "count": 1, "name": "Escape Rope", "set": "BST", "number": "125" },
-                { "count": 1, "name": "Canceling Cologne", "number":"136", "set": "ASR" },
+                { "count": 1, "name": "Canceling Cologne", "number": "136", "set": "ASR" },
                 { "count": 1, "name": "Trekking Shoes", "set": "CRZ", "number": "145" },
                 { "count": 2, "name": "Forest Seal Stone", "set": "SIT", "number": "156" },
-                { "count": 1, "name": "Emergency Jelly", "number":"155", "set": "SIT" },
+                { "count": 1, "name": "Emergency Jelly", "number": "155", "set": "SIT" },
                 { "count": 4, "name": "PokéStop", "set": "PGO", "number": "68" },
-                { "count": 1, "name": "Town Store", "number":"196", "set": "OBF" },
+                { "count": 1, "name": "Town Store", "number": "196", "set": "OBF" },
             ], "energy": [
                 { "count": 6, "name": "Darkness Energy - Basic", "number": "7", "set": "SVE" },
                 { "count": 3, "name": "Water Energy - Basic", "number": "3", "set": "SVE" },
-                ]
+            ]
         }
     },
 ]
