@@ -332,7 +332,7 @@ let masters = [
         }
     },
     {
-        "firstName": "Goncalo Pereira",
+        "firstName": "Gonçalo Pereira",
         flag: '../../../../assets/flags/portugal.png',
         "event": "2024 Dortmund Regionals",
         sprite1: '../../../../assets/sprites/mew-vmax.png',
