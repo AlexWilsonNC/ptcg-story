@@ -19,8 +19,6 @@
     background-color: #191919;
     border-top: 2px solid grey;
     color: #E1E1E1;
-    z-index: -2;
-    /* white-space: nowrap; */
 }
 .place-n-flag {
     display: flex;
@@ -40,7 +38,6 @@
     height: 130px;width:auto;
     left: 50%;
     margin-left: -58px;
-    z-index: -1;
 }
 .regional-container a {
     color: rgb(224, 160, 22);
