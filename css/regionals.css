@@ -19,6 +19,7 @@
     background-color: #191919;
     border-top: 2px solid grey;
     color: #E1E1E1;
+    z-index: 0;
 }
 .place-n-flag {
     display: flex;
@@ -31,6 +32,7 @@
     height: 120px;width:auto;
     left: 50%;
     margin-left: -60px;
+    z-index: -1;
 }
 .regional-info-bg-logo-reg {
     opacity: 0.5;
@@ -38,6 +40,7 @@
     height: 130px;width:auto;
     left: 50%;
     margin-left: -58px;
+    z-index: -1;
 }
 .regional-container a {
     color: rgb(224, 160, 22);
@@ -80,9 +83,10 @@
 .pending {
     display: flex;
     justify-content: center;
-    margin-top: 35px;
+    margin-top: 50px;
     margin-left: 50px;
     text-align: center;
+    max-width: 80%;
 }
 .reg-hr {
     display: none;
