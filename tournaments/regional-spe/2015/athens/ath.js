@@ -206,8 +206,8 @@ let masters = [
         "firstName": "Brandon Cantu",
         flag: '../../../../assets/flags/usa.png',
         "event": "2015 Athens Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/virizion.png',
+        sprite2: '../../../../assets/sprites/ho-oh.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
