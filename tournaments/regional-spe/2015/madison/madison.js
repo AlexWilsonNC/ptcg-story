@@ -248,7 +248,7 @@ let masters = [
                 { "count": 1, "name": "Scoop up Cyclone", "number": "95", "set": "PLB" },
                 { "count": 4, "name": "Sky Field", "number": "89", "set": "ROS" },
             ], "energy": [
-                { "count": 5, "name": "Dark", "number": "111", "set": "BLW" },
+                { "count": 5, "name": "Darkness", "number": "111", "set": "BLW" },
                 { "count": 4, "name": "Double Colorless Energy", "number": "111", "set": "PHF" },
             ]
         }
@@ -806,7 +806,7 @@ let masters = [
         flag: '../../../../assets/flags/usa.png',
         "event": "2015 Madison Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/seismitoad.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
