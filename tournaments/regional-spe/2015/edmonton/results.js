@@ -164,7 +164,7 @@ let masters = [
     },
     {
         "firstName": "Alex Stewart",
-        flag: '../../../../assets/flags/unknown.png',
+        flag: '../../../../assets/flags/canada.png',
         "event": "2015 Edmonton Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/yveltal.png',
