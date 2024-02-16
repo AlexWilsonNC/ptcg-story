@@ -9,6 +9,7 @@ const navleftr = document.getElementById('nav-leftr');
 const upcomingeventstable = document.querySelectorAll('.upcoming-events-table');
 const featuredheaders = document.querySelectorAll('.featured-headers');
 const navrightr = document.getElementById('nav-rightr');
+const latestppr = document.querySelector('.latest-ppr');
  
 const sortevents = document.querySelectorAll('.sort-events');
 const dropitdown2 = document.querySelector('.drop-it-down2');
@@ -21,6 +22,9 @@ const enableDarkMode = () => {
     menuToggle.classList.add('darkon');
     navleftr.classList.add('darkon');
     navrightr.classList.add('darkon');
+    if (latestppr) {
+      latestppr.classList.add('darkon');
+    }
     // dropitdown1.classList.add('darkon');
     dropitdown2.classList.add('darkon');
     if (sortevents) {
@@ -52,6 +56,9 @@ const enableDarkMode = () => {
       sortevents.forEach((sortevents) => {
         sortevents.classList.remove('darkon');
       })   
+    }
+    if (latestppr) {
+      latestppr.classList.remove('darkon');
     }
     featuredheaders.forEach((featuredheaders) => {
       featuredheaders.classList.remove('darkon');
