@@ -1,6 +1,6 @@
 let masters = [
   {
-    "firstName": "@daisuke_pokeka",
+    "firstName": "Daisuke Kubo",
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/lugia.png',
@@ -39,7 +39,7 @@ let masters = [
     }
   },
   {
-    "firstName": "@miTSUriN_miri",
+    "firstName": "Shintaro Fukui",
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/arceus.png',
@@ -79,7 +79,25 @@ let masters = [
     }
   },
   {
-    "firstName": "@karuta_pcg",
+    "firstName": "Tatuyoshi Kosho",
+    flag: '../../../../assets/flags/japan.png',
+    "event": "2024 Fukuoka Champions League",
+    sprite1: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/hyphen.png',
+    // list: '../../../../assets/list-icon.png',
+    list: '../../../../assets/sprites/blank.png',
+    "decklist": {
+      "pokemon": [
+        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+      ], "trainer": [
+        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+      ], "energy": [
+        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+      ]
+    }
+  },
+  {
+    "firstName": "Kenta Mori",
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/charizard.png',
@@ -123,7 +141,7 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Kento Imao",
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/blank.png',
@@ -141,7 +159,7 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Hajime Fujiwara",
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/blank.png',
@@ -159,7 +177,7 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
+    "firstName": "Kai Itazu",
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/blank.png',
@@ -177,25 +195,7 @@ let masters = [
     }
   },
   {
-    "firstName": "--",
-    flag: '../../../../assets/flags/japan.png',
-    "event": "2024 Fukuoka Champions League",
-    sprite1: '../../../../assets/sprites/blank.png',
-    sprite2: '../../../../assets/sprites/hyphen.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
-    "decklist": {
-      "pokemon": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ], "energy": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ]
-    }
-  },
-  {
-    "firstName": "--",
+    "firstName": "Hayato Kondo",
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/blank.png',
