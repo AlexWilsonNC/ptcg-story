@@ -12,6 +12,7 @@ const dropitdown2 = document.querySelector('.drop-it-down2');
 const placeflag = document.querySelector('.regional-info');
 const regionalcontainer = document.querySelector('.regional-container');
 const regionalresult = document.querySelector('.regional-result');
+const justinbasil = document.querySelector('.justinbasil');
 
 const mastersol = document.querySelector('.masters-ol');
 const seniorsol = document.querySelector('.seniors-ol');
@@ -35,6 +36,9 @@ const enableDarkMode = () => {
     hiyamodal.classList.add('darkon');
 
     placeflag.classList.add('darkon');
+    if (justinbasil) {
+      justinbasil.classList.add('darkon');
+    }
     regionalcontainer.classList.add('darkon');
     regionalresult.classList.add('darkon');
 
@@ -66,6 +70,9 @@ const enableDarkMode = () => {
     toggle.classList.remove('darkon');
     topnavr.classList.remove('darkon');
     menu.classList.remove('darkon');
+    if (justinbasil) {
+      justinbasil.classList.remove('darkon');
+    }
     menuToggle.classList.remove('darkon');
     navleftr.classList.remove('darkon');
     navrightr.classList.remove('darkon');
