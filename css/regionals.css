@@ -34,6 +34,9 @@
     margin-left: -60px;
     z-index: -1;
 }
+.hidden-me {
+    display: none !important;
+}
 .regional-info-bg-logo-reg {
     opacity: 0.5;
     position: absolute;
