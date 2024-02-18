@@ -54,5 +54,21 @@ let fr = [
             "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403248680-7AUURXPT5WT83RAQ12LV/SV5_17.png?format=750w",
             "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403248680-7AUURXPT5WT83RAQ12LV/SV5_17.png?format=750w"
         }
+    },
+    {
+        "id": "fr-8",
+        "name": "PRIME CATCHER",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403615770-M1Q42WZ1WKHREVWEQPX2/SV5_14.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403615770-M1Q42WZ1WKHREVWEQPX2/SV5_14.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-9",
+        "name": "PRIME CATCHER",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704511786862-A4RN2L2DAZPZ74TNQ272/Buddy+Poffin.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704511786862-A4RN2L2DAZPZ74TNQ272/Buddy+Poffin.png?format=750w"
+        }
     }
 ]
