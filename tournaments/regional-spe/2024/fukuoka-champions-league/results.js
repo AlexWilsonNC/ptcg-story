@@ -347,8 +347,8 @@ let masters = [
         { "count": 3, "name": "Artazon", "number": "171", "set": "PAL" },
 
       ], "energy": [
-        { "count": 4, "name": "fIGHTING Energy - Basic", "number": "5", "set": "sve" },
-        { "count": 2, "name": "Psychic Energy - Basic", "number": "6", "set": "sve" },
+        { "count": 4, "name": "fIGHTING Energy - Basic", "number": "6", "set": "SVE" },
+        { "count": 2, "name": "Psychic Energy - Basic", "number": "5", "set": "SVE" },
         { "count": 4, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
       ]
     }
@@ -395,15 +395,39 @@ let masters = [
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/charizard.png',
     sprite2: '../../../../assets/sprites/pidgeot.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 3, "name": "Charizard ex", "number": "125", "set": "OBF" },
+        { "count": 1, "name": "Charmeleon", "number": "8", "set": "PAF" },
+        { "count": 4, "name": "Charmander", "number": "26", "set": "OBF" },
+        { "count": 2, "name": "Pidgeot ex", "number": "164", "set": "OBF" },
+        { "count": 2, "name": "Pidgey", "number": "16", "set": "MEW" },
+        { "count": 1, "name": "Radiant Charizard", "number": "20", "set": "CRZ" },
+        { "count": 1, "name": "Rotom V", "number": "58", "set": "LOR" },
+        { "count": 1, "name": "Lumineon V", "number": "250", "set": "PR-SW" },
+        { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+        { "count": 1, "name": "Jirachi", "number": "126", "set": "PAR" },
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
+        { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+        { "count": 3, "name": "Iono", "number": "185", "set": "PAL" },
+        { "count": 1, "name": "Roxanne", "number": "150", "set": "ASR" },
+        { "count": 4, "name": "buddy poffin", "number": "9", "set": "FR" },
+        { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+        { "count": 4, "name": "Rare Candy", "number": "191", "set": "SVI" },
+        { "count": 3, "name": "Nest Ball", "number": "181", "set": "SVI" },
+        { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+        { "count": 2, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+        { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+        { "count": 1, "name": "Switch", "number": "194", "set": "SVI" },
+        { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+        { "count": 1, "name": "Defiance Band", "number": "169", "set": "SVI" },
+        { "count": 1, "name": "HERO CAPE", "number": "15", "set": "FR" },
+        { "count": 1, "name": "Lost City", "number": "161", "set": "LOR" },
+        { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
       ], "energy": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 6, "name": "Fire Energy - Basic", "number": "2", "set": "SVE" },
       ]
     }
   },
@@ -412,17 +436,42 @@ let masters = [
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/comfey.png',
-    sprite2: '../../../../assets/sprites/sableye.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    sprite2: '../../../../assets/sprites/roaring-moon.png',
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 4, "name": "Comfey", "number": "79", "set": "LOR" },
+        { "count": 1, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
+        { "count": 1, "name": "Roaring Moon ex", "number": "124", "set": "PAR" },
+        { "count": 1, "name": "Raikou V", "number": "48", "set": "BRS" },
+        { "count": 2, "name": "Sableye", "number": "70", "set": "LOR" },
+        { "count": 1, "name": "Cramorant", "number": "50", "set": "LOR" },
+        { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+        { "count": 1, "name": "Iron Bundle", "number": "56", "set": "PAR" },
+        { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" }
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ], "energy": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ]
+        { "count": 4, "name": "Colress's Experiment", "number": "155", "set": "LOR" },
+        { "count": 2, "name": "Roxanne", "number": "150", "set": "ASR" },
+        { "count": 4, "name": "Mirage Gate", "number": "163", "set": "LOR" },
+        { "count": 4, "name": "Switch Cart", "number": "154", "set": "ASR" },
+        { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+        { "count": 4, "name": "Super Rod", "number": "188", "set": "PAL" },
+        { "count": 3, "name": "buddy poffin", "number": "9", "set": "FR" },
+        { "count": 3, "name": "Switch", "number": "147", "set": "CES" },
+        { "count": 1, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+        { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+        { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+        { "count": 1, "name": "Prime Catcher", "number": "7", "set": "FR" },
+        { "count": 1, "name": "emerg board", "number": "12", "set": "FR" },
+        { "count": 1, "name": "TM Crisis Punch", "number": "90", "set": "PAF" },
+        { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+        { "count": 2, "name": "Artazon", "number": "171", "set": "PAL" },
+    ], "energy": [
+        { "count": 3, "name": "Basic Darkness Energy", "number": "7", "set": "SVE" },
+        { "count": 3, "name": "Basic Water Energy", "number": "3", "set": "SVE" },
+        { "count": 2, "name": "Basic Lightning Energy", "number": "4", "set": "SVE" },
+        { "count": 2, "name": "Basic Psychic Energy", "number": "5", "set": "SVE" },
+  ]
     }
   },
 ]
