@@ -19,104 +19,104 @@ let fr = [
         "id": "fr-3",
         "name": "Cinccino",
         "images": {
-            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV5K/SV5K_60_R_JP_LG.png",
-            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV5K/SV5K_60_R_JP_LG.png"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1706544907048-1JXA9JH7JBDS4KD6F5PW/Cinccino.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1706544907048-1JXA9JH7JBDS4KD6F5PW/Cinccino.png?format=750w"
         }
     },
     {
         "id": "fr-4",
         "name": "Mist Energy",
         "images": {
-            "small": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV5M/SV5M_71_R_JP_LG.png",
-            "large": "https://limitlesstcg.nyc3.digitaloceanspaces.com/tpc/SV5M/SV5M_71_R_JP_LG.png"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704626445766-2AE96AJZU69S2CBRTJ7T/Mist+Energy.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704626445766-2AE96AJZU69S2CBRTJ7T/Mist+Energy.png?format=750w"
         }
     },
     {
         "id": "fr-5",
         "name": "Master Ball",
         "images": {
-            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403248656-9JFPD3HYNNSCEE80QW31/1530_032_T_MasterBall_ol.png?format=750w",
-            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403248656-9JFPD3HYNNSCEE80QW31/1530_032_T_MasterBall_ol.png?format=750w"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703411636018-Y7MYUPCXZGQKH84PT2OH/Master+Ball.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703411636018-Y7MYUPCXZGQKH84PT2OH/Master+Ball.png?format=750w"
         }
     },
     {
         "id": "fr-6",
         "name": "idk",
         "images": {
-            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705064032198-QL33O8V90BABWXED9VDE/IMG_6448.png?format=750w",
-            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705064032198-QL33O8V90BABWXED9VDE/IMG_6448.png?format=750w"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705089133800-TVV2FZOFNNUTWALMZVW7/Eri.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705089133800-TVV2FZOFNNUTWALMZVW7/Eri.png?format=750w"
         }
     },
     {
         "id": "fr-7",
         "name": "PRIME CATCHER",
         "images": {
-            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403248680-7AUURXPT5WT83RAQ12LV/SV5_17.png?format=750w",
-            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403248680-7AUURXPT5WT83RAQ12LV/SV5_17.png?format=750w"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703411364507-3X8FN8ZOXW0KYXV19EJ9/Prime+Catcher.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703411364507-3X8FN8ZOXW0KYXV19EJ9/Prime+Catcher.png?format=750w"
         }
     },
     {
         "id": "fr-8",
         "name": "PRIME CATCHER",
         "images": {
-            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403615770-M1Q42WZ1WKHREVWEQPX2/SV5_14.png?format=750w",
-            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403615770-M1Q42WZ1WKHREVWEQPX2/SV5_14.png?format=750w"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703412279272-0PJMYU9N6KB2STXECUEX/Cryptomaniac%27s+Deciphering.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703412279272-0PJMYU9N6KB2STXECUEX/Cryptomaniac%27s+Deciphering.png?format=750w"
         }
     },
     {
         "id": "fr-9",
         "name": "BUDDY POFFIN",
         "images": {
-            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704511786862-A4RN2L2DAZPZ74TNQ272/Buddy+Poffin.png?format=750w",
-            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704511786862-A4RN2L2DAZPZ74TNQ272/Buddy+Poffin.png?format=750w"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704512913547-DWUAR8R1CH1PWDP0FW6G/Buddy+Poffin.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704512913547-DWUAR8R1CH1PWDP0FW6G/Buddy+Poffin.png?format=750w"
         }
     },
     {
         "id": "fr-10",
         "name": "IRON LEAVES",
         "images": {
-            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403127443-ZTE87DS8KVB66YOUTZQX/SV5_9.png?format=750w",
-            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403127443-ZTE87DS8KVB66YOUTZQX/SV5_9.png?format=750w"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703414974120-28RHT0WCZGDMUEQKKIMY/Iron+Leaves+ex.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703414974120-28RHT0WCZGDMUEQKKIMY/Iron+Leaves+ex.png?format=750w"
         }
     },
     {
         "id": "fr-11",
-        "name": "bAND",
+        "name": "mAXIMUM BELT",
         "images": {
-            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705650000750-CS1JI90R7W9GT95A4OA3/045212_T_MAKISHIMAMUBERUTO.jpg?format=750w",
-            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705650000750-CS1JI90R7W9GT95A4OA3/045212_T_MAKISHIMAMUBERUTO.jpg?format=750w"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705668515564-75XFJB2A5L8WUNAYYGKH/Maximum+Belt.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705668515564-75XFJB2A5L8WUNAYYGKH/Maximum+Belt.png?format=750w"
         }
     },
     {
         "id": "fr-12",
         "name": "emerg board",
         "images": {
-            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705064029334-H2XD7DEPPT1UQ3B6T4HJ/IMG_6450.png?format=750w",
-            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705064029334-H2XD7DEPPT1UQ3B6T4HJ/IMG_6450.png?format=750w"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705089023009-F4TZYNFYMI0RR04G6M9X/Emergency+Board.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705089023009-F4TZYNFYMI0RR04G6M9X/Emergency+Board.png?format=750w"
         }
     },
     {
         "id": "fr-13",
         "name": "tusk",
         "images": {
-            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705063792219-WS6LA1ZYLMR7QN3GT777/IMG_6428.png?format=750w",
-            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705063792219-WS6LA1ZYLMR7QN3GT777/IMG_6428.png?format=750w"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705085644018-G7N9EDI795GD2OD3925F/Great+Tusk+2.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705085644018-G7N9EDI795GD2OD3925F/Great+Tusk+2.png?format=750w"
         }
     },
     {
         "id": "fr-14",
         "name": "explorer",
         "images": {
-            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403616073-3DIXFHUO4UK14JZSSGDB/SV5_13.png?format=750w",
-            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403616073-3DIXFHUO4UK14JZSSGDB/SV5_13.png?format=750w"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703412689352-9W27IQZ18EMMPIFX4U0J/Explorer%27s+Guidance.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703412689352-9W27IQZ18EMMPIFX4U0J/Explorer%27s+Guidance.png?format=750w"
         }
     },
     {
         "id": "fr-15",
         "name": "HERO CAPE",
         "images": {
-            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705649998788-63C8EYXWY6DB4QWXBVWE/045281_T_HIROMANTO.jpg?format=500w",
-            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705649998788-63C8EYXWY6DB4QWXBVWE/045281_T_HIROMANTO.jpg?format=500w"
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704901392430-LPM9SCYM74I5AF6ETANM/Hero%27s+Cape.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704901392430-LPM9SCYM74I5AF6ETANM/Hero%27s+Cape.png?format=750w"
         }
     }
 ]
