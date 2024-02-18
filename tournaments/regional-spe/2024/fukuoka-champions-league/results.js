@@ -222,16 +222,42 @@ let masters = [
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/snorlax.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ], "energy": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ]
+        { "count": 4, "name": "Snorlax", "number": "55", "set": "PGO" },
+        { "count": 1, "name": "Chi-Yu ex", "number": "40", "set": "PAL" },
+        { "count": 1, "name": "Rotom V", "number": "58", "set": "LOR" },
+        { "count": 1, "name": "Pidgeot V", "number": "137", "set": "LOR" },
+        { "count": 1, "name": "Mawile", "number": "71", "set": "LOR" },
+        { "count": 1, "name": "Mimikyu", "number": "97", "set": "PAL" },
+        { "count": 1, "name": "Mantine", "number": "34", "set": "ASR" },
+      ],
+      "trainer": [
+        { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
+        { "count": 4, "name": "Penny", "number": "183", "set": "SVI" },
+        { "count": 3, "name": "IDK", "number": "6", "set": "FR" },
+        { "count": 2, "name": "Miss Fortune Sisters", "number": "164", "set": "LOR" },
+        { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+        { "count": 2, "name": "Erika's Invitation", "number": "160", "set": "MEW" },
+        { "count": 1, "name": "Giacomo", "number": "182", "set": "PAL" },
+        { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+        { "count": 4, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+        { "count": 4, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
+        { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+        { "count": 2, "name": "Pal Pad", "number": "182", "set": "SVI" },
+        { "count": 2, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+        { "count": 1, "name": "Switch Cart", "number": "154", "set": "ASR" },
+        { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
+        { "count": 3, "name": "Bravery Charm", "number": "173", "set": "PAL" },
+        { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+        { "count": 1, "name": "Defiance Vest", "number": "162", "set": "PAR" },
+        { "count": 1, "name": "emerg board", "number": "12", "set": "FR" },
+        { "count": 1, "name": "HERO CAPE", "number": "15", "set": "FR" },
+        { "count": 4, "name": "Temple of Sinnoh", "number": "155", "set": "ASR" },
+      ],
+      "energy": [
+        { "count": 2, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" }      ]
     }
   },
   {
