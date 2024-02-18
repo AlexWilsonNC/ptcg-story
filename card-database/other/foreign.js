@@ -65,10 +65,58 @@ let fr = [
     },
     {
         "id": "fr-9",
-        "name": "PRIME CATCHER",
+        "name": "BUDDY POFFIN",
         "images": {
             "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704511786862-A4RN2L2DAZPZ74TNQ272/Buddy+Poffin.png?format=750w",
             "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704511786862-A4RN2L2DAZPZ74TNQ272/Buddy+Poffin.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-10",
+        "name": "IRON LEAVES",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403127443-ZTE87DS8KVB66YOUTZQX/SV5_9.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403127443-ZTE87DS8KVB66YOUTZQX/SV5_9.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-11",
+        "name": "bAND",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705650000750-CS1JI90R7W9GT95A4OA3/045212_T_MAKISHIMAMUBERUTO.jpg?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705650000750-CS1JI90R7W9GT95A4OA3/045212_T_MAKISHIMAMUBERUTO.jpg?format=750w"
+        }
+    },
+    {
+        "id": "fr-12",
+        "name": "emerg board",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705064029334-H2XD7DEPPT1UQ3B6T4HJ/IMG_6450.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705064029334-H2XD7DEPPT1UQ3B6T4HJ/IMG_6450.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-13",
+        "name": "tusk",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705063792219-WS6LA1ZYLMR7QN3GT777/IMG_6428.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705063792219-WS6LA1ZYLMR7QN3GT777/IMG_6428.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-14",
+        "name": "explorer",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403616073-3DIXFHUO4UK14JZSSGDB/SV5_13.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703403616073-3DIXFHUO4UK14JZSSGDB/SV5_13.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-15",
+        "name": "HERO CAPE",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705649998788-63C8EYXWY6DB4QWXBVWE/045281_T_HIROMANTO.jpg?format=500w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705649998788-63C8EYXWY6DB4QWXBVWE/045281_T_HIROMANTO.jpg?format=500w"
         }
     }
 ]
