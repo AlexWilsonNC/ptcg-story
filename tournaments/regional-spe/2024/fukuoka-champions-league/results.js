@@ -533,7 +533,7 @@ let masters = [
         { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
         { "count": 4, "name": "Super Rod", "number": "188", "set": "PAL" },
         { "count": 3, "name": "buddy poffin", "number": "9", "set": "FR" },
-        { "count": 3, "name": "Switch", "number": "147", "set": "CES" },
+        { "count": 3, "name": "Switch", "number": "194", "set": "SVI" },
         { "count": 1, "name": "Counter Catcher", "number": "160", "set": "PAR" },
         { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
         { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
