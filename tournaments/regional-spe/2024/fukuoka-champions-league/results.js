@@ -479,7 +479,7 @@ let masters = [
     sprite1: '../../../../assets/sprites/miraidon.png',
     sprite2: '../../../../assets/sprites/iron-crown.png',
     list: '../../../../assets/list-icon.png',
-    disclaimer: "<span class='disclaimer'>Built via watching stream match - may be multiple cards off</span>",
+    disclaimer: "<span class='disclaimer'>Built via watching stream - counts may be wrong</span>",
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
