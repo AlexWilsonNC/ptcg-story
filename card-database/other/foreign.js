@@ -183,4 +183,12 @@ let fr = [
             "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705089585368-21OPAYYFAZ0R1563PHYY/Reboot+Pod.png?format=750w"
         }
     },
+    {
+        "id": "fr-24",
+        "name": "Morty's Conviction",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705668350724-DFNX87NMFZRIPLFVCOH7/Morty%27s+Conviction.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705668350724-DFNX87NMFZRIPLFVCOH7/Morty%27s+Conviction.png?format=750w"
+        }
+    },
 ]

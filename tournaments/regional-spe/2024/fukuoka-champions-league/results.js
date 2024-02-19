@@ -483,23 +483,24 @@ let masters = [
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
-        { "count": 4, "name": "Iron Crown ex", "number": "22", "set": "FR" },
+        { "count": 3, "name": "Iron Crown ex", "number": "22", "set": "FR" },
         { "count": 2, "name": "Miraidon", "number": "21", "set": "FR" },
       ], "trainer": [
         { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
         { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
-        { "count": 2, "name": "Iono", "number": "185", "set": "PAL" },
+        { "count": 3, "name": "Iono", "number": "185", "set": "PAL" },
+        { "count": 1, "name": "Morty's Conviction", "number": "24", "set": "FR" },
         { "count": 4, "name": "Electric Generator", "number": "170", "set": "SVI" },
-        { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
         { "count": 4, "name": "Counter Catcher", "number": "160", "set": "PAR" },
-        { "count": 3, "name": "Techno Radar", "number": "180", "set": "PAR" },
+        { "count": 4, "name": "Techno Radar", "number": "180", "set": "PAR" },
+        { "count": 2, "name": "Nest Ball", "number": "181", "set": "SVI" },
         { "count": 1, "name": "Reboot Pod", "number": "23", "set": "FR" },
-        { "count": 3, "name": "Future Booster Energy Capsule", "number": "164", "set": "PAR" },
+        { "count": 4, "name": "Future Booster Energy Capsule", "number": "164", "set": "PAR" },
         { "count": 2, "name": "Heavy Baton", "number": "20", "set": "FR" },
         { "count": 2, "name": "Town Store", "number": "196", "set": "OBF" },
       ], "energy": [
         { "count": 13, "name": "Lightning Energy - Basic", "number": "4", "set": "SVE" },
-        { "count": 4, "name": "Gift Energy - Special", "number": "171", "set": "LOR" },
+        { "count": 3, "name": "Gift Energy - Special", "number": "171", "set": "LOR" },
       ]
     }
   },
