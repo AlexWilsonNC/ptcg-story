@@ -84,15 +84,43 @@ let masters = [
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/blank.png',
     sprite2: '../../../../assets/sprites/snorlax.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ], "energy": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 4, "name": "Snorlax", "number": "55", "set": "PGO" },
+        { "count": 1, "name": "Chi-Yu ex", "number": "40", "set": "PAL" },
+        { "count": 1, "name": "Rotom V", "number": "58", "set": "LOR" },
+        { "count": 1, "name": "Pidgeot V", "number": "137", "set": "LOR" },
+        { "count": 1, "name": "Mimikyu", "number": "97", "set": "PAL" },
+      ],
+      "trainer": [
+        { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
+        { "count": 3, "name": "Penny", "number": "183", "set": "SVI" },
+        { "count": 3, "name": "Eri", "number": "6", "set": "FR" },
+        { "count": 3, "name": "Iono", "number": "185", "set": "PAL" },
+        { "count": 2, "name": "Miss Fortune Sisters", "number": "164", "set": "LOR" },
+        { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+        { "count": 2, "name": "Erika's Invitation", "number": "160", "set": "MEW" },
+        { "count": 2, "name": "Cyllene", "number": "138", "set": "ASR" },
+        { "count": 1, "name": "Team Yell's Cheer", "number": "149", "set": "BRS" },
+
+        { "count": 4, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+        { "count": 4, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
+        { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+        { "count": 2, "name": "Pal Pad", "number": "182", "set": "SVI" },
+        { "count": 2, "name": "Switch Cart", "number": "154", "set": "ASR" },
+        { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+        { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
+        { "count": 1, "name": "Ultra Ball", "set": "PAF", "number": "91" },
+        { "count": 2, "name": "Bravery Charm", "number": "173", "set": "PAL" },
+        { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+        { "count": 1, "name": "Defiance Vest", "number": "162", "set": "PAR" },
+        { "count": 1, "name": "HERO CAPE", "number": "15", "set": "FR" },
+        { "count": 3, "name": "Temple of Sinnoh", "number": "155", "set": "ASR" },
+        { "count": 1, "name": "Artazon", "set": "PAF", "number": "76" },
+      ],
+      "energy": [
+        { "count": 2, "name": "Fire Energy - Basic", "number": "153", "set": "CRZ" }      
       ]
     }
   },
@@ -164,15 +192,37 @@ let masters = [
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/arceus.png',
     sprite2: '../../../../assets/sprites/giratina-origin.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 3, "name": "Arceus VSTAR", "number": "123", "set": "BRS" },
+        { "count": 4, "name": "Arceus V", "number": "122", "set": "BRS" },
+        { "count": 2, "name": "Giratina VSTAR", "number": "131", "set": "LOR" },
+        { "count": 2, "name": "Giratina V", "number": "130", "set": "LOR" },
+        { "count": 2, "name": "Bibarel", "number": "121", "set": "BRS" },
+        { "count": 2, "name": "Bidoof", "number": "111", "set": "CRZ" },
+        { "count": 1, "name": "Skwovet", "number": "151", "set": "SVI" },
+        { "count": 1, "name": "Radiant Gardevoir", "number": "69", "set": "LOR" },
+        { "count": 1, "name": "Iron Leaves ex", "number": "10", "set": "FR" },
+        { "count": 1, "name": "Lumineon V", "number": "40", "set": "BRS" },
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 4, "name": "Judge", "number": "176", "set": "SVI" },
+        { "count": 3, "name": "Iono", "number": "185", "set": "PAL" },
+        { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+        { "count": 2, "name": "Eri", "number": "6", "set": "FR" },
+        { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+        { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+        { "count": 2, "name": "Switch", "number": "194", "set": "SVI" },
+        { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+        { "count": 1, "name": "Super Rod", "set": "PAL", "number": "188" },
+        { "count": 2, "name": "Technical Machine: Devolution", "number": "177", "set": "PAR" },
+        { "count": 1, "name": "Band", "number": "11", "set": "FR" },
+        { "count": 1, "name": "Collapsed Stadium", "set": "BRS", "number": "137" },
       ], "energy": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 4, "name": "Grass Energy - Basic", "number": "152", "set": "CRZ" },
+        { "count": 4, "name": "Psychic Energy - Basic", "number": "232", "set": "CRE" },
+        { "count": 4, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
+        { "count": 1, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
       ]
     }
   },
