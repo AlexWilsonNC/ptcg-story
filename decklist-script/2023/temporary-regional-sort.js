@@ -50,7 +50,7 @@ function displayList(array = []) {
             listIcon.classList.add('list-icon');
             listIcon.classList.add('list-icon-live');
             listIcon.classList.add('material-symbols-outlined');
-            listIcon.innerHTML = "format_list_bulleted";   
+            listIcon.innerHTML = "format_list_bulleted";
             deck.appendChild(listIcon);
 
             listIcon.addEventListener('click', function () {
@@ -58,7 +58,9 @@ function displayList(array = []) {
                 document.querySelector('.modal').style.display = 'block';
                 document.querySelector('.behind-modal').style.display = 'block';
                 document.querySelector('.playerName').innerHTML = convertToTitleCase(item.firstName) + "<br><i>" + item.event + "</i>";
-
+                if (item.disclaimer) {
+                    document.querySelector('.playerName').innerHTML = convertToTitleCase(item.firstName) + "<br><i>" + item.event + "<br>" + item.disclaimer + "</i>";
+                }
                 const copyButton = document.querySelector('.copy-to-clip');
 
                 // PRINT DECKLIST //
@@ -86,7 +88,7 @@ function displayList(array = []) {
                         }
 
                         // 60 card checker
-                        let sixtyCheck = item.decklist.pokemon.reduce((n, {count}) => n + count, 0) + item.decklist.trainer.reduce((n, {count}) => n + count, 0) + item.decklist.energy.reduce((n, {count}) => n + count, 0);
+                        let sixtyCheck = item.decklist.pokemon.reduce((n, { count }) => n + count, 0) + item.decklist.trainer.reduce((n, { count }) => n + count, 0) + item.decklist.energy.reduce((n, { count }) => n + count, 0);
                         if (sixtyCheck !== 60) {
                             confirm('NOT 60 CARD! only' + " " + sixtyCheck)
                         }
@@ -177,7 +179,8 @@ function displayList(array = []) {
                             }
                             if (deck.radiusCard === true) {
                                 pokeCard.classList.add('radius-card')
-                            }                        }
+                            }
+                        }
 
                         let numberCounter = document.createElement('img');
                         numberCounter.classList.add('num-1')

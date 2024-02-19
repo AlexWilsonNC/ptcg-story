@@ -150,5 +150,37 @@ let fr = [
             "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705232899256-0DUZY7XFLQZVKPUFM3SL/Drums+of+Awakening.png?format=750w",
             "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705232899256-0DUZY7XFLQZVKPUFM3SL/Drums+of+Awakening.png?format=750w"
         }
-    }
+    },
+    {
+        "id": "fr-20",
+        "name": "Heavy Baton",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705668115926-637VTN4EWDM6Q2SREA63/Heavy+Baton.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705668115926-637VTN4EWDM6Q2SREA63/Heavy+Baton.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-21",
+        "name": "Miraidon",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705088153554-7G12HQY0B8EBVY5K49KF/Miraidon.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705088153554-7G12HQY0B8EBVY5K49KF/Miraidon.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-22",
+        "name": "Iron Crown ex",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703488184951-6J38NH7T4ULCPJ1353VP/Iron+Crown+ex.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703488184951-6J38NH7T4ULCPJ1353VP/Iron+Crown+ex.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-23",
+        "name": "Reboot Pod",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705089585368-21OPAYYFAZ0R1563PHYY/Reboot+Pod.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705089585368-21OPAYYFAZ0R1563PHYY/Reboot+Pod.png?format=750w"
+        }
+    },
 ]

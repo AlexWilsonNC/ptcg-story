@@ -479,15 +479,28 @@ let masters = [
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/miraidon.png',
     sprite2: '../../../../assets/sprites/iron-crown.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
+    disclaimer: "<span class='disclaimer'>Built via watching stream match - may be multiple cards off</span>",
     "decklist": {
       "pokemon": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 4, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
+        { "count": 3, "name": "Iron Crown ex", "number": "22", "set": "FR" },
+        { "count": 3, "name": "Miraidon", "number": "21", "set": "FR" },
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
+        { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
+        { "count": 2, "name": "Iono", "number": "185", "set": "PAL" },
+        { "count": 4, "name": "Electric Generator", "number": "170", "set": "SVI" },
+        { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+        { "count": 4, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+        { "count": 3, "name": "Techno Radar", "number": "180", "set": "PAR" },
+        { "count": 1, "name": "Reboot Pod", "number": "23", "set": "FR" },
+        { "count": 3, "name": "Future Booster Energy Capsule", "number": "164", "set": "PAR" },
+        { "count": 2, "name": "Heavy Baton", "number": "20", "set": "FR" },
+        { "count": 2, "name": "Town Store", "number": "196", "set": "OBF" },
       ], "energy": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 13, "name": "Lightning Energy - Basic", "number": "4", "set": "SVE" },
+        { "count": 4, "name": "Gift Energy - Special", "number": "171", "set": "LOR" },
       ]
     }
   },
