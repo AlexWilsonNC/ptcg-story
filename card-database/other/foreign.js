@@ -118,5 +118,37 @@ let fr = [
             "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704901392430-LPM9SCYM74I5AF6ETANM/Hero%27s+Cape.png?format=750w",
             "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1704901392430-LPM9SCYM74I5AF6ETANM/Hero%27s+Cape.png?format=750w"
         }
+    },
+    {
+        "id": "fr-16",
+        "name": "Koraidon",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705087852149-GQYD4F332GZ2F5MPRICI/Koraidon.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705087852149-GQYD4F332GZ2F5MPRICI/Koraidon.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-17",
+        "name": "Roaring Moon",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705086948044-3GPYNJMIY1390QZJ1895/Roaring+Moon.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705086948044-3GPYNJMIY1390QZJ1895/Roaring+Moon.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-18",
+        "name": "Flutter Mane",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703413267357-Y3AOR6J8V3MOWP25NW82/Flutter+Mane.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1703413267357-Y3AOR6J8V3MOWP25NW82/Flutter+Mane.png?format=750w"
+        }
+    },
+    {
+        "id": "fr-19",
+        "name": "Awakening Drum",
+        "images": {
+            "small": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705232899256-0DUZY7XFLQZVKPUFM3SL/Drums+of+Awakening.png?format=750w",
+            "large": "https://images.squarespace-cdn.com/content/v1/5cf4cfa4382ac0000123aa1b/1705232899256-0DUZY7XFLQZVKPUFM3SL/Drums+of+Awakening.png?format=750w"
+        }
     }
 ]

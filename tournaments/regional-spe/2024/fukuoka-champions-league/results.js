@@ -349,7 +349,7 @@ let masters = [
     list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 4, "name": "Tusk", "number": "13", "set": "FR" },
+        { "count": 4, "name": "Great Tusk", "number": "13", "set": "FR" },
         { "count": 1, "name": "Comfey", "number": "79", "set": "LOR" },
         { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
         { "count": 1, "name": "Mimikyu", "number": "97", "set": "PAL" },
@@ -373,7 +373,7 @@ let masters = [
         { "count": 3, "name": "Artazon", "number": "171", "set": "PAL" },
 
       ], "energy": [
-        { "count": 4, "name": "fIGHTING Energy - Basic", "number": "6", "set": "SVE" },
+        { "count": 4, "name": "Fighting Energy - Basic", "number": "6", "set": "SVE" },
         { "count": 2, "name": "Psychic Energy - Basic", "number": "5", "set": "SVE" },
         { "count": 4, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
       ]
