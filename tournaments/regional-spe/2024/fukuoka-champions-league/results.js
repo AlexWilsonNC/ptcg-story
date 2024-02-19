@@ -451,7 +451,7 @@ let masters = [
     "firstName": "Ryoma Ichihara",
     flag: '../../../../assets/flags/japan.png',
     "event": "2024 Fukuoka Champions League",
-    sprite1: '../../../../assets/sprites/iron-hands.png',
+    sprite1: '../../../../assets/sprites/miraidon.png',
     sprite2: '../../../../assets/sprites/iron-crown.png',
     // list: '../../../../assets/list-icon.png',
     list: '../../../../assets/sprites/blank.png',
