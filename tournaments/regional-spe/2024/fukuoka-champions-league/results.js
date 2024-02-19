@@ -483,8 +483,8 @@ let masters = [
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Iron Hands ex", "number": "70", "set": "PAR" },
-        { "count": 3, "name": "Iron Crown ex", "number": "22", "set": "FR" },
-        { "count": 3, "name": "Miraidon", "number": "21", "set": "FR" },
+        { "count": 4, "name": "Iron Crown ex", "number": "22", "set": "FR" },
+        { "count": 2, "name": "Miraidon", "number": "21", "set": "FR" },
       ], "trainer": [
         { "count": 4, "name": "Arven", "number": "186", "set": "OBF" },
         { "count": 4, "name": "Professor's Research", "number": "190", "set": "SVI" },
