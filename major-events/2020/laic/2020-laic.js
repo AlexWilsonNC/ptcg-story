@@ -652,7 +652,7 @@ let masters = [
   {
     firstName: 'Ondřej Škubal',
     flag: '../../../assets/flags/czech-republic.png',
-    sprite1: '../../../assets/sprites/florges-red.png',
+    sprite1: '../../../assets/sprites/florges.png',
     sprite2: '../../../assets/sprites/munchlax.png',
     list: '../../../assets/list-icon.png',
     deckid: "florges-munchlax",
@@ -2387,7 +2387,7 @@ let masters = [
   {
     firstName: 'Tommi Lahtela',
     flag: '../../../assets/flags/norway.png',
-    sprite1: '../../../assets/sprites/florges-red.png',
+    sprite1: '../../../assets/sprites/florges.png',
     sprite2: '../../../assets/sprites/munchlax.png',
     list: '../../../assets/list-icon.png',
     deckid: "florges-munchlax",
