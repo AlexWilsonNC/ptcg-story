@@ -59,7 +59,7 @@ function displayList(array = []) {
                 document.querySelector('.behind-modal').style.display = 'block';
                 document.querySelector('.playerName').innerHTML = convertToTitleCase(item.firstName) + "<br><i>" + item.event + "</i>";
                 if (item.disclaimer) {
-                    document.querySelector('.playerName').innerHTML = convertToTitleCase(item.firstName) + "<br><i>" + item.event + "<br>" + item.disclaimer + "</i>";
+                    document.querySelector('.playerName').innerHTML = convertToTitleCase(item.firstName) + "<br><i>" + item.event + "<br><span class='small-disclaimer-txt'>" + item.disclaimer + "</span></i>";
                 }
                 const copyButton = document.querySelector('.copy-to-clip');
 

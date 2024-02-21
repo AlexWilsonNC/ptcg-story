@@ -43,6 +43,11 @@
         font-size: 8px;
     }
 }
+@media screen and (max-width: 360px) {
+    .small-disclaimer-txt {
+        font-size: 6.5px;
+    }
+}
 .hidden-me {
     display: none !important;
 }
