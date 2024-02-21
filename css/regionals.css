@@ -34,6 +34,15 @@
     margin-left: -60px;
     z-index: -1;
 }
+.small-disclaimer-txt {
+    font-size: 10px;
+    font-style: italic;
+}
+@media screen and (max-width: 460px) {
+    .small-disclaimer-txt {
+        font-size: 8px;
+    }
+}
 .hidden-me {
     display: none !important;
 }
