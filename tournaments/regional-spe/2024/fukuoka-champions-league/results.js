@@ -339,16 +339,34 @@ let masters = [
     "event": "2024 Fukuoka Champions League",
     sprite1: '../../../../assets/sprites/koraidon.png',
     sprite2: '../../../../assets/sprites/roaring-moon.png',
-    // list: '../../../../assets/list-icon.png',
-    list: '../../../../assets/sprites/blank.png',
+    list: '../../../../assets/list-icon.png',
     "decklist": {
       "pokemon": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
+        { "count": 4, "name": "Koraidon", "number": "16", "set": "FR" },
+        { "count": 4, "name": "Roaring Moon", "number": "17", "set": "FR" },
+        { "count": 3, "name": "Flutter Mane", "number": "18", "set": "FR" },
+        { "count": 1, "name": "Great Tusk", "number": "13", "set": "FR" },
+        { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
       ], "trainer": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ], "energy": [
-        { "count": 4, "name": "eeee", "number": "00", "set": "00" },
-      ]
+          { "count": 4, "name": "Professor Sada's Vitality", "number": "170", "set": "PAR" },
+          { "count": 4, "name": "explor", "number": "14", "set": "FR" },
+          { "count": 4, "name": "Nest Ball", "number": "181", "set": "SVI" },
+          { "count": 4, "name": "Pokegear 3.0", "number": "186", "set": "SVI" },
+          { "count": 4, "name": "Earthen Vessel", "number": "163", "set": "PAR" },
+          { "count": 3, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+          { "count": 2, "name": "Trekking Shoes", "number": "156", "set": "ASR" },
+          { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
+          { "count": 1, "name": "Superior Energy Retrieval", "number": "189", "set": "PAL" },
+          { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+          { "count": 1, "name": "Awakening Drum", "number": "19", "set": "FR" },
+          { "count": 4, "name": "Ancient Booster Energy Capsule", "number": "159", "set": "PAR" },
+          { "count": 1, "name": "Defiance Band", "number": "169", "set": "SVI" },
+          { "count": 2, "name": "Artazon", "set": "PAF", "number": "76" },
+        ], "energy": [
+          { "count": 7, "name": "Basic Darkness Energy", "number": "7", "set": "SVE" },
+          { "count": 3, "name": "Fighting Energy - Basic", "number": "6", "set": "SVE" },
+          { "count": 1, "name": "Jet Energy - Special", "number": "190", "set": "PAL" },
+    ]
     }
   },
   {

@@ -26,9 +26,9 @@ let masters = [
             { "count": 2, "name": "Counter Catcher", "number": "160", "set": "PAR" },
             { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
             { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
+            { "count": 1, "name": "Awakening Drum", "number": "19", "set": "FR" },
             { "count": 4, "name": "Ancient Booster Energy Capsule", "number": "159", "set": "PAR" },
             { "count": 1, "name": "Defiance Band", "number": "169", "set": "SVI" },
-            { "count": 1, "name": "Awakening Drum", "number": "19", "set": "FR" },
             { "count": 3, "name": "PokeStop", "number": "68", "set": "PGO" },
         ], "energy": [
             { "count": 6, "name": "Basic Darkness Energy", "number": "7", "set": "SVE" },
