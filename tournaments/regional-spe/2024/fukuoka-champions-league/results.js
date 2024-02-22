@@ -340,7 +340,6 @@ let masters = [
     sprite1: '../../../../assets/sprites/koraidon.png',
     sprite2: '../../../../assets/sprites/roaring-moon.png',
     list: '../../../../assets/list-icon.png',
-    disclaimer: "(Built via watching stream - list & counts may be wrong)",
     "decklist": {
       "pokemon": [
         { "count": 4, "name": "Koraidon", "number": "16", "set": "FR" },
