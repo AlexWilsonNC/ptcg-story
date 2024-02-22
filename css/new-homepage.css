@@ -154,6 +154,9 @@
 .other-article {
     background-color: rgb(224, 160, 22);
 }
+.giveaway-article {
+    background-color: rgb(15, 186, 0);
+}
 .wrapped-feature img, 
 .wrapped-feature-second-row img,
 .article-thumbnail img {
