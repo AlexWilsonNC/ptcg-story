@@ -23,6 +23,9 @@ function filterEvents() {
         internationals.style.display = 'table-row';
         internationals.classList.remove('new-red-bg');
     });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
+    });
     regionals.forEach((regionals) => {
         regionals.style.display = 'table-row';
         regionals.classList.remove('new-red-bg');
@@ -59,6 +62,9 @@ function filterEvents() {
     internationals.forEach((internationals) => {
         internationals.style.display = 'none';
     });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
+    });
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
     });
@@ -91,6 +97,9 @@ function filterEvents() {
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
     });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
+    });
     asiaEvent.forEach((asiaEvent) => {
         asiaEvent.style.display = 'none';
     });
@@ -119,6 +128,9 @@ function filterEvents() {
     regionals.forEach((regionals) => {
         regionals.style.display = 'table-row';
         regionals.classList.add('new-red-bg');
+    });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
     });
     asiaEvent.forEach((asiaEvent) => {
         asiaEvent.style.display = 'none';
@@ -176,6 +188,9 @@ function filterEvents() {
     });
     asiaEvent.forEach((asiaEvent) => {
         asiaEvent.style.display = 'none';
+    });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
     });
     koreanLeague.forEach((koreanLeague) => {
         koreanLeague.style.display = 'table-row';
@@ -241,6 +256,9 @@ function filterEvents() {
     asiaEvent.forEach((asiaEvent) => {
         asiaEvent.style.display = 'none';
     });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
+    });
     regionalLeague.forEach((regionalLeague) => {
         regionalLeague.style.display = 'table-row';
         regionalLeague.classList.add('new-red-bg');
@@ -273,6 +291,9 @@ function filterEvents() {
     asiaEvent.forEach((asiaEvent) => {
         asiaEvent.style.display = 'none';
     });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
+    });
     jpChamps.forEach((jpChamps) => {
         jpChamps.style.display = 'table-row';
         jpChamps.classList.add('new-red-bg');
@@ -301,6 +322,9 @@ function filterEvents() {
     });
     internationals.forEach((internationals) => {
         internationals.style.display = 'none';
+    });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
     });
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
@@ -331,6 +355,9 @@ function filterEvents() {
     internationals.forEach((internationals) => {
         internationals.style.display = 'none';
     });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
+    });
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
     });
@@ -359,6 +386,9 @@ function filterEvents() {
     });
     internationals.forEach((internationals) => {
         internationals.style.display = 'none';
+    });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
     });
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
@@ -389,6 +419,9 @@ function filterEvents() {
     internationals.forEach((internationals) => {
         internationals.style.display = 'none';
     });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
+    });
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
     });
@@ -417,6 +450,9 @@ function filterEvents() {
     });
     internationals.forEach((internationals) => {
         internationals.style.display = 'none';
+    });
+    championsLeague.forEach((championsLeague) => {
+        championsLeague.style.display = 'none';
     });
     regionals.forEach((regionals) => {
         regionals.style.display = 'none';
