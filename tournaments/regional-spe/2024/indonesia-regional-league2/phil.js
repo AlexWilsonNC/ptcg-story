@@ -635,7 +635,7 @@ let masters = [
         }
     },
     {
-        "firstName": "Katalio Kishna",
+        "firstName": "Katalio Krishna",
         flag: '../../../../assets/sprites/blank.png',
         "event": "2024 Indonesia Regional League #2",
         sprite1: '../../../../assets/sprites/giratina-origin.png',
