@@ -271,7 +271,6 @@ let masters = [
         { "count": 1, "name": "Town Store", "number": "196", "set": "OBF" },
       ], "energy": [
         { "count": 9, "name": "Darkness Energy - Basic", "number": "7", "set": "SVE" },
-
       ]
     }
   },
