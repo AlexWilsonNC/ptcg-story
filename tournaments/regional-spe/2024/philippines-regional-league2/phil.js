@@ -49,5 +49,71 @@ let masters = [
                 { "count": 9, "name": "Darkness Energy - Basic", "number": "7", "set": "SVE" },
             ]
         }
-    }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Philippines Regional League #2",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/charizard.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Philippines Regional League #2",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Philippines Regional League #2",
+        sprite1: '../../../../assets/sprites/miraidon.png',
+        sprite2: '../../../../assets/sprites/flaaffy.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Philippines Regional League #2",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Philippines Regional League #2",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            
+        }
+    },
+    {
+        "firstName": "--",
+        flag: '../../../../assets/sprites/blank.png',
+        "event": "2024 Philippines Regional League #2",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/hyphen.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            
+        }
+    },
 ]
