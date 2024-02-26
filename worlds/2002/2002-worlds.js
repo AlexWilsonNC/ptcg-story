@@ -648,8 +648,8 @@ let masters = [
   {
     firstName: 'Eric Brooks',
     flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite1: '../../assets/sprites/espeon.png',
+    sprite2: '../../assets/sprites/slowking.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -1411,7 +1411,7 @@ let seniors = [
   },
   {
     firstName: 'Alessio Montalto',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/italy.png',
     sprite1: '../../assets/sprites/entei.png',
     sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/sprites/blank.png',
@@ -1426,7 +1426,7 @@ let seniors = [
   },
   {
     firstName: 'Wesley Bartlett',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/blank.png',
     sprite2: '../../assets/sprites/kingdra.png',
     list: '../../assets/sprites/blank.png',
@@ -1441,7 +1441,7 @@ let seniors = [
   },
   {
     firstName: 'Jeffrey Vernola',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/entei.png',
     sprite2: '../../assets/sprites/magcargo.png',
     list: '../../assets/sprites/blank.png',
@@ -1456,7 +1456,7 @@ let seniors = [
   },
   {
     firstName: 'David Bui',
-    flag: '../../assets/flags/unknown.png',
+    flag: '../../assets/flags/usa.png',
     sprite1: '../../assets/sprites/slowking.png',
     sprite2: '../../assets/sprites/charizard.png',
     list: '../../assets/sprites/blank.png',
@@ -1486,9 +1486,9 @@ let seniors = [
   },
   {
     firstName: 'Mikael Bondum',
-    flag: '../../assets/flags/unknown.png',
-    sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    flag: '../../assets/flags/denmark.png',
+    sprite1: '../../assets/sprites/ampharos.png',
+    sprite2: '../../assets/sprites/raichu.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
@@ -1533,7 +1533,7 @@ let seniors = [
     firstName: 'Dan Richard',
     flag: '../../assets/flags/unknown.png',
     sprite1: '../../assets/sprites/blank.png',
-    sprite2: '../../assets/hyphen.png',
+    sprite2: '../../assets/sprites/blastoise.png',
     list: '../../assets/sprites/blank.png',
     type: '',
     deck: [
