@@ -3744,7 +3744,7 @@ let sixEvent = [
         ]
     },
     {
-        firstName: 'Joshua Richards',
+        firstName: 'Ashley Richards',
         sprite1: '../../assets/sprites/joltik.png',
         sprite2: '../../assets/sprites/pumpkaboo.png',
         list: '../../assets/list-icon.png',
