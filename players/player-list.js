@@ -5,7 +5,7 @@ let players = [
         accomplishments: [
             {
                 event: "Knoxville Regionals",
-                eventLink: "../tournaments/regional-spe/2024/knoxville/results",
+                eventLink: "../tournaments/year/2024/knoxville/results",
                 date: "Feb 10, 2024",
                 place: "71",
                 prize: "",
