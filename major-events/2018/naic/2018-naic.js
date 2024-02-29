@@ -5339,4 +5339,175 @@ let masters = [
       ]
     }
   },
+  {
+    firstName: '--',
+    flag: '../../../assets/flags/unknown.png',
+    sprite1: '../../../assets/sprites/blank.png',
+    sprite2: '../../../assets/sprites/hyphen.png',
+    // list: '../../../assets/list-icon.png',
+    list: '../../../assets/sprites/blank.png',
+    deckid: "buzzwole-gx"
+  },
+  {
+    firstName: 'Jeremiah Schmutz',
+    flag: '../../../assets/flags/usa.png',
+    sprite1: '../../../assets/sprites/zoroark.png',
+    sprite2: '../../../assets/sprites/mewtwo.png',
+    list: '../../../assets/list-icon.png',
+    deckid: "zoroark",
+    event: "2018 North America Internationals",
+    decklist: {
+      "pokemon": [
+        {
+          "count": 4,
+            "name": "Zoroark GX",
+            "number": "53",
+            "set": "SLG"
+        },
+        {
+          "count": 4,
+            "name": "Zorua",
+            "number": "52",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Mewtwo GX",
+            "number": "39",
+            "set": "SLG"
+        },
+        {
+          "count": 2,
+            "name": "Tapu Lele GX",
+            "number": "60",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Giratina",
+            "number": "184",
+            "set": "PR-XY"
+        },
+        {
+          "count": 1,
+            "name": "Latios",
+            "number": "41",
+            "set": "SLG"
+        },
+      ],
+      "trainer": [
+
+        {
+          "count": 4,
+            "name": "Brigette",
+            "number": "134",
+            "set": "BKT"
+        },
+        {
+          "count": 3,
+            "name": "Guzma",
+            "number": "115",
+            "set": "BUS"
+        },
+        {
+          "count": 2,
+            "name": "N",
+            "number": "105",
+            "set": "FCO"
+        },
+        {
+          "count": 2,
+            "name": "Cynthia",
+            "number": "119",
+            "set": "UPR"
+        },
+        {
+          "count": 1,
+            "name": "Professor Sycamore",
+            "number": "107",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+            "name": "Mallow",
+            "number": "127",
+            "set": "GRI"
+        },
+        {
+          "count": 4,
+            "name": "Ultra Ball",
+            "number": "135",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+            "name": "Puzzle of Time",
+            "number": "109",
+            "set": "BKP"
+        },
+        {
+          "count": 4,
+            "name": "Max Elixir",
+            "number": "102",
+            "set": "BKP"
+        },
+        {
+          "count": 2,
+            "name": "Field Blower",
+            "number": "125",
+            "set": "GRI"
+        },
+        {
+          "count": 2,
+            "name": "Enhanced Hammer",
+            "number": "124",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Super Rod",
+            "number": "149",
+            "set": "BKT"
+        },
+        {
+          "count": 2,
+            "name": "Fighting Fury Belt",
+            "number": "99",
+            "set": "BKP"
+        },
+        {
+          "count": 1,
+            "name": "Float Stone",
+            "number": "137",
+            "set": "BKT"
+        },
+        {
+          "count": 1,
+            "name": "Choice Band",
+            "number": "121",
+            "set": "GRI"
+        },
+        {
+          "count": 1,
+            "name": "Parallel City",
+            "number": "145",
+            "set": "BKT"
+        },
+      ],
+      "energy": [
+        {
+          "count": 7,
+            "name": "Psychic Energy",
+            "number": "psychic",
+            "set": "SUM"
+        },
+        {
+          "count": 4,
+          "name": "Double Colorless Energy",
+          "number": "136",
+          "set": "SUM"
+        },
+      ]
+    }
+  },
 ]
