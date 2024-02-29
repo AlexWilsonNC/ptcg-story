@@ -77,7 +77,7 @@ function displayList(array = []) {
                         let cardSpace = document.createElement('div');
                         cardSpace.classList.add('pokemon-card');
 
-                        let pokeCard = document.createElement('img');
+                        let pokeCard = document.createElement('img'); 
                         pokeCard.classList.add('pok-card-small')
 
                         if (item.event.includes('2020')) {
@@ -154,6 +154,24 @@ function displayList(array = []) {
                             zoombox.onclick = () => {
                                 zoombox.className = "";
                             };
+                        } if (item.event.includes('2001')) {
+                            let allSets = {
+                                //wotc
+                                ecard3, ecard2, ecard1, neo4, neo3, neo2, neo1, gym2, gym1, base6, base5, base4, base3, base2, base1, basep
+                            }
+                            const cardFound = allSets[setConvert[card.set]].find(cardInSet => cardInSet.id === setConvert[card.set] + "-" + card.number)
+                            pokeCard.setAttribute('src', cardFound.images.small);
+                            pokeCard.classList.add('old-card');
+                            pokeCard.setAttribute('alt', card.name + " " + card.set + " " + card.number);
+                            let zoomedImg = document.getElementById("insert-zoomed-img");
+                            let zoombox = document.getElementById("zoomed-bg");
+                            pokeCard.onclick = () => {
+                                zoomedImg.setAttribute('src', cardFound.images.large);
+                                zoombox.className = "show";
+                            }
+                            zoombox.onclick = () => {
+                                zoombox.className = "";
+                            };
                         }
 
                         // const allSets = {
@@ -191,7 +209,10 @@ function displayList(array = []) {
                         }
                         if (item.event.includes('Regionals')) {
                             numberCounter.setAttribute('src', "../../../../assets/card-count/" + card.count + ".png");
-                        }
+                        } 
+                        if (item.event.includes('Qualifier')) {
+                            numberCounter.setAttribute('src', "../../../../assets/card-count/" + card.count + ".png");
+                        } 
 
                         cardSpace.appendChild(pokeCard);
                         cardSpace.appendChild(numberCounter);
