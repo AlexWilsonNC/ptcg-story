@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='icon' href="https://i.ibb.co/rFQ53Qq/android-chrome-192x192.png" type='image/x-icon' alt='logo'>
+
+
+
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../css/nav.css">
+    <link rel="stylesheet" href="../css/deck-builder.css">
+    <link rel="stylesheet" href="../css/worlds.css">
+    <link rel="stylesheet" href="../css/nats.css">
+    <link rel="stylesheet" href="../css/era.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+
+<body>
+    <nav id="top-navr">
+        <div id="nav-leftr">
+            <a href="../home">
+                <img src="" alt="pokeball logo">
+                <h1>PTCG <span class='legendsr'>Legends</span></h1>
+            </a>
+        </div>
+        <div class='push-right1'>
+            <ul id="nav-rightr">
+                <li><a href="../tournaments/completed">Tournaments</a>
+
+                </li>
+                <li><a href="../event-archive" class='move-left-five'>Event Archive <span
+                            class="material-symbols-outlined new-drop">expand_more</span></a>
+                    <ul class='drop-it-down2'>
+                        <li><a href='../worlds/main'>Worlds</a></li>
+                        <li><a href='../major-events/main'>Major Events</a></li>
+                        <!-- <li><a href='../tournaments/regional-spe'>Regionals & SPEs</a></li> -->
+                    </ul>
+                </li>
+                <li><a href="../decks-by-era/main">Decks by Era</a></li>
+                <li><a href="../articles/all">Articles</a></li>
+            </ul>
+            <nav role="navigation">
+                <div id="menuToggle">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <ul id="menu">
+                        <div class='push-right'>
+                            <div onclick='rememberButton(this.id)' id='toggle'>
+                                <i class='indicator'></i>
+                                <div></div>
+                                <div></div>
+                            </div>
+                        </div>
+                        <!-- <li class='bold tittle'><a href="#">Mainpage</a></li>
+                        <hr> -->
+                        <li class='bold tittle'><a href="../tournaments/completed">Tournaments</a></li>
+                        <li class='sub-nav'><a href="../tournaments/upcoming">Upcoming Events</a></li>
+                        <li class='sub-nav'><a href="../tournaments/completed">Completed Events</a></li>
+                        <li class='bold tittle'><a href="../event-archive">Event Archive</a></li>
+                        <li class='sub-nav'><a href="../worlds/main">World Championships</a></li>
+                        <li class='sub-nav'><a href="../major-events/main">Major Events (ICs, Nats, STSs)</a></li>
+                        <!-- <li class='sub-nav'><a href="../tournaments/regional-spe" >Regionals & SPEs</a>
+                        </li> -->
+                        <li class='bold tittle'><a href="../decks-by-era/main">Decks by Era</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="../articles/all">Articles</a></li>
+                        <li class='sub-nav'><a href="../articles/all">All Articles</a></li>
+                        <li class='sub-nav'><a href="../card-of-the-week/all">Card of the Month</a></li>
+                        <hr>
+                        <li class='bold tittle'><a href="./main">Other</a></li>
+                        <li class='sub-nav'><a href="../card-database">Pokémon Card Database</a></li>
+                        <li class='sub-nav'><a href="./expansions">TCG Expansions</a></li>
+                        <li class='sub-nav'><a href="./rules-by-era">Rules by Era</a></li>
+                        <li class='sub-nav'><a href="./banned-cards">Banned Cards</a></li>
+                        <li class='sub-nav'><a href="./timeline">Historic Timeline</a></li>
+                        <li class='sub-nav'><a href="./worlds-booklets">Worlds Booklets</a></li>
+                        <li class='sub-nav'><a href="../archive-updates/all">Archive Updates</a></li>
+                        <!-- <li class='sub-nav-non'><a href="#">Contact</a></li> -->
+                        <hr>
+                        <li class='bold tittle'><a href="../contact">Contact & Socials</a></li>
+                        <div class='social-popup'>
+                            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                                <img src='../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                                <img src='../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                                <img src='../assets/patreon.webp' />
+                            </a>
+                            <a href='mailto:ptcglegends@gmail.com'>
+                                <img src='../assets/email-icon.png' alt='social-icon' loading='lazy'>
+                            </a>
+                        </div>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </nav>
+
+    <div class='deck-builder'>
+        <div class='search-container'>
+            <div class='event-searchbar'>
+                <p>Pokémon Card: &nbsp;</p>
+                <input type="text" placeholder=" Search" />
+            </div>
+        </div>
+        <div class='deck-box-built'>
+            <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/vileplume.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/gloom.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/oddish.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/03.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/reuniclus.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/duosion.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/solosis.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/03.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/donphan-prime.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/phanpy-col.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/zekrom.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/pichu.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/blissey-prime.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/chansey.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/cleffa-col.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/suicune-entei-top.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/suicune-entei-bottom.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/twins.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/04.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/sages-training.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/04.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/poke-collector.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/03.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/seeker.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/copycat.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/pont.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/rare-candy-hgss.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/03.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/pokemon-communication-bw.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/03.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/tropical-beach.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
+           </div>
+           <div class='pokemon-card2'>
+               <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/energy/bw-energy-fighting.png'>
+              <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
+          </div>
+          <div class='pokemon-card2'>
+               <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/energy/bw-energy-fire.png'>
+              <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
+          </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/energy/hgss-energy-dce.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/04.png'>
+           </div>
+           <div class='pokemon-card2'>
+                <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/energy/rainbow-energy-hgss.png'>
+               <img class='num-2' alt='number' loading='lazy' src='../assets/04.png'>
+           </div>
+        </div>
+    </div>
+
+    <footer class='era-footer'>
+        <div id='foot-top'>
+            <a href="../tournaments/completed">Tournaments</a>
+            <a href="../event-archive">Event Archive</a>
+            <a href="../decks-by-era/main">Decks by Era</a>
+            <a href="../articles/all">Articles</a>
+        </div>
+        <div class='foot-mid'>
+            <a href='https://twitter.com/PTCG_Legends' target="_blank">
+                <img src='../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
+                <img src='../assets/discord-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
+                <img src='../assets/patreon.webp' alt='social-icon' loading='lazy'>
+            </a>
+            <a href='mailto:ptcglegends@gmail.com'>
+                <img src='../assets/email-icon.png' alt='social-icon' loading='lazy'>
+            </a>
+        </div>
+        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon
+            Trading Card Game, including card text and images and tournament-related content, are copyrights of The
+            Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast.
+            This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company
+            (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This
+            website is simply a place for Pokémon TCG fans to look at events and results from the
+            greatest game in history!</div>
+    </footer>
+
+</body>
+
+</html>
