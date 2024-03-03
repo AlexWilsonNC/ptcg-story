@@ -10,9 +10,10 @@
     align-items: flex-start;
 }
 .fghrygdb p {
-    color: black;
+    color: white;
     font-weight: 600;
-    margin: -10px 0 0 54px;
+    margin: -10px 0 0 179px;
+    /* margin: -10px 0 0 54px; community */
     font-family: "Krona One", sans-serif;
     font-style: italic;
     font-size: 14px;
@@ -31,20 +32,54 @@
         font-size: 8px;
     }
 }
+body {
+    background-image: linear-gradient(to bottom, rgb(25, 25, 25), #373737);
+    overflow: hidden !important;
+    position: fixed; 
+    overflow-y: scroll;
+    inset: 0;
+}
+#top-navr {
+    border-bottom: 2px solid grey;
+    background-color: rgb(25, 25, 25);
+}
+#nav-leftr img {
+    content: url('../assets/dark-logo.png');
+}
+#nav-leftr h1 {
+    color: white;
+}
+#nav-rightr a {
+    color: #e1e1e1;
+}
+.drop-it-down2 {
+    background: linear-gradient(to bottom, #191919, rgb(122, 122, 122));
+    border-left: 1px solid #191919;
+    border-right: 1px solid #191919;
+    border-bottom: 1px solid #191919;
+    border-bottom: 1px solid rgb(151, 151, 151);
+}
+#menuToggle span {
+background: #e1e1e1;
+}
+#menuToggle input:checked ~ span {
+background: #e1e1e1;
+}
+
+/*////////////////*/
+
 .deck-builder {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
     width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
 }
-.search-container {
-    width: 90%;
-    height: 375px;
-    background-color: #191919;
-    /* border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px; */
-    border-top: 2px solid grey;
+.card-search-container {
+    width: 55%;height:100%;
 }
 .event-searchbar {
     margin: 20px 0 0 20px;
@@ -52,51 +87,106 @@
     flex-direction: row;
     align-items: center;
 }
-.event-searchbar p {
-    font-size: 20px;
+.search-mag {
+    margin-right: 10px;
     color: white;
 }
 .event-searchbar input {
-    font-size: 20px;
+    font-size: 18px;
+    width: 50%;
+    padding: 2px;
 }
-
-
-
-
-
-
-
-
-
-
-
-.deck-container-built {
+.all-cards-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    overflow-y:auto
+}
+.all-cards-displayed {
     width: 90%;
-    height: 805px;
-    background-color: #191919;
+    height: 80vh;
+    padding: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 50px;
+    flex-wrap: wrap;
+    margin-top: 25px;
 }
-.deck-box-built {
-    margin: 25px 0 50px;
-    background-image: url(../assets/normal-bg3.png) !important;
-    border: 5px solid rgb(132, 132, 132);
-    border-radius: 10px;
+.all-cards-displayed img {
+    width: 150px;
+    height: auto;
+    margin: 7px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.65);
+}
+#zoomed-bg {
+    position: fixed;
+    z-index: 1999;
+    height: 100vh;
+    width: 100vw;
+    top: 0;
+    left: 0;
+
+    background: rgba(0, 0, 0, 0.9);
+
+    display: none;
+    align-items: center;
+    justify-content: center;
+
+    transition: all ease 0.3s;
+}
+#zoomed-bg.show {
+    display: flex;
+}
+#zoomed-bg img {
+    width: auto;
+    height: 90%;
+    object-fit: cover;
+}
+.database-card-in-list:hover {
+    cursor: pointer;
+}
+.deckbuilt-card-container {
+    width: 150px;
+
+}
+.deck-add-minus {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding: 65px 40px;
-    z-index: 0;
-    background-size: cover; 
-    background-position: center center;
-    background-repeat: no-repeat;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
-    max-width: 1265px;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: -100px;
+    width: 245px;
 }
-.deck-box-built.darkon {
-    background-image: url(../assets/dark-bg1.png) !important;
-    border: 5px solid black;
+.pm-card {
+    font-size: 50px;
+    background-color: #201f2c;
+    color:white;
+    font-weight: 600;
+    padding: 20px;
+    border-radius: 50%;
+    position: relative;
+}
+.pm-card:hover {
+    cursor: pointer;
+}
+.pm-card:before {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    content: "";
+    background: #484561;
+    border-radius: 50%;
+    width: 0;
+    height: 0;
+    transition: all .5s;
+}
+.pm-card:hover:before {
+    width: 100%;
+    height: 100%;
+}
+
+.active-deck-container {
+    width: 45%;height:100vh;
+    border-left: 1px solid grey;
 }

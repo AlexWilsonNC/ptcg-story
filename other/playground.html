@@ -12,12 +12,7 @@
     <link rel="stylesheet" href="../style.css">
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/deck-builder.css">
-    <link rel="stylesheet" href="../css/worlds.css">
-    <link rel="stylesheet" href="../css/nats.css">
-    <link rel="stylesheet" href="../../../../css/regionals.css">
-    <link rel="stylesheet" href="../../../../css/card-database.css">
-    <link rel="stylesheet" href="../css/era.css">
-    <link rel="stylesheet" href="../css/footer.css">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -25,7 +20,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <link href="https://fonts.googleapis.com/css2?family=Krona+One&display=swap" rel="stylesheet">
 </head>
 
@@ -36,7 +32,8 @@
                 <img src="" alt="pokeball logo">
                 <div class='fghrygdb'>
                     <h1>PTCG <span class='legendsr'>Legends</span></h1>
-                    <p>Community &bull; Deck Builder</p>
+                    <p>Deck Builder</p>
+                    <!-- <p>Community &bull; Deck Builder</p> -->
                 </div>
             </a>
         </div>
@@ -63,7 +60,7 @@
                     <span></span>
                     <span></span>
                     <ul id="menu">
-                        <div class='push-right'>
+                        <div class='push-right' style='opacity: 0.5;pointer-events: none;'>
                             <div onclick='rememberButton(this.id)' id='toggle'>
                                 <i class='indicator'></i>
                                 <div></div>
@@ -117,18 +114,37 @@
         </div>
     </nav>
 
-    <div id="zoom-card-box"></div>
+    <div id='zoomed-bg'>
+        <img id='insert-zoomed-img' src='' alt='zoomed in card'>
+    </div>
 
     <div class='deck-builder'>
 
-        <div class='search-container'>
-            <div class='event-searchbar'>
-                <p>Pokémon Card: &nbsp;</p>
-                <input type="text" placeholder=" Search" />
-            </div>
+        <div class='card-search-container'>
+                <div class='event-searchbar'>
+                    <span class="material-symbols-outlined search-mag">search</span>
+                    <input type='search' name='search' class='search' id='search' placeholder=' Card Search'>
+                </div>
+                <div class='all-cards-container'>
+                    <div class='all-cards-displayed'>
+
+                    </div>
+                </div>
         </div>
 
-        <div class='deck-container-built'>
+        <div class='active-deck-container'>
+
+            <div class='deckbuilt-card-container'>
+                <img class='database-card-in-list' src='../assets/cards/2008-2010/abomasnow.png' >
+                <div class='deck-add-minus'>
+                    <span class="material-symbols-outlined plus-card pm-card">remove</span>
+                    <span class="material-symbols-outlined minus-card pm-card">add</span>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- <div class='deck-container-built'>
             <div class='deck-box-built'>
                 <div class='pokemon-card2'>
                     <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/vileplume.png'>
@@ -243,41 +259,14 @@
                     <img class='num-2' alt='number' loading='lazy' src='../assets/04.png'>
                 </div>
             </div>
-        </div>
+        </div> -->
 
     </div>
 
-    <footer class='era-footer'>
-        <div id='foot-top'>
-            <a href="../tournaments/completed">Tournaments</a>
-            <a href="../event-archive">Event Archive</a>
-            <a href="../decks-by-era/main">Decks by Era</a>
-            <a href="../articles/all">Articles</a>
-        </div>
-        <div class='foot-mid'>
-            <a href='https://twitter.com/PTCG_Legends' target="_blank">
-                <img src='../assets/new-twitter-x.jpg' alt='social-icon' loading='lazy'>
-            </a>
-            <a href='https://discord.com/invite/P8vKM8REr4' target="_blank">
-                <img src='../assets/discord-icon.png' alt='social-icon' loading='lazy'>
-            </a>
-            <a href='https://www.patreon.com/PTCGLegends' target="_blank">
-                <img src='../assets/patreon.webp' alt='social-icon' loading='lazy'>
-            </a>
-            <a href='mailto:ptcglegends@gmail.com'>
-                <img src='../assets/email-icon.png' alt='social-icon' loading='lazy'>
-            </a>
-        </div>
-        <div id='foot-bottom'>The literal and graphical information presented on this website about the Pokémon
-            Trading Card Game, including card text and images and tournament-related content, are copyrights of The
-            Pokémon Company (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, and/or Wizards of the Coast.
-            This website is not produced by, endorsed by, supported by, or affiliated with The Pokémon Company
-            (Pokémon), Nintendo, Game Freak, Creatures, Play! Pokémon, nor Wizards of the Coast.<br><br><br>This
-            website is simply a place for Pokémon TCG fans to look at events and results from the
-            greatest game in history!</div>
-    </footer>
     <script src="../zoom.js"></script>
-    <script src="../darkmode/darkmode-deckbuilder.js"></script>
+    <script src="../card-database-search.js"></script>
+    <script src='./deck-builder.js'></script>
+
 </body>
 
 </html>
