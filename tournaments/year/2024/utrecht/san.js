@@ -1,10 +1,10 @@
 let masters = [
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Owyn Kamerman",
+        flag: '../../../../assets/flags/netherlands.png',
         "event": "2024 Utrecht Special Event",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/mew-vmax.png',
+        sprite2: '../../../../assets/sprites/meloetta.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
             "pokemon": [
@@ -17,11 +17,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Filippo Colamorea",
+        flag: '../../../../assets/flags/italy.png',
         "event": "2024 Utrecht Special Event",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/roaring-moon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
             "pokemon": [
@@ -33,40 +33,6 @@ let masters = [
             ]
         }
     },
-    // {
-    //     "firstName": "Owyn Kamerman",
-    //     flag: '../../../../assets/flags/netherlands.png',
-    //     "event": "2024 Utrecht Special Event",
-    //     sprite1: '../../../../assets/sprites/mew-vmax.png',
-    //     sprite2: '../../../../assets/sprites/meloetta.png',
-    //     list: '../../../../assets/sprites/blank.png',
-    //     "decklist": {
-    //         "pokemon": [
-    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-    //         ], "trainer": [
-    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-    //         ], "energy": [
-    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-    //         ]
-    //     }
-    // },
-    // {
-    //     "firstName": "Filippo Colamorea",
-    //     flag: '../../../../assets/flags/italy.png',
-    //     "event": "2024 Utrecht Special Event",
-    //     sprite1: '../../../../assets/sprites/blank.png',
-    //     sprite2: '../../../../assets/sprites/roaring-moon.png',
-    //     list: '../../../../assets/sprites/blank.png',
-    //     "decklist": {
-    //         "pokemon": [
-    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-    //         ], "trainer": [
-    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-    //         ], "energy": [
-    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-    //         ]
-    //     }
-    // },
     {
         "firstName": "Tord Reklev",
         flag: '../../../../assets/flags/norway.png',
