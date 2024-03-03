@@ -5,7 +5,6 @@ let masters = [
         "event": "2024 Utrecht Special Event",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
             "pokemon": [
@@ -23,7 +22,6 @@ let masters = [
         "event": "2024 Utrecht Special Event",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
             "pokemon": [
@@ -35,6 +33,40 @@ let masters = [
             ]
         }
     },
+    // {
+    //     "firstName": "Owyn Kamerman",
+    //     flag: '../../../../assets/flags/netherlands.png',
+    //     "event": "2024 Utrecht Special Event",
+    //     sprite1: '../../../../assets/sprites/mew-vmax.png',
+    //     sprite2: '../../../../assets/sprites/meloetta.png',
+    //     list: '../../../../assets/sprites/blank.png',
+    //     "decklist": {
+    //         "pokemon": [
+    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+    //         ], "trainer": [
+    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+    //         ], "energy": [
+    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+    //         ]
+    //     }
+    // },
+    // {
+    //     "firstName": "Filippo Colamorea",
+    //     flag: '../../../../assets/flags/italy.png',
+    //     "event": "2024 Utrecht Special Event",
+    //     sprite1: '../../../../assets/sprites/blank.png',
+    //     sprite2: '../../../../assets/sprites/roaring-moon.png',
+    //     list: '../../../../assets/sprites/blank.png',
+    //     "decklist": {
+    //         "pokemon": [
+    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+    //         ], "trainer": [
+    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+    //         ], "energy": [
+    //             { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+    //         ]
+    //     }
+    // },
     {
         "firstName": "Tord Reklev",
         flag: '../../../../assets/flags/norway.png',
@@ -70,7 +102,7 @@ let masters = [
                 { "count": 1, "name": "Arven", "number": "186", "set": "OBF" },
                 { "count": 1, "name": "Raihan", "number": "140", "set": "CRZ" },
                 { "count": 1, "name": "Thorton", "number": "167", "set": "LOR" },
-                { "count": 1, "name": "Peony", "number": "150", "set": "CRE" },
+                { "count": 1, "name": "Peonia", "number": "149", "set": "CRE" },
                 { "count": 1, "name": "Avery", "number": "130", "set": "CRE" },
                 { "count": 1, "name": "Worker", "number": "167", "set": "SIT" },
                 { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
@@ -114,8 +146,8 @@ let masters = [
         "firstName": "Bolly Olufon",
         flag: '../../../../assets/flags/uk.png',
         "event": "2024 Utrecht Special Event",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/charizard.png',
+        sprite1: '../../../../assets/sprites/charizard.png',
+        sprite2: '../../../../assets/sprites/bibarel.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
