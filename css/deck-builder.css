@@ -1,3 +1,36 @@
+.top-page-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.fghrygdb {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.fghrygdb p {
+    color: black;
+    font-weight: 600;
+    margin: -10px 0 0 6px;
+    font-family: "Krona One", sans-serif;
+    font-style: italic;
+    font-size: 16px;
+}
+.fghrygdb.darkon p {
+    color: rgb(235, 235, 235);
+}
+@media screen and (max-width: 1000px) {
+    .fghrygdb p {
+        font-size: 10px;
+        margin: -5px 0 0 6px;
+    }
+}
+@media screen and (max-width: 800px) {
+    .fghrygdb p {
+        font-size: 8px;
+    }
+}
 .deck-builder {
     display: flex;
     flex-direction: column;

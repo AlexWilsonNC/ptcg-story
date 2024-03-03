@@ -9,6 +9,7 @@ const navrightr = document.getElementById('nav-rightr');
 const dropitdown2 = document.querySelector('.drop-it-down2');
 
 const deckboxbuilt = document.querySelector('.deck-box-built');
+const fghrygdb = document.querySelector('.fghrygdb');
 
 const enableDarkMode = () => {
     document.body.classList.add('darkon');
@@ -20,6 +21,7 @@ const enableDarkMode = () => {
     navrightr.classList.add('darkon');
     dropitdown2.classList.add('darkon');
     deckboxbuilt.classList.add('darkon');
+    fghrygdb.classList.add('darkon');
 
     localStorage.setItem('darkMode', 'enabled');
   };
@@ -34,6 +36,7 @@ const enableDarkMode = () => {
     navrightr.classList.remove('darkon');
     dropitdown2.classList.remove('darkon');
     deckboxbuilt.classList.remove('darkon');
+    fghrygdb.classList.remove('darkon');
 
     localStorage.setItem('darkMode', null);
   };
