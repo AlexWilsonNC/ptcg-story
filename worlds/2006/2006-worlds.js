@@ -3813,8 +3813,6 @@ let juniors = [
         listIcon.classList.add('list-icon');
         listIcon.setAttribute('src', item.list);
 
-     
-
         item_element.appendChild(title);
         title.appendChild(playerName);
         playerName.appendChild(flagImg);

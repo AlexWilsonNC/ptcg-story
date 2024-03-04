@@ -18402,10 +18402,18 @@ function displayList(array = []) {
 
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
+        let cardArea = document.createElement('div');
+        cardArea.classList.add('searched-card-wrap');
         let img = document.createElement('img');
         img.classList.add('database-card-in-list');
         img.setAttribute('src', item.images.small);
         img.loading = 'lazy';
+        let addCardBtn = document.createElement('div');
+        addCardBtn.classList.add('add-card-to-deck')
+        
+        cardArea.appendChild(img);
+        cardArea.appendChild(addCardBtn);
+
         // sort set by number
         array.sort((a,b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
 
@@ -18417,7 +18425,8 @@ function displayList(array = []) {
         zoombox.onclick = () => {
             zoombox.className = "";
         };
-        setsOl.appendChild(img);
+
+        setsOl.appendChild(cardArea);
     }
 }
 
