@@ -5,14 +5,39 @@ let masters = [
         "event": "2024 Utrecht Special Event",
         sprite1: '../../../../assets/sprites/mew-vmax.png',
         sprite2: '../../../../assets/sprites/meloetta.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Mew VMAX", "number": "114", "set": "FST" },
+                { "count": 4, "name": "Mew V", "number": "60", "set": "CRZ" },
+                { "count": 4, "name": "Genesect V", "number": "185", "set": "FST" },
+                { "count": 1, "name": "Meloetta", "number": "124", "set": "FST" },
+                { "count": 1, "name": "Eiscue", "number": "44", "set": "BRS" },
+            ],
+            "trainer": [
+                { "count": 2, "name": "Elesa's Sparkle", "number": "233", "set": "FST" },
+                { "count": 2, "name": "Judge", "number": "176", "set": "SVI" },
+                { "count": 2, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 1, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 4, "name": "Cram-o-matic", "number": "229", "set": "FST" },
+                { "count": 4, "name": "Power Tablet", "number": "236", "set": "FST" },
+                { "count": 3, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 1, "name": "Switch", "number": "194", "set": "SVI" },
+                { "count": 1, "name": "Feather Ball", "number": "141", "set": "ASR" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 1, "name": "Pal Pad", "number": "182", "set": "SVI" },
+                { "count": 3, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 1, "name": "Box of Disaster", "number": "154", "set": "LOR" },
+                { "count": 1, "name": "Choice Belt", "number": "176", "set": "PAL" },
+                { "count": 2, "name": "Lost City", "number": "161", "set": "LOR" },
+                { "count": 1, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+            ],
+            "energy": [
+                { "count": 4, "name": "Fusion Strike Energy - Special", "number": "244", "set": "FST" },         
+                { "count": 3, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" }            
             ]
         }
     },
@@ -212,15 +237,39 @@ let masters = [
         "event": "2024 Utrecht Special Event",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/gardevoir.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ], "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 2, "name": "Gardevoir ex", "number": "86", "set": "SVI" },
+                { "count": 2, "name": "Gardevoir", "number": "61", "set": "CRE" },
+                { "count": 3, "name": "Kirlia", "number": "68", "set": "SIT" },
+                { "count": 1, "name": "Kirlia", "number": "60", "set": "CRE" },
+                { "count": 4, "name": "Ralts", "number": "60", "set": "ASR" },
+                { "count": 1, "name": "Zacian V", "number": "16", "set": "CEL" },
+                { "count": 1, "name": "Cresselia", "number": "74", "set": "LOR" },
+                { "count": 1, "name": "Scream Tail", "number": "86", "set": "PAR" },
+                { "count": 1, "name": "Radiant Greninja", "number": "46", "set": "ASR" },
+                { "count": 1, "name": "Manaphy", "number": "41", "set": "BRS" },
+                { "count": 1, "name": "Mew", "number": "11", "set": "CEL" },
+              ], "trainer": [
+                { "count": 4, "name": "Iono", "number": "185", "set": "PAL" },
+                { "count": 2, "name": "Avery", "number": "130", "set": "CRE" },
+                { "count": 1, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 1, "name": "Worker", "number": "167", "set": "SIT" },
+                { "count": 1, "name": "Professor Turo's Scenario", "number": "171", "set": "PAR" },
+                { "count": 4, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 3, "name": "Level Ball", "number": "129", "set": "BST" },
+                { "count": 3, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 2, "name": "Rare Candy", "number": "191", "set": "SVI" },
+                { "count": 2, "name": "Fog Crystal", "number": "140", "set": "CRE" },
+                { "count": 2, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 2, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 1, "name": "Lost Vacuum", "number": "135", "set": "CRZ" },
+                { "count": 1, "name": "Artazon", "number": "171", "set": "PAL" },
+                { "count": 1, "name": "Collapsed Stadium", "number": "137", "set": "BRS" },
+              ], "energy": [
+                { "count": 10, "name": "Basic Psychic Energy", "number": "5", "set": "SVE" },
+                { "count": 2, "name": "Reversal Energy - Special", "number": "192", "set": "PAL" },
             ]
         }
     },
