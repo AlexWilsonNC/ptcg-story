@@ -3,11 +3,11 @@
 // /* set 250+ */ fetch('https://api.pokemontcg.io/v2/cards?q=set.id:sv4&page=2').then(res => { console.log('Download New Set', res.json()) })
 // /* card */ fetch('https://api.pokemontcg.io/v2/cards/sv2-1').then(res => { console.log('Download New Card', res.json()) })
 
-// sv4.forEach(cardObject => {
+// svp.forEach(cardObject => {
 //     delete cardObject.tcgplayer;
 //     delete cardObject.cardmarket;
 // })
-// console.log('Edited Set Object 2 - Removing Values', sv4)
+// console.log('Edited Set Object 2 - Removing Values', svp)
 
 // const allStandardLegalCards = [];
 // let page = 2;

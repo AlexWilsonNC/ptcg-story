@@ -35,8 +35,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -44,7 +44,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -107,8 +107,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -116,7 +116,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -182,8 +182,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -191,7 +191,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -264,8 +264,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -273,7 +273,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -342,8 +342,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -351,7 +351,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -423,8 +423,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -432,7 +432,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -510,8 +510,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -519,7 +519,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -592,8 +592,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -601,7 +601,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -676,8 +676,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -685,7 +685,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -746,8 +746,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -755,7 +755,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -826,8 +826,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -835,7 +835,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -910,8 +910,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -919,7 +919,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -993,8 +993,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1002,7 +1002,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1079,8 +1079,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1088,7 +1088,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1131,7 +1131,8 @@ let svp = [
                     "Lightning"
                 ],
                 "convertedEnergyCost": 1,
-                "damage": "30"
+                "damage": "30",
+                "text": ""
             },
             {
                 "name": "Extreme Current",
@@ -1160,8 +1161,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1169,7 +1170,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1217,7 +1218,8 @@ let svp = [
                     "Colorless"
                 ],
                 "convertedEnergyCost": 2,
-                "damage": "60"
+                "damage": "60",
+                "text": ""
             },
             {
                 "name": "Aura Sphere",
@@ -1246,8 +1248,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1255,7 +1257,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1301,7 +1303,8 @@ let svp = [
                     "Lightning"
                 ],
                 "convertedEnergyCost": 1,
-                "damage": "60"
+                "damage": "60",
+                "text": ""
             },
             {
                 "name": "Thunderstrike Tail",
@@ -1330,8 +1333,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1339,7 +1342,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1413,8 +1416,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1422,7 +1425,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1498,8 +1501,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1507,7 +1510,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1578,8 +1581,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1587,7 +1590,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1657,8 +1660,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1666,7 +1669,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1744,8 +1747,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1753,7 +1756,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1823,8 +1826,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1832,7 +1835,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1893,8 +1896,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1902,7 +1905,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -1967,8 +1970,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1976,7 +1979,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2050,8 +2053,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2059,7 +2062,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2134,8 +2137,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2143,7 +2146,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2152,7 +2155,7 @@ let svp = [
         "number": "24",
         "artist": "Uta",
         "rarity": "Promo",
-        "flavorText": "It’s very friendly and faithful to people. It will try to repel enemies by barking and biting.",
+        "flavorText": "It's very friendly and faithful to people. It will try to repel enemies by barking and biting.",
         "nationalPokedexNumbers": [
             58
         ],
@@ -2209,8 +2212,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2218,7 +2221,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2291,8 +2294,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2300,7 +2303,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2372,8 +2375,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2381,7 +2384,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2458,8 +2461,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2467,7 +2470,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2542,8 +2545,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2551,7 +2554,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2622,8 +2625,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2631,7 +2634,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2688,8 +2691,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2697,7 +2700,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2762,8 +2765,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2771,7 +2774,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2846,8 +2849,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2855,7 +2858,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2916,8 +2919,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2925,7 +2928,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -2999,8 +3002,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3008,7 +3011,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -3089,8 +3092,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3098,7 +3101,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -3179,8 +3182,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3188,7 +3191,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -3251,8 +3254,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3260,7 +3263,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -3293,14 +3296,14 @@ let svp = [
         ],
         "rules": [
             "The Retreat Cost of each Psyduck in play (both yours and your opponent's) is Colorless less.",
-            "You may play only 1 Stadium card during your turn. Put it into the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+            "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
         ],
         "set": {
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3308,7 +3311,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -3378,8 +3381,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3387,7 +3390,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -3396,6 +3399,9 @@ let svp = [
         "number": "33",
         "artist": "5ban Graphics",
         "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            908
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -3460,8 +3466,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3469,7 +3475,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -3478,6 +3484,9 @@ let svp = [
         "number": "34",
         "artist": "5ban Graphics",
         "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            911
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -3528,8 +3537,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3537,7 +3546,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -3547,6 +3556,9 @@ let svp = [
         "artist": "OKACHEKE",
         "rarity": "Promo",
         "flavorText": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
+        "nationalPokedexNumbers": [
+            1
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -3595,8 +3607,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3604,7 +3616,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -3614,6 +3626,9 @@ let svp = [
         "artist": "NC Empire",
         "rarity": "Promo",
         "flavorText": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+        "nationalPokedexNumbers": [
+            4
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -3680,8 +3695,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3689,14 +3704,19 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
             }
         },
         "number": "52",
+        "artist": "Bun Toujo",
         "rarity": "Promo",
+        "flavorText": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+        "nationalPokedexNumbers": [
+            150
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -3746,8 +3766,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3755,7 +3775,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -3765,6 +3785,9 @@ let svp = [
         "artist": "Gemi",
         "rarity": "Promo",
         "flavorText": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
+        "nationalPokedexNumbers": [
+            7
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -3827,8 +3850,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3836,14 +3859,18 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
             }
         },
         "number": "53",
+        "artist": "Natsumi Yoshida",
         "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            151
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -3906,8 +3933,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3915,14 +3942,18 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
             }
         },
         "number": "54",
+        "artist": "takuyoa",
         "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            658
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -3972,8 +4003,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -3981,14 +4012,19 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
             }
         },
         "number": "101",
+        "artist": "Jiro Sasumo",
         "rarity": "Promo",
+        "flavorText": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+        "nationalPokedexNumbers": [
+            25
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -4052,8 +4088,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -4061,7 +4097,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -4070,6 +4106,9 @@ let svp = [
         "number": "35",
         "artist": "5ban Graphics",
         "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            914
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -4139,8 +4178,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -4148,14 +4187,18 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
             }
         },
         "number": "50",
+        "artist": "Mitsuhiro Arita",
         "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            65
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -4219,8 +4262,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -4228,14 +4271,18 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
             }
         },
         "number": "55",
+        "artist": "N-DESIGN Inc.",
         "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            115
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -4303,8 +4350,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -4312,14 +4359,18 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
             }
         },
         "number": "49",
+        "artist": "takuyoa",
         "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            145
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -4379,8 +4430,8 @@ let svp = [
             "id": "svp",
             "name": "Scarlet & Violet Black Star Promos",
             "series": "Scarlet & Violet",
-            "printedTotal": 101,
-            "total": 56,
+            "printedTotal": 102,
+            "total": 75,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -4388,7 +4439,7 @@ let svp = [
             },
             "ptcgoCode": "PR-SV",
             "releaseDate": "2023/01/01",
-            "updatedAt": "2023/10/10 15:15:00",
+            "updatedAt": "2023/09/07 23:15:00",
             "images": {
                 "symbol": "https://images.pokemontcg.io/svp/symbol.png",
                 "logo": "https://images.pokemontcg.io/svp/logo.png"
@@ -4398,6 +4449,9 @@ let svp = [
         "artist": "GOSSAN",
         "rarity": "Promo",
         "flavorText": "This POKéMON's stomach is so strong, even eating moldy or rotten food will not affect it.",
+        "nationalPokedexNumbers": [
+            143
+        ],
         "legalities": {
             "unlimited": "Legal",
             "standard": "Legal",
@@ -4410,59 +4464,1505 @@ let svp = [
         }
     },
     {
-        "id": "svp-56",
-        "name": "Charizard ex",
+        "id": "svp-57",
+        "name": "Chi-Yu",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "110",
+        "types": [
+            "Fire"
+        ],
+        "attacks": [
+            {
+                "name": "Flare Bringer",
+                "cost": [
+                    "Fire"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "",
+                "text": "Attach up to 2 Basic Fire Energy cards from your discard pile to 1 of your Pokémon."
+            },
+            {
+                "name": "Megafire of Envy",
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "50+",
+                "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 90 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "57",
+        "artist": "Dsuke",
+        "rarity": "Promo",
+        "flavorText": "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
+        "nationalPokedexNumbers": [
+            1004
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
         "images": {
-            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_056_std.jpg?w=733&ssl=1",
-            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_056_std.jpg?w=733&ssl=1"
+            "small": "https://images.pokemontcg.io/svp/57.png",
+            "large": "https://images.pokemontcg.io/svp/57_hires.png"
         }
     },
     {
-        "id": "svp-58",
-        "name": "Iron Bundle",
+        "id": "svp-61",
+        "name": "Pineco",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Grass"
+        ],
+        "evolvesTo": [
+            "Forretress"
+        ],
+        "attacks": [
+            {
+                "name": "Rollout",
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "30",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "61",
+        "artist": "Nobuhiro Imagawa",
+        "rarity": "Promo",
+        "flavorText": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+        "nationalPokedexNumbers": [
+            204
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
         "images": {
-            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_058_std.jpg?w=733&ssl=1",
-            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_058_std.jpg?w=733&ssl=1"
+            "small": "https://images.pokemontcg.io/svp/61.png",
+            "large": "https://images.pokemontcg.io/svp/61_hires.png"
         }
     },
     {
         "id": "svp-59",
         "name": "Xatu",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "100",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesFrom": "Natu",
+        "abilities": [
+            {
+                "name": "Clairvoyant Sense",
+                "text": "Once during your turn, you may attach a Basic Psychic Energy card from your hand to 1 of your Benched Pokémon. If you attached Energy to a Pokémon in this way, draw 2 cards.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Super Psy Bolt",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "59",
+        "artist": "GOSSAN",
+        "rarity": "Promo",
+        "flavorText": "This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.",
+        "nationalPokedexNumbers": [
+            178
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
         "images": {
-            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_059_std.jpg?w=733&ssl=1",
-            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_059_std.jpg?w=733&ssl=1"
+            "small": "https://images.pokemontcg.io/svp/59.png",
+            "large": "https://images.pokemontcg.io/svp/59_hires.png"
+        }
+    },
+    {
+        "id": "svp-62",
+        "name": "Sinistea",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "30",
+        "types": [
+            "Psychic"
+        ],
+        "evolvesTo": [
+            "Polteageist"
+        ],
+        "attacks": [
+            {
+                "name": "Cold Tea",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "62",
+        "artist": "kurumitsu",
+        "rarity": "Promo",
+        "flavorText": "The soul of someone who died alone possessed some leftover tea. This Pokémon appears in hotels and houses.",
+        "nationalPokedexNumbers": [
+            854
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/62.png",
+            "large": "https://images.pokemontcg.io/svp/62_hires.png"
+        }
+    },
+    {
+        "id": "svp-56",
+        "name": "Charizard ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2",
+            "Tera",
+            "ex"
+        ],
+        "hp": "330",
+        "types": [
+            "Darkness"
+        ],
+        "evolvesFrom": "Charmeleon",
+        "rules": [
+            "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Infernal Reign",
+                "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Burning Darkness",
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "180+",
+                "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "56",
+        "artist": "takuyoa",
+        "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            6
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/56.png",
+            "large": "https://images.pokemontcg.io/svp/56_hires.png"
+        }
+    },
+    {
+        "id": "svp-58",
+        "name": "Iron Bundle",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Future"
+        ],
+        "hp": "100",
+        "types": [
+            "Water"
+        ],
+        "abilities": [
+            {
+                "name": "Hyper Blower",
+                "text": "Once during your turn, if this Pokémon is on your Bench, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.) If you do, discard this Pokémon and all attached cards.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Refrigerated Stream",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "80",
+                "text": "If the Defending Pokémon is an Evolution Pokémon, it can't attack during your opponent's next turn."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "58",
+        "artist": "Lee HyunJung",
+        "rarity": "Promo",
+        "flavorText": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.",
+        "nationalPokedexNumbers": [
+            991
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/58.png",
+            "large": "https://images.pokemontcg.io/svp/58_hires.png"
+        }
+    },
+    {
+        "id": "svp-60",
+        "name": "Aegislash",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 2"
+        ],
+        "hp": "150",
+        "types": [
+            "Metal"
+        ],
+        "evolvesFrom": "Doublade",
+        "abilities": [
+            {
+                "name": "Mysterious Shield",
+                "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex and Pokémon V.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Hard Bashing",
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "120",
+                "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 3,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "60",
+        "artist": "Takeshi Nakamura",
+        "rarity": "Promo",
+        "flavorText": "Its potent spectral powers allow it to manipulate others. It once used its powers to force people and Pokémon to build a kingdom to its liking.",
+        "nationalPokedexNumbers": [
+            681
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/60.png",
+            "large": "https://images.pokemontcg.io/svp/60_hires.png"
+        }
+    },
+    {
+        "id": "svp-63",
+        "name": "Cetitan",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "170",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Cetoddle",
+        "attacks": [
+            {
+                "name": "Avalanche",
+                "cost": [
+                    "Water"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+                "name": "Rolling Slider",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100×",
+                "text": "Flip 3 coins. This attack does 100 damage for each heads."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 4,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "63",
+        "artist": "GOSSAN",
+        "rarity": "Promo",
+        "flavorText": "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
+        "nationalPokedexNumbers": [
+            975
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/63.png",
+            "large": "https://images.pokemontcg.io/svp/63_hires.png"
+        }
+    },
+    {
+        "id": "svp-70",
+        "name": "Greavard",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "name": "Graveyard Gamboling",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10×",
+                "text": "This attack does 10 damage for each Psychic Pokémon in your discard pile."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "70",
+        "artist": "Nisota Niso",
+        "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            971
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/70.png",
+            "large": "https://images.pokemontcg.io/svp/70_hires.png"
         }
     },
     {
         "id": "svp-65",
         "name": "Scream Tail",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Ancient"
+        ],
+        "hp": "90",
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "name": "Slap",
+                "cost": [
+                    "Psychic"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "30",
+                "text": ""
+            },
+            {
+                "name": "Roaring Scream",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "",
+                "text": "This attack does 20 damage to 1 of your opponent's Pokémon for each damage counter on this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "65",
+        "artist": "GIDORA",
+        "rarity": "Promo",
+        "flavorText": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
+        "nationalPokedexNumbers": [
+            985
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
         "images": {
-            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_065_std.jpg?w=733&ssl=1",
-            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_065_std.jpg?w=733&ssl=1"
+            "small": "https://images.pokemontcg.io/svp/65.png",
+            "large": "https://images.pokemontcg.io/svp/65_hires.png"
         }
     },
     {
-        "id": "svp-66",
-        "name": "Iron Bundle",
+        "id": "svp-75",
+        "name": "Mimikyu",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "70",
+        "types": [
+            "Psychic"
+        ],
+        "abilities": [
+            {
+                "name": "Safeguard",
+                "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex and Pokémon V.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Ghost Eye",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "",
+                "text": "Put 7 damage counters on your opponent's Active Pokémon."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "75",
+        "artist": "Mitsuhiro Arita",
+        "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            778
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
         "images": {
-            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_066_std.jpg?w=733&ssl=1",
-            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_066_std.jpg?w=733&ssl=1"
+            "small": "https://images.pokemontcg.io/svp/75.png",
+            "large": "https://images.pokemontcg.io/svp/75_hires.png"
         }
     },
     {
         "id": "svp-67",
         "name": "Roaring Moon ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Ancient"
+        ],
+        "hp": "230",
+        "types": [
+            "Darkness"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "attacks": [
+            {
+                "name": "Frenzied Gouging",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "",
+                "text": "Knock Out your opponent's Active Pokémon. If your opponent's Active Pokémon is Knocked Out in this way, this Pokémon does 200 damage to itself."
+            },
+            {
+                "name": "Calamity Storm",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "100+",
+                "text": "You may discard a Stadium in play. If you do, this attack does 120 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "67",
+        "artist": "takuyoa",
+        "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            1005
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
         "images": {
-            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_067_std.jpg?w=733&ssl=1",
-            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_067_std.jpg?w=733&ssl=1"
+            "small": "https://images.pokemontcg.io/svp/67.png",
+            "large": "https://images.pokemontcg.io/svp/67_hires.png"
+        }
+    },
+    {
+        "id": "svp-64",
+        "name": "Arctibax",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Stage 1"
+        ],
+        "hp": "90",
+        "types": [
+            "Water"
+        ],
+        "evolvesFrom": "Frigibax",
+        "attacks": [
+            {
+                "name": "Sharp Fin",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "40",
+                "text": ""
+            },
+            {
+                "name": "Frost Smash",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "80",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "64",
+        "artist": "Teeziro",
+        "rarity": "Promo",
+        "flavorText": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice.",
+        "nationalPokedexNumbers": [
+            997
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/64.png",
+            "large": "https://images.pokemontcg.io/svp/64_hires.png"
         }
     },
     {
         "id": "svp-68",
         "name": "Iron Valiant ex",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "ex",
+            "Future"
+        ],
+        "hp": "220",
+        "types": [
+            "Psychic"
+        ],
+        "rules": [
+            "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+        ],
+        "abilities": [
+            {
+                "name": "Tachyon Bits",
+                "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may put 2 damage counters on 1 of your opponent's Pokémon.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Laser Blade",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "200",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "convertedRetreatCost": 2,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "68",
+        "artist": "aky CG Works",
+        "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            1006
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
         "images": {
-            "small": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_068_std.jpg?fit=733%2C1024&ssl=1",
-            "large": "https://i0.wp.com/pkmncards.com/wp-content/uploads/svbsp_en_068_std.jpg?fit=733%2C1024&ssl=1"
+            "small": "https://images.pokemontcg.io/svp/68.png",
+            "large": "https://images.pokemontcg.io/svp/68_hires.png"
+        }
+    },
+    {
+        "id": "svp-66",
+        "name": "Iron Bundle",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic",
+            "Future"
+        ],
+        "hp": "100",
+        "types": [
+            "Water"
+        ],
+        "abilities": [
+            {
+                "name": "Hyper Blower",
+                "text": "Once during your turn, if this Pokémon is on your Bench, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.) If you do, discard this Pokémon and all attached cards.",
+                "type": "Ability"
+            }
+        ],
+        "attacks": [
+            {
+                "name": "Refrigerated Stream",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 3,
+                "damage": "80",
+                "text": "If the Defending Pokémon is an Evolution Pokémon, it can't attack during your opponent's next turn."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "66",
+        "artist": "Teeziro",
+        "rarity": "Promo",
+        "flavorText": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.",
+        "nationalPokedexNumbers": [
+            991
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/66.png",
+            "large": "https://images.pokemontcg.io/svp/66_hires.png"
+        }
+    },
+    {
+        "id": "svp-69",
+        "name": "Fidough",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "50",
+        "types": [
+            "Psychic"
+        ],
+        "attacks": [
+            {
+                "name": "Rear Kick",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "69",
+        "artist": "sowsow",
+        "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            926
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/69.png",
+            "large": "https://images.pokemontcg.io/svp/69_hires.png"
+        }
+    },
+    {
+        "id": "svp-71",
+        "name": "Maschiff",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Darkness"
+        ],
+        "attacks": [
+            {
+                "name": "Ambush",
+                "cost": [
+                    "Darkness"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10+",
+                "text": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "71",
+        "artist": "Kagemaru Himeno",
+        "rarity": "Promo",
+        "nationalPokedexNumbers": [
+            942
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/71.png",
+            "large": "https://images.pokemontcg.io/svp/71_hires.png"
+        }
+    },
+    {
+        "id": "svp-85",
+        "name": "Pikachu with Grey Felt Hat",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Lightning"
+        ],
+        "attacks": [
+            {
+                "name": "Pika-Portrait",
+                "cost": [
+                    "Lightning"
+                ],
+                "convertedEnergyCost": 1,
+                "text": "Search your deck for a Pikachu and put it onto your Bench. Then, shuffle your deck."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "85",
+        "artist": "Naoyo Kimura",
+        "rarity": "Promo",
+        "flavorText": "When it is angered, it immediately discharges the energy stored in the pouches of its cheeks.",
+        "nationalPokedexNumbers": [
+            25
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/85.png",
+            "large": "https://images.pokemontcg.io/svp/85_hires.png"
+        }
+    },
+    {
+        "id": "svp-102",
+        "name": "Oddish",
+        "supertype": "Pokémon",
+        "subtypes": [
+            "Basic"
+        ],
+        "hp": "60",
+        "types": [
+            "Grass"
+        ],
+        "attacks": [
+            {
+                "name": "Razor Leaf",
+                "cost": [
+                    "Grass"
+                ],
+                "convertedEnergyCost": 1,
+                "damage": "10",
+                "text": ""
+            },
+            {
+                "name": "Grass Knot",
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "convertedEnergyCost": 2,
+                "damage": "20×",
+                "text": "This attack does 20 damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+            }
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "convertedRetreatCost": 1,
+        "set": {
+            "id": "svp",
+            "name": "Scarlet & Violet Black Star Promos",
+            "series": "Scarlet & Violet",
+            "printedTotal": 102,
+            "total": 75,
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "ptcgoCode": "PR-SV",
+            "releaseDate": "2023/01/01",
+            "updatedAt": "2023/09/07 23:15:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/svp/symbol.png",
+                "logo": "https://images.pokemontcg.io/svp/logo.png"
+            }
+        },
+        "number": "102",
+        "artist": "Miranda Branley",
+        "rarity": "Promo",
+        "flavorText": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+        "nationalPokedexNumbers": [
+            43
+        ],
+        "legalities": {
+            "unlimited": "Legal",
+            "standard": "Legal",
+            "expanded": "Legal"
+        },
+        "regulationMark": "G",
+        "images": {
+            "small": "https://images.pokemontcg.io/svp/102.png",
+            "large": "https://images.pokemontcg.io/svp/102_hires.png"
         }
     }
 ]

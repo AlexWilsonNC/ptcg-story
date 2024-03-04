@@ -52,6 +52,14 @@ function displayList(array = []) {
                         }
                     })
                 }
+                if (Object.values(pokemon).includes("Origin Forme Palkia VSTAR")) {
+                    item.decklist[pokemonCardInDeck].forEach(pokemon => {
+                        if (Object.values(pokemon).includes("Blastoise ex")) {
+                            firstSprite.setAttribute('src', "../../../../assets/sprites/palkia-origin.png");
+                            secondSprite.setAttribute('src', "../../../../assets/sprites/blastoise.png");
+                        }
+                    })
+                }
                 if (Object.values(pokemon).includes("Arceus VSTAR")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Hisuian Goodra VSTAR")) {
