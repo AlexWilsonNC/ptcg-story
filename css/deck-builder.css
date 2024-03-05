@@ -33,7 +33,7 @@
     }
 }
 body {
-    background: linear-gradient(to top, rgb(174, 174, 174), white);
+    background: radial-gradient(circle at center, white, rgb(205, 205, 205));
     overflow: hidden !important;
     position: fixed; 
     overflow-y: scroll;
@@ -42,6 +42,217 @@ body {
 #top-navr {
     border-bottom: 2px solid black;
     background-color: white;
+}
+
+/*////////////////*/
+
+@-webkit-keyframes animateBubble {
+    0% {
+        margin-top: 1000px;
+    }
+    100% {
+        margin-top: -100%;
+    }
+}
+@-moz-keyframes animateBubble {
+    0% {
+        margin-top: 1000px;
+    }
+    100% {
+        margin-top: -100%;
+    }
+}
+@keyframes animateBubble {
+    0% {
+        margin-top: 1000px;
+    }
+    100% {
+        margin-top: -100%;
+    }
+}
+@-webkit-keyframes sideWays { 
+    0% { 
+        margin-left:0px;
+    }
+    100% { 
+        margin-left:50px;
+    }
+}
+@-moz-keyframes sideWays { 
+    0% { 
+        margin-left:0px;
+    }
+    100% { 
+        margin-left:50px;
+    }
+}
+@keyframes sideWays { 
+    0% { 
+        margin-left:0px;
+    }
+    100% { 
+        margin-left:50px;
+    }
+}
+/* ANIMATIONS */
+.x1 {
+    -webkit-animation: animateBubble 25s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	-moz-animation: animateBubble 25s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	animation: animateBubble 25s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	
+	left: -5%;
+	top: 5%;
+	
+	-webkit-transform: scale(0.6);
+	-moz-transform: scale(0.6);
+	transform: scale(0.6);
+}
+.x2 {
+    -webkit-animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
+	-moz-animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
+	animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
+	
+	left: 5%;
+	top: 80%;
+	
+	-webkit-transform: scale(0.4);
+	-moz-transform: scale(0.4);
+	transform: scale(0.4);
+}
+.x3 {
+    -webkit-animation: animateBubble 28s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	-moz-animation: animateBubble 28s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	animation: animateBubble 28s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	
+	left: 10%;
+	top: 40%;
+	
+	-webkit-transform: scale(0.7);
+	-moz-transform: scale(0.7);
+	transform: scale(0.7);
+}
+.x4 {
+    -webkit-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
+	-moz-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
+	animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
+	
+	left: 20%;
+	top: 0;
+	
+	-webkit-transform: scale(0.3);
+	-moz-transform: scale(0.3);
+	transform: scale(0.3);
+}
+.x5 {
+    -webkit-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
+	-moz-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
+	animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
+	
+	left: 30%;
+	top: 50%;
+	
+	-webkit-transform: scale(0.5);
+	-moz-transform: scale(0.5);
+	transform: scale(0.5);
+}
+.x6 {
+    -webkit-animation: animateBubble 21s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	-moz-animation: animateBubble 21s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	animation: animateBubble 21s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	
+	left: 50%;
+	top: 0;
+	
+	-webkit-transform: scale(0.8);
+	-moz-transform: scale(0.8);
+	transform: scale(0.8);
+}
+.x7 {
+    -webkit-animation: animateBubble 20s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	-moz-animation: animateBubble 20s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	animation: animateBubble 20s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	
+	left: 65%;
+	top: 70%;
+	
+	-webkit-transform: scale(0.4);
+	-moz-transform: scale(0.4);
+	transform: scale(0.4);
+}
+.x8 {
+    -webkit-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
+	-moz-animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
+	animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
+	
+	left: 80%;
+	top: 10%;
+	
+	-webkit-transform: scale(0.3);
+	-moz-transform: scale(0.3);
+	transform: scale(0.3);
+}
+.x9 {
+    -webkit-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
+	-moz-animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
+	animation: animateBubble 29s linear infinite, sideWays 4s ease-in-out infinite alternate;
+	
+	left: 90%;
+	top: 50%;
+	
+	-webkit-transform: scale(0.6);
+	-moz-transform: scale(0.6);
+	transform: scale(0.6);
+}
+.x10 {
+    -webkit-animation: animateBubble 26s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	-moz-animation: animateBubble 26s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	animation: animateBubble 26s linear infinite, sideWays 2s ease-in-out infinite alternate;
+	
+	left: 80%;
+	top: 80%;
+	
+	-webkit-transform: scale(0.3);
+	-moz-transform: scale(0.3);
+	transform: scale(0.3);
+}
+/* OBJECTS */
+.bubble {
+    -webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	
+    -webkit-box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2), inset 0px 10px 30px 5px rgba(255, 255, 255, 1);
+	-moz-box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2), inset 0px 10px 30px 5px rgba(255, 255, 255, 1);
+	box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2), inset 0px 10px 30px 5px rgba(255, 255, 255, 1);
+	
+    height: 200px;
+	position: absolute;
+	width: 200px;
+
+    z-index: -1;
+}
+.bubble:after {
+    background: -moz-radial-gradient(center, ellipse cover,  rgba(255,255,255,0.5) 0%, rgba(255,255,255,0) 70%); /* FF3.6+ */
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(255,255,255,0.5)), color-stop(70%,rgba(255,255,255,0))); /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient(center, ellipse cover,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,0) 70%); /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient(center, ellipse cover,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,0) 70%); /* Opera 12+ */
+    background: -ms-radial-gradient(center, ellipse cover,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,0) 70%); /* IE10+ */
+    background: radial-gradient(ellipse at center,  rgba(255,255,255,0.5) 0%,rgba(255,255,255,0) 70%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', endColorstr='#00ffffff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	
+    -webkit-box-shadow: inset 0 20px 30px rgba(255, 255, 255, 0.3);
+	-moz-box-shadow: inset 0 20px 30px rgba(255, 255, 255, 0.3);
+	box-shadow: inset 0 20px 30px rgba(255, 255, 255, 0.3);
+	
+	content: "";
+    height: 180px;
+	left: 10px;
+	position: absolute;
+	width: 180px;
 }
 
 /*////////////////*/
@@ -60,19 +271,28 @@ body {
     width: 40%;height:100%;
 }
 .event-searchbar {
-    margin: 15px 0 10px 20px;
+    padding: 25px 0 10px 20px;
+    margin-top: -15px;
+    border-bottom: 2px solid black;
     display: flex;
     flex-direction: row;
     align-items: center;
+    background-color: white;
+    box-shadow: -10px 0 5px black;
 }
 .search-mag {
     margin-right: 10px;
-    color: white;
+    color: black;
 }
 .event-searchbar input {
     font-size: 18px;
     width: 50%;
     padding: 2px;
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(50, 50, 50);
+}
+.event-searchbar.darkon input {
     background-color: black;
     color: white;
     border: 2px solid grey;
@@ -145,7 +365,8 @@ body {
     content: "+";
     width: 10px;height: 10px;
     position: absolute;
-    box-shadow: 0px 0px 5px brgba(0, 0, 0, 0.681);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.681);
+    transition: ease all 0.2s;
 }
 .add-card-to-deck::before {
     content: "+";
@@ -153,10 +374,10 @@ body {
     font-weight: 600;
 }
 .add-card-to-deck:hover {
-    background-color: rgb(219, 217, 234);
+    background-color: rgb(255, 255, 255);
     color:black;
     cursor: pointer;
-    box-shadow: 0px 0px 10px black;
+    box-shadow: 2px 2px 7px rgb(0, 0, 0);
 }
 
 #zoomed-bg {
@@ -231,7 +452,7 @@ body {
 }
 .pm-card:hover {
     cursor: pointer;
-    background-color: rgb(219, 217, 234);
+    background-color: rgb(255, 255, 255);
     box-shadow: 0px 0px 10px black;
     color:black;
     font-weight: 600;
@@ -250,6 +471,16 @@ body {
 }
 .deck-build-options {
     height: 33%;width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.all-options-box {
+    width: 98%;
+    height: 95%;
+    background-color: transparent;
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.7), inset 0px 0px 10px rgba(0, 0, 0, 0.5);
 }
 .deck-box {
     display: flex;
@@ -258,10 +489,10 @@ body {
     flex-wrap: wrap;
     padding: 15px;
     border-top: 3px solid black;
-    border-left: 3px solid black;
+    /* border-left: 3px solid black; */
     background-image: url(../assets/old-white-bg.jpg);
     background-size: cover;
-    border-top-left-radius: 15px;
+    /* border-top-left-radius: 15px; */
 }
 
 .expand-advanced {
@@ -274,9 +505,9 @@ body {
     flex-direction: row;
     font-size: 18px !important;
     color:rgb(235, 235, 235);
-    border-bottom: 2px solid grey;
-    border-left: 2px solid grey;
-    border-right: 2px solid grey;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     position: relative;
