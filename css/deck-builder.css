@@ -33,37 +33,15 @@
     }
 }
 body {
-    background: linear-gradient(to bottom, #461d21, #522126, rgb(140, 82, 143), rgb(70, 72, 96), #1a1a1b);
+    background: linear-gradient(to top, rgb(174, 174, 174), white);
     overflow: hidden !important;
     position: fixed; 
     overflow-y: scroll;
     inset: 0;
 }
 #top-navr {
-    border-bottom: 2px solid grey;
-    background-color: rgb(25, 25, 25);
-}
-#nav-leftr img {
-    content: url('../assets/dark-logo.png');
-}
-#nav-leftr h1 {
-    color: white;
-}
-#nav-rightr a {
-    color: #e1e1e1;
-}
-.drop-it-down2 {
-    background: linear-gradient(to bottom, #191919, rgb(122, 122, 122));
-    border-left: 1px solid #191919;
-    border-right: 1px solid #191919;
-    border-bottom: 1px solid #191919;
-    border-bottom: 1px solid rgb(151, 151, 151);
-}
-#menuToggle span {
-background: #e1e1e1;
-}
-#menuToggle input:checked ~ span {
-background: #e1e1e1;
+    border-bottom: 2px solid black;
+    background-color: white;
 }
 
 /*////////////////*/
@@ -111,14 +89,16 @@ background: #e1e1e1;
 }
 .all-cards-container::-webkit-scrollbar-track {
     border-radius: 8px;
-    background-color: #27262a;
-    border: 1px solid #171515;
+    background-color: #ffffff;
+    border: 1px solid #bcbccc;
     box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
     margin-top: -50px;
 }
 .all-cards-container::-webkit-scrollbar-thumb {
     border-radius: 8px;
-    background: radial-gradient(circle at center, rgb(179, 183, 190), rgb(157, 161, 170));
+    /* background: linear-gradient(to top, rgb(138, 138, 138), rgb(99, 99, 99)); */
+    background-color: rgb(148, 148, 148);
+    box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.9);
 }
 .all-cards-displayed {
     width: 90%;
@@ -217,7 +197,8 @@ background: #e1e1e1;
 .database-card-in-list {
     width: 115px;
     height: auto;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.8);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
 }
 .database-card-in-list:hover {
     cursor: pointer;
@@ -265,7 +246,7 @@ background: #e1e1e1;
 
 .active-deck-container {
     width: 60%;height:100vh;
-    margin-left: 5px;
+    /* margin-left: 3px; */
 }
 .deck-build-options {
     height: 33%;width: 100%;
@@ -276,9 +257,9 @@ background: #e1e1e1;
     justify-content: center;
     flex-wrap: wrap;
     padding: 15px;
-    border-top: 2px solid grey;
-    border-left: 2px solid grey;
-    background-image: url(../assets/old-white-bg-2.jpg);
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    background-image: url(../assets/old-white-bg.jpg);
     background-size: cover;
     border-top-left-radius: 15px;
 }
