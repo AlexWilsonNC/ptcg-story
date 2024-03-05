@@ -8,11 +8,12 @@
     <link rel='icon' href="https://i.ibb.co/rFQ53Qq/android-chrome-192x192.png" type='image/x-icon' alt='logo'>
 
 
-
     <link rel="stylesheet" href="../style.css">
     <link rel="stylesheet" href="../css/nav.css">
     <link rel="stylesheet" href="../css/worlds.css">
+    <link rel="stylesheet" href="../css/card-database.css">
     <link rel="stylesheet" href="../css/deck-builder.css">
+    <link rel="stylesheet" href="../css/deck-search.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -123,31 +124,33 @@
 
         <!-- left side -->
         <div class='card-search-container'>
-                <!-- search bar -->
-                <div class='event-searchbar'>
-                    <span class="material-symbols-outlined search-mag">search</span>
-                    <input type='search' name='search' class='search' id='search' placeholder=' Card Search'>
-                </div>
+            <!-- expand advanced -->
+            <div class='expand-advanced'>
+                <p>Advanced <span class="material-symbols-outlined">expand_more</span></p>
+            </div>
 
-                <!-- expand advanced -->
-                <div class='expand-advanced'>
-                    <p>Advanced <span class="material-symbols-outlined">expand_more</span></p>
-                </div>
-                
-                <!-- card search list results -->
-                <div class='all-cards-container'>
-                    <div class='all-cards-displayed'>
+            <!-- search bar -->
+            <div class='event-searchbar'>
+                <span class="material-symbols-outlined search-mag">search</span>
+                <input type='search' name='search' class='search' id='search' placeholder=' Card Search'>
+            </div>
+            
+            <!-- card search list results -->
+            <div class='all-cards-container'>
+                <div class='all-cards-displayed'>
 
-                    </div>
                 </div>
+            </div>
         </div>
 
         <div id="zoom-card-box"></div>
+
         <!-- right side -->
         <div class='active-deck-container'>
+            
             <!-- deck options -->
             <div class='deck-build-options'>
-
+                <!-- empty -->
             </div>
 
             <!-- playmat -->
@@ -346,125 +349,7 @@
                     </div>
                 </div>
             </div>
-
         </div>
-
-        <!-- <div class='deck-container-built'>
-            <div class='deck-box-built'>
-                <div class='pokemon-card2'>
-                    <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/vileplume.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/gloom.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/oddish.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/03.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/reuniclus.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/duosion.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/solosis.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/03.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/donphan-prime.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/phanpy-col.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/zekrom.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/pichu.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/blissey-prime.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/chansey.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/cleffa-col.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/suicune-entei-top.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/suicune-entei-bottom.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/twins.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/04.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/sages-training.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/04.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/poke-collector.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/03.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/seeker.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/copycat.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/pont.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/rare-candy-hgss.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/03.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/pokemon-communication-bw.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/03.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/2010-2012/tropical-beach.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
-                </div>
-                <div class='pokemon-card2'>
-                    <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/energy/bw-energy-fighting.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/02.png'>
-                </div>
-                <div class='pokemon-card2'>
-                    <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/energy/bw-energy-fire.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/01.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/energy/hgss-energy-dce.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/04.png'>
-                </div>
-                <div class='pokemon-card2'>
-                        <img class='pok-card-small2 zoomed' loading='lazy' src='../assets/cards/energy/rainbow-energy-hgss.png'>
-                    <img class='num-2' alt='number' loading='lazy' src='../assets/04.png'>
-                </div>
-            </div>
-        </div> -->
 
     </div>
 
@@ -472,7 +357,8 @@
     <script src="../card-database-search.js"></script>
     <script src='./deck-builder.js'></script>
 
-    <!-- <script src='../card-database/sv/sv3.js'></script> -->
+    <!-- sv -->
+    <script src='../card-database/sv/sv2.js'></script>
 
 </body>
 

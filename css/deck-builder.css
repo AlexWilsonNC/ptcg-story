@@ -33,7 +33,7 @@
     }
 }
 body {
-    background-image: linear-gradient(to bottom, rgb(25, 25, 25), #373737);
+    background: linear-gradient(to bottom, #461d21, #522126, rgb(140, 82, 143), rgb(70, 72, 96), #1a1a1b);
     overflow: hidden !important;
     position: fixed; 
     overflow-y: scroll;
@@ -82,7 +82,7 @@ background: #e1e1e1;
     width: 40%;height:100%;
 }
 .event-searchbar {
-    margin: 20px 0 0 20px;
+    margin: 15px 0 10px 20px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -104,15 +104,31 @@ background: #e1e1e1;
     justify-content: center;
     width: 100%;
     overflow-y: auto;
+    /* direction: rtl; */
+}
+.all-cards-container::-webkit-scrollbar {
+    width: 12px;
+}
+.all-cards-container::-webkit-scrollbar-track {
+    border-radius: 8px;
+    background-color: #27262a;
+    border: 1px solid #171515;
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+    margin-top: -50px;
+}
+.all-cards-container::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background: radial-gradient(circle at center, rgb(179, 183, 190), rgb(157, 161, 170));
 }
 .all-cards-displayed {
     width: 90%;
-    height: 80vh;
+    height: 79vh;
     padding: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    /* direction: ltr; */
 }
 .searched-card-wrap {
     display: flex;
@@ -144,7 +160,7 @@ background: #e1e1e1;
     font-size: 25px;
     background-color: rgb(46, 48, 67);
     margin-top: 100px;
-    border: 3px solid black;
+    border: 2px solid black;
     border-radius: 15px;
     content: "+";
     width: 10px;height: 10px;
@@ -249,38 +265,41 @@ background: #e1e1e1;
 
 .active-deck-container {
     width: 60%;height:100vh;
-    border-left: 2px solid grey;
-    z-index: 1;
+    margin-left: 5px;
 }
 .deck-build-options {
-    height: 300px;width: 100%;
-    background-image: linear-gradient(to top, rgba(36, 36, 80, 0.631), rgba(7, 7, 21, 0.64));
-    border-bottom: 2px solid grey;
+    height: 33%;width: 100%;
 }
 .deck-box {
-    border-radius: 15px;
     display: flex;
     flex-direction: row;
     justify-content: center;
     flex-wrap: wrap;
     padding: 15px;
+    border-top: 2px solid grey;
+    border-left: 2px solid grey;
+    background-image: url(../assets/old-white-bg-2.jpg);
+    background-size: cover;
+    border-top-left-radius: 15px;
 }
 
 .expand-advanced {
     width: 100%;
-    margin-top: 15px;
     padding: 5px 0;
-    background-image: linear-gradient(to top right, rgba(36, 36, 80, 0.631), rgba(7, 7, 21, 0.64));
+    background-image: linear-gradient(to top right, rgb(36, 36, 80), rgb(7, 7, 21));
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: row;
     font-size: 18px !important;
     color:rgb(235, 235, 235);
-    border-top: 2px solid grey;
     border-bottom: 2px solid grey;
     border-left: 2px solid grey;
+    border-right: 2px solid grey;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
     position: relative;
+    z-index: 5;
 }
 .expand-advanced span {
     position: absolute;

@@ -18390,9 +18390,6 @@ let sv4pt5 = [
 ]
 
 const setsOl = document.querySelector('.all-cards-displayed');
-const liveSetLogo = document.querySelector('.live-set');
-const releaseDate = document.querySelector('.release-date');
-const cardCount = document.querySelector('.card-count');
 let zoomedImg = document.getElementById("insert-zoomed-img");
 let card = document.getElementsByClassName("database-card-in-list"),
     zoombox = document.getElementById("zoomed-bg");
