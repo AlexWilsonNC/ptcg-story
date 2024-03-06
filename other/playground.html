@@ -62,7 +62,7 @@
                     <span></span>
                     <span></span>
                     <ul id="menu">
-                        <div class='push-right' style='opacity: 0.5;pointer-events: none;'>
+                        <div class='push-right'>
                             <div onclick='rememberButton(this.id)' id='toggle'>
                                 <i class='indicator'></i>
                                 <div></div>
@@ -125,16 +125,7 @@
         <!-- left side -->
         <div class='card-search-container'>
 
-            <!-- <div class="bubble x1"></div>
-            <div class="bubble x2"></div>
-            <div class="bubble x3"></div>
-            <div class="bubble x4"></div>
-            <div class="bubble x5"></div>
-            <div class="bubble x6"></div>
-            <div class="bubble x7"></div>
-            <div class="bubble x8"></div>
-            <div class="bubble x9"></div>
-            <div class="bubble x10"></div> -->
+            
 
             <!-- expand advanced -->
             <div class='expand-advanced'>
@@ -163,9 +154,22 @@
             <!-- deck options -->
             <div class='deck-build-options'>
                 <div class='all-options-box'>
+                    <div class='options-row row-options-1'>
+                        
+                    </div>
+                    <div class='options-row row-options-2'>
+
+                    </div>
+                    <div class='options-row row-options-3'>
+
+                    </div>
                 </div>
             </div>
 
+            <div class='deck-stats'>
+                <p id='stat-count'>44 / 60</p>
+                <p id='deck-reset'>Reset</p>
+            </div>
             <!-- playmat -->
             <div class='deck-box'>
                 <!-- one card with popup + - buttons -->
@@ -366,6 +370,7 @@
 
     </div>
 
+    <script src="../darkmode/darkmode-deckbuilder.js"></script>
     <script src="../zoom.js"></script>
     <script src="../card-database-search.js"></script>
     <script src='./deck-builder.js'></script>
