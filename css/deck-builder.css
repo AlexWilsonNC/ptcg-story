@@ -463,9 +463,6 @@ body.darkon {
         -ms-user-select: none;
             user-select: none;
 }
-/* .expand-advanced-arrow::before {
-    content: "expand_more";
-} */
 .inverted-arrow {
     transform: rotate(180deg);
 }
