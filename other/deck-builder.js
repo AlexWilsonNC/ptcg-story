@@ -18394,6 +18394,8 @@ let zoomedImg = document.getElementById("insert-zoomed-img");
 let card = document.getElementsByClassName("database-card-in-list"),
     zoombox = document.getElementById("zoomed-bg");
 
+let advancedDropdown = document.querySelector(".expand-advanced");
+
 function displayList(array = []) {
     setsOl.innerHTML = '';
 
@@ -18428,3 +18430,7 @@ function displayList(array = []) {
 }
 
 displayList(sv4pt5);
+
+advancedDropdown.addEventListener('click', () => {
+    advancedDropdown.style.marginTop = '0px'
+})

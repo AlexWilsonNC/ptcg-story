@@ -4915,8 +4915,6 @@ function displayList3(array = []) {
           document.querySelector('.modal').style.backgroundImage = "url(../../../assets/dark-bg.png)";
         }
 
-         
-
         for (let i = 0; i < item.deck.length; i++) {
           let deck = item.deck[i];
 
