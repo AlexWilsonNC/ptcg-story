@@ -18394,6 +18394,7 @@ let zoomedImg = document.getElementById("insert-zoomed-img");
 let card = document.getElementsByClassName("database-card-in-list"),
     zoombox = document.getElementById("zoomed-bg");
 
+let advancedDropdownBtn = document.querySelector(".advanced-p-btn");
 let advancedDropdown = document.querySelector(".expand-advanced");
 
 function displayList(array = []) {
@@ -18431,6 +18432,7 @@ function displayList(array = []) {
 
 displayList(sv4pt5);
 
-advancedDropdown.addEventListener('click', () => {
-    advancedDropdown.style.marginTop = '0px'
+advancedDropdownBtn.addEventListener('click', () => {
+    advancedDropdown.classList.toggle('collapse-advanced');
+    document.querySelector('.expand-advanced-arrow').classList.toggle('inverted-arrow');
 })

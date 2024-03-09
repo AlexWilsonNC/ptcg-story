@@ -434,16 +434,14 @@ body.darkon {
 .expand-advanced {
     width: 100%;
     height: 800px;
-    padding-bottom: 5px;
-    background-image: linear-gradient(to top left, rgba(24, 98, 130, 0.9), rgba(15, 32, 101, 0.9));
+    /* padding-bottom: 5px; */
+    background-image: linear-gradient(to top left, rgba(71, 174, 218, 0.9), rgba(255, 255, 255, 0.9));
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
     font-size: 18px !important;
     font-weight: 600;
-    text-shadow: 1px 1px 1px black;
-    color:rgb(235, 235, 235);
     border-bottom: 2px solid black;
     border-left: 2px solid black;
     border-right: 2px solid black;
@@ -454,21 +452,48 @@ body.darkon {
     z-index: 5;
     transition: ease all 0.2s;
     overflow: hidden;
-    overflow-y: scroll;
+    /* overflow-y: scroll; */
+
+    margin-top: -765px;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
 }
-.expand-advanced p {
-    background-image: linear-gradient(to top left, rgb(24, 98, 130), rgb(15, 32, 101));
-    border-top: 1px solid black;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-    padding: 15px 0 0 0;
+/* .expand-advanced-arrow::before {
+    content: "expand_more";
+} */
+.inverted-arrow {
+    transform: rotate(180deg);
+}
+.collapse-advanced {
+    margin-top: 0px;
+}
+#advanced-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.advanced-p-btn {
+    text-shadow: 1px 1px 1px black;
+    color:white;
+    background-image: linear-gradient(to top left, rgba(7, 29, 57, 0.9), rgba(0, 0, 0, 0.9));
     width: 100%;
-    margin-top: -15px;
+    padding: 7px 0;
     text-align: center;
+    transition: ease all 0.2s;
+    cursor: pointer;
 }
 /* .expand-advanced:hover {
-    margin-top: -735px;
+    margin-top: -755px;
     cursor: pointer;
+}
+.expand-advanced:hover > .advanced-p-btn {
+    padding: 20px 0 7px 0;
 } */
 .expand-advanced span {
     position: absolute;
