@@ -80,8 +80,28 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Juan Andree",
+        flag: '../../../../assets/flags/chile.png',
+        "event": "2024 Goiânia Regionals",
+        sprite1: '../../../../assets/sprites/blank.png',
+        sprite2: '../../../../assets/sprites/gardevoir.png',
+        // list: '../../../../assets/list-icon.png',
+        list: '../../../../assets/sprites/blank.png',
+        "decklist": {
+            "pokemon": [
+                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "trainer": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ],
+            "energy": [
+                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+            ]
+        }
+    },
+    {
+        "firstName": "Claudio Ferla",
+        flag: '../../../../assets/flags/brazil.png',
         "event": "2024 Goiânia Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
@@ -100,11 +120,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "João Vitor Munhak",
+        flag: '../../../../assets/flags/brazil.png',
         "event": "2024 Goiânia Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/roaring-moon.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -120,28 +140,8 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
-        "event": "2024 Goiânia Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
-        "decklist": {
-            "pokemon": [
-                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
-            ],
-            "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ],
-            "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ]
-        }
-    },
-    {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Carlos Barros",
+        flag: '../../../../assets/flags/brazil.png',
         "event": "2024 Goiânia Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
         sprite2: '../../../../assets/sprites/hyphen.png',
