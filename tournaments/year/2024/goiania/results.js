@@ -40,11 +40,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Ricardo Hille",
+        flag: '../../../../assets/flags/brazil.png',
         "event": "2024 Goiânia Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/chien-pao.png',
+        sprite2: '../../../../assets/sprites/baxcalibur.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -60,11 +60,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Lucas Pedrosa",
+        flag: '../../../../assets/flags/brazil.png',
         "event": "2024 Goiânia Regionals",
-        sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite1: '../../../../assets/sprites/klawf.png',
+        sprite2: '../../../../assets/sprites/electrode-hisui.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
