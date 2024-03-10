@@ -18409,7 +18409,7 @@ function displayList(array = []) {
         img.setAttribute('src', item.images.small);
         img.loading = 'lazy';
         let addCardBtn = document.createElement('div');
-        addCardBtn.classList.add('add-card-to-deck')
+        addCardBtn.classList.add('add-card-to-deck');
         
         cardArea.appendChild(img);
         cardArea.appendChild(addCardBtn);
@@ -18431,6 +18431,10 @@ function displayList(array = []) {
 }
 
 displayList(sv4pt5);
+
+function collapseAdvanced() {
+    advancedDropdown.classList.toggle('collapse-advanced');
+}
 
 advancedDropdownBtn.addEventListener('click', () => {
     advancedDropdown.classList.toggle('collapse-advanced');

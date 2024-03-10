@@ -13,7 +13,11 @@ const alloptionbox = document.querySelector('.all-options-box');
 const allcardscontainer = document.querySelector('.all-cards-container');
 const deckbox = document.querySelector('.deck-box');
 const importlistbox = document.querySelector('.import-list-box');
+const expandadvanced = document.querySelector('.expand-advanced');
+const advancedpbtn = document.querySelector('.advanced-p-btn');
+
 const optionbtn = document.querySelectorAll('.option-btn');
+const setwhitebox = document.querySelectorAll('.set-white-box');
 
 const enableDarkMode = () => {
     document.body.classList.add('darkon');
@@ -30,9 +34,16 @@ const enableDarkMode = () => {
     allcardscontainer.classList.add('darkon');
     deckbox.classList.add('darkon');
     importlistbox.classList.add('darkon');
+    expandadvanced.classList.add('darkon');
+    advancedpbtn.classList.add('darkon');
+
     optionbtn.forEach((optionbtn) => {
       optionbtn.classList.add('darkon');
     })
+    setwhitebox.forEach((setwhitebox) => {
+      setwhitebox.classList.add('darkon');
+    })
+
     localStorage.setItem('darkMode', 'enabled');
   };
   
@@ -51,9 +62,16 @@ const enableDarkMode = () => {
     allcardscontainer.classList.remove('darkon');
     deckbox.classList.remove('darkon');
     importlistbox.classList.remove('darkon');
+    expandadvanced.classList.remove('darkon');
+    advancedpbtn.classList.remove('darkon');
+
     optionbtn.forEach((optionbtn) => {
       optionbtn.classList.remove('darkon');
     })
+    setwhitebox.forEach((setwhitebox) => {
+      setwhitebox.classList.remove('darkon');
+    })
+
     localStorage.setItem('darkMode', null);
   };
   
