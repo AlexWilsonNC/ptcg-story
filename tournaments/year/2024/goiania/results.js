@@ -1,10 +1,10 @@
 let masters = [
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Marco Cifuentes",
+        flag: '../../../../assets/flags/chile.png',
         "event": "2024 Goiânia Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/snorlax.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
@@ -20,11 +20,11 @@ let masters = [
         }
     },
     {
-        "firstName": "--",
-        flag: '../../../../assets/flags/unknown.png',
+        "firstName": "Dalton Acchetta",
+        flag: '../../../../assets/flags/brazil.png',
         "event": "2024 Goiânia Regionals",
         sprite1: '../../../../assets/sprites/blank.png',
-        sprite2: '../../../../assets/sprites/hyphen.png',
+        sprite2: '../../../../assets/sprites/palkia-origin.png',
         // list: '../../../../assets/list-icon.png',
         list: '../../../../assets/sprites/blank.png',
         "decklist": {
