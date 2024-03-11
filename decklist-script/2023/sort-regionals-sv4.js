@@ -101,6 +101,10 @@ function displayList(array = []) {
                     })
                 }
                 if (Object.values(pokemon).includes("Comfey")) {
+                    firstSprite.setAttribute('src', "../../../../assets/sprites/blank.png");
+                    secondSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
+                }
+                if (Object.values(pokemon).includes("Comfey")) {
                     item.decklist[pokemonCardInDeck].forEach(pokemon => {
                         if (Object.values(pokemon).includes("Sableye")) {
                             firstSprite.setAttribute('src', "../../../../assets/sprites/comfey.png");
