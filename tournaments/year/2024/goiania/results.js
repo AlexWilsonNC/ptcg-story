@@ -123,17 +123,37 @@ let masters = [
         "event": "2024 Goiânia Regionals",
         sprite1: '../../../../assets/sprites/klawf.png',
         sprite2: '../../../../assets/sprites/electrode-hisui.png',
-        // list: '../../../../assets/list-icon.png',
-        list: '../../../../assets/sprites/blank.png',
+        list: '../../../../assets/list-icon.png',
         "decklist": {
             "pokemon": [
-                { "count": 3, "name": "ee", "number": "ee", "set": "ee" },
-            ],
-            "trainer": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
-            ],
-            "energy": [
-                { "count": 4, "name": "ee", "number": "ee", "set": "ee" },
+                { "count": 3, "name": "Klawf", "number": "105", "set": "PAR" },
+                { "count": 3, "name": "Hisuian Electrode V", "number": "294", "set": "PR-SW" },
+                { "count": 2, "name": "Brute Bonnet", "number": "123", "set": "PAR" },
+                { "count": 2, "name": "Bibarel", "number": "121", "set": "BRS" },
+                { "count": 2, "name": "Bidoof", "number": "111", "set": "CRZ" },
+                { "count": 1, "name": "Radiant Hisuian Sneasler", "number": "123", "set": "LOR" },
+                { "count": 1, "name": "Squawkabilly ex", "number": "75", "set": "PAF" },
+                { "count": 1, "name": "Spiritomb", "number": "89", "set": "PAL" },
+            ], "trainer": [
+                { "count": 3, "name": "Arven", "number": "186", "set": "OBF" },
+                { "count": 3, "name": "Iono", "number": "80", "set": "PAF" },
+                { "count": 3, "name": "Boss's Orders", "number": "172", "set": "PAL" },
+                { "count": 2, "name": "Professor's Research", "number": "189", "set": "SVI" },
+                { "count": 4, "name": "Ultra Ball", "number": "196", "set": "SVI" },
+                { "count": 4, "name": "Nest Ball", "number": "84", "set": "PAF" },
+                { "count": 4, "name": "Spicy Seasoned Curry", "number": "151", "set": "ASR" },
+                { "count": 3, "name": "Battle VIP Pass", "number": "225", "set": "FST" },
+                { "count": 3, "name": "Switch", "number": "194", "set": "SVI" },
+                { "count": 2, "name": "Escape Rope", "number": "125", "set": "BST" },
+                { "count": 1, "name": "Super Rod", "number": "188", "set": "PAL" },
+                { "count": 1, "name": "Counter Catcher", "number": "160", "set": "PAR" },
+                { "count": 1, "name": "Hisuian Heavy Ball", "number": "146", "set": "ASR" },
+                { "count": 3, "name": "Ancient Booster Energy Capsule", "number": "159", "set": "PAR" },
+                { "count": 1, "name": "Forest Seal Stone", "number": "156", "set": "SIT" },
+                { "count": 2, "name": "Path to the Peak", "number": "148", "set": "CRE" },
+                { "count": 1, "name": "Town Store", "number": "196", "set": "OBF" },
+            ], "energy": [
+                { "count": 4, "name": "Double Turbo Energy - Special", "number": "151", "set": "BRS" },
             ]
         }
     },
