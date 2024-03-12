@@ -86,6 +86,8 @@
                         <li class='sub-nav'><a href="../card-of-the-week/all">Card of the Month</a></li>
                         <hr>
                         <li class='bold tittle'><a href="./main">Other</a></li>
+                        <li class='sub-nav'><a href="./"><strong style='color:rgb(224, 160, 22);'>NEW&nbsp;</strong>Deck
+                                Builder</a></li>
                         <li class='sub-nav'><a href="../card-database">Pokémon Card Database</a></li>
                         <li class='sub-nav'><a href="./expansions">TCG Expansions</a></li>
                         <li class='sub-nav'><a href="./rules-by-era">Rules by Era</a></li>
@@ -121,7 +123,7 @@
     </div>
 
     <div class='deck-builder'>
-
+        <div class='spinner'></div>
         <!-- left side -->
         <div class='card-search-container'>
 
@@ -181,12 +183,10 @@
                             <a class='set-cube pokemon-go' onclick="displayList(pgo),collapseAdvanced();">
                                 <p><img class='pogo' src='../assets/sets/pokemon-go.webp'></p>
                             </a>
-                            <a class='set-cube astral-radiance' onclick="displayList(swsh10),collapseAdvanced();"
-                               >
+                            <a class='set-cube astral-radiance' onclick="displayList(swsh10),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/ssh10-astral-radiance.png'></p>
                             </a>
-                            <a class='set-cube brilliant-stars' onclick="displayList(swsh9),collapseAdvanced();"
-                               >
+                            <a class='set-cube brilliant-stars' onclick="displayList(swsh9),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/ssh9-brilliant-stars.png'></p>
                             </a>
                             <a class='set-cube fusion-strike' onclick="displayList(swsh8),collapseAdvanced();">
@@ -213,8 +213,7 @@
                             <a class='set-cube champions-path' onclick="displayList(swsh35),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/ssh-champions-path.png'></p>
                             </a>
-                            <a class='set-cube darkness-ablaze' onclick="displayList(swsh3),collapseAdvanced();"
-                               >
+                            <a class='set-cube darkness-ablaze' onclick="displayList(swsh3),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/ssh3-darkness-ablaze.png'></p>
                             </a>
                             <a class='set-cube rebel-clash' onclick="displayList(swsh2),collapseAdvanced();">
@@ -249,8 +248,7 @@
                             <a class='set-cube unbroken-bonds' onclick="displayList(sm10),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/sm10-unbroken-bonds.png'></p>
                             </a>
-                            <a class='set-cube detective-pikachu'
-                                onclick="displayList(det),collapseAdvanced();">
+                            <a class='set-cube detective-pikachu' onclick="displayList(det),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/detective-pikachu.png'></p>
                             </a>
                             <a class='set-cube team-up' onclick="displayList(sm9),collapseAdvanced();">
@@ -262,31 +260,25 @@
                             <a class='set-cube dragon-majesty' onclick="displayList(sm75),collapseAdvanced();">
                                 <p><img class='pogo' src='../assets/sets/smp-dragon-magesty.png'></p>
                             </a>
-                            <a class='set-cube celestial-storm'
-                                onclick="displayList(sm7),collapseAdvanced();">
+                            <a class='set-cube celestial-storm' onclick="displayList(sm7),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/sm7-celestial-storm.png'></p>
                             </a>
-                            <a class='set-cube forbidden-light'
-                                onclick="displayList(sm6),collapseAdvanced();">
+                            <a class='set-cube forbidden-light' onclick="displayList(sm6),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/sm6-forbidden-light.png'></p>
                             </a>
                             <a class='set-cube ultra-prism' onclick="displayList(sm5),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/sm5-ultra-prism.png'></p>
                             </a>
-                            <a class='set-cube crimson-invasion'
-                                onclick="displayList(sm4),collapseAdvanced();">
+                            <a class='set-cube crimson-invasion' onclick="displayList(sm4),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/sm4-crimson-invasion.png'></p>
                             </a>
-                            <a class='set-cube shining-legends'
-                                onclick="displayList(sm35),collapseAdvanced();">
+                            <a class='set-cube shining-legends' onclick="displayList(sm35),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/smp-shining-legends.png'></p>
                             </a>
-                            <a class='set-cube burning-shadows'
-                                onclick="displayList(sm3),collapseAdvanced();">
+                            <a class='set-cube burning-shadows' onclick="displayList(sm3),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/sm3-burning-shadows.png'></p>
                             </a>
-                            <a class='set-cube guardians-rising'
-                                onclick="displayList(sm2),collapseAdvanced();">
+                            <a class='set-cube guardians-rising' onclick="displayList(sm2),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/sm2-gaurdians-rising.png'></p>
                             </a>
                             <a class='set-cube sun-moon' onclick="displayList(sm1),collapseAdvanced();">
@@ -324,8 +316,7 @@
                             <a class='set-cube breakthrough' onclick="displayList(xy8),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/xy8-breakthrough.png'></p>
                             </a>
-                            <a class='set-cube ancient-origins'
-                                onclick="displayList(xy7),collapseAdvanced();">
+                            <a class='set-cube ancient-origins' onclick="displayList(xy7),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/xy7-ancient-origins.png'></p>
                             </a>
                             <a class='set-cube roaring-skies' onclick="displayList(xy6),collapseAdvanced();">
@@ -363,8 +354,7 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <a class='set-cube legendary-treasures'
-                                onclick="displayList(bw11),collapseAdvanced();">
+                            <a class='set-cube legendary-treasures' onclick="displayList(bw11),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/bw11-ltr.png'></p>
                             </a>
                             <a class='set-cube plasma-blast' onclick="displayList(bw10),collapseAdvanced();">
@@ -376,15 +366,13 @@
                             <a class='set-cube plasma-storm' onclick="displayList(bw8),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/bw8-plasmastorm.png'></p>
                             </a>
-                            <a class='set-cube boundaries-crossed'
-                                onclick="displayList(bw7),collapseAdvanced();">
+                            <a class='set-cube boundaries-crossed' onclick="displayList(bw7),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/bw7-boundaries-crossed.png'></p>
                             </a>
                             <a class='set-cube dragon-vault' onclick="displayList(dv1),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/bwp-dragon-vault.png'></p>
                             </a>
-                            <a class='set-cube dragons-exalted'
-                                onclick="displayList(bw6),collapseAdvanced();">
+                            <a class='set-cube dragons-exalted' onclick="displayList(bw6),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/bw6-dragons-exalted.png'></p>
                             </a>
                             <a class='set-cube dark-explorers' onclick="displayList(bw5),collapseAdvanced();">
@@ -393,12 +381,10 @@
                             <a class='set-cube next-destinies' onclick="displayList(bw4),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/bw4-next-destinies.png'></p>
                             </a>
-                            <a class='set-cube noble-victories'
-                                onclick="displayList(bw3),collapseAdvanced();">
+                            <a class='set-cube noble-victories' onclick="displayList(bw3),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/bw3-noble-victories.png'></p>
                             </a>
-                            <a class='set-cube emerging-powers'
-                                onclick="displayList(bw2),collapseAdvanced();">
+                            <a class='set-cube emerging-powers' onclick="displayList(bw2),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/bw2-emerging-powers.png'></p>
                             </a>
                             <a class='set-cube black-white' onclick="displayList(bw1),collapseAdvanced();">
@@ -418,8 +404,7 @@
                     </button>
                     <div class='search-open'>
                         <div class='set-organizer'>
-                            <a class='set-cube call-of-legends'
-                                onclick="displayList(col1),collapseAdvanced();">
+                            <a class='set-cube call-of-legends' onclick="displayList(col1),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/hs5-col.png'></p>
                             </a>
                             <a class='set-cube triumphant' onclick="displayList(hgss4),collapseAdvanced();">
@@ -451,8 +436,7 @@
                             <a class='set-cube arceus' onclick="displayList(pl4),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/dp11-arceus.png'></p>
                             </a>
-                            <a class='set-cube supreme-victors'
-                                onclick="displayList(pl3),collapseAdvanced();">
+                            <a class='set-cube supreme-victors' onclick="displayList(pl3),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/dp10-supreme-victors.png'></p>
                             </a>
                             <a class='set-cube rising-rivals' onclick="displayList(pl2),collapseAdvanced();">
@@ -464,22 +448,19 @@
                             <a class='set-cube stormfront' onclick="displayList(dp7),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/dp7-stormfront.png'></p>
                             </a>
-                            <a class='set-cube legends-awakened'
-                                onclick="displayList(dp6),collapseAdvanced();">
+                            <a class='set-cube legends-awakened' onclick="displayList(dp6),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/dp6-legends-awakened.png'></p>
                             </a>
                             <a class='set-cube majestic-dawn' onclick="displayList(dp5),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/dp5-majestic-dawn.png'></p>
                             </a>
-                            <a class='set-cube great-encounters'
-                                onclick="displayList(dp4),collapseAdvanced();">
+                            <a class='set-cube great-encounters' onclick="displayList(dp4),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/dp4-great-encounters.png'></p>
                             </a>
                             <a class='set-cube secret-wonders' onclick="displayList(dp3),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/dp3-secret-wonders.png'></p>
                             </a>
-                            <a class='set-cube mysterious-treasures'
-                                onclick="displayList(dp2),collapseAdvanced();">
+                            <a class='set-cube mysterious-treasures' onclick="displayList(dp2),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/dp2-mysterious-treasures.png'></p>
                             </a>
                             <a class='set-cube diamond-pearl' onclick="displayList(dp1),collapseAdvanced();">
@@ -502,12 +483,10 @@
                             <a class='set-cube power-keepers' onclick="displayList(ex16),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/ex16-power-keepers.png'></p>
                             </a>
-                            <a class='set-cube dragon-fronteirs'
-                                onclick="displayList(ex15),collapseAdvanced();">
+                            <a class='set-cube dragon-fronteirs' onclick="displayList(ex15),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/ex15-dragon-fronteirs.png'></p>
                             </a>
-                            <a class='set-cube crystal-gaurdians'
-                                onclick="displayList(ex14),collapseAdvanced();">
+                            <a class='set-cube crystal-gaurdians' onclick="displayList(ex14),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/ex14-crystal-gaurdians.png'></p>
                             </a>
                             <a class='set-cube holon-phantoms' onclick="displayList(ex13),collapseAdvanced();">
@@ -528,12 +507,10 @@
                             <a class='set-cube deoxys' onclick="displayList(ex8),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/ex8-deoxys.png'></p>
                             </a>
-                            <a class='set-cube rocket-returns'
-                                onclick="displayList(ex7),collapseAdvanced();">
+                            <a class='set-cube rocket-returns' onclick="displayList(ex7),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/ex7-rocket-rerturns.png'></p>
                             </a>
-                            <a class='set-cube firered-leafgreen'
-                                onclick="displayList(ex6),collapseAdvanced();">
+                            <a class='set-cube firered-leafgreen' onclick="displayList(ex6),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/ex6-firered-leafgreen.png'></p>
                             </a>
                             <a class='set-cube hidden-legends' onclick="displayList(ex5),collapseAdvanced();">
@@ -574,8 +551,7 @@
                             <a class='set-cube expedition' onclick="displayList(ecard1),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/expedition1.png'></p>
                             </a>
-                            <a class='set-cube legendary-collection'
-                                onclick="displayList(base6),collapseAdvanced();">
+                            <a class='set-cube legendary-collection' onclick="displayList(base6),collapseAdvanced();">
                                 <p><img class='setit' src='../assets/sets/legendary-collection.png'></p>
                             </a>
                             <a class='set-cube destiny' onclick="displayList(neo4),collapseAdvanced();">
@@ -707,7 +683,8 @@
                 </div>
 
                 <div class='advanced-p-btn'>
-                    <p>Advanced Search <span class="material-symbols-outlined expand-advanced-arrow">expand_more</span></p>
+                    <p>Advanced Search <span class="material-symbols-outlined expand-advanced-arrow">expand_more</span>
+                    </p>
                 </div>
             </div>
 
@@ -716,7 +693,7 @@
                 <span class="material-symbols-outlined search-mag">search</span>
                 <input type='search' name='search' class='search' id='search' placeholder=' Card Search'>
             </div>
-            
+
             <!-- card search list results -->
             <div class='all-cards-container'>
                 <div class='all-cards-displayed'>
@@ -729,43 +706,38 @@
 
         <!-- right side -->
         <div class='active-deck-container'>
-            
+
             <!-- deck options -->
             <div class='deck-build-options'>
                 <div class='all-options-box'>
                     <div class='options-left'>
                         <div class='options-row row-options-1'>
-                            <div class='save-as-img option-btn'>
-                                <span class="material-symbols-outlined">photo_camera</span>
-                                <p>Save as Image</p>
+                            <div class='import-as-deck option-btn'>
+                                <span class="material-symbols-outlined">content_paste</span>
+                                <p>Import Deck</p>
                             </div>
                             <div class='copy-as-dckli option-btn'>
                                 <span class="material-symbols-outlined">content_copy</span>
                                 <p>Export Deck</p>
                             </div>
-                            <div class='import-as-deck option-btn'>
-                                <span class="material-symbols-outlined">content_paste</span>
-                                <p>Import Deck</p>
+                            <div class='save-as-img option-btn'>
+                                <span class="material-symbols-outlined">photo_camera</span>
+                                <p>Save as Image</p>
                             </div>
-                        </div>
-                        <div class='options-row row-options-2'>
-                            <div class='import-as-deck option-btn'>
-                                <span class="material-symbols-outlined">print</span>
-                                <p>Print Decklist</p>
-                            </div>
-                            <div class='import-as-deck option-btn'>
+                            <div class='share-decklist option-btn'>
                                 <span class="material-symbols-outlined">ios_share</span>
                                 <p>Share Decklist</p>
                             </div>
-                            <div class='import-as-deck option-btn'>
+                            <div class='print-deck option-btn'>
+                                <span class="material-symbols-outlined">print</span>
+                                <p>Print Decklist</p>
+                            </div>
+                            <div class='export-json option-btn'>
                                 <span class="material-symbols-outlined">code</span>
                                 <p>Export JSON</p>
                             </div>
                         </div>
                     </div>
-                    <!-- <div class='options-right'>
-                        <textarea class='import-list-box' name="import-list-box" rows="4" cols="50" placeholder=' Paste List'></textarea>
-                    </div> -->
                 </div>
             </div>
 
@@ -773,18 +745,21 @@
                 <div style='display: flex;flex-direction: row;justify-content: center;align-items: center;'>
                     <!-- <p id='deck-card-count-current'>Count:&nbsp;</p> -->
                     <p id='stat-count'>Count: 49 / 60</p>
-                    <p id='deck-reset'>Reset</p>
+                    <p id='deck-reset'>
+                        Reset
+                    </p>
                 </div>
                 <a href='https://www.patreon.com/PTCGLegends' target="_blank" class='support-again'>
                     <p>Support this Project</p>
                     <img src='../assets/patreon.webp' />
                 </a>
             </div>
+            
             <!-- playmat -->
             <div class='deck-box'>
                 <!-- one card with popup + - buttons -->
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/garchomp-lvx.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/garchomp-lvx.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/02.png'>
@@ -792,7 +767,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed ex-era-card' src='../assets/cards/2004-2006/blaziken-ex.png' >
+                    <img class='database-card-in-list zoomed ex-era-card'
+                        src='../assets/cards/2004-2006/blaziken-ex.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/02.png'>
@@ -800,7 +776,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2021-2022/boltund-v.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2021-2022/boltund-v.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -808,7 +784,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2010-2012/feraligatr-prime.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2010-2012/feraligatr-prime.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -816,7 +792,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/roserade.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/roserade.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -824,7 +800,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed old-card' src='../assets/cards/base-fossil/bs.001.alakazam.jpg' >
+                    <img class='database-card-in-list zoomed old-card'
+                        src='../assets/cards/base-fossil/bs.001.alakazam.jpg'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -832,7 +809,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed old-card' src='../assets/cards/base-fossil/aq.035.steelix.jpg' >
+                    <img class='database-card-in-list zoomed old-card'
+                        src='../assets/cards/base-fossil/aq.035.steelix.jpg'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -840,7 +818,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/claydol.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/claydol.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -848,7 +826,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2022-2023/clodsire-ex.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2022-2023/clodsire-ex.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -856,7 +834,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2014-2016/rayquaza-ex.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2014-2016/rayquaza-ex.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -864,7 +842,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2018-17/mr-mime-fairy.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2018-17/mr-mime-fairy.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -872,7 +850,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/looker.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/looker.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -880,7 +858,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/judge-hgss.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/judge-hgss.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -888,7 +866,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/cynthias-feelings.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/cynthias-feelings.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -896,7 +874,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2022-2023/professor-research-rowan.png' >
+                    <img class='database-card-in-list zoomed'
+                        src='../assets/cards/2022-2023/professor-research-rowan.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -904,7 +883,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/luxury-ball.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/luxury-ball.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -912,7 +891,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/premier-ball.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/premier-ball.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -920,7 +899,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/time-space-distortion.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/time-space-distortion.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -928,7 +907,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/night-maintenance.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/night-maintenance.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -936,7 +915,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2022-2023/switch-sv.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2022-2023/switch-sv.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -944,7 +923,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed radius-card' src='../assets/cards/2008-2010/cl.084.research_record.jpg' >
+                    <img class='database-card-in-list zoomed radius-card'
+                        src='../assets/cards/2008-2010/cl.084.research_record.jpg'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -952,7 +932,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed radius-card' src='../assets/cards/2008-2010/broken-time-space.png' >
+                    <img class='database-card-in-list zoomed radius-card'
+                        src='../assets/cards/2008-2010/broken-time-space.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -960,7 +941,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed radius-card' src='../assets/cards/2021-2022/path-to-the-peak.png' >
+                    <img class='database-card-in-list zoomed radius-card'
+                        src='../assets/cards/2021-2022/path-to-the-peak.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -968,7 +950,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/hgss-energy-grass.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/hgss-energy-grass.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/10.png'>
@@ -976,7 +958,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/old-energy/fire-energy-power-keepes.png' >
+                    <img class='database-card-in-list zoomed'
+                        src='../assets/cards/old-energy/fire-energy-power-keepes.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -984,7 +967,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/old-energy/water-energy-holon-phantoms.png' >
+                    <img class='database-card-in-list zoomed'
+                        src='../assets/cards/old-energy/water-energy-holon-phantoms.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -992,7 +976,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/old-energy/lightning-energy-emerald.png' >
+                    <img class='database-card-in-list zoomed'
+                        src='../assets/cards/old-energy/lightning-energy-emerald.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -1000,7 +985,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed old-card' src='../assets/cards/base-fossil/bs.097.fighting_energy.jpg' >
+                    <img class='database-card-in-list zoomed old-card'
+                        src='../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -1008,7 +994,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/swsh-energy-psychic.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/swsh-energy-psychic.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -1016,7 +1002,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/dark-energy-capsule.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/dark-energy-capsule.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -1024,7 +1010,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/metal-energy-teu.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/metal-energy-teu.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -1032,7 +1018,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/fairy-energy-generations.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/fairy-energy-generations.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/03.png'>
@@ -1040,7 +1026,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/hgss-energy-dce.png' >
+                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/hgss-energy-dce.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/04.png'>
@@ -1074,174 +1060,174 @@
         }
     </script>
 
-        <!-- sv -->
-        <script src='../card-database/sv/sv4pt5.js'></script>
-        <script src='../card-database/sv/sv4.js'></script>
-        <script src='../card-database/sv/sv151.js'></script>
-        <script src='../card-database/sv/sv3.js'></script>
-        <script src='../card-database/sv/sv2.js'></script>
-        <script src='../card-database/sv/sv1.js'></script>
-        <script src='../card-database/sv/promos.js'></script>
-    
-        <!-- swsh -->
-        <script src='../card-database/swsh/crown-zenith.js'></script>
-        <script src='../card-database/swsh/silver-tempest.js'></script>
-        <script src='../card-database/swsh/lost-origin.js'></script>
-        <script src='../card-database/swsh/pokemon-go.js'></script>
-        <script src='../card-database/swsh/astral-radiance.js'></script>
-        <script src='../card-database/swsh/brilliant-stars.js'></script>
-        <script src='../card-database/swsh/fusion-strike.js'></script>
-        <script src='../card-database/swsh/celebrations.js'></script>
-        <script src='../card-database/swsh/evolving-skies.js'></script>
-        <script src='../card-database/swsh/chilling-reign.js'></script>
-        <script src='../card-database/swsh/battle-styles.js'></script>
-        <script src='../card-database/swsh/shining-fates.js'></script>
-        <script src='../card-database/swsh/vivid-voltage.js'></script>
-        <script src='../card-database/swsh/champions-path.js'></script>
-        <script src='../card-database/swsh/darkness-ablaze.js'></script>
-        <script src='../card-database/swsh/rebel-clash.js'></script>
-        <script src='../card-database/swsh/sword-shield.js'></script>
-        <script src='../card-database/swsh/promos.js'></script>
-    
-        <!-- sm -->
-        <script src='../card-database/sm/cosmic-eclipse.js'></script>
-        <script src='../card-database/sm/hidden-fates.js'></script>
-        <script src='../card-database/sm/unified-minds.js'></script>
-        <script src='../card-database/sm/unbroken-bonds.js'></script>
-        <script src='../card-database/sm/detective-pikachu.js'></script>
-        <script src='../card-database/sm/team-up.js'></script>
-        <script src='../card-database/sm/lost-thunder.js'></script>
-        <script src='../card-database/sm/dragon-majesty.js'></script>
-        <script src='../card-database/sm/celestial-storm.js'></script>
-        <script src='../card-database/sm/forbidden-light.js'></script>
-        <script src='../card-database/sm/ultra-prism.js'></script>
-        <script src='../card-database/sm/crimson-invasion.js'></script>
-        <script src='../card-database/sm/shining-legends.js'></script>
-        <script src='../card-database/sm/burning-shadow.js'></script>
-        <script src='../card-database/sm/guardians-rising.js'></script>
-        <script src='../card-database/sm/sun-moon.js'></script>
-        <script src='../card-database/sm/promos.js'></script>
-    
-        <!-- xy -->
-        <script src='../card-database/xy/evolutions.js'></script>
-        <script src='../card-database/xy/steam-siege.js'></script>
-        <script src='../card-database/xy/fates-collide.js'></script>
-        <script src='../card-database/xy/generations.js'></script>
-        <script src='../card-database/xy/breakpoint.js'></script>
-        <script src='../card-database/xy/breakthrough.js'></script>
-        <script src='../card-database/xy/ancient-origins.js'></script>
-        <script src='../card-database/xy/roaring-skies.js'></script>
-        <script src='../card-database/xy/double-crisis.js'></script>
-        <script src='../card-database/xy/primal-clash.js'></script>
-        <script src='../card-database/xy/phantom-forces.js'></script>
-        <script src='../card-database/xy/furious-fists.js'></script>
-        <script src='../card-database/xy/flashfire.js'></script>
-        <script src='../card-database/xy/xy.js'></script>
-        <script src='../card-database/xy/promos.js'></script>
-    
-        <!-- BW -->
-        <script src='../card-database/bw/legendary-treasures.js'></script>
-        <script src='../card-database/bw/plasma-blast.js'></script>
-        <script src='../card-database/bw/plasma-freeze.js'></script>
-        <script src='../card-database/bw/plasma-storm.js'></script>
-        <script src='../card-database/bw/boundaries-crossed.js'></script>
-        <script src='../card-database/bw/dragon-vault.js'></script>
-        <script src='../card-database/bw/dragons-exalted.js'></script>
-        <script src='../card-database/bw/dark-explorers.js'></script>
-        <script src='../card-database/bw/next-destinies.js'></script>
-        <script src='../card-database/bw/noble-victories.js'></script>
-        <script src='../card-database/bw/emerging-powers.js'></script>
-        <script src='../card-database/bw/black-white.js'></script>
-        <script src='../card-database/bw/promos.js'></script>
-    
-        <!-- hgss -->
-        <script src='../card-database/hgss/call-of-legends.js'></script>
-        <script src='../card-database/hgss/triumphant.js'></script>
-        <script src='../card-database/hgss/undaunted.js'></script>
-        <script src='../card-database/hgss/unleashed.js'></script>
-        <script src='../card-database/hgss/hgss.js'></script>
-        <script src='../card-database/hgss/promos.js'></script>
-    
-        <!-- dp -->
-        <script src='../card-database/dp/arceus.js'></script>
-        <script src='../card-database/dp/supreme-victores.js'></script>
-        <script src='../card-database/dp/rising-rivals.js'></script>
-        <script src='../card-database/dp/platinum.js'></script>
-        <script src='../card-database/dp/stormfront.js'></script>
-        <script src='../card-database/dp/legends-awakened.js'></script>
-        <script src='../card-database/dp/majestic-dawn.js'></script>
-        <script src='../card-database/dp/great-encounters.js'></script>
-        <script src='../card-database/dp/secret-wonders.js'></script>
-        <script src='../card-database/dp/mysterious-treasures.js'></script>
-        <script src='../card-database/dp/diamond-pearl.js'></script>
-        <script src='../card-database/dp/promos.js'></script>
-    
-        <!-- rs -->
-        <script src='../card-database/rs/power-keepers.js'></script>
-        <script src='../card-database/rs/dragon-frontiers.js'></script>
-        <script src='../card-database/rs/crystal-guardians.js'></script>
-        <script src='../card-database/rs/holon-phantoms.js'></script>
-        <script src='../card-database/rs/legend-maker.js'></script>
-        <script src='../card-database/rs/delta-species.js'></script>
-        <script src='../card-database/rs/unseen-forces.js'></script>
-        <script src='../card-database/rs/emerald.js'></script>
-        <script src='../card-database/rs/deoxys.js'></script>
-        <script src='../card-database/rs/team-rocket-returns.js'></script>
-        <script src='../card-database/rs/firered-leafgreen.js'></script>
-        <script src='../card-database/rs/hidden-legends.js'></script>
-        <script src='../card-database/rs/magma-aqua.js'></script>
-        <script src='../card-database/rs/dragon.js'></script>
-        <script src='../card-database/rs/sandstorm.js'></script>
-        <script src='../card-database/rs/ruby-sapphire.js'></script>
-        <script src='../card-database/rs/promos.js'></script>
-    
-        <!-- wotc -->
-        <script src='../card-database/wotc/skyridge.js'></script>
-        <script src='../card-database/wotc/aquapolis.js'></script>
-        <script src='../card-database/wotc/expedition.js'></script>
-        <script src='../card-database/wotc/legendary-collection.js'></script>
-        <script src='../card-database/wotc/destiny.js'></script>
-        <script src='../card-database/wotc/revelation.js'></script>
-        <script src='../card-database/wotc/discovery.js'></script>
-        <script src='../card-database/wotc/genesis.js'></script>
-        <script src='../card-database/wotc/gym-challenge.js'></script>
-        <script src='../card-database/wotc/gym-heroes.js'></script>
-        <script src='../card-database/wotc/team-rocket.js'></script>
-        <script src='../card-database/wotc/base-set2.js'></script>
-        <script src='../card-database/wotc/fossil.js'></script>
-        <script src='../card-database/wotc/jungle.js'></script>
-        <script src='../card-database/wotc/base-set.js'></script>
-        <script src='../card-database/wotc/promos.js'></script>
-    
-        <!-- McD -->
-        <script src='../card-database/mcd/mdc22.js'></script>
-        <script src='../card-database/mcd/mdc21.js'></script>
-        <script src='../card-database/mcd/mdc19.js'></script>
-        <script src='../card-database/mcd/mdc18.js'></script>
-        <script src='../card-database/mcd/mdc17.js'></script>
-        <script src='../card-database/mcd/mdc16.js'></script>
-        <script src='../card-database/mcd/mdc15.js'></script>
-        <script src='../card-database/mcd/mdc14.js'></script>
-        <script src='../card-database/mcd/mdc12.js'></script>
-    
-        <!-- other -->
-        <script src='../card-database/other/futsal.js'></script>
-        <script src='../card-database/other/kalos.js'></script>
-        <script src='../card-database/other/rumble.js'></script>
-        <script src='../card-database/other/tk2.js'></script>
-        <script src='../card-database/other/tk1.js'></script>
-        <script src='../card-database/other/pop1.js'></script>
-        <script src='../card-database/other/pop2.js'></script>
-        <script src='../card-database/other/pop3.js'></script>
-        <script src='../card-database/other/pop4.js'></script>
-        <script src='../card-database/other/pop5.js'></script>
-        <script src='../card-database/other/pop6.js'></script>
-        <script src='../card-database/other/pop7.js'></script>
-        <script src='../card-database/other/pop8.js'></script>
-        <script src='../card-database/other/pop9.js'></script>
-        <script src='../card-database/other/bog.js'></script>
-        <script src='../card-database/other/southern-islands.js'></script>
-    
+    <!-- sv -->
+    <script src='../card-database/sv/sv4pt5.js'></script>
+    <script src='../card-database/sv/sv4.js'></script>
+    <script src='../card-database/sv/sv151.js'></script>
+    <script src='../card-database/sv/sv3.js'></script>
+    <script src='../card-database/sv/sv2.js'></script>
+    <script src='../card-database/sv/sv1.js'></script>
+    <script src='../card-database/sv/promos.js'></script>
+
+    <!-- swsh -->
+    <script src='../card-database/swsh/crown-zenith.js'></script>
+    <script src='../card-database/swsh/silver-tempest.js'></script>
+    <script src='../card-database/swsh/lost-origin.js'></script>
+    <script src='../card-database/swsh/pokemon-go.js'></script>
+    <script src='../card-database/swsh/astral-radiance.js'></script>
+    <script src='../card-database/swsh/brilliant-stars.js'></script>
+    <script src='../card-database/swsh/fusion-strike.js'></script>
+    <script src='../card-database/swsh/celebrations.js'></script>
+    <script src='../card-database/swsh/evolving-skies.js'></script>
+    <script src='../card-database/swsh/chilling-reign.js'></script>
+    <script src='../card-database/swsh/battle-styles.js'></script>
+    <script src='../card-database/swsh/shining-fates.js'></script>
+    <script src='../card-database/swsh/vivid-voltage.js'></script>
+    <script src='../card-database/swsh/champions-path.js'></script>
+    <script src='../card-database/swsh/darkness-ablaze.js'></script>
+    <script src='../card-database/swsh/rebel-clash.js'></script>
+    <script src='../card-database/swsh/sword-shield.js'></script>
+    <script src='../card-database/swsh/promos.js'></script>
+
+    <!-- sm -->
+    <script src='../card-database/sm/cosmic-eclipse.js'></script>
+    <script src='../card-database/sm/hidden-fates.js'></script>
+    <script src='../card-database/sm/unified-minds.js'></script>
+    <script src='../card-database/sm/unbroken-bonds.js'></script>
+    <script src='../card-database/sm/detective-pikachu.js'></script>
+    <script src='../card-database/sm/team-up.js'></script>
+    <script src='../card-database/sm/lost-thunder.js'></script>
+    <script src='../card-database/sm/dragon-majesty.js'></script>
+    <script src='../card-database/sm/celestial-storm.js'></script>
+    <script src='../card-database/sm/forbidden-light.js'></script>
+    <script src='../card-database/sm/ultra-prism.js'></script>
+    <script src='../card-database/sm/crimson-invasion.js'></script>
+    <script src='../card-database/sm/shining-legends.js'></script>
+    <script src='../card-database/sm/burning-shadow.js'></script>
+    <script src='../card-database/sm/guardians-rising.js'></script>
+    <script src='../card-database/sm/sun-moon.js'></script>
+    <script src='../card-database/sm/promos.js'></script>
+
+    <!-- xy -->
+    <script src='../card-database/xy/evolutions.js'></script>
+    <script src='../card-database/xy/steam-siege.js'></script>
+    <script src='../card-database/xy/fates-collide.js'></script>
+    <script src='../card-database/xy/generations.js'></script>
+    <script src='../card-database/xy/breakpoint.js'></script>
+    <script src='../card-database/xy/breakthrough.js'></script>
+    <script src='../card-database/xy/ancient-origins.js'></script>
+    <script src='../card-database/xy/roaring-skies.js'></script>
+    <script src='../card-database/xy/double-crisis.js'></script>
+    <script src='../card-database/xy/primal-clash.js'></script>
+    <script src='../card-database/xy/phantom-forces.js'></script>
+    <script src='../card-database/xy/furious-fists.js'></script>
+    <script src='../card-database/xy/flashfire.js'></script>
+    <script src='../card-database/xy/xy.js'></script>
+    <script src='../card-database/xy/promos.js'></script>
+
+    <!-- BW -->
+    <script src='../card-database/bw/legendary-treasures.js'></script>
+    <script src='../card-database/bw/plasma-blast.js'></script>
+    <script src='../card-database/bw/plasma-freeze.js'></script>
+    <script src='../card-database/bw/plasma-storm.js'></script>
+    <script src='../card-database/bw/boundaries-crossed.js'></script>
+    <script src='../card-database/bw/dragon-vault.js'></script>
+    <script src='../card-database/bw/dragons-exalted.js'></script>
+    <script src='../card-database/bw/dark-explorers.js'></script>
+    <script src='../card-database/bw/next-destinies.js'></script>
+    <script src='../card-database/bw/noble-victories.js'></script>
+    <script src='../card-database/bw/emerging-powers.js'></script>
+    <script src='../card-database/bw/black-white.js'></script>
+    <script src='../card-database/bw/promos.js'></script>
+
+    <!-- hgss -->
+    <script src='../card-database/hgss/call-of-legends.js'></script>
+    <script src='../card-database/hgss/triumphant.js'></script>
+    <script src='../card-database/hgss/undaunted.js'></script>
+    <script src='../card-database/hgss/unleashed.js'></script>
+    <script src='../card-database/hgss/hgss.js'></script>
+    <script src='../card-database/hgss/promos.js'></script>
+
+    <!-- dp -->
+    <script src='../card-database/dp/arceus.js'></script>
+    <script src='../card-database/dp/supreme-victores.js'></script>
+    <script src='../card-database/dp/rising-rivals.js'></script>
+    <script src='../card-database/dp/platinum.js'></script>
+    <script src='../card-database/dp/stormfront.js'></script>
+    <script src='../card-database/dp/legends-awakened.js'></script>
+    <script src='../card-database/dp/majestic-dawn.js'></script>
+    <script src='../card-database/dp/great-encounters.js'></script>
+    <script src='../card-database/dp/secret-wonders.js'></script>
+    <script src='../card-database/dp/mysterious-treasures.js'></script>
+    <script src='../card-database/dp/diamond-pearl.js'></script>
+    <script src='../card-database/dp/promos.js'></script>
+
+    <!-- rs -->
+    <script src='../card-database/rs/power-keepers.js'></script>
+    <script src='../card-database/rs/dragon-frontiers.js'></script>
+    <script src='../card-database/rs/crystal-guardians.js'></script>
+    <script src='../card-database/rs/holon-phantoms.js'></script>
+    <script src='../card-database/rs/legend-maker.js'></script>
+    <script src='../card-database/rs/delta-species.js'></script>
+    <script src='../card-database/rs/unseen-forces.js'></script>
+    <script src='../card-database/rs/emerald.js'></script>
+    <script src='../card-database/rs/deoxys.js'></script>
+    <script src='../card-database/rs/team-rocket-returns.js'></script>
+    <script src='../card-database/rs/firered-leafgreen.js'></script>
+    <script src='../card-database/rs/hidden-legends.js'></script>
+    <script src='../card-database/rs/magma-aqua.js'></script>
+    <script src='../card-database/rs/dragon.js'></script>
+    <script src='../card-database/rs/sandstorm.js'></script>
+    <script src='../card-database/rs/ruby-sapphire.js'></script>
+    <script src='../card-database/rs/promos.js'></script>
+
+    <!-- wotc -->
+    <script src='../card-database/wotc/skyridge.js'></script>
+    <script src='../card-database/wotc/aquapolis.js'></script>
+    <script src='../card-database/wotc/expedition.js'></script>
+    <script src='../card-database/wotc/legendary-collection.js'></script>
+    <script src='../card-database/wotc/destiny.js'></script>
+    <script src='../card-database/wotc/revelation.js'></script>
+    <script src='../card-database/wotc/discovery.js'></script>
+    <script src='../card-database/wotc/genesis.js'></script>
+    <script src='../card-database/wotc/gym-challenge.js'></script>
+    <script src='../card-database/wotc/gym-heroes.js'></script>
+    <script src='../card-database/wotc/team-rocket.js'></script>
+    <script src='../card-database/wotc/base-set2.js'></script>
+    <script src='../card-database/wotc/fossil.js'></script>
+    <script src='../card-database/wotc/jungle.js'></script>
+    <script src='../card-database/wotc/base-set.js'></script>
+    <script src='../card-database/wotc/promos.js'></script>
+
+    <!-- McD -->
+    <script src='../card-database/mcd/mdc22.js'></script>
+    <script src='../card-database/mcd/mdc21.js'></script>
+    <script src='../card-database/mcd/mdc19.js'></script>
+    <script src='../card-database/mcd/mdc18.js'></script>
+    <script src='../card-database/mcd/mdc17.js'></script>
+    <script src='../card-database/mcd/mdc16.js'></script>
+    <script src='../card-database/mcd/mdc15.js'></script>
+    <script src='../card-database/mcd/mdc14.js'></script>
+    <script src='../card-database/mcd/mdc12.js'></script>
+
+    <!-- other -->
+    <script src='../card-database/other/futsal.js'></script>
+    <script src='../card-database/other/kalos.js'></script>
+    <script src='../card-database/other/rumble.js'></script>
+    <script src='../card-database/other/tk2.js'></script>
+    <script src='../card-database/other/tk1.js'></script>
+    <script src='../card-database/other/pop1.js'></script>
+    <script src='../card-database/other/pop2.js'></script>
+    <script src='../card-database/other/pop3.js'></script>
+    <script src='../card-database/other/pop4.js'></script>
+    <script src='../card-database/other/pop5.js'></script>
+    <script src='../card-database/other/pop6.js'></script>
+    <script src='../card-database/other/pop7.js'></script>
+    <script src='../card-database/other/pop8.js'></script>
+    <script src='../card-database/other/pop9.js'></script>
+    <script src='../card-database/other/bog.js'></script>
+    <script src='../card-database/other/southern-islands.js'></script>
+
 
 </body>
 

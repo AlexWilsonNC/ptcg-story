@@ -18440,3 +18440,22 @@ advancedDropdownBtn.addEventListener('click', () => {
     advancedDropdown.classList.toggle('collapse-advanced');
     document.querySelector('.expand-advanced-arrow').classList.toggle('inverted-arrow');
 })
+
+window.addEventListener("load", () => {
+    const spinner = document.querySelector(".spinner");
+
+    spinner.classList.add("spinner-hidden");
+
+    spinner.addEventListener("transitionend", () => {
+        document.body.removeChild("spinner");
+    })
+})
+// setsOl.addEventListener("load", () => {
+//     const spinner = document.querySelector(".spinner");
+
+//     spinner.classList.add("spinner-hidden");
+
+//     spinner.addEventListener("transitionend", () => {
+//         document.body.removeChild("spinner");
+//     })
+// })
