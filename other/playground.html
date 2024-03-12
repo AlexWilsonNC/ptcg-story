@@ -692,7 +692,14 @@
             <div class='event-searchbar'>
                 <span class="material-symbols-outlined search-mag">search</span>
                 <input type='search' name='search' class='search' id='search' placeholder=' Card Search'>
-            </div>
+                <select id="filter-search" onchange="eeeee()">
+                    <option value="" selected disabled hidden>Sort Filter</option>
+                </select>
+                <div id='search-reset'>
+                    <span class="material-symbols-outlined">refresh</span>
+                    <p>Reset</p>
+                </div>
+        </div>
 
             <!-- card search list results -->
             <div class='all-cards-container'>
@@ -746,8 +753,12 @@
                 <div style='display: flex;flex-direction: row;justify-content: center;align-items: center;'>
                     <!-- <p id='deck-card-count-current'>Count:&nbsp;</p> -->
                     <p id='stat-count'>Count: 49 / 60</p>
+                    <div id='deck-sort'>
+                        <span class="material-symbols-outlined">sort</span>
+                        <p>&nbsp;Sort&nbsp;</p>
+                    </div>
                     <div id='deck-reset'>
-                        <span class="material-symbols-outlined">cancel</span>
+                        <span class="material-symbols-outlined">refresh</span>
                         <p>Reset</p>
                     </div>
                 </div>
@@ -812,7 +823,7 @@
                 </div>
                 <div class='deckbuilt-card-container'>
                     <img class='database-card-in-list zoomed old-card'
-                        src='../assets/cards/base-fossil/aq.035.steelix.jpg'>
+                        src='../assets/cards/base-fossil/aq.H21.scizor.jpg'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -868,7 +879,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/cynthias-feelings.png'>
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2004-2006/celios-network.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -876,8 +887,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed'
-                        src='../assets/cards/2022-2023/professor-research-rowan.png'>
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2014-2016/ghetsis.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -885,7 +895,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/luxury-ball.png'>
+                    <img class='database-card-in-list zoomed radius-card'
+                        src='../assets/cards/2008-2010/cl.084.research_record.jpg'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -893,7 +904,7 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/premier-ball.png'>
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2019-2020/reset-stamp.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -909,14 +920,6 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/night-maintenance.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
                     <img class='database-card-in-list zoomed' src='../assets/cards/2022-2023/switch-sv.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
@@ -925,8 +928,15 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed radius-card'
-                        src='../assets/cards/2008-2010/cl.084.research_record.jpg'>
+                    <img class='database-card-in-list zoomed radius-card' src='../assets/cards/2014-2016/computer-search.png'>
+                    <div class='deck-add-minus'>
+                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
+                        <img class='current-cnt-num' src='../assets/01.png'>
+                        <span class="material-symbols-outlined plus-card pm-card">add</span>
+                    </div>
+                </div>
+                <div class='deckbuilt-card-container'>
+                    <img class='database-card-in-list zoomed' src='../assets/cards/2014-2016/head-ringer.png'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>

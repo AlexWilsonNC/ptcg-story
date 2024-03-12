@@ -107,7 +107,7 @@ body.darkon {
 }
 .card-search-container {
     width: 40%;height:100%;
-    background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='40' height='59.428' patternTransform='scale(1) rotate(60)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(0, 0%, 100%, 0)'/><path d='M0 70.975V47.881m20-1.692L8.535 52.808v13.239L20 72.667l11.465-6.62V52.808zm0-32.95l11.465-6.62V-6.619L20-13.24 8.535-6.619V6.619L20 13.24m8.535 4.927v13.238L40 38.024l11.465-6.62V18.166L40 11.546zM20 36.333L0 47.88m0 0v23.094m0 0l20 11.548 20-11.548V47.88m0 0L20 36.333m0 0l20 11.549M0 11.547l-11.465 6.619v13.239L0 38.025l11.465-6.62v-13.24L0 11.548v-23.094l20-11.547 20 11.547v23.094M20 36.333V13.24'  stroke-linecap='square' stroke-width='0.5' stroke='hsla(0, 0%, 100%, 0.42)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>"), linear-gradient(to bottom, rgb(183, 189, 199), rgb(131, 149, 191));
+    background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='40' height='59.428' patternTransform='scale(1) rotate(60)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(0, 0%, 100%, 0)'/><path d='M0 70.975V47.881m20-1.692L8.535 52.808v13.239L20 72.667l11.465-6.62V52.808zm0-32.95l11.465-6.62V-6.619L20-13.24 8.535-6.619V6.619L20 13.24m8.535 4.927v13.238L40 38.024l11.465-6.62V18.166L40 11.546zM20 36.333L0 47.88m0 0v23.094m0 0l20 11.548 20-11.548V47.88m0 0L20 36.333m0 0l20 11.549M0 11.547l-11.465 6.619v13.239L0 38.025l11.465-6.62v-13.24L0 11.548v-23.094l20-11.547 20 11.547v23.094M20 36.333V13.24'  stroke-linecap='square' stroke-width='0.5' stroke='hsla(0, 0%, 100%, 0.42)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>"), linear-gradient(to bottom, rgb(183, 189, 199), rgb(98, 101, 108));
     z-index: 0;
     position: relative;
 }
@@ -435,6 +435,7 @@ body.darkon {
     border-radius: 4px;
 }
 #deck-reset,
+#deck-sort,
 .support-again {
     color: rgb(232, 232, 232);
     background-color: rgb(22, 22, 22);
@@ -446,23 +447,27 @@ body.darkon {
     font-weight: 400;
     font-size: 16px;
 }
-#deck-reset {
+#deck-reset,
+#deck-sort {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     margin-left: 15px;
 }
-#deck-reset span {
-    font-size: 16px;
+#deck-reset span,
+#deck-sort span {
+    font-size: 18px;
     margin-right: 8px;
 }
 #deck-reset,
+#deck-sort,
 .support-again {
     border-radius: 25px;
     padding: 5px 15px;
 }
 #deck-reset:hover,
+#deck-sort:hover,
 .support-again:hover {
     background-color: rgb(255, 255, 255);
     color: black;
@@ -658,7 +663,37 @@ body.darkon {
     padding: 5px;
     transition: ease all 0.15s;
 }
-
+#filter-search {
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    font-size: 16px;
+    margin-left: 15px;
+    padding: 2px 5px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+#search-reset {
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    font-size: 16px;
+    margin-left: 15px;
+    padding: 3px 5px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+#search-reset span {
+    font-size: 18px;
+    margin-right: 5px;
+}
+#filter-search:hover,
+#search-reset:hover {
+    cursor: pointer;
+    background-color: rgb(207, 207, 207);
+}
 /**/
 
 @media screen and (min-width: 2300px) {

@@ -18396,6 +18396,8 @@ let card = document.getElementsByClassName("database-card-in-list"),
 let advancedDropdownBtn = document.querySelector(".advanced-p-btn");
 let advancedDropdown = document.querySelector(".expand-advanced");
 
+let deckbox = document.querySelector(".deck-box");
+
 function displayList(array = []) {
     setsOl.innerHTML = '';
     for (let i = 0; i < array.length; i++) {
@@ -18416,7 +18418,12 @@ function displayList(array = []) {
         array.sort((a, b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
 
         addCardBtn.addEventListener("click", () => {
-            console.log(add)
+            console.log('add');
+            let deckCardContainer = document.createElement('div');
+            deckCardContainer.classList.add('deckbuilt-card-container');
+
+            deckCardContainer.appendChild(img);
+            deckbox.appendChild(deckCardContainer);
         })
 
         // zoom card
