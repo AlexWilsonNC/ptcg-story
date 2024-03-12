@@ -14,7 +14,7 @@ const allcardscontainer = document.querySelector('.all-cards-container');
 // const deckbox = document.querySelector('.deck-box');
 // const importlistbox = document.querySelector('.import-list-box');
 const expandadvanced = document.querySelector('.expand-advanced');
-const advancedpbtn = document.querySelector('.advanced-p-btn');
+// const advancedpbtn = document.querySelector('.advanced-p-btn');
 const spinner = document.querySelector('.spinner');
 
 const optionbtn = document.querySelectorAll('.option-btn');
@@ -36,7 +36,7 @@ const enableDarkMode = () => {
     // deckbox.classList.add('darkon');
     // importlistbox.classList.add('darkon');
     expandadvanced.classList.add('darkon');
-    advancedpbtn.classList.add('darkon');
+    // advancedpbtn.classList.add('darkon');
     spinner.classList.add('darkon');
 
     optionbtn.forEach((optionbtn) => {
@@ -65,7 +65,7 @@ const enableDarkMode = () => {
     // deckbox.classList.remove('darkon');
     // importlistbox.classList.remove('darkon');
     expandadvanced.classList.remove('darkon');
-    advancedpbtn.classList.remove('darkon');
+    // advancedpbtn.classList.remove('darkon');
     spinner.classList.remove('darkon');
 
     optionbtn.forEach((optionbtn) => {

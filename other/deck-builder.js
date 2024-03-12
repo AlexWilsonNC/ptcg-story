@@ -18393,13 +18393,11 @@ const setsOl = document.querySelector('.all-cards-displayed');
 let zoomedImg = document.getElementById("insert-zoomed-img");
 let card = document.getElementsByClassName("database-card-in-list"),
     zoombox = document.getElementById("zoomed-bg");
-
 let advancedDropdownBtn = document.querySelector(".advanced-p-btn");
 let advancedDropdown = document.querySelector(".expand-advanced");
 
 function displayList(array = []) {
     setsOl.innerHTML = '';
-
     for (let i = 0; i < array.length; i++) {
         let item = array[i];
         let cardArea = document.createElement('div');
@@ -18410,12 +18408,12 @@ function displayList(array = []) {
         img.loading = 'lazy';
         let addCardBtn = document.createElement('div');
         addCardBtn.classList.add('add-card-to-deck');
-        
+
         cardArea.appendChild(img);
         cardArea.appendChild(addCardBtn);
 
         // sort set by number
-        array.sort((a,b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
+        array.sort((a, b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
 
         // zoom card
         img.onclick = () => {
@@ -18429,18 +18427,49 @@ function displayList(array = []) {
         setsOl.appendChild(cardArea);
     }
 }
-
 displayList(sv4pt5);
 
+// collapse and open set boxes
+let coll = document.getElementsByClassName("set-white-box");
+let setCube = document.querySelectorAll(".set-cube");
+let i;
+for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function () {
+        let content = this.nextElementSibling;
+        if (content.style.maxHeight) {
+            content.style.maxHeight = null;
+        } else {
+            content.style.maxHeight = "2000px";
+        }
+        // force close all set option dropdowns
+        advancedDropdownBtn.addEventListener("click", function () {
+            if (content.style.maxHeight === "2000px") {
+                content.style.maxHeight = "0px";
+            }
+        })
+        setCube.forEach(function(elem) {
+            elem.addEventListener("click", function () {
+                if (content.style.maxHeight === "2000px") {
+                    content.style.maxHeight = "0px";
+                }
+            })
+        })
+    });
+}
+
+// close advanced search when set clicked
 function collapseAdvanced() {
     advancedDropdown.classList.toggle('collapse-advanced');
 }
 
+// click advanced to dropdown
 advancedDropdownBtn.addEventListener('click', () => {
     advancedDropdown.classList.toggle('collapse-advanced');
+    // advancedDropdown.classList.toggle('mighty-scroll');
     document.querySelector('.expand-advanced-arrow').classList.toggle('inverted-arrow');
 })
 
+// spinner till loaded
 window.addEventListener("load", () => {
     const spinner = document.querySelector(".spinner");
 
@@ -18450,12 +18479,12 @@ window.addEventListener("load", () => {
         document.body.removeChild("spinner");
     })
 })
-// setsOl.addEventListener("load", () => {
-//     const spinner = document.querySelector(".spinner");
+setsOl.addEventListener("load", () => {
+    const spinner = document.querySelector(".spinner");
 
-//     spinner.classList.add("spinner-hidden");
+    spinner.classList.add("spinner-hidden");
 
-//     spinner.addEventListener("transitionend", () => {
-//         document.body.removeChild("spinner");
-//     })
-// })
+    spinner.addEventListener("transitionend", () => {
+        document.body.removeChild("spinner");
+    })
+})

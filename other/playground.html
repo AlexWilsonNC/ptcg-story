@@ -736,6 +736,7 @@
                                 <span class="material-symbols-outlined">code</span>
                                 <p>Export JSON</p>
                             </div>
+                           
                         </div>
                     </div>
                 </div>
@@ -745,16 +746,17 @@
                 <div style='display: flex;flex-direction: row;justify-content: center;align-items: center;'>
                     <!-- <p id='deck-card-count-current'>Count:&nbsp;</p> -->
                     <p id='stat-count'>Count: 49 / 60</p>
-                    <p id='deck-reset'>
-                        Reset
-                    </p>
+                    <div id='deck-reset'>
+                        <span class="material-symbols-outlined">cancel</span>
+                        <p>Reset</p>
+                    </div>
                 </div>
                 <a href='https://www.patreon.com/PTCGLegends' target="_blank" class='support-again'>
                     <p>Support this Project</p>
                     <img src='../assets/patreon.webp' />
                 </a>
             </div>
-            
+
             <!-- playmat -->
             <div class='deck-box'>
                 <!-- one card with popup + - buttons -->
@@ -932,8 +934,8 @@
                     </div>
                 </div>
                 <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed radius-card'
-                        src='../assets/cards/2008-2010/broken-time-space.png'>
+                    <img class='database-card-in-list zoomed old-card'
+                        src='../assets/cards/base-fossil/g2.102.chaos_gym.jpg'>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
@@ -1042,23 +1044,6 @@
     <script src="../zoom.js"></script>
     <script src="../card-database-search.js"></script>
     <script src='./deck-builder.js'></script>
-
-    <script>
-        var coll = document.getElementsByClassName("set-white-box");
-        var i;
-
-        for (i = 0; i < coll.length; i++) {
-            coll[i].addEventListener("click", function () {
-                this.classList.toggle("hello");
-                var content = this.nextElementSibling;
-                if (content.style.maxHeight) {
-                    content.style.maxHeight = null;
-                } else {
-                    content.style.maxHeight = "2000px";
-                }
-            });
-        }
-    </script>
 
     <!-- sv -->
     <script src='../card-database/sv/sv4pt5.js'></script>
