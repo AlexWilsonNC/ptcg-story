@@ -18415,6 +18415,10 @@ function displayList(array = []) {
         // sort set by number
         array.sort((a, b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
 
+        addCardBtn.addEventListener("click", () => {
+            console.log(add)
+        })
+
         // zoom card
         img.onclick = () => {
             zoomedImg.setAttribute('src', item.images.large);
@@ -18479,12 +18483,12 @@ window.addEventListener("load", () => {
         document.body.removeChild("spinner");
     })
 })
-setsOl.addEventListener("load", () => {
-    const spinner = document.querySelector(".spinner");
+// setsOl.addEventListener("load", () => {
+//     const spinner = document.querySelector(".spinner");
 
-    spinner.classList.add("spinner-hidden");
+//     spinner.classList.add("spinner-hidden");
 
-    spinner.addEventListener("transitionend", () => {
-        document.body.removeChild("spinner");
-    })
-})
+//     spinner.addEventListener("transitionend", () => {
+//         document.body.removeChild("spinner");
+//     })
+// })

@@ -17034,8 +17034,32 @@ let sv1 = [
             "large": "https://images.pokemontcg.io/sv1/258_hires.png"
         }
     },
+    {
+        "id": "",
+        "name": "Basic Grass Energy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://images.pokemontcg.io/sve/1.png",
+            "large": "https://images.pokemontcg.io/sve/1_hires.png"
+        }
+    },
+    {
+        "id": "",
+        "name": "Basic Fire Energy",
+        "supertype": "Energy",
+        "subtypes": [
+            "Basic"
+        ],
+        "images": {
+            "small": "https://images.pokemontcg.io/sve/2.png",
+            "large": "https://images.pokemontcg.io/sve/2_hires.png"
+        }
+    },
         {
-            "id": "sve-3",
+            "id": "",
             "name": "Basic Water Energy",
             "supertype": "Energy",
             "subtypes": [
@@ -17047,31 +17071,7 @@ let sv1 = [
             }
         },
         {
-            "id": "sve-1",
-            "name": "Basic Grass Energy",
-            "supertype": "Energy",
-            "subtypes": [
-                "Basic"
-            ],
-            "images": {
-                "small": "https://images.pokemontcg.io/sve/1.png",
-                "large": "https://images.pokemontcg.io/sve/1_hires.png"
-            }
-        },
-        {
-            "id": "sve-7",
-            "name": "Basic Darkness Energy",
-            "supertype": "Energy",
-            "subtypes": [
-                "Basic"
-            ],
-            "images": {
-                "small": "https://images.pokemontcg.io/sve/7.png",
-                "large": "https://images.pokemontcg.io/sve/7_hires.png"
-            }
-        },
-        {
-            "id": "sve-4",
+            "id": "",
             "name": "Basic Lightning Energy",
             "supertype": "Energy",
             "subtypes": [
@@ -17083,31 +17083,7 @@ let sv1 = [
             }
         },
         {
-            "id": "sve-8",
-            "name": "Basic Metal Energy",
-            "supertype": "Energy",
-            "subtypes": [
-                "Basic"
-            ],
-            "images": {
-                "small": "https://images.pokemontcg.io/sve/8.png",
-                "large": "https://images.pokemontcg.io/sve/8_hires.png"
-            }
-        },
-        {
-            "id": "sve-2",
-            "name": "Basic Fire Energy",
-            "supertype": "Energy",
-            "subtypes": [
-                "Basic"
-            ],
-            "images": {
-                "small": "https://images.pokemontcg.io/sve/2.png",
-                "large": "https://images.pokemontcg.io/sve/2_hires.png"
-            }
-        },
-        {
-            "id": "sve-5",
+            "id": "",
             "name": "Basic Psychic Energy",
             "supertype": "Energy",
             "subtypes": [
@@ -17119,7 +17095,7 @@ let sv1 = [
             }
         },
         {
-            "id": "sve-6",
+            "id": "",
             "name": "Basic Fighting Energy",
             "supertype": "Energy",
             "subtypes": [
@@ -17129,5 +17105,29 @@ let sv1 = [
                 "small": "https://images.pokemontcg.io/sve/6.png",
                 "large": "https://images.pokemontcg.io/sve/6_hires.png"
             }
-        }
+        },
+        {
+            "id": "",
+            "name": "Basic Darkness Energy",
+            "supertype": "Energy",
+            "subtypes": [
+                "Basic"
+            ],
+            "images": {
+                "small": "https://images.pokemontcg.io/sve/7.png",
+                "large": "https://images.pokemontcg.io/sve/7_hires.png"
+            }
+        },
+        {
+            "id": "",
+            "name": "Basic Metal Energy",
+            "supertype": "Energy",
+            "subtypes": [
+                "Basic"
+            ],
+            "images": {
+                "small": "https://images.pokemontcg.io/sve/8.png",
+                "large": "https://images.pokemontcg.io/sve/8_hires.png"
+            }
+        },
 ]
