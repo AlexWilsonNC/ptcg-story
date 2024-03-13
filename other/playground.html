@@ -695,7 +695,7 @@
                 <select id="filter-search" onchange="eeeee()">
                     <option value="" selected disabled hidden>Sort Filter</option>
                 </select>
-                <div id='search-reset'>
+                <div id='search-reset' onclick="displayList(sv4pt5)">
                     <span class="material-symbols-outlined">refresh</span>
                     <p>Reset</p>
                 </div>
@@ -752,7 +752,7 @@
             <div class='deck-stats'>
                 <div style='display: flex;flex-direction: row;justify-content: center;align-items: center;'>
                     <!-- <p id='deck-card-count-current'>Count:&nbsp;</p> -->
-                    <p id='stat-count'>Count: 49 / 60</p>
+                    <p id='stat-count'>Count: <span class='current-deck-count'>0</span> / 60</p>
                     <div id='deck-sort'>
                         <span class="material-symbols-outlined">sort</span>
                         <p>&nbsp;Sort&nbsp;</p>
@@ -770,281 +770,15 @@
 
             <!-- playmat -->
             <div class='deck-box'>
-                <!-- one card with popup + - buttons -->
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/garchomp-lvx.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/02.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed ex-era-card'
-                        src='../assets/cards/2004-2006/blaziken-ex.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/02.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2021-2022/boltund-v.png'>
+                <!-- referance - one card with popup + - buttons -->
+                <!-- <div class='deckbuilt-card-container'>
+                    <img class='database-card-in-list zoomed' src=''>
                     <div class='deck-add-minus'>
                         <span class="material-symbols-outlined minus-card pm-card">remove</span>
                         <img class='current-cnt-num' src='../assets/01.png'>
                         <span class="material-symbols-outlined plus-card pm-card">add</span>
                     </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2010-2012/feraligatr-prime.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/roserade.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed old-card'
-                        src='../assets/cards/base-fossil/bs.001.alakazam.jpg'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed old-card'
-                        src='../assets/cards/base-fossil/aq.H21.scizor.jpg'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/claydol.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2022-2023/clodsire-ex.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2014-2016/rayquaza-ex.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2018-17/mr-mime-fairy.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/looker.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/judge-hgss.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2004-2006/celios-network.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2014-2016/ghetsis.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed radius-card'
-                        src='../assets/cards/2008-2010/cl.084.research_record.jpg'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2019-2020/reset-stamp.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2008-2010/time-space-distortion.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2022-2023/switch-sv.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed radius-card' src='../assets/cards/2014-2016/computer-search.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/2014-2016/head-ringer.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed old-card'
-                        src='../assets/cards/base-fossil/g2.102.chaos_gym.jpg'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed radius-card'
-                        src='../assets/cards/2021-2022/path-to-the-peak.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/hgss-energy-grass.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/10.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed'
-                        src='../assets/cards/old-energy/fire-energy-power-keepes.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed'
-                        src='../assets/cards/old-energy/water-energy-holon-phantoms.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed'
-                        src='../assets/cards/old-energy/lightning-energy-emerald.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed old-card'
-                        src='../assets/cards/base-fossil/bs.097.fighting_energy.jpg'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/swsh-energy-psychic.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/dark-energy-capsule.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/metal-energy-teu.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/01.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/fairy-energy-generations.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/03.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
-                <div class='deckbuilt-card-container'>
-                    <img class='database-card-in-list zoomed' src='../assets/cards/energy/hgss-energy-dce.png'>
-                    <div class='deck-add-minus'>
-                        <span class="material-symbols-outlined minus-card pm-card">remove</span>
-                        <img class='current-cnt-num' src='../assets/04.png'>
-                        <span class="material-symbols-outlined plus-card pm-card">add</span>
-                    </div>
-                </div>
+                </div> -->
             </div>
         </div>
 

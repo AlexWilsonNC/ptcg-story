@@ -18417,12 +18417,97 @@ function displayList(array = []) {
         // sort set by number
         array.sort((a, b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
 
+        // duplicate card from search into decklist
         addCardBtn.addEventListener("click", () => {
-            console.log('add');
             let deckCardContainer = document.createElement('div');
             deckCardContainer.classList.add('deckbuilt-card-container');
+            addCardBtn.style.opacity = 0;
+            addCardBtn.style.pointerEvents = 'none';
+            let deckImg = img.cloneNode(true);
 
-            deckCardContainer.appendChild(img);
+            let deckAndPm = document.createElement('div');
+            deckAndPm.classList.add('deck-add-minus');
+
+            let minusCard = document.createElement('span');
+            minusCard.classList.add('pm-card');
+            minusCard.classList.add('minus-card');
+            minusCard.classList.add('material-symbols-outlined');
+            minusCard.innerHTML = "remove";
+            
+            let defaultCountofOne = 1;
+            // let currentDeckCount = document.querySelector('.current-deck-count').innerHTML;
+
+            let cardCount = document.createElement('img');
+            cardCount.classList.add('current-cnt-num');
+            cardCount.setAttribute('src', "../assets/card-count/" + defaultCountofOne + ".png");
+
+            let plusCard = document.createElement('span');
+            plusCard.classList.add('pm-card');
+            plusCard.classList.add('plus-card');
+            plusCard.classList.add('material-symbols-outlined');
+            plusCard.innerHTML = "add";
+
+            // add and minus card count
+            plusCard.addEventListener("click", () => {
+                let newNumber = defaultCountofOne
+                ? defaultCountofOne + 1
+                : defaultCountofOne - 1;
+                defaultCountofOne = newNumber;
+                    console.log(newNumber);
+                    if (defaultCountofOne === 4) {
+                        plusCard.style.opacity = '0';
+                        plusCard.style.pointerEvents = 'none';
+                    }
+                cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+                // currentDeckCount.innerHTML = newNumber;
+            })
+            minusCard.addEventListener("click", () => {
+                let newNumber = defaultCountofOne
+                ? defaultCountofOne - 1
+                : defaultCountofOne + 1;
+                defaultCountofOne = newNumber;
+                plusCard.style.opacity = '1';
+                plusCard.style.pointerEvents = 'all';
+                    console.log(newNumber);
+                cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+                if (defaultCountofOne === 0) {
+                    deckCardContainer.remove();
+                    addCardBtn.style.opacity = 1;
+                    addCardBtn.style.pointerEvents = 'all';
+                }
+            })
+            
+            // click addBtn again to add card count w/o duplicating?
+
+            // addCardBtn.addEventListener("click", () => {
+            //     let newNumber = defaultCountofOne
+            //     ? defaultCountofOne + 1
+            //     : defaultCountofOne - 1;
+            //     defaultCountofOne = newNumber;
+            //         console.log(newNumber);
+            //         if (defaultCountofOne === 4) {
+            //             plusCard.style.opacity = '0';
+            //         }
+            //     cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+            // })
+
+            document.getElementById('deck-reset').addEventListener("click", () => {
+                deckCardContainer.remove();
+                addCardBtn.style.opacity = 1;
+                addCardBtn.style.pointerEvents = 'all';
+            })
+
+            // must make decklist an array to sort?
+
+            // document.getElementById('deck-sort').addEventListener("click", () => {
+            //     deckbox.sort((a, b) => b.defaultCountofOne - a.defaultCountofOne);
+            // })
+
+            deckAndPm.appendChild(minusCard);
+            deckAndPm.appendChild(cardCount);
+            deckAndPm.appendChild(plusCard);
+            deckCardContainer.appendChild(deckAndPm);
+            deckCardContainer.appendChild(deckImg);
             deckbox.appendChild(deckCardContainer);
         })
 
