@@ -699,7 +699,7 @@
                     <span class="material-symbols-outlined">refresh</span>
                     <p>Reset</p>
                 </div>
-        </div>
+            </div>
 
             <!-- card search list results -->
             <div class='all-cards-container'>
@@ -708,8 +708,6 @@
                 </div>
             </div>
         </div>
-
-        <div id="zoom-card-box"></div>
 
         <!-- right side -->
         <div class='active-deck-container'>
@@ -727,7 +725,7 @@
                                 <span class="material-symbols-outlined">content_copy</span>
                                 <p>Export Deck</p>
                             </div>
-                            <div class='save-as-img option-btn'>
+                            <div class='save-as-img option-btn' onclick="takeshot()">
                                 <span class="material-symbols-outlined">photo_camera</span>
                                 <p>Save as Image</p>
                             </div>
@@ -743,7 +741,7 @@
                                 <span class="material-symbols-outlined">code</span>
                                 <p>Export JSON</p>
                             </div>
-                           
+
                         </div>
                     </div>
                 </div>
@@ -779,18 +777,21 @@
                         <span class="material-symbols-outlined plus-card pm-card">add</span>
                     </div>
                 </div> -->
+                <div id="output"></div>
+
             </div>
         </div>
 
     </div>
 
     <script src="../darkmode/darkmode-deckbuilder.js"></script>
-    <script src="../zoom.js"></script>
     <script src="../card-database-search.js"></script>
     <script src='./deck-builder.js'></script>
 
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.5/dist/html2canvas.min.js"></script>
+
     <!-- sv -->
-    <script src='../card-database/sv/sv4pt5.js'></script>
+    <script src='../card-database/sv/sv45.js'></script>
     <script src='../card-database/sv/sv4.js'></script>
     <script src='../card-database/sv/sv151.js'></script>
     <script src='../card-database/sv/sv3.js'></script>
@@ -957,6 +958,13 @@
     <script src='../card-database/other/bog.js'></script>
     <script src='../card-database/other/southern-islands.js'></script>
 
+    <script type="text/javascript">
+        function takeshot() {
+            html2canvas( document.querySelector(".deck-box"), { logging: true, letterRendering: 1, allowTaint: true } ).then(canvas => { 
+                document.getElementById('output').appendChild(canvas);
+            })
+        }
+    </script>
 
 </body>
 

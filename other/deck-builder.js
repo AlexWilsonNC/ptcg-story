@@ -1,4 +1,4 @@
-let sv4pt5 = [
+let latestSet = [
     {
         "id": "sv4pt5-1",
         "name": "Pineco",
@@ -18424,6 +18424,10 @@ function displayList(array = []) {
             addCardBtn.style.opacity = 0;
             addCardBtn.style.pointerEvents = 'none';
             let deckImg = img.cloneNode(true);
+            deckImg.onclick = () => {
+                zoomedImg.setAttribute('src', item.images.large);
+                zoombox.className = "show";
+            };
 
             let deckAndPm = document.createElement('div');
             deckAndPm.classList.add('deck-add-minus');
@@ -18523,7 +18527,7 @@ function displayList(array = []) {
         setsOl.appendChild(cardArea);
     }
 }
-displayList(sv4pt5);
+displayList(latestSet);
 
 // collapse and open set boxes
 let coll = document.getElementsByClassName("set-white-box");
@@ -18568,12 +18572,7 @@ advancedDropdownBtn.addEventListener('click', () => {
 // spinner till loaded
 window.addEventListener("load", () => {
     const spinner = document.querySelector(".spinner");
-
     spinner.classList.add("spinner-hidden");
-
-    spinner.addEventListener("transitionend", () => {
-        document.body.removeChild("spinner");
-    })
 })
 // setsOl.addEventListener("load", () => {
 //     const spinner = document.querySelector(".spinner");
