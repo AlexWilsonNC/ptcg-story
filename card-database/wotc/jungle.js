@@ -3,6 +3,7 @@ let base2 = [
         "id": "base2-1",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -76,6 +77,7 @@ let base2 = [
         "id": "base2-2",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -145,6 +147,7 @@ let base2 = [
         "id": "base2-3",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -215,6 +218,7 @@ let base2 = [
         "id": "base2-4",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -284,6 +288,7 @@ let base2 = [
         "id": "base2-5",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -358,6 +363,7 @@ let base2 = [
         "id": "base2-6",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -423,6 +429,7 @@ let base2 = [
         "id": "base2-7",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -493,6 +500,7 @@ let base2 = [
         "id": "base2-8",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -567,6 +575,7 @@ let base2 = [
         "id": "base2-9",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -636,6 +645,7 @@ let base2 = [
         "id": "base2-10",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -711,6 +721,7 @@ let base2 = [
         "id": "base2-11",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -784,6 +795,7 @@ let base2 = [
         "id": "base2-12",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -853,6 +865,7 @@ let base2 = [
         "id": "base2-13",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -923,6 +936,7 @@ let base2 = [
         "id": "base2-14",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -990,6 +1004,7 @@ let base2 = [
         "id": "base2-15",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -1056,6 +1071,7 @@ let base2 = [
         "id": "base2-16",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1130,6 +1146,7 @@ let base2 = [
         "id": "base2-17",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1203,6 +1220,7 @@ let base2 = [
         "id": "base2-18",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1272,6 +1290,7 @@ let base2 = [
         "id": "base2-19",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1342,6 +1361,7 @@ let base2 = [
         "id": "base2-20",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1411,6 +1431,7 @@ let base2 = [
         "id": "base2-21",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -1485,6 +1506,7 @@ let base2 = [
         "id": "base2-22",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -1550,6 +1572,7 @@ let base2 = [
         "id": "base2-23",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -1620,6 +1643,7 @@ let base2 = [
         "id": "base2-24",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -1694,6 +1718,7 @@ let base2 = [
         "id": "base2-25",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -1763,6 +1788,7 @@ let base2 = [
         "id": "base2-26",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -1838,6 +1864,7 @@ let base2 = [
         "id": "base2-27",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -1911,6 +1938,7 @@ let base2 = [
         "id": "base2-28",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1980,6 +2008,7 @@ let base2 = [
         "id": "base2-29",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2050,6 +2079,7 @@ let base2 = [
         "id": "base2-30",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -2117,6 +2147,7 @@ let base2 = [
         "id": "base2-31",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -2183,6 +2214,7 @@ let base2 = [
         "id": "base2-32",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2257,6 +2289,7 @@ let base2 = [
         "id": "base2-33",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 2"
         ],
@@ -2332,6 +2365,7 @@ let base2 = [
         "id": "base2-34",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2403,6 +2437,7 @@ let base2 = [
         "id": "base2-35",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2469,6 +2504,7 @@ let base2 = [
         "id": "base2-36",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2545,6 +2581,7 @@ let base2 = [
         "id": "base2-37",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2616,6 +2653,7 @@ let base2 = [
         "id": "base2-38",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -2691,6 +2729,7 @@ let base2 = [
         "id": "base2-39",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2766,6 +2805,7 @@ let base2 = [
         "id": "base2-40",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2837,6 +2877,7 @@ let base2 = [
         "id": "base2-41",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2906,6 +2947,7 @@ let base2 = [
         "id": "base2-42",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2980,6 +3022,7 @@ let base2 = [
         "id": "base2-43",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3049,6 +3092,7 @@ let base2 = [
         "id": "base2-44",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3117,6 +3161,7 @@ let base2 = [
         "id": "base2-45",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3197,6 +3242,7 @@ let base2 = [
         "id": "base2-46",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3264,6 +3310,7 @@ let base2 = [
         "id": "base2-47",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3338,6 +3385,7 @@ let base2 = [
         "id": "base2-48",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3408,6 +3456,7 @@ let base2 = [
         "id": "base2-49",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3476,6 +3525,7 @@ let base2 = [
         "id": "base2-50",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3551,6 +3601,7 @@ let base2 = [
         "id": "base2-51",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3633,6 +3684,7 @@ let base2 = [
         "id": "base2-52",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3702,6 +3754,7 @@ let base2 = [
         "id": "base2-53",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3760,6 +3813,7 @@ let base2 = [
         "id": "base2-54",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3835,6 +3889,7 @@ let base2 = [
         "id": "base2-55",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3900,6 +3955,7 @@ let base2 = [
         "id": "base2-56",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -3966,6 +4022,7 @@ let base2 = [
         "id": "base2-57",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4035,6 +4092,7 @@ let base2 = [
         "id": "base2-58",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4104,6 +4162,7 @@ let base2 = [
         "id": "base2-59",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4174,6 +4233,7 @@ let base2 = [
         "id": "base2-60",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4235,6 +4295,7 @@ let base2 = [
         "id": "base2-61",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4311,6 +4372,7 @@ let base2 = [
         "id": "base2-62",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4386,6 +4448,7 @@ let base2 = [
         "id": "base2-63",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "JU",
         "subtypes": [
             "Basic"
         ],
@@ -4455,6 +4518,7 @@ let base2 = [
         "id": "base2-64",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "JU",
         "rules": [
             "Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
         ],

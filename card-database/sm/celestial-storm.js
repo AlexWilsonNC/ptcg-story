@@ -3,6 +3,7 @@ let sm7 = [
         "id": "sm7-1",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -63,6 +64,7 @@ let sm7 = [
         "id": "sm7-2",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -133,6 +135,7 @@ let sm7 = [
         "id": "sm7-3",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -199,6 +202,7 @@ let sm7 = [
         "id": "sm7-4",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -268,6 +272,7 @@ let sm7 = [
         "id": "sm7-5",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -337,6 +342,7 @@ let sm7 = [
         "id": "sm7-6",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -403,6 +409,7 @@ let sm7 = [
         "id": "sm7-7",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -462,6 +469,7 @@ let sm7 = [
         "id": "sm7-8",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -531,6 +539,7 @@ let sm7 = [
         "id": "sm7-9",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -591,6 +600,7 @@ let sm7 = [
         "id": "sm7-10",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -655,6 +665,7 @@ let sm7 = [
         "id": "sm7-10a",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -719,6 +730,7 @@ let sm7 = [
         "id": "sm7-11",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -787,6 +799,7 @@ let sm7 = [
         "id": "sm7-12",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -847,6 +860,7 @@ let sm7 = [
         "id": "sm7-13",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -917,6 +931,7 @@ let sm7 = [
         "id": "sm7-14",
         "name": "Shiftry-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -999,6 +1014,7 @@ let sm7 = [
         "id": "sm7-15",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -1058,6 +1074,7 @@ let sm7 = [
         "id": "sm7-16",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -1126,6 +1143,7 @@ let sm7 = [
         "id": "sm7-17",
         "name": "Volbeat",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -1182,6 +1200,7 @@ let sm7 = [
         "id": "sm7-18",
         "name": "Illumise",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -1238,6 +1257,7 @@ let sm7 = [
         "id": "sm7-19",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -1304,6 +1324,7 @@ let sm7 = [
         "id": "sm7-20",
         "name": "Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -1370,6 +1391,7 @@ let sm7 = [
         "id": "sm7-21",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -1437,6 +1459,7 @@ let sm7 = [
         "id": "sm7-22",
         "name": "Dhelmise",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -1505,6 +1528,7 @@ let sm7 = [
         "id": "sm7-23",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -1574,6 +1598,7 @@ let sm7 = [
         "id": "sm7-24",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -1640,6 +1665,7 @@ let sm7 = [
         "id": "sm7-25",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -1699,6 +1725,7 @@ let sm7 = [
         "id": "sm7-26",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -1768,6 +1795,7 @@ let sm7 = [
         "id": "sm7-27",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -1840,6 +1868,7 @@ let sm7 = [
         "id": "sm7-28",
         "name": "Blaziken-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1921,6 +1950,7 @@ let sm7 = [
         "id": "sm7-29",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -1989,6 +2019,7 @@ let sm7 = [
         "id": "sm7-30",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -2062,6 +2093,7 @@ let sm7 = [
         "id": "sm7-31",
         "name": "Articuno-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX"
@@ -2139,6 +2171,7 @@ let sm7 = [
         "id": "sm7-32",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -2198,6 +2231,7 @@ let sm7 = [
         "id": "sm7-33",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -2267,6 +2301,7 @@ let sm7 = [
         "id": "sm7-34",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -2339,6 +2374,7 @@ let sm7 = [
         "id": "sm7-35",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -2405,6 +2441,7 @@ let sm7 = [
         "id": "sm7-36",
         "name": "Lotad",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -2464,6 +2501,7 @@ let sm7 = [
         "id": "sm7-37",
         "name": "Lombre",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -2532,6 +2570,7 @@ let sm7 = [
         "id": "sm7-38",
         "name": "Ludicolo",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -2598,6 +2637,7 @@ let sm7 = [
         "id": "sm7-39",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -2659,6 +2699,7 @@ let sm7 = [
         "id": "sm7-40",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -2719,6 +2760,7 @@ let sm7 = [
         "id": "sm7-41",
         "name": "Clamperl",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -2786,6 +2828,7 @@ let sm7 = [
         "id": "sm7-42",
         "name": "Huntail",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -2854,6 +2897,7 @@ let sm7 = [
         "id": "sm7-43",
         "name": "Gorebyss",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -2910,6 +2954,7 @@ let sm7 = [
         "id": "sm7-44",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -2976,6 +3021,7 @@ let sm7 = [
         "id": "sm7-45",
         "name": "Regice",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -3041,6 +3087,7 @@ let sm7 = [
         "id": "sm7-46",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -3109,6 +3156,7 @@ let sm7 = [
         "id": "sm7-47",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -3182,6 +3230,7 @@ let sm7 = [
         "id": "sm7-48",
         "name": "Electrode-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -3266,6 +3315,7 @@ let sm7 = [
         "id": "sm7-49",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -3341,6 +3391,7 @@ let sm7 = [
         "id": "sm7-50",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -3413,6 +3464,7 @@ let sm7 = [
         "id": "sm7-51",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -3478,6 +3530,7 @@ let sm7 = [
         "id": "sm7-52",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -3547,6 +3600,7 @@ let sm7 = [
         "id": "sm7-53",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -3619,6 +3673,7 @@ let sm7 = [
         "id": "sm7-54",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -3691,6 +3746,7 @@ let sm7 = [
         "id": "sm7-55",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -3764,6 +3820,7 @@ let sm7 = [
         "id": "sm7-56",
         "name": "Mr. Mime-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX"
@@ -3834,6 +3891,7 @@ let sm7 = [
         "id": "sm7-57",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -3902,6 +3960,7 @@ let sm7 = [
         "id": "sm7-58",
         "name": "Swalot",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -3970,6 +4029,7 @@ let sm7 = [
         "id": "sm7-59",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -4029,6 +4089,7 @@ let sm7 = [
         "id": "sm7-60",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -4086,6 +4147,7 @@ let sm7 = [
         "id": "sm7-61",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -4149,6 +4211,7 @@ let sm7 = [
         "id": "sm7-62",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -4212,6 +4275,7 @@ let sm7 = [
         "id": "sm7-63",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -4287,6 +4351,7 @@ let sm7 = [
         "id": "sm7-64",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -4352,6 +4417,7 @@ let sm7 = [
         "id": "sm7-65",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -4423,6 +4489,7 @@ let sm7 = [
         "id": "sm7-66",
         "name": "Banette-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -4505,6 +4572,7 @@ let sm7 = [
         "id": "sm7-67",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -4573,6 +4641,7 @@ let sm7 = [
         "id": "sm7-68",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -4640,6 +4709,7 @@ let sm7 = [
         "id": "sm7-69",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -4707,6 +4777,7 @@ let sm7 = [
         "id": "sm7-70",
         "name": "Lunala",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -4779,6 +4850,7 @@ let sm7 = [
         "id": "sm7-71",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -4848,6 +4920,7 @@ let sm7 = [
         "id": "sm7-72",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -4916,6 +4989,7 @@ let sm7 = [
         "id": "sm7-73",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -4984,6 +5058,7 @@ let sm7 = [
         "id": "sm7-74",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -5053,6 +5128,7 @@ let sm7 = [
         "id": "sm7-75",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -5124,6 +5200,7 @@ let sm7 = [
         "id": "sm7-76",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -5193,6 +5270,7 @@ let sm7 = [
         "id": "sm7-77",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -5261,6 +5339,7 @@ let sm7 = [
         "id": "sm7-78",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -5321,6 +5400,7 @@ let sm7 = [
         "id": "sm7-79",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -5389,6 +5469,7 @@ let sm7 = [
         "id": "sm7-80",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -5456,6 +5537,7 @@ let sm7 = [
         "id": "sm7-81",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -5526,6 +5608,7 @@ let sm7 = [
         "id": "sm7-82",
         "name": "Palossand-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5612,6 +5695,7 @@ let sm7 = [
         "id": "sm7-83",
         "name": "Minior",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -5675,6 +5759,7 @@ let sm7 = [
         "id": "sm7-84",
         "name": "Alolan Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -5748,6 +5833,7 @@ let sm7 = [
         "id": "sm7-85",
         "name": "Alolan Raticate-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5830,6 +5916,7 @@ let sm7 = [
         "id": "sm7-86",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -5905,6 +5992,7 @@ let sm7 = [
         "id": "sm7-87",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -5982,6 +6070,7 @@ let sm7 = [
         "id": "sm7-88",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -6039,6 +6128,7 @@ let sm7 = [
         "id": "sm7-89",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -6114,6 +6204,7 @@ let sm7 = [
         "id": "sm7-90",
         "name": "Scizor-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -6199,6 +6290,7 @@ let sm7 = [
         "id": "sm7-91",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -6271,6 +6363,7 @@ let sm7 = [
         "id": "sm7-92",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -6343,6 +6436,7 @@ let sm7 = [
         "id": "sm7-93",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -6409,6 +6503,7 @@ let sm7 = [
         "id": "sm7-94",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -6475,6 +6570,7 @@ let sm7 = [
         "id": "sm7-95",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -6545,6 +6641,7 @@ let sm7 = [
         "id": "sm7-96",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -6616,6 +6713,7 @@ let sm7 = [
         "id": "sm7-97",
         "name": "Jirachi ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -6691,6 +6789,7 @@ let sm7 = [
         "id": "sm7-98",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -6765,6 +6864,7 @@ let sm7 = [
         "id": "sm7-99",
         "name": "Solgaleo",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -6837,6 +6937,7 @@ let sm7 = [
         "id": "sm7-100",
         "name": "Celesteela",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -6904,6 +7005,7 @@ let sm7 = [
         "id": "sm7-101",
         "name": "Kartana",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -6968,6 +7070,7 @@ let sm7 = [
         "id": "sm7-102",
         "name": "Stakataka-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX",
@@ -7054,6 +7157,7 @@ let sm7 = [
         "id": "sm7-103",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -7113,6 +7217,7 @@ let sm7 = [
         "id": "sm7-104",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -7173,6 +7278,7 @@ let sm7 = [
         "id": "sm7-105",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -7234,6 +7340,7 @@ let sm7 = [
         "id": "sm7-106",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -7301,6 +7408,7 @@ let sm7 = [
         "id": "sm7-107",
         "name": "Latias ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -7361,6 +7469,7 @@ let sm7 = [
         "id": "sm7-108",
         "name": "Latios ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -7422,6 +7531,7 @@ let sm7 = [
         "id": "sm7-109",
         "name": "Rayquaza-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX"
@@ -7499,6 +7609,7 @@ let sm7 = [
         "id": "sm7-110",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -7564,6 +7675,7 @@ let sm7 = [
         "id": "sm7-111",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -7629,6 +7741,7 @@ let sm7 = [
         "id": "sm7-112",
         "name": "Pelipper",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -7703,6 +7816,7 @@ let sm7 = [
         "id": "sm7-113",
         "name": "Slakoth",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -7772,6 +7886,7 @@ let sm7 = [
         "id": "sm7-114",
         "name": "Vigoroth",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -7844,6 +7959,7 @@ let sm7 = [
         "id": "sm7-115",
         "name": "Slaking",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -7910,6 +8026,7 @@ let sm7 = [
         "id": "sm7-116",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -7979,6 +8096,7 @@ let sm7 = [
         "id": "sm7-117",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -8040,6 +8158,7 @@ let sm7 = [
         "id": "sm7-118",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -8102,6 +8221,7 @@ let sm7 = [
         "id": "sm7-119",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2"
         ],
@@ -8173,6 +8293,7 @@ let sm7 = [
         "id": "sm7-120",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -8232,6 +8353,7 @@ let sm7 = [
         "id": "sm7-121",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1"
         ],
@@ -8297,6 +8419,7 @@ let sm7 = [
         "id": "sm7-122",
         "name": "Kecleon",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic"
         ],
@@ -8362,6 +8485,7 @@ let sm7 = [
         "id": "sm7-123",
         "name": "Acro Bike",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -8396,6 +8520,7 @@ let sm7 = [
         "id": "sm7-123a",
         "name": "Acro Bike",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -8430,6 +8555,7 @@ let sm7 = [
         "id": "sm7-124",
         "name": "Apricorn Maker",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -8464,6 +8590,7 @@ let sm7 = [
         "id": "sm7-125",
         "name": "Beast Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -8498,6 +8625,7 @@ let sm7 = [
         "id": "sm7-126",
         "name": "Bill's Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -8532,6 +8660,7 @@ let sm7 = [
         "id": "sm7-127",
         "name": "Copycat",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -8566,6 +8695,7 @@ let sm7 = [
         "id": "sm7-128",
         "name": "Energy Recycle System",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -8600,6 +8730,7 @@ let sm7 = [
         "id": "sm7-129",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -8634,6 +8765,7 @@ let sm7 = [
         "id": "sm7-130",
         "name": "Fisherman",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -8668,6 +8800,7 @@ let sm7 = [
         "id": "sm7-131",
         "name": "Friend Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -8702,6 +8835,7 @@ let sm7 = [
         "id": "sm7-132",
         "name": "Hau",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -8736,6 +8870,7 @@ let sm7 = [
         "id": "sm7-133",
         "name": "Hiker",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -8770,6 +8905,7 @@ let sm7 = [
         "id": "sm7-134",
         "name": "Hustle Belt",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8805,6 +8941,7 @@ let sm7 = [
         "id": "sm7-135",
         "name": "Last Chance Potion",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -8839,6 +8976,7 @@ let sm7 = [
         "id": "sm7-136",
         "name": "Life Herb",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -8873,6 +9011,7 @@ let sm7 = [
         "id": "sm7-137",
         "name": "Lisia",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -8907,6 +9046,7 @@ let sm7 = [
         "id": "sm7-138",
         "name": "Lure Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -8941,6 +9081,7 @@ let sm7 = [
         "id": "sm7-139",
         "name": "The Masked Royal",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -8975,6 +9116,7 @@ let sm7 = [
         "id": "sm7-140",
         "name": "PokéNav",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -9009,6 +9151,7 @@ let sm7 = [
         "id": "sm7-141",
         "name": "Rainbow Brush",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -9043,6 +9186,7 @@ let sm7 = [
         "id": "sm7-142",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -9077,6 +9221,7 @@ let sm7 = [
         "id": "sm7-143",
         "name": "Shrine of Punishment",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stadium"
         ],
@@ -9111,6 +9256,7 @@ let sm7 = [
         "id": "sm7-144",
         "name": "Sky Pillar",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stadium"
         ],
@@ -9145,6 +9291,7 @@ let sm7 = [
         "id": "sm7-145",
         "name": "Steven's Resolve",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -9179,6 +9326,7 @@ let sm7 = [
         "id": "sm7-146",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -9213,6 +9361,7 @@ let sm7 = [
         "id": "sm7-147",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -9247,6 +9396,7 @@ let sm7 = [
         "id": "sm7-148",
         "name": "Tate & Liza",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -9281,6 +9431,7 @@ let sm7 = [
         "id": "sm7-148a",
         "name": "Tate & Liza",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -9315,6 +9466,7 @@ let sm7 = [
         "id": "sm7-149",
         "name": "TV Reporter",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -9349,6 +9501,7 @@ let sm7 = [
         "id": "sm7-150",
         "name": "Underground Expedition",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -9383,6 +9536,7 @@ let sm7 = [
         "id": "sm7-151",
         "name": "Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "CES",
         "subtypes": [
             "Special"
         ],
@@ -9415,6 +9569,7 @@ let sm7 = [
         "id": "sm7-152",
         "name": "Shiftry-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9497,6 +9652,7 @@ let sm7 = [
         "id": "sm7-153",
         "name": "Blaziken-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9578,6 +9734,7 @@ let sm7 = [
         "id": "sm7-154",
         "name": "Articuno-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX"
@@ -9655,6 +9812,7 @@ let sm7 = [
         "id": "sm7-155",
         "name": "Electrode-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9739,6 +9897,7 @@ let sm7 = [
         "id": "sm7-156",
         "name": "Mr. Mime-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX"
@@ -9809,6 +9968,7 @@ let sm7 = [
         "id": "sm7-157",
         "name": "Banette-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9891,6 +10051,7 @@ let sm7 = [
         "id": "sm7-158",
         "name": "Scizor-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9976,6 +10137,7 @@ let sm7 = [
         "id": "sm7-159",
         "name": "Stakataka-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX",
@@ -10062,6 +10224,7 @@ let sm7 = [
         "id": "sm7-160",
         "name": "Rayquaza-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX"
@@ -10139,6 +10302,7 @@ let sm7 = [
         "id": "sm7-161",
         "name": "Apricorn Maker",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -10173,6 +10337,7 @@ let sm7 = [
         "id": "sm7-162",
         "name": "Bill's Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -10207,6 +10372,7 @@ let sm7 = [
         "id": "sm7-163",
         "name": "Copycat",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -10241,6 +10407,7 @@ let sm7 = [
         "id": "sm7-164",
         "name": "Lisia",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -10275,6 +10442,7 @@ let sm7 = [
         "id": "sm7-165",
         "name": "Steven's Resolve",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -10309,6 +10477,7 @@ let sm7 = [
         "id": "sm7-166",
         "name": "Tate & Liza",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -10343,6 +10512,7 @@ let sm7 = [
         "id": "sm7-167",
         "name": "TV Reporter",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -10377,6 +10547,7 @@ let sm7 = [
         "id": "sm7-168",
         "name": "Underground Expedition",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Supporter"
         ],
@@ -10411,6 +10582,7 @@ let sm7 = [
         "id": "sm7-169",
         "name": "Shiftry-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10493,6 +10665,7 @@ let sm7 = [
         "id": "sm7-170",
         "name": "Blaziken-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10574,6 +10747,7 @@ let sm7 = [
         "id": "sm7-171",
         "name": "Articuno-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX"
@@ -10651,6 +10825,7 @@ let sm7 = [
         "id": "sm7-172",
         "name": "Electrode-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10735,6 +10910,7 @@ let sm7 = [
         "id": "sm7-173",
         "name": "Mr. Mime-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX"
@@ -10805,6 +10981,7 @@ let sm7 = [
         "id": "sm7-174",
         "name": "Banette-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10887,6 +11064,7 @@ let sm7 = [
         "id": "sm7-175",
         "name": "Scizor-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10972,6 +11150,7 @@ let sm7 = [
         "id": "sm7-176",
         "name": "Stakataka-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX",
@@ -11058,6 +11237,7 @@ let sm7 = [
         "id": "sm7-177",
         "name": "Rayquaza-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX"
@@ -11135,6 +11315,7 @@ let sm7 = [
         "id": "sm7-177a",
         "name": "Rayquaza-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CES",
         "subtypes": [
             "Basic",
             "GX"
@@ -11212,6 +11393,7 @@ let sm7 = [
         "id": "sm7-178",
         "name": "Acro Bike",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -11246,6 +11428,7 @@ let sm7 = [
         "id": "sm7-179",
         "name": "Hustle Belt",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11281,6 +11464,7 @@ let sm7 = [
         "id": "sm7-180",
         "name": "Life Herb",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -11315,6 +11499,7 @@ let sm7 = [
         "id": "sm7-181",
         "name": "PokéNav",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -11349,6 +11534,7 @@ let sm7 = [
         "id": "sm7-182",
         "name": "Rainbow Brush",
         "supertype": "Trainer",
+        "setAbbrev": "CES",
         "subtypes": [
             "Item"
         ],
@@ -11383,6 +11569,7 @@ let sm7 = [
         "id": "sm7-183",
         "name": "Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "CES",
         "subtypes": [
             "Special"
         ],

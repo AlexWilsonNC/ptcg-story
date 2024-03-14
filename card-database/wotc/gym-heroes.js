@@ -3,6 +3,7 @@ let gym1 = [
         "id": "gym1-1",
         "name": "Blaine's Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let gym1 = [
         "id": "gym1-2",
         "name": "Brock's Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -137,6 +139,7 @@ let gym1 = [
         "id": "gym1-3",
         "name": "Erika's Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -210,6 +213,7 @@ let gym1 = [
         "id": "gym1-4",
         "name": "Erika's Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -283,6 +287,7 @@ let gym1 = [
         "id": "gym1-5",
         "name": "Erika's Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 2"
         ],
@@ -348,6 +353,7 @@ let gym1 = [
         "id": "gym1-6",
         "name": "Lt. Surge's Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -415,6 +421,7 @@ let gym1 = [
         "id": "gym1-7",
         "name": "Lt. Surge's Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -488,6 +495,7 @@ let gym1 = [
         "id": "gym1-8",
         "name": "Lt. Surge's Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -557,6 +565,7 @@ let gym1 = [
         "id": "gym1-9",
         "name": "Misty's Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -627,6 +636,7 @@ let gym1 = [
         "id": "gym1-10",
         "name": "Misty's Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -692,6 +702,7 @@ let gym1 = [
         "id": "gym1-11",
         "name": "Rocket's Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -758,6 +769,7 @@ let gym1 = [
         "id": "gym1-12",
         "name": "Rocket's Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -822,6 +834,7 @@ let gym1 = [
         "id": "gym1-13",
         "name": "Rocket's Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -897,6 +910,7 @@ let gym1 = [
         "id": "gym1-14",
         "name": "Sabrina's Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 2"
         ],
@@ -964,6 +978,7 @@ let gym1 = [
         "id": "gym1-15",
         "name": "Brock",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Remove 1 damage counter from each of your Pokémon that has any damage counters on it."
         ],
@@ -994,6 +1009,7 @@ let gym1 = [
         "id": "gym1-16",
         "name": "Erika",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "You may draw up to 3 cards, then your opponent may draw up to 3 cards."
         ],
@@ -1024,6 +1040,7 @@ let gym1 = [
         "id": "gym1-17",
         "name": "Lt. Surge",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "You can play this card only if you have at least 1 Basic Pokémon card in your hand. Put a Basic Pokémon card from your hand into play as your Active Pokémon. Put your old Active Pokémon onto your Bench. (You can't play this card if your Bench is full.)"
         ],
@@ -1054,6 +1071,7 @@ let gym1 = [
         "id": "gym1-18",
         "name": "Misty",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Discard 2 of the other cards in your hand in order to play this card. If this turn's attack does damage to the Defending Pokémon (after applying Weakness and Resistance), and if the attacking Pokémon has Misty in its name, the attack does 20 more damage to the Defending Pokémon."
         ],
@@ -1084,6 +1102,7 @@ let gym1 = [
         "id": "gym1-19",
         "name": "The Rocket's Trap",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Flip a coin. If heads, choose up to 3 cards at random from your opponent's hand (don't look at them). Your opponent shuffles those cards into his or her deck."
         ],
@@ -1114,6 +1133,7 @@ let gym1 = [
         "id": "gym1-20",
         "name": "Brock's Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 2"
         ],
@@ -1184,6 +1204,7 @@ let gym1 = [
         "id": "gym1-21",
         "name": "Brock's Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -1254,6 +1275,7 @@ let gym1 = [
         "id": "gym1-22",
         "name": "Brock's Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -1330,6 +1352,7 @@ let gym1 = [
         "id": "gym1-23",
         "name": "Brock's Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -1403,6 +1426,7 @@ let gym1 = [
         "id": "gym1-24",
         "name": "Brock's Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -1476,6 +1500,7 @@ let gym1 = [
         "id": "gym1-25",
         "name": "Erika's Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -1550,6 +1575,7 @@ let gym1 = [
         "id": "gym1-26",
         "name": "Erika's Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 2"
         ],
@@ -1615,6 +1641,7 @@ let gym1 = [
         "id": "gym1-27",
         "name": "Lt. Surge's Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -1683,6 +1710,7 @@ let gym1 = [
         "id": "gym1-28",
         "name": "Lt. Surge's Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -1752,6 +1780,7 @@ let gym1 = [
         "id": "gym1-29",
         "name": "Misty's Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -1817,6 +1846,7 @@ let gym1 = [
         "id": "gym1-30",
         "name": "Misty's Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -1874,6 +1904,7 @@ let gym1 = [
         "id": "gym1-31",
         "name": "Misty's Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 2"
         ],
@@ -1933,6 +1964,7 @@ let gym1 = [
         "id": "gym1-32",
         "name": "Misty's Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -2000,6 +2032,7 @@ let gym1 = [
         "id": "gym1-33",
         "name": "Rocket's Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -2070,6 +2103,7 @@ let gym1 = [
         "id": "gym1-34",
         "name": "Sabrina's Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2140,6 +2174,7 @@ let gym1 = [
         "id": "gym1-35",
         "name": "Blaine's Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -2208,6 +2243,7 @@ let gym1 = [
         "id": "gym1-36",
         "name": "Blaine's Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -2280,6 +2316,7 @@ let gym1 = [
         "id": "gym1-37",
         "name": "Blaine's Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -2349,6 +2386,7 @@ let gym1 = [
         "id": "gym1-38",
         "name": "Brock's Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -2417,6 +2455,7 @@ let gym1 = [
         "id": "gym1-39",
         "name": "Brock's Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2493,6 +2532,7 @@ let gym1 = [
         "id": "gym1-40",
         "name": "Brock's Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2554,6 +2594,7 @@ let gym1 = [
         "id": "gym1-41",
         "name": "Brock's Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -2630,6 +2671,7 @@ let gym1 = [
         "id": "gym1-42",
         "name": "Erika's Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -2696,6 +2738,7 @@ let gym1 = [
         "id": "gym1-43",
         "name": "Erika's Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -2764,6 +2807,7 @@ let gym1 = [
         "id": "gym1-44",
         "name": "Erika's Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2831,6 +2875,7 @@ let gym1 = [
         "id": "gym1-45",
         "name": "Erika's Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2902,6 +2947,7 @@ let gym1 = [
         "id": "gym1-46",
         "name": "Erika's Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -2974,6 +3020,7 @@ let gym1 = [
         "id": "gym1-47",
         "name": "Erika's Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -3040,6 +3087,7 @@ let gym1 = [
         "id": "gym1-48",
         "name": "Erika's Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3109,6 +3157,7 @@ let gym1 = [
         "id": "gym1-49",
         "name": "Erika's Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3180,6 +3229,7 @@ let gym1 = [
         "id": "gym1-50",
         "name": "Lt. Surge's Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -3247,6 +3297,7 @@ let gym1 = [
         "id": "gym1-51",
         "name": "Lt. Surge's Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3309,6 +3360,7 @@ let gym1 = [
         "id": "gym1-52",
         "name": "Lt. Surge's Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -3372,6 +3424,7 @@ let gym1 = [
         "id": "gym1-53",
         "name": "Misty's Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3444,6 +3497,7 @@ let gym1 = [
         "id": "gym1-54",
         "name": "Misty's Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -3511,6 +3565,7 @@ let gym1 = [
         "id": "gym1-55",
         "name": "Misty's Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3577,6 +3632,7 @@ let gym1 = [
         "id": "gym1-56",
         "name": "Misty's Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3644,6 +3700,7 @@ let gym1 = [
         "id": "gym1-57",
         "name": "Misty's Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -3703,6 +3760,7 @@ let gym1 = [
         "id": "gym1-58",
         "name": "Sabrina's Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3762,6 +3820,7 @@ let gym1 = [
         "id": "gym1-59",
         "name": "Sabrina's Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -3827,6 +3886,7 @@ let gym1 = [
         "id": "gym1-60",
         "name": "Sabrina's Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stage 1"
         ],
@@ -3894,6 +3954,7 @@ let gym1 = [
         "id": "gym1-61",
         "name": "Blaine's Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -3962,6 +4023,7 @@ let gym1 = [
         "id": "gym1-62",
         "name": "Blaine's Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4021,6 +4083,7 @@ let gym1 = [
         "id": "gym1-63",
         "name": "Blaine's Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4079,6 +4142,7 @@ let gym1 = [
         "id": "gym1-64",
         "name": "Blaine's Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4151,6 +4215,7 @@ let gym1 = [
         "id": "gym1-65",
         "name": "Blaine's Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4218,6 +4283,7 @@ let gym1 = [
         "id": "gym1-66",
         "name": "Brock's Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4286,6 +4352,7 @@ let gym1 = [
         "id": "gym1-67",
         "name": "Brock's Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4352,6 +4419,7 @@ let gym1 = [
         "id": "gym1-68",
         "name": "Brock's Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4419,6 +4487,7 @@ let gym1 = [
         "id": "gym1-69",
         "name": "Brock's Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4488,6 +4557,7 @@ let gym1 = [
         "id": "gym1-70",
         "name": "Brock's Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4553,6 +4623,7 @@ let gym1 = [
         "id": "gym1-71",
         "name": "Brock's Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4627,6 +4698,7 @@ let gym1 = [
         "id": "gym1-72",
         "name": "Brock's Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4692,6 +4764,7 @@ let gym1 = [
         "id": "gym1-73",
         "name": "Brock's Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4760,6 +4833,7 @@ let gym1 = [
         "id": "gym1-74",
         "name": "Brock's Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4833,6 +4907,7 @@ let gym1 = [
         "id": "gym1-75",
         "name": "Erika's Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4901,6 +4976,7 @@ let gym1 = [
         "id": "gym1-76",
         "name": "Erika's Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -4959,6 +5035,7 @@ let gym1 = [
         "id": "gym1-77",
         "name": "Erika's Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5027,6 +5104,7 @@ let gym1 = [
         "id": "gym1-78",
         "name": "Erika's Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5095,6 +5173,7 @@ let gym1 = [
         "id": "gym1-79",
         "name": "Erika's Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5164,6 +5243,7 @@ let gym1 = [
         "id": "gym1-80",
         "name": "Lt. Surge's Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5232,6 +5312,7 @@ let gym1 = [
         "id": "gym1-81",
         "name": "Lt. Surge's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5300,6 +5381,7 @@ let gym1 = [
         "id": "gym1-82",
         "name": "Lt. Surge's Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5374,6 +5456,7 @@ let gym1 = [
         "id": "gym1-83",
         "name": "Lt. Surge's Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5447,6 +5530,7 @@ let gym1 = [
         "id": "gym1-84",
         "name": "Lt. Surge's Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5515,6 +5599,7 @@ let gym1 = [
         "id": "gym1-85",
         "name": "Misty's Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5582,6 +5667,7 @@ let gym1 = [
         "id": "gym1-86",
         "name": "Misty's Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5649,6 +5735,7 @@ let gym1 = [
         "id": "gym1-87",
         "name": "Misty's Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5717,6 +5804,7 @@ let gym1 = [
         "id": "gym1-88",
         "name": "Misty's Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5776,6 +5864,7 @@ let gym1 = [
         "id": "gym1-89",
         "name": "Misty's Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5844,6 +5933,7 @@ let gym1 = [
         "id": "gym1-90",
         "name": "Misty's Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5903,6 +5993,7 @@ let gym1 = [
         "id": "gym1-91",
         "name": "Sabrina's Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -5960,6 +6051,7 @@ let gym1 = [
         "id": "gym1-92",
         "name": "Sabrina's Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -6028,6 +6120,7 @@ let gym1 = [
         "id": "gym1-93",
         "name": "Sabrina's Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -6087,6 +6180,7 @@ let gym1 = [
         "id": "gym1-94",
         "name": "Sabrina's Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -6152,6 +6246,7 @@ let gym1 = [
         "id": "gym1-95",
         "name": "Sabrina's Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -6212,6 +6307,7 @@ let gym1 = [
         "id": "gym1-96",
         "name": "Sabrina's Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -6280,6 +6376,7 @@ let gym1 = [
         "id": "gym1-97",
         "name": "Blaine's Quiz #1",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Put a Basic Pokémon or Evolution card from your hand face down in front of you and tell your opponent its name. Your opponent guesses the length of that Pokémon. Flip the card over. If your opponent guessed right, he or she draws 2 cards. If your opponent guessed wrong, you draw 2 cards. Either way, return the card to your hand."
         ],
@@ -6310,6 +6407,7 @@ let gym1 = [
         "id": "gym1-98",
         "name": "Brock",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Remove 1 damage counter from each of your Pokémon that has any damage counters on it."
         ],
@@ -6340,6 +6438,7 @@ let gym1 = [
         "id": "gym1-99",
         "name": "Charity",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Attach Charity to your Active Pokémon. Unless that Pokémon gets Knocked Out, return Charity to your hand at the end of your turn. If that Pokémon attacks and does damage to the Defending Pokémon, you may reduce that damage by any amount (rounded to the nearest 10)."
         ],
@@ -6370,6 +6469,7 @@ let gym1 = [
         "id": "gym1-100",
         "name": "Erika",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "You may draw up to 3 cards, then your opponent may draw up to 3 cards."
         ],
@@ -6400,6 +6500,7 @@ let gym1 = [
         "id": "gym1-101",
         "name": "Lt. Surge",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "You can play this card only if you have at least 1 Basic Pokémon card in your hand. Put a Basic Pokémon card from your hand into play as your Active Pokémon. Put your old Active Pokémon onto your Bench. (You can't play this card if your Bench is full.)"
         ],
@@ -6430,6 +6531,7 @@ let gym1 = [
         "id": "gym1-102",
         "name": "Misty",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Discard 2 of the other cards in your hand in order to play this card. If this turn's attack does damage to the Defending Pokémon (after applying Weakness and Resistance), and if the attacking Pokémon has Misty in its name, the attack does 20 more damage to the Defending Pokémon."
         ],
@@ -6460,6 +6562,7 @@ let gym1 = [
         "id": "gym1-103",
         "name": "No Removal Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stadium"
         ],
@@ -6494,6 +6597,7 @@ let gym1 = [
         "id": "gym1-104",
         "name": "The Rocket's Training Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stadium"
         ],
@@ -6528,6 +6632,7 @@ let gym1 = [
         "id": "gym1-105",
         "name": "Blaine's Last Resort",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "You can't play this card if you have any cards in your hand other than Blaine's Last Resort. Show your hand to your opponent, then draw 5 cards."
         ],
@@ -6558,6 +6663,7 @@ let gym1 = [
         "id": "gym1-106",
         "name": "Brock's Training Method",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Search your deck for a Basic Pokémon or Evolution card with Brock in its name. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
         ],
@@ -6588,6 +6694,7 @@ let gym1 = [
         "id": "gym1-107",
         "name": "Celadon City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stadium"
         ],
@@ -6622,6 +6729,7 @@ let gym1 = [
         "id": "gym1-108",
         "name": "Cerulean City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stadium"
         ],
@@ -6656,6 +6764,7 @@ let gym1 = [
         "id": "gym1-109",
         "name": "Erika's Maids",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Trade 2 of the other cards in your hand for up to 2 Basic Pokémon and/or Evolution cards with Erika in their names from your deck. Show those cards to your opponent, then put them into your hand. Shuffle your deck afterward."
         ],
@@ -6686,6 +6795,7 @@ let gym1 = [
         "id": "gym1-110",
         "name": "Erika's Perfume",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Look at your opponent's hand. If he or she has any Basic Pokémon cards there, you may put any number of them onto your opponent's Bench (as long as there's room)."
         ],
@@ -6716,6 +6826,7 @@ let gym1 = [
         "id": "gym1-111",
         "name": "Good Manners",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "In order to play this card, you can't have any Basic Pokémon cards in your hand. Show your hand to your opponent, then search your deck for a Basic Pokémon card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
         ],
@@ -6746,6 +6857,7 @@ let gym1 = [
         "id": "gym1-112",
         "name": "Lt. Surge's Treaty",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Your opponent chooses 1 of the following: everyone chooses 1 of his or her own Prizes and put it into his or her hand, or you draw a card."
         ],
@@ -6776,6 +6888,7 @@ let gym1 = [
         "id": "gym1-113",
         "name": "Minion of Team Rocket",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Flip 2 coins. If both of them are heads, choose 1 of your opponent's Benched Pokémon and return it and all cards attached to it to his or her hand. If 1 or both of them are tails, your turn ends immediately (you can't attack this turn)."
         ],
@@ -6806,6 +6919,7 @@ let gym1 = [
         "id": "gym1-114",
         "name": "Misty's Wrath",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Look at the top 7 cards of your deck. Choose 2 of those cards and put them into your hand. Discard the rest."
         ],
@@ -6836,6 +6950,7 @@ let gym1 = [
         "id": "gym1-115",
         "name": "Pewter City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stadium"
         ],
@@ -6870,6 +6985,7 @@ let gym1 = [
         "id": "gym1-116",
         "name": "Recall",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "For your attack this turn, your Active Pokémon can use any attack from its Basic Pokémon card or any Evolution card attached to it. (You still have to pay for that attack's Energy cost.)"
         ],
@@ -6900,6 +7016,7 @@ let gym1 = [
         "id": "gym1-117",
         "name": "Sabrina's ESP",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Attach Sabrina's ESP to 1 of your Pokémon with Sabrina in its name. At the end of your turn, discard Sabrina's ESP. If that Pokémon uses and attack that involves flipping coins, Sabrina's ESP lets you re-flip those coins once. If you do, re-flip all the coins."
         ],
@@ -6930,6 +7047,7 @@ let gym1 = [
         "id": "gym1-118",
         "name": "Secret Mission",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Look at your opponent's hand. Then, you may discard as many other cards as you want from your hand and draw that many cards."
         ],
@@ -6960,6 +7078,7 @@ let gym1 = [
         "id": "gym1-119",
         "name": "Tickling Machine",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -6993,6 +7112,7 @@ let gym1 = [
         "id": "gym1-120",
         "name": "Vermilion City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stadium"
         ],
@@ -7027,6 +7147,7 @@ let gym1 = [
         "id": "gym1-121",
         "name": "Blaine's Gamble",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Discard any number of other cards from your hand, then flip a coin. If heads, draw twice that many cards."
         ],
@@ -7057,6 +7178,7 @@ let gym1 = [
         "id": "gym1-122",
         "name": "Energy Flow",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "For each of your Pokémon, you may return any number of Energy cards attached to it to your hand."
         ],
@@ -7087,6 +7209,7 @@ let gym1 = [
         "id": "gym1-123",
         "name": "Misty's Duel",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "You and your opponent play a game of Rock-Paper-Scissors. The winner shuffles his or her hand into his or her deck and draws a new hand of 5 cards. (If you don't know how to play Rock-Paper-Scissors, flip a coin to decide who's the winner.)"
         ],
@@ -7117,6 +7240,7 @@ let gym1 = [
         "id": "gym1-124",
         "name": "Narrow Gym",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "subtypes": [
             "Stadium"
         ],
@@ -7151,6 +7275,7 @@ let gym1 = [
         "id": "gym1-125",
         "name": "Sabrina's Gaze",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Each player shuffles his or her hand into his or her deck and draws a new hand of the same number of cards."
         ],
@@ -7181,6 +7306,7 @@ let gym1 = [
         "id": "gym1-126",
         "name": "Trash Exchange",
         "supertype": "Trainer",
+        "setAbbrev": "G1",
         "rules": [
             "Count the number of cards in your discard pile and shuffle them into your deck. Then discard that many cards from the top of your deck."
         ],
@@ -7211,6 +7337,7 @@ let gym1 = [
         "id": "gym1-127",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -7240,6 +7367,7 @@ let gym1 = [
         "id": "gym1-128",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -7269,6 +7397,7 @@ let gym1 = [
         "id": "gym1-129",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -7298,6 +7427,7 @@ let gym1 = [
         "id": "gym1-130",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -7327,6 +7457,7 @@ let gym1 = [
         "id": "gym1-131",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],
@@ -7356,6 +7487,7 @@ let gym1 = [
         "id": "gym1-132",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "G1",
         "subtypes": [
             "Basic"
         ],

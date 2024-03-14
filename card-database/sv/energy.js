@@ -3,6 +3,7 @@ let sve = [
         "id": "sve-3",
         "name": "Basic Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "SVE",
         "subtypes": [
             "Basic"
         ],
@@ -15,6 +16,7 @@ let sve = [
         "id": "sve-1",
         "name": "Basic Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "SVE",
         "subtypes": [
             "Basic"
         ],
@@ -27,6 +29,7 @@ let sve = [
         "id": "sve-7",
         "name": "Basic Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "SVE",
         "subtypes": [
             "Basic"
         ],
@@ -39,6 +42,7 @@ let sve = [
         "id": "sve-4",
         "name": "Basic Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "SVE",
         "subtypes": [
             "Basic"
         ],
@@ -51,6 +55,7 @@ let sve = [
         "id": "sve-8",
         "name": "Basic Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "SVE",
         "subtypes": [
             "Basic"
         ],
@@ -63,6 +68,7 @@ let sve = [
         "id": "sve-2",
         "name": "Basic Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "SVE",
         "subtypes": [
             "Basic"
         ],
@@ -75,6 +81,7 @@ let sve = [
         "id": "sve-5",
         "name": "Basic Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "SVE",
         "subtypes": [
             "Basic"
         ],
@@ -87,6 +94,7 @@ let sve = [
         "id": "sve-6",
         "name": "Basic Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "SVE",
         "subtypes": [
             "Basic"
         ],

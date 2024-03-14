@@ -3,6 +3,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-1",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-2",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -124,6 +126,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-3",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 2"
         ],
@@ -182,6 +185,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-4",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -252,6 +256,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-5",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -321,6 +326,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-6",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -380,6 +386,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-7",
         "name": "Sunkern",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -440,6 +447,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-8",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -510,6 +518,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-9",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -577,6 +586,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-10",
         "name": "Kricketot",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -636,6 +646,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-11",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -695,6 +706,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-12",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -761,6 +773,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-13",
         "name": "Leafeon V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -831,6 +844,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-14",
         "name": "Leafeon VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -899,6 +913,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-15",
         "name": "Grubbin",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -969,6 +984,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-16",
         "name": "Zarude",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -1035,6 +1051,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-17",
         "name": "Calyrex",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -1103,6 +1120,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-18",
         "name": "Charizard V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -1176,6 +1194,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-19",
         "name": "Charizard VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -1249,6 +1268,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-20",
         "name": "Radiant Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -1320,6 +1340,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-21",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -1385,6 +1406,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-22",
         "name": "Simisear V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -1455,6 +1477,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-23",
         "name": "Simisear VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -1525,6 +1548,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-24",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -1584,6 +1608,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-25",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1651,6 +1676,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-26",
         "name": "Volcanion",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -1719,6 +1745,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-27",
         "name": "Salandit",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -1787,6 +1814,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-28",
         "name": "Salazzle",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -1854,6 +1882,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-29",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -1923,6 +1952,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-30",
         "name": "Galarian Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -1989,6 +2019,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-31",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -2059,6 +2090,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-32",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -2131,6 +2163,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-33",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -2201,6 +2234,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-34",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -2262,6 +2296,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-35",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -2327,6 +2362,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-36",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -2395,6 +2431,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-37",
         "name": "Kyogre V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -2468,6 +2505,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-38",
         "name": "Glaceon V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -2538,6 +2576,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-39",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -2598,6 +2637,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-40",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -2657,6 +2697,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-41",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -2728,6 +2769,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-42",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -2798,6 +2840,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-43",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 2",
             "Rapid Strike"
@@ -2866,6 +2909,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-44",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 2"
         ],
@@ -2929,6 +2973,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-45",
         "name": "Rotom V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -2996,6 +3041,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-46",
         "name": "Rotom VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -3063,6 +3109,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-47",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -3118,6 +3165,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-48",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3185,6 +3233,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-49",
         "name": "Helioptile",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -3254,6 +3303,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-50",
         "name": "Heliolisk",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3322,6 +3372,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-51",
         "name": "Radiant Charjabug",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -3392,6 +3443,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-52",
         "name": "Zeraora",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -3449,6 +3501,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-53",
         "name": "Zeraora V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -3520,6 +3573,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-54",
         "name": "Zeraora VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VMAX"
         ],
@@ -3591,6 +3645,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-55",
         "name": "Zeraora VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -3663,6 +3718,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-56",
         "name": "Pincurchin",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -3729,6 +3785,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-57",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -3795,6 +3852,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-58",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -3869,6 +3927,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-59",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -3942,6 +4001,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-60",
         "name": "Mew V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V",
@@ -4017,6 +4077,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-61",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -4089,6 +4150,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-62",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -4162,6 +4224,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-63",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4228,6 +4291,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-64",
         "name": "Tapu Lele",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -4296,6 +4360,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-65",
         "name": "Hatterene V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -4372,6 +4437,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-66",
         "name": "Hatterene VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VMAX"
         ],
@@ -4446,6 +4512,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-67",
         "name": "Enamorus",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -4513,6 +4580,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-68",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4584,6 +4652,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-69",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -4648,6 +4717,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-70",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -4708,6 +4778,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-71",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -4768,6 +4839,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-72",
         "name": "Pancham",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -4828,6 +4900,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-73",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -4897,6 +4970,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-74",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -4955,6 +5029,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-75",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -5015,6 +5090,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-76",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -5082,6 +5158,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-77",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -5141,6 +5218,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-78",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5210,6 +5288,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-79",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5281,6 +5360,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-80",
         "name": "Pangoro",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5350,6 +5430,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-81",
         "name": "Skrelp",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -5419,6 +5500,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-82",
         "name": "Dragalge",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5486,6 +5568,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-83",
         "name": "Hoopa",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -5542,6 +5625,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-84",
         "name": "Galarian Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -5607,6 +5691,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-85",
         "name": "Galarian Perrserker",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5682,6 +5767,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-86",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5756,6 +5842,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-87",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -5831,6 +5918,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-88",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -5910,6 +5998,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-89",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 2"
         ],
@@ -5987,6 +6076,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-90",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -6054,6 +6144,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-91",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -6119,6 +6210,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-92",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -6184,6 +6276,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-93",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -6257,6 +6350,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-94",
         "name": "Zacian",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -6330,6 +6424,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-95",
         "name": "Zacian V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -6406,6 +6501,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-96",
         "name": "Zacian VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -6485,6 +6581,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-97",
         "name": "Zamazenta",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -6556,6 +6653,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-98",
         "name": "Zamazenta V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -6630,6 +6728,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-99",
         "name": "Zamazenta VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -6704,6 +6803,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-100",
         "name": "Rayquaza V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V",
@@ -6768,6 +6868,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-101",
         "name": "Rayquaza VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -6830,6 +6931,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-102",
         "name": "Rayquaza VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -6892,6 +6994,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-103",
         "name": "Duraludon V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V",
@@ -6958,6 +7061,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-104",
         "name": "Duraludon VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -7021,6 +7125,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-105",
         "name": "Radiant Eternatus",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -7084,6 +7189,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-106",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -7152,6 +7258,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-107",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -7204,6 +7311,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-108",
         "name": "Eevee V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -7284,6 +7392,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-109",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -7342,6 +7451,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-110",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -7407,6 +7517,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-111",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -7474,6 +7585,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-112",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -7544,6 +7656,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-113",
         "name": "Regigigas V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -7615,6 +7728,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-114",
         "name": "Regigigas VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -7683,6 +7797,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-115",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -7755,6 +7870,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-116",
         "name": "Stoutland V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -7828,6 +7944,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-117",
         "name": "Yungoos",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -7887,6 +8004,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-118",
         "name": "Gumshoos",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -7955,6 +8073,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-119",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -8022,6 +8141,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-120",
         "name": "Greedent V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -8093,6 +8213,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-121",
         "name": "Wooloo",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -8152,6 +8273,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-122",
         "name": "Dubwool",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -8219,6 +8341,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-123",
         "name": "Bea",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -8254,6 +8377,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-124",
         "name": "Bede",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -8289,6 +8413,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-125",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8323,6 +8448,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-126",
         "name": "Digging Duo",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -8358,6 +8484,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-127",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8392,6 +8519,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-128",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8426,6 +8554,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-129",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8460,6 +8589,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-130",
         "name": "Friends in Hisui",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -8495,6 +8625,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-131",
         "name": "Friends in Sinnoh",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -8530,6 +8661,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-132",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8564,6 +8696,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-133",
         "name": "Hop",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -8599,6 +8732,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-134",
         "name": "Leon",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -8634,6 +8768,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-135",
         "name": "Lost Vacuum",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8669,6 +8804,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-136",
         "name": "Nessa",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -8704,6 +8840,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-137",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8738,6 +8875,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-138",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8772,6 +8910,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-139",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8806,6 +8945,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-140",
         "name": "Raihan",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -8841,6 +8981,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-141",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8875,6 +9016,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-142",
         "name": "Rescue Carrier",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8910,6 +9052,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-143",
         "name": "Sky Seal Stone",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -8947,6 +9090,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-144",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -8981,6 +9125,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-145",
         "name": "Trekking Shoes",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -9016,6 +9161,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-146",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Item"
         ],
@@ -9050,6 +9196,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-147",
         "name": "Elesa's Sparkle",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Fusion Strike",
             "Supporter"
@@ -9086,6 +9233,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-148",
         "name": "Friends in Hisui",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -9121,6 +9269,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-149",
         "name": "Friends in Sinnoh",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -9156,6 +9305,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-150",
         "name": "Professor's Research",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -9192,6 +9342,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-151",
         "name": "Volo",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -9227,6 +9378,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-152",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRZ",
         "set": {
             "id": "swsh12pt5",
             "name": "Crown Zenith",
@@ -9253,6 +9405,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-153",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRZ",
         "set": {
             "id": "swsh12pt5",
             "name": "Crown Zenith",
@@ -9279,6 +9432,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-154",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRZ",
         "set": {
             "id": "swsh12pt5",
             "name": "Crown Zenith",
@@ -9305,6 +9459,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-155",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRZ",
         "set": {
             "id": "swsh12pt5",
             "name": "Crown Zenith",
@@ -9331,6 +9486,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-156",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRZ",
         "set": {
             "id": "swsh12pt5",
             "name": "Crown Zenith",
@@ -9357,6 +9513,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-157",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRZ",
         "set": {
             "id": "swsh12pt5",
             "name": "Crown Zenith",
@@ -9383,6 +9540,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-158",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRZ",
         "set": {
             "id": "swsh12pt5",
             "name": "Crown Zenith",
@@ -9409,6 +9567,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-159",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRZ",
         "set": {
             "id": "swsh12pt5",
             "name": "Crown Zenith",
@@ -9435,6 +9594,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-160",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -9496,6 +9656,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG01",
         "name": "Hisuian Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -9562,6 +9723,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG02",
         "name": "Kricketune",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -9627,6 +9789,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG03",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -9696,6 +9859,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG04",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -9761,6 +9925,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG05",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -9819,6 +9984,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG06",
         "name": "Manaphy",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -9882,6 +10048,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG07",
         "name": "Keldeo",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -9948,6 +10115,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG08",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -10016,6 +10184,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG09",
         "name": "Toxtricity",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1",
             "Fusion Strike"
@@ -10083,6 +10252,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG10",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -10153,6 +10323,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG11",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -10226,6 +10397,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG12",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "Fusion Strike",
@@ -10293,6 +10465,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG13",
         "name": "Diancie",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -10356,6 +10529,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG14",
         "name": "Comfey",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -10420,6 +10594,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG15",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -10484,6 +10659,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG16",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -10550,6 +10726,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG17",
         "name": "Thievul",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -10616,6 +10793,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG18",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 2"
         ],
@@ -10688,6 +10866,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG19",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -10746,6 +10925,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG20",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -10806,6 +10986,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG21",
         "name": "Hisuian Goodra",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 2"
         ],
@@ -10866,6 +11047,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG22",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -10918,6 +11100,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG23",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -10982,6 +11165,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG24",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -11046,6 +11230,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG25",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Stage 1"
         ],
@@ -11112,6 +11297,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG26",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -11172,6 +11358,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG27",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -11237,6 +11424,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG28",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -11302,6 +11490,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG29",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -11369,6 +11558,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG30",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -11437,6 +11627,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG31",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -11506,6 +11697,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG32",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -11566,6 +11758,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG33",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -11635,6 +11828,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG34",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic"
         ],
@@ -11704,6 +11898,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG35",
         "name": "Leafeon VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -11772,6 +11967,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG36",
         "name": "Entei V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -11839,6 +12035,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG37",
         "name": "Simisear VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -11909,6 +12106,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG38",
         "name": "Suicune V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -11976,6 +12174,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG39",
         "name": "Lumineon V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -12044,6 +12243,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG40",
         "name": "Glaceon VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -12116,6 +12316,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG41",
         "name": "Raikou V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -12183,6 +12384,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG42",
         "name": "Zeraora VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VMAX"
         ],
@@ -12254,6 +12456,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG43",
         "name": "Zeraora VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -12326,6 +12529,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG44",
         "name": "Mewtwo VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -12402,6 +12606,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG45",
         "name": "Deoxys VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VMAX"
         ],
@@ -12476,6 +12681,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG46",
         "name": "Deoxys VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -12552,6 +12758,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG47",
         "name": "Hatterene VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VMAX"
         ],
@@ -12626,6 +12833,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG48",
         "name": "Zacian V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -12694,6 +12902,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG49",
         "name": "Drapion V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -12763,6 +12972,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG50",
         "name": "Darkrai VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -12830,6 +13040,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG51",
         "name": "Hisuian Samurott V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -12900,6 +13111,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG52",
         "name": "Hisuian Samurott VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -12967,6 +13179,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG53",
         "name": "Hoopa V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V",
@@ -13036,6 +13249,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG54",
         "name": "Zamazenta V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Basic",
             "V"
@@ -13110,6 +13324,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG55",
         "name": "Regigigas VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -13178,6 +13393,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG56",
         "name": "Hisuian Zoroark VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -13245,6 +13461,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG57",
         "name": "Adaman",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -13280,6 +13497,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG58",
         "name": "Cheren's Care",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -13315,6 +13533,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG59",
         "name": "Colress's Experiment",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -13350,6 +13569,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG60",
         "name": "Cynthia's Ambition",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -13385,6 +13605,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG61",
         "name": "Gardenia's Vigor",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -13420,6 +13641,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG62",
         "name": "Grant",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -13455,6 +13677,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG63",
         "name": "Irida",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -13490,6 +13713,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG64",
         "name": "Melony",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -13525,6 +13749,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG65",
         "name": "Raihan",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -13560,6 +13785,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG66",
         "name": "Roxanne",
         "supertype": "Trainer",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "Supporter"
         ],
@@ -13595,6 +13821,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG67",
         "name": "Origin Forme Palkia VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -13662,6 +13889,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG68",
         "name": "Origin Forme Dialga VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -13740,6 +13968,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG69",
         "name": "Giratina VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],
@@ -13805,6 +14034,7 @@ let swsh12pt5 = [
         "id": "swsh12pt5-GG70",
         "name": "Arceus VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "CRZ",
         "subtypes": [
             "VSTAR"
         ],

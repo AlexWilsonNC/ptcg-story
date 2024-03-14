@@ -3,6 +3,7 @@ let dc1 = [
         "id": "dc1-1",
         "name": "Team Magma's Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic"
         ],
@@ -63,6 +64,7 @@ let dc1 = [
         "id": "dc1-2",
         "name": "Team Magma's Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stage 1"
         ],
@@ -129,6 +131,7 @@ let dc1 = [
         "id": "dc1-3",
         "name": "Team Aqua's Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic"
         ],
@@ -188,6 +191,7 @@ let dc1 = [
         "id": "dc1-4",
         "name": "Team Aqua's Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stage 1"
         ],
@@ -260,6 +264,7 @@ let dc1 = [
         "id": "dc1-5",
         "name": "Team Aqua's Walrein",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stage 2"
         ],
@@ -329,6 +334,7 @@ let dc1 = [
         "id": "dc1-6",
         "name": "Team Aqua's Kyogre-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic",
             "EX"
@@ -398,6 +404,7 @@ let dc1 = [
         "id": "dc1-7",
         "name": "Team Aqua's Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic"
         ],
@@ -468,6 +475,7 @@ let dc1 = [
         "id": "dc1-8",
         "name": "Team Aqua's Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stage 1"
         ],
@@ -534,6 +542,7 @@ let dc1 = [
         "id": "dc1-9",
         "name": "Team Aqua's Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic"
         ],
@@ -600,6 +609,7 @@ let dc1 = [
         "id": "dc1-10",
         "name": "Team Magma's Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic"
         ],
@@ -660,6 +670,7 @@ let dc1 = [
         "id": "dc1-11",
         "name": "Team Magma's Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stage 1"
         ],
@@ -726,6 +737,7 @@ let dc1 = [
         "id": "dc1-12",
         "name": "Team Magma's Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic"
         ],
@@ -785,6 +797,7 @@ let dc1 = [
         "id": "dc1-13",
         "name": "Team Magma's Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stage 1"
         ],
@@ -857,6 +870,7 @@ let dc1 = [
         "id": "dc1-14",
         "name": "Team Magma's Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stage 2"
         ],
@@ -927,6 +941,7 @@ let dc1 = [
         "id": "dc1-15",
         "name": "Team Magma's Groudon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic",
             "EX"
@@ -996,6 +1011,7 @@ let dc1 = [
         "id": "dc1-16",
         "name": "Team Aqua's Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic"
         ],
@@ -1071,6 +1087,7 @@ let dc1 = [
         "id": "dc1-17",
         "name": "Team Magma's Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic"
         ],
@@ -1146,6 +1163,7 @@ let dc1 = [
         "id": "dc1-18",
         "name": "Team Aqua's Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1221,6 +1239,7 @@ let dc1 = [
         "id": "dc1-19",
         "name": "Team Magma's Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1296,6 +1315,7 @@ let dc1 = [
         "id": "dc1-20",
         "name": "Team Aqua's Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic"
         ],
@@ -1355,6 +1375,7 @@ let dc1 = [
         "id": "dc1-21",
         "name": "Team Aqua's Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1420,6 +1441,7 @@ let dc1 = [
         "id": "dc1-22",
         "name": "Team Magma's Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Basic"
         ],
@@ -1487,6 +1509,7 @@ let dc1 = [
         "id": "dc1-23",
         "name": "Aqua Diffuser",
         "supertype": "Trainer",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -1533,6 +1556,7 @@ let dc1 = [
         "id": "dc1-24",
         "name": "Magma Pointer",
         "supertype": "Trainer",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -1579,6 +1603,7 @@ let dc1 = [
         "id": "dc1-25",
         "name": "Team Aqua Admin",
         "supertype": "Trainer",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Supporter"
         ],
@@ -1613,6 +1638,7 @@ let dc1 = [
         "id": "dc1-26",
         "name": "Team Aqua Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Supporter"
         ],
@@ -1647,6 +1673,7 @@ let dc1 = [
         "id": "dc1-27",
         "name": "Team Aqua's Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Item"
         ],
@@ -1681,6 +1708,7 @@ let dc1 = [
         "id": "dc1-28",
         "name": "Team Aqua's Secret Base",
         "supertype": "Trainer",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stadium"
         ],
@@ -1715,6 +1743,7 @@ let dc1 = [
         "id": "dc1-29",
         "name": "Team Magma Admin",
         "supertype": "Trainer",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Supporter"
         ],
@@ -1749,6 +1778,7 @@ let dc1 = [
         "id": "dc1-30",
         "name": "Team Magma Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Supporter"
         ],
@@ -1783,6 +1813,7 @@ let dc1 = [
         "id": "dc1-31",
         "name": "Team Magma's Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Item"
         ],
@@ -1817,6 +1848,7 @@ let dc1 = [
         "id": "dc1-32",
         "name": "Team Magma's Secret Base",
         "supertype": "Trainer",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Stadium"
         ],
@@ -1851,6 +1883,7 @@ let dc1 = [
         "id": "dc1-33",
         "name": "Double Aqua Energy",
         "supertype": "Energy",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Special"
         ],
@@ -1886,6 +1919,7 @@ let dc1 = [
         "id": "dc1-34",
         "name": "Double Magma Energy",
         "supertype": "Energy",
+        "setAbbrev": "DCE",
         "subtypes": [
             "Special"
         ],

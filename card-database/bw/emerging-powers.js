@@ -3,6 +3,7 @@ let bw2 = [
         "id": "bw2-1",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -78,6 +79,7 @@ let bw2 = [
         "id": "bw2-2",
         "name": "Simisage",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -153,6 +155,7 @@ let bw2 = [
         "id": "bw2-3",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -221,6 +224,7 @@ let bw2 = [
         "id": "bw2-4",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -290,6 +294,7 @@ let bw2 = [
         "id": "bw2-5",
         "name": "Swadloon",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -361,6 +366,7 @@ let bw2 = [
         "id": "bw2-6",
         "name": "Swadloon",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -431,6 +437,7 @@ let bw2 = [
         "id": "bw2-7",
         "name": "Leavanny",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -498,6 +505,7 @@ let bw2 = [
         "id": "bw2-8",
         "name": "Leavanny",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -566,6 +574,7 @@ let bw2 = [
         "id": "bw2-9",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -631,6 +640,7 @@ let bw2 = [
         "id": "bw2-10",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -696,6 +706,7 @@ let bw2 = [
         "id": "bw2-11",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -767,6 +778,7 @@ let bw2 = [
         "id": "bw2-12",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -840,6 +852,7 @@ let bw2 = [
         "id": "bw2-13",
         "name": "Petilil",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -915,6 +928,7 @@ let bw2 = [
         "id": "bw2-14",
         "name": "Lilligant",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -989,6 +1003,7 @@ let bw2 = [
         "id": "bw2-15",
         "name": "Deerling",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1064,6 +1079,7 @@ let bw2 = [
         "id": "bw2-16",
         "name": "Sawsbuck",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1138,6 +1154,7 @@ let bw2 = [
         "id": "bw2-17",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1212,6 +1229,7 @@ let bw2 = [
         "id": "bw2-18",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1281,6 +1299,7 @@ let bw2 = [
         "id": "bw2-19",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1350,6 +1369,7 @@ let bw2 = [
         "id": "bw2-20",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1420,6 +1440,7 @@ let bw2 = [
         "id": "bw2-21",
         "name": "Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1490,6 +1511,7 @@ let bw2 = [
         "id": "bw2-22",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1559,6 +1581,7 @@ let bw2 = [
         "id": "bw2-23",
         "name": "Simipour",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1628,6 +1651,7 @@ let bw2 = [
         "id": "bw2-24",
         "name": "Basculin",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1695,6 +1719,7 @@ let bw2 = [
         "id": "bw2-25",
         "name": "Basculin",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1761,6 +1786,7 @@ let bw2 = [
         "id": "bw2-26",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1836,6 +1862,7 @@ let bw2 = [
         "id": "bw2-27",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1911,6 +1938,7 @@ let bw2 = [
         "id": "bw2-28",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -1980,6 +2008,7 @@ let bw2 = [
         "id": "bw2-29",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2040,6 +2069,7 @@ let bw2 = [
         "id": "bw2-30",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2111,6 +2141,7 @@ let bw2 = [
         "id": "bw2-31",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2179,6 +2210,7 @@ let bw2 = [
         "id": "bw2-32",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2244,6 +2276,7 @@ let bw2 = [
         "id": "bw2-33",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2303,6 +2336,7 @@ let bw2 = [
         "id": "bw2-34",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2369,6 +2403,7 @@ let bw2 = [
         "id": "bw2-35",
         "name": "Thundurus",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2436,6 +2471,7 @@ let bw2 = [
         "id": "bw2-36",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2496,6 +2532,7 @@ let bw2 = [
         "id": "bw2-37",
         "name": "Swoobat",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2569,6 +2606,7 @@ let bw2 = [
         "id": "bw2-38",
         "name": "Venipede",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2638,6 +2676,7 @@ let bw2 = [
         "id": "bw2-39",
         "name": "Whirlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2709,6 +2748,7 @@ let bw2 = [
         "id": "bw2-40",
         "name": "Scolipede",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -2778,6 +2818,7 @@ let bw2 = [
         "id": "bw2-41",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2851,6 +2892,7 @@ let bw2 = [
         "id": "bw2-42",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2924,6 +2966,7 @@ let bw2 = [
         "id": "bw2-43",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -2993,6 +3036,7 @@ let bw2 = [
         "id": "bw2-44",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -3053,6 +3097,7 @@ let bw2 = [
         "id": "bw2-45",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3123,6 +3168,7 @@ let bw2 = [
         "id": "bw2-46",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3194,6 +3240,7 @@ let bw2 = [
         "id": "bw2-47",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -3260,6 +3307,7 @@ let bw2 = [
         "id": "bw2-48",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -3328,6 +3376,7 @@ let bw2 = [
         "id": "bw2-49",
         "name": "Roggenrola",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -3398,6 +3447,7 @@ let bw2 = [
         "id": "bw2-50",
         "name": "Roggenrola",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -3467,6 +3517,7 @@ let bw2 = [
         "id": "bw2-51",
         "name": "Boldore",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3540,6 +3591,7 @@ let bw2 = [
         "id": "bw2-52",
         "name": "Boldore",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3612,6 +3664,7 @@ let bw2 = [
         "id": "bw2-53",
         "name": "Gigalith",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -3681,6 +3734,7 @@ let bw2 = [
         "id": "bw2-54",
         "name": "Drilbur",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -3755,6 +3809,7 @@ let bw2 = [
         "id": "bw2-55",
         "name": "Drilbur",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -3822,6 +3877,7 @@ let bw2 = [
         "id": "bw2-56",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3896,6 +3952,7 @@ let bw2 = [
         "id": "bw2-57",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3971,6 +4028,7 @@ let bw2 = [
         "id": "bw2-58",
         "name": "Throh",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4028,6 +4086,7 @@ let bw2 = [
         "id": "bw2-59",
         "name": "Sawk",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4085,6 +4144,7 @@ let bw2 = [
         "id": "bw2-60",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4145,6 +4205,7 @@ let bw2 = [
         "id": "bw2-61",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4216,6 +4277,7 @@ let bw2 = [
         "id": "bw2-62",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -4288,6 +4350,7 @@ let bw2 = [
         "id": "bw2-63",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4356,6 +4419,7 @@ let bw2 = [
         "id": "bw2-64",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4422,6 +4486,7 @@ let bw2 = [
         "id": "bw2-65",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4496,6 +4561,7 @@ let bw2 = [
         "id": "bw2-66",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4571,6 +4637,7 @@ let bw2 = [
         "id": "bw2-67",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4645,6 +4712,7 @@ let bw2 = [
         "id": "bw2-68",
         "name": "Vullaby",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4720,6 +4788,7 @@ let bw2 = [
         "id": "bw2-69",
         "name": "Mandibuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4793,6 +4862,7 @@ let bw2 = [
         "id": "bw2-70",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4859,6 +4929,7 @@ let bw2 = [
         "id": "bw2-71",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -4925,6 +4996,7 @@ let bw2 = [
         "id": "bw2-72",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4999,6 +5071,7 @@ let bw2 = [
         "id": "bw2-73",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5072,6 +5145,7 @@ let bw2 = [
         "id": "bw2-74",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5148,6 +5222,7 @@ let bw2 = [
         "id": "bw2-75",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5225,6 +5300,7 @@ let bw2 = [
         "id": "bw2-76",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -5299,6 +5375,7 @@ let bw2 = [
         "id": "bw2-77",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5373,6 +5450,7 @@ let bw2 = [
         "id": "bw2-78",
         "name": "Patrat",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5432,6 +5510,7 @@ let bw2 = [
         "id": "bw2-79",
         "name": "Watchog",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5499,6 +5578,7 @@ let bw2 = [
         "id": "bw2-80",
         "name": "Pidove",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5565,6 +5645,7 @@ let bw2 = [
         "id": "bw2-81",
         "name": "Tranquill",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5642,6 +5723,7 @@ let bw2 = [
         "id": "bw2-82",
         "name": "Unfezant",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 2"
         ],
@@ -5715,6 +5797,7 @@ let bw2 = [
         "id": "bw2-83",
         "name": "Audino",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5782,6 +5865,7 @@ let bw2 = [
         "id": "bw2-84",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5841,6 +5925,7 @@ let bw2 = [
         "id": "bw2-85",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5908,6 +5993,7 @@ let bw2 = [
         "id": "bw2-86",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -5983,6 +6069,7 @@ let bw2 = [
         "id": "bw2-87",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -6058,6 +6145,7 @@ let bw2 = [
         "id": "bw2-88",
         "name": "Braviary",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Stage 1"
         ],
@@ -6133,6 +6221,7 @@ let bw2 = [
         "id": "bw2-89",
         "name": "Tornadus",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -6206,6 +6295,7 @@ let bw2 = [
         "id": "bw2-90",
         "name": "Bianca",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Supporter"
         ],
@@ -6240,6 +6330,7 @@ let bw2 = [
         "id": "bw2-91",
         "name": "Cheren",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Supporter"
         ],
@@ -6274,6 +6365,7 @@ let bw2 = [
         "id": "bw2-92",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Item"
         ],
@@ -6308,6 +6400,7 @@ let bw2 = [
         "id": "bw2-93",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Item"
         ],
@@ -6342,6 +6435,7 @@ let bw2 = [
         "id": "bw2-94",
         "name": "Max Potion",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Item"
         ],
@@ -6376,6 +6470,7 @@ let bw2 = [
         "id": "bw2-95",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Item"
         ],
@@ -6410,6 +6505,7 @@ let bw2 = [
         "id": "bw2-96",
         "name": "Recycle",
         "supertype": "Trainer",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Item"
         ],
@@ -6444,6 +6540,7 @@ let bw2 = [
         "id": "bw2-97",
         "name": "Thundurus",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],
@@ -6511,6 +6608,7 @@ let bw2 = [
         "id": "bw2-98",
         "name": "Tornadus",
         "supertype": "Pokémon",
+        "setAbbrev": "EPO",
         "subtypes": [
             "Basic"
         ],

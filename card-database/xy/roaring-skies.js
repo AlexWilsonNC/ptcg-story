@@ -3,6 +3,7 @@ let xy6 = [
         "id": "xy6-1",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -71,6 +72,7 @@ let xy6 = [
         "id": "xy6-2",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -139,6 +141,7 @@ let xy6 = [
         "id": "xy6-3",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -209,6 +212,7 @@ let xy6 = [
         "id": "xy6-4",
         "name": "Silcoon",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -269,6 +273,7 @@ let xy6 = [
         "id": "xy6-5",
         "name": "Beautifly",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 2"
         ],
@@ -334,6 +339,7 @@ let xy6 = [
         "id": "xy6-6",
         "name": "Cascoon",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -404,6 +410,7 @@ let xy6 = [
         "id": "xy6-7",
         "name": "Dustox",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 2"
         ],
@@ -474,6 +481,7 @@ let xy6 = [
         "id": "xy6-8",
         "name": "Dustox",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 2"
         ],
@@ -546,6 +554,7 @@ let xy6 = [
         "id": "xy6-9",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -605,6 +614,7 @@ let xy6 = [
         "id": "xy6-10",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -672,6 +682,7 @@ let xy6 = [
         "id": "xy6-11",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -732,6 +743,7 @@ let xy6 = [
         "id": "xy6-12",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -802,6 +814,7 @@ let xy6 = [
         "id": "xy6-13",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -868,6 +881,7 @@ let xy6 = [
         "id": "xy6-14",
         "name": "Fletchinder",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -927,6 +941,7 @@ let xy6 = [
         "id": "xy6-15",
         "name": "Talonflame",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 2"
         ],
@@ -993,6 +1008,7 @@ let xy6 = [
         "id": "xy6-16",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -1067,6 +1083,7 @@ let xy6 = [
         "id": "xy6-17",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -1144,6 +1161,7 @@ let xy6 = [
         "id": "xy6-18",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -1209,6 +1227,7 @@ let xy6 = [
         "id": "xy6-19",
         "name": "Pelipper",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1285,6 +1304,7 @@ let xy6 = [
         "id": "xy6-20",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -1360,6 +1380,7 @@ let xy6 = [
         "id": "xy6-21",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -1435,6 +1456,7 @@ let xy6 = [
         "id": "xy6-22",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1509,6 +1531,7 @@ let xy6 = [
         "id": "xy6-23",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -1582,6 +1605,7 @@ let xy6 = [
         "id": "xy6-24",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -1647,6 +1671,7 @@ let xy6 = [
         "id": "xy6-25",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1720,6 +1745,7 @@ let xy6 = [
         "id": "xy6-26",
         "name": "Thundurus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -1797,6 +1823,7 @@ let xy6 = [
         "id": "xy6-27",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -1856,6 +1883,7 @@ let xy6 = [
         "id": "xy6-28",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -1920,6 +1948,7 @@ let xy6 = [
         "id": "xy6-29",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1987,6 +2016,7 @@ let xy6 = [
         "id": "xy6-30",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -2052,6 +2082,7 @@ let xy6 = [
         "id": "xy6-31",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2124,6 +2155,7 @@ let xy6 = [
         "id": "xy6-32",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2201,6 +2233,7 @@ let xy6 = [
         "id": "xy6-33",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -2267,6 +2300,7 @@ let xy6 = [
         "id": "xy6-34",
         "name": "Gallade-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -2341,6 +2375,7 @@ let xy6 = [
         "id": "xy6-35",
         "name": "M Gallade-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -2404,6 +2439,7 @@ let xy6 = [
         "id": "xy6-36",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -2463,6 +2499,7 @@ let xy6 = [
         "id": "xy6-37",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2530,6 +2567,7 @@ let xy6 = [
         "id": "xy6-38",
         "name": "Binacle",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -2600,6 +2638,7 @@ let xy6 = [
         "id": "xy6-39",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -2673,6 +2712,7 @@ let xy6 = [
         "id": "xy6-40",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -2743,6 +2783,7 @@ let xy6 = [
         "id": "xy6-41",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -2818,6 +2859,7 @@ let xy6 = [
         "id": "xy6-42",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -2890,6 +2932,7 @@ let xy6 = [
         "id": "xy6-43",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -2955,6 +2998,7 @@ let xy6 = [
         "id": "xy6-44",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3032,6 +3076,7 @@ let xy6 = [
         "id": "xy6-45",
         "name": "Togekiss",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3106,6 +3151,7 @@ let xy6 = [
         "id": "xy6-46",
         "name": "Togekiss",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3182,6 +3228,7 @@ let xy6 = [
         "id": "xy6-47",
         "name": "Carbink",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -3253,6 +3300,7 @@ let xy6 = [
         "id": "xy6-48",
         "name": "Klefki",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -3325,6 +3373,7 @@ let xy6 = [
         "id": "xy6-49",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -3394,6 +3443,7 @@ let xy6 = [
         "id": "xy6-50",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3465,6 +3515,7 @@ let xy6 = [
         "id": "xy6-51",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3531,6 +3582,7 @@ let xy6 = [
         "id": "xy6-52",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3605,6 +3657,7 @@ let xy6 = [
         "id": "xy6-53",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3672,6 +3725,7 @@ let xy6 = [
         "id": "xy6-54",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -3732,6 +3786,7 @@ let xy6 = [
         "id": "xy6-55",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -3801,6 +3856,7 @@ let xy6 = [
         "id": "xy6-56",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3870,6 +3926,7 @@ let xy6 = [
         "id": "xy6-57",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3950,6 +4007,7 @@ let xy6 = [
         "id": "xy6-58",
         "name": "Latios-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -4024,6 +4082,7 @@ let xy6 = [
         "id": "xy6-59",
         "name": "M Latios-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -4086,6 +4145,7 @@ let xy6 = [
         "id": "xy6-60",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -4161,6 +4221,7 @@ let xy6 = [
         "id": "xy6-61",
         "name": "M Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -4230,6 +4291,7 @@ let xy6 = [
         "id": "xy6-62",
         "name": "Hydreigon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -4298,6 +4360,7 @@ let xy6 = [
         "id": "xy6-63",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -4364,6 +4427,7 @@ let xy6 = [
         "id": "xy6-64",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -4432,6 +4496,7 @@ let xy6 = [
         "id": "xy6-65",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -4498,6 +4563,7 @@ let xy6 = [
         "id": "xy6-66",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4573,6 +4639,7 @@ let xy6 = [
         "id": "xy6-67",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -4643,6 +4710,7 @@ let xy6 = [
         "id": "xy6-68",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -4707,6 +4775,7 @@ let xy6 = [
         "id": "xy6-69",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -4779,6 +4848,7 @@ let xy6 = [
         "id": "xy6-70",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -4844,6 +4914,7 @@ let xy6 = [
         "id": "xy6-71",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4918,6 +4989,7 @@ let xy6 = [
         "id": "xy6-72",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4997,6 +5069,7 @@ let xy6 = [
         "id": "xy6-73",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -5062,6 +5135,7 @@ let xy6 = [
         "id": "xy6-74",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5137,6 +5211,7 @@ let xy6 = [
         "id": "xy6-75",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -5216,6 +5291,7 @@ let xy6 = [
         "id": "xy6-76",
         "name": "M Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -5289,6 +5365,7 @@ let xy6 = [
         "id": "xy6-77",
         "name": "Shaymin-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -5365,6 +5442,7 @@ let xy6 = [
         "id": "xy6-77a",
         "name": "Shaymin-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -5441,6 +5519,7 @@ let xy6 = [
         "id": "xy6-78",
         "name": "Pidove",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -5516,6 +5595,7 @@ let xy6 = [
         "id": "xy6-79",
         "name": "Tranquill",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5583,6 +5663,7 @@ let xy6 = [
         "id": "xy6-80",
         "name": "Unfezant",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 2"
         ],
@@ -5657,6 +5738,7 @@ let xy6 = [
         "id": "xy6-81",
         "name": "Unfezant",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stage 2"
         ],
@@ -5735,6 +5817,7 @@ let xy6 = [
         "id": "xy6-82",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic"
         ],
@@ -5800,6 +5883,7 @@ let xy6 = [
         "id": "xy6-83",
         "name": "Gallade Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5835,6 +5919,7 @@ let xy6 = [
         "id": "xy6-84",
         "name": "Healing Scarf",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5870,6 +5955,7 @@ let xy6 = [
         "id": "xy6-85",
         "name": "Latios Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5905,6 +5991,7 @@ let xy6 = [
         "id": "xy6-86",
         "name": "Mega Turbo",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Item"
         ],
@@ -5939,6 +6026,7 @@ let xy6 = [
         "id": "xy6-87",
         "name": "Rayquaza Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5974,6 +6062,7 @@ let xy6 = [
         "id": "xy6-88",
         "name": "Revive",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Item"
         ],
@@ -6008,6 +6097,7 @@ let xy6 = [
         "id": "xy6-89",
         "name": "Sky Field",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Stadium"
         ],
@@ -6043,6 +6133,7 @@ let xy6 = [
         "id": "xy6-90",
         "name": "Steven",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Supporter"
         ],
@@ -6077,6 +6168,7 @@ let xy6 = [
         "id": "xy6-91",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Item"
         ],
@@ -6111,6 +6203,7 @@ let xy6 = [
         "id": "xy6-92",
         "name": "Trainers' Mail",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Item"
         ],
@@ -6145,6 +6238,7 @@ let xy6 = [
         "id": "xy6-92a",
         "name": "Trainers' Mail",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Item"
         ],
@@ -6179,6 +6273,7 @@ let xy6 = [
         "id": "xy6-93",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Item"
         ],
@@ -6213,6 +6308,7 @@ let xy6 = [
         "id": "xy6-94",
         "name": "Wally",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Supporter"
         ],
@@ -6247,6 +6343,7 @@ let xy6 = [
         "id": "xy6-95",
         "name": "Wide Lens",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6282,6 +6379,7 @@ let xy6 = [
         "id": "xy6-96",
         "name": "Winona",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Supporter"
         ],
@@ -6316,6 +6414,7 @@ let xy6 = [
         "id": "xy6-97",
         "name": "Double Dragon Energy",
         "supertype": "Energy",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Special"
         ],
@@ -6350,6 +6449,7 @@ let xy6 = [
         "id": "xy6-98",
         "name": "Thundurus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -6427,6 +6527,7 @@ let xy6 = [
         "id": "xy6-99",
         "name": "Gallade-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -6501,6 +6602,7 @@ let xy6 = [
         "id": "xy6-100",
         "name": "M Gallade-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6564,6 +6666,7 @@ let xy6 = [
         "id": "xy6-101",
         "name": "Latios-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -6638,6 +6741,7 @@ let xy6 = [
         "id": "xy6-102",
         "name": "M Latios-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6700,6 +6804,7 @@ let xy6 = [
         "id": "xy6-103",
         "name": "Hydreigon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -6768,6 +6873,7 @@ let xy6 = [
         "id": "xy6-104",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -6847,6 +6953,7 @@ let xy6 = [
         "id": "xy6-105",
         "name": "M Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6920,6 +7027,7 @@ let xy6 = [
         "id": "xy6-106",
         "name": "Shaymin-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Basic",
             "EX"
@@ -6996,6 +7104,7 @@ let xy6 = [
         "id": "xy6-107",
         "name": "Wally",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Supporter"
         ],
@@ -7030,6 +7139,7 @@ let xy6 = [
         "id": "xy6-108",
         "name": "Winona",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Supporter"
         ],
@@ -7064,6 +7174,7 @@ let xy6 = [
         "id": "xy6-109",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Item"
         ],
@@ -7098,6 +7209,7 @@ let xy6 = [
         "id": "xy6-110",
         "name": "VS Seeker",
         "supertype": "Trainer",
+        "setAbbrev": "ROS",
         "subtypes": [
             "Item"
         ],

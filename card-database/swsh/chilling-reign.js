@@ -3,6 +3,7 @@ let swsh6 = [
         "id": "swsh6-1",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -108,6 +109,7 @@ let swsh6 = [
         "id": "swsh6-2",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -216,6 +218,7 @@ let swsh6 = [
         "id": "swsh6-3",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2",
             "Single Strike"
@@ -328,6 +331,7 @@ let swsh6 = [
         "id": "swsh6-4",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -442,6 +446,7 @@ let swsh6 = [
         "id": "swsh6-5",
         "name": "Ledian",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -555,6 +560,7 @@ let swsh6 = [
         "id": "swsh6-6",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -668,6 +674,7 @@ let swsh6 = [
         "id": "swsh6-7",
         "name": "Celebi V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -775,6 +782,7 @@ let swsh6 = [
         "id": "swsh6-8",
         "name": "Celebi VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX"
         ],
@@ -880,6 +888,7 @@ let swsh6 = [
         "id": "swsh6-9",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -988,6 +997,7 @@ let swsh6 = [
         "id": "swsh6-10",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -1102,6 +1112,7 @@ let swsh6 = [
         "id": "swsh6-11",
         "name": "Deerling",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -1216,6 +1227,7 @@ let swsh6 = [
         "id": "swsh6-12",
         "name": "Sawsbuck",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1329,6 +1341,7 @@ let swsh6 = [
         "id": "swsh6-13",
         "name": "Bounsweet",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -1434,6 +1447,7 @@ let swsh6 = [
         "id": "swsh6-14",
         "name": "Steenee",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1550,6 +1564,7 @@ let swsh6 = [
         "id": "swsh6-15",
         "name": "Tsareena",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2"
         ],
@@ -1665,6 +1680,7 @@ let swsh6 = [
         "id": "swsh6-16",
         "name": "Grookey",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -1771,6 +1787,7 @@ let swsh6 = [
         "id": "swsh6-17",
         "name": "Thwackey",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -1879,6 +1896,7 @@ let swsh6 = [
         "id": "swsh6-18",
         "name": "Rillaboom",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2",
             "Rapid Strike"
@@ -1996,6 +2014,7 @@ let swsh6 = [
         "id": "swsh6-19",
         "name": "Zarude",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -2109,6 +2128,7 @@ let swsh6 = [
         "id": "swsh6-20",
         "name": "Blaziken V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -2221,6 +2241,7 @@ let swsh6 = [
         "id": "swsh6-21",
         "name": "Blaziken VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -2330,6 +2351,7 @@ let swsh6 = [
         "id": "swsh6-22",
         "name": "Castform Sunny Form",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -2436,6 +2458,7 @@ let swsh6 = [
         "id": "swsh6-23",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -2542,6 +2565,7 @@ let swsh6 = [
         "id": "swsh6-24",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2657,6 +2681,7 @@ let swsh6 = [
         "id": "swsh6-25",
         "name": "Volcanion V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -2769,6 +2794,7 @@ let swsh6 = [
         "id": "swsh6-26",
         "name": "Scorbunny",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -2874,6 +2900,7 @@ let swsh6 = [
         "id": "swsh6-27",
         "name": "Raboot",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -2981,6 +3008,7 @@ let swsh6 = [
         "id": "swsh6-28",
         "name": "Cinderace",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2",
             "Single Strike"
@@ -3092,6 +3120,7 @@ let swsh6 = [
         "id": "swsh6-29",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -3203,6 +3232,7 @@ let swsh6 = [
         "id": "swsh6-30",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -3308,6 +3338,7 @@ let swsh6 = [
         "id": "swsh6-31",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -3420,6 +3451,7 @@ let swsh6 = [
         "id": "swsh6-32",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -3531,6 +3563,7 @@ let swsh6 = [
         "id": "swsh6-33",
         "name": "Castform Rainy Form",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -3636,6 +3669,7 @@ let swsh6 = [
         "id": "swsh6-34",
         "name": "Castform Snowy Form",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -3742,6 +3776,7 @@ let swsh6 = [
         "id": "swsh6-35",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -3848,6 +3883,7 @@ let swsh6 = [
         "id": "swsh6-36",
         "name": "Froslass",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3958,6 +3994,7 @@ let swsh6 = [
         "id": "swsh6-37",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -4063,6 +4100,7 @@ let swsh6 = [
         "id": "swsh6-38",
         "name": "Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -4183,6 +4221,7 @@ let swsh6 = [
         "id": "swsh6-39",
         "name": "Walrein",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2"
         ],
@@ -4300,6 +4339,7 @@ let swsh6 = [
         "id": "swsh6-40",
         "name": "Tapu Fini",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -4413,6 +4453,7 @@ let swsh6 = [
         "id": "swsh6-41",
         "name": "Sobble",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -4528,6 +4569,7 @@ let swsh6 = [
         "id": "swsh6-42",
         "name": "Drizzile",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -4635,6 +4677,7 @@ let swsh6 = [
         "id": "swsh6-43",
         "name": "Inteleon",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2",
             "Rapid Strike"
@@ -4746,6 +4789,7 @@ let swsh6 = [
         "id": "swsh6-44",
         "name": "Rapid Strike Urshifu",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -4860,6 +4904,7 @@ let swsh6 = [
         "id": "swsh6-45",
         "name": "Ice Rider Calyrex V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -4969,6 +5014,7 @@ let swsh6 = [
         "id": "swsh6-46",
         "name": "Ice Rider Calyrex VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX"
         ],
@@ -5078,6 +5124,7 @@ let swsh6 = [
         "id": "swsh6-47",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -5193,6 +5240,7 @@ let swsh6 = [
         "id": "swsh6-48",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -5300,6 +5348,7 @@ let swsh6 = [
         "id": "swsh6-49",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2"
         ],
@@ -5413,6 +5462,7 @@ let swsh6 = [
         "id": "swsh6-50",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -5518,6 +5568,7 @@ let swsh6 = [
         "id": "swsh6-51",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -5632,6 +5683,7 @@ let swsh6 = [
         "id": "swsh6-52",
         "name": "Thundurus",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -5744,6 +5796,7 @@ let swsh6 = [
         "id": "swsh6-53",
         "name": "Zeraora V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -5845,6 +5898,7 @@ let swsh6 = [
         "id": "swsh6-54",
         "name": "Galarian Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -5967,6 +6021,7 @@ let swsh6 = [
         "id": "swsh6-55",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -6077,6 +6132,7 @@ let swsh6 = [
         "id": "swsh6-56",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -6188,6 +6244,7 @@ let swsh6 = [
         "id": "swsh6-57",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2"
         ],
@@ -6305,6 +6362,7 @@ let swsh6 = [
         "id": "swsh6-58",
         "name": "Galarian Articuno V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -6418,6 +6476,7 @@ let swsh6 = [
         "id": "swsh6-59",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -6522,6 +6581,7 @@ let swsh6 = [
         "id": "swsh6-60",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -6628,6 +6688,7 @@ let swsh6 = [
         "id": "swsh6-61",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2"
         ],
@@ -6740,6 +6801,7 @@ let swsh6 = [
         "id": "swsh6-62",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -6851,6 +6913,7 @@ let swsh6 = [
         "id": "swsh6-63",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -6970,6 +7033,7 @@ let swsh6 = [
         "id": "swsh6-64",
         "name": "Cresselia",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -7087,6 +7151,7 @@ let swsh6 = [
         "id": "swsh6-65",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -7209,6 +7274,7 @@ let swsh6 = [
         "id": "swsh6-66",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -7334,6 +7400,7 @@ let swsh6 = [
         "id": "swsh6-67",
         "name": "Swirlix",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -7439,6 +7506,7 @@ let swsh6 = [
         "id": "swsh6-68",
         "name": "Slurpuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -7554,6 +7622,7 @@ let swsh6 = [
         "id": "swsh6-69",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -7665,6 +7734,7 @@ let swsh6 = [
         "id": "swsh6-70",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -7776,6 +7846,7 @@ let swsh6 = [
         "id": "swsh6-71",
         "name": "Hatenna",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -7886,6 +7957,7 @@ let swsh6 = [
         "id": "swsh6-72",
         "name": "Hattrem",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -7997,6 +8069,7 @@ let swsh6 = [
         "id": "swsh6-73",
         "name": "Hatterene",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2"
         ],
@@ -8113,6 +8186,7 @@ let swsh6 = [
         "id": "swsh6-74",
         "name": "Shadow Rider Calyrex V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -8228,6 +8302,7 @@ let swsh6 = [
         "id": "swsh6-75",
         "name": "Shadow Rider Calyrex VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX"
         ],
@@ -8341,6 +8416,7 @@ let swsh6 = [
         "id": "swsh6-76",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -8446,6 +8522,7 @@ let swsh6 = [
         "id": "swsh6-77",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -8550,6 +8627,7 @@ let swsh6 = [
         "id": "swsh6-78",
         "name": "Galarian Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -8655,6 +8733,7 @@ let swsh6 = [
         "id": "swsh6-79",
         "name": "Galarian Sirfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -8770,6 +8849,7 @@ let swsh6 = [
         "id": "swsh6-80",
         "name": "Galarian Zapdos V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -8877,6 +8957,7 @@ let swsh6 = [
         "id": "swsh6-81",
         "name": "Gallade",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2"
         ],
@@ -8990,6 +9071,7 @@ let swsh6 = [
         "id": "swsh6-82",
         "name": "Galarian Yamask",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -9096,6 +9178,7 @@ let swsh6 = [
         "id": "swsh6-83",
         "name": "Galarian Runerigus",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -9208,6 +9291,7 @@ let swsh6 = [
         "id": "swsh6-84",
         "name": "Crabrawler",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -9324,6 +9408,7 @@ let swsh6 = [
         "id": "swsh6-85",
         "name": "Crabominable",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -9443,6 +9528,7 @@ let swsh6 = [
         "id": "swsh6-86",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -9549,6 +9635,7 @@ let swsh6 = [
         "id": "swsh6-87",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -9654,6 +9741,7 @@ let swsh6 = [
         "id": "swsh6-88",
         "name": "Passimian",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -9763,6 +9851,7 @@ let swsh6 = [
         "id": "swsh6-89",
         "name": "Sandaconda V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -9870,6 +9959,7 @@ let swsh6 = [
         "id": "swsh6-90",
         "name": "Sandaconda VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX"
         ],
@@ -9980,6 +10070,7 @@ let swsh6 = [
         "id": "swsh6-91",
         "name": "Clobbopus",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -10086,6 +10177,7 @@ let swsh6 = [
         "id": "swsh6-92",
         "name": "Grapploct",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -10199,6 +10291,7 @@ let swsh6 = [
         "id": "swsh6-93",
         "name": "Kubfu",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -10314,6 +10407,7 @@ let swsh6 = [
         "id": "swsh6-94",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -10419,6 +10513,7 @@ let swsh6 = [
         "id": "swsh6-95",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -10532,6 +10627,7 @@ let swsh6 = [
         "id": "swsh6-96",
         "name": "Galarian Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -10643,6 +10739,7 @@ let swsh6 = [
         "id": "swsh6-97",
         "name": "Galarian Moltres V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -10750,6 +10847,7 @@ let swsh6 = [
         "id": "swsh6-98",
         "name": "Galarian Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -10863,6 +10961,7 @@ let swsh6 = [
         "id": "swsh6-99",
         "name": "Galarian Slowking V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -10973,6 +11072,7 @@ let swsh6 = [
         "id": "swsh6-100",
         "name": "Galarian Slowking VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -11074,6 +11174,7 @@ let swsh6 = [
         "id": "swsh6-101",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -11184,6 +11285,7 @@ let swsh6 = [
         "id": "swsh6-102",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -11289,6 +11391,7 @@ let swsh6 = [
         "id": "swsh6-103",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -11399,6 +11502,7 @@ let swsh6 = [
         "id": "swsh6-104",
         "name": "Liepard V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -11505,6 +11609,7 @@ let swsh6 = [
         "id": "swsh6-105",
         "name": "Venipede",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -11610,6 +11715,7 @@ let swsh6 = [
         "id": "swsh6-106",
         "name": "Whirlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -11728,6 +11834,7 @@ let swsh6 = [
         "id": "swsh6-107",
         "name": "Scolipede",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2"
         ],
@@ -11843,6 +11950,7 @@ let swsh6 = [
         "id": "swsh6-108",
         "name": "Single Strike Urshifu",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -11959,6 +12067,7 @@ let swsh6 = [
         "id": "swsh6-109",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -12082,6 +12191,7 @@ let swsh6 = [
         "id": "swsh6-110",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -12209,6 +12319,7 @@ let swsh6 = [
         "id": "swsh6-111",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2"
         ],
@@ -12334,6 +12445,7 @@ let swsh6 = [
         "id": "swsh6-112",
         "name": "Metagross V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -12450,6 +12562,7 @@ let swsh6 = [
         "id": "swsh6-113",
         "name": "Metagross VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -12566,6 +12679,7 @@ let swsh6 = [
         "id": "swsh6-114",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -12686,6 +12800,7 @@ let swsh6 = [
         "id": "swsh6-115",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -12800,6 +12915,7 @@ let swsh6 = [
         "id": "swsh6-116",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -12905,6 +13021,7 @@ let swsh6 = [
         "id": "swsh6-117",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -13012,6 +13129,7 @@ let swsh6 = [
         "id": "swsh6-118",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 2"
         ],
@@ -13124,6 +13242,7 @@ let swsh6 = [
         "id": "swsh6-119",
         "name": "Blissey V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -13231,6 +13350,7 @@ let swsh6 = [
         "id": "swsh6-120",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -13336,6 +13456,7 @@ let swsh6 = [
         "id": "swsh6-121",
         "name": "Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -13442,6 +13563,7 @@ let swsh6 = [
         "id": "swsh6-122",
         "name": "Kecleon",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -13554,6 +13676,7 @@ let swsh6 = [
         "id": "swsh6-123",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -13671,6 +13794,7 @@ let swsh6 = [
         "id": "swsh6-124",
         "name": "Tornadus V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -13788,6 +13912,7 @@ let swsh6 = [
         "id": "swsh6-125",
         "name": "Tornadus VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -13906,6 +14031,7 @@ let swsh6 = [
         "id": "swsh6-126",
         "name": "Furfrou",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -14018,6 +14144,7 @@ let swsh6 = [
         "id": "swsh6-127",
         "name": "Skwovet",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -14131,6 +14258,7 @@ let swsh6 = [
         "id": "swsh6-128",
         "name": "Greedent",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -14242,6 +14370,7 @@ let swsh6 = [
         "id": "swsh6-129",
         "name": "Agatha",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -14319,6 +14448,7 @@ let swsh6 = [
         "id": "swsh6-130",
         "name": "Avery",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -14396,6 +14526,7 @@ let swsh6 = [
         "id": "swsh6-131",
         "name": "Brawly",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Rapid Strike"
@@ -14474,6 +14605,7 @@ let swsh6 = [
         "id": "swsh6-132",
         "name": "Caitlin",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -14551,6 +14683,7 @@ let swsh6 = [
         "id": "swsh6-133",
         "name": "Crushing Gloves",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -14629,6 +14762,7 @@ let swsh6 = [
         "id": "swsh6-134",
         "name": "Doctor",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -14706,6 +14840,7 @@ let swsh6 = [
         "id": "swsh6-135",
         "name": "Dyna Tree Hill",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stadium"
         ],
@@ -14783,6 +14918,7 @@ let swsh6 = [
         "id": "swsh6-136",
         "name": "Echoing Horn",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Item",
             "Rapid Strike"
@@ -14861,6 +14997,7 @@ let swsh6 = [
         "id": "swsh6-137",
         "name": "Expedition Uniform",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Item"
         ],
@@ -14938,6 +15075,7 @@ let swsh6 = [
         "id": "swsh6-138",
         "name": "Fire-Resistant Gloves",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -15016,6 +15154,7 @@ let swsh6 = [
         "id": "swsh6-139",
         "name": "Flannery",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -15094,6 +15233,7 @@ let swsh6 = [
         "id": "swsh6-140",
         "name": "Fog Crystal",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Item"
         ],
@@ -15171,6 +15311,7 @@ let swsh6 = [
         "id": "swsh6-141",
         "name": "Galarian Chestplate",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -15249,6 +15390,7 @@ let swsh6 = [
         "id": "swsh6-142",
         "name": "Honey",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -15326,6 +15468,7 @@ let swsh6 = [
         "id": "swsh6-143",
         "name": "Justified Gloves",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -15404,6 +15547,7 @@ let swsh6 = [
         "id": "swsh6-144",
         "name": "Karen's Conviction",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -15482,6 +15626,7 @@ let swsh6 = [
         "id": "swsh6-145",
         "name": "Klara",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -15559,6 +15704,7 @@ let swsh6 = [
         "id": "swsh6-146",
         "name": "Melony",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -15636,6 +15782,7 @@ let swsh6 = [
         "id": "swsh6-147",
         "name": "Old Cemetery",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stadium"
         ],
@@ -15713,6 +15860,7 @@ let swsh6 = [
         "id": "swsh6-148",
         "name": "Path to the Peak",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stadium"
         ],
@@ -15790,6 +15938,7 @@ let swsh6 = [
         "id": "swsh6-149",
         "name": "Peonia",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -15867,6 +16016,7 @@ let swsh6 = [
         "id": "swsh6-150",
         "name": "Peony",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -15944,6 +16094,7 @@ let swsh6 = [
         "id": "swsh6-151",
         "name": "Rapid Strike Scroll of the Skies",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Pokémon Tool",
             "Rapid Strike"
@@ -16035,6 +16186,7 @@ let swsh6 = [
         "id": "swsh6-152",
         "name": "Rugged Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -16113,6 +16265,7 @@ let swsh6 = [
         "id": "swsh6-153",
         "name": "Siebold",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Rapid Strike"
@@ -16191,6 +16344,7 @@ let swsh6 = [
         "id": "swsh6-154",
         "name": "Single Strike Scroll of Piercing",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Pokémon Tool",
             "Single Strike"
@@ -16283,6 +16437,7 @@ let swsh6 = [
         "id": "swsh6-155",
         "name": "Weeding Gloves",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -16361,6 +16516,7 @@ let swsh6 = [
         "id": "swsh6-156",
         "name": "Welcoming Lantern",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Item",
             "Single Strike"
@@ -16439,6 +16595,7 @@ let swsh6 = [
         "id": "swsh6-157",
         "name": "Impact Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Special",
             "Single Strike"
@@ -16516,6 +16673,7 @@ let swsh6 = [
         "id": "swsh6-158",
         "name": "Lucky Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Special"
         ],
@@ -16592,6 +16750,7 @@ let swsh6 = [
         "id": "swsh6-159",
         "name": "Spiral Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Special",
             "Rapid Strike"
@@ -16669,6 +16828,7 @@ let swsh6 = [
         "id": "swsh6-160",
         "name": "Celebi V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -16776,6 +16936,7 @@ let swsh6 = [
         "id": "swsh6-161",
         "name": "Blaziken V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -16888,6 +17049,7 @@ let swsh6 = [
         "id": "swsh6-162",
         "name": "Volcanion V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -17000,6 +17162,7 @@ let swsh6 = [
         "id": "swsh6-163",
         "name": "Ice Rider Calyrex V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -17109,6 +17272,7 @@ let swsh6 = [
         "id": "swsh6-164",
         "name": "Ice Rider Calyrex V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -17218,6 +17382,7 @@ let swsh6 = [
         "id": "swsh6-165",
         "name": "Zeraora V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -17319,6 +17484,7 @@ let swsh6 = [
         "id": "swsh6-166",
         "name": "Zeraora V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -17420,6 +17586,7 @@ let swsh6 = [
         "id": "swsh6-167",
         "name": "Galarian Rapidash V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -17534,6 +17701,7 @@ let swsh6 = [
         "id": "swsh6-168",
         "name": "Galarian Rapidash V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -17648,6 +17816,7 @@ let swsh6 = [
         "id": "swsh6-169",
         "name": "Galarian Articuno V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -17761,6 +17930,7 @@ let swsh6 = [
         "id": "swsh6-170",
         "name": "Galarian Articuno V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -17874,6 +18044,7 @@ let swsh6 = [
         "id": "swsh6-171",
         "name": "Shadow Rider Calyrex V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -17989,6 +18160,7 @@ let swsh6 = [
         "id": "swsh6-172",
         "name": "Shadow Rider Calyrex V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -18104,6 +18276,7 @@ let swsh6 = [
         "id": "swsh6-173",
         "name": "Galarian Zapdos V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -18211,6 +18384,7 @@ let swsh6 = [
         "id": "swsh6-174",
         "name": "Galarian Zapdos V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -18318,6 +18492,7 @@ let swsh6 = [
         "id": "swsh6-175",
         "name": "Sandaconda V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -18425,6 +18600,7 @@ let swsh6 = [
         "id": "swsh6-176",
         "name": "Galarian Moltres V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -18532,6 +18708,7 @@ let swsh6 = [
         "id": "swsh6-177",
         "name": "Galarian Moltres V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -18639,6 +18816,7 @@ let swsh6 = [
         "id": "swsh6-178",
         "name": "Galarian Slowking V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -18749,6 +18927,7 @@ let swsh6 = [
         "id": "swsh6-179",
         "name": "Galarian Slowking V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -18859,6 +19038,7 @@ let swsh6 = [
         "id": "swsh6-180",
         "name": "Liepard V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -18965,6 +19145,7 @@ let swsh6 = [
         "id": "swsh6-181",
         "name": "Metagross V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -19081,6 +19262,7 @@ let swsh6 = [
         "id": "swsh6-182",
         "name": "Blissey V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -19188,6 +19370,7 @@ let swsh6 = [
         "id": "swsh6-183",
         "name": "Blissey V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V"
@@ -19295,6 +19478,7 @@ let swsh6 = [
         "id": "swsh6-184",
         "name": "Tornadus V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -19412,6 +19596,7 @@ let swsh6 = [
         "id": "swsh6-185",
         "name": "Tornadus V",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic",
             "V",
@@ -19529,6 +19714,7 @@ let swsh6 = [
         "id": "swsh6-186",
         "name": "Agatha",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -19599,6 +19785,7 @@ let swsh6 = [
         "id": "swsh6-187",
         "name": "Avery",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -19669,6 +19856,7 @@ let swsh6 = [
         "id": "swsh6-188",
         "name": "Brawly",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Rapid Strike"
@@ -19740,6 +19928,7 @@ let swsh6 = [
         "id": "swsh6-189",
         "name": "Caitlin",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -19810,6 +19999,7 @@ let swsh6 = [
         "id": "swsh6-190",
         "name": "Doctor",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -19880,6 +20070,7 @@ let swsh6 = [
         "id": "swsh6-191",
         "name": "Flannery",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -19951,6 +20142,7 @@ let swsh6 = [
         "id": "swsh6-192",
         "name": "Honey",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -20021,6 +20213,7 @@ let swsh6 = [
         "id": "swsh6-193",
         "name": "Karen's Conviction",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -20092,6 +20285,7 @@ let swsh6 = [
         "id": "swsh6-194",
         "name": "Klara",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -20162,6 +20356,7 @@ let swsh6 = [
         "id": "swsh6-195",
         "name": "Melony",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -20232,6 +20427,7 @@ let swsh6 = [
         "id": "swsh6-196",
         "name": "Peonia",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -20302,6 +20498,7 @@ let swsh6 = [
         "id": "swsh6-197",
         "name": "Peony",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -20372,6 +20569,7 @@ let swsh6 = [
         "id": "swsh6-198",
         "name": "Siebold",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Rapid Strike"
@@ -20443,6 +20641,7 @@ let swsh6 = [
         "id": "swsh6-199",
         "name": "Celebi VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX"
         ],
@@ -20548,6 +20747,7 @@ let swsh6 = [
         "id": "swsh6-200",
         "name": "Blaziken VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -20657,6 +20857,7 @@ let swsh6 = [
         "id": "swsh6-201",
         "name": "Blaziken VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -20766,6 +20967,7 @@ let swsh6 = [
         "id": "swsh6-202",
         "name": "Ice Rider Calyrex VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX"
         ],
@@ -20875,6 +21077,7 @@ let swsh6 = [
         "id": "swsh6-203",
         "name": "Ice Rider Calyrex VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX"
         ],
@@ -20984,6 +21187,7 @@ let swsh6 = [
         "id": "swsh6-204",
         "name": "Shadow Rider Calyrex VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX"
         ],
@@ -21097,6 +21301,7 @@ let swsh6 = [
         "id": "swsh6-205",
         "name": "Shadow Rider Calyrex VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX"
         ],
@@ -21210,6 +21415,7 @@ let swsh6 = [
         "id": "swsh6-206",
         "name": "Sandaconda VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX"
         ],
@@ -21320,6 +21526,7 @@ let swsh6 = [
         "id": "swsh6-207",
         "name": "Galarian Slowking VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -21421,6 +21628,7 @@ let swsh6 = [
         "id": "swsh6-208",
         "name": "Metagross VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -21537,6 +21745,7 @@ let swsh6 = [
         "id": "swsh6-209",
         "name": "Tornadus VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -21655,6 +21864,7 @@ let swsh6 = [
         "id": "swsh6-210",
         "name": "Agatha",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -21725,6 +21935,7 @@ let swsh6 = [
         "id": "swsh6-211",
         "name": "Avery",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -21795,6 +22006,7 @@ let swsh6 = [
         "id": "swsh6-212",
         "name": "Brawly",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Rapid Strike"
@@ -21866,6 +22078,7 @@ let swsh6 = [
         "id": "swsh6-213",
         "name": "Caitlin",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -21936,6 +22149,7 @@ let swsh6 = [
         "id": "swsh6-214",
         "name": "Doctor",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -22006,6 +22220,7 @@ let swsh6 = [
         "id": "swsh6-215",
         "name": "Flannery",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -22077,6 +22292,7 @@ let swsh6 = [
         "id": "swsh6-216",
         "name": "Karen's Conviction",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -22148,6 +22364,7 @@ let swsh6 = [
         "id": "swsh6-217",
         "name": "Klara",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -22218,6 +22435,7 @@ let swsh6 = [
         "id": "swsh6-218",
         "name": "Melony",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -22288,6 +22506,7 @@ let swsh6 = [
         "id": "swsh6-219",
         "name": "Peonia",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -22358,6 +22577,7 @@ let swsh6 = [
         "id": "swsh6-220",
         "name": "Peony",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter"
         ],
@@ -22428,6 +22648,7 @@ let swsh6 = [
         "id": "swsh6-221",
         "name": "Siebold",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Supporter",
             "Rapid Strike"
@@ -22499,6 +22720,7 @@ let swsh6 = [
         "id": "swsh6-222",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -22603,6 +22825,7 @@ let swsh6 = [
         "id": "swsh6-223",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Stage 1"
         ],
@@ -22715,6 +22938,7 @@ let swsh6 = [
         "id": "swsh6-224",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -22821,6 +23045,7 @@ let swsh6 = [
         "id": "swsh6-225",
         "name": "Echoing Horn",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Item",
             "Rapid Strike"
@@ -22892,6 +23117,7 @@ let swsh6 = [
         "id": "swsh6-226",
         "name": "Fan of Waves",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Item",
             "Rapid Strike"
@@ -22963,6 +23189,7 @@ let swsh6 = [
         "id": "swsh6-227",
         "name": "Fog Crystal",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Item"
         ],
@@ -23033,6 +23260,7 @@ let swsh6 = [
         "id": "swsh6-228",
         "name": "Rugged Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -23104,6 +23332,7 @@ let swsh6 = [
         "id": "swsh6-229",
         "name": "Urn of Vitality",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Item",
             "Single Strike"
@@ -23175,6 +23404,7 @@ let swsh6 = [
         "id": "swsh6-230",
         "name": "Welcoming Lantern",
         "supertype": "Trainer",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Item",
             "Single Strike"
@@ -23246,6 +23476,7 @@ let swsh6 = [
         "id": "swsh6-231",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -23310,6 +23541,7 @@ let swsh6 = [
         "id": "swsh6-232",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],
@@ -23374,6 +23606,7 @@ let swsh6 = [
         "id": "swsh6-233",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "CRE",
         "subtypes": [
             "Basic"
         ],

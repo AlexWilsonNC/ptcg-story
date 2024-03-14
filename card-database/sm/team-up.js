@@ -3,6 +3,7 @@ let sm9 = [
         "id": "sm9-1",
         "name": "Celebi & Venusaur-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -90,6 +91,7 @@ let sm9 = [
         "id": "sm9-2",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -158,6 +160,7 @@ let sm9 = [
         "id": "sm9-3",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -217,6 +220,7 @@ let sm9 = [
         "id": "sm9-4",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -285,6 +289,7 @@ let sm9 = [
         "id": "sm9-5",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -352,6 +357,7 @@ let sm9 = [
         "id": "sm9-6",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -421,6 +427,7 @@ let sm9 = [
         "id": "sm9-7",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -486,6 +493,7 @@ let sm9 = [
         "id": "sm9-8",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -545,6 +553,7 @@ let sm9 = [
         "id": "sm9-9",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -613,6 +622,7 @@ let sm9 = [
         "id": "sm9-10",
         "name": "Shaymin ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -673,6 +683,7 @@ let sm9 = [
         "id": "sm9-11",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -742,6 +753,7 @@ let sm9 = [
         "id": "sm9-12",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -801,6 +813,7 @@ let sm9 = [
         "id": "sm9-13",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -862,6 +875,7 @@ let sm9 = [
         "id": "sm9-14",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -927,6 +941,7 @@ let sm9 = [
         "id": "sm9-15",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -986,6 +1001,7 @@ let sm9 = [
         "id": "sm9-16",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1052,6 +1068,7 @@ let sm9 = [
         "id": "sm9-17",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1121,6 +1138,7 @@ let sm9 = [
         "id": "sm9-18",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1188,6 +1206,7 @@ let sm9 = [
         "id": "sm9-19",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1262,6 +1281,7 @@ let sm9 = [
         "id": "sm9-20",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1321,6 +1341,7 @@ let sm9 = [
         "id": "sm9-21",
         "name": "Torracat",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1392,6 +1413,7 @@ let sm9 = [
         "id": "sm9-22",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1459,6 +1481,7 @@ let sm9 = [
         "id": "sm9-23",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1528,6 +1551,7 @@ let sm9 = [
         "id": "sm9-24",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1600,6 +1624,7 @@ let sm9 = [
         "id": "sm9-25",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -1666,6 +1691,7 @@ let sm9 = [
         "id": "sm9-26",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1725,6 +1751,7 @@ let sm9 = [
         "id": "sm9-27",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1793,6 +1820,7 @@ let sm9 = [
         "id": "sm9-28",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1852,6 +1880,7 @@ let sm9 = [
         "id": "sm9-29",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -1911,6 +1940,7 @@ let sm9 = [
         "id": "sm9-30",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -1979,6 +2009,7 @@ let sm9 = [
         "id": "sm9-31",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2044,6 +2075,7 @@ let sm9 = [
         "id": "sm9-32",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2114,6 +2146,7 @@ let sm9 = [
         "id": "sm9-33",
         "name": "Pikachu & Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -2197,6 +2230,7 @@ let sm9 = [
         "id": "sm9-34",
         "name": "Alolan Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2263,6 +2297,7 @@ let sm9 = [
         "id": "sm9-35",
         "name": "Alolan Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2337,6 +2372,7 @@ let sm9 = [
         "id": "sm9-36",
         "name": "Alolan Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2413,6 +2449,7 @@ let sm9 = [
         "id": "sm9-37",
         "name": "Alolan Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -2487,6 +2524,7 @@ let sm9 = [
         "id": "sm9-38",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2552,6 +2590,7 @@ let sm9 = [
         "id": "sm9-39",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2623,6 +2662,7 @@ let sm9 = [
         "id": "sm9-40",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2685,6 +2725,7 @@ let sm9 = [
         "id": "sm9-41",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2750,6 +2791,7 @@ let sm9 = [
         "id": "sm9-42",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -2826,6 +2868,7 @@ let sm9 = [
         "id": "sm9-43",
         "name": "Ampharos-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -2911,6 +2954,7 @@ let sm9 = [
         "id": "sm9-44",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -2986,6 +3030,7 @@ let sm9 = [
         "id": "sm9-45",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3061,6 +3106,7 @@ let sm9 = [
         "id": "sm9-46",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -3129,6 +3175,7 @@ let sm9 = [
         "id": "sm9-47",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -3194,6 +3241,7 @@ let sm9 = [
         "id": "sm9-48",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3264,6 +3312,7 @@ let sm9 = [
         "id": "sm9-49",
         "name": "Helioptile",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -3340,6 +3389,7 @@ let sm9 = [
         "id": "sm9-50",
         "name": "Heliolisk",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3414,6 +3464,7 @@ let sm9 = [
         "id": "sm9-51",
         "name": "Tapu Koko ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -3489,6 +3540,7 @@ let sm9 = [
         "id": "sm9-52",
         "name": "Zeraora",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -3562,6 +3614,7 @@ let sm9 = [
         "id": "sm9-53",
         "name": "Gengar & Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -3639,6 +3692,7 @@ let sm9 = [
         "id": "sm9-54",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -3708,6 +3762,7 @@ let sm9 = [
         "id": "sm9-55",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3778,6 +3833,7 @@ let sm9 = [
         "id": "sm9-56",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -3844,6 +3900,7 @@ let sm9 = [
         "id": "sm9-57",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -3913,6 +3970,7 @@ let sm9 = [
         "id": "sm9-58",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -3984,6 +4042,7 @@ let sm9 = [
         "id": "sm9-59",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -4053,6 +4112,7 @@ let sm9 = [
         "id": "sm9-60",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4112,6 +4172,7 @@ let sm9 = [
         "id": "sm9-61",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4180,6 +4241,7 @@ let sm9 = [
         "id": "sm9-62",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4239,6 +4301,7 @@ let sm9 = [
         "id": "sm9-63",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4303,6 +4366,7 @@ let sm9 = [
         "id": "sm9-64",
         "name": "Alolan Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4374,6 +4438,7 @@ let sm9 = [
         "id": "sm9-65",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4430,6 +4495,7 @@ let sm9 = [
         "id": "sm9-66",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4494,6 +4560,7 @@ let sm9 = [
         "id": "sm9-67",
         "name": "Mr. Mime-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -4564,6 +4631,7 @@ let sm9 = [
         "id": "sm9-68",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4630,6 +4698,7 @@ let sm9 = [
         "id": "sm9-69",
         "name": "Cosmog",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4696,6 +4765,7 @@ let sm9 = [
         "id": "sm9-70",
         "name": "Cosmoem",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4757,6 +4827,7 @@ let sm9 = [
         "id": "sm9-71",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4826,6 +4897,7 @@ let sm9 = [
         "id": "sm9-72",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -4894,6 +4966,7 @@ let sm9 = [
         "id": "sm9-73",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -4961,6 +5034,7 @@ let sm9 = [
         "id": "sm9-74",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5028,6 +5102,7 @@ let sm9 = [
         "id": "sm9-75",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -5088,6 +5163,7 @@ let sm9 = [
         "id": "sm9-76",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -5153,6 +5229,7 @@ let sm9 = [
         "id": "sm9-77",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -5213,6 +5290,7 @@ let sm9 = [
         "id": "sm9-78",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -5279,6 +5357,7 @@ let sm9 = [
         "id": "sm9-79",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5339,6 +5418,7 @@ let sm9 = [
         "id": "sm9-80",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -5400,6 +5480,7 @@ let sm9 = [
         "id": "sm9-81",
         "name": "Pancham",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5460,6 +5541,7 @@ let sm9 = [
         "id": "sm9-82",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5538,6 +5620,7 @@ let sm9 = [
         "id": "sm9-83",
         "name": "Alolan Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5604,6 +5687,7 @@ let sm9 = [
         "id": "sm9-84",
         "name": "Alolan Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -5676,6 +5760,7 @@ let sm9 = [
         "id": "sm9-85",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -5753,6 +5838,7 @@ let sm9 = [
         "id": "sm9-86",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5827,6 +5913,7 @@ let sm9 = [
         "id": "sm9-87",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -5900,6 +5987,7 @@ let sm9 = [
         "id": "sm9-88",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -5971,6 +6059,7 @@ let sm9 = [
         "id": "sm9-89",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6030,6 +6119,7 @@ let sm9 = [
         "id": "sm9-90",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6095,6 +6185,7 @@ let sm9 = [
         "id": "sm9-91",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -6169,6 +6260,7 @@ let sm9 = [
         "id": "sm9-92",
         "name": "Vullaby",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6243,6 +6335,7 @@ let sm9 = [
         "id": "sm9-93",
         "name": "Mandibuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -6317,6 +6410,7 @@ let sm9 = [
         "id": "sm9-94",
         "name": "Pangoro",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -6394,6 +6488,7 @@ let sm9 = [
         "id": "sm9-95",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6465,6 +6560,7 @@ let sm9 = [
         "id": "sm9-96",
         "name": "Hoopa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -6552,6 +6648,7 @@ let sm9 = [
         "id": "sm9-97",
         "name": "Incineroar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -6638,6 +6735,7 @@ let sm9 = [
         "id": "sm9-98",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6712,6 +6810,7 @@ let sm9 = [
         "id": "sm9-99",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6782,6 +6881,7 @@ let sm9 = [
         "id": "sm9-100",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6855,6 +6955,7 @@ let sm9 = [
         "id": "sm9-101",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -6927,6 +7028,7 @@ let sm9 = [
         "id": "sm9-102",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -6992,6 +7094,7 @@ let sm9 = [
         "id": "sm9-103",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -7066,6 +7169,7 @@ let sm9 = [
         "id": "sm9-104",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7141,6 +7245,7 @@ let sm9 = [
         "id": "sm9-105",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -7215,6 +7320,7 @@ let sm9 = [
         "id": "sm9-106",
         "name": "Cobalion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -7297,6 +7403,7 @@ let sm9 = [
         "id": "sm9-107",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7362,6 +7469,7 @@ let sm9 = [
         "id": "sm9-108",
         "name": "Doublade",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -7429,6 +7537,7 @@ let sm9 = [
         "id": "sm9-109",
         "name": "Aegislash",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -7501,6 +7610,7 @@ let sm9 = [
         "id": "sm9-110",
         "name": "Klefki",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7571,6 +7681,7 @@ let sm9 = [
         "id": "sm9-111",
         "name": "Alolan Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -7637,6 +7748,7 @@ let sm9 = [
         "id": "sm9-112",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7697,6 +7809,7 @@ let sm9 = [
         "id": "sm9-113",
         "name": "Latias & Latios-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -7770,6 +7883,7 @@ let sm9 = [
         "id": "sm9-114",
         "name": "Alolan Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -7827,6 +7941,7 @@ let sm9 = [
         "id": "sm9-115",
         "name": "Alolan Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -7892,6 +8007,7 @@ let sm9 = [
         "id": "sm9-116",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -7951,6 +8067,7 @@ let sm9 = [
         "id": "sm9-117",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -8017,6 +8134,7 @@ let sm9 = [
         "id": "sm9-118",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -8078,6 +8196,7 @@ let sm9 = [
         "id": "sm9-119",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -8144,6 +8263,7 @@ let sm9 = [
         "id": "sm9-120",
         "name": "Eevee & Snorlax-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -8239,6 +8359,7 @@ let sm9 = [
         "id": "sm9-121",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -8314,6 +8435,7 @@ let sm9 = [
         "id": "sm9-122",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -8379,6 +8501,7 @@ let sm9 = [
         "id": "sm9-123",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -8453,6 +8576,7 @@ let sm9 = [
         "id": "sm9-124",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2"
         ],
@@ -8527,6 +8651,7 @@ let sm9 = [
         "id": "sm9-125",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -8596,6 +8721,7 @@ let sm9 = [
         "id": "sm9-126",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -8663,6 +8789,7 @@ let sm9 = [
         "id": "sm9-127",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -8737,6 +8864,7 @@ let sm9 = [
         "id": "sm9-128",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -8804,6 +8932,7 @@ let sm9 = [
         "id": "sm9-129",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -8861,6 +8990,7 @@ let sm9 = [
         "id": "sm9-130",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 1"
         ],
@@ -8935,6 +9065,7 @@ let sm9 = [
         "id": "sm9-131",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -9009,6 +9140,7 @@ let sm9 = [
         "id": "sm9-132",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -9075,6 +9207,7 @@ let sm9 = [
         "id": "sm9-133",
         "name": "Bill's Analysis",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9109,6 +9242,7 @@ let sm9 = [
         "id": "sm9-134",
         "name": "Black Market ◇",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stadium",
             "Prism Star"
@@ -9146,6 +9280,7 @@ let sm9 = [
         "id": "sm9-135",
         "name": "Brock's Grit",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9180,6 +9315,7 @@ let sm9 = [
         "id": "sm9-136",
         "name": "Buff Padding",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -9215,6 +9351,7 @@ let sm9 = [
         "id": "sm9-137",
         "name": "Dana",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9250,6 +9387,7 @@ let sm9 = [
         "id": "sm9-138",
         "name": "Dangerous Drill",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -9285,6 +9423,7 @@ let sm9 = [
         "id": "sm9-139",
         "name": "Electrocharger",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -9319,6 +9458,7 @@ let sm9 = [
         "id": "sm9-140",
         "name": "Erika's Hospitality",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9354,6 +9494,7 @@ let sm9 = [
         "id": "sm9-141",
         "name": "Evelyn",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9389,6 +9530,7 @@ let sm9 = [
         "id": "sm9-142",
         "name": "Fairy Charm UB",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -9424,6 +9566,7 @@ let sm9 = [
         "id": "sm9-143",
         "name": "Grass Memory",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -9459,6 +9602,7 @@ let sm9 = [
         "id": "sm9-144",
         "name": "Ingo & Emmet",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9493,6 +9637,7 @@ let sm9 = [
         "id": "sm9-145",
         "name": "Jasmine",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9527,6 +9672,7 @@ let sm9 = [
         "id": "sm9-146",
         "name": "Judge Whistle",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -9561,6 +9707,7 @@ let sm9 = [
         "id": "sm9-147",
         "name": "Lavender Town",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stadium"
         ],
@@ -9595,6 +9742,7 @@ let sm9 = [
         "id": "sm9-148",
         "name": "Metal Goggles",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -9630,6 +9778,7 @@ let sm9 = [
         "id": "sm9-149",
         "name": "Morgan",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9665,6 +9814,7 @@ let sm9 = [
         "id": "sm9-150",
         "name": "Nanu",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9699,6 +9849,7 @@ let sm9 = [
         "id": "sm9-151",
         "name": "Nita",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9734,6 +9885,7 @@ let sm9 = [
         "id": "sm9-152",
         "name": "Pokémon Communication",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -9768,6 +9920,7 @@ let sm9 = [
         "id": "sm9-152a",
         "name": "Pokémon Communication",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -9802,6 +9955,7 @@ let sm9 = [
         "id": "sm9-152b",
         "name": "Pokémon Communication",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -9836,6 +9990,7 @@ let sm9 = [
         "id": "sm9-153",
         "name": "Return Label",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -9870,6 +10025,7 @@ let sm9 = [
         "id": "sm9-154",
         "name": "Sabrina's Suggestion",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -9904,6 +10060,7 @@ let sm9 = [
         "id": "sm9-155",
         "name": "Unidentified Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -9940,6 +10097,7 @@ let sm9 = [
         "id": "sm9-156",
         "name": "Viridian Forest",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stadium"
         ],
@@ -9974,6 +10132,7 @@ let sm9 = [
         "id": "sm9-157",
         "name": "Water Memory",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10009,6 +10168,7 @@ let sm9 = [
         "id": "sm9-158",
         "name": "Wondrous Labyrinth ◇",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stadium",
             "Prism Star"
@@ -10046,6 +10206,7 @@ let sm9 = [
         "id": "sm9-159",
         "name": "Celebi & Venusaur-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -10133,6 +10294,7 @@ let sm9 = [
         "id": "sm9-160",
         "name": "Magikarp & Wailord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -10210,6 +10372,7 @@ let sm9 = [
         "id": "sm9-161",
         "name": "Magikarp & Wailord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -10287,6 +10450,7 @@ let sm9 = [
         "id": "sm9-162",
         "name": "Pikachu & Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -10370,6 +10534,7 @@ let sm9 = [
         "id": "sm9-163",
         "name": "Ampharos-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10455,6 +10620,7 @@ let sm9 = [
         "id": "sm9-164",
         "name": "Gengar & Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -10532,6 +10698,7 @@ let sm9 = [
         "id": "sm9-165",
         "name": "Gengar & Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -10609,6 +10776,7 @@ let sm9 = [
         "id": "sm9-166",
         "name": "Hoopa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -10696,6 +10864,7 @@ let sm9 = [
         "id": "sm9-167",
         "name": "Incineroar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10782,6 +10951,7 @@ let sm9 = [
         "id": "sm9-168",
         "name": "Cobalion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -10864,6 +11034,7 @@ let sm9 = [
         "id": "sm9-169",
         "name": "Latias & Latios-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -10937,6 +11108,7 @@ let sm9 = [
         "id": "sm9-170",
         "name": "Latias & Latios-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11010,6 +11182,7 @@ let sm9 = [
         "id": "sm9-171",
         "name": "Eevee & Snorlax-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11105,6 +11278,7 @@ let sm9 = [
         "id": "sm9-172",
         "name": "Brock's Grit",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -11139,6 +11313,7 @@ let sm9 = [
         "id": "sm9-173",
         "name": "Dana",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -11174,6 +11349,7 @@ let sm9 = [
         "id": "sm9-174",
         "name": "Erika's Hospitality",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -11209,6 +11385,7 @@ let sm9 = [
         "id": "sm9-175",
         "name": "Evelyn",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -11244,6 +11421,7 @@ let sm9 = [
         "id": "sm9-176",
         "name": "Ingo & Emmet",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -11278,6 +11456,7 @@ let sm9 = [
         "id": "sm9-177",
         "name": "Jasmine",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -11312,6 +11491,7 @@ let sm9 = [
         "id": "sm9-178",
         "name": "Morgan",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -11347,6 +11527,7 @@ let sm9 = [
         "id": "sm9-179",
         "name": "Nanu",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -11381,6 +11562,7 @@ let sm9 = [
         "id": "sm9-180",
         "name": "Nita",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -11416,6 +11598,7 @@ let sm9 = [
         "id": "sm9-181",
         "name": "Sabrina's Suggestion",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Supporter"
         ],
@@ -11450,6 +11633,7 @@ let sm9 = [
         "id": "sm9-182",
         "name": "Celebi & Venusaur-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11537,6 +11721,7 @@ let sm9 = [
         "id": "sm9-183",
         "name": "Magikarp & Wailord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11614,6 +11799,7 @@ let sm9 = [
         "id": "sm9-184",
         "name": "Pikachu & Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11697,6 +11883,7 @@ let sm9 = [
         "id": "sm9-185",
         "name": "Ampharos-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -11782,6 +11969,7 @@ let sm9 = [
         "id": "sm9-186",
         "name": "Gengar & Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -11859,6 +12047,7 @@ let sm9 = [
         "id": "sm9-187",
         "name": "Hoopa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -11946,6 +12135,7 @@ let sm9 = [
         "id": "sm9-188",
         "name": "Incineroar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -12032,6 +12222,7 @@ let sm9 = [
         "id": "sm9-189",
         "name": "Cobalion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "GX"
@@ -12114,6 +12305,7 @@ let sm9 = [
         "id": "sm9-190",
         "name": "Latias & Latios-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12187,6 +12379,7 @@ let sm9 = [
         "id": "sm9-191",
         "name": "Eevee & Snorlax-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12282,6 +12475,7 @@ let sm9 = [
         "id": "sm9-192",
         "name": "Dangerous Drill",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -12317,6 +12511,7 @@ let sm9 = [
         "id": "sm9-193",
         "name": "Electrocharger",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -12351,6 +12546,7 @@ let sm9 = [
         "id": "sm9-194",
         "name": "Judge Whistle",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -12385,6 +12581,7 @@ let sm9 = [
         "id": "sm9-195",
         "name": "Metal Goggles",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12420,6 +12617,7 @@ let sm9 = [
         "id": "sm9-196",
         "name": "Pokémon Communication",
         "supertype": "Trainer",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Item"
         ],
@@ -12453,6 +12651,7 @@ let sm9 = [
     {
         "id": "sm9-grass",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -12464,6 +12663,7 @@ let sm9 = [
     {
         "id": "sm9-fire",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -12475,6 +12675,7 @@ let sm9 = [
     {
         "id": "sm9-water",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -12486,6 +12687,7 @@ let sm9 = [
     {
         "id": "sm9-lightning",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -12497,6 +12699,7 @@ let sm9 = [
     {
         "id": "sm9-fighting",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -12508,6 +12711,7 @@ let sm9 = [
     {
         "id": "sm9-psychic",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -12519,6 +12723,7 @@ let sm9 = [
     {
         "id": "sm9-dark",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -12530,6 +12735,7 @@ let sm9 = [
     {
         "id": "sm9-metal",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],
@@ -12541,6 +12747,7 @@ let sm9 = [
     {
         "id": "sm9-fairy",
         "supertype": "Energy",
+        "setAbbrev": "TEU",
         "subtypes": [
             "Basic"
         ],

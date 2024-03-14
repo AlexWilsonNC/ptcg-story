@@ -3,6 +3,7 @@ let xy4 = [
         "id": "xy4-1",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -108,6 +109,7 @@ let xy4 = [
         "id": "xy4-2",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -221,6 +223,7 @@ let xy4 = [
         "id": "xy4-3",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -332,6 +335,7 @@ let xy4 = [
         "id": "xy4-4",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -447,6 +451,7 @@ let xy4 = [
         "id": "xy4-5",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -561,6 +566,7 @@ let xy4 = [
         "id": "xy4-6",
         "name": "Swadloon",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -677,6 +683,7 @@ let xy4 = [
         "id": "xy4-7",
         "name": "Leavanny",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -790,6 +797,7 @@ let xy4 = [
         "id": "xy4-8",
         "name": "Karrablast",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -904,6 +912,7 @@ let xy4 = [
         "id": "xy4-9",
         "name": "Fletchinder",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1026,6 +1035,7 @@ let xy4 = [
         "id": "xy4-10",
         "name": "Talonflame",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1145,6 +1155,7 @@ let xy4 = [
         "id": "xy4-11",
         "name": "Litleo",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -1260,6 +1271,7 @@ let xy4 = [
         "id": "xy4-12",
         "name": "Pyroar",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1373,6 +1385,7 @@ let xy4 = [
         "id": "xy4-13",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -1489,6 +1502,7 @@ let xy4 = [
         "id": "xy4-14",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1605,6 +1619,7 @@ let xy4 = [
         "id": "xy4-15",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -1709,6 +1724,7 @@ let xy4 = [
         "id": "xy4-16",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1827,6 +1843,7 @@ let xy4 = [
         "id": "xy4-17",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1945,6 +1962,7 @@ let xy4 = [
         "id": "xy4-18",
         "name": "Finneon",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -2049,6 +2067,7 @@ let xy4 = [
         "id": "xy4-19",
         "name": "Lumineon",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2161,6 +2180,7 @@ let xy4 = [
         "id": "xy4-20",
         "name": "Frillish",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -2266,6 +2286,7 @@ let xy4 = [
         "id": "xy4-21",
         "name": "Jellicent",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2381,6 +2402,7 @@ let xy4 = [
         "id": "xy4-22",
         "name": "Alomomola",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -2496,6 +2518,7 @@ let xy4 = [
         "id": "xy4-23",
         "name": "Manectric-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"
@@ -2612,6 +2635,7 @@ let xy4 = [
         "id": "xy4-24",
         "name": "M Manectric-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "MEGA",
             "EX"
@@ -2714,6 +2738,7 @@ let xy4 = [
         "id": "xy4-24a",
         "name": "M Manectric-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "MEGA",
             "EX"
@@ -2808,6 +2833,7 @@ let xy4 = [
         "id": "xy4-25",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -2925,6 +2951,7 @@ let xy4 = [
         "id": "xy4-26",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -3045,6 +3072,7 @@ let xy4 = [
         "id": "xy4-27",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3164,6 +3192,7 @@ let xy4 = [
         "id": "xy4-28",
         "name": "Helioptile",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -3275,6 +3304,7 @@ let xy4 = [
         "id": "xy4-29",
         "name": "Helioptile",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -3396,6 +3426,7 @@ let xy4 = [
         "id": "xy4-30",
         "name": "Heliolisk",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3514,6 +3545,7 @@ let xy4 = [
         "id": "xy4-31",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -3624,6 +3656,7 @@ let xy4 = [
         "id": "xy4-32",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3738,6 +3771,7 @@ let xy4 = [
         "id": "xy4-33",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -3849,6 +3883,7 @@ let xy4 = [
         "id": "xy4-34",
         "name": "Gengar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"
@@ -3967,6 +4002,7 @@ let xy4 = [
         "id": "xy4-35",
         "name": "M Gengar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "MEGA",
             "EX"
@@ -4074,6 +4110,7 @@ let xy4 = [
         "id": "xy4-36",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -4184,6 +4221,7 @@ let xy4 = [
         "id": "xy4-37",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -4300,6 +4338,7 @@ let xy4 = [
         "id": "xy4-38",
         "name": "Swalot",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4416,6 +4455,7 @@ let xy4 = [
         "id": "xy4-39",
         "name": "Munna",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -4531,6 +4571,7 @@ let xy4 = [
         "id": "xy4-40",
         "name": "Musharna",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4644,6 +4685,7 @@ let xy4 = [
         "id": "xy4-41",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -4754,6 +4796,7 @@ let xy4 = [
         "id": "xy4-42",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4877,6 +4920,7 @@ let xy4 = [
         "id": "xy4-43",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -4995,6 +5039,7 @@ let xy4 = [
         "id": "xy4-44",
         "name": "Pumpkaboo",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -5117,6 +5162,7 @@ let xy4 = [
         "id": "xy4-45",
         "name": "Gourgeist",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5236,6 +5282,7 @@ let xy4 = [
         "id": "xy4-46",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -5341,6 +5388,7 @@ let xy4 = [
         "id": "xy4-47",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5454,6 +5502,7 @@ let xy4 = [
         "id": "xy4-48",
         "name": "Roggenrola",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -5561,6 +5610,7 @@ let xy4 = [
         "id": "xy4-49",
         "name": "Boldore",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5679,6 +5729,7 @@ let xy4 = [
         "id": "xy4-50",
         "name": "Gigalith",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -5793,6 +5844,7 @@ let xy4 = [
         "id": "xy4-51",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -5914,6 +5966,7 @@ let xy4 = [
         "id": "xy4-52",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6033,6 +6086,7 @@ let xy4 = [
         "id": "xy4-53",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -6153,6 +6207,7 @@ let xy4 = [
         "id": "xy4-54",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6273,6 +6328,7 @@ let xy4 = [
         "id": "xy4-55",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -6378,6 +6434,7 @@ let xy4 = [
         "id": "xy4-56",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -6488,6 +6545,7 @@ let xy4 = [
         "id": "xy4-57",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6606,6 +6664,7 @@ let xy4 = [
         "id": "xy4-58",
         "name": "Malamar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"
@@ -6718,6 +6777,7 @@ let xy4 = [
         "id": "xy4-59",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -6837,6 +6897,7 @@ let xy4 = [
         "id": "xy4-60",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -6947,6 +7008,7 @@ let xy4 = [
         "id": "xy4-61",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7066,6 +7128,7 @@ let xy4 = [
         "id": "xy4-62",
         "name": "Dialga-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"
@@ -7184,6 +7247,7 @@ let xy4 = [
         "id": "xy4-63",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -7307,6 +7371,7 @@ let xy4 = [
         "id": "xy4-64",
         "name": "Escavalier",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7428,6 +7493,7 @@ let xy4 = [
         "id": "xy4-65",
         "name": "Aegislash-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"
@@ -7542,6 +7608,7 @@ let xy4 = [
         "id": "xy4-65a",
         "name": "Aegislash-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"
@@ -7648,6 +7715,7 @@ let xy4 = [
         "id": "xy4-66",
         "name": "Klefki",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -7765,6 +7833,7 @@ let xy4 = [
         "id": "xy4-67",
         "name": "Florges-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"
@@ -7879,6 +7948,7 @@ let xy4 = [
         "id": "xy4-68",
         "name": "Swirlix",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -7999,6 +8069,7 @@ let xy4 = [
         "id": "xy4-69",
         "name": "Slurpuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8116,6 +8187,7 @@ let xy4 = [
         "id": "xy4-70",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -8234,6 +8306,7 @@ let xy4 = [
         "id": "xy4-71",
         "name": "Diancie",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -8352,6 +8425,7 @@ let xy4 = [
         "id": "xy4-72",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -8457,6 +8531,7 @@ let xy4 = [
         "id": "xy4-73",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8564,6 +8639,7 @@ let xy4 = [
         "id": "xy4-74",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -8678,6 +8754,7 @@ let xy4 = [
         "id": "xy4-75",
         "name": "Goomy",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -8793,6 +8870,7 @@ let xy4 = [
         "id": "xy4-76",
         "name": "Sliggoo",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8911,6 +8989,7 @@ let xy4 = [
         "id": "xy4-77",
         "name": "Goodra",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -9025,6 +9104,7 @@ let xy4 = [
         "id": "xy4-78",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -9135,6 +9215,7 @@ let xy4 = [
         "id": "xy4-79",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9255,6 +9336,7 @@ let xy4 = [
         "id": "xy4-80",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -9372,6 +9454,7 @@ let xy4 = [
         "id": "xy4-81",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9490,6 +9573,7 @@ let xy4 = [
         "id": "xy4-82",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -9603,6 +9687,7 @@ let xy4 = [
         "id": "xy4-83",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -9707,6 +9792,7 @@ let xy4 = [
         "id": "xy4-84",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9825,6 +9911,7 @@ let xy4 = [
         "id": "xy4-85",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -9942,6 +10029,7 @@ let xy4 = [
         "id": "xy4-86",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -10060,6 +10148,7 @@ let xy4 = [
         "id": "xy4-87",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -10175,6 +10264,7 @@ let xy4 = [
         "id": "xy4-88",
         "name": "Diggersby",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10290,6 +10380,7 @@ let xy4 = [
         "id": "xy4-89",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -10410,6 +10501,7 @@ let xy4 = [
         "id": "xy4-90",
         "name": "Furfrou",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic"
         ],
@@ -10523,6 +10615,7 @@ let xy4 = [
         "id": "xy4-91",
         "name": "AZ",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Supporter"
         ],
@@ -10599,6 +10692,7 @@ let xy4 = [
         "id": "xy4-92",
         "name": "Battle Compressor Team Flare Gear",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Item"
         ],
@@ -10675,6 +10769,7 @@ let xy4 = [
         "id": "xy4-93",
         "name": "Dimension Valley",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stadium"
         ],
@@ -10751,6 +10846,7 @@ let xy4 = [
         "id": "xy4-94",
         "name": "Enhanced Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Item"
         ],
@@ -10827,6 +10923,7 @@ let xy4 = [
         "id": "xy4-95",
         "name": "Gengar Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10904,6 +11001,7 @@ let xy4 = [
         "id": "xy4-96",
         "name": "Hand Scope",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Item"
         ],
@@ -10980,6 +11078,7 @@ let xy4 = [
         "id": "xy4-97",
         "name": "Head Ringer Team Flare Hyper Gear",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Pokémon Tool F"
         ],
@@ -11051,6 +11150,7 @@ let xy4 = [
         "id": "xy4-98",
         "name": "Jamming Net Team Flare Hyper Gear",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Pokémon Tool F"
         ],
@@ -11122,6 +11222,7 @@ let xy4 = [
         "id": "xy4-99",
         "name": "Lysandre's Trump Card",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Supporter"
         ],
@@ -11201,6 +11302,7 @@ let xy4 = [
         "id": "xy4-100",
         "name": "Manectric Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11278,6 +11380,7 @@ let xy4 = [
         "id": "xy4-101",
         "name": "Professor Sycamore",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Supporter"
         ],
@@ -11354,6 +11457,7 @@ let xy4 = [
         "id": "xy4-102",
         "name": "Robo Substitute Team Flare Gear",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Item"
         ],
@@ -11431,6 +11535,7 @@ let xy4 = [
         "id": "xy4-103",
         "name": "Roller Skates",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Item"
         ],
@@ -11507,6 +11612,7 @@ let xy4 = [
         "id": "xy4-104",
         "name": "Shauna",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Supporter"
         ],
@@ -11583,6 +11689,7 @@ let xy4 = [
         "id": "xy4-105",
         "name": "Steel Shelter",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Stadium"
         ],
@@ -11659,6 +11766,7 @@ let xy4 = [
         "id": "xy4-106",
         "name": "Target Whistle Team Flare Gear",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Item"
         ],
@@ -11735,6 +11843,7 @@ let xy4 = [
         "id": "xy4-107",
         "name": "Tierno",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Supporter"
         ],
@@ -11811,6 +11920,7 @@ let xy4 = [
         "id": "xy4-108",
         "name": "Trick Coin",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11888,6 +11998,7 @@ let xy4 = [
         "id": "xy4-109",
         "name": "VS Seeker",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Item"
         ],
@@ -11964,6 +12075,7 @@ let xy4 = [
         "id": "xy4-110",
         "name": "Xerosic",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Supporter"
         ],
@@ -12040,6 +12152,7 @@ let xy4 = [
         "id": "xy4-111",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Special"
         ],
@@ -12115,6 +12228,7 @@ let xy4 = [
         "id": "xy4-112",
         "name": "Mystery Energy",
         "supertype": "Energy",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Special"
         ],
@@ -12192,6 +12306,7 @@ let xy4 = [
         "id": "xy4-113",
         "name": "Manectric-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"
@@ -12308,6 +12423,7 @@ let xy4 = [
         "id": "xy4-114",
         "name": "Gengar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"
@@ -12426,6 +12542,7 @@ let xy4 = [
         "id": "xy4-115",
         "name": "Malamar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"
@@ -12538,6 +12655,7 @@ let xy4 = [
         "id": "xy4-116",
         "name": "Florges-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"
@@ -12652,6 +12770,7 @@ let xy4 = [
         "id": "xy4-117",
         "name": "AZ",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Supporter"
         ],
@@ -12721,6 +12840,7 @@ let xy4 = [
         "id": "xy4-118",
         "name": "Lysandre's Trump Card",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Supporter"
         ],
@@ -12793,6 +12913,7 @@ let xy4 = [
         "id": "xy4-119",
         "name": "Xerosic",
         "supertype": "Trainer",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Supporter"
         ],
@@ -12862,6 +12983,7 @@ let xy4 = [
         "id": "xy4-120",
         "name": "M Manectric-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "MEGA",
             "EX"
@@ -12964,6 +13086,7 @@ let xy4 = [
         "id": "xy4-121",
         "name": "M Gengar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "MEGA",
             "EX"
@@ -13071,6 +13194,7 @@ let xy4 = [
         "id": "xy4-122",
         "name": "Dialga-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PHF",
         "subtypes": [
             "Basic",
             "EX"

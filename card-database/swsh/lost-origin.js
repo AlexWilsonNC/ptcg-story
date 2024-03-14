@@ -3,6 +3,7 @@ const swsh11 = [
         "id": "swsh11-1",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -108,6 +109,7 @@ const swsh11 = [
         "id": "swsh11-2",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -216,6 +218,7 @@ const swsh11 = [
         "id": "swsh11-3",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -331,6 +334,7 @@ const swsh11 = [
         "id": "swsh11-4",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -436,6 +440,7 @@ const swsh11 = [
         "id": "swsh11-5",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -547,6 +552,7 @@ const swsh11 = [
         "id": "swsh11-6",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -663,6 +669,7 @@ const swsh11 = [
         "id": "swsh11-7",
         "name": "Silcoon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -780,6 +787,7 @@ const swsh11 = [
         "id": "swsh11-8",
         "name": "Beautifly",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -890,6 +898,7 @@ const swsh11 = [
         "id": "swsh11-9",
         "name": "Cascoon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1007,6 +1016,7 @@ const swsh11 = [
         "id": "swsh11-10",
         "name": "Dustox",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1121,6 +1131,7 @@ const swsh11 = [
         "id": "swsh11-11",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -1225,6 +1236,7 @@ const swsh11 = [
         "id": "swsh11-12",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1331,6 +1343,7 @@ const swsh11 = [
         "id": "swsh11-13",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1443,6 +1456,7 @@ const swsh11 = [
         "id": "swsh11-14",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -1547,6 +1561,7 @@ const swsh11 = [
         "id": "swsh11-15",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1659,6 +1674,7 @@ const swsh11 = [
         "id": "swsh11-16",
         "name": "Phantump",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -1764,6 +1780,7 @@ const swsh11 = [
         "id": "swsh11-17",
         "name": "Trevenant",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1877,6 +1894,7 @@ const swsh11 = [
         "id": "swsh11-18",
         "name": "Blipbug",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -1982,6 +2000,7 @@ const swsh11 = [
         "id": "swsh11-19",
         "name": "Dottler",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2089,6 +2108,7 @@ const swsh11 = [
         "id": "swsh11-20",
         "name": "Orbeetle",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2199,6 +2219,7 @@ const swsh11 = [
         "id": "swsh11-21",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -2315,6 +2336,7 @@ const swsh11 = [
         "id": "swsh11-22",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2430,6 +2452,7 @@ const swsh11 = [
         "id": "swsh11-23",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -2545,6 +2568,7 @@ const swsh11 = [
         "id": "swsh11-24",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -2649,6 +2673,7 @@ const swsh11 = [
         "id": "swsh11-25",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2754,6 +2779,7 @@ const swsh11 = [
         "id": "swsh11-26",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2865,6 +2891,7 @@ const swsh11 = [
         "id": "swsh11-27",
         "name": "Delphox V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -2974,6 +3001,7 @@ const swsh11 = [
         "id": "swsh11-28",
         "name": "Litleo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -3079,6 +3107,7 @@ const swsh11 = [
         "id": "swsh11-29",
         "name": "Pyroar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3191,6 +3220,7 @@ const swsh11 = [
         "id": "swsh11-30",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -3295,6 +3325,7 @@ const swsh11 = [
         "id": "swsh11-31",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3414,6 +3445,7 @@ const swsh11 = [
         "id": "swsh11-32",
         "name": "Politoed",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -3529,6 +3561,7 @@ const swsh11 = [
         "id": "swsh11-33",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -3643,6 +3676,7 @@ const swsh11 = [
         "id": "swsh11-34",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3756,6 +3790,7 @@ const swsh11 = [
         "id": "swsh11-35",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -3860,6 +3895,7 @@ const swsh11 = [
         "id": "swsh11-36",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3974,6 +4010,7 @@ const swsh11 = [
         "id": "swsh11-37",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4084,6 +4121,7 @@ const swsh11 = [
         "id": "swsh11-38",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -4195,6 +4233,7 @@ const swsh11 = [
         "id": "swsh11-39",
         "name": "Shellos",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -4311,6 +4350,7 @@ const swsh11 = [
         "id": "swsh11-40",
         "name": "Finneon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -4422,6 +4462,7 @@ const swsh11 = [
         "id": "swsh11-41",
         "name": "Lumineon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4535,6 +4576,7 @@ const swsh11 = [
         "id": "swsh11-42",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -4652,6 +4694,7 @@ const swsh11 = [
         "id": "swsh11-43",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4769,6 +4812,7 @@ const swsh11 = [
         "id": "swsh11-44",
         "name": "Hisuian Basculin",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -4868,6 +4912,7 @@ const swsh11 = [
         "id": "swsh11-45",
         "name": "Hisuian Basculegion",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4977,6 +5022,7 @@ const swsh11 = [
         "id": "swsh11-46",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -5087,6 +5133,7 @@ const swsh11 = [
         "id": "swsh11-47",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5207,6 +5254,7 @@ const swsh11 = [
         "id": "swsh11-48",
         "name": "Kyurem V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -5317,6 +5365,7 @@ const swsh11 = [
         "id": "swsh11-49",
         "name": "Kyurem VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VMAX"
         ],
@@ -5425,6 +5474,7 @@ const swsh11 = [
         "id": "swsh11-50",
         "name": "Cramorant",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -5535,6 +5585,7 @@ const swsh11 = [
         "id": "swsh11-51",
         "name": "Glastrier",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -5649,6 +5700,7 @@ const swsh11 = [
         "id": "swsh11-52",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -5762,6 +5814,7 @@ const swsh11 = [
         "id": "swsh11-53",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5875,6 +5928,7 @@ const swsh11 = [
         "id": "swsh11-54",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -5989,6 +6043,7 @@ const swsh11 = [
         "id": "swsh11-55",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6103,6 +6158,7 @@ const swsh11 = [
         "id": "swsh11-56",
         "name": "Magnezone V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -6213,6 +6269,7 @@ const swsh11 = [
         "id": "swsh11-57",
         "name": "Magnezone VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -6323,6 +6380,7 @@ const swsh11 = [
         "id": "swsh11-58",
         "name": "Rotom V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -6428,6 +6486,7 @@ const swsh11 = [
         "id": "swsh11-59",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -6541,6 +6600,7 @@ const swsh11 = [
         "id": "swsh11-60",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6654,6 +6714,7 @@ const swsh11 = [
         "id": "swsh11-61",
         "name": "Eelektross",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -6768,6 +6829,7 @@ const swsh11 = [
         "id": "swsh11-62",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -6882,6 +6944,7 @@ const swsh11 = [
         "id": "swsh11-63",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6994,6 +7057,7 @@ const swsh11 = [
         "id": "swsh11-64",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -7100,6 +7164,7 @@ const swsh11 = [
         "id": "swsh11-65",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7211,6 +7276,7 @@ const swsh11 = [
         "id": "swsh11-66",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -7327,6 +7393,7 @@ const swsh11 = [
         "id": "swsh11-67",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -7446,6 +7513,7 @@ const swsh11 = [
         "id": "swsh11-68",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -7565,6 +7633,7 @@ const swsh11 = [
         "id": "swsh11-69",
         "name": "Radiant Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -7673,6 +7742,7 @@ const swsh11 = [
         "id": "swsh11-70",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -7789,6 +7859,7 @@ const swsh11 = [
         "id": "swsh11-71",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -7901,6 +7972,7 @@ const swsh11 = [
         "id": "swsh11-72",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -8012,6 +8084,7 @@ const swsh11 = [
         "id": "swsh11-73",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8128,6 +8201,7 @@ const swsh11 = [
         "id": "swsh11-74",
         "name": "Cresselia",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -8246,6 +8320,7 @@ const swsh11 = [
         "id": "swsh11-75",
         "name": "Hisuian Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -8363,6 +8438,7 @@ const swsh11 = [
         "id": "swsh11-76",
         "name": "Hisuian Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8479,6 +8555,7 @@ const swsh11 = [
         "id": "swsh11-77",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -8589,6 +8666,7 @@ const swsh11 = [
         "id": "swsh11-78",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8709,6 +8787,7 @@ const swsh11 = [
         "id": "swsh11-79",
         "name": "Comfey",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -8818,6 +8897,7 @@ const swsh11 = [
         "id": "swsh11-80",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -8935,6 +9015,7 @@ const swsh11 = [
         "id": "swsh11-81",
         "name": "Spectrier",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -9053,6 +9134,7 @@ const swsh11 = [
         "id": "swsh11-82",
         "name": "Enamorus V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -9160,6 +9242,7 @@ const swsh11 = [
         "id": "swsh11-83",
         "name": "Hisuian Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -9263,6 +9346,7 @@ const swsh11 = [
         "id": "swsh11-84",
         "name": "Hisuian Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9375,6 +9459,7 @@ const swsh11 = [
         "id": "swsh11-85",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -9489,6 +9574,7 @@ const swsh11 = [
         "id": "swsh11-86",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -9594,6 +9680,7 @@ const swsh11 = [
         "id": "swsh11-87",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9710,6 +9797,7 @@ const swsh11 = [
         "id": "swsh11-88",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -9821,6 +9909,7 @@ const swsh11 = [
         "id": "swsh11-89",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -9929,6 +10018,7 @@ const swsh11 = [
         "id": "swsh11-90",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -10048,6 +10138,7 @@ const swsh11 = [
         "id": "swsh11-91",
         "name": "Rhyperior",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -10165,6 +10256,7 @@ const swsh11 = [
         "id": "swsh11-92",
         "name": "Aerodactyl V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -10274,6 +10366,7 @@ const swsh11 = [
         "id": "swsh11-93",
         "name": "Aerodactyl VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -10383,6 +10476,7 @@ const swsh11 = [
         "id": "swsh11-94",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -10495,6 +10589,7 @@ const swsh11 = [
         "id": "swsh11-95",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -10599,6 +10694,7 @@ const swsh11 = [
         "id": "swsh11-96",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -10703,6 +10799,7 @@ const swsh11 = [
         "id": "swsh11-97",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -10810,6 +10907,7 @@ const swsh11 = [
         "id": "swsh11-98",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -10926,6 +11024,7 @@ const swsh11 = [
         "id": "swsh11-99",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -11030,6 +11129,7 @@ const swsh11 = [
         "id": "swsh11-100",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -11132,6 +11232,7 @@ const swsh11 = [
         "id": "swsh11-101",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -11244,6 +11345,7 @@ const swsh11 = [
         "id": "swsh11-102",
         "name": "Gastrodon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -11359,6 +11461,7 @@ const swsh11 = [
         "id": "swsh11-103",
         "name": "Mienfoo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -11473,6 +11576,7 @@ const swsh11 = [
         "id": "swsh11-104",
         "name": "Mienshao",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -11585,6 +11689,7 @@ const swsh11 = [
         "id": "swsh11-105",
         "name": "Landorus",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -11697,6 +11802,7 @@ const swsh11 = [
         "id": "swsh11-106",
         "name": "Binacle",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -11812,6 +11918,7 @@ const swsh11 = [
         "id": "swsh11-107",
         "name": "Barbaracle",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -11925,6 +12032,7 @@ const swsh11 = [
         "id": "swsh11-108",
         "name": "Carbink",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -12037,6 +12145,7 @@ const swsh11 = [
         "id": "swsh11-109",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -12152,6 +12261,7 @@ const swsh11 = [
         "id": "swsh11-110",
         "name": "Falinks",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -12264,6 +12374,7 @@ const swsh11 = [
         "id": "swsh11-111",
         "name": "Stonjourner",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -12380,6 +12491,7 @@ const swsh11 = [
         "id": "swsh11-112",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -12484,6 +12596,7 @@ const swsh11 = [
         "id": "swsh11-113",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -12597,6 +12710,7 @@ const swsh11 = [
         "id": "swsh11-114",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -12717,6 +12831,7 @@ const swsh11 = [
         "id": "swsh11-115",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -12836,6 +12951,7 @@ const swsh11 = [
         "id": "swsh11-116",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -12939,6 +13055,7 @@ const swsh11 = [
         "id": "swsh11-117",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -13049,6 +13166,7 @@ const swsh11 = [
         "id": "swsh11-118",
         "name": "Drapion V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -13157,6 +13275,7 @@ const swsh11 = [
         "id": "swsh11-119",
         "name": "Drapion VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -13265,6 +13384,7 @@ const swsh11 = [
         "id": "swsh11-120",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -13379,6 +13499,7 @@ const swsh11 = [
         "id": "swsh11-121",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -13493,6 +13614,7 @@ const swsh11 = [
         "id": "swsh11-122",
         "name": "Hoopa",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -13605,6 +13727,7 @@ const swsh11 = [
         "id": "swsh11-123",
         "name": "Radiant Hisuian Sneasler",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -13712,6 +13835,7 @@ const swsh11 = [
         "id": "swsh11-124",
         "name": "Radiant Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -13830,6 +13954,7 @@ const swsh11 = [
         "id": "swsh11-125",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -13941,6 +14066,7 @@ const swsh11 = [
         "id": "swsh11-126",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -14063,6 +14189,7 @@ const swsh11 = [
         "id": "swsh11-127",
         "name": "Galarian Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -14182,6 +14309,7 @@ const swsh11 = [
         "id": "swsh11-128",
         "name": "Magearna",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -14300,6 +14428,7 @@ const swsh11 = [
         "id": "swsh11-129",
         "name": "Galarian Perrserker V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -14414,6 +14543,7 @@ const swsh11 = [
         "id": "swsh11-130",
         "name": "Giratina V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -14517,6 +14647,7 @@ const swsh11 = [
         "id": "swsh11-131",
         "name": "Giratina VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -14621,6 +14752,7 @@ const swsh11 = [
         "id": "swsh11-132",
         "name": "Goomy",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -14730,6 +14862,7 @@ const swsh11 = [
         "id": "swsh11-133",
         "name": "Hisuian Sliggoo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -14839,6 +14972,7 @@ const swsh11 = [
         "id": "swsh11-134",
         "name": "Hisuian Goodra",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -14946,6 +15080,7 @@ const swsh11 = [
         "id": "swsh11-135",
         "name": "Hisuian Goodra V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -15051,6 +15186,7 @@ const swsh11 = [
         "id": "swsh11-136",
         "name": "Hisuian Goodra VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -15153,6 +15289,7 @@ const swsh11 = [
         "id": "swsh11-137",
         "name": "Pidgeot V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -15265,6 +15402,7 @@ const swsh11 = [
         "id": "swsh11-138",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -15373,6 +15511,7 @@ const swsh11 = [
         "id": "swsh11-139",
         "name": "Lickilicky",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -15491,6 +15630,7 @@ const swsh11 = [
         "id": "swsh11-140",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -15604,6 +15744,7 @@ const swsh11 = [
         "id": "swsh11-141",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -15709,6 +15850,7 @@ const swsh11 = [
         "id": "swsh11-142",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -15824,6 +15966,7 @@ const swsh11 = [
         "id": "swsh11-143",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -15937,6 +16080,7 @@ const swsh11 = [
         "id": "swsh11-144",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -16050,6 +16194,7 @@ const swsh11 = [
         "id": "swsh11-145",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -16162,6 +16307,7 @@ const swsh11 = [
         "id": "swsh11-146",
         "name": "Hisuian Zoroark V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -16269,6 +16415,7 @@ const swsh11 = [
         "id": "swsh11-147",
         "name": "Hisuian Zoroark VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -16375,6 +16522,7 @@ const swsh11 = [
         "id": "swsh11-148",
         "name": "Bouffalant",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -16491,6 +16639,7 @@ const swsh11 = [
         "id": "swsh11-149",
         "name": "Komala",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -16601,6 +16750,7 @@ const swsh11 = [
         "id": "swsh11-150",
         "name": "Skwovet",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -16705,6 +16855,7 @@ const swsh11 = [
         "id": "swsh11-151",
         "name": "Greedent",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -16819,6 +16970,7 @@ const swsh11 = [
         "id": "swsh11-152",
         "name": "Arc Phone",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Item"
         ],
@@ -16896,6 +17048,7 @@ const swsh11 = [
         "id": "swsh11-153",
         "name": "Arezu",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -16973,6 +17126,7 @@ const swsh11 = [
         "id": "swsh11-154",
         "name": "Box of Disaster",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -17052,6 +17206,7 @@ const swsh11 = [
         "id": "swsh11-155",
         "name": "Colress's Experiment",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -17129,6 +17284,7 @@ const swsh11 = [
         "id": "swsh11-156",
         "name": "Damage Pump",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Item"
         ],
@@ -17206,6 +17362,7 @@ const swsh11 = [
         "id": "swsh11-157",
         "name": "Fantina",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -17283,6 +17440,7 @@ const swsh11 = [
         "id": "swsh11-158",
         "name": "Iscan",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -17360,6 +17518,7 @@ const swsh11 = [
         "id": "swsh11-159",
         "name": "Lady",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -17437,6 +17596,7 @@ const swsh11 = [
         "id": "swsh11-160",
         "name": "Lake Acuity",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stadium"
         ],
@@ -17513,6 +17673,7 @@ const swsh11 = [
         "id": "swsh11-161",
         "name": "Lost City",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stadium"
         ],
@@ -17589,6 +17750,7 @@ const swsh11 = [
         "id": "swsh11-162",
         "name": "Lost Vacuum",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Item"
         ],
@@ -17666,6 +17828,7 @@ const swsh11 = [
         "id": "swsh11-163",
         "name": "Mirage Gate",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Item"
         ],
@@ -17743,6 +17906,7 @@ const swsh11 = [
         "id": "swsh11-164",
         "name": "Miss Fortune Sisters",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -17820,6 +17984,7 @@ const swsh11 = [
         "id": "swsh11-165",
         "name": "Panic Mask",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -17899,6 +18064,7 @@ const swsh11 = [
         "id": "swsh11-166",
         "name": "Riley",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -17976,6 +18142,7 @@ const swsh11 = [
         "id": "swsh11-167",
         "name": "Thorton",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -18053,6 +18220,7 @@ const swsh11 = [
         "id": "swsh11-168",
         "name": "Tool Box",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Item"
         ],
@@ -18130,6 +18298,7 @@ const swsh11 = [
         "id": "swsh11-169",
         "name": "Volo",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -18207,6 +18376,7 @@ const swsh11 = [
         "id": "swsh11-170",
         "name": "Windup Arm",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -18286,6 +18456,7 @@ const swsh11 = [
         "id": "swsh11-171",
         "name": "Gift Energy",
         "supertype": "Energy",
+        "setAbbrev": "LOR",
         "rules": [
             "As long as this card is attached to a Pokémon, it provides Colorless Energy. If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent's Pokémon, draw cards until you have 7 cards in your hand."
         ],
@@ -18358,6 +18529,7 @@ const swsh11 = [
         "id": "swsh11-172",
         "name": "Hisuian Electrode V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -18463,6 +18635,7 @@ const swsh11 = [
         "id": "swsh11-173",
         "name": "Delphox V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -18572,6 +18745,7 @@ const swsh11 = [
         "id": "swsh11-174",
         "name": "Kyurem V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -18682,6 +18856,7 @@ const swsh11 = [
         "id": "swsh11-175",
         "name": "Magnezone V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -18792,6 +18967,7 @@ const swsh11 = [
         "id": "swsh11-176",
         "name": "Rotom V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -18897,6 +19073,7 @@ const swsh11 = [
         "id": "swsh11-177",
         "name": "Rotom V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -19002,6 +19179,7 @@ const swsh11 = [
         "id": "swsh11-178",
         "name": "Enamorus V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -19109,6 +19287,7 @@ const swsh11 = [
         "id": "swsh11-179",
         "name": "Aerodactyl V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -19218,6 +19397,7 @@ const swsh11 = [
         "id": "swsh11-180",
         "name": "Aerodactyl V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -19327,6 +19507,7 @@ const swsh11 = [
         "id": "swsh11-181",
         "name": "Gallade V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -19437,6 +19618,7 @@ const swsh11 = [
         "id": "swsh11-182",
         "name": "Drapion V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -19545,6 +19727,7 @@ const swsh11 = [
         "id": "swsh11-183",
         "name": "Galarian Perrserker V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -19659,6 +19842,7 @@ const swsh11 = [
         "id": "swsh11-184",
         "name": "Galarian Perrserker V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -19773,6 +19957,7 @@ const swsh11 = [
         "id": "swsh11-185",
         "name": "Giratina V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -19876,6 +20061,7 @@ const swsh11 = [
         "id": "swsh11-186",
         "name": "Giratina V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -19979,6 +20165,7 @@ const swsh11 = [
         "id": "swsh11-187",
         "name": "Hisuian Goodra V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -20084,6 +20271,7 @@ const swsh11 = [
         "id": "swsh11-188",
         "name": "Pidgeot V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -20196,6 +20384,7 @@ const swsh11 = [
         "id": "swsh11-189",
         "name": "Arezu",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -20266,6 +20455,7 @@ const swsh11 = [
         "id": "swsh11-190",
         "name": "Colress's Experiment",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -20336,6 +20526,7 @@ const swsh11 = [
         "id": "swsh11-191",
         "name": "Fantina",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -20406,6 +20597,7 @@ const swsh11 = [
         "id": "swsh11-192",
         "name": "Iscan",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -20476,6 +20668,7 @@ const swsh11 = [
         "id": "swsh11-193",
         "name": "Lady",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -20546,6 +20739,7 @@ const swsh11 = [
         "id": "swsh11-194",
         "name": "Miss Fortune Sisters",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -20616,6 +20810,7 @@ const swsh11 = [
         "id": "swsh11-195",
         "name": "Thorton",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -20686,6 +20881,7 @@ const swsh11 = [
         "id": "swsh11-196",
         "name": "Volo",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -20756,6 +20952,7 @@ const swsh11 = [
         "id": "swsh11-197",
         "name": "Kyurem VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VMAX"
         ],
@@ -20864,6 +21061,7 @@ const swsh11 = [
         "id": "swsh11-198",
         "name": "Magnezone VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -20974,6 +21172,7 @@ const swsh11 = [
         "id": "swsh11-199",
         "name": "Aerodactyl VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -21083,6 +21282,7 @@ const swsh11 = [
         "id": "swsh11-200",
         "name": "Drapion VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -21191,6 +21391,7 @@ const swsh11 = [
         "id": "swsh11-201",
         "name": "Giratina VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -21295,6 +21496,7 @@ const swsh11 = [
         "id": "swsh11-202",
         "name": "Hisuian Goodra VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -21397,6 +21599,7 @@ const swsh11 = [
         "id": "swsh11-203",
         "name": "Hisuian Zoroark VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -21503,6 +21706,7 @@ const swsh11 = [
         "id": "swsh11-204",
         "name": "Arezu",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -21573,6 +21777,7 @@ const swsh11 = [
         "id": "swsh11-205",
         "name": "Colress's Experiment",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -21643,6 +21848,7 @@ const swsh11 = [
         "id": "swsh11-206",
         "name": "Fantina",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -21713,6 +21919,7 @@ const swsh11 = [
         "id": "swsh11-207",
         "name": "Iscan",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -21783,6 +21990,7 @@ const swsh11 = [
         "id": "swsh11-208",
         "name": "Lady",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -21853,6 +22061,7 @@ const swsh11 = [
         "id": "swsh11-209",
         "name": "Miss Fortune Sisters",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -21923,6 +22132,7 @@ const swsh11 = [
         "id": "swsh11-210",
         "name": "Thorton",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -21993,6 +22203,7 @@ const swsh11 = [
         "id": "swsh11-211",
         "name": "Volo",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -22063,6 +22274,7 @@ const swsh11 = [
         "id": "swsh11-212",
         "name": "Giratina VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -22167,6 +22379,7 @@ const swsh11 = [
         "id": "swsh11-213",
         "name": "Hisuian Zoroark VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VSTAR"
         ],
@@ -22273,6 +22486,7 @@ const swsh11 = [
         "id": "swsh11-214",
         "name": "Box of Disaster",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -22345,6 +22559,7 @@ const swsh11 = [
         "id": "swsh11-215",
         "name": "Collapsed Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stadium"
         ],
@@ -22414,6 +22629,7 @@ const swsh11 = [
         "id": "swsh11-216",
         "name": "Dark Patch",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Item"
         ],
@@ -22484,6 +22700,7 @@ const swsh11 = [
         "id": "swsh11-217",
         "name": "Lost Vacuum",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Item"
         ],
@@ -22554,6 +22771,7 @@ const swsh11 = [
         "id": "swsh11-TG01",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -22658,6 +22876,7 @@ const swsh11 = [
         "id": "swsh11-TG02",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -22763,6 +22982,7 @@ const swsh11 = [
         "id": "swsh11-TG03",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -22868,6 +23088,7 @@ const swsh11 = [
         "id": "swsh11-TG04",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -22972,6 +23193,7 @@ const swsh11 = [
         "id": "swsh11-TG05",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -23078,6 +23300,7 @@ const swsh11 = [
         "id": "swsh11-TG06",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -23187,6 +23410,7 @@ const swsh11 = [
         "id": "swsh11-TG07",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -23299,6 +23523,7 @@ const swsh11 = [
         "id": "swsh11-TG08",
         "name": "Hisuian Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -23404,6 +23629,7 @@ const swsh11 = [
         "id": "swsh11-TG09",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -23507,6 +23733,7 @@ const swsh11 = [
         "id": "swsh11-TG10",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -23613,6 +23840,7 @@ const swsh11 = [
         "id": "swsh11-TG11",
         "name": "Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic"
         ],
@@ -23712,6 +23940,7 @@ const swsh11 = [
         "id": "swsh11-TG12",
         "name": "Orbeetle V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -23819,6 +24048,7 @@ const swsh11 = [
         "id": "swsh11-TG13",
         "name": "Orbeetle VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VMAX"
         ],
@@ -23924,6 +24154,7 @@ const swsh11 = [
         "id": "swsh11-TG14",
         "name": "Centiskorch V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -24035,6 +24266,7 @@ const swsh11 = [
         "id": "swsh11-TG15",
         "name": "Centiskorch VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VMAX"
         ],
@@ -24135,6 +24367,7 @@ const swsh11 = [
         "id": "swsh11-TG16",
         "name": "Pikachu V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -24246,6 +24479,7 @@ const swsh11 = [
         "id": "swsh11-TG17",
         "name": "Pikachu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VMAX"
         ],
@@ -24349,6 +24583,7 @@ const swsh11 = [
         "id": "swsh11-TG18",
         "name": "Enamorus V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -24456,6 +24691,7 @@ const swsh11 = [
         "id": "swsh11-TG19",
         "name": "Gallade V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -24566,6 +24802,7 @@ const swsh11 = [
         "id": "swsh11-TG20",
         "name": "Crobat V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -24671,6 +24908,7 @@ const swsh11 = [
         "id": "swsh11-TG21",
         "name": "Eternatus V",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Basic",
             "V"
@@ -24781,6 +25019,7 @@ const swsh11 = [
         "id": "swsh11-TG22",
         "name": "Eternatus VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VMAX",
             "Eternamax"
@@ -24889,6 +25128,7 @@ const swsh11 = [
         "id": "swsh11-TG23",
         "name": "Adventurer's Discovery",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -24959,6 +25199,7 @@ const swsh11 = [
         "id": "swsh11-TG24",
         "name": "Boss's Orders",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -25030,6 +25271,7 @@ const swsh11 = [
         "id": "swsh11-TG25",
         "name": "Cook",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -25100,6 +25342,7 @@ const swsh11 = [
         "id": "swsh11-TG26",
         "name": "Kabu",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -25170,6 +25413,7 @@ const swsh11 = [
         "id": "swsh11-TG27",
         "name": "Nessa",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -25240,6 +25484,7 @@ const swsh11 = [
         "id": "swsh11-TG28",
         "name": "Opal",
         "supertype": "Trainer",
+        "setAbbrev": "LOR",
         "subtypes": [
             "Supporter"
         ],
@@ -25310,6 +25555,7 @@ const swsh11 = [
         "id": "swsh11-TG29",
         "name": "Pikachu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VMAX"
         ],
@@ -25413,6 +25659,7 @@ const swsh11 = [
         "id": "swsh11-TG30",
         "name": "Mew VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOR",
         "subtypes": [
             "VMAX",
             "Fusion Strike"

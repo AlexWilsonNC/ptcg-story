@@ -3,6 +3,7 @@ let pop2 = [
         "id": "pop2-1",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Basic"
         ],
@@ -69,6 +70,7 @@ let pop2 = [
         "id": "pop2-2",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Stage 2"
         ],
@@ -138,6 +140,7 @@ let pop2 = [
         "id": "pop2-3",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Basic"
         ],
@@ -203,6 +206,7 @@ let pop2 = [
         "id": "pop2-4",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Basic"
         ],
@@ -265,6 +269,7 @@ let pop2 = [
         "id": "pop2-5",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Basic"
         ],
@@ -331,6 +336,7 @@ let pop2 = [
         "id": "pop2-6",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Stage 2"
         ],
@@ -400,6 +406,7 @@ let pop2 = [
         "id": "pop2-7",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Stage 1"
         ],
@@ -469,6 +476,7 @@ let pop2 = [
         "id": "pop2-8",
         "name": "Mr. Briney's Compassion",
         "supertype": "Trainer",
+        "setAbbrev": "P2",
         "subtypes": [
             "Supporter"
         ],
@@ -502,6 +510,7 @@ let pop2 = [
         "id": "pop2-9",
         "name": "Multi Technical Machine 01",
         "supertype": "Trainer",
+        "setAbbrev": "P2",
         "subtypes": [
             "Technical Machine"
         ],
@@ -545,6 +554,7 @@ let pop2 = [
         "id": "pop2-10",
         "name": "Pokémon Park",
         "supertype": "Trainer",
+        "setAbbrev": "P2",
         "subtypes": [
             "Stadium"
         ],
@@ -578,6 +588,7 @@ let pop2 = [
         "id": "pop2-11",
         "name": "TV Reporter",
         "supertype": "Trainer",
+        "setAbbrev": "P2",
         "subtypes": [
             "Supporter"
         ],
@@ -611,6 +622,7 @@ let pop2 = [
         "id": "pop2-12",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Basic"
         ],
@@ -678,6 +690,7 @@ let pop2 = [
         "id": "pop2-13",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Basic"
         ],
@@ -735,6 +748,7 @@ let pop2 = [
         "id": "pop2-14",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Basic"
         ],
@@ -799,6 +813,7 @@ let pop2 = [
         "id": "pop2-15",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Basic"
         ],
@@ -866,6 +881,7 @@ let pop2 = [
         "id": "pop2-16",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Basic"
         ],
@@ -933,6 +949,7 @@ let pop2 = [
         "id": "pop2-17",
         "name": "Celebi ex",
         "supertype": "Pokémon",
+        "setAbbrev": "P2",
         "subtypes": [
             "Basic",
             "EX"

@@ -3,6 +3,7 @@ let ex16 = [
         "id": "ex16-1",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -86,6 +87,7 @@ let ex16 = [
         "id": "ex16-2",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -171,6 +173,7 @@ let ex16 = [
         "id": "ex16-3",
         "name": "Armaldo",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -238,6 +241,7 @@ let ex16 = [
         "id": "ex16-4",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -312,6 +316,7 @@ let ex16 = [
         "id": "ex16-5",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -377,6 +382,7 @@ let ex16 = [
         "id": "ex16-6",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -445,6 +451,7 @@ let ex16 = [
         "id": "ex16-7",
         "name": "Cradily",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -510,6 +517,7 @@ let ex16 = [
         "id": "ex16-8",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -573,6 +581,7 @@ let ex16 = [
         "id": "ex16-9",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -636,6 +645,7 @@ let ex16 = [
         "id": "ex16-10",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -711,6 +721,7 @@ let ex16 = [
         "id": "ex16-11",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -787,6 +798,7 @@ let ex16 = [
         "id": "ex16-12",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -854,6 +866,7 @@ let ex16 = [
         "id": "ex16-13",
         "name": "Slaking",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -920,6 +933,7 @@ let ex16 = [
         "id": "ex16-14",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -997,6 +1011,7 @@ let ex16 = [
         "id": "ex16-15",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1062,6 +1077,7 @@ let ex16 = [
         "id": "ex16-16",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1135,6 +1151,7 @@ let ex16 = [
         "id": "ex16-17",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1206,6 +1223,7 @@ let ex16 = [
         "id": "ex16-18",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1279,6 +1297,7 @@ let ex16 = [
         "id": "ex16-19",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1354,6 +1373,7 @@ let ex16 = [
         "id": "ex16-20",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2"
         ],
@@ -1420,6 +1440,7 @@ let ex16 = [
         "id": "ex16-21",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1485,6 +1506,7 @@ let ex16 = [
         "id": "ex16-22",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1557,6 +1579,7 @@ let ex16 = [
         "id": "ex16-23",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1623,6 +1646,7 @@ let ex16 = [
         "id": "ex16-24",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1687,6 +1711,7 @@ let ex16 = [
         "id": "ex16-25",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -1759,6 +1784,7 @@ let ex16 = [
         "id": "ex16-26",
         "name": "Anorith",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1826,6 +1852,7 @@ let ex16 = [
         "id": "ex16-27",
         "name": "Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1897,6 +1924,7 @@ let ex16 = [
         "id": "ex16-28",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -1967,6 +1995,7 @@ let ex16 = [
         "id": "ex16-29",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2034,6 +2063,7 @@ let ex16 = [
         "id": "ex16-30",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2109,6 +2139,7 @@ let ex16 = [
         "id": "ex16-31",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2179,6 +2210,7 @@ let ex16 = [
         "id": "ex16-32",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2256,6 +2288,7 @@ let ex16 = [
         "id": "ex16-33",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2326,6 +2359,7 @@ let ex16 = [
         "id": "ex16-34",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2401,6 +2435,7 @@ let ex16 = [
         "id": "ex16-35",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2474,6 +2509,7 @@ let ex16 = [
         "id": "ex16-36",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2550,6 +2586,7 @@ let ex16 = [
         "id": "ex16-37",
         "name": "Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2610,6 +2647,7 @@ let ex16 = [
         "id": "ex16-38",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2683,6 +2721,7 @@ let ex16 = [
         "id": "ex16-39",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2764,6 +2803,7 @@ let ex16 = [
         "id": "ex16-40",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2845,6 +2885,7 @@ let ex16 = [
         "id": "ex16-41",
         "name": "Vigoroth",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -2912,6 +2953,7 @@ let ex16 = [
         "id": "ex16-42",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -2986,6 +3028,7 @@ let ex16 = [
         "id": "ex16-43",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3054,6 +3097,7 @@ let ex16 = [
         "id": "ex16-44",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3122,6 +3166,7 @@ let ex16 = [
         "id": "ex16-45",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3186,6 +3231,7 @@ let ex16 = [
         "id": "ex16-46",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3244,6 +3290,7 @@ let ex16 = [
         "id": "ex16-47",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3316,6 +3363,7 @@ let ex16 = [
         "id": "ex16-48",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3374,6 +3422,7 @@ let ex16 = [
         "id": "ex16-49",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3442,6 +3491,7 @@ let ex16 = [
         "id": "ex16-50",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3507,6 +3557,7 @@ let ex16 = [
         "id": "ex16-51",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3576,6 +3627,7 @@ let ex16 = [
         "id": "ex16-52",
         "name": "Lileep",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3647,6 +3699,7 @@ let ex16 = [
         "id": "ex16-53",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3715,6 +3768,7 @@ let ex16 = [
         "id": "ex16-54",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3789,6 +3843,7 @@ let ex16 = [
         "id": "ex16-55",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3856,6 +3911,7 @@ let ex16 = [
         "id": "ex16-56",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1"
         ],
@@ -3925,6 +3981,7 @@ let ex16 = [
         "id": "ex16-57",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -3993,6 +4050,7 @@ let ex16 = [
         "id": "ex16-58",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4057,6 +4115,7 @@ let ex16 = [
         "id": "ex16-59",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4125,6 +4184,7 @@ let ex16 = [
         "id": "ex16-60",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4193,6 +4253,7 @@ let ex16 = [
         "id": "ex16-61",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4257,6 +4318,7 @@ let ex16 = [
         "id": "ex16-62",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4325,6 +4387,7 @@ let ex16 = [
         "id": "ex16-63",
         "name": "Slakoth",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4392,6 +4455,7 @@ let ex16 = [
         "id": "ex16-64",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4461,6 +4525,7 @@ let ex16 = [
         "id": "ex16-65",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4529,6 +4594,7 @@ let ex16 = [
         "id": "ex16-66",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4593,6 +4659,7 @@ let ex16 = [
         "id": "ex16-67",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4651,6 +4718,7 @@ let ex16 = [
         "id": "ex16-68",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4709,6 +4777,7 @@ let ex16 = [
         "id": "ex16-69",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4777,6 +4846,7 @@ let ex16 = [
         "id": "ex16-70",
         "name": "Wynaut",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -4842,6 +4912,7 @@ let ex16 = [
         "id": "ex16-71",
         "name": "Battle Frontier",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stadium"
         ],
@@ -4876,6 +4947,7 @@ let ex16 = [
         "id": "ex16-72",
         "name": "Drake's Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stadium"
         ],
@@ -4910,6 +4982,7 @@ let ex16 = [
         "id": "ex16-73",
         "name": "Energy Recycle System",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -4943,6 +5016,7 @@ let ex16 = [
         "id": "ex16-74",
         "name": "Energy Removal 2",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -4976,6 +5050,7 @@ let ex16 = [
         "id": "ex16-75",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5009,6 +5084,7 @@ let ex16 = [
         "id": "ex16-76",
         "name": "Glacia's Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stadium"
         ],
@@ -5043,6 +5119,7 @@ let ex16 = [
         "id": "ex16-77",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5076,6 +5153,7 @@ let ex16 = [
         "id": "ex16-78",
         "name": "Master Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5109,6 +5187,7 @@ let ex16 = [
         "id": "ex16-79",
         "name": "Phoebe's Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stadium"
         ],
@@ -5143,6 +5222,7 @@ let ex16 = [
         "id": "ex16-80",
         "name": "Professor Birch",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Supporter"
         ],
@@ -5177,6 +5257,7 @@ let ex16 = [
         "id": "ex16-81",
         "name": "Scott",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Supporter"
         ],
@@ -5211,6 +5292,7 @@ let ex16 = [
         "id": "ex16-82",
         "name": "Sidney's Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stadium"
         ],
@@ -5245,6 +5327,7 @@ let ex16 = [
         "id": "ex16-83",
         "name": "Steven's Advice",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Supporter"
         ],
@@ -5280,6 +5363,7 @@ let ex16 = [
         "id": "ex16-84",
         "name": "Claw Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5321,6 +5405,7 @@ let ex16 = [
         "id": "ex16-85",
         "name": "Mysterious Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5355,6 +5440,7 @@ let ex16 = [
         "id": "ex16-86",
         "name": "Root Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "PK",
         "subtypes": [
             "Item"
         ],
@@ -5396,6 +5482,7 @@ let ex16 = [
         "id": "ex16-87",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Special"
         ],
@@ -5429,6 +5516,7 @@ let ex16 = [
         "id": "ex16-88",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Special"
         ],
@@ -5462,6 +5550,7 @@ let ex16 = [
         "id": "ex16-89",
         "name": "Multi Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Special"
         ],
@@ -5495,6 +5584,7 @@ let ex16 = [
         "id": "ex16-90",
         "name": "Cyclone Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Special"
         ],
@@ -5528,6 +5618,7 @@ let ex16 = [
         "id": "ex16-91",
         "name": "Warp Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Special"
         ],
@@ -5561,6 +5652,7 @@ let ex16 = [
         "id": "ex16-92",
         "name": "Absol ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic",
             "EX"
@@ -5634,6 +5726,7 @@ let ex16 = [
         "id": "ex16-93",
         "name": "Claydol ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -5713,6 +5806,7 @@ let ex16 = [
         "id": "ex16-94",
         "name": "Flygon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5791,6 +5885,7 @@ let ex16 = [
         "id": "ex16-95",
         "name": "Metagross ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5866,6 +5961,7 @@ let ex16 = [
         "id": "ex16-96",
         "name": "Salamence ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5951,6 +6047,7 @@ let ex16 = [
         "id": "ex16-97",
         "name": "Shiftry ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6028,6 +6125,7 @@ let ex16 = [
         "id": "ex16-98",
         "name": "Skarmory ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic",
             "EX"
@@ -6112,6 +6210,7 @@ let ex16 = [
         "id": "ex16-99",
         "name": "Walrein ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6181,6 +6280,7 @@ let ex16 = [
         "id": "ex16-100",
         "name": "Flareon ★",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic",
             "Star"
@@ -6249,6 +6349,7 @@ let ex16 = [
         "id": "ex16-101",
         "name": "Jolteon ★",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic",
             "Star"
@@ -6323,6 +6424,7 @@ let ex16 = [
         "id": "ex16-102",
         "name": "Vaporeon ★",
         "supertype": "Pokémon",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic",
             "Star"
@@ -6391,6 +6493,7 @@ let ex16 = [
         "id": "ex16-103",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -6420,6 +6523,7 @@ let ex16 = [
         "id": "ex16-104",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -6449,6 +6553,7 @@ let ex16 = [
         "id": "ex16-105",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -6478,6 +6583,7 @@ let ex16 = [
         "id": "ex16-106",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -6507,6 +6613,7 @@ let ex16 = [
         "id": "ex16-107",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],
@@ -6536,6 +6643,7 @@ let ex16 = [
         "id": "ex16-108",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "PK",
         "subtypes": [
             "Basic"
         ],

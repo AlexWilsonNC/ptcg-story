@@ -3,6 +3,7 @@ let base3 = [
         "id": "base3-1",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -75,6 +76,7 @@ let base3 = [
         "id": "base3-2",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -145,6 +147,7 @@ let base3 = [
         "id": "base3-3",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -203,6 +206,7 @@ let base3 = [
         "id": "base3-4",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -270,6 +274,7 @@ let base3 = [
         "id": "base3-5",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -336,6 +341,7 @@ let base3 = [
         "id": "base3-6",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -403,6 +409,7 @@ let base3 = [
         "id": "base3-7",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -471,6 +478,7 @@ let base3 = [
         "id": "base3-8",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -539,6 +547,7 @@ let base3 = [
         "id": "base3-9",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -609,6 +618,7 @@ let base3 = [
         "id": "base3-10",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -675,6 +685,7 @@ let base3 = [
         "id": "base3-11",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -748,6 +759,7 @@ let base3 = [
         "id": "base3-12",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -816,6 +828,7 @@ let base3 = [
         "id": "base3-13",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -882,6 +895,7 @@ let base3 = [
         "id": "base3-14",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -942,6 +956,7 @@ let base3 = [
         "id": "base3-15",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1001,6 +1016,7 @@ let base3 = [
         "id": "base3-16",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1073,6 +1089,7 @@ let base3 = [
         "id": "base3-17",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1143,6 +1160,7 @@ let base3 = [
         "id": "base3-18",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1201,6 +1219,7 @@ let base3 = [
         "id": "base3-19",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -1268,6 +1287,7 @@ let base3 = [
         "id": "base3-20",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -1334,6 +1354,7 @@ let base3 = [
         "id": "base3-21",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1401,6 +1422,7 @@ let base3 = [
         "id": "base3-22",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1469,6 +1491,7 @@ let base3 = [
         "id": "base3-23",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1537,6 +1560,7 @@ let base3 = [
         "id": "base3-24",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -1607,6 +1631,7 @@ let base3 = [
         "id": "base3-25",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1673,6 +1698,7 @@ let base3 = [
         "id": "base3-26",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1746,6 +1772,7 @@ let base3 = [
         "id": "base3-27",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1814,6 +1841,7 @@ let base3 = [
         "id": "base3-28",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1880,6 +1908,7 @@ let base3 = [
         "id": "base3-29",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1940,6 +1969,7 @@ let base3 = [
         "id": "base3-30",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -1999,6 +2029,7 @@ let base3 = [
         "id": "base3-31",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2067,6 +2098,7 @@ let base3 = [
         "id": "base3-32",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2135,6 +2167,7 @@ let base3 = [
         "id": "base3-33",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -2203,6 +2236,7 @@ let base3 = [
         "id": "base3-34",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2281,6 +2315,7 @@ let base3 = [
         "id": "base3-35",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2349,6 +2384,7 @@ let base3 = [
         "id": "base3-36",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -2421,6 +2457,7 @@ let base3 = [
         "id": "base3-37",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2493,6 +2530,7 @@ let base3 = [
         "id": "base3-38",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2561,6 +2599,7 @@ let base3 = [
         "id": "base3-39",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -2631,6 +2670,7 @@ let base3 = [
         "id": "base3-40",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 2"
         ],
@@ -2699,6 +2739,7 @@ let base3 = [
         "id": "base3-41",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2773,6 +2814,7 @@ let base3 = [
         "id": "base3-42",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2845,6 +2887,7 @@ let base3 = [
         "id": "base3-43",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2910,6 +2953,7 @@ let base3 = [
         "id": "base3-44",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2976,6 +3020,7 @@ let base3 = [
         "id": "base3-45",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3045,6 +3090,7 @@ let base3 = [
         "id": "base3-46",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3114,6 +3160,7 @@ let base3 = [
         "id": "base3-47",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3174,6 +3221,7 @@ let base3 = [
         "id": "base3-48",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3242,6 +3290,7 @@ let base3 = [
         "id": "base3-49",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3300,6 +3349,7 @@ let base3 = [
         "id": "base3-50",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3367,6 +3417,7 @@ let base3 = [
         "id": "base3-51",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3436,6 +3487,7 @@ let base3 = [
         "id": "base3-52",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3503,6 +3555,7 @@ let base3 = [
         "id": "base3-53",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3571,6 +3624,7 @@ let base3 = [
         "id": "base3-54",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3639,6 +3693,7 @@ let base3 = [
         "id": "base3-55",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3709,6 +3764,7 @@ let base3 = [
         "id": "base3-56",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3774,6 +3830,7 @@ let base3 = [
         "id": "base3-57",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "FO",
         "subtypes": [
             "Basic"
         ],
@@ -3849,6 +3906,7 @@ let base3 = [
         "id": "base3-58",
         "name": "Mr. Fuji",
         "supertype": "Trainer",
+        "setAbbrev": "FO",
         "rules": [
             "Choose a Pokémon on your Bench. Shuffle it and any cards attached to it into your deck."
         ],
@@ -3879,6 +3937,7 @@ let base3 = [
         "id": "base3-59",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "FO",
         "rules": [
             "Search your deck for a basic Energy card and put it into your hand. Shuffle your deck afterward."
         ],
@@ -3909,6 +3968,7 @@ let base3 = [
         "id": "base3-60",
         "name": "Gambler",
         "supertype": "Trainer",
+        "setAbbrev": "FO",
         "rules": [
             "Shuffle your hand into your deck. Flip a coin. If heads, draw 8 cards. If tails, draw 1 card."
         ],
@@ -3939,6 +3999,7 @@ let base3 = [
         "id": "base3-61",
         "name": "Recycle",
         "supertype": "Trainer",
+        "setAbbrev": "FO",
         "rules": [
             "Flip a coin. If heads, put a card in your discard pile on top of your deck."
         ],
@@ -3969,6 +4030,7 @@ let base3 = [
         "id": "base3-62",
         "name": "Mysterious Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "FO",
         "hp": "10",
         "rules": [
             "Play Mysterious Fossil as if it were a Basic Pokémon. While in play, Mysterious Fossil counts as a Pokémon (instead of a Trainer card). Mysterious Fossil has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play."

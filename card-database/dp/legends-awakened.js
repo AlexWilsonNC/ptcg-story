@@ -3,6 +3,7 @@ let dp6 = [
         "id": "dp6-1",
         "name": "Deoxys Normal Forme",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -67,6 +68,7 @@ let dp6 = [
         "id": "dp6-2",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -144,6 +146,7 @@ let dp6 = [
         "id": "dp6-3",
         "name": "Froslass",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -211,6 +214,7 @@ let dp6 = [
         "id": "dp6-4",
         "name": "Giratina",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -286,6 +290,7 @@ let dp6 = [
         "id": "dp6-5",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -357,6 +362,7 @@ let dp6 = [
         "id": "dp6-6",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -423,6 +429,7 @@ let dp6 = [
         "id": "dp6-7",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -487,6 +494,7 @@ let dp6 = [
         "id": "dp6-8",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -568,6 +576,7 @@ let dp6 = [
         "id": "dp6-9",
         "name": "Mamoswine",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -645,6 +654,7 @@ let dp6 = [
         "id": "dp6-10",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -717,6 +727,7 @@ let dp6 = [
         "id": "dp6-11",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -784,6 +795,7 @@ let dp6 = [
         "id": "dp6-12",
         "name": "Politoed",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -849,6 +861,7 @@ let dp6 = [
         "id": "dp6-13",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -915,6 +928,7 @@ let dp6 = [
         "id": "dp6-14",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -987,6 +1001,7 @@ let dp6 = [
         "id": "dp6-15",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1053,6 +1068,7 @@ let dp6 = [
         "id": "dp6-16",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1116,6 +1132,7 @@ let dp6 = [
         "id": "dp6-17",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1188,6 +1205,7 @@ let dp6 = [
         "id": "dp6-18",
         "name": "Armaldo",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -1254,6 +1272,7 @@ let dp6 = [
         "id": "dp6-19",
         "name": "Azelf",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1317,6 +1336,7 @@ let dp6 = [
         "id": "dp6-20",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -1390,6 +1410,7 @@ let dp6 = [
         "id": "dp6-21",
         "name": "Cradily",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -1458,6 +1479,7 @@ let dp6 = [
         "id": "dp6-22",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1533,6 +1555,7 @@ let dp6 = [
         "id": "dp6-23",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1597,6 +1620,7 @@ let dp6 = [
         "id": "dp6-24",
         "name": "Deoxys Attack Forme",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1662,6 +1686,7 @@ let dp6 = [
         "id": "dp6-25",
         "name": "Deoxys Defense Forme",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1727,6 +1752,7 @@ let dp6 = [
         "id": "dp6-26",
         "name": "Deoxys Speed Forme",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1790,6 +1816,7 @@ let dp6 = [
         "id": "dp6-27",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1842,6 +1869,7 @@ let dp6 = [
         "id": "dp6-28",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1915,6 +1943,7 @@ let dp6 = [
         "id": "dp6-29",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -1986,6 +2015,7 @@ let dp6 = [
         "id": "dp6-30",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2051,6 +2081,7 @@ let dp6 = [
         "id": "dp6-31",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2121,6 +2152,7 @@ let dp6 = [
         "id": "dp6-32",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2186,6 +2218,7 @@ let dp6 = [
         "id": "dp6-33",
         "name": "Lopunny",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2258,6 +2291,7 @@ let dp6 = [
         "id": "dp6-34",
         "name": "Mesprit",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2322,6 +2356,7 @@ let dp6 = [
         "id": "dp6-35",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -2390,6 +2425,7 @@ let dp6 = [
         "id": "dp6-36",
         "name": "Regice",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2455,6 +2491,7 @@ let dp6 = [
         "id": "dp6-37",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2520,6 +2557,7 @@ let dp6 = [
         "id": "dp6-38",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2585,6 +2623,7 @@ let dp6 = [
         "id": "dp6-39",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2656,6 +2695,7 @@ let dp6 = [
         "id": "dp6-40",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2713,6 +2753,7 @@ let dp6 = [
         "id": "dp6-41",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2777,6 +2818,7 @@ let dp6 = [
         "id": "dp6-42",
         "name": "Unown !",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2840,6 +2882,7 @@ let dp6 = [
         "id": "dp6-43",
         "name": "Uxie",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -2903,6 +2946,7 @@ let dp6 = [
         "id": "dp6-44",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -2969,6 +3013,7 @@ let dp6 = [
         "id": "dp6-45",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 2"
         ],
@@ -3035,6 +3080,7 @@ let dp6 = [
         "id": "dp6-46",
         "name": "Anorith",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3105,6 +3151,7 @@ let dp6 = [
         "id": "dp6-47",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3174,6 +3221,7 @@ let dp6 = [
         "id": "dp6-48",
         "name": "Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -3238,6 +3286,7 @@ let dp6 = [
         "id": "dp6-49",
         "name": "Castform Rain Form",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -3302,6 +3351,7 @@ let dp6 = [
         "id": "dp6-50",
         "name": "Castform Snow-Cloud Form",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -3366,6 +3416,7 @@ let dp6 = [
         "id": "dp6-51",
         "name": "Castform Sunny Form",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -3430,6 +3481,7 @@ let dp6 = [
         "id": "dp6-52",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3502,6 +3554,7 @@ let dp6 = [
         "id": "dp6-53",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3575,6 +3628,7 @@ let dp6 = [
         "id": "dp6-54",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3639,6 +3693,7 @@ let dp6 = [
         "id": "dp6-55",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3712,6 +3767,7 @@ let dp6 = [
         "id": "dp6-56",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3777,6 +3833,7 @@ let dp6 = [
         "id": "dp6-57",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3851,6 +3908,7 @@ let dp6 = [
         "id": "dp6-58",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3919,6 +3977,7 @@ let dp6 = [
         "id": "dp6-59",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3987,6 +4046,7 @@ let dp6 = [
         "id": "dp6-60",
         "name": "Ledian",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4060,6 +4120,7 @@ let dp6 = [
         "id": "dp6-61",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4128,6 +4189,7 @@ let dp6 = [
         "id": "dp6-62",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4206,6 +4268,7 @@ let dp6 = [
         "id": "dp6-63",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4279,6 +4342,7 @@ let dp6 = [
         "id": "dp6-64",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4357,6 +4421,7 @@ let dp6 = [
         "id": "dp6-65",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4435,6 +4500,7 @@ let dp6 = [
         "id": "dp6-66",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4508,6 +4574,7 @@ let dp6 = [
         "id": "dp6-67",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4580,6 +4647,7 @@ let dp6 = [
         "id": "dp6-68",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4647,6 +4715,7 @@ let dp6 = [
         "id": "dp6-69",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4726,6 +4795,7 @@ let dp6 = [
         "id": "dp6-70",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4797,6 +4867,7 @@ let dp6 = [
         "id": "dp6-71",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4862,6 +4933,7 @@ let dp6 = [
         "id": "dp6-72",
         "name": "Swalot",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4931,6 +5003,7 @@ let dp6 = [
         "id": "dp6-73",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5002,6 +5075,7 @@ let dp6 = [
         "id": "dp6-74",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5070,6 +5144,7 @@ let dp6 = [
         "id": "dp6-75",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5136,6 +5211,7 @@ let dp6 = [
         "id": "dp6-76",
         "name": "Unown J",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5199,6 +5275,7 @@ let dp6 = [
         "id": "dp6-77",
         "name": "Unown R",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5260,6 +5337,7 @@ let dp6 = [
         "id": "dp6-78",
         "name": "Unown U",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5323,6 +5401,7 @@ let dp6 = [
         "id": "dp6-79",
         "name": "Unown V",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5386,6 +5465,7 @@ let dp6 = [
         "id": "dp6-80",
         "name": "Unown W",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5451,6 +5531,7 @@ let dp6 = [
         "id": "dp6-81",
         "name": "Unown Y",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5515,6 +5596,7 @@ let dp6 = [
         "id": "dp6-82",
         "name": "Unown ?",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5576,6 +5658,7 @@ let dp6 = [
         "id": "dp6-83",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5649,6 +5732,7 @@ let dp6 = [
         "id": "dp6-84",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5724,6 +5808,7 @@ let dp6 = [
         "id": "dp6-85",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5792,6 +5877,7 @@ let dp6 = [
         "id": "dp6-86",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5861,6 +5947,7 @@ let dp6 = [
         "id": "dp6-87",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5929,6 +6016,7 @@ let dp6 = [
         "id": "dp6-88",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -5998,6 +6086,7 @@ let dp6 = [
         "id": "dp6-89",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6067,6 +6156,7 @@ let dp6 = [
         "id": "dp6-90",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6142,6 +6232,7 @@ let dp6 = [
         "id": "dp6-91",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6211,6 +6302,7 @@ let dp6 = [
         "id": "dp6-92",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6286,6 +6378,7 @@ let dp6 = [
         "id": "dp6-93",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6354,6 +6447,7 @@ let dp6 = [
         "id": "dp6-94",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6426,6 +6520,7 @@ let dp6 = [
         "id": "dp6-95",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6501,6 +6596,7 @@ let dp6 = [
         "id": "dp6-96",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6572,6 +6668,7 @@ let dp6 = [
         "id": "dp6-97",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6641,6 +6738,7 @@ let dp6 = [
         "id": "dp6-98",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6709,6 +6807,7 @@ let dp6 = [
         "id": "dp6-99",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6775,6 +6874,7 @@ let dp6 = [
         "id": "dp6-100",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6843,6 +6943,7 @@ let dp6 = [
         "id": "dp6-101",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6911,6 +7012,7 @@ let dp6 = [
         "id": "dp6-102",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -6979,6 +7081,7 @@ let dp6 = [
         "id": "dp6-103",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7053,6 +7156,7 @@ let dp6 = [
         "id": "dp6-104",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7128,6 +7232,7 @@ let dp6 = [
         "id": "dp6-105",
         "name": "Lileep",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -7198,6 +7303,7 @@ let dp6 = [
         "id": "dp6-106",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7267,6 +7373,7 @@ let dp6 = [
         "id": "dp6-107",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7339,6 +7446,7 @@ let dp6 = [
         "id": "dp6-108",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7407,6 +7515,7 @@ let dp6 = [
         "id": "dp6-109",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7476,6 +7585,7 @@ let dp6 = [
         "id": "dp6-110",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7546,6 +7656,7 @@ let dp6 = [
         "id": "dp6-111",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7614,6 +7725,7 @@ let dp6 = [
         "id": "dp6-112",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7683,6 +7795,7 @@ let dp6 = [
         "id": "dp6-113",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7752,6 +7865,7 @@ let dp6 = [
         "id": "dp6-114",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7820,6 +7934,7 @@ let dp6 = [
         "id": "dp6-115",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -7893,6 +8008,7 @@ let dp6 = [
         "id": "dp6-116",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -7968,6 +8084,7 @@ let dp6 = [
         "id": "dp6-117",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8037,6 +8154,7 @@ let dp6 = [
         "id": "dp6-118",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8112,6 +8230,7 @@ let dp6 = [
         "id": "dp6-119",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8180,6 +8299,7 @@ let dp6 = [
         "id": "dp6-120",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8255,6 +8375,7 @@ let dp6 = [
         "id": "dp6-121",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8324,6 +8445,7 @@ let dp6 = [
         "id": "dp6-122",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8393,6 +8515,7 @@ let dp6 = [
         "id": "dp6-123",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8468,6 +8591,7 @@ let dp6 = [
         "id": "dp6-124",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8542,6 +8666,7 @@ let dp6 = [
         "id": "dp6-125",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8610,6 +8735,7 @@ let dp6 = [
         "id": "dp6-126",
         "name": "Tyrogue",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8678,6 +8804,7 @@ let dp6 = [
         "id": "dp6-127",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stage 1"
         ],
@@ -8748,6 +8875,7 @@ let dp6 = [
         "id": "dp6-128",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Basic"
         ],
@@ -8823,6 +8951,7 @@ let dp6 = [
         "id": "dp6-129",
         "name": "Bubble Coat",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8857,6 +8986,7 @@ let dp6 = [
         "id": "dp6-130",
         "name": "Buck's Training",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Supporter"
         ],
@@ -8891,6 +9021,7 @@ let dp6 = [
         "id": "dp6-131",
         "name": "Cynthia's Feelings",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Supporter"
         ],
@@ -8925,6 +9056,7 @@ let dp6 = [
         "id": "dp6-132",
         "name": "Energy Pickup",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Item"
         ],
@@ -8958,6 +9090,7 @@ let dp6 = [
         "id": "dp6-133",
         "name": "Poké Radar",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Item"
         ],
@@ -8991,6 +9124,7 @@ let dp6 = [
         "id": "dp6-134",
         "name": "Snowpoint Temple",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stadium"
         ],
@@ -9025,6 +9159,7 @@ let dp6 = [
         "id": "dp6-135",
         "name": "Stark Mountain",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Stadium"
         ],
@@ -9059,6 +9194,7 @@ let dp6 = [
         "id": "dp6-136",
         "name": "Technical Machine TS-1",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Technical Machine"
         ],
@@ -9101,6 +9237,7 @@ let dp6 = [
         "id": "dp6-137",
         "name": "Technical Machine TS-2",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Technical Machine"
         ],
@@ -9143,6 +9280,7 @@ let dp6 = [
         "id": "dp6-138",
         "name": "Claw Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Item"
         ],
@@ -9184,6 +9322,7 @@ let dp6 = [
         "id": "dp6-139",
         "name": "Root Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "LA",
         "subtypes": [
             "Item"
         ],
@@ -9225,6 +9364,7 @@ let dp6 = [
         "id": "dp6-140",
         "name": "Azelf LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -9291,6 +9431,7 @@ let dp6 = [
         "id": "dp6-141",
         "name": "Gliscor LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -9363,6 +9504,7 @@ let dp6 = [
         "id": "dp6-142",
         "name": "Magnezone LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -9436,6 +9578,7 @@ let dp6 = [
         "id": "dp6-143",
         "name": "Mesprit LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -9503,6 +9646,7 @@ let dp6 = [
         "id": "dp6-144",
         "name": "Mewtwo LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -9571,6 +9715,7 @@ let dp6 = [
         "id": "dp6-145",
         "name": "Rhyperior LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],
@@ -9645,6 +9790,7 @@ let dp6 = [
         "id": "dp6-146",
         "name": "Uxie LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "LA",
         "subtypes": [
             "Level-Up"
         ],

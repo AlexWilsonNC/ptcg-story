@@ -3,6 +3,7 @@ let sm3 = [
         "id": "sm3-1",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let sm3 = [
         "id": "sm3-2",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -132,6 +134,7 @@ let sm3 = [
         "id": "sm3-3",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2"
         ],
@@ -200,6 +203,7 @@ let sm3 = [
         "id": "sm3-4",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -259,6 +263,7 @@ let sm3 = [
         "id": "sm3-5",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -330,6 +335,7 @@ let sm3 = [
         "id": "sm3-6",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2"
         ],
@@ -396,6 +402,7 @@ let sm3 = [
         "id": "sm3-7",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -455,6 +462,7 @@ let sm3 = [
         "id": "sm3-8",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -524,6 +532,7 @@ let sm3 = [
         "id": "sm3-9",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -583,6 +592,7 @@ let sm3 = [
         "id": "sm3-10",
         "name": "Ledian",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -651,6 +661,7 @@ let sm3 = [
         "id": "sm3-11",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -715,6 +726,7 @@ let sm3 = [
         "id": "sm3-12",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -774,6 +786,7 @@ let sm3 = [
         "id": "sm3-13",
         "name": "Simisage",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -841,6 +854,7 @@ let sm3 = [
         "id": "sm3-14",
         "name": "Dewpider",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -900,6 +914,7 @@ let sm3 = [
         "id": "sm3-15",
         "name": "Araquanid",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -969,6 +984,7 @@ let sm3 = [
         "id": "sm3-16",
         "name": "Wimpod",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -1037,6 +1053,7 @@ let sm3 = [
         "id": "sm3-17",
         "name": "Golisopod-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -1119,6 +1136,7 @@ let sm3 = [
         "id": "sm3-18",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -1188,6 +1206,7 @@ let sm3 = [
         "id": "sm3-18a",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -1257,6 +1276,7 @@ let sm3 = [
         "id": "sm3-19",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1329,6 +1349,7 @@ let sm3 = [
         "id": "sm3-20",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1415,6 +1436,7 @@ let sm3 = [
         "id": "sm3-21",
         "name": "Ho-Oh-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -1505,6 +1527,7 @@ let sm3 = [
         "id": "sm3-22",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -1564,6 +1587,7 @@ let sm3 = [
         "id": "sm3-23",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1631,6 +1655,7 @@ let sm3 = [
         "id": "sm3-24",
         "name": "Heatmor",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -1699,6 +1724,7 @@ let sm3 = [
         "id": "sm3-25",
         "name": "Salazzle-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -1780,6 +1806,7 @@ let sm3 = [
         "id": "sm3-26",
         "name": "Turtonator",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -1848,6 +1875,7 @@ let sm3 = [
         "id": "sm3-27",
         "name": "Alolan Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -1915,6 +1943,7 @@ let sm3 = [
         "id": "sm3-28",
         "name": "Alolan Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1981,6 +2010,7 @@ let sm3 = [
         "id": "sm3-29",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -2040,6 +2070,7 @@ let sm3 = [
         "id": "sm3-30",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2100,6 +2131,7 @@ let sm3 = [
         "id": "sm3-31",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2166,6 +2198,7 @@ let sm3 = [
         "id": "sm3-32",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -2225,6 +2258,7 @@ let sm3 = [
         "id": "sm3-33",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2295,6 +2329,7 @@ let sm3 = [
         "id": "sm3-34",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -2364,6 +2399,7 @@ let sm3 = [
         "id": "sm3-35",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2430,6 +2466,7 @@ let sm3 = [
         "id": "sm3-36",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -2489,6 +2526,7 @@ let sm3 = [
         "id": "sm3-37",
         "name": "Simipour",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2556,6 +2594,7 @@ let sm3 = [
         "id": "sm3-38",
         "name": "Bruxish",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -2623,6 +2662,7 @@ let sm3 = [
         "id": "sm3-39",
         "name": "Tapu Fini-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -2696,6 +2736,7 @@ let sm3 = [
         "id": "sm3-39a",
         "name": "Tapu Fini-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -2769,6 +2810,7 @@ let sm3 = [
         "id": "sm3-40",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -2844,6 +2886,7 @@ let sm3 = [
         "id": "sm3-41",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2916,6 +2959,7 @@ let sm3 = [
         "id": "sm3-42",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -2993,6 +3037,7 @@ let sm3 = [
         "id": "sm3-43",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3070,6 +3115,7 @@ let sm3 = [
         "id": "sm3-44",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -3135,6 +3181,7 @@ let sm3 = [
         "id": "sm3-45",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3202,6 +3249,7 @@ let sm3 = [
         "id": "sm3-46",
         "name": "Eelektross",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3277,6 +3325,7 @@ let sm3 = [
         "id": "sm3-47",
         "name": "Togedemaru",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -3349,6 +3398,7 @@ let sm3 = [
         "id": "sm3-48",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3417,6 +3467,7 @@ let sm3 = [
         "id": "sm3-49",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -3475,6 +3526,7 @@ let sm3 = [
         "id": "sm3-50",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -3540,6 +3592,7 @@ let sm3 = [
         "id": "sm3-51",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -3615,6 +3668,7 @@ let sm3 = [
         "id": "sm3-52",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3692,6 +3746,7 @@ let sm3 = [
         "id": "sm3-53",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3764,6 +3819,7 @@ let sm3 = [
         "id": "sm3-54",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -3833,6 +3889,7 @@ let sm3 = [
         "id": "sm3-55",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3902,6 +3959,7 @@ let sm3 = [
         "id": "sm3-56",
         "name": "Venipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -3971,6 +4029,7 @@ let sm3 = [
         "id": "sm3-57",
         "name": "Whirlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4043,6 +4102,7 @@ let sm3 = [
         "id": "sm3-58",
         "name": "Scolipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2"
         ],
@@ -4114,6 +4174,7 @@ let sm3 = [
         "id": "sm3-59",
         "name": "Espurr",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -4173,6 +4234,7 @@ let sm3 = [
         "id": "sm3-60",
         "name": "Meowstic",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4240,6 +4302,7 @@ let sm3 = [
         "id": "sm3-61",
         "name": "Sandygast",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -4305,6 +4368,7 @@ let sm3 = [
         "id": "sm3-62",
         "name": "Palossand",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4382,6 +4446,7 @@ let sm3 = [
         "id": "sm3-63",
         "name": "Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -4461,6 +4526,7 @@ let sm3 = [
         "id": "sm3-64",
         "name": "Machamp-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -4544,6 +4610,7 @@ let sm3 = [
         "id": "sm3-65",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -4615,6 +4682,7 @@ let sm3 = [
         "id": "sm3-66",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4689,6 +4757,7 @@ let sm3 = [
         "id": "sm3-67",
         "name": "Rhyperior",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2"
         ],
@@ -4756,6 +4825,7 @@ let sm3 = [
         "id": "sm3-68",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -4820,6 +4890,7 @@ let sm3 = [
         "id": "sm3-69",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -4885,6 +4956,7 @@ let sm3 = [
         "id": "sm3-70",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -4954,6 +5026,7 @@ let sm3 = [
         "id": "sm3-71",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5020,6 +5093,7 @@ let sm3 = [
         "id": "sm3-72",
         "name": "Sawk",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -5086,6 +5160,7 @@ let sm3 = [
         "id": "sm3-73",
         "name": "Crabrawler",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -5146,6 +5221,7 @@ let sm3 = [
         "id": "sm3-74",
         "name": "Crabominable",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5214,6 +5290,7 @@ let sm3 = [
         "id": "sm3-75",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5282,6 +5359,7 @@ let sm3 = [
         "id": "sm3-76",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5351,6 +5429,7 @@ let sm3 = [
         "id": "sm3-77",
         "name": "Mudbray",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -5411,6 +5490,7 @@ let sm3 = [
         "id": "sm3-78",
         "name": "Mudsdale",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5482,6 +5562,7 @@ let sm3 = [
         "id": "sm3-79",
         "name": "Passimian",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -5549,6 +5630,7 @@ let sm3 = [
         "id": "sm3-80",
         "name": "Marshadow-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -5626,6 +5708,7 @@ let sm3 = [
         "id": "sm3-81",
         "name": "Alolan Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -5698,6 +5781,7 @@ let sm3 = [
         "id": "sm3-82",
         "name": "Alolan Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5768,6 +5852,7 @@ let sm3 = [
         "id": "sm3-83",
         "name": "Alolan Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -5841,6 +5926,7 @@ let sm3 = [
         "id": "sm3-84",
         "name": "Alolan Muk-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5928,6 +6014,7 @@ let sm3 = [
         "id": "sm3-85",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -6003,6 +6090,7 @@ let sm3 = [
         "id": "sm3-86",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6075,6 +6163,7 @@ let sm3 = [
         "id": "sm3-87",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -6149,6 +6238,7 @@ let sm3 = [
         "id": "sm3-88",
         "name": "Darkrai-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -6234,6 +6324,7 @@ let sm3 = [
         "id": "sm3-88a",
         "name": "Darkrai-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -6319,6 +6410,7 @@ let sm3 = [
         "id": "sm3-89",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -6394,6 +6486,7 @@ let sm3 = [
         "id": "sm3-90",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6468,6 +6561,7 @@ let sm3 = [
         "id": "sm3-91",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -6533,6 +6627,7 @@ let sm3 = [
         "id": "sm3-92",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6610,6 +6705,7 @@ let sm3 = [
         "id": "sm3-92a",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6686,6 +6782,7 @@ let sm3 = [
         "id": "sm3-93",
         "name": "Gardevoir-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -6768,6 +6865,7 @@ let sm3 = [
         "id": "sm3-94",
         "name": "Diancie",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -6840,6 +6938,7 @@ let sm3 = [
         "id": "sm3-95",
         "name": "Cutiefly",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -6904,6 +7003,7 @@ let sm3 = [
         "id": "sm3-96",
         "name": "Ribombee",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6974,6 +7074,7 @@ let sm3 = [
         "id": "sm3-97",
         "name": "Morelull",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -7039,6 +7140,7 @@ let sm3 = [
         "id": "sm3-98",
         "name": "Shiinotic",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7114,6 +7216,7 @@ let sm3 = [
         "id": "sm3-99",
         "name": "Noivern-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7196,6 +7299,7 @@ let sm3 = [
         "id": "sm3-100",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -7266,6 +7370,7 @@ let sm3 = [
         "id": "sm3-101",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -7325,6 +7430,7 @@ let sm3 = [
         "id": "sm3-102",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7391,6 +7497,7 @@ let sm3 = [
         "id": "sm3-103",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -7459,6 +7566,7 @@ let sm3 = [
         "id": "sm3-104",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7530,6 +7638,7 @@ let sm3 = [
         "id": "sm3-105",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2"
         ],
@@ -7596,6 +7705,7 @@ let sm3 = [
         "id": "sm3-105a",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2"
         ],
@@ -7662,6 +7772,7 @@ let sm3 = [
         "id": "sm3-106",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -7737,6 +7848,7 @@ let sm3 = [
         "id": "sm3-107",
         "name": "Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7811,6 +7923,7 @@ let sm3 = [
         "id": "sm3-108",
         "name": "Bouffalant",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -7879,6 +7992,7 @@ let sm3 = [
         "id": "sm3-109",
         "name": "Noibat",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -7944,6 +8058,7 @@ let sm3 = [
         "id": "sm3-110",
         "name": "Stufful",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -8013,6 +8128,7 @@ let sm3 = [
         "id": "sm3-111",
         "name": "Bewear",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1"
         ],
@@ -8082,6 +8198,7 @@ let sm3 = [
         "id": "sm3-112",
         "name": "Acerola",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -8116,6 +8233,7 @@ let sm3 = [
         "id": "sm3-112a",
         "name": "Acerola",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -8150,6 +8268,7 @@ let sm3 = [
         "id": "sm3-113",
         "name": "Bodybuilding Dumbbells",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8185,6 +8304,7 @@ let sm3 = [
         "id": "sm3-114",
         "name": "Escape Rope",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Item"
         ],
@@ -8219,6 +8339,7 @@ let sm3 = [
         "id": "sm3-115",
         "name": "Guzma",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -8253,6 +8374,7 @@ let sm3 = [
         "id": "sm3-115a",
         "name": "Guzma",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -8287,6 +8409,7 @@ let sm3 = [
         "id": "sm3-116",
         "name": "Kiawe",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -8321,6 +8444,7 @@ let sm3 = [
         "id": "sm3-116a",
         "name": "Kiawe",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -8355,6 +8479,7 @@ let sm3 = [
         "id": "sm3-117",
         "name": "Lana",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -8389,6 +8514,7 @@ let sm3 = [
         "id": "sm3-118",
         "name": "Mount Lanakila",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stadium"
         ],
@@ -8423,6 +8549,7 @@ let sm3 = [
         "id": "sm3-119",
         "name": "Olivia",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -8457,6 +8584,7 @@ let sm3 = [
         "id": "sm3-120",
         "name": "Plumeria",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -8491,6 +8619,7 @@ let sm3 = [
         "id": "sm3-121",
         "name": "Po Town",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stadium"
         ],
@@ -8525,6 +8654,7 @@ let sm3 = [
         "id": "sm3-122",
         "name": "Rotom Dex Poké Finder Mode",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Item"
         ],
@@ -8559,6 +8689,7 @@ let sm3 = [
         "id": "sm3-123",
         "name": "Sophocles",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -8593,6 +8724,7 @@ let sm3 = [
         "id": "sm3-124",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Item"
         ],
@@ -8627,6 +8759,7 @@ let sm3 = [
         "id": "sm3-125",
         "name": "Tormenting Spray",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Item"
         ],
@@ -8661,6 +8794,7 @@ let sm3 = [
         "id": "sm3-126",
         "name": "Weakness Policy",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8696,6 +8830,7 @@ let sm3 = [
         "id": "sm3-127",
         "name": "Wicke",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -8730,6 +8865,7 @@ let sm3 = [
         "id": "sm3-128",
         "name": "Wishful Baton",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8765,6 +8901,7 @@ let sm3 = [
         "id": "sm3-129",
         "name": "Golisopod-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8847,6 +8984,7 @@ let sm3 = [
         "id": "sm3-130",
         "name": "Tapu Bulu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -8922,6 +9060,7 @@ let sm3 = [
         "id": "sm3-131",
         "name": "Ho-Oh-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -9012,6 +9151,7 @@ let sm3 = [
         "id": "sm3-132",
         "name": "Salazzle-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9093,6 +9233,7 @@ let sm3 = [
         "id": "sm3-133",
         "name": "Tapu Fini-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -9166,6 +9307,7 @@ let sm3 = [
         "id": "sm3-134",
         "name": "Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -9245,6 +9387,7 @@ let sm3 = [
         "id": "sm3-135",
         "name": "Machamp-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9328,6 +9471,7 @@ let sm3 = [
         "id": "sm3-136",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9411,6 +9555,7 @@ let sm3 = [
         "id": "sm3-137",
         "name": "Marshadow-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -9488,6 +9633,7 @@ let sm3 = [
         "id": "sm3-138",
         "name": "Alolan Muk-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9575,6 +9721,7 @@ let sm3 = [
         "id": "sm3-139",
         "name": "Darkrai-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -9660,6 +9807,7 @@ let sm3 = [
         "id": "sm3-140",
         "name": "Gardevoir-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9742,6 +9890,7 @@ let sm3 = [
         "id": "sm3-141",
         "name": "Noivern-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9824,6 +9973,7 @@ let sm3 = [
         "id": "sm3-142",
         "name": "Acerola",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -9858,6 +10008,7 @@ let sm3 = [
         "id": "sm3-143",
         "name": "Guzma",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -9892,6 +10043,7 @@ let sm3 = [
         "id": "sm3-144",
         "name": "Kiawe",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -9926,6 +10078,7 @@ let sm3 = [
         "id": "sm3-145",
         "name": "Plumeria",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -9960,6 +10113,7 @@ let sm3 = [
         "id": "sm3-146",
         "name": "Sophocles",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -9994,6 +10148,7 @@ let sm3 = [
         "id": "sm3-147",
         "name": "Wicke",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Supporter"
         ],
@@ -10028,6 +10183,7 @@ let sm3 = [
         "id": "sm3-148",
         "name": "Golisopod-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10110,6 +10266,7 @@ let sm3 = [
         "id": "sm3-149",
         "name": "Tapu Bulu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -10185,6 +10342,7 @@ let sm3 = [
         "id": "sm3-150",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10271,6 +10429,7 @@ let sm3 = [
         "id": "sm3-151",
         "name": "Salazzle-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10352,6 +10511,7 @@ let sm3 = [
         "id": "sm3-152",
         "name": "Tapu Fini-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -10425,6 +10585,7 @@ let sm3 = [
         "id": "sm3-153",
         "name": "Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -10504,6 +10665,7 @@ let sm3 = [
         "id": "sm3-154",
         "name": "Machamp-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10587,6 +10749,7 @@ let sm3 = [
         "id": "sm3-155",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10670,6 +10833,7 @@ let sm3 = [
         "id": "sm3-156",
         "name": "Marshadow-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -10747,6 +10911,7 @@ let sm3 = [
         "id": "sm3-157",
         "name": "Alolan Muk-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10834,6 +10999,7 @@ let sm3 = [
         "id": "sm3-158",
         "name": "Darkrai-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic",
             "GX"
@@ -10919,6 +11085,7 @@ let sm3 = [
         "id": "sm3-159",
         "name": "Gardevoir-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -11001,6 +11168,7 @@ let sm3 = [
         "id": "sm3-160",
         "name": "Noivern-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -11083,6 +11251,7 @@ let sm3 = [
         "id": "sm3-161",
         "name": "Bodybuilding Dumbbells",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11118,6 +11287,7 @@ let sm3 = [
         "id": "sm3-162",
         "name": "Choice Band",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11153,6 +11323,7 @@ let sm3 = [
         "id": "sm3-163",
         "name": "Escape Rope",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Item"
         ],
@@ -11187,6 +11358,7 @@ let sm3 = [
         "id": "sm3-164",
         "name": "Multi Switch",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Item"
         ],
@@ -11221,6 +11393,7 @@ let sm3 = [
         "id": "sm3-165",
         "name": "Rescue Stretcher",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Item"
         ],
@@ -11255,6 +11428,7 @@ let sm3 = [
         "id": "sm3-166",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Item"
         ],
@@ -11289,6 +11463,7 @@ let sm3 = [
         "id": "sm3-167",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -11318,6 +11493,7 @@ let sm3 = [
         "id": "sm3-168",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],
@@ -11347,6 +11523,7 @@ let sm3 = [
         "id": "sm3-169",
         "name": "Fairy Energy",
         "supertype": "Energy",
+        "setAbbrev": "BUS",
         "subtypes": [
             "Basic"
         ],

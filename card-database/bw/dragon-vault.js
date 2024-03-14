@@ -3,6 +3,7 @@ let dv1 = [
         "id": "dv1-1",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -63,6 +64,7 @@ let dv1 = [
         "id": "dv1-2",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -131,6 +133,7 @@ let dv1 = [
         "id": "dv1-3",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 1"
         ],
@@ -203,6 +206,7 @@ let dv1 = [
         "id": "dv1-4",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 1"
         ],
@@ -273,6 +277,7 @@ let dv1 = [
         "id": "dv1-5",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 2"
         ],
@@ -344,6 +349,7 @@ let dv1 = [
         "id": "dv1-6",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -413,6 +419,7 @@ let dv1 = [
         "id": "dv1-7",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 1"
         ],
@@ -484,6 +491,7 @@ let dv1 = [
         "id": "dv1-8",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 2"
         ],
@@ -551,6 +559,7 @@ let dv1 = [
         "id": "dv1-9",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -617,6 +626,7 @@ let dv1 = [
         "id": "dv1-10",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -685,6 +695,7 @@ let dv1 = [
         "id": "dv1-11",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -752,6 +763,7 @@ let dv1 = [
         "id": "dv1-12",
         "name": "Axew",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -820,6 +832,7 @@ let dv1 = [
         "id": "dv1-13",
         "name": "Axew",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -880,6 +893,7 @@ let dv1 = [
         "id": "dv1-14",
         "name": "Fraxure",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 1"
         ],
@@ -949,6 +963,7 @@ let dv1 = [
         "id": "dv1-15",
         "name": "Fraxure",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1021,6 +1036,7 @@ let dv1 = [
         "id": "dv1-16",
         "name": "Haxorus",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Stage 2"
         ],
@@ -1091,6 +1107,7 @@ let dv1 = [
         "id": "dv1-17",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],
@@ -1159,6 +1176,7 @@ let dv1 = [
         "id": "dv1-18",
         "name": "Exp. Share",
         "supertype": "Trainer",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -1193,6 +1211,7 @@ let dv1 = [
         "id": "dv1-19",
         "name": "First Ticket",
         "supertype": "Trainer",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Item"
         ],
@@ -1226,6 +1245,7 @@ let dv1 = [
         "id": "dv1-20",
         "name": "Super Rod",
         "supertype": "Trainer",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Item"
         ],
@@ -1260,6 +1280,7 @@ let dv1 = [
         "id": "dv1-21",
         "name": "Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "DRV",
         "subtypes": [
             "Basic"
         ],

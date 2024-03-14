@@ -3,6 +3,7 @@ let xy10 = [
         "id": "xy10-1",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -69,6 +70,7 @@ let xy10 = [
         "id": "xy10-2",
         "name": "Burmy",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -128,6 +130,7 @@ let xy10 = [
         "id": "xy10-3",
         "name": "Wormadam",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -196,6 +199,7 @@ let xy10 = [
         "id": "xy10-4",
         "name": "Mothim",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -267,6 +271,7 @@ let xy10 = [
         "id": "xy10-5",
         "name": "Snivy",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -326,6 +331,7 @@ let xy10 = [
         "id": "xy10-6",
         "name": "Servine",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -393,6 +399,7 @@ let xy10 = [
         "id": "xy10-7",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 2"
         ],
@@ -459,6 +466,7 @@ let xy10 = [
         "id": "xy10-8",
         "name": "Deerling",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -518,6 +526,7 @@ let xy10 = [
         "id": "xy10-9",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -592,6 +601,7 @@ let xy10 = [
         "id": "xy10-10",
         "name": "Fennekin",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -661,6 +671,7 @@ let xy10 = [
         "id": "xy10-11",
         "name": "Fennekin",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -720,6 +731,7 @@ let xy10 = [
         "id": "xy10-12",
         "name": "Braixen",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -790,6 +802,7 @@ let xy10 = [
         "id": "xy10-13",
         "name": "Delphox",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 2"
         ],
@@ -858,6 +871,7 @@ let xy10 = [
         "id": "xy10-14",
         "name": "Delphox BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "BREAK"
         ],
@@ -906,6 +920,7 @@ let xy10 = [
         "id": "xy10-15",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -965,6 +980,7 @@ let xy10 = [
         "id": "xy10-16",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1034,6 +1050,7 @@ let xy10 = [
         "id": "xy10-17",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Restored"
         ],
@@ -1097,6 +1114,7 @@ let xy10 = [
         "id": "xy10-18",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1162,6 +1180,7 @@ let xy10 = [
         "id": "xy10-19",
         "name": "Omastar BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "BREAK"
         ],
@@ -1210,6 +1229,7 @@ let xy10 = [
         "id": "xy10-20",
         "name": "Glaceon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -1281,6 +1301,7 @@ let xy10 = [
         "id": "xy10-21",
         "name": "White Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -1349,6 +1370,7 @@ let xy10 = [
         "id": "xy10-22",
         "name": "Binacle",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -1409,6 +1431,7 @@ let xy10 = [
         "id": "xy10-23",
         "name": "Barbaracle",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1475,6 +1498,7 @@ let xy10 = [
         "id": "xy10-24",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -1547,6 +1571,7 @@ let xy10 = [
         "id": "xy10-25",
         "name": "Alakazam-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -1617,6 +1642,7 @@ let xy10 = [
         "id": "xy10-26",
         "name": "M Alakazam-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "MEGA",
             "EX"
@@ -1679,6 +1705,7 @@ let xy10 = [
         "id": "xy10-27",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -1738,6 +1765,7 @@ let xy10 = [
         "id": "xy10-28",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1807,6 +1835,7 @@ let xy10 = [
         "id": "xy10-29",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -1869,6 +1898,7 @@ let xy10 = [
         "id": "xy10-30",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -1928,6 +1958,7 @@ let xy10 = [
         "id": "xy10-31",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1995,6 +2026,7 @@ let xy10 = [
         "id": "xy10-32",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -2055,6 +2087,7 @@ let xy10 = [
         "id": "xy10-33",
         "name": "Solosis",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -2115,6 +2148,7 @@ let xy10 = [
         "id": "xy10-34",
         "name": "Duosion",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2176,6 +2210,7 @@ let xy10 = [
         "id": "xy10-35",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 2"
         ],
@@ -2234,6 +2269,7 @@ let xy10 = [
         "id": "xy10-36",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -2292,6 +2328,7 @@ let xy10 = [
         "id": "xy10-37",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2357,6 +2394,7 @@ let xy10 = [
         "id": "xy10-38",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Restored"
         ],
@@ -2420,6 +2458,7 @@ let xy10 = [
         "id": "xy10-39",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2489,6 +2528,7 @@ let xy10 = [
         "id": "xy10-40",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -2548,6 +2588,7 @@ let xy10 = [
         "id": "xy10-41",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -2617,6 +2658,7 @@ let xy10 = [
         "id": "xy10-42",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2677,6 +2719,7 @@ let xy10 = [
         "id": "xy10-43",
         "name": "Regirock-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -2745,6 +2788,7 @@ let xy10 = [
         "id": "xy10-43a",
         "name": "Regirock-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -2813,6 +2857,7 @@ let xy10 = [
         "id": "xy10-44",
         "name": "Wormadam",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2881,6 +2926,7 @@ let xy10 = [
         "id": "xy10-45",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -2940,6 +2986,7 @@ let xy10 = [
         "id": "xy10-46",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -2999,6 +3046,7 @@ let xy10 = [
         "id": "xy10-47",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3067,6 +3115,7 @@ let xy10 = [
         "id": "xy10-48",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -3139,6 +3188,7 @@ let xy10 = [
         "id": "xy10-49",
         "name": "Carbink",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -3204,6 +3254,7 @@ let xy10 = [
         "id": "xy10-50",
         "name": "Carbink",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -3268,6 +3319,7 @@ let xy10 = [
         "id": "xy10-51",
         "name": "Carbink BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "BREAK"
         ],
@@ -3320,6 +3372,7 @@ let xy10 = [
         "id": "xy10-52",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -3387,6 +3440,7 @@ let xy10 = [
         "id": "xy10-53",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -3455,6 +3509,7 @@ let xy10 = [
         "id": "xy10-54",
         "name": "Zygarde-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -3535,6 +3590,7 @@ let xy10 = [
         "id": "xy10-54a",
         "name": "Zygarde-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -3615,6 +3671,7 @@ let xy10 = [
         "id": "xy10-55",
         "name": "Umbreon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -3691,6 +3748,7 @@ let xy10 = [
         "id": "xy10-56",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 2"
         ],
@@ -3765,6 +3823,7 @@ let xy10 = [
         "id": "xy10-57",
         "name": "Vullaby",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -3841,6 +3900,7 @@ let xy10 = [
         "id": "xy10-58",
         "name": "Mandibuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3915,6 +3975,7 @@ let xy10 = [
         "id": "xy10-59",
         "name": "Wormadam",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3989,6 +4050,7 @@ let xy10 = [
         "id": "xy10-60",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -4064,6 +4126,7 @@ let xy10 = [
         "id": "xy10-61",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4136,6 +4199,7 @@ let xy10 = [
         "id": "xy10-62",
         "name": "Bronzong BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "BREAK"
         ],
@@ -4189,6 +4253,7 @@ let xy10 = [
         "id": "xy10-63",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4262,6 +4327,7 @@ let xy10 = [
         "id": "xy10-64",
         "name": "Genesect-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -4336,6 +4402,7 @@ let xy10 = [
         "id": "xy10-65",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -4411,6 +4478,7 @@ let xy10 = [
         "id": "xy10-66",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4486,6 +4554,7 @@ let xy10 = [
         "id": "xy10-67",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -4558,6 +4627,7 @@ let xy10 = [
         "id": "xy10-68",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -4624,6 +4694,7 @@ let xy10 = [
         "id": "xy10-69",
         "name": "M Altaria-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "MEGA",
             "EX"
@@ -4693,6 +4764,7 @@ let xy10 = [
         "id": "xy10-70",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -4758,6 +4830,7 @@ let xy10 = [
         "id": "xy10-71",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4820,6 +4893,7 @@ let xy10 = [
         "id": "xy10-72",
         "name": "Diancie-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -4897,6 +4971,7 @@ let xy10 = [
         "id": "xy10-73",
         "name": "Kingdra-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -4968,6 +5043,7 @@ let xy10 = [
         "id": "xy10-74",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -5028,6 +5104,7 @@ let xy10 = [
         "id": "xy10-75",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -5097,6 +5174,7 @@ let xy10 = [
         "id": "xy10-76",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Restored"
         ],
@@ -5172,6 +5250,7 @@ let xy10 = [
         "id": "xy10-77",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -5242,6 +5321,7 @@ let xy10 = [
         "id": "xy10-78",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -5313,6 +5393,7 @@ let xy10 = [
         "id": "xy10-79",
         "name": "Lugia BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "BREAK"
         ],
@@ -5368,6 +5449,7 @@ let xy10 = [
         "id": "xy10-80",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -5437,6 +5519,7 @@ let xy10 = [
         "id": "xy10-81",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5508,6 +5591,7 @@ let xy10 = [
         "id": "xy10-82",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 2"
         ],
@@ -5578,6 +5662,7 @@ let xy10 = [
         "id": "xy10-83",
         "name": "Altaria-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -5658,6 +5743,7 @@ let xy10 = [
         "id": "xy10-84",
         "name": "Audino-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -5731,6 +5817,7 @@ let xy10 = [
         "id": "xy10-85",
         "name": "M Audino-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "MEGA",
             "EX"
@@ -5794,6 +5881,7 @@ let xy10 = [
         "id": "xy10-86",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -5853,6 +5941,7 @@ let xy10 = [
         "id": "xy10-87",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic"
         ],
@@ -5912,6 +6001,7 @@ let xy10 = [
         "id": "xy10-88",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5978,6 +6068,7 @@ let xy10 = [
         "id": "xy10-89",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stage 1"
         ],
@@ -6045,6 +6136,7 @@ let xy10 = [
         "id": "xy10-90",
         "name": "Alakazam Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6080,6 +6172,7 @@ let xy10 = [
         "id": "xy10-91",
         "name": "Altaria Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6115,6 +6208,7 @@ let xy10 = [
         "id": "xy10-92",
         "name": "Audino Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6150,6 +6244,7 @@ let xy10 = [
         "id": "xy10-93",
         "name": "Bent Spoon",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6185,6 +6280,7 @@ let xy10 = [
         "id": "xy10-94",
         "name": "Chaos Tower",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stadium"
         ],
@@ -6220,6 +6316,7 @@ let xy10 = [
         "id": "xy10-95",
         "name": "Devolution Spray",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Item"
         ],
@@ -6254,6 +6351,7 @@ let xy10 = [
         "id": "xy10-96",
         "name": "Dome Fossil Kabuto",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Item"
         ],
@@ -6288,6 +6386,7 @@ let xy10 = [
         "id": "xy10-97",
         "name": "Energy Pouch",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6323,6 +6422,7 @@ let xy10 = [
         "id": "xy10-98",
         "name": "Energy Reset",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Item"
         ],
@@ -6357,6 +6457,7 @@ let xy10 = [
         "id": "xy10-99",
         "name": "Fairy Drop",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Item"
         ],
@@ -6391,6 +6492,7 @@ let xy10 = [
         "id": "xy10-100",
         "name": "Fairy Garden",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stadium"
         ],
@@ -6425,6 +6527,7 @@ let xy10 = [
         "id": "xy10-101",
         "name": "Fossil Excavation Kit",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Item"
         ],
@@ -6459,6 +6562,7 @@ let xy10 = [
         "id": "xy10-102",
         "name": "Helix Fossil Omanyte",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Item"
         ],
@@ -6493,6 +6597,7 @@ let xy10 = [
         "id": "xy10-103",
         "name": "Lass's Special",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Supporter"
         ],
@@ -6527,6 +6632,7 @@ let xy10 = [
         "id": "xy10-104",
         "name": "Mega Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Item"
         ],
@@ -6561,6 +6667,7 @@ let xy10 = [
         "id": "xy10-105",
         "name": "N",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Supporter"
         ],
@@ -6595,6 +6702,7 @@ let xy10 = [
         "id": "xy10-105a",
         "name": "N",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Supporter"
         ],
@@ -6629,6 +6737,7 @@ let xy10 = [
         "id": "xy10-106",
         "name": "Old Amber Aerodactyl",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Item"
         ],
@@ -6663,6 +6772,7 @@ let xy10 = [
         "id": "xy10-107",
         "name": "Pokémon Fan Club",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Supporter"
         ],
@@ -6697,6 +6807,7 @@ let xy10 = [
         "id": "xy10-108",
         "name": "Power Memory",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6745,6 +6856,7 @@ let xy10 = [
         "id": "xy10-109",
         "name": "Random Receiver",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Item"
         ],
@@ -6779,6 +6891,7 @@ let xy10 = [
         "id": "xy10-110",
         "name": "Scorched Earth",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Stadium"
         ],
@@ -6813,6 +6926,7 @@ let xy10 = [
         "id": "xy10-111",
         "name": "Shauna",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Supporter"
         ],
@@ -6847,6 +6961,7 @@ let xy10 = [
         "id": "xy10-111a",
         "name": "Shauna",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Supporter"
         ],
@@ -6881,6 +6996,7 @@ let xy10 = [
         "id": "xy10-112",
         "name": "Team Rocket's Handiwork",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Supporter"
         ],
@@ -6915,6 +7031,7 @@ let xy10 = [
         "id": "xy10-113",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Item"
         ],
@@ -6949,6 +7066,7 @@ let xy10 = [
         "id": "xy10-114",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Special"
         ],
@@ -6982,6 +7100,7 @@ let xy10 = [
         "id": "xy10-115",
         "name": "Strong Energy",
         "supertype": "Energy",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Special"
         ],
@@ -7017,6 +7136,7 @@ let xy10 = [
         "id": "xy10-116",
         "name": "Glaceon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -7088,6 +7208,7 @@ let xy10 = [
         "id": "xy10-117",
         "name": "Alakazam-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -7158,6 +7279,7 @@ let xy10 = [
         "id": "xy10-118",
         "name": "M Alakazam-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "MEGA",
             "EX"
@@ -7220,6 +7342,7 @@ let xy10 = [
         "id": "xy10-119",
         "name": "Umbreon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -7296,6 +7419,7 @@ let xy10 = [
         "id": "xy10-120",
         "name": "Genesect-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -7370,6 +7494,7 @@ let xy10 = [
         "id": "xy10-121",
         "name": "M Altaria-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "MEGA",
             "EX"
@@ -7439,6 +7564,7 @@ let xy10 = [
         "id": "xy10-122",
         "name": "Kingdra-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -7510,6 +7636,7 @@ let xy10 = [
         "id": "xy10-123",
         "name": "Altaria-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"
@@ -7590,6 +7717,7 @@ let xy10 = [
         "id": "xy10-124",
         "name": "Team Rocket's Handiwork",
         "supertype": "Trainer",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Supporter"
         ],
@@ -7624,6 +7752,7 @@ let xy10 = [
         "id": "xy10-125",
         "name": "Alakazam-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "FCO",
         "subtypes": [
             "Basic",
             "EX"

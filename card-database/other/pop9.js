@@ -2,7 +2,7 @@ let pop9 = [
     {
         "id": "pop9-1",
         "name": "Garchomp",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Stage 2"
         ],
@@ -68,7 +68,7 @@ let pop9 = [
     {
         "id": "pop9-2",
         "name": "Manaphy",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -132,7 +132,7 @@ let pop9 = [
     {
         "id": "pop9-3",
         "name": "Raichu",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Stage 1"
         ],
@@ -206,7 +206,7 @@ let pop9 = [
     {
         "id": "pop9-4",
         "name": "Regigigas",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -275,7 +275,7 @@ let pop9 = [
     {
         "id": "pop9-5",
         "name": "Rotom",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -344,7 +344,7 @@ let pop9 = [
     {
         "id": "pop9-6",
         "name": "Buizel",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -412,7 +412,7 @@ let pop9 = [
     {
         "id": "pop9-7",
         "name": "Croagunk",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -480,7 +480,7 @@ let pop9 = [
     {
         "id": "pop9-8",
         "name": "Gabite",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Stage 1"
         ],
@@ -550,7 +550,7 @@ let pop9 = [
     {
         "id": "pop9-9",
         "name": "Lopunny",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Stage 1"
         ],
@@ -618,7 +618,7 @@ let pop9 = [
     {
         "id": "pop9-10",
         "name": "Pachirisu",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -689,7 +689,7 @@ let pop9 = [
     {
         "id": "pop9-11",
         "name": "Pichu",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -758,7 +758,7 @@ let pop9 = [
     {
         "id": "pop9-12",
         "name": "Buneary",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -826,7 +826,7 @@ let pop9 = [
     {
         "id": "pop9-13",
         "name": "Chimchar",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -895,7 +895,7 @@ let pop9 = [
     {
         "id": "pop9-14",
         "name": "Gible",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -953,7 +953,7 @@ let pop9 = [
     {
         "id": "pop9-15",
         "name": "Pikachu",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -1028,7 +1028,7 @@ let pop9 = [
     {
         "id": "pop9-16",
         "name": "Piplup",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],
@@ -1097,7 +1097,7 @@ let pop9 = [
     {
         "id": "pop9-17",
         "name": "Turtwig",
-        "supertype": "Pokémon",
+        P9: "Pokémon",
         "subtypes": [
             "Basic"
         ],

@@ -3,6 +3,7 @@ let pl3 = [
         "id": "pl3-1",
         "name": "Absol G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -76,6 +77,7 @@ let pl3 = [
         "id": "pl3-2",
         "name": "Blaziken FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -142,6 +144,7 @@ let pl3 = [
         "id": "pl3-3",
         "name": "Drifblim FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -213,6 +216,7 @@ let pl3 = [
         "id": "pl3-4",
         "name": "Electivire FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -286,6 +290,7 @@ let pl3 = [
         "id": "pl3-5",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -360,6 +365,7 @@ let pl3 = [
         "id": "pl3-6",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -435,6 +441,7 @@ let pl3 = [
         "id": "pl3-7",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -507,6 +514,7 @@ let pl3 = [
         "id": "pl3-8",
         "name": "Rayquaza C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -581,6 +589,7 @@ let pl3 = [
         "id": "pl3-9",
         "name": "Regigigas FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -651,6 +660,7 @@ let pl3 = [
         "id": "pl3-10",
         "name": "Rhyperior",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -727,6 +737,7 @@ let pl3 = [
         "id": "pl3-11",
         "name": "Staraptor FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -800,6 +811,7 @@ let pl3 = [
         "id": "pl3-12",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -877,6 +889,7 @@ let pl3 = [
         "id": "pl3-13",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -952,6 +965,7 @@ let pl3 = [
         "id": "pl3-14",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1033,6 +1047,7 @@ let pl3 = [
         "id": "pl3-15",
         "name": "Arcanine G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1098,6 +1113,7 @@ let pl3 = [
         "id": "pl3-16",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -1174,6 +1190,7 @@ let pl3 = [
         "id": "pl3-17",
         "name": "Butterfree FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1245,6 +1262,7 @@ let pl3 = [
         "id": "pl3-18",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1315,6 +1333,7 @@ let pl3 = [
         "id": "pl3-19",
         "name": "Camerupt G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1384,6 +1403,7 @@ let pl3 = [
         "id": "pl3-20",
         "name": "Charizard G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1458,6 +1478,7 @@ let pl3 = [
         "id": "pl3-21",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -1523,6 +1544,7 @@ let pl3 = [
         "id": "pl3-22",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1591,6 +1613,7 @@ let pl3 = [
         "id": "pl3-23",
         "name": "Crawdaunt G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1658,6 +1681,7 @@ let pl3 = [
         "id": "pl3-24",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1734,6 +1758,7 @@ let pl3 = [
         "id": "pl3-25",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1805,6 +1830,7 @@ let pl3 = [
         "id": "pl3-26",
         "name": "Dusknoir FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1879,6 +1905,7 @@ let pl3 = [
         "id": "pl3-27",
         "name": "Empoleon FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -1947,6 +1974,7 @@ let pl3 = [
         "id": "pl3-28",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 2"
         ],
@@ -2022,6 +2050,7 @@ let pl3 = [
         "id": "pl3-29",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -2094,6 +2123,7 @@ let pl3 = [
         "id": "pl3-30",
         "name": "Lickilicky C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -2161,6 +2191,7 @@ let pl3 = [
         "id": "pl3-31",
         "name": "Lucario C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -2228,6 +2259,7 @@ let pl3 = [
         "id": "pl3-32",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -2291,6 +2323,7 @@ let pl3 = [
         "id": "pl3-33",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -2372,6 +2405,7 @@ let pl3 = [
         "id": "pl3-34",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -2441,6 +2475,7 @@ let pl3 = [
         "id": "pl3-35",
         "name": "Milotic C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -2508,6 +2543,7 @@ let pl3 = [
         "id": "pl3-36",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -2583,6 +2619,7 @@ let pl3 = [
         "id": "pl3-37",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -2641,6 +2678,7 @@ let pl3 = [
         "id": "pl3-38",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -2709,6 +2747,7 @@ let pl3 = [
         "id": "pl3-39",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -2777,6 +2816,7 @@ let pl3 = [
         "id": "pl3-40",
         "name": "Roserade C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -2842,6 +2882,7 @@ let pl3 = [
         "id": "pl3-41",
         "name": "Sableye G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -2906,6 +2947,7 @@ let pl3 = [
         "id": "pl3-42",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -2978,6 +3020,7 @@ let pl3 = [
         "id": "pl3-43",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3044,6 +3087,7 @@ let pl3 = [
         "id": "pl3-44",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3108,6 +3152,7 @@ let pl3 = [
         "id": "pl3-45",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -3172,6 +3217,7 @@ let pl3 = [
         "id": "pl3-46",
         "name": "Spinda",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -3237,6 +3283,7 @@ let pl3 = [
         "id": "pl3-47",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3308,6 +3355,7 @@ let pl3 = [
         "id": "pl3-48",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -3384,6 +3432,7 @@ let pl3 = [
         "id": "pl3-49",
         "name": "Altaria C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -3457,6 +3506,7 @@ let pl3 = [
         "id": "pl3-50",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3527,6 +3577,7 @@ let pl3 = [
         "id": "pl3-51",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3596,6 +3647,7 @@ let pl3 = [
         "id": "pl3-52",
         "name": "Breloom",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3663,6 +3715,7 @@ let pl3 = [
         "id": "pl3-53",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -3737,6 +3790,7 @@ let pl3 = [
         "id": "pl3-54",
         "name": "Chatot G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -3804,6 +3858,7 @@ let pl3 = [
         "id": "pl3-55",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3874,6 +3929,7 @@ let pl3 = [
         "id": "pl3-56",
         "name": "Dragonite FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -3950,6 +4006,7 @@ let pl3 = [
         "id": "pl3-57",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4025,6 +4082,7 @@ let pl3 = [
         "id": "pl3-58",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4094,6 +4152,7 @@ let pl3 = [
         "id": "pl3-59",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4162,6 +4221,7 @@ let pl3 = [
         "id": "pl3-60",
         "name": "Garchomp C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -4230,6 +4290,7 @@ let pl3 = [
         "id": "pl3-61",
         "name": "Hippopotas",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -4301,6 +4362,7 @@ let pl3 = [
         "id": "pl3-62",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4370,6 +4432,7 @@ let pl3 = [
         "id": "pl3-63",
         "name": "Lopunny",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4438,6 +4501,7 @@ let pl3 = [
         "id": "pl3-64",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4510,6 +4574,7 @@ let pl3 = [
         "id": "pl3-65",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -4579,6 +4644,7 @@ let pl3 = [
         "id": "pl3-66",
         "name": "Manectric G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -4649,6 +4715,7 @@ let pl3 = [
         "id": "pl3-67",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4718,6 +4785,7 @@ let pl3 = [
         "id": "pl3-68",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4787,6 +4855,7 @@ let pl3 = [
         "id": "pl3-69",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4862,6 +4931,7 @@ let pl3 = [
         "id": "pl3-70",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4931,6 +5001,7 @@ let pl3 = [
         "id": "pl3-71",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5000,6 +5071,7 @@ let pl3 = [
         "id": "pl3-72",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5073,6 +5145,7 @@ let pl3 = [
         "id": "pl3-73",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5147,6 +5220,7 @@ let pl3 = [
         "id": "pl3-74",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5217,6 +5291,7 @@ let pl3 = [
         "id": "pl3-75",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5285,6 +5360,7 @@ let pl3 = [
         "id": "pl3-76",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5354,6 +5430,7 @@ let pl3 = [
         "id": "pl3-77",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5427,6 +5504,7 @@ let pl3 = [
         "id": "pl3-78",
         "name": "Raticate G",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -5491,6 +5569,7 @@ let pl3 = [
         "id": "pl3-79",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5557,6 +5636,7 @@ let pl3 = [
         "id": "pl3-80",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5634,6 +5714,7 @@ let pl3 = [
         "id": "pl3-81",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5702,6 +5783,7 @@ let pl3 = [
         "id": "pl3-82",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -5774,6 +5856,7 @@ let pl3 = [
         "id": "pl3-83",
         "name": "Skarmory FB",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -5846,6 +5929,7 @@ let pl3 = [
         "id": "pl3-84",
         "name": "Spiritomb C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -5912,6 +5996,7 @@ let pl3 = [
         "id": "pl3-85",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5990,6 +6075,7 @@ let pl3 = [
         "id": "pl3-86",
         "name": "Togekiss C",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic",
             "SP"
@@ -6059,6 +6145,7 @@ let pl3 = [
         "id": "pl3-87",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6130,6 +6217,7 @@ let pl3 = [
         "id": "pl3-88",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6204,6 +6292,7 @@ let pl3 = [
         "id": "pl3-89",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6273,6 +6362,7 @@ let pl3 = [
         "id": "pl3-90",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6347,6 +6437,7 @@ let pl3 = [
         "id": "pl3-91",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6406,6 +6497,7 @@ let pl3 = [
         "id": "pl3-92",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6475,6 +6567,7 @@ let pl3 = [
         "id": "pl3-93",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6544,6 +6637,7 @@ let pl3 = [
         "id": "pl3-94",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6613,6 +6707,7 @@ let pl3 = [
         "id": "pl3-95",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6685,6 +6780,7 @@ let pl3 = [
         "id": "pl3-96",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6757,6 +6853,7 @@ let pl3 = [
         "id": "pl3-97",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6826,6 +6923,7 @@ let pl3 = [
         "id": "pl3-98",
         "name": "Chingling",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6890,6 +6988,7 @@ let pl3 = [
         "id": "pl3-99",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -6965,6 +7064,7 @@ let pl3 = [
         "id": "pl3-100",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7033,6 +7133,7 @@ let pl3 = [
         "id": "pl3-101",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7102,6 +7203,7 @@ let pl3 = [
         "id": "pl3-102",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7166,6 +7268,7 @@ let pl3 = [
         "id": "pl3-103",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7240,6 +7343,7 @@ let pl3 = [
         "id": "pl3-104",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7306,6 +7410,7 @@ let pl3 = [
         "id": "pl3-105",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7375,6 +7480,7 @@ let pl3 = [
         "id": "pl3-106",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7443,6 +7549,7 @@ let pl3 = [
         "id": "pl3-107",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7511,6 +7618,7 @@ let pl3 = [
         "id": "pl3-108",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7581,6 +7689,7 @@ let pl3 = [
         "id": "pl3-109",
         "name": "Kricketot",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7650,6 +7759,7 @@ let pl3 = [
         "id": "pl3-110",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7709,6 +7819,7 @@ let pl3 = [
         "id": "pl3-111",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7784,6 +7895,7 @@ let pl3 = [
         "id": "pl3-112",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7843,6 +7955,7 @@ let pl3 = [
         "id": "pl3-113",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7912,6 +8025,7 @@ let pl3 = [
         "id": "pl3-114",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -7982,6 +8096,7 @@ let pl3 = [
         "id": "pl3-115",
         "name": "Mime Jr.",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8045,6 +8160,7 @@ let pl3 = [
         "id": "pl3-116",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8114,6 +8230,7 @@ let pl3 = [
         "id": "pl3-117",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8182,6 +8299,7 @@ let pl3 = [
         "id": "pl3-118",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8253,6 +8371,7 @@ let pl3 = [
         "id": "pl3-119",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8321,6 +8440,7 @@ let pl3 = [
         "id": "pl3-120",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8396,6 +8516,7 @@ let pl3 = [
         "id": "pl3-121",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8465,6 +8586,7 @@ let pl3 = [
         "id": "pl3-122",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8542,6 +8664,7 @@ let pl3 = [
         "id": "pl3-123",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8611,6 +8734,7 @@ let pl3 = [
         "id": "pl3-124",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8676,6 +8800,7 @@ let pl3 = [
         "id": "pl3-125",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8745,6 +8870,7 @@ let pl3 = [
         "id": "pl3-126",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8811,6 +8937,7 @@ let pl3 = [
         "id": "pl3-127",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8886,6 +9013,7 @@ let pl3 = [
         "id": "pl3-128",
         "name": "Skorupi",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -8957,6 +9085,7 @@ let pl3 = [
         "id": "pl3-129",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9023,6 +9152,7 @@ let pl3 = [
         "id": "pl3-130",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9082,6 +9212,7 @@ let pl3 = [
         "id": "pl3-131",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9158,6 +9289,7 @@ let pl3 = [
         "id": "pl3-132",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9227,6 +9359,7 @@ let pl3 = [
         "id": "pl3-133",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -9292,6 +9425,7 @@ let pl3 = [
         "id": "pl3-134",
         "name": "Battle Tower",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stadium"
         ],
@@ -9326,6 +9460,7 @@ let pl3 = [
         "id": "pl3-135",
         "name": "Champion's Room",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stadium"
         ],
@@ -9360,6 +9495,7 @@ let pl3 = [
         "id": "pl3-136",
         "name": "Cynthia's Guidance",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Supporter"
         ],
@@ -9394,6 +9530,7 @@ let pl3 = [
         "id": "pl3-137",
         "name": "Cyrus's Initiative",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Supporter"
         ],
@@ -9428,6 +9565,7 @@ let pl3 = [
         "id": "pl3-138",
         "name": "Night Teleporter",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Item"
         ],
@@ -9461,6 +9599,7 @@ let pl3 = [
         "id": "pl3-139",
         "name": "Palmer's Contribution",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Supporter"
         ],
@@ -9495,6 +9634,7 @@ let pl3 = [
         "id": "pl3-140",
         "name": "VS Seeker",
         "supertype": "Trainer",
+        "setAbbrev": "SV",
         "subtypes": [
             "Item"
         ],
@@ -9528,6 +9668,7 @@ let pl3 = [
         "id": "pl3-141",
         "name": "Absol G LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -9602,6 +9743,7 @@ let pl3 = [
         "id": "pl3-142",
         "name": "Blaziken FB LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -9670,6 +9812,7 @@ let pl3 = [
         "id": "pl3-143",
         "name": "Charizard G LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -9747,6 +9890,7 @@ let pl3 = [
         "id": "pl3-144",
         "name": "Electivire FB LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -9822,6 +9966,7 @@ let pl3 = [
         "id": "pl3-145",
         "name": "Garchomp C LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -9890,6 +10035,7 @@ let pl3 = [
         "id": "pl3-146",
         "name": "Rayquaza C LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -9966,6 +10112,7 @@ let pl3 = [
         "id": "pl3-147",
         "name": "Staraptor FB LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -10040,6 +10187,7 @@ let pl3 = [
         "id": "pl3-148",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -10098,6 +10246,7 @@ let pl3 = [
         "id": "pl3-149",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -10156,6 +10305,7 @@ let pl3 = [
         "id": "pl3-150",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -10214,6 +10364,7 @@ let pl3 = [
         "id": "pl3-SH7",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Stage 1"
         ],
@@ -10280,6 +10431,7 @@ let pl3 = [
         "id": "pl3-SH8",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],
@@ -10348,6 +10500,7 @@ let pl3 = [
         "id": "pl3-SH9",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "SV",
         "subtypes": [
             "Basic"
         ],

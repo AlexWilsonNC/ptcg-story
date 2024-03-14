@@ -3,6 +3,7 @@ let ex10 = [
         "id": "ex10-1",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 2"
         ],
@@ -74,6 +75,7 @@ let ex10 = [
         "id": "ex10-2",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -139,6 +141,7 @@ let ex10 = [
         "id": "ex10-3",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 2"
         ],
@@ -212,6 +215,7 @@ let ex10 = [
         "id": "ex10-4",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 2"
         ],
@@ -287,6 +291,7 @@ let ex10 = [
         "id": "ex10-5",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -354,6 +359,7 @@ let ex10 = [
         "id": "ex10-6",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -429,6 +435,7 @@ let ex10 = [
         "id": "ex10-7",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -504,6 +511,7 @@ let ex10 = [
         "id": "ex10-8",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -576,6 +584,7 @@ let ex10 = [
         "id": "ex10-9",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 2"
         ],
@@ -647,6 +656,7 @@ let ex10 = [
         "id": "ex10-10",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -720,6 +730,7 @@ let ex10 = [
         "id": "ex10-11",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 2"
         ],
@@ -795,6 +806,7 @@ let ex10 = [
         "id": "ex10-12",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -872,6 +884,7 @@ let ex10 = [
         "id": "ex10-13",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -946,6 +959,7 @@ let ex10 = [
         "id": "ex10-14",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1010,6 +1024,7 @@ let ex10 = [
         "id": "ex10-15",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -1076,6 +1091,7 @@ let ex10 = [
         "id": "ex10-16",
         "name": "Sunflora",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1148,6 +1164,7 @@ let ex10 = [
         "id": "ex10-17",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1222,6 +1239,7 @@ let ex10 = [
         "id": "ex10-18",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1297,6 +1315,7 @@ let ex10 = [
         "id": "ex10-19",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1364,6 +1383,7 @@ let ex10 = [
         "id": "ex10-20",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -1432,6 +1452,7 @@ let ex10 = [
         "id": "ex10-21",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -1497,6 +1518,7 @@ let ex10 = [
         "id": "ex10-22",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -1575,6 +1597,7 @@ let ex10 = [
         "id": "ex10-23",
         "name": "Elekid",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -1640,6 +1663,7 @@ let ex10 = [
         "id": "ex10-24",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -1714,6 +1738,7 @@ let ex10 = [
         "id": "ex10-25",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -1787,6 +1812,7 @@ let ex10 = [
         "id": "ex10-26",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -1862,6 +1888,7 @@ let ex10 = [
         "id": "ex10-27",
         "name": "Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -1930,6 +1957,7 @@ let ex10 = [
         "id": "ex10-28",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -2003,6 +2031,7 @@ let ex10 = [
         "id": "ex10-29",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -2060,6 +2089,7 @@ let ex10 = [
         "id": "ex10-30",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -2134,6 +2164,7 @@ let ex10 = [
         "id": "ex10-31",
         "name": "Smoochum",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -2199,6 +2230,7 @@ let ex10 = [
         "id": "ex10-32",
         "name": "Stantler",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -2264,6 +2296,7 @@ let ex10 = [
         "id": "ex10-33",
         "name": "Tyrogue",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -2331,6 +2364,7 @@ let ex10 = [
         "id": "ex10-34",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -2396,6 +2430,7 @@ let ex10 = [
         "id": "ex10-35",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2472,6 +2507,7 @@ let ex10 = [
         "id": "ex10-36",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2538,6 +2574,7 @@ let ex10 = [
         "id": "ex10-37",
         "name": "Corsola",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -2605,6 +2642,7 @@ let ex10 = [
         "id": "ex10-38",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2676,6 +2714,7 @@ let ex10 = [
         "id": "ex10-39",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2752,6 +2791,7 @@ let ex10 = [
         "id": "ex10-40",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2819,6 +2859,7 @@ let ex10 = [
         "id": "ex10-41",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2894,6 +2935,7 @@ let ex10 = [
         "id": "ex10-42",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -2966,6 +3008,7 @@ let ex10 = [
         "id": "ex10-43",
         "name": "Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3038,6 +3081,7 @@ let ex10 = [
         "id": "ex10-44",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3112,6 +3156,7 @@ let ex10 = [
         "id": "ex10-45",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3183,6 +3228,7 @@ let ex10 = [
         "id": "ex10-46",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -3251,6 +3297,7 @@ let ex10 = [
         "id": "ex10-47",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -3314,6 +3361,7 @@ let ex10 = [
         "id": "ex10-48",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -3376,6 +3424,7 @@ let ex10 = [
         "id": "ex10-49",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3444,6 +3493,7 @@ let ex10 = [
         "id": "ex10-50",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -3512,6 +3562,7 @@ let ex10 = [
         "id": "ex10-51",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -3586,6 +3637,7 @@ let ex10 = [
         "id": "ex10-52",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -3653,6 +3705,7 @@ let ex10 = [
         "id": "ex10-53",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -3721,6 +3774,7 @@ let ex10 = [
         "id": "ex10-54",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -3789,6 +3843,7 @@ let ex10 = [
         "id": "ex10-55",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -3861,6 +3916,7 @@ let ex10 = [
         "id": "ex10-56",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3937,6 +3993,7 @@ let ex10 = [
         "id": "ex10-57",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4002,6 +4059,7 @@ let ex10 = [
         "id": "ex10-58",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4063,6 +4121,7 @@ let ex10 = [
         "id": "ex10-59",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4137,6 +4196,7 @@ let ex10 = [
         "id": "ex10-60",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4195,6 +4255,7 @@ let ex10 = [
         "id": "ex10-61",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4263,6 +4324,7 @@ let ex10 = [
         "id": "ex10-62",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4327,6 +4389,7 @@ let ex10 = [
         "id": "ex10-63",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4385,6 +4448,7 @@ let ex10 = [
         "id": "ex10-64",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4443,6 +4507,7 @@ let ex10 = [
         "id": "ex10-65",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4511,6 +4576,7 @@ let ex10 = [
         "id": "ex10-66",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4569,6 +4635,7 @@ let ex10 = [
         "id": "ex10-67",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4636,6 +4703,7 @@ let ex10 = [
         "id": "ex10-68",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4697,6 +4765,7 @@ let ex10 = [
         "id": "ex10-69",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4755,6 +4824,7 @@ let ex10 = [
         "id": "ex10-70",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4825,6 +4895,7 @@ let ex10 = [
         "id": "ex10-71",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4892,6 +4963,7 @@ let ex10 = [
         "id": "ex10-72",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -4961,6 +5033,7 @@ let ex10 = [
         "id": "ex10-73",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -5028,6 +5101,7 @@ let ex10 = [
         "id": "ex10-74",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -5086,6 +5160,7 @@ let ex10 = [
         "id": "ex10-75",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -5154,6 +5229,7 @@ let ex10 = [
         "id": "ex10-76",
         "name": "Sunkern",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -5228,6 +5304,7 @@ let ex10 = [
         "id": "ex10-77",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -5295,6 +5372,7 @@ let ex10 = [
         "id": "ex10-78",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -5353,6 +5431,7 @@ let ex10 = [
         "id": "ex10-79",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -5421,6 +5500,7 @@ let ex10 = [
         "id": "ex10-80",
         "name": "Curse Powder",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5455,6 +5535,7 @@ let ex10 = [
         "id": "ex10-81",
         "name": "Energy Recycle System",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Item"
         ],
@@ -5488,6 +5569,7 @@ let ex10 = [
         "id": "ex10-82",
         "name": "Energy Removal 2",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Item"
         ],
@@ -5521,6 +5603,7 @@ let ex10 = [
         "id": "ex10-83",
         "name": "Energy Root",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5555,6 +5638,7 @@ let ex10 = [
         "id": "ex10-84",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Item"
         ],
@@ -5588,6 +5672,7 @@ let ex10 = [
         "id": "ex10-85",
         "name": "Fluffy Berry",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5622,6 +5707,7 @@ let ex10 = [
         "id": "ex10-86",
         "name": "Mary's Request",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Supporter"
         ],
@@ -5656,6 +5742,7 @@ let ex10 = [
         "id": "ex10-87",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Item"
         ],
@@ -5689,6 +5776,7 @@ let ex10 = [
         "id": "ex10-88",
         "name": "Pokémon Reversal",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Item"
         ],
@@ -5722,6 +5810,7 @@ let ex10 = [
         "id": "ex10-89",
         "name": "Professor Elm's Training Method",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Supporter"
         ],
@@ -5756,6 +5845,7 @@ let ex10 = [
         "id": "ex10-90",
         "name": "Protective Orb",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5790,6 +5880,7 @@ let ex10 = [
         "id": "ex10-91",
         "name": "Sitrus Berry",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5824,6 +5915,7 @@ let ex10 = [
         "id": "ex10-92",
         "name": "Solid Rage",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5858,6 +5950,7 @@ let ex10 = [
         "id": "ex10-93",
         "name": "Warp Point",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Item"
         ],
@@ -5891,6 +5984,7 @@ let ex10 = [
         "id": "ex10-94",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Item"
         ],
@@ -5924,6 +6018,7 @@ let ex10 = [
         "id": "ex10-95",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "UF",
         "subtypes": [
             "Item"
         ],
@@ -5957,6 +6052,7 @@ let ex10 = [
         "id": "ex10-96",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "UF",
         "subtypes": [
             "Special"
         ],
@@ -5990,6 +6086,7 @@ let ex10 = [
         "id": "ex10-97",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "UF",
         "subtypes": [
             "Special"
         ],
@@ -6023,6 +6120,7 @@ let ex10 = [
         "id": "ex10-98",
         "name": "Boost Energy",
         "supertype": "Energy",
+        "setAbbrev": "UF",
         "subtypes": [
             "Special"
         ],
@@ -6056,6 +6154,7 @@ let ex10 = [
         "id": "ex10-99",
         "name": "Cyclone Energy",
         "supertype": "Energy",
+        "setAbbrev": "UF",
         "subtypes": [
             "Special"
         ],
@@ -6089,6 +6188,7 @@ let ex10 = [
         "id": "ex10-100",
         "name": "Warp Energy",
         "supertype": "Energy",
+        "setAbbrev": "UF",
         "subtypes": [
             "Special"
         ],
@@ -6122,6 +6222,7 @@ let ex10 = [
         "id": "ex10-101",
         "name": "Blissey ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6201,6 +6302,7 @@ let ex10 = [
         "id": "ex10-102",
         "name": "Espeon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6279,6 +6381,7 @@ let ex10 = [
         "id": "ex10-103",
         "name": "Feraligatr ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6359,6 +6462,7 @@ let ex10 = [
         "id": "ex10-104",
         "name": "Ho-Oh ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic",
             "EX"
@@ -6427,6 +6531,7 @@ let ex10 = [
         "id": "ex10-105",
         "name": "Lugia ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic",
             "EX"
@@ -6501,6 +6606,7 @@ let ex10 = [
         "id": "ex10-106",
         "name": "Meganium ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6593,6 +6699,7 @@ let ex10 = [
         "id": "ex10-107",
         "name": "Politoed ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6677,6 +6784,7 @@ let ex10 = [
         "id": "ex10-108",
         "name": "Scizor ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6762,6 +6870,7 @@ let ex10 = [
         "id": "ex10-109",
         "name": "Steelix ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6857,6 +6966,7 @@ let ex10 = [
         "id": "ex10-110",
         "name": "Typhlosion ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6931,6 +7041,7 @@ let ex10 = [
         "id": "ex10-111",
         "name": "Tyranitar ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -7034,6 +7145,7 @@ let ex10 = [
         "id": "ex10-112",
         "name": "Umbreon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -7118,6 +7230,7 @@ let ex10 = [
         "id": "ex10-113",
         "name": "Entei ★",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic",
             "Star"
@@ -7189,6 +7302,7 @@ let ex10 = [
         "id": "ex10-114",
         "name": "Raikou ★",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic",
             "Star"
@@ -7260,6 +7374,7 @@ let ex10 = [
         "id": "ex10-115",
         "name": "Suicune ★",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic",
             "Star"
@@ -7331,6 +7446,7 @@ let ex10 = [
         "id": "ex10-116",
         "name": "Rocket's Persian ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -7400,6 +7516,7 @@ let ex10 = [
         "id": "ex10-117",
         "name": "Celebi ex",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic",
             "EX"
@@ -7469,6 +7586,7 @@ let ex10 = [
         "id": "ex10-A",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -7532,6 +7650,7 @@ let ex10 = [
         "id": "ex10-B",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -7596,6 +7715,7 @@ let ex10 = [
         "id": "ex10-C",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -7658,6 +7778,7 @@ let ex10 = [
         "id": "ex10-D",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -7720,6 +7841,7 @@ let ex10 = [
         "id": "ex10-E",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -7782,6 +7904,7 @@ let ex10 = [
         "id": "ex10-F",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -7845,6 +7968,7 @@ let ex10 = [
         "id": "ex10-G",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -7908,6 +8032,7 @@ let ex10 = [
         "id": "ex10-H",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -7970,6 +8095,7 @@ let ex10 = [
         "id": "ex10-I",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8033,6 +8159,7 @@ let ex10 = [
         "id": "ex10-J",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8095,6 +8222,7 @@ let ex10 = [
         "id": "ex10-K",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8158,6 +8286,7 @@ let ex10 = [
         "id": "ex10-L",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8221,6 +8350,7 @@ let ex10 = [
         "id": "ex10-M",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8283,6 +8413,7 @@ let ex10 = [
         "id": "ex10-N",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8345,6 +8476,7 @@ let ex10 = [
         "id": "ex10-O",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8408,6 +8540,7 @@ let ex10 = [
         "id": "ex10-P",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8471,6 +8604,7 @@ let ex10 = [
         "id": "ex10-Q",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8533,6 +8667,7 @@ let ex10 = [
         "id": "ex10-R",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8596,6 +8731,7 @@ let ex10 = [
         "id": "ex10-S",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8659,6 +8795,7 @@ let ex10 = [
         "id": "ex10-T",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8722,6 +8859,7 @@ let ex10 = [
         "id": "ex10-U",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8785,6 +8923,7 @@ let ex10 = [
         "id": "ex10-V",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8849,6 +8988,7 @@ let ex10 = [
         "id": "ex10-W",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8912,6 +9052,7 @@ let ex10 = [
         "id": "ex10-X",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -8975,6 +9116,7 @@ let ex10 = [
         "id": "ex10-Y",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -9037,6 +9179,7 @@ let ex10 = [
         "id": "ex10-Z",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -9099,6 +9242,7 @@ let ex10 = [
         "id": "ex10-!",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],
@@ -9161,6 +9305,7 @@ let ex10 = [
         "id": "ex10-?",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UF",
         "subtypes": [
             "Basic"
         ],

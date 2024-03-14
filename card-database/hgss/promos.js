@@ -3,6 +3,7 @@ let hsp = [
         "id": "hsp-HGSS01",
         "name": "Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -77,6 +78,7 @@ let hsp = [
         "id": "hsp-HGSS02",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -151,6 +153,7 @@ let hsp = [
         "id": "hsp-HGSS03",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -228,6 +231,7 @@ let hsp = [
         "id": "hsp-HGSS04",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -292,6 +296,7 @@ let hsp = [
         "id": "hsp-HGSS05",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -364,6 +369,7 @@ let hsp = [
         "id": "hsp-HGSS06",
         "name": "Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -436,6 +442,7 @@ let hsp = [
         "id": "hsp-HGSS07",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -503,6 +510,7 @@ let hsp = [
         "id": "hsp-HGSS08",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -576,6 +584,7 @@ let hsp = [
         "id": "hsp-HGSS09",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -642,6 +651,7 @@ let hsp = [
         "id": "hsp-HGSS10",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -709,6 +719,7 @@ let hsp = [
         "id": "hsp-HGSS11",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -775,6 +786,7 @@ let hsp = [
         "id": "hsp-HGSS12",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -832,6 +844,7 @@ let hsp = [
         "id": "hsp-HGSS13",
         "name": "Smoochum",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -889,6 +902,7 @@ let hsp = [
         "id": "hsp-HGSS14",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -956,6 +970,7 @@ let hsp = [
         "id": "hsp-HGSS15",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1020,6 +1035,7 @@ let hsp = [
         "id": "hsp-HGSS16",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1091,6 +1107,7 @@ let hsp = [
         "id": "hsp-HGSS17",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1162,6 +1179,7 @@ let hsp = [
         "id": "hsp-HGSS18",
         "name": "Tropical Tidal Wave",
         "supertype": "Trainer",
+        "setAbbrev": "PR-HS",
         "rules": [
             "Flip a coin. If heads, discard all Trainer and Stadium cards your opponent has in play. If tails, discard all Trainer and Stadium cards you have in play."
         ],
@@ -1192,6 +1210,7 @@ let hsp = [
         "id": "hsp-HGSS19",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1256,6 +1275,7 @@ let hsp = [
         "id": "hsp-HGSS20",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1314,6 +1334,7 @@ let hsp = [
         "id": "hsp-HGSS21",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1372,6 +1393,7 @@ let hsp = [
         "id": "hsp-HGSS22",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1441,6 +1463,7 @@ let hsp = [
         "id": "hsp-HGSS23",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1510,6 +1533,7 @@ let hsp = [
         "id": "hsp-HGSS24",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],
@@ -1576,6 +1600,7 @@ let hsp = [
         "id": "hsp-HGSS25",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-HS",
         "subtypes": [
             "Basic"
         ],

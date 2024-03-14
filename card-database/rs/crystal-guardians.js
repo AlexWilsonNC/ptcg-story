@@ -3,6 +3,7 @@ let ex14 = [
         "id": "ex14-1",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -73,6 +74,7 @@ let ex14 = [
         "id": "ex14-2",
         "name": "Blastoise δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -152,6 +154,7 @@ let ex14 = [
         "id": "ex14-3",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -227,6 +230,7 @@ let ex14 = [
         "id": "ex14-4",
         "name": "Charizard δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -297,6 +301,7 @@ let ex14 = [
         "id": "ex14-5",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -372,6 +377,7 @@ let ex14 = [
         "id": "ex14-6",
         "name": "Ludicolo δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -447,6 +453,7 @@ let ex14 = [
         "id": "ex14-7",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -511,6 +518,7 @@ let ex14 = [
         "id": "ex14-8",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -585,6 +593,7 @@ let ex14 = [
         "id": "ex14-9",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -656,6 +665,7 @@ let ex14 = [
         "id": "ex14-10",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -718,6 +728,7 @@ let ex14 = [
         "id": "ex14-11",
         "name": "Swalot",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -786,6 +797,7 @@ let ex14 = [
         "id": "ex14-12",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -858,6 +870,7 @@ let ex14 = [
         "id": "ex14-13",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -931,6 +944,7 @@ let ex14 = [
         "id": "ex14-14",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -996,6 +1010,7 @@ let ex14 = [
         "id": "ex14-15",
         "name": "Cacturne δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1070,6 +1085,7 @@ let ex14 = [
         "id": "ex14-16",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1139,6 +1155,7 @@ let ex14 = [
         "id": "ex14-17",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1223,6 +1240,7 @@ let ex14 = [
         "id": "ex14-18",
         "name": "Fearow δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1293,6 +1311,7 @@ let ex14 = [
         "id": "ex14-19",
         "name": "Grovyle δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1370,6 +1389,7 @@ let ex14 = [
         "id": "ex14-20",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1435,6 +1455,7 @@ let ex14 = [
         "id": "ex14-21",
         "name": "Igglybuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -1489,6 +1510,7 @@ let ex14 = [
         "id": "ex14-22",
         "name": "Kingler δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1561,6 +1583,7 @@ let ex14 = [
         "id": "ex14-23",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1632,6 +1655,7 @@ let ex14 = [
         "id": "ex14-24",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1702,6 +1726,7 @@ let ex14 = [
         "id": "ex14-25",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1777,6 +1802,7 @@ let ex14 = [
         "id": "ex14-26",
         "name": "Pelipper δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1858,6 +1884,7 @@ let ex14 = [
         "id": "ex14-27",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -1923,6 +1950,7 @@ let ex14 = [
         "id": "ex14-28",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2"
         ],
@@ -1998,6 +2026,7 @@ let ex14 = [
         "id": "ex14-29",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2069,6 +2098,7 @@ let ex14 = [
         "id": "ex14-30",
         "name": "Charmeleon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2140,6 +2170,7 @@ let ex14 = [
         "id": "ex14-31",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2211,6 +2242,7 @@ let ex14 = [
         "id": "ex14-32",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2287,6 +2319,7 @@ let ex14 = [
         "id": "ex14-33",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -2356,6 +2389,7 @@ let ex14 = [
         "id": "ex14-34",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2427,6 +2461,7 @@ let ex14 = [
         "id": "ex14-35",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2498,6 +2533,7 @@ let ex14 = [
         "id": "ex14-36",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2574,6 +2610,7 @@ let ex14 = [
         "id": "ex14-37",
         "name": "Lombre",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2645,6 +2682,7 @@ let ex14 = [
         "id": "ex14-38",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2716,6 +2754,7 @@ let ex14 = [
         "id": "ex14-39",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2792,6 +2831,7 @@ let ex14 = [
         "id": "ex14-40",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -2866,6 +2906,7 @@ let ex14 = [
         "id": "ex14-41",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -2934,6 +2975,7 @@ let ex14 = [
         "id": "ex14-42",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -3005,6 +3047,7 @@ let ex14 = [
         "id": "ex14-43",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1"
         ],
@@ -3075,6 +3118,7 @@ let ex14 = [
         "id": "ex14-44",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3139,6 +3183,7 @@ let ex14 = [
         "id": "ex14-45",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3206,6 +3251,7 @@ let ex14 = [
         "id": "ex14-46",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3274,6 +3320,7 @@ let ex14 = [
         "id": "ex14-47",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3342,6 +3389,7 @@ let ex14 = [
         "id": "ex14-48",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3410,6 +3458,7 @@ let ex14 = [
         "id": "ex14-49",
         "name": "Charmander δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3478,6 +3527,7 @@ let ex14 = [
         "id": "ex14-50",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3546,6 +3596,7 @@ let ex14 = [
         "id": "ex14-51",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3619,6 +3670,7 @@ let ex14 = [
         "id": "ex14-52",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3692,6 +3744,7 @@ let ex14 = [
         "id": "ex14-53",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3750,6 +3803,7 @@ let ex14 = [
         "id": "ex14-54",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3808,6 +3862,7 @@ let ex14 = [
         "id": "ex14-55",
         "name": "Lotad",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3874,6 +3929,7 @@ let ex14 = [
         "id": "ex14-56",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -3942,6 +3998,7 @@ let ex14 = [
         "id": "ex14-57",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4007,6 +4064,7 @@ let ex14 = [
         "id": "ex14-58",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4075,6 +4133,7 @@ let ex14 = [
         "id": "ex14-59",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4134,6 +4193,7 @@ let ex14 = [
         "id": "ex14-60",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4192,6 +4252,7 @@ let ex14 = [
         "id": "ex14-61",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4256,6 +4317,7 @@ let ex14 = [
         "id": "ex14-62",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4324,6 +4386,7 @@ let ex14 = [
         "id": "ex14-63",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4393,6 +4456,7 @@ let ex14 = [
         "id": "ex14-64",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4458,6 +4522,7 @@ let ex14 = [
         "id": "ex14-65",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4516,6 +4581,7 @@ let ex14 = [
         "id": "ex14-66",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4574,6 +4640,7 @@ let ex14 = [
         "id": "ex14-67",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4648,6 +4715,7 @@ let ex14 = [
         "id": "ex14-68",
         "name": "Treecko δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4721,6 +4789,7 @@ let ex14 = [
         "id": "ex14-69",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4790,6 +4859,7 @@ let ex14 = [
         "id": "ex14-70",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic"
         ],
@@ -4854,6 +4924,7 @@ let ex14 = [
         "id": "ex14-71",
         "name": "Bill's Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Supporter"
         ],
@@ -4888,6 +4959,7 @@ let ex14 = [
         "id": "ex14-72",
         "name": "Castaway",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Supporter"
         ],
@@ -4922,6 +4994,7 @@ let ex14 = [
         "id": "ex14-73",
         "name": "Celio's Network",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Supporter"
         ],
@@ -4956,6 +5029,7 @@ let ex14 = [
         "id": "ex14-74",
         "name": "Cessation Crystal",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -4990,6 +5064,7 @@ let ex14 = [
         "id": "ex14-75",
         "name": "Crystal Beach",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stadium"
         ],
@@ -5024,6 +5099,7 @@ let ex14 = [
         "id": "ex14-76",
         "name": "Crystal Shard",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5058,6 +5134,7 @@ let ex14 = [
         "id": "ex14-77",
         "name": "Double Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5091,6 +5168,7 @@ let ex14 = [
         "id": "ex14-78",
         "name": "Dual Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5124,6 +5202,7 @@ let ex14 = [
         "id": "ex14-79",
         "name": "Holon Circle",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stadium"
         ],
@@ -5158,6 +5237,7 @@ let ex14 = [
         "id": "ex14-80",
         "name": "Memory Berry",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5192,6 +5272,7 @@ let ex14 = [
         "id": "ex14-81",
         "name": "Mysterious Shard",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5226,6 +5307,7 @@ let ex14 = [
         "id": "ex14-82",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5259,6 +5341,7 @@ let ex14 = [
         "id": "ex14-83",
         "name": "PokéNav",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5292,6 +5375,7 @@ let ex14 = [
         "id": "ex14-84",
         "name": "Warp Point",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5325,6 +5409,7 @@ let ex14 = [
         "id": "ex14-85",
         "name": "Windstorm",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5358,6 +5443,7 @@ let ex14 = [
         "id": "ex14-86",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5391,6 +5477,7 @@ let ex14 = [
         "id": "ex14-87",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "CG",
         "subtypes": [
             "Item"
         ],
@@ -5424,6 +5511,7 @@ let ex14 = [
         "id": "ex14-88",
         "name": "Double Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "CG",
         "subtypes": [
             "Special"
         ],
@@ -5457,6 +5545,7 @@ let ex14 = [
         "id": "ex14-89",
         "name": "Aggron ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5544,6 +5633,7 @@ let ex14 = [
         "id": "ex14-90",
         "name": "Blaziken ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5617,6 +5707,7 @@ let ex14 = [
         "id": "ex14-91",
         "name": "Delcatty ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -5694,6 +5785,7 @@ let ex14 = [
         "id": "ex14-92",
         "name": "Exploud ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5773,6 +5865,7 @@ let ex14 = [
         "id": "ex14-93",
         "name": "Groudon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic",
             "EX"
@@ -5841,6 +5934,7 @@ let ex14 = [
         "id": "ex14-94",
         "name": "Jirachi ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic",
             "EX"
@@ -5913,6 +6007,7 @@ let ex14 = [
         "id": "ex14-95",
         "name": "Kyogre ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic",
             "EX"
@@ -5981,6 +6076,7 @@ let ex14 = [
         "id": "ex14-96",
         "name": "Sceptile ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6055,6 +6151,7 @@ let ex14 = [
         "id": "ex14-97",
         "name": "Shiftry ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6139,6 +6236,7 @@ let ex14 = [
         "id": "ex14-98",
         "name": "Swampert ex",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6208,6 +6306,7 @@ let ex14 = [
         "id": "ex14-99",
         "name": "Alakazam ★",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic",
             "Star"
@@ -6278,6 +6377,7 @@ let ex14 = [
         "id": "ex14-100",
         "name": "Celebi ★",
         "supertype": "Pokémon",
+        "setAbbrev": "CG",
         "subtypes": [
             "Basic",
             "Star"

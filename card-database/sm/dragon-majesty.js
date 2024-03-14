@@ -3,6 +3,7 @@ let sm75 = [
         "id": "sm75-1",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -63,6 +64,7 @@ let sm75 = [
         "id": "sm75-2",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -132,6 +134,7 @@ let sm75 = [
         "id": "sm75-3",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2"
         ],
@@ -198,6 +201,7 @@ let sm75 = [
         "id": "sm75-4",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -257,6 +261,7 @@ let sm75 = [
         "id": "sm75-5",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -325,6 +330,7 @@ let sm75 = [
         "id": "sm75-6",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2"
         ],
@@ -391,6 +397,7 @@ let sm75 = [
         "id": "sm75-7",
         "name": "Victini ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -452,6 +459,7 @@ let sm75 = [
         "id": "sm75-8",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -512,6 +520,7 @@ let sm75 = [
         "id": "sm75-9",
         "name": "Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -580,6 +589,7 @@ let sm75 = [
         "id": "sm75-10",
         "name": "Heatmor",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -646,6 +656,7 @@ let sm75 = [
         "id": "sm75-11",
         "name": "Reshiram-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic",
             "GX"
@@ -729,6 +740,7 @@ let sm75 = [
         "id": "sm75-12",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -788,6 +800,7 @@ let sm75 = [
         "id": "sm75-13",
         "name": "Salandit",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -857,6 +870,7 @@ let sm75 = [
         "id": "sm75-14",
         "name": "Salazzle",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -924,6 +938,7 @@ let sm75 = [
         "id": "sm75-15",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -983,6 +998,7 @@ let sm75 = [
         "id": "sm75-16",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -1042,6 +1058,7 @@ let sm75 = [
         "id": "sm75-17",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1102,6 +1119,7 @@ let sm75 = [
         "id": "sm75-18",
         "name": "Kingdra-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1180,6 +1198,7 @@ let sm75 = [
         "id": "sm75-19",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -1239,6 +1258,7 @@ let sm75 = [
         "id": "sm75-20",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1305,6 +1325,7 @@ let sm75 = [
         "id": "sm75-21",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -1372,6 +1393,7 @@ let sm75 = [
         "id": "sm75-22",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -1440,6 +1462,7 @@ let sm75 = [
         "id": "sm75-23",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1512,6 +1535,7 @@ let sm75 = [
         "id": "sm75-24",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1577,6 +1601,7 @@ let sm75 = [
         "id": "sm75-25",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -1646,6 +1671,7 @@ let sm75 = [
         "id": "sm75-26",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1712,6 +1738,7 @@ let sm75 = [
         "id": "sm75-27",
         "name": "Corsola",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -1771,6 +1798,7 @@ let sm75 = [
         "id": "sm75-28",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -1837,6 +1865,7 @@ let sm75 = [
         "id": "sm75-29",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1905,6 +1934,7 @@ let sm75 = [
         "id": "sm75-30",
         "name": "Phione",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -1969,6 +1999,7 @@ let sm75 = [
         "id": "sm75-31",
         "name": "Wishiwashi",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -2032,6 +2063,7 @@ let sm75 = [
         "id": "sm75-32",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -2091,6 +2123,7 @@ let sm75 = [
         "id": "sm75-33",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2"
         ],
@@ -2163,6 +2196,7 @@ let sm75 = [
         "id": "sm75-34",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -2222,6 +2256,7 @@ let sm75 = [
         "id": "sm75-35",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -2282,6 +2317,7 @@ let sm75 = [
         "id": "sm75-36",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2356,6 +2392,7 @@ let sm75 = [
         "id": "sm75-37",
         "name": "Dragonite-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -2439,6 +2476,7 @@ let sm75 = [
         "id": "sm75-38",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2500,6 +2538,7 @@ let sm75 = [
         "id": "sm75-39",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2"
         ],
@@ -2566,6 +2605,7 @@ let sm75 = [
         "id": "sm75-40",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2631,6 +2671,7 @@ let sm75 = [
         "id": "sm75-40a",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2696,6 +2737,7 @@ let sm75 = [
         "id": "sm75-41",
         "name": "Altaria-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2778,6 +2820,7 @@ let sm75 = [
         "id": "sm75-42",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -2847,6 +2890,7 @@ let sm75 = [
         "id": "sm75-43",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2915,6 +2959,7 @@ let sm75 = [
         "id": "sm75-44",
         "name": "Salamence-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -2996,6 +3041,7 @@ let sm75 = [
         "id": "sm75-45",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -3061,6 +3107,7 @@ let sm75 = [
         "id": "sm75-46",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -3131,6 +3178,7 @@ let sm75 = [
         "id": "sm75-47",
         "name": "Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -3199,6 +3247,7 @@ let sm75 = [
         "id": "sm75-48",
         "name": "White Kyurem-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic",
             "GX"
@@ -3281,6 +3330,7 @@ let sm75 = [
         "id": "sm75-49",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -3348,6 +3398,7 @@ let sm75 = [
         "id": "sm75-50",
         "name": "Turtonator",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -3406,6 +3457,7 @@ let sm75 = [
         "id": "sm75-51",
         "name": "Drampa",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -3473,6 +3525,7 @@ let sm75 = [
         "id": "sm75-52",
         "name": "Jangmo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -3542,6 +3595,7 @@ let sm75 = [
         "id": "sm75-53",
         "name": "Hakamo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3614,6 +3668,7 @@ let sm75 = [
         "id": "sm75-54",
         "name": "Kommo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2"
         ],
@@ -3683,6 +3738,7 @@ let sm75 = [
         "id": "sm75-55",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -3760,6 +3816,7 @@ let sm75 = [
         "id": "sm75-56",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -3835,6 +3892,7 @@ let sm75 = [
         "id": "sm75-57",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic"
         ],
@@ -3900,6 +3958,7 @@ let sm75 = [
         "id": "sm75-58",
         "name": "Blaine's Last Stand",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Supporter"
         ],
@@ -3935,6 +3994,7 @@ let sm75 = [
         "id": "sm75-59",
         "name": "Dragon Talon",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -3970,6 +4030,7 @@ let sm75 = [
         "id": "sm75-60",
         "name": "Fiery Flint",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Item"
         ],
@@ -4005,6 +4066,7 @@ let sm75 = [
         "id": "sm75-60a",
         "name": "Fiery Flint",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Item"
         ],
@@ -4040,6 +4102,7 @@ let sm75 = [
         "id": "sm75-61",
         "name": "Lance ◇",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Supporter",
             "Prism Star"
@@ -4077,6 +4140,7 @@ let sm75 = [
         "id": "sm75-62",
         "name": "Switch Raft",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Item"
         ],
@@ -4111,6 +4175,7 @@ let sm75 = [
         "id": "sm75-63",
         "name": "Wela Volcano Park",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stadium"
         ],
@@ -4145,6 +4210,7 @@ let sm75 = [
         "id": "sm75-64",
         "name": "Zinnia",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Supporter"
         ],
@@ -4180,6 +4246,7 @@ let sm75 = [
         "id": "sm75-65",
         "name": "Reshiram-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic",
             "GX"
@@ -4263,6 +4330,7 @@ let sm75 = [
         "id": "sm75-66",
         "name": "Kingdra-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -4341,6 +4409,7 @@ let sm75 = [
         "id": "sm75-67",
         "name": "Dragonite-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -4424,6 +4493,7 @@ let sm75 = [
         "id": "sm75-68",
         "name": "Altaria-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -4506,6 +4576,7 @@ let sm75 = [
         "id": "sm75-69",
         "name": "Blaine's Last Stand",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Supporter"
         ],
@@ -4541,6 +4612,7 @@ let sm75 = [
         "id": "sm75-70",
         "name": "Zinnia",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Supporter"
         ],
@@ -4576,6 +4648,7 @@ let sm75 = [
         "id": "sm75-71",
         "name": "Reshiram-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic",
             "GX"
@@ -4659,6 +4732,7 @@ let sm75 = [
         "id": "sm75-72",
         "name": "Altaria-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -4741,6 +4815,7 @@ let sm75 = [
         "id": "sm75-73",
         "name": "Salamence-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -4822,6 +4897,7 @@ let sm75 = [
         "id": "sm75-74",
         "name": "White Kyurem-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic",
             "GX"
@@ -4904,6 +4980,7 @@ let sm75 = [
         "id": "sm75-75",
         "name": "Dragon Talon",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -4939,6 +5016,7 @@ let sm75 = [
         "id": "sm75-76",
         "name": "Fiery Flint",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Item"
         ],
@@ -4974,6 +5052,7 @@ let sm75 = [
         "id": "sm75-77",
         "name": "Switch Raft",
         "supertype": "Trainer",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Item"
         ],
@@ -5008,6 +5087,7 @@ let sm75 = [
         "id": "sm75-78",
         "name": "Ultra Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRM",
         "subtypes": [
             "Basic",
             "GX",

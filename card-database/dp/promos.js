@@ -3,6 +3,7 @@ let dpp = [
         "id": "dpp-DP01",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -75,6 +76,7 @@ let dpp = [
         "id": "dpp-DP02",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -142,6 +144,7 @@ let dpp = [
         "id": "dpp-DP03",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -209,6 +212,7 @@ let dpp = [
         "id": "dpp-DP04",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -280,6 +284,7 @@ let dpp = [
         "id": "dpp-DP05",
         "name": "Tropical Wind",
         "supertype": "Trainer",
+        "setAbbrev": "PR-DP",
         "rules": [
             "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
         ],
@@ -310,6 +315,7 @@ let dpp = [
         "id": "dpp-DP06",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -379,6 +385,7 @@ let dpp = [
         "id": "dpp-DP07",
         "name": "Cranidos",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -449,6 +456,7 @@ let dpp = [
         "id": "dpp-DP08",
         "name": "Shieldon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -527,6 +535,7 @@ let dpp = [
         "id": "dpp-DP09",
         "name": "Torterra LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -596,6 +605,7 @@ let dpp = [
         "id": "dpp-DP10",
         "name": "Infernape LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -662,6 +672,7 @@ let dpp = [
         "id": "dpp-DP11",
         "name": "Empoleon LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -730,6 +741,7 @@ let dpp = [
         "id": "dpp-DP12",
         "name": "Lucario LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -798,6 +810,7 @@ let dpp = [
         "id": "dpp-DP13",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -857,6 +870,7 @@ let dpp = [
         "id": "dpp-DP14",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -928,6 +942,7 @@ let dpp = [
         "id": "dpp-DP15",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -993,6 +1008,7 @@ let dpp = [
         "id": "dpp-DP16",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1066,6 +1082,7 @@ let dpp = [
         "id": "dpp-DP17",
         "name": "Dialga LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -1141,6 +1158,7 @@ let dpp = [
         "id": "dpp-DP18",
         "name": "Palkia LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -1209,6 +1227,7 @@ let dpp = [
         "id": "dpp-DP19",
         "name": "Darkrai LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -1283,6 +1302,7 @@ let dpp = [
         "id": "dpp-DP20",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1352,6 +1372,7 @@ let dpp = [
         "id": "dpp-DP21",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1423,6 +1444,7 @@ let dpp = [
         "id": "dpp-DP22",
         "name": "Mime Jr.",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1486,6 +1508,7 @@ let dpp = [
         "id": "dpp-DP23",
         "name": "Glameow",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1555,6 +1578,7 @@ let dpp = [
         "id": "dpp-DP24",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1630,6 +1654,7 @@ let dpp = [
         "id": "dpp-DP25",
         "name": "Tropical Wind",
         "supertype": "Trainer",
+        "setAbbrev": "PR-DP",
         "rules": [
             "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
         ],
@@ -1660,6 +1685,7 @@ let dpp = [
         "id": "dpp-DP26",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1733,6 +1759,7 @@ let dpp = [
         "id": "dpp-DP27",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -1800,6 +1827,7 @@ let dpp = [
         "id": "dpp-DP28",
         "name": "Mewtwo LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -1868,6 +1896,7 @@ let dpp = [
         "id": "dpp-DP29",
         "name": "Rhyperior LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -1942,6 +1971,7 @@ let dpp = [
         "id": "dpp-DP30",
         "name": "Regigigas LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -2011,6 +2041,7 @@ let dpp = [
         "id": "dpp-DP31",
         "name": "Heatran LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -2066,6 +2097,7 @@ let dpp = [
         "id": "dpp-DP32",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -2142,6 +2174,7 @@ let dpp = [
         "id": "dpp-DP33",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -2214,6 +2247,7 @@ let dpp = [
         "id": "dpp-DP34",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2287,6 +2321,7 @@ let dpp = [
         "id": "dpp-DP35",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -2358,6 +2393,7 @@ let dpp = [
         "id": "dpp-DP36",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2435,6 +2471,7 @@ let dpp = [
         "id": "dpp-DP37",
         "name": "Dialga LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -2510,6 +2547,7 @@ let dpp = [
         "id": "dpp-DP38",
         "name": "Giratina LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -2585,6 +2623,7 @@ let dpp = [
         "id": "dpp-DP39",
         "name": "Shaymin LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -2657,6 +2696,7 @@ let dpp = [
         "id": "dpp-DP40",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -2727,6 +2767,7 @@ let dpp = [
         "id": "dpp-DP41",
         "name": "Toxicroak G",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic",
             "SP"
@@ -2791,6 +2832,7 @@ let dpp = [
         "id": "dpp-DP42",
         "name": "Carnivine G",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic",
             "SP"
@@ -2863,6 +2905,7 @@ let dpp = [
         "id": "dpp-DP43",
         "name": "Probopass G",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic",
             "SP"
@@ -2932,6 +2975,7 @@ let dpp = [
         "id": "dpp-DP44",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stage 2"
         ],
@@ -3007,6 +3051,7 @@ let dpp = [
         "id": "dpp-DP45",
         "name": "Charizard G LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -3084,6 +3129,7 @@ let dpp = [
         "id": "dpp-DP46",
         "name": "Garchomp C LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -3152,6 +3198,7 @@ let dpp = [
         "id": "dpp-DP47",
         "name": "Rayquaza C LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -3228,6 +3275,7 @@ let dpp = [
         "id": "dpp-DP48",
         "name": "Tropical Wind",
         "supertype": "Trainer",
+        "setAbbrev": "PR-DP",
         "rules": [
             "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
         ],
@@ -3258,6 +3306,7 @@ let dpp = [
         "id": "dpp-DP49",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -3331,6 +3380,7 @@ let dpp = [
         "id": "dpp-DP50",
         "name": "Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -3393,6 +3443,7 @@ let dpp = [
         "id": "dpp-DP51",
         "name": "Cresselia",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -3458,6 +3509,7 @@ let dpp = [
         "id": "dpp-DP52",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Basic"
         ],
@@ -3529,6 +3581,7 @@ let dpp = [
         "id": "dpp-DP53",
         "name": "Arceus LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],
@@ -3584,6 +3637,7 @@ let dpp = [
         "id": "dpp-DP54",
         "name": "Beginning Door",
         "supertype": "Trainer",
+        "setAbbrev": "PR-DP",
         "rules": [
             "Search your deck for Arceus, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
         ],
@@ -3614,6 +3668,7 @@ let dpp = [
         "id": "dpp-DP55",
         "name": "Ultimate Zone",
         "supertype": "Trainer",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Stadium"
         ],
@@ -3648,6 +3703,7 @@ let dpp = [
         "id": "dpp-DP56",
         "name": "Arceus LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-DP",
         "subtypes": [
             "Level-Up"
         ],

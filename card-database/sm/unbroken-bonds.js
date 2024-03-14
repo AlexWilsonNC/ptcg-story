@@ -3,6 +3,7 @@ let sm10 = [
         "id": "sm10-1",
         "name": "Pheromosa & Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -85,6 +86,7 @@ let sm10 = [
         "id": "sm10-2",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -152,6 +154,7 @@ let sm10 = [
         "id": "sm10-3",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -221,6 +224,7 @@ let sm10 = [
         "id": "sm10-4",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -289,6 +293,7 @@ let sm10 = [
         "id": "sm10-5",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -358,6 +363,7 @@ let sm10 = [
         "id": "sm10-6",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -417,6 +423,7 @@ let sm10 = [
         "id": "sm10-7",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -486,6 +493,7 @@ let sm10 = [
         "id": "sm10-8",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -552,6 +560,7 @@ let sm10 = [
         "id": "sm10-9",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -621,6 +630,7 @@ let sm10 = [
         "id": "sm10-10",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -680,6 +690,7 @@ let sm10 = [
         "id": "sm10-11",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -745,6 +756,7 @@ let sm10 = [
         "id": "sm10-12",
         "name": "Venomoth-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -816,6 +828,7 @@ let sm10 = [
         "id": "sm10-13",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -875,6 +888,7 @@ let sm10 = [
         "id": "sm10-14",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -945,6 +959,7 @@ let sm10 = [
         "id": "sm10-15",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -1013,6 +1028,7 @@ let sm10 = [
         "id": "sm10-16",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -1082,6 +1098,7 @@ let sm10 = [
         "id": "sm10-17",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -1150,6 +1167,7 @@ let sm10 = [
         "id": "sm10-18",
         "name": "Grubbin",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -1220,6 +1238,7 @@ let sm10 = [
         "id": "sm10-19",
         "name": "Kartana",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -1287,6 +1306,7 @@ let sm10 = [
         "id": "sm10-20",
         "name": "Reshiram & Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -1372,6 +1392,7 @@ let sm10 = [
         "id": "sm10-21",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -1441,6 +1462,7 @@ let sm10 = [
         "id": "sm10-22",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -1512,6 +1534,7 @@ let sm10 = [
         "id": "sm10-23",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -1581,6 +1604,7 @@ let sm10 = [
         "id": "sm10-24",
         "name": "Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -1648,6 +1672,7 @@ let sm10 = [
         "id": "sm10-25",
         "name": "Volcanion",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -1714,6 +1739,7 @@ let sm10 = [
         "id": "sm10-26",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -1773,6 +1799,7 @@ let sm10 = [
         "id": "sm10-27",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -1843,6 +1870,7 @@ let sm10 = [
         "id": "sm10-28",
         "name": "Torracat",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -1903,6 +1931,7 @@ let sm10 = [
         "id": "sm10-29",
         "name": "Incineroar",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -1968,6 +1997,7 @@ let sm10 = [
         "id": "sm10-30",
         "name": "Salandit",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -2027,6 +2057,7 @@ let sm10 = [
         "id": "sm10-31",
         "name": "Salazzle",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2092,6 +2123,7 @@ let sm10 = [
         "id": "sm10-32",
         "name": "Blacephalon",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -2160,6 +2192,7 @@ let sm10 = [
         "id": "sm10-33",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -2219,6 +2252,7 @@ let sm10 = [
         "id": "sm10-34",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2287,6 +2321,7 @@ let sm10 = [
         "id": "sm10-35",
         "name": "Blastoise-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -2364,6 +2399,7 @@ let sm10 = [
         "id": "sm10-36",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -2430,6 +2466,7 @@ let sm10 = [
         "id": "sm10-37",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -2489,6 +2526,7 @@ let sm10 = [
         "id": "sm10-38",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2560,6 +2598,7 @@ let sm10 = [
         "id": "sm10-39",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -2629,6 +2668,7 @@ let sm10 = [
         "id": "sm10-40",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -2688,6 +2728,7 @@ let sm10 = [
         "id": "sm10-41",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2756,6 +2797,7 @@ let sm10 = [
         "id": "sm10-42",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -2826,6 +2868,7 @@ let sm10 = [
         "id": "sm10-43",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2894,6 +2937,7 @@ let sm10 = [
         "id": "sm10-44",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -2954,6 +2998,7 @@ let sm10 = [
         "id": "sm10-45",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3023,6 +3068,7 @@ let sm10 = [
         "id": "sm10-46",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -3092,6 +3138,7 @@ let sm10 = [
         "id": "sm10-47",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3163,6 +3210,7 @@ let sm10 = [
         "id": "sm10-48",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -3222,6 +3270,7 @@ let sm10 = [
         "id": "sm10-49",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3279,6 +3328,7 @@ let sm10 = [
         "id": "sm10-50",
         "name": "Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -3346,6 +3396,7 @@ let sm10 = [
         "id": "sm10-51",
         "name": "Froakie",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -3405,6 +3456,7 @@ let sm10 = [
         "id": "sm10-52",
         "name": "Frogadier",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3465,6 +3517,7 @@ let sm10 = [
         "id": "sm10-53",
         "name": "Pyukumuku",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -3532,6 +3585,7 @@ let sm10 = [
         "id": "sm10-54",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -3598,6 +3652,7 @@ let sm10 = [
         "id": "sm10-55",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3672,6 +3727,7 @@ let sm10 = [
         "id": "sm10-56",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -3744,6 +3800,7 @@ let sm10 = [
         "id": "sm10-57",
         "name": "Dedenne-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "GX"
@@ -3827,6 +3884,7 @@ let sm10 = [
         "id": "sm10-58",
         "name": "Charjabug",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3902,6 +3960,7 @@ let sm10 = [
         "id": "sm10-59",
         "name": "Vikavolt",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -3975,6 +4034,7 @@ let sm10 = [
         "id": "sm10-60",
         "name": "Zeraora",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -4048,6 +4108,7 @@ let sm10 = [
         "id": "sm10-61",
         "name": "Muk & Alolan Muk-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -4129,6 +4190,7 @@ let sm10 = [
         "id": "sm10-62",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -4198,6 +4260,7 @@ let sm10 = [
         "id": "sm10-63",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -4265,6 +4328,7 @@ let sm10 = [
         "id": "sm10-64",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -4340,6 +4404,7 @@ let sm10 = [
         "id": "sm10-65",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -4417,6 +4482,7 @@ let sm10 = [
         "id": "sm10-66",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -4488,6 +4554,7 @@ let sm10 = [
         "id": "sm10-67",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -4561,6 +4628,7 @@ let sm10 = [
         "id": "sm10-68",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -4626,6 +4694,7 @@ let sm10 = [
         "id": "sm10-69",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -4692,6 +4761,7 @@ let sm10 = [
         "id": "sm10-70",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -4763,6 +4833,7 @@ let sm10 = [
         "id": "sm10-71",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -4833,6 +4904,7 @@ let sm10 = [
         "id": "sm10-72",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -4899,6 +4971,7 @@ let sm10 = [
         "id": "sm10-73",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -4958,6 +5031,7 @@ let sm10 = [
         "id": "sm10-74",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -5023,6 +5097,7 @@ let sm10 = [
         "id": "sm10-75",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -5088,6 +5163,7 @@ let sm10 = [
         "id": "sm10-76",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -5151,6 +5227,7 @@ let sm10 = [
         "id": "sm10-77",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -5216,6 +5293,7 @@ let sm10 = [
         "id": "sm10-78",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -5291,6 +5369,7 @@ let sm10 = [
         "id": "sm10-79",
         "name": "Espurr",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -5361,6 +5440,7 @@ let sm10 = [
         "id": "sm10-80",
         "name": "Meowstic",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -5429,6 +5509,7 @@ let sm10 = [
         "id": "sm10-81",
         "name": "Marshadow",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -5498,6 +5579,7 @@ let sm10 = [
         "id": "sm10-82",
         "name": "Marshadow & Machamp-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -5582,6 +5664,7 @@ let sm10 = [
         "id": "sm10-83",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -5652,6 +5735,7 @@ let sm10 = [
         "id": "sm10-84",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -5720,6 +5804,7 @@ let sm10 = [
         "id": "sm10-85",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -5786,6 +5871,7 @@ let sm10 = [
         "id": "sm10-86",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -5843,6 +5929,7 @@ let sm10 = [
         "id": "sm10-87",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -5913,6 +6000,7 @@ let sm10 = [
         "id": "sm10-88",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -5987,6 +6075,7 @@ let sm10 = [
         "id": "sm10-89",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -6058,6 +6147,7 @@ let sm10 = [
         "id": "sm10-90",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -6126,6 +6216,7 @@ let sm10 = [
         "id": "sm10-91",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -6194,6 +6285,7 @@ let sm10 = [
         "id": "sm10-92",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -6253,6 +6345,7 @@ let sm10 = [
         "id": "sm10-93",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -6325,6 +6418,7 @@ let sm10 = [
         "id": "sm10-94",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -6398,6 +6492,7 @@ let sm10 = [
         "id": "sm10-95",
         "name": "Rhyperior",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -6469,6 +6564,7 @@ let sm10 = [
         "id": "sm10-96",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -6529,6 +6625,7 @@ let sm10 = [
         "id": "sm10-97",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -6597,6 +6694,7 @@ let sm10 = [
         "id": "sm10-98",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -6665,6 +6763,7 @@ let sm10 = [
         "id": "sm10-99",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -6733,6 +6832,7 @@ let sm10 = [
         "id": "sm10-100",
         "name": "Tyrogue",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -6783,6 +6883,7 @@ let sm10 = [
         "id": "sm10-101",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -6849,6 +6950,7 @@ let sm10 = [
         "id": "sm10-102",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -6908,6 +7010,7 @@ let sm10 = [
         "id": "sm10-103",
         "name": "Landorus",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -6974,6 +7077,7 @@ let sm10 = [
         "id": "sm10-104",
         "name": "Crabrawler",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -7045,6 +7149,7 @@ let sm10 = [
         "id": "sm10-105",
         "name": "Crabominable",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -7114,6 +7219,7 @@ let sm10 = [
         "id": "sm10-106",
         "name": "Stakataka",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -7180,6 +7286,7 @@ let sm10 = [
         "id": "sm10-107",
         "name": "Greninja & Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -7258,6 +7365,7 @@ let sm10 = [
         "id": "sm10-108",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -7323,6 +7431,7 @@ let sm10 = [
         "id": "sm10-109",
         "name": "Honchkrow-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7408,6 +7517,7 @@ let sm10 = [
         "id": "sm10-110",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -7473,6 +7583,7 @@ let sm10 = [
         "id": "sm10-111",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -7545,6 +7656,7 @@ let sm10 = [
         "id": "sm10-112",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -7602,6 +7714,7 @@ let sm10 = [
         "id": "sm10-113",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -7674,6 +7787,7 @@ let sm10 = [
         "id": "sm10-114",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -7741,6 +7855,7 @@ let sm10 = [
         "id": "sm10-115",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -7818,6 +7933,7 @@ let sm10 = [
         "id": "sm10-116",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -7895,6 +8011,7 @@ let sm10 = [
         "id": "sm10-117",
         "name": "Greninja",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -7968,6 +8085,7 @@ let sm10 = [
         "id": "sm10-118",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -8033,6 +8151,7 @@ let sm10 = [
         "id": "sm10-119",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -8107,6 +8226,7 @@ let sm10 = [
         "id": "sm10-120",
         "name": "Lucario & Melmetal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -8196,6 +8316,7 @@ let sm10 = [
         "id": "sm10-121",
         "name": "Alolan Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -8259,6 +8380,7 @@ let sm10 = [
         "id": "sm10-122",
         "name": "Alolan Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -8330,6 +8452,7 @@ let sm10 = [
         "id": "sm10-123",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -8405,6 +8528,7 @@ let sm10 = [
         "id": "sm10-124",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -8482,6 +8606,7 @@ let sm10 = [
         "id": "sm10-125",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -8559,6 +8684,7 @@ let sm10 = [
         "id": "sm10-126",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -8632,6 +8758,7 @@ let sm10 = [
         "id": "sm10-127",
         "name": "Genesect",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -8703,6 +8830,7 @@ let sm10 = [
         "id": "sm10-128",
         "name": "Meltan",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -8768,6 +8896,7 @@ let sm10 = [
         "id": "sm10-129",
         "name": "Melmetal",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -8841,6 +8970,7 @@ let sm10 = [
         "id": "sm10-130",
         "name": "Gardevoir & Sylveon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -8930,6 +9060,7 @@ let sm10 = [
         "id": "sm10-131",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -8978,6 +9109,7 @@ let sm10 = [
         "id": "sm10-132",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -9043,6 +9175,7 @@ let sm10 = [
         "id": "sm10-133",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -9106,6 +9239,7 @@ let sm10 = [
         "id": "sm10-134",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -9172,6 +9306,7 @@ let sm10 = [
         "id": "sm10-135",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -9246,6 +9381,7 @@ let sm10 = [
         "id": "sm10-136",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -9311,6 +9447,7 @@ let sm10 = [
         "id": "sm10-137",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -9387,6 +9524,7 @@ let sm10 = [
         "id": "sm10-138",
         "name": "Togekiss",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -9458,6 +9596,7 @@ let sm10 = [
         "id": "sm10-139",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -9523,6 +9662,7 @@ let sm10 = [
         "id": "sm10-140",
         "name": "Whimsicott-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9605,6 +9745,7 @@ let sm10 = [
         "id": "sm10-141",
         "name": "Spritzee",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -9679,6 +9820,7 @@ let sm10 = [
         "id": "sm10-142",
         "name": "Aromatisse",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -9752,6 +9894,7 @@ let sm10 = [
         "id": "sm10-143",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -9811,6 +9954,7 @@ let sm10 = [
         "id": "sm10-144",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -9869,6 +10013,7 @@ let sm10 = [
         "id": "sm10-145",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -9944,6 +10089,7 @@ let sm10 = [
         "id": "sm10-146",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -10008,6 +10154,7 @@ let sm10 = [
         "id": "sm10-147",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -10077,6 +10224,7 @@ let sm10 = [
         "id": "sm10-148",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -10142,6 +10290,7 @@ let sm10 = [
         "id": "sm10-149",
         "name": "Persian-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10222,6 +10371,7 @@ let sm10 = [
         "id": "sm10-150",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -10297,6 +10447,7 @@ let sm10 = [
         "id": "sm10-151",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -10370,6 +10521,7 @@ let sm10 = [
         "id": "sm10-152",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -10430,6 +10582,7 @@ let sm10 = [
         "id": "sm10-153",
         "name": "Lickilicky",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -10499,6 +10652,7 @@ let sm10 = [
         "id": "sm10-154",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -10567,6 +10721,7 @@ let sm10 = [
         "id": "sm10-155",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -10636,6 +10791,7 @@ let sm10 = [
         "id": "sm10-156",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -10706,6 +10862,7 @@ let sm10 = [
         "id": "sm10-157",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2"
         ],
@@ -10772,6 +10929,7 @@ let sm10 = [
         "id": "sm10-158",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -10837,6 +10995,7 @@ let sm10 = [
         "id": "sm10-159",
         "name": "Glameow",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -10907,6 +11066,7 @@ let sm10 = [
         "id": "sm10-160",
         "name": "Purugly",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1"
         ],
@@ -10976,6 +11136,7 @@ let sm10 = [
         "id": "sm10-161",
         "name": "Happiny",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -11024,6 +11185,7 @@ let sm10 = [
         "id": "sm10-162",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic"
         ],
@@ -11095,6 +11257,7 @@ let sm10 = [
         "id": "sm10-163",
         "name": "Celesteela-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "GX",
@@ -11179,6 +11342,7 @@ let sm10 = [
         "id": "sm10-164",
         "name": "Beast Bringer",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11214,6 +11378,7 @@ let sm10 = [
         "id": "sm10-165",
         "name": "Chip-Chip Ice Axe",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -11251,6 +11416,7 @@ let sm10 = [
         "id": "sm10-166",
         "name": "Devolution Spray Z",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -11285,6 +11451,7 @@ let sm10 = [
         "id": "sm10-167",
         "name": "Dusk Stone",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -11319,6 +11486,7 @@ let sm10 = [
         "id": "sm10-168",
         "name": "Dust Island",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stadium"
         ],
@@ -11353,6 +11521,7 @@ let sm10 = [
         "id": "sm10-169",
         "name": "Electromagnetic Radar",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -11388,6 +11557,7 @@ let sm10 = [
         "id": "sm10-170",
         "name": "Energy Spinner",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -11422,6 +11592,7 @@ let sm10 = [
         "id": "sm10-171",
         "name": "Fairy Charm Ability",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11457,6 +11628,7 @@ let sm10 = [
         "id": "sm10-172",
         "name": "Fairy Charm Lightning",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11492,6 +11664,7 @@ let sm10 = [
         "id": "sm10-173",
         "name": "Fire Crystal",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -11526,6 +11699,7 @@ let sm10 = [
         "id": "sm10-174",
         "name": "Giovanni's Exile",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -11560,6 +11734,7 @@ let sm10 = [
         "id": "sm10-175",
         "name": "Green's Exploration",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -11595,6 +11770,7 @@ let sm10 = [
         "id": "sm10-176",
         "name": "Janine",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -11629,6 +11805,7 @@ let sm10 = [
         "id": "sm10-177",
         "name": "Koga's Trap",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -11663,6 +11840,7 @@ let sm10 = [
         "id": "sm10-178",
         "name": "Lt. Surge's Strategy",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -11701,6 +11879,7 @@ let sm10 = [
         "id": "sm10-179",
         "name": "Martial Arts Dojo",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stadium"
         ],
@@ -11735,6 +11914,7 @@ let sm10 = [
         "id": "sm10-180",
         "name": "Metal Core Barrier",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11771,6 +11951,7 @@ let sm10 = [
         "id": "sm10-181",
         "name": "Molayne",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -11806,6 +11987,7 @@ let sm10 = [
         "id": "sm10-182",
         "name": "Pokégear 3.0",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -11840,6 +12022,7 @@ let sm10 = [
         "id": "sm10-183",
         "name": "Power Plant",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stadium"
         ],
@@ -11874,6 +12057,7 @@ let sm10 = [
         "id": "sm10-184",
         "name": "Red's Challenge",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -11909,6 +12093,7 @@ let sm10 = [
         "id": "sm10-185",
         "name": "Samson Oak",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -11943,6 +12128,7 @@ let sm10 = [
         "id": "sm10-186",
         "name": "Stealthy Hood",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11978,6 +12164,7 @@ let sm10 = [
         "id": "sm10-187",
         "name": "Surprise Box",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -12012,6 +12199,7 @@ let sm10 = [
         "id": "sm10-188",
         "name": "Ultra Forest Kartenvoy",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -12046,6 +12234,7 @@ let sm10 = [
         "id": "sm10-189",
         "name": "Welder",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -12080,6 +12269,7 @@ let sm10 = [
         "id": "sm10-190",
         "name": "Triple Acceleration Energy",
         "supertype": "Energy",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Special"
         ],
@@ -12114,6 +12304,7 @@ let sm10 = [
         "id": "sm10-191",
         "name": "Pheromosa & Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12196,6 +12387,7 @@ let sm10 = [
         "id": "sm10-192",
         "name": "Pheromosa & Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12278,6 +12470,7 @@ let sm10 = [
         "id": "sm10-193",
         "name": "Venomoth-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -12349,6 +12542,7 @@ let sm10 = [
         "id": "sm10-194",
         "name": "Reshiram & Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12434,6 +12628,7 @@ let sm10 = [
         "id": "sm10-195",
         "name": "Dedenne-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "GX"
@@ -12517,6 +12712,7 @@ let sm10 = [
         "id": "sm10-196",
         "name": "Muk & Alolan Muk-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12598,6 +12794,7 @@ let sm10 = [
         "id": "sm10-197",
         "name": "Muk & Alolan Muk-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12679,6 +12876,7 @@ let sm10 = [
         "id": "sm10-198",
         "name": "Marshadow & Machamp-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12763,6 +12961,7 @@ let sm10 = [
         "id": "sm10-199",
         "name": "Marshadow & Machamp-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12847,6 +13046,7 @@ let sm10 = [
         "id": "sm10-200",
         "name": "Greninja & Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12925,6 +13125,7 @@ let sm10 = [
         "id": "sm10-201",
         "name": "Greninja & Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -13003,6 +13204,7 @@ let sm10 = [
         "id": "sm10-202",
         "name": "Honchkrow-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13088,6 +13290,7 @@ let sm10 = [
         "id": "sm10-203",
         "name": "Lucario & Melmetal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -13177,6 +13380,7 @@ let sm10 = [
         "id": "sm10-204",
         "name": "Gardevoir & Sylveon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -13266,6 +13470,7 @@ let sm10 = [
         "id": "sm10-205",
         "name": "Gardevoir & Sylveon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -13355,6 +13560,7 @@ let sm10 = [
         "id": "sm10-206",
         "name": "Whimsicott-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13437,6 +13643,7 @@ let sm10 = [
         "id": "sm10-207",
         "name": "Persian-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13517,6 +13724,7 @@ let sm10 = [
         "id": "sm10-208",
         "name": "Celesteela-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "GX",
@@ -13601,6 +13809,7 @@ let sm10 = [
         "id": "sm10-209",
         "name": "Green's Exploration",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -13636,6 +13845,7 @@ let sm10 = [
         "id": "sm10-210",
         "name": "Janine",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -13670,6 +13880,7 @@ let sm10 = [
         "id": "sm10-211",
         "name": "Koga's Trap",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -13704,6 +13915,7 @@ let sm10 = [
         "id": "sm10-212",
         "name": "Molayne",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -13739,6 +13951,7 @@ let sm10 = [
         "id": "sm10-213",
         "name": "Red's Challenge",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -13774,6 +13987,7 @@ let sm10 = [
         "id": "sm10-214",
         "name": "Welder",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],
@@ -13808,6 +14022,7 @@ let sm10 = [
         "id": "sm10-215",
         "name": "Pheromosa & Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -13890,6 +14105,7 @@ let sm10 = [
         "id": "sm10-216",
         "name": "Venomoth-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13961,6 +14177,7 @@ let sm10 = [
         "id": "sm10-217",
         "name": "Reshiram & Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -14046,6 +14263,7 @@ let sm10 = [
         "id": "sm10-218",
         "name": "Blastoise-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -14123,6 +14341,7 @@ let sm10 = [
         "id": "sm10-219",
         "name": "Dedenne-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "GX"
@@ -14206,6 +14425,7 @@ let sm10 = [
         "id": "sm10-220",
         "name": "Muk & Alolan Muk-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -14287,6 +14507,7 @@ let sm10 = [
         "id": "sm10-221",
         "name": "Marshadow & Machamp-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -14371,6 +14592,7 @@ let sm10 = [
         "id": "sm10-222",
         "name": "Greninja & Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -14449,6 +14671,7 @@ let sm10 = [
         "id": "sm10-223",
         "name": "Honchkrow-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -14534,6 +14757,7 @@ let sm10 = [
         "id": "sm10-224",
         "name": "Lucario & Melmetal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -14623,6 +14847,7 @@ let sm10 = [
         "id": "sm10-225",
         "name": "Gardevoir & Sylveon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -14712,6 +14937,7 @@ let sm10 = [
         "id": "sm10-226",
         "name": "Whimsicott-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -14794,6 +15020,7 @@ let sm10 = [
         "id": "sm10-227",
         "name": "Persian-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -14874,6 +15101,7 @@ let sm10 = [
         "id": "sm10-228",
         "name": "Celesteela-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "GX",
@@ -14958,6 +15186,7 @@ let sm10 = [
         "id": "sm10-229",
         "name": "Beast Bringer",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -14993,6 +15222,7 @@ let sm10 = [
         "id": "sm10-230",
         "name": "Electromagnetic Radar",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -15028,6 +15258,7 @@ let sm10 = [
         "id": "sm10-231",
         "name": "Fire Crystal",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -15062,6 +15293,7 @@ let sm10 = [
         "id": "sm10-232",
         "name": "Metal Core Barrier",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -15098,6 +15330,7 @@ let sm10 = [
         "id": "sm10-233",
         "name": "Pokégear 3.0",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -15132,6 +15365,7 @@ let sm10 = [
         "id": "sm10-234",
         "name": "Triple Acceleration Energy",
         "supertype": "Energy",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Special"
         ],
@@ -15166,6 +15400,7 @@ let sm10 = [
         "id": "sm10-195a",
         "name": "Dedenne-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Basic",
             "GX"
@@ -15249,6 +15484,7 @@ let sm10 = [
         "id": "sm10-182a",
         "name": "Pokégear 3.0",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -15283,6 +15519,7 @@ let sm10 = [
         "id": "sm10-182b",
         "name": "Pokégear 3.0",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Item"
         ],
@@ -15317,6 +15554,7 @@ let sm10 = [
         "id": "sm10-189a",
         "name": "Welder",
         "supertype": "Trainer",
+        "setAbbrev": "UNB",
         "subtypes": [
             "Supporter"
         ],

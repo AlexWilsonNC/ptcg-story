@@ -3,6 +3,7 @@ let bw7 = [
         "id": "bw7-1",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -78,6 +79,7 @@ let bw7 = [
         "id": "bw7-2",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -157,6 +159,7 @@ let bw7 = [
         "id": "bw7-3",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -230,6 +233,7 @@ let bw7 = [
         "id": "bw7-4",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -304,6 +308,7 @@ let bw7 = [
         "id": "bw7-5",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -380,6 +385,7 @@ let bw7 = [
         "id": "bw7-6",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -455,6 +461,7 @@ let bw7 = [
         "id": "bw7-7",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -524,6 +531,7 @@ let bw7 = [
         "id": "bw7-8",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -591,6 +599,7 @@ let bw7 = [
         "id": "bw7-9",
         "name": "Celebi-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -665,6 +674,7 @@ let bw7 = [
         "id": "bw7-10",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -731,6 +741,7 @@ let bw7 = [
         "id": "bw7-11",
         "name": "Snivy",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -800,6 +811,7 @@ let bw7 = [
         "id": "bw7-12",
         "name": "Servine",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -871,6 +883,7 @@ let bw7 = [
         "id": "bw7-13",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -940,6 +953,7 @@ let bw7 = [
         "id": "bw7-14",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1005,6 +1019,7 @@ let bw7 = [
         "id": "bw7-15",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1077,6 +1092,7 @@ let bw7 = [
         "id": "bw7-16",
         "name": "Petilil",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1142,6 +1158,7 @@ let bw7 = [
         "id": "bw7-17",
         "name": "Lilligant",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1216,6 +1233,7 @@ let bw7 = [
         "id": "bw7-18",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1285,6 +1303,7 @@ let bw7 = [
         "id": "bw7-19",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1356,6 +1375,7 @@ let bw7 = [
         "id": "bw7-20",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1428,6 +1448,7 @@ let bw7 = [
         "id": "bw7-21",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1489,6 +1510,7 @@ let bw7 = [
         "id": "bw7-22",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1560,6 +1582,7 @@ let bw7 = [
         "id": "bw7-23",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1626,6 +1649,7 @@ let bw7 = [
         "id": "bw7-24",
         "name": "Tepig",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1695,6 +1719,7 @@ let bw7 = [
         "id": "bw7-25",
         "name": "Pignite",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1767,6 +1792,7 @@ let bw7 = [
         "id": "bw7-26",
         "name": "Emboar",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1838,6 +1864,7 @@ let bw7 = [
         "id": "bw7-27",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -1898,6 +1925,7 @@ let bw7 = [
         "id": "bw7-28",
         "name": "Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1966,6 +1994,7 @@ let bw7 = [
         "id": "bw7-29",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2033,6 +2062,7 @@ let bw7 = [
         "id": "bw7-30",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2104,6 +2134,7 @@ let bw7 = [
         "id": "bw7-31",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2171,6 +2202,7 @@ let bw7 = [
         "id": "bw7-32",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2230,6 +2262,7 @@ let bw7 = [
         "id": "bw7-33",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2289,6 +2322,7 @@ let bw7 = [
         "id": "bw7-34",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2355,6 +2389,7 @@ let bw7 = [
         "id": "bw7-35",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2421,6 +2456,7 @@ let bw7 = [
         "id": "bw7-36",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2492,6 +2528,7 @@ let bw7 = [
         "id": "bw7-37",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2561,6 +2598,7 @@ let bw7 = [
         "id": "bw7-38",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2627,6 +2665,7 @@ let bw7 = [
         "id": "bw7-39",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2696,6 +2735,7 @@ let bw7 = [
         "id": "bw7-40",
         "name": "Dewott",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2767,6 +2807,7 @@ let bw7 = [
         "id": "bw7-41",
         "name": "Samurott",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2837,6 +2878,7 @@ let bw7 = [
         "id": "bw7-42",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -2903,6 +2945,7 @@ let bw7 = [
         "id": "bw7-43",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2978,6 +3021,7 @@ let bw7 = [
         "id": "bw7-44",
         "name": "Frillish",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3039,6 +3083,7 @@ let bw7 = [
         "id": "bw7-45",
         "name": "Jellicent",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3105,6 +3150,7 @@ let bw7 = [
         "id": "bw7-46",
         "name": "Cryogonal",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3162,6 +3208,7 @@ let bw7 = [
         "id": "bw7-47",
         "name": "Keldeo",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3230,6 +3277,7 @@ let bw7 = [
         "id": "bw7-48",
         "name": "Keldeo",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3298,6 +3346,7 @@ let bw7 = [
         "id": "bw7-49",
         "name": "Keldeo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -3366,6 +3415,7 @@ let bw7 = [
         "id": "bw7-50",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3436,6 +3486,7 @@ let bw7 = [
         "id": "bw7-51",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3495,6 +3546,7 @@ let bw7 = [
         "id": "bw7-52",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3562,6 +3614,7 @@ let bw7 = [
         "id": "bw7-53",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3633,6 +3686,7 @@ let bw7 = [
         "id": "bw7-54",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3704,6 +3758,7 @@ let bw7 = [
         "id": "bw7-55",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3764,6 +3819,7 @@ let bw7 = [
         "id": "bw7-56",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3823,6 +3879,7 @@ let bw7 = [
         "id": "bw7-57",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3891,6 +3948,7 @@ let bw7 = [
         "id": "bw7-58",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -3949,6 +4007,7 @@ let bw7 = [
         "id": "bw7-59",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4008,6 +4067,7 @@ let bw7 = [
         "id": "bw7-60",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4077,6 +4137,7 @@ let bw7 = [
         "id": "bw7-61",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4136,6 +4197,7 @@ let bw7 = [
         "id": "bw7-62",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4207,6 +4269,7 @@ let bw7 = [
         "id": "bw7-63",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4274,6 +4337,7 @@ let bw7 = [
         "id": "bw7-64",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4334,6 +4398,7 @@ let bw7 = [
         "id": "bw7-65",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4394,6 +4459,7 @@ let bw7 = [
         "id": "bw7-66",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4462,6 +4528,7 @@ let bw7 = [
         "id": "bw7-67",
         "name": "Cresselia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -4531,6 +4598,7 @@ let bw7 = [
         "id": "bw7-68",
         "name": "Munna",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4598,6 +4666,7 @@ let bw7 = [
         "id": "bw7-69",
         "name": "Musharna",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4666,6 +4735,7 @@ let bw7 = [
         "id": "bw7-70",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4741,6 +4811,7 @@ let bw7 = [
         "id": "bw7-71",
         "name": "Swoobat",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4814,6 +4885,7 @@ let bw7 = [
         "id": "bw7-72",
         "name": "Venipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -4881,6 +4953,7 @@ let bw7 = [
         "id": "bw7-73",
         "name": "Whirlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4950,6 +5023,7 @@ let bw7 = [
         "id": "bw7-74",
         "name": "Scolipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -5017,6 +5091,7 @@ let bw7 = [
         "id": "bw7-75",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5086,6 +5161,7 @@ let bw7 = [
         "id": "bw7-76",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5158,6 +5234,7 @@ let bw7 = [
         "id": "bw7-77",
         "name": "Meloetta",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5225,6 +5302,7 @@ let bw7 = [
         "id": "bw7-78",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5301,6 +5379,7 @@ let bw7 = [
         "id": "bw7-79",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5376,6 +5455,7 @@ let bw7 = [
         "id": "bw7-80",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5451,6 +5531,7 @@ let bw7 = [
         "id": "bw7-81",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5524,6 +5605,7 @@ let bw7 = [
         "id": "bw7-82",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5584,6 +5666,7 @@ let bw7 = [
         "id": "bw7-83",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5659,6 +5742,7 @@ let bw7 = [
         "id": "bw7-84",
         "name": "Dwebble",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5719,6 +5803,7 @@ let bw7 = [
         "id": "bw7-85",
         "name": "Crustle",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5785,6 +5870,7 @@ let bw7 = [
         "id": "bw7-86",
         "name": "Mienfoo",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5844,6 +5930,7 @@ let bw7 = [
         "id": "bw7-87",
         "name": "Mienfoo",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -5903,6 +5990,7 @@ let bw7 = [
         "id": "bw7-88",
         "name": "Mienshao",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5972,6 +6060,7 @@ let bw7 = [
         "id": "bw7-89",
         "name": "Landorus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6048,6 +6137,7 @@ let bw7 = [
         "id": "bw7-90",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6113,6 +6203,7 @@ let bw7 = [
         "id": "bw7-91",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6187,6 +6278,7 @@ let bw7 = [
         "id": "bw7-92",
         "name": "Vullaby",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6262,6 +6354,7 @@ let bw7 = [
         "id": "bw7-93",
         "name": "Mandibuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6338,6 +6431,7 @@ let bw7 = [
         "id": "bw7-94",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6413,6 +6507,7 @@ let bw7 = [
         "id": "bw7-95",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6486,6 +6581,7 @@ let bw7 = [
         "id": "bw7-96",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6559,6 +6655,7 @@ let bw7 = [
         "id": "bw7-97",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6625,6 +6722,7 @@ let bw7 = [
         "id": "bw7-98",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6696,6 +6794,7 @@ let bw7 = [
         "id": "bw7-99",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -6763,6 +6862,7 @@ let bw7 = [
         "id": "bw7-100",
         "name": "Black Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6832,6 +6932,7 @@ let bw7 = [
         "id": "bw7-101",
         "name": "Black Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6905,6 +7006,7 @@ let bw7 = [
         "id": "bw7-102",
         "name": "White Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -6974,6 +7076,7 @@ let bw7 = [
         "id": "bw7-103",
         "name": "White Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -7047,6 +7150,7 @@ let bw7 = [
         "id": "bw7-104",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7106,6 +7210,7 @@ let bw7 = [
         "id": "bw7-105",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7173,6 +7278,7 @@ let bw7 = [
         "id": "bw7-106",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7233,6 +7339,7 @@ let bw7 = [
         "id": "bw7-107",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7299,6 +7406,7 @@ let bw7 = [
         "id": "bw7-108",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7351,6 +7459,7 @@ let bw7 = [
         "id": "bw7-109",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7421,6 +7530,7 @@ let bw7 = [
         "id": "bw7-110",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7480,6 +7590,7 @@ let bw7 = [
         "id": "bw7-111",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7544,6 +7655,7 @@ let bw7 = [
         "id": "bw7-112",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7609,6 +7721,7 @@ let bw7 = [
         "id": "bw7-113",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7678,6 +7791,7 @@ let bw7 = [
         "id": "bw7-114",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7745,6 +7859,7 @@ let bw7 = [
         "id": "bw7-115",
         "name": "Spinda",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7802,6 +7917,7 @@ let bw7 = [
         "id": "bw7-116",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7871,6 +7987,7 @@ let bw7 = [
         "id": "bw7-117",
         "name": "Lopunny",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7939,6 +8056,7 @@ let bw7 = [
         "id": "bw7-118",
         "name": "Patrat",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -7998,6 +8116,7 @@ let bw7 = [
         "id": "bw7-119",
         "name": "Watchog",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8065,6 +8184,7 @@ let bw7 = [
         "id": "bw7-120",
         "name": "Lillipup",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8134,6 +8254,7 @@ let bw7 = [
         "id": "bw7-121",
         "name": "Herdier",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8205,6 +8326,7 @@ let bw7 = [
         "id": "bw7-122",
         "name": "Stoutland",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -8271,6 +8393,7 @@ let bw7 = [
         "id": "bw7-123",
         "name": "Pidove",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8337,6 +8460,7 @@ let bw7 = [
         "id": "bw7-124",
         "name": "Tranquill",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8405,6 +8529,7 @@ let bw7 = [
         "id": "bw7-125",
         "name": "Unfezant",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 2"
         ],
@@ -8480,6 +8605,7 @@ let bw7 = [
         "id": "bw7-126",
         "name": "Audino",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -8544,6 +8670,7 @@ let bw7 = [
         "id": "bw7-127",
         "name": "Aspertia City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stadium"
         ],
@@ -8578,6 +8705,7 @@ let bw7 = [
         "id": "bw7-128",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -8612,6 +8740,7 @@ let bw7 = [
         "id": "bw7-129",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -8646,6 +8775,7 @@ let bw7 = [
         "id": "bw7-130",
         "name": "Hugh",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Supporter"
         ],
@@ -8680,6 +8810,7 @@ let bw7 = [
         "id": "bw7-131",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -8714,6 +8845,7 @@ let bw7 = [
         "id": "bw7-132",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -8748,6 +8880,7 @@ let bw7 = [
         "id": "bw7-133",
         "name": "Rocky Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8783,6 +8916,7 @@ let bw7 = [
         "id": "bw7-134",
         "name": "Skyla",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Supporter"
         ],
@@ -8817,6 +8951,7 @@ let bw7 = [
         "id": "bw7-135",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -8851,6 +8986,7 @@ let bw7 = [
         "id": "bw7-136",
         "name": "Town Map",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item"
         ],
@@ -8885,6 +9021,7 @@ let bw7 = [
         "id": "bw7-137",
         "name": "Computer Search",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -8921,6 +9058,7 @@ let bw7 = [
         "id": "bw7-138",
         "name": "Crystal Edge",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC"
@@ -8958,6 +9096,7 @@ let bw7 = [
         "id": "bw7-139",
         "name": "Crystal Wall",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC"
@@ -8995,6 +9134,7 @@ let bw7 = [
         "id": "bw7-140",
         "name": "Gold Potion",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -9031,6 +9171,7 @@ let bw7 = [
         "id": "bw7-141",
         "name": "Celebi-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -9105,6 +9246,7 @@ let bw7 = [
         "id": "bw7-142",
         "name": "Keldeo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -9173,6 +9315,7 @@ let bw7 = [
         "id": "bw7-143",
         "name": "Cresselia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -9242,6 +9385,7 @@ let bw7 = [
         "id": "bw7-144",
         "name": "Landorus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -9318,6 +9462,7 @@ let bw7 = [
         "id": "bw7-145",
         "name": "Black Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -9391,6 +9536,7 @@ let bw7 = [
         "id": "bw7-146",
         "name": "White Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic",
             "EX"
@@ -9464,6 +9610,7 @@ let bw7 = [
         "id": "bw7-147",
         "name": "Bianca",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Supporter"
         ],
@@ -9498,6 +9645,7 @@ let bw7 = [
         "id": "bw7-148",
         "name": "Cheren",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Supporter"
         ],
@@ -9532,6 +9680,7 @@ let bw7 = [
         "id": "bw7-149",
         "name": "Skyla",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Supporter"
         ],
@@ -9566,6 +9715,7 @@ let bw7 = [
         "id": "bw7-150",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9637,6 +9787,7 @@ let bw7 = [
         "id": "bw7-151",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Basic"
         ],
@@ -9705,6 +9856,7 @@ let bw7 = [
         "id": "bw7-152",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9771,6 +9923,7 @@ let bw7 = [
         "id": "bw7-153",
         "name": "Rocky Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "BCR",
         "subtypes": [
             "Pokémon Tool"
         ],

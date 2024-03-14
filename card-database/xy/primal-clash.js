@@ -3,6 +3,7 @@ let xy5 = [
         "id": "xy5-1",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let xy5 = [
         "id": "xy5-2",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -122,6 +124,7 @@ let xy5 = [
         "id": "xy5-3",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -188,6 +191,7 @@ let xy5 = [
         "id": "xy5-4",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -259,6 +263,7 @@ let xy5 = [
         "id": "xy5-5",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -330,6 +335,7 @@ let xy5 = [
         "id": "xy5-6",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -389,6 +395,7 @@ let xy5 = [
         "id": "xy5-7",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -460,6 +467,7 @@ let xy5 = [
         "id": "xy5-8",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -526,6 +534,7 @@ let xy5 = [
         "id": "xy5-9",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -598,6 +607,7 @@ let xy5 = [
         "id": "xy5-10",
         "name": "Lotad",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -658,6 +668,7 @@ let xy5 = [
         "id": "xy5-11",
         "name": "Lombre",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -728,6 +739,7 @@ let xy5 = [
         "id": "xy5-12",
         "name": "Ludicolo",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -794,6 +806,7 @@ let xy5 = [
         "id": "xy5-13",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -853,6 +866,7 @@ let xy5 = [
         "id": "xy5-14",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -920,6 +934,7 @@ let xy5 = [
         "id": "xy5-15",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -979,6 +994,7 @@ let xy5 = [
         "id": "xy5-16",
         "name": "Breloom",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1048,6 +1064,7 @@ let xy5 = [
         "id": "xy5-17",
         "name": "Volbeat",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -1114,6 +1131,7 @@ let xy5 = [
         "id": "xy5-18",
         "name": "Illumise",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -1179,6 +1197,7 @@ let xy5 = [
         "id": "xy5-19",
         "name": "Trevenant-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -1249,6 +1268,7 @@ let xy5 = [
         "id": "xy5-20",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -1317,6 +1337,7 @@ let xy5 = [
         "id": "xy5-21",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1383,6 +1404,7 @@ let xy5 = [
         "id": "xy5-22",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -1453,6 +1475,7 @@ let xy5 = [
         "id": "xy5-23",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1521,6 +1544,7 @@ let xy5 = [
         "id": "xy5-24",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1594,6 +1618,7 @@ let xy5 = [
         "id": "xy5-25",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -1653,6 +1678,7 @@ let xy5 = [
         "id": "xy5-26",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -1725,6 +1751,7 @@ let xy5 = [
         "id": "xy5-27",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1795,6 +1822,7 @@ let xy5 = [
         "id": "xy5-28",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1862,6 +1890,7 @@ let xy5 = [
         "id": "xy5-29",
         "name": "Camerupt-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -1937,6 +1966,7 @@ let xy5 = [
         "id": "xy5-30",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -1996,6 +2026,7 @@ let xy5 = [
         "id": "xy5-31",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2066,6 +2097,7 @@ let xy5 = [
         "id": "xy5-32",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -2125,6 +2157,7 @@ let xy5 = [
         "id": "xy5-33",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -2194,6 +2227,7 @@ let xy5 = [
         "id": "xy5-34",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2266,6 +2300,7 @@ let xy5 = [
         "id": "xy5-35",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -2337,6 +2372,7 @@ let xy5 = [
         "id": "xy5-36",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -2407,6 +2443,7 @@ let xy5 = [
         "id": "xy5-37",
         "name": "Ludicolo",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -2479,6 +2516,7 @@ let xy5 = [
         "id": "xy5-38",
         "name": "Wailord-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -2549,6 +2587,7 @@ let xy5 = [
         "id": "xy5-39",
         "name": "Barboach",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -2609,6 +2648,7 @@ let xy5 = [
         "id": "xy5-40",
         "name": "Whiscash",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2677,6 +2717,7 @@ let xy5 = [
         "id": "xy5-41",
         "name": "Whiscash",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2752,6 +2793,7 @@ let xy5 = [
         "id": "xy5-42",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -2821,6 +2863,7 @@ let xy5 = [
         "id": "xy5-43",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -2880,6 +2923,7 @@ let xy5 = [
         "id": "xy5-44",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2946,6 +2990,7 @@ let xy5 = [
         "id": "xy5-45",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -3006,6 +3051,7 @@ let xy5 = [
         "id": "xy5-46",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -3066,6 +3112,7 @@ let xy5 = [
         "id": "xy5-47",
         "name": "Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3138,6 +3185,7 @@ let xy5 = [
         "id": "xy5-48",
         "name": "Walrein",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -3208,6 +3256,7 @@ let xy5 = [
         "id": "xy5-49",
         "name": "Clamperl",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -3268,6 +3317,7 @@ let xy5 = [
         "id": "xy5-50",
         "name": "Huntail",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3336,6 +3386,7 @@ let xy5 = [
         "id": "xy5-51",
         "name": "Gorebyss",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3402,6 +3453,7 @@ let xy5 = [
         "id": "xy5-52",
         "name": "Gorebyss",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3464,6 +3516,7 @@ let xy5 = [
         "id": "xy5-53",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -3533,6 +3586,7 @@ let xy5 = [
         "id": "xy5-54",
         "name": "Kyogre-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -3605,6 +3659,7 @@ let xy5 = [
         "id": "xy5-55",
         "name": "Primal Kyogre-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "MEGA",
             "EX"
@@ -3673,6 +3728,7 @@ let xy5 = [
         "id": "xy5-56",
         "name": "Manaphy",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -3738,6 +3794,7 @@ let xy5 = [
         "id": "xy5-57",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -3804,6 +3861,7 @@ let xy5 = [
         "id": "xy5-58",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3879,6 +3937,7 @@ let xy5 = [
         "id": "xy5-59",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -3954,6 +4013,7 @@ let xy5 = [
         "id": "xy5-60",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -4023,6 +4083,7 @@ let xy5 = [
         "id": "xy5-61",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4098,6 +4159,7 @@ let xy5 = [
         "id": "xy5-62",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -4163,6 +4225,7 @@ let xy5 = [
         "id": "xy5-63",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4241,6 +4304,7 @@ let xy5 = [
         "id": "xy5-64",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4313,6 +4377,7 @@ let xy5 = [
         "id": "xy5-65",
         "name": "Eelektross",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -4386,6 +4451,7 @@ let xy5 = [
         "id": "xy5-66",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -4455,6 +4521,7 @@ let xy5 = [
         "id": "xy5-67",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4526,6 +4593,7 @@ let xy5 = [
         "id": "xy5-68",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -4595,6 +4663,7 @@ let xy5 = [
         "id": "xy5-69",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -4667,6 +4736,7 @@ let xy5 = [
         "id": "xy5-70",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -4726,6 +4796,7 @@ let xy5 = [
         "id": "xy5-71",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -4790,6 +4861,7 @@ let xy5 = [
         "id": "xy5-72",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4857,6 +4929,7 @@ let xy5 = [
         "id": "xy5-73",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4913,6 +4986,7 @@ let xy5 = [
         "id": "xy5-74",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -4973,6 +5047,7 @@ let xy5 = [
         "id": "xy5-75",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -5047,6 +5122,7 @@ let xy5 = [
         "id": "xy5-76",
         "name": "Rhyperior",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -5118,6 +5194,7 @@ let xy5 = [
         "id": "xy5-77",
         "name": "Rhyperior",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -5189,6 +5266,7 @@ let xy5 = [
         "id": "xy5-78",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -5260,6 +5338,7 @@ let xy5 = [
         "id": "xy5-79",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -5319,6 +5398,7 @@ let xy5 = [
         "id": "xy5-80",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -5386,6 +5466,7 @@ let xy5 = [
         "id": "xy5-81",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -5457,6 +5538,7 @@ let xy5 = [
         "id": "xy5-82",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -5526,6 +5608,7 @@ let xy5 = [
         "id": "xy5-83",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -5592,6 +5675,7 @@ let xy5 = [
         "id": "xy5-84",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -5661,6 +5745,7 @@ let xy5 = [
         "id": "xy5-85",
         "name": "Groudon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -5733,6 +5818,7 @@ let xy5 = [
         "id": "xy5-86",
         "name": "Primal Groudon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "MEGA",
             "EX"
@@ -5801,6 +5887,7 @@ let xy5 = [
         "id": "xy5-87",
         "name": "Hippopotas",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -5872,6 +5959,7 @@ let xy5 = [
         "id": "xy5-88",
         "name": "Hippowdon",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -5943,6 +6031,7 @@ let xy5 = [
         "id": "xy5-89",
         "name": "Drilbur",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -6002,6 +6091,7 @@ let xy5 = [
         "id": "xy5-90",
         "name": "Diggersby",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -6070,6 +6160,7 @@ let xy5 = [
         "id": "xy5-91",
         "name": "Sharpedo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -6144,6 +6235,7 @@ let xy5 = [
         "id": "xy5-92",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -6216,6 +6308,7 @@ let xy5 = [
         "id": "xy5-93",
         "name": "Aggron-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -6298,6 +6391,7 @@ let xy5 = [
         "id": "xy5-94",
         "name": "M Aggron-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6368,6 +6462,7 @@ let xy5 = [
         "id": "xy5-95",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -6442,6 +6537,7 @@ let xy5 = [
         "id": "xy5-96",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -6516,6 +6612,7 @@ let xy5 = [
         "id": "xy5-97",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -6594,6 +6691,7 @@ let xy5 = [
         "id": "xy5-98",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -6659,6 +6757,7 @@ let xy5 = [
         "id": "xy5-99",
         "name": "Doublade",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -6737,6 +6836,7 @@ let xy5 = [
         "id": "xy5-100",
         "name": "Aegislash",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -6809,6 +6909,7 @@ let xy5 = [
         "id": "xy5-101",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -6881,6 +6982,7 @@ let xy5 = [
         "id": "xy5-102",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -6956,6 +7058,7 @@ let xy5 = [
         "id": "xy5-103",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -7031,6 +7134,7 @@ let xy5 = [
         "id": "xy5-104",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -7110,6 +7214,7 @@ let xy5 = [
         "id": "xy5-105",
         "name": "Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -7189,6 +7294,7 @@ let xy5 = [
         "id": "xy5-106",
         "name": "M Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "MEGA",
             "EX"
@@ -7258,6 +7364,7 @@ let xy5 = [
         "id": "xy5-107",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -7325,6 +7432,7 @@ let xy5 = [
         "id": "xy5-108",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -7397,6 +7505,7 @@ let xy5 = [
         "id": "xy5-109",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -7468,6 +7577,7 @@ let xy5 = [
         "id": "xy5-110",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 2"
         ],
@@ -7534,6 +7644,7 @@ let xy5 = [
         "id": "xy5-111",
         "name": "Zigzagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -7603,6 +7714,7 @@ let xy5 = [
         "id": "xy5-112",
         "name": "Linoone",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -7671,6 +7783,7 @@ let xy5 = [
         "id": "xy5-113",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -7740,6 +7853,7 @@ let xy5 = [
         "id": "xy5-114",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -7807,6 +7921,7 @@ let xy5 = [
         "id": "xy5-115",
         "name": "Spinda",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -7872,6 +7987,7 @@ let xy5 = [
         "id": "xy5-116",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -7941,6 +8057,7 @@ let xy5 = [
         "id": "xy5-117",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -8005,6 +8122,7 @@ let xy5 = [
         "id": "xy5-118",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stage 1"
         ],
@@ -8073,6 +8191,7 @@ let xy5 = [
         "id": "xy5-119",
         "name": "Bouffalant",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -8138,6 +8257,7 @@ let xy5 = [
         "id": "xy5-120",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -8198,6 +8318,7 @@ let xy5 = [
         "id": "xy5-121",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic"
         ],
@@ -8270,6 +8391,7 @@ let xy5 = [
         "id": "xy5-122",
         "name": "Acro Bike",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Item"
         ],
@@ -8304,6 +8426,7 @@ let xy5 = [
         "id": "xy5-123",
         "name": "Aggron Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8339,6 +8462,7 @@ let xy5 = [
         "id": "xy5-124",
         "name": "Archie's Ace in the Hole",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Supporter"
         ],
@@ -8374,6 +8498,7 @@ let xy5 = [
         "id": "xy5-125",
         "name": "Dive Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Item"
         ],
@@ -8408,6 +8533,7 @@ let xy5 = [
         "id": "xy5-126",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Item"
         ],
@@ -8442,6 +8568,7 @@ let xy5 = [
         "id": "xy5-127",
         "name": "Escape Rope",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Item"
         ],
@@ -8476,6 +8603,7 @@ let xy5 = [
         "id": "xy5-128",
         "name": "Exp. Share",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8511,6 +8639,7 @@ let xy5 = [
         "id": "xy5-129",
         "name": "Fresh Water Set",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Item"
         ],
@@ -8545,6 +8674,7 @@ let xy5 = [
         "id": "xy5-130",
         "name": "Gardevoir Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8580,6 +8710,7 @@ let xy5 = [
         "id": "xy5-131",
         "name": "Groudon Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8615,6 +8746,7 @@ let xy5 = [
         "id": "xy5-132",
         "name": "Kyogre Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8650,6 +8782,7 @@ let xy5 = [
         "id": "xy5-133",
         "name": "Maxie's Hidden Ball Trick",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Supporter"
         ],
@@ -8688,6 +8821,7 @@ let xy5 = [
         "id": "xy5-134",
         "name": "Professor Birch's Observations",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Supporter"
         ],
@@ -8722,6 +8856,7 @@ let xy5 = [
         "id": "xy5-135",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Item"
         ],
@@ -8756,6 +8891,7 @@ let xy5 = [
         "id": "xy5-136",
         "name": "Repeat Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Item"
         ],
@@ -8790,6 +8926,7 @@ let xy5 = [
         "id": "xy5-137",
         "name": "Rough Seas",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stadium"
         ],
@@ -8824,6 +8961,7 @@ let xy5 = [
         "id": "xy5-138",
         "name": "Scorched Earth",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stadium"
         ],
@@ -8858,6 +8996,7 @@ let xy5 = [
         "id": "xy5-139",
         "name": "Shrine of Memories",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stadium"
         ],
@@ -8892,6 +9031,7 @@ let xy5 = [
         "id": "xy5-140",
         "name": "Silent Lab",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Stadium"
         ],
@@ -8926,6 +9066,7 @@ let xy5 = [
         "id": "xy5-141",
         "name": "Teammates",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Supporter"
         ],
@@ -8961,6 +9102,7 @@ let xy5 = [
         "id": "xy5-142",
         "name": "Weakness Policy",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8996,6 +9138,7 @@ let xy5 = [
         "id": "xy5-143",
         "name": "Shield Energy",
         "supertype": "Energy",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Special"
         ],
@@ -9031,6 +9174,7 @@ let xy5 = [
         "id": "xy5-144",
         "name": "Wonder Energy",
         "supertype": "Energy",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Special"
         ],
@@ -9066,6 +9210,7 @@ let xy5 = [
         "id": "xy5-145",
         "name": "Trevenant-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -9136,6 +9281,7 @@ let xy5 = [
         "id": "xy5-146",
         "name": "Camerupt-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -9211,6 +9357,7 @@ let xy5 = [
         "id": "xy5-147",
         "name": "Wailord-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -9281,6 +9428,7 @@ let xy5 = [
         "id": "xy5-148",
         "name": "Kyogre-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -9353,6 +9501,7 @@ let xy5 = [
         "id": "xy5-149",
         "name": "Primal Kyogre-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "MEGA",
             "EX"
@@ -9421,6 +9570,7 @@ let xy5 = [
         "id": "xy5-150",
         "name": "Groudon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -9493,6 +9643,7 @@ let xy5 = [
         "id": "xy5-151",
         "name": "Primal Groudon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "MEGA",
             "EX"
@@ -9561,6 +9712,7 @@ let xy5 = [
         "id": "xy5-152",
         "name": "Sharpedo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -9635,6 +9787,7 @@ let xy5 = [
         "id": "xy5-153",
         "name": "Aggron-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -9717,6 +9870,7 @@ let xy5 = [
         "id": "xy5-154",
         "name": "M Aggron-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "MEGA",
             "EX"
@@ -9787,6 +9941,7 @@ let xy5 = [
         "id": "xy5-155",
         "name": "Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Basic",
             "EX"
@@ -9866,6 +10021,7 @@ let xy5 = [
         "id": "xy5-156",
         "name": "M Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PRC",
         "subtypes": [
             "MEGA",
             "EX"
@@ -9935,6 +10091,7 @@ let xy5 = [
         "id": "xy5-157",
         "name": "Archie's Ace in the Hole",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Supporter"
         ],
@@ -9970,6 +10127,7 @@ let xy5 = [
         "id": "xy5-158",
         "name": "Maxie's Hidden Ball Trick",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Supporter"
         ],
@@ -10008,6 +10166,7 @@ let xy5 = [
         "id": "xy5-159",
         "name": "Professor Birch's Observations",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Supporter"
         ],
@@ -10042,6 +10201,7 @@ let xy5 = [
         "id": "xy5-160",
         "name": "Teammates",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Supporter"
         ],
@@ -10077,6 +10237,7 @@ let xy5 = [
         "id": "xy5-161",
         "name": "Dive Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Item"
         ],
@@ -10111,6 +10272,7 @@ let xy5 = [
         "id": "xy5-162",
         "name": "Enhanced Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Item"
         ],
@@ -10145,6 +10307,7 @@ let xy5 = [
         "id": "xy5-163",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Item"
         ],
@@ -10179,6 +10342,7 @@ let xy5 = [
         "id": "xy5-164",
         "name": "Weakness Policy",
         "supertype": "Trainer",
+        "setAbbrev": "PRC",
         "subtypes": [
             "Pokémon Tool"
         ],

@@ -3,6 +3,7 @@ let swsh1 = [
         "id": "swsh1-1",
         "name": "Celebi V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -110,6 +111,7 @@ let swsh1 = [
         "id": "swsh1-2",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -214,6 +216,7 @@ let swsh1 = [
         "id": "swsh1-3",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -328,6 +331,7 @@ let swsh1 = [
         "id": "swsh1-4",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -441,6 +445,7 @@ let swsh1 = [
         "id": "swsh1-5",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -545,6 +550,7 @@ let swsh1 = [
         "id": "swsh1-6",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -656,6 +662,7 @@ let swsh1 = [
         "id": "swsh1-7",
         "name": "Maractus",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -768,6 +775,7 @@ let swsh1 = [
         "id": "swsh1-8",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -870,6 +878,7 @@ let swsh1 = [
         "id": "swsh1-9",
         "name": "Dhelmise V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -979,6 +988,7 @@ let swsh1 = [
         "id": "swsh1-10",
         "name": "Grookey",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -1083,6 +1093,7 @@ let swsh1 = [
         "id": "swsh1-11",
         "name": "Grookey",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -1197,6 +1208,7 @@ let swsh1 = [
         "id": "swsh1-12",
         "name": "Thwackey",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -1314,6 +1326,7 @@ let swsh1 = [
         "id": "swsh1-13",
         "name": "Thwackey",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -1432,6 +1445,7 @@ let swsh1 = [
         "id": "swsh1-14",
         "name": "Rillaboom",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -1546,6 +1560,7 @@ let swsh1 = [
         "id": "swsh1-15",
         "name": "Rillaboom",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -1665,6 +1680,7 @@ let swsh1 = [
         "id": "swsh1-16",
         "name": "Blipbug",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -1769,6 +1785,7 @@ let swsh1 = [
         "id": "swsh1-17",
         "name": "Blipbug",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -1873,6 +1890,7 @@ let swsh1 = [
         "id": "swsh1-18",
         "name": "Dottler",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -1989,6 +2007,7 @@ let swsh1 = [
         "id": "swsh1-19",
         "name": "Orbeetle",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -2099,6 +2118,7 @@ let swsh1 = [
         "id": "swsh1-20",
         "name": "Gossifleur",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -2212,6 +2232,7 @@ let swsh1 = [
         "id": "swsh1-21",
         "name": "Eldegoss",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -2323,6 +2344,7 @@ let swsh1 = [
         "id": "swsh1-22",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -2427,6 +2449,7 @@ let swsh1 = [
         "id": "swsh1-23",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -2539,6 +2562,7 @@ let swsh1 = [
         "id": "swsh1-24",
         "name": "Torkoal V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -2653,6 +2677,7 @@ let swsh1 = [
         "id": "swsh1-25",
         "name": "Victini V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -2761,6 +2786,7 @@ let swsh1 = [
         "id": "swsh1-26",
         "name": "Heatmor",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -2872,6 +2898,7 @@ let swsh1 = [
         "id": "swsh1-27",
         "name": "Salandit",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -2976,6 +3003,7 @@ let swsh1 = [
         "id": "swsh1-28",
         "name": "Salazzle",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -3088,6 +3116,7 @@ let swsh1 = [
         "id": "swsh1-29",
         "name": "Turtonator",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -3204,6 +3233,7 @@ let swsh1 = [
         "id": "swsh1-30",
         "name": "Scorbunny",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -3308,6 +3338,7 @@ let swsh1 = [
         "id": "swsh1-31",
         "name": "Scorbunny",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -3422,6 +3453,7 @@ let swsh1 = [
         "id": "swsh1-32",
         "name": "Raboot",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -3538,6 +3570,7 @@ let swsh1 = [
         "id": "swsh1-33",
         "name": "Raboot",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -3653,6 +3686,7 @@ let swsh1 = [
         "id": "swsh1-34",
         "name": "Cinderace",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -3764,6 +3798,7 @@ let swsh1 = [
         "id": "swsh1-35",
         "name": "Cinderace",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -3876,6 +3911,7 @@ let swsh1 = [
         "id": "swsh1-36",
         "name": "Cinderace",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -3990,6 +4026,7 @@ let swsh1 = [
         "id": "swsh1-37",
         "name": "Sizzlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -4105,6 +4142,7 @@ let swsh1 = [
         "id": "swsh1-38",
         "name": "Sizzlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -4210,6 +4248,7 @@ let swsh1 = [
         "id": "swsh1-39",
         "name": "Centiskorch",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -4326,6 +4365,7 @@ let swsh1 = [
         "id": "swsh1-40",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -4431,6 +4471,7 @@ let swsh1 = [
         "id": "swsh1-41",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -4545,6 +4586,7 @@ let swsh1 = [
         "id": "swsh1-42",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -4660,6 +4702,7 @@ let swsh1 = [
         "id": "swsh1-43",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -4766,6 +4809,7 @@ let swsh1 = [
         "id": "swsh1-44",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -4880,6 +4924,7 @@ let swsh1 = [
         "id": "swsh1-45",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -4984,6 +5029,7 @@ let swsh1 = [
         "id": "swsh1-46",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -5098,6 +5144,7 @@ let swsh1 = [
         "id": "swsh1-47",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -5211,6 +5258,7 @@ let swsh1 = [
         "id": "swsh1-48",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -5317,6 +5365,7 @@ let swsh1 = [
         "id": "swsh1-49",
         "name": "Lapras V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -5427,6 +5476,7 @@ let swsh1 = [
         "id": "swsh1-50",
         "name": "Lapras VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "VMAX"
         ],
@@ -5528,6 +5578,7 @@ let swsh1 = [
         "id": "swsh1-51",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -5636,6 +5687,7 @@ let swsh1 = [
         "id": "swsh1-52",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -5747,6 +5799,7 @@ let swsh1 = [
         "id": "swsh1-53",
         "name": "Keldeo V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -5856,6 +5909,7 @@ let swsh1 = [
         "id": "swsh1-54",
         "name": "Sobble",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -5960,6 +6014,7 @@ let swsh1 = [
         "id": "swsh1-55",
         "name": "Sobble",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -6074,6 +6129,7 @@ let swsh1 = [
         "id": "swsh1-56",
         "name": "Drizzile",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -6187,6 +6243,7 @@ let swsh1 = [
         "id": "swsh1-57",
         "name": "Drizzile",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -6302,6 +6359,7 @@ let swsh1 = [
         "id": "swsh1-58",
         "name": "Inteleon",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -6412,6 +6470,7 @@ let swsh1 = [
         "id": "swsh1-59",
         "name": "Inteleon",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -6524,6 +6583,7 @@ let swsh1 = [
         "id": "swsh1-60",
         "name": "Chewtle",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -6641,6 +6701,7 @@ let swsh1 = [
         "id": "swsh1-61",
         "name": "Drednaw",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -6759,6 +6820,7 @@ let swsh1 = [
         "id": "swsh1-62",
         "name": "Cramorant",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -6870,6 +6932,7 @@ let swsh1 = [
         "id": "swsh1-63",
         "name": "Snom",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -6974,6 +7037,7 @@ let swsh1 = [
         "id": "swsh1-64",
         "name": "Frosmoth",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -7085,6 +7149,7 @@ let swsh1 = [
         "id": "swsh1-65",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -7199,6 +7264,7 @@ let swsh1 = [
         "id": "swsh1-66",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -7312,6 +7378,7 @@ let swsh1 = [
         "id": "swsh1-67",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -7417,6 +7484,7 @@ let swsh1 = [
         "id": "swsh1-68",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -7531,6 +7599,7 @@ let swsh1 = [
         "id": "swsh1-69",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -7645,6 +7714,7 @@ let swsh1 = [
         "id": "swsh1-70",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -7749,6 +7819,7 @@ let swsh1 = [
         "id": "swsh1-71",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -7852,6 +7923,7 @@ let swsh1 = [
         "id": "swsh1-72",
         "name": "Tapu Koko V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -7956,6 +8028,7 @@ let swsh1 = [
         "id": "swsh1-73",
         "name": "Yamper",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -8069,6 +8142,7 @@ let swsh1 = [
         "id": "swsh1-74",
         "name": "Yamper",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -8183,6 +8257,7 @@ let swsh1 = [
         "id": "swsh1-75",
         "name": "Boltund",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -8297,6 +8372,7 @@ let swsh1 = [
         "id": "swsh1-76",
         "name": "Boltund",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -8407,6 +8483,7 @@ let swsh1 = [
         "id": "swsh1-77",
         "name": "Pincurchin",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -8510,6 +8587,7 @@ let swsh1 = [
         "id": "swsh1-78",
         "name": "Morpeko",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -8611,6 +8689,7 @@ let swsh1 = [
         "id": "swsh1-79",
         "name": "Morpeko V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -8720,6 +8799,7 @@ let swsh1 = [
         "id": "swsh1-80",
         "name": "Morpeko VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "VMAX"
         ],
@@ -8819,6 +8899,7 @@ let swsh1 = [
         "id": "swsh1-81",
         "name": "Galarian Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -8929,6 +9010,7 @@ let swsh1 = [
         "id": "swsh1-82",
         "name": "Galarian Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -9045,6 +9127,7 @@ let swsh1 = [
         "id": "swsh1-83",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -9155,6 +9238,7 @@ let swsh1 = [
         "id": "swsh1-84",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -9276,6 +9360,7 @@ let swsh1 = [
         "id": "swsh1-85",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -9394,6 +9479,7 @@ let swsh1 = [
         "id": "swsh1-86",
         "name": "Wobbuffet V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -9510,6 +9596,7 @@ let swsh1 = [
         "id": "swsh1-87",
         "name": "Munna",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -9630,6 +9717,7 @@ let swsh1 = [
         "id": "swsh1-88",
         "name": "Musharna",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -9750,6 +9838,7 @@ let swsh1 = [
         "id": "swsh1-89",
         "name": "Sinistea",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -9860,6 +9949,7 @@ let swsh1 = [
         "id": "swsh1-90",
         "name": "Polteageist",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -9978,6 +10068,7 @@ let swsh1 = [
         "id": "swsh1-91",
         "name": "Indeedee V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -10091,6 +10182,7 @@ let swsh1 = [
         "id": "swsh1-92",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -10195,6 +10287,7 @@ let swsh1 = [
         "id": "swsh1-93",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -10297,6 +10390,7 @@ let swsh1 = [
         "id": "swsh1-94",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -10410,6 +10504,7 @@ let swsh1 = [
         "id": "swsh1-95",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -10521,6 +10616,7 @@ let swsh1 = [
         "id": "swsh1-96",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -10637,6 +10733,7 @@ let swsh1 = [
         "id": "swsh1-97",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -10754,6 +10851,7 @@ let swsh1 = [
         "id": "swsh1-98",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -10876,6 +10974,7 @@ let swsh1 = [
         "id": "swsh1-99",
         "name": "Rhyperior",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -10995,6 +11094,7 @@ let swsh1 = [
         "id": "swsh1-100",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -11105,6 +11205,7 @@ let swsh1 = [
         "id": "swsh1-101",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -11219,6 +11320,7 @@ let swsh1 = [
         "id": "swsh1-102",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -11323,6 +11425,7 @@ let swsh1 = [
         "id": "swsh1-103",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -11436,6 +11539,7 @@ let swsh1 = [
         "id": "swsh1-104",
         "name": "Regirock V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -11547,6 +11651,7 @@ let swsh1 = [
         "id": "swsh1-105",
         "name": "Mudbray",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -11662,6 +11767,7 @@ let swsh1 = [
         "id": "swsh1-106",
         "name": "Mudsdale",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -11768,6 +11874,7 @@ let swsh1 = [
         "id": "swsh1-107",
         "name": "Silicobra",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -11873,6 +11980,7 @@ let swsh1 = [
         "id": "swsh1-108",
         "name": "Silicobra",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -11987,6 +12095,7 @@ let swsh1 = [
         "id": "swsh1-109",
         "name": "Sandaconda",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -12101,6 +12210,7 @@ let swsh1 = [
         "id": "swsh1-110",
         "name": "Sandaconda",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -12212,6 +12322,7 @@ let swsh1 = [
         "id": "swsh1-111",
         "name": "Clobbopus",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -12317,6 +12428,7 @@ let swsh1 = [
         "id": "swsh1-112",
         "name": "Clobbopus",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -12423,6 +12535,7 @@ let swsh1 = [
         "id": "swsh1-113",
         "name": "Grapploct",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -12538,6 +12651,7 @@ let swsh1 = [
         "id": "swsh1-114",
         "name": "Stonjourner",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -12641,6 +12755,7 @@ let swsh1 = [
         "id": "swsh1-115",
         "name": "Stonjourner V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -12751,6 +12866,7 @@ let swsh1 = [
         "id": "swsh1-116",
         "name": "Stonjourner VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "VMAX"
         ],
@@ -12861,6 +12977,7 @@ let swsh1 = [
         "id": "swsh1-117",
         "name": "Galarian Zigzagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -12973,6 +13090,7 @@ let swsh1 = [
         "id": "swsh1-118",
         "name": "Galarian Linoone",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -13090,6 +13208,7 @@ let swsh1 = [
         "id": "swsh1-119",
         "name": "Galarian Obstagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -13201,6 +13320,7 @@ let swsh1 = [
         "id": "swsh1-120",
         "name": "Sableye V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -13309,6 +13429,7 @@ let swsh1 = [
         "id": "swsh1-121",
         "name": "Skorupi",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -13425,6 +13546,7 @@ let swsh1 = [
         "id": "swsh1-122",
         "name": "Drapion",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -13543,6 +13665,7 @@ let swsh1 = [
         "id": "swsh1-123",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -13657,6 +13780,7 @@ let swsh1 = [
         "id": "swsh1-124",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -13768,6 +13892,7 @@ let swsh1 = [
         "id": "swsh1-125",
         "name": "Nickit",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -13872,6 +13997,7 @@ let swsh1 = [
         "id": "swsh1-126",
         "name": "Thievul",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -13985,6 +14111,7 @@ let swsh1 = [
         "id": "swsh1-127",
         "name": "Galarian Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -14105,6 +14232,7 @@ let swsh1 = [
         "id": "swsh1-128",
         "name": "Galarian Perrserker",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -14223,6 +14351,7 @@ let swsh1 = [
         "id": "swsh1-129",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -14340,6 +14469,7 @@ let swsh1 = [
         "id": "swsh1-130",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -14451,6 +14581,7 @@ let swsh1 = [
         "id": "swsh1-131",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -14571,6 +14702,7 @@ let swsh1 = [
         "id": "swsh1-132",
         "name": "Galarian Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -14687,6 +14819,7 @@ let swsh1 = [
         "id": "swsh1-133",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -14807,6 +14940,7 @@ let swsh1 = [
         "id": "swsh1-134",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -14926,6 +15060,7 @@ let swsh1 = [
         "id": "swsh1-135",
         "name": "Corviknight",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 2"
         ],
@@ -15046,6 +15181,7 @@ let swsh1 = [
         "id": "swsh1-136",
         "name": "Cufant",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -15159,6 +15295,7 @@ let swsh1 = [
         "id": "swsh1-137",
         "name": "Copperajah",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -15282,6 +15419,7 @@ let swsh1 = [
         "id": "swsh1-138",
         "name": "Zacian V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -15395,6 +15533,7 @@ let swsh1 = [
         "id": "swsh1-139",
         "name": "Zamazenta V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -15508,6 +15647,7 @@ let swsh1 = [
         "id": "swsh1-140",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -15626,6 +15766,7 @@ let swsh1 = [
         "id": "swsh1-141",
         "name": "Snorlax V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -15740,6 +15881,7 @@ let swsh1 = [
         "id": "swsh1-142",
         "name": "Snorlax VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "VMAX"
         ],
@@ -15842,6 +15984,7 @@ let swsh1 = [
         "id": "swsh1-143",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -15962,6 +16105,7 @@ let swsh1 = [
         "id": "swsh1-144",
         "name": "Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -16082,6 +16226,7 @@ let swsh1 = [
         "id": "swsh1-145",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -16196,6 +16341,7 @@ let swsh1 = [
         "id": "swsh1-146",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -16300,6 +16446,7 @@ let swsh1 = [
         "id": "swsh1-147",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -16409,6 +16556,7 @@ let swsh1 = [
         "id": "swsh1-148",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -16520,6 +16668,7 @@ let swsh1 = [
         "id": "swsh1-149",
         "name": "Drampa",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -16623,6 +16772,7 @@ let swsh1 = [
         "id": "swsh1-150",
         "name": "Rookidee",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -16743,6 +16893,7 @@ let swsh1 = [
         "id": "swsh1-151",
         "name": "Corvisquire",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -16864,6 +17015,7 @@ let swsh1 = [
         "id": "swsh1-152",
         "name": "Wooloo",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -16969,6 +17121,7 @@ let swsh1 = [
         "id": "swsh1-153",
         "name": "Wooloo",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -17084,6 +17237,7 @@ let swsh1 = [
         "id": "swsh1-154",
         "name": "Dubwool",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Stage 1"
         ],
@@ -17198,6 +17352,7 @@ let swsh1 = [
         "id": "swsh1-155",
         "name": "Cramorant V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -17312,6 +17467,7 @@ let swsh1 = [
         "id": "swsh1-156",
         "name": "Air Balloon",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -17390,6 +17546,7 @@ let swsh1 = [
         "id": "swsh1-157",
         "name": "Bede",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -17467,6 +17624,7 @@ let swsh1 = [
         "id": "swsh1-158",
         "name": "Big Charm",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -17545,6 +17703,7 @@ let swsh1 = [
         "id": "swsh1-159",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -17622,6 +17781,7 @@ let swsh1 = [
         "id": "swsh1-160",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -17699,6 +17859,7 @@ let swsh1 = [
         "id": "swsh1-161",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -17776,6 +17937,7 @@ let swsh1 = [
         "id": "swsh1-162",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -17853,6 +18015,7 @@ let swsh1 = [
         "id": "swsh1-163",
         "name": "Evolution Incense",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -17930,6 +18093,7 @@ let swsh1 = [
         "id": "swsh1-164",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -18007,6 +18171,7 @@ let swsh1 = [
         "id": "swsh1-165",
         "name": "Hop",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -18084,6 +18249,7 @@ let swsh1 = [
         "id": "swsh1-166",
         "name": "Hyper Potion",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -18161,6 +18327,7 @@ let swsh1 = [
         "id": "swsh1-167",
         "name": "Lucky Egg",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -18239,6 +18406,7 @@ let swsh1 = [
         "id": "swsh1-168",
         "name": "Lum Berry",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -18317,6 +18485,7 @@ let swsh1 = [
         "id": "swsh1-169",
         "name": "Marnie",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -18394,6 +18563,7 @@ let swsh1 = [
         "id": "swsh1-170",
         "name": "Metal Saucer",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -18471,6 +18641,7 @@ let swsh1 = [
         "id": "swsh1-171",
         "name": "Ordinary Rod",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -18548,6 +18719,7 @@ let swsh1 = [
         "id": "swsh1-172",
         "name": "Pal Pad",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -18625,6 +18797,7 @@ let swsh1 = [
         "id": "swsh1-173",
         "name": "Poké Kid",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -18702,6 +18875,7 @@ let swsh1 = [
         "id": "swsh1-174",
         "name": "Pokégear 3.0",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -18779,6 +18953,7 @@ let swsh1 = [
         "id": "swsh1-175",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -18856,6 +19031,7 @@ let swsh1 = [
         "id": "swsh1-176",
         "name": "Pokémon Center Lady",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -18933,6 +19109,7 @@ let swsh1 = [
         "id": "swsh1-177",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -19010,6 +19187,7 @@ let swsh1 = [
         "id": "swsh1-178",
         "name": "Professor's Research (Professor Magnolia)",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -19087,6 +19265,7 @@ let swsh1 = [
         "id": "swsh1-179",
         "name": "Quick Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -19165,6 +19344,7 @@ let swsh1 = [
         "id": "swsh1-180",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -19242,6 +19422,7 @@ let swsh1 = [
         "id": "swsh1-181",
         "name": "Rotom Bike",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -19319,6 +19500,7 @@ let swsh1 = [
         "id": "swsh1-182",
         "name": "Sitrus Berry",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -19397,6 +19579,7 @@ let swsh1 = [
         "id": "swsh1-183",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -19474,6 +19657,7 @@ let swsh1 = [
         "id": "swsh1-184",
         "name": "Team Yell Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -19551,6 +19735,7 @@ let swsh1 = [
         "id": "swsh1-185",
         "name": "Vitality Band",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -19629,6 +19814,7 @@ let swsh1 = [
         "id": "swsh1-186",
         "name": "Aurora Energy",
         "supertype": "Energy",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Special"
         ],
@@ -19705,6 +19891,7 @@ let swsh1 = [
         "id": "swsh1-187",
         "name": "Dhelmise V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -19814,6 +20001,7 @@ let swsh1 = [
         "id": "swsh1-188",
         "name": "Torkoal V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -19928,6 +20116,7 @@ let swsh1 = [
         "id": "swsh1-189",
         "name": "Lapras V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -20038,6 +20227,7 @@ let swsh1 = [
         "id": "swsh1-190",
         "name": "Morpeko V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -20147,6 +20337,7 @@ let swsh1 = [
         "id": "swsh1-191",
         "name": "Wobbuffet V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -20263,6 +20454,7 @@ let swsh1 = [
         "id": "swsh1-192",
         "name": "Indeedee V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -20376,6 +20568,7 @@ let swsh1 = [
         "id": "swsh1-193",
         "name": "Stonjourner V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -20486,6 +20679,7 @@ let swsh1 = [
         "id": "swsh1-194",
         "name": "Sableye V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -20594,6 +20788,7 @@ let swsh1 = [
         "id": "swsh1-195",
         "name": "Zacian V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -20707,6 +20902,7 @@ let swsh1 = [
         "id": "swsh1-196",
         "name": "Zamazenta V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -20820,6 +21016,7 @@ let swsh1 = [
         "id": "swsh1-197",
         "name": "Snorlax V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -20934,6 +21131,7 @@ let swsh1 = [
         "id": "swsh1-198",
         "name": "Cramorant V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -21048,6 +21246,7 @@ let swsh1 = [
         "id": "swsh1-199",
         "name": "Bede",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -21118,6 +21317,7 @@ let swsh1 = [
         "id": "swsh1-200",
         "name": "Marnie",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -21188,6 +21388,7 @@ let swsh1 = [
         "id": "swsh1-201",
         "name": "Professor's Research (Professor Magnolia)",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -21258,6 +21459,7 @@ let swsh1 = [
         "id": "swsh1-202",
         "name": "Team Yell Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -21328,6 +21530,7 @@ let swsh1 = [
         "id": "swsh1-203",
         "name": "Lapras VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "VMAX"
         ],
@@ -21429,6 +21632,7 @@ let swsh1 = [
         "id": "swsh1-204",
         "name": "Morpeko VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "VMAX"
         ],
@@ -21528,6 +21732,7 @@ let swsh1 = [
         "id": "swsh1-205",
         "name": "Stonjourner VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "VMAX"
         ],
@@ -21638,6 +21843,7 @@ let swsh1 = [
         "id": "swsh1-206",
         "name": "Snorlax VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "VMAX"
         ],
@@ -21740,6 +21946,7 @@ let swsh1 = [
         "id": "swsh1-207",
         "name": "Bede",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -21810,6 +22017,7 @@ let swsh1 = [
         "id": "swsh1-208",
         "name": "Marnie",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -21880,6 +22088,7 @@ let swsh1 = [
         "id": "swsh1-209",
         "name": "Professor's Research (Professor Magnolia)",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -21950,6 +22159,7 @@ let swsh1 = [
         "id": "swsh1-210",
         "name": "Team Yell Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Supporter"
         ],
@@ -22020,6 +22230,7 @@ let swsh1 = [
         "id": "swsh1-211",
         "name": "Zacian V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -22133,6 +22344,7 @@ let swsh1 = [
         "id": "swsh1-212",
         "name": "Zamazenta V",
         "supertype": "Pokémon",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic",
             "V"
@@ -22246,6 +22458,7 @@ let swsh1 = [
         "id": "swsh1-213",
         "name": "Air Balloon",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -22317,6 +22530,7 @@ let swsh1 = [
         "id": "swsh1-214",
         "name": "Metal Saucer",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -22387,6 +22601,7 @@ let swsh1 = [
         "id": "swsh1-215",
         "name": "Ordinary Rod",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -22457,6 +22672,7 @@ let swsh1 = [
         "id": "swsh1-216",
         "name": "Quick Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Item"
         ],
@@ -22527,6 +22743,7 @@ let swsh1 = [
     {
         "id": "swsh1-grass",
         "supertype": "Energy",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -22538,6 +22755,7 @@ let swsh1 = [
     {
         "id": "swsh1-fire",
         "supertype": "Energy",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -22549,6 +22767,7 @@ let swsh1 = [
     {
         "id": "swsh1-water",
         "supertype": "Energy",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -22560,6 +22779,7 @@ let swsh1 = [
     {
         "id": "swsh1-lightning",
         "supertype": "Energy",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -22571,6 +22791,7 @@ let swsh1 = [
     {
         "id": "swsh1-fighting",
         "supertype": "Energy",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -22582,6 +22803,7 @@ let swsh1 = [
     {
         "id": "swsh1-psychic",
         "supertype": "Energy",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -22593,6 +22815,7 @@ let swsh1 = [
     {
         "id": "swsh1-dark",
         "supertype": "Energy",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -22604,6 +22827,7 @@ let swsh1 = [
     {
         "id": "swsh1-metal",
         "supertype": "Energy",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],
@@ -22615,6 +22839,7 @@ let swsh1 = [
     {
         "id": "swsh1-fairy",
         "supertype": "Energy",
+        "setAbbrev": "SSH",
         "subtypes": [
             "Basic"
         ],

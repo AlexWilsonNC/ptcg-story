@@ -3,6 +3,7 @@ let hgss2 = [
         "id": "hgss2-1",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -41,7 +42,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -56,7 +57,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             385
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/1.png",
             "large": "https://images.pokemontcg.io/hgss2/1_hires.png"
@@ -66,6 +67,7 @@ let hgss2 = [
         "id": "hgss2-2",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -112,7 +114,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -127,7 +129,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             467
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/2.png",
             "large": "https://images.pokemontcg.io/hgss2/2_hires.png"
@@ -137,6 +139,7 @@ let hgss2 = [
         "id": "hgss2-3",
         "name": "Manaphy",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -176,7 +179,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -191,7 +194,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             490
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/3.png",
             "large": "https://images.pokemontcg.io/hgss2/3_hires.png"
@@ -201,6 +204,7 @@ let hgss2 = [
         "id": "hgss2-4",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2"
         ],
@@ -252,7 +256,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -266,7 +270,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             376
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/4.png",
             "large": "https://images.pokemontcg.io/hgss2/4_hires.png"
@@ -276,6 +280,7 @@ let hgss2 = [
         "id": "hgss2-5",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -321,7 +326,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -336,7 +341,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             429
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/5.png",
             "large": "https://images.pokemontcg.io/hgss2/5_hires.png"
@@ -346,6 +351,7 @@ let hgss2 = [
         "id": "hgss2-6",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -389,7 +395,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -404,7 +410,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             224
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/6.png",
             "large": "https://images.pokemontcg.io/hgss2/6_hires.png"
@@ -414,6 +420,7 @@ let hgss2 = [
         "id": "hgss2-7",
         "name": "Politoed",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2"
         ],
@@ -455,7 +462,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -470,7 +477,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             186
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/7.png",
             "large": "https://images.pokemontcg.io/hgss2/7_hires.png"
@@ -480,6 +487,7 @@ let hgss2 = [
         "id": "hgss2-8",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -525,7 +533,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -540,7 +548,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             492
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/8.png",
             "large": "https://images.pokemontcg.io/hgss2/8_hires.png"
@@ -550,6 +558,7 @@ let hgss2 = [
         "id": "hgss2-9",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -592,7 +601,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -607,7 +616,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             185
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/9.png",
             "large": "https://images.pokemontcg.io/hgss2/9_hires.png"
@@ -617,6 +626,7 @@ let hgss2 = [
         "id": "hgss2-10",
         "name": "Torterra",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2"
         ],
@@ -663,7 +673,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -678,7 +688,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             389
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/10.png",
             "large": "https://images.pokemontcg.io/hgss2/10_hires.png"
@@ -688,6 +698,7 @@ let hgss2 = [
         "id": "hgss2-11",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -737,7 +748,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -752,7 +763,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             178
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/11.png",
             "large": "https://images.pokemontcg.io/hgss2/11_hires.png"
@@ -762,6 +773,7 @@ let hgss2 = [
         "id": "hgss2-12",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2"
         ],
@@ -803,7 +815,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -818,7 +830,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             15
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/12.png",
             "large": "https://images.pokemontcg.io/hgss2/12_hires.png"
@@ -828,6 +840,7 @@ let hgss2 = [
         "id": "hgss2-13",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2"
         ],
@@ -870,7 +883,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -885,7 +898,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             9
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/13.png",
             "large": "https://images.pokemontcg.io/hgss2/13_hires.png"
@@ -895,6 +908,7 @@ let hgss2 = [
         "id": "hgss2-14",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2"
         ],
@@ -943,7 +957,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -958,7 +972,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             169
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/14.png",
             "large": "https://images.pokemontcg.io/hgss2/14_hires.png"
@@ -968,6 +982,7 @@ let hgss2 = [
         "id": "hgss2-15",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1018,7 +1033,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1033,7 +1048,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             22
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/15.png",
             "large": "https://images.pokemontcg.io/hgss2/15_hires.png"
@@ -1043,6 +1058,7 @@ let hgss2 = [
         "id": "hgss2-16",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1083,7 +1099,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1098,7 +1114,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             419
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/16.png",
             "large": "https://images.pokemontcg.io/hgss2/16_hires.png"
@@ -1108,6 +1124,7 @@ let hgss2 = [
         "id": "hgss2-17",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1151,7 +1168,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1166,7 +1183,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             230
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/17.png",
             "large": "https://images.pokemontcg.io/hgss2/17_hires.png"
@@ -1176,6 +1193,7 @@ let hgss2 = [
         "id": "hgss2-18",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1219,7 +1237,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1234,7 +1252,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             171
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/18.png",
             "large": "https://images.pokemontcg.io/hgss2/18_hires.png"
@@ -1244,6 +1262,7 @@ let hgss2 = [
         "id": "hgss2-19",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1286,7 +1305,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1301,7 +1320,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             448
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/19.png",
             "large": "https://images.pokemontcg.io/hgss2/19_hires.png"
@@ -1311,6 +1330,7 @@ let hgss2 = [
         "id": "hgss2-20",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1353,7 +1373,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1368,7 +1388,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             38
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/20.png",
             "large": "https://images.pokemontcg.io/hgss2/20_hires.png"
@@ -1378,6 +1398,7 @@ let hgss2 = [
         "id": "hgss2-21",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1422,7 +1443,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1437,7 +1458,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             62
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/21.png",
             "large": "https://images.pokemontcg.io/hgss2/21_hires.png"
@@ -1447,6 +1468,7 @@ let hgss2 = [
         "id": "hgss2-22",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1490,7 +1512,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1505,7 +1527,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             57
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/22.png",
             "large": "https://images.pokemontcg.io/hgss2/22_hires.png"
@@ -1515,6 +1537,7 @@ let hgss2 = [
         "id": "hgss2-23",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1555,7 +1578,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1570,7 +1593,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             407
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/23.png",
             "large": "https://images.pokemontcg.io/hgss2/23_hires.png"
@@ -1580,6 +1603,7 @@ let hgss2 = [
         "id": "hgss2-24",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1632,7 +1656,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1647,7 +1671,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             208
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/24.png",
             "large": "https://images.pokemontcg.io/hgss2/24_hires.png"
@@ -1657,6 +1681,7 @@ let hgss2 = [
         "id": "hgss2-25",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -1696,7 +1721,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1711,7 +1736,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             324
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/25.png",
             "large": "https://images.pokemontcg.io/hgss2/25_hires.png"
@@ -1721,6 +1746,7 @@ let hgss2 = [
         "id": "hgss2-26",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1773,7 +1799,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1788,7 +1814,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             248
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/26.png",
             "large": "https://images.pokemontcg.io/hgss2/26_hires.png"
@@ -1798,6 +1824,7 @@ let hgss2 = [
         "id": "hgss2-27",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1841,7 +1868,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1856,7 +1883,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             217
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/27.png",
             "large": "https://images.pokemontcg.io/hgss2/27_hires.png"
@@ -1866,6 +1893,7 @@ let hgss2 = [
         "id": "hgss2-28",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1911,7 +1939,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1926,7 +1954,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             421
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/28.png",
             "large": "https://images.pokemontcg.io/hgss2/28_hires.png"
@@ -1936,6 +1964,7 @@ let hgss2 = [
         "id": "hgss2-29",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -1967,7 +1996,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -1982,7 +2011,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             206
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/29.png",
             "large": "https://images.pokemontcg.io/hgss2/29_hires.png"
@@ -1992,6 +2021,7 @@ let hgss2 = [
         "id": "hgss2-30",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2032,7 +2062,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2047,7 +2077,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             42
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/30.png",
             "large": "https://images.pokemontcg.io/hgss2/30_hires.png"
@@ -2057,6 +2087,7 @@ let hgss2 = [
         "id": "hgss2-31",
         "name": "Grotle",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2110,7 +2141,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2125,7 +2156,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             388
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/31.png",
             "large": "https://images.pokemontcg.io/hgss2/31_hires.png"
@@ -2135,6 +2166,7 @@ let hgss2 = [
         "id": "hgss2-32",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2179,7 +2211,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2194,7 +2226,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             14
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/32.png",
             "large": "https://images.pokemontcg.io/hgss2/32_hires.png"
@@ -2204,6 +2236,7 @@ let hgss2 = [
         "id": "hgss2-33",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2250,7 +2283,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2265,7 +2298,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             375
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/33.png",
             "large": "https://images.pokemontcg.io/hgss2/33_hires.png"
@@ -2275,6 +2308,7 @@ let hgss2 = [
         "id": "hgss2-34",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -2321,7 +2355,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2336,7 +2370,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             312
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/34.png",
             "large": "https://images.pokemontcg.io/hgss2/34_hires.png"
@@ -2346,6 +2380,7 @@ let hgss2 = [
         "id": "hgss2-35",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -2391,7 +2426,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2406,7 +2441,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             322
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/35.png",
             "large": "https://images.pokemontcg.io/hgss2/35_hires.png"
@@ -2416,6 +2451,7 @@ let hgss2 = [
         "id": "hgss2-36",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -2462,7 +2498,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2477,7 +2513,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             311
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/36.png",
             "large": "https://images.pokemontcg.io/hgss2/36_hires.png"
@@ -2487,6 +2523,7 @@ let hgss2 = [
         "id": "hgss2-37",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2533,7 +2570,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2548,7 +2585,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             61
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/37.png",
             "large": "https://images.pokemontcg.io/hgss2/37_hires.png"
@@ -2558,6 +2595,7 @@ let hgss2 = [
         "id": "hgss2-38",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2607,7 +2645,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2622,7 +2660,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             247
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/38.png",
             "large": "https://images.pokemontcg.io/hgss2/38_hires.png"
@@ -2632,6 +2670,7 @@ let hgss2 = [
         "id": "hgss2-39",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2685,7 +2724,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2700,7 +2739,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             247
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/39.png",
             "large": "https://images.pokemontcg.io/hgss2/39_hires.png"
@@ -2710,6 +2749,7 @@ let hgss2 = [
         "id": "hgss2-40",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2756,7 +2796,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2771,7 +2811,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             117
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/40.png",
             "large": "https://images.pokemontcg.io/hgss2/40_hires.png"
@@ -2781,6 +2821,7 @@ let hgss2 = [
         "id": "hgss2-41",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -2823,7 +2864,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2838,7 +2879,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             128
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/41.png",
             "large": "https://images.pokemontcg.io/hgss2/41_hires.png"
@@ -2848,6 +2889,7 @@ let hgss2 = [
         "id": "hgss2-42",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2894,7 +2936,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2909,7 +2951,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             8
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/42.png",
             "large": "https://images.pokemontcg.io/hgss2/42_hires.png"
@@ -2919,6 +2961,7 @@ let hgss2 = [
         "id": "hgss2-43",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -2963,7 +3006,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -2978,7 +3021,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             190
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/43.png",
             "large": "https://images.pokemontcg.io/hgss2/43_hires.png"
@@ -2988,6 +3031,7 @@ let hgss2 = [
         "id": "hgss2-44",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3022,7 +3066,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3037,7 +3081,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             374
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/44.png",
             "large": "https://images.pokemontcg.io/hgss2/44_hires.png"
@@ -3047,6 +3091,7 @@ let hgss2 = [
         "id": "hgss2-45",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3081,7 +3126,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3096,7 +3141,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             418
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/45.png",
             "large": "https://images.pokemontcg.io/hgss2/45_hires.png"
@@ -3106,6 +3151,7 @@ let hgss2 = [
         "id": "hgss2-46",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3152,7 +3198,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3167,7 +3213,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             455
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/46.png",
             "large": "https://images.pokemontcg.io/hgss2/46_hires.png"
@@ -3177,6 +3223,7 @@ let hgss2 = [
         "id": "hgss2-47",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3217,7 +3264,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3232,7 +3279,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             420
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/47.png",
             "large": "https://images.pokemontcg.io/hgss2/47_hires.png"
@@ -3242,6 +3289,7 @@ let hgss2 = [
         "id": "hgss2-48",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3286,7 +3334,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3301,7 +3349,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             170
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/48.png",
             "large": "https://images.pokemontcg.io/hgss2/48_hires.png"
@@ -3311,6 +3359,7 @@ let hgss2 = [
         "id": "hgss2-49",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3355,7 +3404,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3370,7 +3419,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             116
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/49.png",
             "large": "https://images.pokemontcg.io/hgss2/49_hires.png"
@@ -3380,6 +3429,7 @@ let hgss2 = [
         "id": "hgss2-50",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3429,7 +3479,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3444,7 +3494,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             246
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/50.png",
             "large": "https://images.pokemontcg.io/hgss2/50_hires.png"
@@ -3454,6 +3504,7 @@ let hgss2 = [
         "id": "hgss2-51",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3504,7 +3555,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3519,7 +3570,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             246
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/51.png",
             "large": "https://images.pokemontcg.io/hgss2/51_hires.png"
@@ -3529,6 +3580,7 @@ let hgss2 = [
         "id": "hgss2-52",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3573,7 +3625,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3588,7 +3640,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             126
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/52.png",
             "large": "https://images.pokemontcg.io/hgss2/52_hires.png"
@@ -3598,6 +3650,7 @@ let hgss2 = [
         "id": "hgss2-53",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3642,7 +3695,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3657,7 +3710,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             56
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/53.png",
             "large": "https://images.pokemontcg.io/hgss2/53_hires.png"
@@ -3667,6 +3720,7 @@ let hgss2 = [
         "id": "hgss2-54",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3707,7 +3761,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3722,7 +3776,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             200
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/54.png",
             "large": "https://images.pokemontcg.io/hgss2/54_hires.png"
@@ -3732,6 +3786,7 @@ let hgss2 = [
         "id": "hgss2-55",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3781,7 +3836,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3796,7 +3851,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             177
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/55.png",
             "large": "https://images.pokemontcg.io/hgss2/55_hires.png"
@@ -3806,6 +3861,7 @@ let hgss2 = [
         "id": "hgss2-56",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3850,7 +3906,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3865,7 +3921,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             95
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/56.png",
             "large": "https://images.pokemontcg.io/hgss2/56_hires.png"
@@ -3875,6 +3931,7 @@ let hgss2 = [
         "id": "hgss2-57",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3911,7 +3968,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3926,7 +3983,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             95
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/57.png",
             "large": "https://images.pokemontcg.io/hgss2/57_hires.png"
@@ -3936,6 +3993,7 @@ let hgss2 = [
         "id": "hgss2-58",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -3980,7 +4038,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -3995,7 +4053,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             60
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/58.png",
             "large": "https://images.pokemontcg.io/hgss2/58_hires.png"
@@ -4005,6 +4063,7 @@ let hgss2 = [
         "id": "hgss2-59",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4049,7 +4108,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4064,7 +4123,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             223
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/59.png",
             "large": "https://images.pokemontcg.io/hgss2/59_hires.png"
@@ -4074,6 +4133,7 @@ let hgss2 = [
         "id": "hgss2-60",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4118,7 +4178,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4133,7 +4193,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             447
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/60.png",
             "large": "https://images.pokemontcg.io/hgss2/60_hires.png"
@@ -4143,6 +4203,7 @@ let hgss2 = [
         "id": "hgss2-61",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4177,7 +4238,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4192,7 +4253,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             315
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/61.png",
             "large": "https://images.pokemontcg.io/hgss2/61_hires.png"
@@ -4202,6 +4263,7 @@ let hgss2 = [
         "id": "hgss2-62",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4251,7 +4313,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4266,7 +4328,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             21
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/62.png",
             "large": "https://images.pokemontcg.io/hgss2/62_hires.png"
@@ -4276,6 +4338,7 @@ let hgss2 = [
         "id": "hgss2-63",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4321,7 +4384,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4336,7 +4399,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             7
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/63.png",
             "large": "https://images.pokemontcg.io/hgss2/63_hires.png"
@@ -4346,6 +4409,7 @@ let hgss2 = [
         "id": "hgss2-64",
         "name": "Stantler",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4388,7 +4452,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4403,7 +4467,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             234
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/64.png",
             "large": "https://images.pokemontcg.io/hgss2/64_hires.png"
@@ -4413,6 +4477,7 @@ let hgss2 = [
         "id": "hgss2-65",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4447,7 +4512,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4462,7 +4527,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             216
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/65.png",
             "large": "https://images.pokemontcg.io/hgss2/65_hires.png"
@@ -4472,6 +4537,7 @@ let hgss2 = [
         "id": "hgss2-66",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4519,7 +4585,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4534,7 +4600,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             357
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/66.png",
             "large": "https://images.pokemontcg.io/hgss2/66_hires.png"
@@ -4544,6 +4610,7 @@ let hgss2 = [
         "id": "hgss2-67",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4594,7 +4661,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4609,7 +4676,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             387
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/67.png",
             "large": "https://images.pokemontcg.io/hgss2/67_hires.png"
@@ -4619,6 +4686,7 @@ let hgss2 = [
         "id": "hgss2-68",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4653,7 +4721,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4668,7 +4736,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             37
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/68.png",
             "large": "https://images.pokemontcg.io/hgss2/68_hires.png"
@@ -4678,6 +4746,7 @@ let hgss2 = [
         "id": "hgss2-69",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4721,7 +4790,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4736,7 +4805,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             13
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/69.png",
             "large": "https://images.pokemontcg.io/hgss2/69_hires.png"
@@ -4746,6 +4815,7 @@ let hgss2 = [
         "id": "hgss2-70",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Basic"
         ],
@@ -4795,7 +4865,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4810,7 +4880,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             41
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/70.png",
             "large": "https://images.pokemontcg.io/hgss2/70_hires.png"
@@ -4820,6 +4890,7 @@ let hgss2 = [
         "id": "hgss2-71",
         "name": "Cheerleader's Cheer",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Supporter"
         ],
@@ -4833,7 +4904,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4844,7 +4915,7 @@ let hgss2 = [
         "number": "71",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/71.png",
             "large": "https://images.pokemontcg.io/hgss2/71_hires.png"
@@ -4854,6 +4925,7 @@ let hgss2 = [
         "id": "hgss2-72",
         "name": "Dual Ball",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Item"
         ],
@@ -4866,7 +4938,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4877,7 +4949,7 @@ let hgss2 = [
         "number": "72",
         "artist": "Takashi Yamaguchi",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/72.png",
             "large": "https://images.pokemontcg.io/hgss2/72_hires.png"
@@ -4887,6 +4959,7 @@ let hgss2 = [
         "id": "hgss2-73",
         "name": "Emcee's Chatter",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Supporter"
         ],
@@ -4900,7 +4973,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4911,7 +4984,7 @@ let hgss2 = [
         "number": "73",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/73.png",
             "large": "https://images.pokemontcg.io/hgss2/73_hires.png"
@@ -4921,6 +4994,7 @@ let hgss2 = [
         "id": "hgss2-74",
         "name": "Energy Returner",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Item"
         ],
@@ -4933,7 +5007,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4944,7 +5018,7 @@ let hgss2 = [
         "number": "74",
         "artist": "Wataru Kawahara",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/74.png",
             "large": "https://images.pokemontcg.io/hgss2/74_hires.png"
@@ -4954,6 +5028,7 @@ let hgss2 = [
         "id": "hgss2-75",
         "name": "Engineer's Adjustments",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Supporter"
         ],
@@ -4967,7 +5042,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -4978,7 +5053,7 @@ let hgss2 = [
         "number": "75",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/75.png",
             "large": "https://images.pokemontcg.io/hgss2/75_hires.png"
@@ -4988,6 +5063,7 @@ let hgss2 = [
         "id": "hgss2-76",
         "name": "Good Rod",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Item"
         ],
@@ -5000,7 +5076,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5011,7 +5087,7 @@ let hgss2 = [
         "number": "76",
         "artist": "Wataru Kawahara",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/76.png",
             "large": "https://images.pokemontcg.io/hgss2/76_hires.png"
@@ -5021,6 +5097,7 @@ let hgss2 = [
         "id": "hgss2-77",
         "name": "Interviewer's Questions",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Supporter"
         ],
@@ -5034,7 +5111,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5045,7 +5122,7 @@ let hgss2 = [
         "number": "77",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/77.png",
             "large": "https://images.pokemontcg.io/hgss2/77_hires.png"
@@ -5055,6 +5132,7 @@ let hgss2 = [
         "id": "hgss2-78",
         "name": "Judge",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Supporter"
         ],
@@ -5068,7 +5146,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5079,7 +5157,7 @@ let hgss2 = [
         "number": "78",
         "artist": "Kouki Saitou",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/78.png",
             "large": "https://images.pokemontcg.io/hgss2/78_hires.png"
@@ -5089,6 +5167,7 @@ let hgss2 = [
         "id": "hgss2-79",
         "name": "Life Herb",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Item"
         ],
@@ -5101,7 +5180,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5112,7 +5191,7 @@ let hgss2 = [
         "number": "79",
         "artist": "Hideaki Hakozaki",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/79.png",
             "large": "https://images.pokemontcg.io/hgss2/79_hires.png"
@@ -5122,6 +5201,7 @@ let hgss2 = [
         "id": "hgss2-80",
         "name": "PlusPower",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Item"
         ],
@@ -5135,7 +5215,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5146,7 +5226,7 @@ let hgss2 = [
         "number": "80",
         "artist": "Takashi Yamaguchi",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/80.png",
             "large": "https://images.pokemontcg.io/hgss2/80_hires.png"
@@ -5156,6 +5236,7 @@ let hgss2 = [
         "id": "hgss2-81",
         "name": "Pokémon Circulator",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Item"
         ],
@@ -5168,7 +5249,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5179,7 +5260,7 @@ let hgss2 = [
         "number": "81",
         "artist": "Hideaki Hakozaki",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/81.png",
             "large": "https://images.pokemontcg.io/hgss2/81_hires.png"
@@ -5189,6 +5270,7 @@ let hgss2 = [
         "id": "hgss2-82",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Item"
         ],
@@ -5201,7 +5283,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5212,7 +5294,7 @@ let hgss2 = [
         "number": "82",
         "artist": "Noriko Hotta",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/82.png",
             "large": "https://images.pokemontcg.io/hgss2/82_hires.png"
@@ -5222,6 +5304,7 @@ let hgss2 = [
         "id": "hgss2-83",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Item"
         ],
@@ -5234,7 +5317,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5245,7 +5328,7 @@ let hgss2 = [
         "number": "83",
         "artist": "Wataru Kawahara",
         "rarity": "Uncommon",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/83.png",
             "large": "https://images.pokemontcg.io/hgss2/83_hires.png"
@@ -5255,6 +5338,7 @@ let hgss2 = [
         "id": "hgss2-84",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -5302,7 +5386,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5316,7 +5400,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             169
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/84.png",
             "large": "https://images.pokemontcg.io/hgss2/84_hires.png"
@@ -5326,6 +5410,7 @@ let hgss2 = [
         "id": "hgss2-85",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -5366,7 +5451,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5380,7 +5465,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             230
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/85.png",
             "large": "https://images.pokemontcg.io/hgss2/85_hires.png"
@@ -5390,6 +5475,7 @@ let hgss2 = [
         "id": "hgss2-86",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -5432,7 +5518,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5446,7 +5532,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             171
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/86.png",
             "large": "https://images.pokemontcg.io/hgss2/86_hires.png"
@@ -5456,6 +5542,7 @@ let hgss2 = [
         "id": "hgss2-87",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -5516,7 +5603,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5530,7 +5617,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             208
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/87.png",
             "large": "https://images.pokemontcg.io/hgss2/87_hires.png"
@@ -5540,6 +5627,7 @@ let hgss2 = [
         "id": "hgss2-88",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -5602,7 +5690,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5616,7 +5704,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             248
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/88.png",
             "large": "https://images.pokemontcg.io/hgss2/88_hires.png"
@@ -5626,6 +5714,7 @@ let hgss2 = [
         "id": "hgss2-89",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -5680,7 +5769,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5694,7 +5783,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             217
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/89.png",
             "large": "https://images.pokemontcg.io/hgss2/89_hires.png"
@@ -5704,6 +5793,7 @@ let hgss2 = [
         "id": "hgss2-90",
         "name": "Entei & Raikou LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "LEGEND"
         ],
@@ -5750,7 +5840,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5764,7 +5854,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             243
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/90.png",
             "large": "https://images.pokemontcg.io/hgss2/90_hires.png"
@@ -5774,6 +5864,7 @@ let hgss2 = [
         "id": "hgss2-91",
         "name": "Entei & Raikou LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "LEGEND"
         ],
@@ -5824,7 +5915,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5838,7 +5929,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             243
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/91.png",
             "large": "https://images.pokemontcg.io/hgss2/91_hires.png"
@@ -5848,6 +5939,7 @@ let hgss2 = [
         "id": "hgss2-92",
         "name": "Raikou & Suicune LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "LEGEND"
         ],
@@ -5901,7 +5993,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5915,7 +6007,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             243
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/92.png",
             "large": "https://images.pokemontcg.io/hgss2/92_hires.png"
@@ -5925,6 +6017,7 @@ let hgss2 = [
         "id": "hgss2-93",
         "name": "Raikou & Suicune LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "LEGEND"
         ],
@@ -5978,7 +6071,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -5992,7 +6085,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             243
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/93.png",
             "large": "https://images.pokemontcg.io/hgss2/93_hires.png"
@@ -6002,6 +6095,7 @@ let hgss2 = [
         "id": "hgss2-94",
         "name": "Suicune & Entei LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "LEGEND"
         ],
@@ -6056,7 +6150,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -6070,7 +6164,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             244
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/94.png",
             "large": "https://images.pokemontcg.io/hgss2/94_hires.png"
@@ -6080,6 +6174,7 @@ let hgss2 = [
         "id": "hgss2-95",
         "name": "Suicune & Entei LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "UL",
         "subtypes": [
             "LEGEND"
         ],
@@ -6134,7 +6229,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -6148,7 +6243,7 @@ let hgss2 = [
         "nationalPokedexNumbers": [
             244
         ],
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/95.png",
             "large": "https://images.pokemontcg.io/hgss2/95_hires.png"
@@ -6158,6 +6253,7 @@ let hgss2 = [
         "id": "hgss2-TWO",
         "name": "Alph Lithograph",
         "supertype": "Trainer",
+        "setAbbrev": "UL",
         "subtypes": [
             "Item"
         ],
@@ -6170,7 +6266,7 @@ let hgss2 = [
             "series": "HeartGold & SoulSilver",
             "printedTotal": 95,
             "total": 96,
-             
+
             "ptcgoCode": "UL",
             "releaseDate": "2010/05/12",
             "images": {
@@ -6181,7 +6277,7 @@ let hgss2 = [
         "number": "TWO",
         "artist": "Milky Isobe",
         "rarity": "Rare Secret",
-         
+
         "images": {
             "small": "https://images.pokemontcg.io/hgss2/TWO.png",
             "large": "https://images.pokemontcg.io/hgss2/TWO_hires.png"

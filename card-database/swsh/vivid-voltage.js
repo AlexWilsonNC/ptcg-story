@@ -3,6 +3,7 @@ let swsh4 = [
         "id": "swsh4-1",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -107,6 +108,7 @@ let swsh4 = [
         "id": "swsh4-2",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -223,6 +225,7 @@ let swsh4 = [
         "id": "swsh4-3",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 2"
         ],
@@ -329,6 +332,7 @@ let swsh4 = [
         "id": "swsh4-4",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -433,6 +437,7 @@ let swsh4 = [
         "id": "swsh4-5",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -548,6 +553,7 @@ let swsh4 = [
         "id": "swsh4-6",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -663,6 +669,7 @@ let swsh4 = [
         "id": "swsh4-7",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -774,6 +781,7 @@ let swsh4 = [
         "id": "swsh4-8",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -889,6 +897,7 @@ let swsh4 = [
         "id": "swsh4-9",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -993,6 +1002,7 @@ let swsh4 = [
         "id": "swsh4-10",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -1097,6 +1107,7 @@ let swsh4 = [
         "id": "swsh4-11",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1202,6 +1213,7 @@ let swsh4 = [
         "id": "swsh4-12",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 2"
         ],
@@ -1314,6 +1326,7 @@ let swsh4 = [
         "id": "swsh4-13",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -1418,6 +1431,7 @@ let swsh4 = [
         "id": "swsh4-14",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1526,6 +1540,7 @@ let swsh4 = [
         "id": "swsh4-15",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -1637,6 +1652,7 @@ let swsh4 = [
         "id": "swsh4-16",
         "name": "Genesect",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -1751,6 +1767,7 @@ let swsh4 = [
         "id": "swsh4-17",
         "name": "Skiddo",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -1866,6 +1883,7 @@ let swsh4 = [
         "id": "swsh4-18",
         "name": "Gogoat",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -1981,6 +1999,7 @@ let swsh4 = [
         "id": "swsh4-19",
         "name": "Dhelmise",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -2095,6 +2114,7 @@ let swsh4 = [
         "id": "swsh4-20",
         "name": "Orbeetle V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -2202,6 +2222,7 @@ let swsh4 = [
         "id": "swsh4-21",
         "name": "Orbeetle VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -2307,6 +2328,7 @@ let swsh4 = [
         "id": "swsh4-22",
         "name": "Zarude V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -2415,6 +2437,7 @@ let swsh4 = [
         "id": "swsh4-23",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -2529,6 +2552,7 @@ let swsh4 = [
         "id": "swsh4-24",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -2645,6 +2669,7 @@ let swsh4 = [
         "id": "swsh4-25",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 2"
         ],
@@ -2757,6 +2782,7 @@ let swsh4 = [
         "id": "swsh4-26",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -2869,6 +2895,7 @@ let swsh4 = [
         "id": "swsh4-27",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -2985,6 +3012,7 @@ let swsh4 = [
         "id": "swsh4-28",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3103,6 +3131,7 @@ let swsh4 = [
         "id": "swsh4-29",
         "name": "Talonflame V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -3213,6 +3242,7 @@ let swsh4 = [
         "id": "swsh4-30",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3324,6 +3354,7 @@ let swsh4 = [
         "id": "swsh4-31",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -3432,6 +3463,7 @@ let swsh4 = [
         "id": "swsh4-32",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3547,6 +3579,7 @@ let swsh4 = [
         "id": "swsh4-33",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -3661,6 +3694,7 @@ let swsh4 = [
         "id": "swsh4-34",
         "name": "Dewott",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -3778,6 +3812,7 @@ let swsh4 = [
         "id": "swsh4-35",
         "name": "Samurott",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 2"
         ],
@@ -3890,6 +3925,7 @@ let swsh4 = [
         "id": "swsh4-36",
         "name": "Galarian Darmanitan V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -4000,6 +4036,7 @@ let swsh4 = [
         "id": "swsh4-37",
         "name": "Galarian Darmanitan VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -4102,6 +4139,7 @@ let swsh4 = [
         "id": "swsh4-38",
         "name": "Chewtle",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -4208,6 +4246,7 @@ let swsh4 = [
         "id": "swsh4-39",
         "name": "Drednaw",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4327,6 +4366,7 @@ let swsh4 = [
         "id": "swsh4-40",
         "name": "Cramorant",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -4435,6 +4475,7 @@ let swsh4 = [
         "id": "swsh4-41",
         "name": "Arrokuda",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -4549,6 +4590,7 @@ let swsh4 = [
         "id": "swsh4-42",
         "name": "Barraskewda",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -4661,6 +4703,7 @@ let swsh4 = [
         "id": "swsh4-43",
         "name": "Pikachu V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -4772,6 +4815,7 @@ let swsh4 = [
         "id": "swsh4-44",
         "name": "Pikachu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -4875,6 +4919,7 @@ let swsh4 = [
         "id": "swsh4-45",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -4980,6 +5025,7 @@ let swsh4 = [
         "id": "swsh4-46",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5091,6 +5137,7 @@ let swsh4 = [
         "id": "swsh4-47",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5202,6 +5249,7 @@ let swsh4 = [
         "id": "swsh4-48",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -5320,6 +5368,7 @@ let swsh4 = [
         "id": "swsh4-49",
         "name": "Ampharos V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -5431,6 +5480,7 @@ let swsh4 = [
         "id": "swsh4-50",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -5528,6 +5578,7 @@ let swsh4 = [
         "id": "swsh4-51",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -5642,6 +5693,7 @@ let swsh4 = [
         "id": "swsh4-52",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5749,6 +5801,7 @@ let swsh4 = [
         "id": "swsh4-53",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -5853,6 +5906,7 @@ let swsh4 = [
         "id": "swsh4-54",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -5965,6 +6019,7 @@ let swsh4 = [
         "id": "swsh4-55",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -6069,6 +6124,7 @@ let swsh4 = [
         "id": "swsh4-56",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -6181,6 +6237,7 @@ let swsh4 = [
         "id": "swsh4-57",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -6292,6 +6349,7 @@ let swsh4 = [
         "id": "swsh4-58",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -6409,6 +6467,7 @@ let swsh4 = [
         "id": "swsh4-59",
         "name": "Eelektross",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 2"
         ],
@@ -6524,6 +6583,7 @@ let swsh4 = [
         "id": "swsh4-60",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -6639,6 +6699,7 @@ let swsh4 = [
         "id": "swsh4-61",
         "name": "Zeraora",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -6737,6 +6798,7 @@ let swsh4 = [
         "id": "swsh4-62",
         "name": "Pincurchin",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -6848,6 +6910,7 @@ let swsh4 = [
         "id": "swsh4-63",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -6962,6 +7025,7 @@ let swsh4 = [
         "id": "swsh4-64",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -7073,6 +7137,7 @@ let swsh4 = [
         "id": "swsh4-65",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -7190,6 +7255,7 @@ let swsh4 = [
         "id": "swsh4-66",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -7294,6 +7360,7 @@ let swsh4 = [
         "id": "swsh4-67",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -7404,6 +7471,7 @@ let swsh4 = [
         "id": "swsh4-68",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -7520,6 +7588,7 @@ let swsh4 = [
         "id": "swsh4-69",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -7630,6 +7699,7 @@ let swsh4 = [
         "id": "swsh4-70",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -7753,6 +7823,7 @@ let swsh4 = [
         "id": "swsh4-71",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 2"
         ],
@@ -7871,6 +7942,7 @@ let swsh4 = [
         "id": "swsh4-72",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -7988,6 +8060,7 @@ let swsh4 = [
         "id": "swsh4-73",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -8098,6 +8171,7 @@ let swsh4 = [
         "id": "swsh4-74",
         "name": "Swoobat",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -8214,6 +8288,7 @@ let swsh4 = [
         "id": "swsh4-75",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -8318,6 +8393,7 @@ let swsh4 = [
         "id": "swsh4-76",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -8425,6 +8501,7 @@ let swsh4 = [
         "id": "swsh4-77",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -8526,6 +8603,7 @@ let swsh4 = [
         "id": "swsh4-78",
         "name": "Xerneas",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -8639,6 +8717,7 @@ let swsh4 = [
         "id": "swsh4-79",
         "name": "Diancie",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -8749,6 +8828,7 @@ let swsh4 = [
         "id": "swsh4-80",
         "name": "Milcery",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -8862,6 +8942,7 @@ let swsh4 = [
         "id": "swsh4-81",
         "name": "Alcremie",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -8973,6 +9054,7 @@ let swsh4 = [
         "id": "swsh4-82",
         "name": "Zacian",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -9079,6 +9161,7 @@ let swsh4 = [
         "id": "swsh4-83",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -9193,6 +9276,7 @@ let swsh4 = [
         "id": "swsh4-84",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -9308,6 +9392,7 @@ let swsh4 = [
         "id": "swsh4-85",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -9419,6 +9504,7 @@ let swsh4 = [
         "id": "swsh4-86",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -9534,6 +9620,7 @@ let swsh4 = [
         "id": "swsh4-87",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -9650,6 +9737,7 @@ let swsh4 = [
         "id": "swsh4-88",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -9762,6 +9850,7 @@ let swsh4 = [
         "id": "swsh4-89",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -9877,6 +9966,7 @@ let swsh4 = [
         "id": "swsh4-90",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -9981,6 +10071,7 @@ let swsh4 = [
         "id": "swsh4-91",
         "name": "Drilbur",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -10096,6 +10187,7 @@ let swsh4 = [
         "id": "swsh4-92",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -10212,6 +10304,7 @@ let swsh4 = [
         "id": "swsh4-93",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -10327,6 +10420,7 @@ let swsh4 = [
         "id": "swsh4-94",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -10441,6 +10535,7 @@ let swsh4 = [
         "id": "swsh4-95",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -10554,6 +10649,7 @@ let swsh4 = [
         "id": "swsh4-96",
         "name": "Mudbray",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -10670,6 +10766,7 @@ let swsh4 = [
         "id": "swsh4-97",
         "name": "Mudsdale",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -10786,6 +10883,7 @@ let swsh4 = [
         "id": "swsh4-98",
         "name": "Coalossal V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -10900,6 +10998,7 @@ let swsh4 = [
         "id": "swsh4-99",
         "name": "Coalossal VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -11012,6 +11111,7 @@ let swsh4 = [
         "id": "swsh4-100",
         "name": "Clobbopus",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -11127,6 +11227,7 @@ let swsh4 = [
         "id": "swsh4-101",
         "name": "Grapploct",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -11240,6 +11341,7 @@ let swsh4 = [
         "id": "swsh4-102",
         "name": "Zamazenta",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -11346,6 +11448,7 @@ let swsh4 = [
         "id": "swsh4-103",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -11460,6 +11563,7 @@ let swsh4 = [
         "id": "swsh4-104",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -11573,6 +11677,7 @@ let swsh4 = [
         "id": "swsh4-105",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -11684,6 +11789,7 @@ let swsh4 = [
         "id": "swsh4-106",
         "name": "Drapion V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -11797,6 +11903,7 @@ let swsh4 = [
         "id": "swsh4-107",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -11905,6 +12012,7 @@ let swsh4 = [
         "id": "swsh4-108",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -12022,6 +12130,7 @@ let swsh4 = [
         "id": "swsh4-109",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 2"
         ],
@@ -12139,6 +12248,7 @@ let swsh4 = [
         "id": "swsh4-110",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -12256,6 +12366,7 @@ let swsh4 = [
         "id": "swsh4-111",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -12372,6 +12483,7 @@ let swsh4 = [
         "id": "swsh4-112",
         "name": "Galarian Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -12492,6 +12604,7 @@ let swsh4 = [
         "id": "swsh4-113",
         "name": "Galarian Perrserker",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -12612,6 +12725,7 @@ let swsh4 = [
         "id": "swsh4-114",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -12736,6 +12850,7 @@ let swsh4 = [
         "id": "swsh4-115",
         "name": "Steelix V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -12856,6 +12971,7 @@ let swsh4 = [
         "id": "swsh4-116",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -12977,6 +13093,7 @@ let swsh4 = [
         "id": "swsh4-117",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -13102,6 +13219,7 @@ let swsh4 = [
         "id": "swsh4-118",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 2"
         ],
@@ -13221,6 +13339,7 @@ let swsh4 = [
         "id": "swsh4-119",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -13330,6 +13449,7 @@ let swsh4 = [
         "id": "swsh4-120",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -13450,6 +13570,7 @@ let swsh4 = [
         "id": "swsh4-121",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -13569,6 +13690,7 @@ let swsh4 = [
         "id": "swsh4-122",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -13691,6 +13813,7 @@ let swsh4 = [
         "id": "swsh4-123",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -13803,6 +13926,7 @@ let swsh4 = [
         "id": "swsh4-124",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -13913,6 +14037,7 @@ let swsh4 = [
         "id": "swsh4-125",
         "name": "Galarian Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -14031,6 +14156,7 @@ let swsh4 = [
         "id": "swsh4-126",
         "name": "Aegislash V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -14148,6 +14274,7 @@ let swsh4 = [
         "id": "swsh4-127",
         "name": "Aegislash VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -14255,6 +14382,7 @@ let swsh4 = [
         "id": "swsh4-128",
         "name": "Magearna",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -14372,6 +14500,7 @@ let swsh4 = [
         "id": "swsh4-129",
         "name": "Duraludon",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -14492,6 +14621,7 @@ let swsh4 = [
         "id": "swsh4-130",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -14613,6 +14743,7 @@ let swsh4 = [
         "id": "swsh4-131",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -14726,6 +14857,7 @@ let swsh4 = [
         "id": "swsh4-132",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -14847,6 +14979,7 @@ let swsh4 = [
         "id": "swsh4-133",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -14958,6 +15091,7 @@ let swsh4 = [
         "id": "swsh4-134",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -15072,6 +15206,7 @@ let swsh4 = [
         "id": "swsh4-135",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -15177,6 +15312,7 @@ let swsh4 = [
         "id": "swsh4-136",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -15295,6 +15431,7 @@ let swsh4 = [
         "id": "swsh4-137",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 2"
         ],
@@ -15411,6 +15548,7 @@ let swsh4 = [
         "id": "swsh4-138",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -15514,6 +15652,7 @@ let swsh4 = [
         "id": "swsh4-139",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -15630,6 +15769,7 @@ let swsh4 = [
         "id": "swsh4-140",
         "name": "Togekiss V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -15744,6 +15884,7 @@ let swsh4 = [
         "id": "swsh4-141",
         "name": "Togekiss VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -15844,6 +15985,7 @@ let swsh4 = [
         "id": "swsh4-142",
         "name": "Tornadus",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -15962,6 +16104,7 @@ let swsh4 = [
         "id": "swsh4-143",
         "name": "Pikipek",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -16072,6 +16215,7 @@ let swsh4 = [
         "id": "swsh4-144",
         "name": "Trumbeak",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 1"
         ],
@@ -16192,6 +16336,7 @@ let swsh4 = [
         "id": "swsh4-145",
         "name": "Toucannon",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 2"
         ],
@@ -16313,6 +16458,7 @@ let swsh4 = [
         "id": "swsh4-146",
         "name": "Allister",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -16390,6 +16536,7 @@ let swsh4 = [
         "id": "swsh4-147",
         "name": "Bea",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -16467,6 +16614,7 @@ let swsh4 = [
         "id": "swsh4-148",
         "name": "Beauty",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -16545,6 +16693,7 @@ let swsh4 = [
         "id": "swsh4-149",
         "name": "Cara Liss",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -16622,6 +16771,7 @@ let swsh4 = [
         "id": "swsh4-150",
         "name": "Circhester Bath",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stadium"
         ],
@@ -16699,6 +16849,7 @@ let swsh4 = [
         "id": "swsh4-151",
         "name": "Drone Rotom",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Item"
         ],
@@ -16776,6 +16927,7 @@ let swsh4 = [
         "id": "swsh4-152",
         "name": "Hero's Medal",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -16854,6 +17006,7 @@ let swsh4 = [
         "id": "swsh4-153",
         "name": "League Staff",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -16931,6 +17084,7 @@ let swsh4 = [
         "id": "swsh4-154",
         "name": "Leon",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -17008,6 +17162,7 @@ let swsh4 = [
         "id": "swsh4-155",
         "name": "Memory Capsule",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -17086,6 +17241,7 @@ let swsh4 = [
         "id": "swsh4-156",
         "name": "Moomoo Cheese",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Item"
         ],
@@ -17163,6 +17319,7 @@ let swsh4 = [
         "id": "swsh4-157",
         "name": "Nessa",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -17240,6 +17397,7 @@ let swsh4 = [
         "id": "swsh4-158",
         "name": "Opal",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -17317,6 +17475,7 @@ let swsh4 = [
         "id": "swsh4-159",
         "name": "Rocky Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -17395,6 +17554,7 @@ let swsh4 = [
         "id": "swsh4-160",
         "name": "Telescopic Sight",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -17473,6 +17633,7 @@ let swsh4 = [
         "id": "swsh4-161",
         "name": "Wyndon Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stadium"
         ],
@@ -17550,6 +17711,7 @@ let swsh4 = [
         "id": "swsh4-162",
         "name": "Aromatic Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Special"
         ],
@@ -17626,6 +17788,7 @@ let swsh4 = [
         "id": "swsh4-163",
         "name": "Coating Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Special"
         ],
@@ -17702,6 +17865,7 @@ let swsh4 = [
         "id": "swsh4-164",
         "name": "Stone Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Special"
         ],
@@ -17778,6 +17942,7 @@ let swsh4 = [
         "id": "swsh4-165",
         "name": "Wash Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Special"
         ],
@@ -17854,6 +18019,7 @@ let swsh4 = [
         "id": "swsh4-166",
         "name": "Orbeetle V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -17961,6 +18127,7 @@ let swsh4 = [
         "id": "swsh4-167",
         "name": "Zarude V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -18069,6 +18236,7 @@ let swsh4 = [
         "id": "swsh4-168",
         "name": "Talonflame V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -18179,6 +18347,7 @@ let swsh4 = [
         "id": "swsh4-169",
         "name": "Galarian Darmanitan V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -18289,6 +18458,7 @@ let swsh4 = [
         "id": "swsh4-170",
         "name": "Pikachu V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -18400,6 +18570,7 @@ let swsh4 = [
         "id": "swsh4-171",
         "name": "Ampharos V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -18511,6 +18682,7 @@ let swsh4 = [
         "id": "swsh4-172",
         "name": "Alakazam V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -18624,6 +18796,7 @@ let swsh4 = [
         "id": "swsh4-173",
         "name": "Coalossal V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -18738,6 +18911,7 @@ let swsh4 = [
         "id": "swsh4-174",
         "name": "Galarian Sirfetch'd V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -18845,6 +19019,7 @@ let swsh4 = [
         "id": "swsh4-175",
         "name": "Drapion V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -18958,6 +19133,7 @@ let swsh4 = [
         "id": "swsh4-176",
         "name": "Steelix V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -19078,6 +19254,7 @@ let swsh4 = [
         "id": "swsh4-177",
         "name": "Aegislash V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -19195,6 +19372,7 @@ let swsh4 = [
         "id": "swsh4-178",
         "name": "Togekiss V",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic",
             "V"
@@ -19309,6 +19487,7 @@ let swsh4 = [
         "id": "swsh4-179",
         "name": "Allister",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -19379,6 +19558,7 @@ let swsh4 = [
         "id": "swsh4-180",
         "name": "Bea",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -19449,6 +19629,7 @@ let swsh4 = [
         "id": "swsh4-181",
         "name": "Beauty",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -19520,6 +19701,7 @@ let swsh4 = [
         "id": "swsh4-182",
         "name": "Leon",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -19590,6 +19772,7 @@ let swsh4 = [
         "id": "swsh4-183",
         "name": "Nessa",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -19660,6 +19843,7 @@ let swsh4 = [
         "id": "swsh4-184",
         "name": "Opal",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -19730,6 +19914,7 @@ let swsh4 = [
         "id": "swsh4-185",
         "name": "Pokémon Center Lady",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -19800,6 +19985,7 @@ let swsh4 = [
         "id": "swsh4-186",
         "name": "Orbeetle VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -19905,6 +20091,7 @@ let swsh4 = [
         "id": "swsh4-187",
         "name": "Galarian Darmanitan VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -20007,6 +20194,7 @@ let swsh4 = [
         "id": "swsh4-188",
         "name": "Pikachu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -20110,6 +20298,7 @@ let swsh4 = [
         "id": "swsh4-189",
         "name": "Coalossal VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -20222,6 +20411,7 @@ let swsh4 = [
         "id": "swsh4-190",
         "name": "Aegislash VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -20329,6 +20519,7 @@ let swsh4 = [
         "id": "swsh4-191",
         "name": "Togekiss VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "VMAX"
         ],
@@ -20429,6 +20620,7 @@ let swsh4 = [
         "id": "swsh4-192",
         "name": "Allister",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -20499,6 +20691,7 @@ let swsh4 = [
         "id": "swsh4-193",
         "name": "Bea",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -20569,6 +20762,7 @@ let swsh4 = [
         "id": "swsh4-194",
         "name": "Beauty",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -20640,6 +20834,7 @@ let swsh4 = [
         "id": "swsh4-195",
         "name": "Leon",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -20710,6 +20905,7 @@ let swsh4 = [
         "id": "swsh4-196",
         "name": "Nessa",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -20780,6 +20976,7 @@ let swsh4 = [
         "id": "swsh4-197",
         "name": "Opal",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Supporter"
         ],
@@ -20850,6 +21047,7 @@ let swsh4 = [
         "id": "swsh4-198",
         "name": "Galarian Obstagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Stage 2"
         ],
@@ -20954,6 +21152,7 @@ let swsh4 = [
         "id": "swsh4-199",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Basic"
         ],
@@ -21058,6 +21257,7 @@ let swsh4 = [
         "id": "swsh4-200",
         "name": "Cape of Toughness",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -21129,6 +21329,7 @@ let swsh4 = [
         "id": "swsh4-201",
         "name": "Hero's Medal",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -21200,6 +21401,7 @@ let swsh4 = [
         "id": "swsh4-202",
         "name": "Memory Capsule",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -21271,6 +21473,7 @@ let swsh4 = [
         "id": "swsh4-203",
         "name": "Telescopic Sight",
         "supertype": "Trainer",
+        "setAbbrev": "VIV",
         "subtypes": [
             "Pokémon Tool"
         ],

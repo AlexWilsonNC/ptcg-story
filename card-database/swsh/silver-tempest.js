@@ -3,6 +3,7 @@ let swsh12 = [
         "id": "swsh12-1",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let swsh12 = [
         "id": "swsh12-2",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -128,6 +130,7 @@ let swsh12 = [
         "id": "swsh12-3",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -188,6 +191,7 @@ let swsh12 = [
         "id": "swsh12-4",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -253,6 +257,7 @@ let swsh12 = [
         "id": "swsh12-5",
         "name": "Sunkern",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -313,6 +318,7 @@ let swsh12 = [
         "id": "swsh12-6",
         "name": "Sunflora",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -371,6 +377,7 @@ let swsh12 = [
         "id": "swsh12-7",
         "name": "Serperior V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -441,6 +448,7 @@ let swsh12 = [
         "id": "swsh12-8",
         "name": "Serperior VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -510,6 +518,7 @@ let swsh12 = [
         "id": "swsh12-9",
         "name": "Petilil",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -579,6 +588,7 @@ let swsh12 = [
         "id": "swsh12-10",
         "name": "Hisuian Lilligant",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -644,6 +654,7 @@ let swsh12 = [
         "id": "swsh12-11",
         "name": "Foongus",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -703,6 +714,7 @@ let swsh12 = [
         "id": "swsh12-12",
         "name": "Amoonguss",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -768,6 +780,7 @@ let swsh12 = [
         "id": "swsh12-13",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -834,6 +847,7 @@ let swsh12 = [
         "id": "swsh12-14",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -900,6 +914,7 @@ let swsh12 = [
         "id": "swsh12-15",
         "name": "Chesnaught V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -968,6 +983,7 @@ let swsh12 = [
         "id": "swsh12-16",
         "name": "Radiant Tsareena",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -1037,6 +1053,7 @@ let swsh12 = [
         "id": "swsh12-17",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -1096,6 +1113,7 @@ let swsh12 = [
         "id": "swsh12-18",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1163,6 +1181,7 @@ let swsh12 = [
         "id": "swsh12-19",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -1232,6 +1251,7 @@ let swsh12 = [
         "id": "swsh12-20",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1300,6 +1320,7 @@ let swsh12 = [
         "id": "swsh12-21",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -1360,6 +1381,7 @@ let swsh12 = [
         "id": "swsh12-22",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1425,6 +1447,7 @@ let swsh12 = [
         "id": "swsh12-23",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -1491,6 +1514,7 @@ let swsh12 = [
         "id": "swsh12-24",
         "name": "Reshiram V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -1561,6 +1585,7 @@ let swsh12 = [
         "id": "swsh12-25",
         "name": "Fennekin",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -1629,6 +1654,7 @@ let swsh12 = [
         "id": "swsh12-26",
         "name": "Braixen",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1699,6 +1725,7 @@ let swsh12 = [
         "id": "swsh12-27",
         "name": "Delphox",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -1766,6 +1793,7 @@ let swsh12 = [
         "id": "swsh12-28",
         "name": "Fletchinder",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1826,6 +1854,7 @@ let swsh12 = [
         "id": "swsh12-29",
         "name": "Talonflame",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -1892,6 +1921,7 @@ let swsh12 = [
         "id": "swsh12-30",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -1961,6 +1991,7 @@ let swsh12 = [
         "id": "swsh12-31",
         "name": "Torracat",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2033,6 +2064,7 @@ let swsh12 = [
         "id": "swsh12-32",
         "name": "Incineroar",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -2100,6 +2132,7 @@ let swsh12 = [
         "id": "swsh12-33",
         "name": "Alolan Vulpix V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -2171,6 +2204,7 @@ let swsh12 = [
         "id": "swsh12-34",
         "name": "Alolan Vulpix VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -2242,6 +2276,7 @@ let swsh12 = [
         "id": "swsh12-35",
         "name": "Omastar V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -2312,6 +2347,7 @@ let swsh12 = [
         "id": "swsh12-36",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -2378,6 +2414,7 @@ let swsh12 = [
         "id": "swsh12-37",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -2449,6 +2486,7 @@ let swsh12 = [
         "id": "swsh12-38",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2516,6 +2554,7 @@ let swsh12 = [
         "id": "swsh12-39",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -2584,6 +2623,7 @@ let swsh12 = [
         "id": "swsh12-40",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2651,6 +2691,7 @@ let swsh12 = [
         "id": "swsh12-41",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -2721,6 +2762,7 @@ let swsh12 = [
         "id": "swsh12-42",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2795,6 +2837,7 @@ let swsh12 = [
         "id": "swsh12-43",
         "name": "Froslass",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2862,6 +2905,7 @@ let swsh12 = [
         "id": "swsh12-44",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -2928,6 +2972,7 @@ let swsh12 = [
         "id": "swsh12-45",
         "name": "Phione",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -2993,6 +3038,7 @@ let swsh12 = [
         "id": "swsh12-46",
         "name": "Keldeo",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -3060,6 +3106,7 @@ let swsh12 = [
         "id": "swsh12-47",
         "name": "Dewpider",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -3120,6 +3167,7 @@ let swsh12 = [
         "id": "swsh12-48",
         "name": "Araquanid",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3187,6 +3235,7 @@ let swsh12 = [
         "id": "swsh12-49",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -3246,6 +3295,7 @@ let swsh12 = [
         "id": "swsh12-50",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3314,6 +3364,7 @@ let swsh12 = [
         "id": "swsh12-51",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -3383,6 +3434,7 @@ let swsh12 = [
         "id": "swsh12-52",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3451,6 +3503,7 @@ let swsh12 = [
         "id": "swsh12-53",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -3518,6 +3571,7 @@ let swsh12 = [
         "id": "swsh12-54",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -3583,6 +3637,7 @@ let swsh12 = [
         "id": "swsh12-55",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -3651,6 +3706,7 @@ let swsh12 = [
         "id": "swsh12-56",
         "name": "Zeraora",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -3717,6 +3773,7 @@ let swsh12 = [
         "id": "swsh12-57",
         "name": "Regieleki V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -3787,6 +3844,7 @@ let swsh12 = [
         "id": "swsh12-58",
         "name": "Regieleki VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VMAX"
         ],
@@ -3854,6 +3912,7 @@ let swsh12 = [
         "id": "swsh12-59",
         "name": "Radiant Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -3928,6 +3987,7 @@ let swsh12 = [
         "id": "swsh12-60",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -4003,6 +4063,7 @@ let swsh12 = [
         "id": "swsh12-61",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4077,6 +4138,7 @@ let swsh12 = [
         "id": "swsh12-62",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -4147,6 +4209,7 @@ let swsh12 = [
         "id": "swsh12-63",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -4212,6 +4275,7 @@ let swsh12 = [
         "id": "swsh12-64",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4282,6 +4346,7 @@ let swsh12 = [
         "id": "swsh12-65",
         "name": "Unown V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -4358,6 +4423,7 @@ let swsh12 = [
         "id": "swsh12-66",
         "name": "Unown VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -4434,6 +4500,7 @@ let swsh12 = [
         "id": "swsh12-67",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -4493,6 +4560,7 @@ let swsh12 = [
         "id": "swsh12-68",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4562,6 +4630,7 @@ let swsh12 = [
         "id": "swsh12-69",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -4627,6 +4696,7 @@ let swsh12 = [
         "id": "swsh12-70",
         "name": "Mawile V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -4697,6 +4767,7 @@ let swsh12 = [
         "id": "swsh12-71",
         "name": "Mawile VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -4764,6 +4835,7 @@ let swsh12 = [
         "id": "swsh12-72",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -4837,6 +4909,7 @@ let swsh12 = [
         "id": "swsh12-73",
         "name": "Medicham",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4909,6 +4982,7 @@ let swsh12 = [
         "id": "swsh12-74",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -4981,6 +5055,7 @@ let swsh12 = [
         "id": "swsh12-75",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -5054,6 +5129,7 @@ let swsh12 = [
         "id": "swsh12-76",
         "name": "Solosis",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -5120,6 +5196,7 @@ let swsh12 = [
         "id": "swsh12-77",
         "name": "Duosion",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5187,6 +5264,7 @@ let swsh12 = [
         "id": "swsh12-78",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -5258,6 +5336,7 @@ let swsh12 = [
         "id": "swsh12-79",
         "name": "Elgyem",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -5323,6 +5402,7 @@ let swsh12 = [
         "id": "swsh12-80",
         "name": "Beheeyem",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5396,6 +5476,7 @@ let swsh12 = [
         "id": "swsh12-81",
         "name": "Espurr",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -5471,6 +5552,7 @@ let swsh12 = [
         "id": "swsh12-82",
         "name": "Meowstic",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5543,6 +5625,7 @@ let swsh12 = [
         "id": "swsh12-83",
         "name": "Swirlix",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -5612,6 +5695,7 @@ let swsh12 = [
         "id": "swsh12-84",
         "name": "Slurpuff",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5681,6 +5765,7 @@ let swsh12 = [
         "id": "swsh12-85",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -5746,6 +5831,7 @@ let swsh12 = [
         "id": "swsh12-86",
         "name": "Indeedee",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -5818,6 +5904,7 @@ let swsh12 = [
         "id": "swsh12-87",
         "name": "Dreepy",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -5883,6 +5970,7 @@ let swsh12 = [
         "id": "swsh12-88",
         "name": "Drakloak",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5949,6 +6037,7 @@ let swsh12 = [
         "id": "swsh12-89",
         "name": "Dragapult",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -6022,6 +6111,7 @@ let swsh12 = [
         "id": "swsh12-90",
         "name": "Hisuian Arcanine V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -6091,6 +6181,7 @@ let swsh12 = [
         "id": "swsh12-91",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -6150,6 +6241,7 @@ let swsh12 = [
         "id": "swsh12-92",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -6219,6 +6311,7 @@ let swsh12 = [
         "id": "swsh12-93",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -6287,6 +6380,7 @@ let swsh12 = [
         "id": "swsh12-94",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -6353,6 +6447,7 @@ let swsh12 = [
         "id": "swsh12-95",
         "name": "Anorith",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -6414,6 +6509,7 @@ let swsh12 = [
         "id": "swsh12-96",
         "name": "Armaldo",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -6482,6 +6578,7 @@ let swsh12 = [
         "id": "swsh12-97",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -6540,6 +6637,7 @@ let swsh12 = [
         "id": "swsh12-98",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -6612,6 +6710,7 @@ let swsh12 = [
         "id": "swsh12-99",
         "name": "Sandygast",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -6671,6 +6770,7 @@ let swsh12 = [
         "id": "swsh12-100",
         "name": "Palossand",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -6739,6 +6839,7 @@ let swsh12 = [
         "id": "swsh12-101",
         "name": "Stonjourner",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -6806,6 +6907,7 @@ let swsh12 = [
         "id": "swsh12-102",
         "name": "Ursaluna V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -6874,6 +6976,7 @@ let swsh12 = [
         "id": "swsh12-103",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -6932,6 +7035,7 @@ let swsh12 = [
         "id": "swsh12-104",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -6991,6 +7095,7 @@ let swsh12 = [
         "id": "swsh12-105",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -7058,6 +7163,7 @@ let swsh12 = [
         "id": "swsh12-106",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -7132,6 +7238,7 @@ let swsh12 = [
         "id": "swsh12-107",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -7206,6 +7313,7 @@ let swsh12 = [
         "id": "swsh12-108",
         "name": "Skuntank V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -7277,6 +7385,7 @@ let swsh12 = [
         "id": "swsh12-109",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -7337,6 +7446,7 @@ let swsh12 = [
         "id": "swsh12-110",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -7404,6 +7514,7 @@ let swsh12 = [
         "id": "swsh12-111",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -7464,6 +7575,7 @@ let swsh12 = [
         "id": "swsh12-112",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -7526,6 +7638,7 @@ let swsh12 = [
         "id": "swsh12-113",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -7592,6 +7705,7 @@ let swsh12 = [
         "id": "swsh12-114",
         "name": "Mareanie",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -7651,6 +7765,7 @@ let swsh12 = [
         "id": "swsh12-115",
         "name": "Toxapex",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -7719,6 +7834,7 @@ let swsh12 = [
         "id": "swsh12-116",
         "name": "Morpeko",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -7775,6 +7891,7 @@ let swsh12 = [
         "id": "swsh12-117",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -7850,6 +7967,7 @@ let swsh12 = [
         "id": "swsh12-118",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -7917,6 +8035,7 @@ let swsh12 = [
         "id": "swsh12-119",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -7988,6 +8107,7 @@ let swsh12 = [
         "id": "swsh12-120",
         "name": "Radiant Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -8062,6 +8182,7 @@ let swsh12 = [
         "id": "swsh12-121",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -8137,6 +8258,7 @@ let swsh12 = [
         "id": "swsh12-122",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8212,6 +8334,7 @@ let swsh12 = [
         "id": "swsh12-123",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -8277,6 +8400,7 @@ let swsh12 = [
         "id": "swsh12-124",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8345,6 +8469,7 @@ let swsh12 = [
         "id": "swsh12-125",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -8417,6 +8542,7 @@ let swsh12 = [
         "id": "swsh12-126",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -8487,6 +8613,7 @@ let swsh12 = [
         "id": "swsh12-127",
         "name": "Togedemaru",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -8549,6 +8676,7 @@ let swsh12 = [
         "id": "swsh12-128",
         "name": "Magearna V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -8625,6 +8753,7 @@ let swsh12 = [
         "id": "swsh12-129",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -8679,6 +8808,7 @@ let swsh12 = [
         "id": "swsh12-130",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8745,6 +8875,7 @@ let swsh12 = [
         "id": "swsh12-131",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -8810,6 +8941,7 @@ let swsh12 = [
         "id": "swsh12-132",
         "name": "Noibat",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -8873,6 +9005,7 @@ let swsh12 = [
         "id": "swsh12-133",
         "name": "Noivern",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8934,6 +9067,7 @@ let swsh12 = [
         "id": "swsh12-134",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -8994,6 +9128,7 @@ let swsh12 = [
         "id": "swsh12-135",
         "name": "Regidrago V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -9058,6 +9193,7 @@ let swsh12 = [
         "id": "swsh12-136",
         "name": "Regidrago VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -9120,6 +9256,7 @@ let swsh12 = [
         "id": "swsh12-137",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -9186,6 +9323,7 @@ let swsh12 = [
         "id": "swsh12-138",
         "name": "Lugia V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -9263,6 +9401,7 @@ let swsh12 = [
         "id": "swsh12-139",
         "name": "Lugia VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -9338,6 +9477,7 @@ let swsh12 = [
         "id": "swsh12-140",
         "name": "Ho-Oh V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -9413,6 +9553,7 @@ let swsh12 = [
         "id": "swsh12-141",
         "name": "Spinda",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -9469,6 +9610,7 @@ let swsh12 = [
         "id": "swsh12-142",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -9534,6 +9676,7 @@ let swsh12 = [
         "id": "swsh12-143",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9609,6 +9752,7 @@ let swsh12 = [
         "id": "swsh12-144",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -9668,6 +9812,7 @@ let swsh12 = [
         "id": "swsh12-145",
         "name": "Lopunny",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9736,6 +9881,7 @@ let swsh12 = [
         "id": "swsh12-146",
         "name": "Archen",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9813,6 +9959,7 @@ let swsh12 = [
         "id": "swsh12-147",
         "name": "Archeops",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -9885,6 +10032,7 @@ let swsh12 = [
         "id": "swsh12-148",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -9951,6 +10099,7 @@ let swsh12 = [
         "id": "swsh12-149",
         "name": "Hisuian Braviary",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -10023,6 +10172,7 @@ let swsh12 = [
         "id": "swsh12-150",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -10087,6 +10237,7 @@ let swsh12 = [
         "id": "swsh12-151",
         "name": "Brandon",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -10122,6 +10273,7 @@ let swsh12 = [
         "id": "swsh12-152",
         "name": "Candice",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -10157,6 +10309,7 @@ let swsh12 = [
         "id": "swsh12-153",
         "name": "Capturing Aroma",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Item"
         ],
@@ -10192,6 +10345,7 @@ let swsh12 = [
         "id": "swsh12-154",
         "name": "Earthen Seal Stone",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -10229,6 +10383,7 @@ let swsh12 = [
         "id": "swsh12-155",
         "name": "Emergency Jelly",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -10266,6 +10421,7 @@ let swsh12 = [
         "id": "swsh12-156",
         "name": "Forest Seal Stone",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -10303,6 +10459,7 @@ let swsh12 = [
         "id": "swsh12-157",
         "name": "Furisode Girl",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -10338,6 +10495,7 @@ let swsh12 = [
         "id": "swsh12-158",
         "name": "Gym Trainer",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -10373,6 +10531,7 @@ let swsh12 = [
         "id": "swsh12-159",
         "name": "Lance",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -10408,6 +10567,7 @@ let swsh12 = [
         "id": "swsh12-160",
         "name": "Leafy Camo Poncho",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -10445,6 +10605,7 @@ let swsh12 = [
         "id": "swsh12-161",
         "name": "Primordial Altar",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stadium"
         ],
@@ -10479,6 +10640,7 @@ let swsh12 = [
         "id": "swsh12-162",
         "name": "Professor Laventon",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -10514,6 +10676,7 @@ let swsh12 = [
         "id": "swsh12-163",
         "name": "Quad Stone",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Item"
         ],
@@ -10549,6 +10712,7 @@ let swsh12 = [
         "id": "swsh12-164",
         "name": "Serena",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -10584,6 +10748,7 @@ let swsh12 = [
         "id": "swsh12-165",
         "name": "Unidentified Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Item"
         ],
@@ -10619,6 +10784,7 @@ let swsh12 = [
         "id": "swsh12-166",
         "name": "Wallace",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -10654,6 +10820,7 @@ let swsh12 = [
         "id": "swsh12-167",
         "name": "Worker",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -10689,6 +10856,7 @@ let swsh12 = [
         "id": "swsh12-168",
         "name": "Regenerative Energy",
         "supertype": "Energy",
+        "setAbbrev": "SIT",
         "rules": [
             "As long as this card is attached to a Pokémon, it provides Colorless Energy. Whenever you play a Pokémon from your hand to evolve the Pokémon V this card is attached to, heal 100 damage from that Pokémon."
         ],
@@ -10719,6 +10887,7 @@ let swsh12 = [
         "id": "swsh12-169",
         "name": "V Guard Energy",
         "supertype": "Energy",
+        "setAbbrev": "SIT",
         "rules": [
             "As long as this card is attached to a Pokémon, it provides Colorless Energy. The Pokémon this card is attached to takes 30 less damage from attacks from your opponent's Pokémon V (after applying Weakness and Resistance). This effect can't be applied more than once at a time to the same Pokémon."
         ],
@@ -10749,6 +10918,7 @@ let swsh12 = [
         "id": "swsh12-170",
         "name": "Serperior V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -10819,6 +10989,7 @@ let swsh12 = [
         "id": "swsh12-171",
         "name": "Chesnaught V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -10887,6 +11058,7 @@ let swsh12 = [
         "id": "swsh12-172",
         "name": "Reshiram V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -10957,6 +11129,7 @@ let swsh12 = [
         "id": "swsh12-173",
         "name": "Alolan Vulpix V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11028,6 +11201,7 @@ let swsh12 = [
         "id": "swsh12-174",
         "name": "Omastar V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11098,6 +11272,7 @@ let swsh12 = [
         "id": "swsh12-175",
         "name": "Regieleki V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11168,6 +11343,7 @@ let swsh12 = [
         "id": "swsh12-176",
         "name": "Unown V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11244,6 +11420,7 @@ let swsh12 = [
         "id": "swsh12-177",
         "name": "Unown V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11320,6 +11497,7 @@ let swsh12 = [
         "id": "swsh12-178",
         "name": "Mawile V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11390,6 +11568,7 @@ let swsh12 = [
         "id": "swsh12-179",
         "name": "Hisuian Arcanine V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11459,6 +11638,7 @@ let swsh12 = [
         "id": "swsh12-180",
         "name": "Skuntank V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11530,6 +11710,7 @@ let swsh12 = [
         "id": "swsh12-181",
         "name": "Skuntank V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11601,6 +11782,7 @@ let swsh12 = [
         "id": "swsh12-182",
         "name": "Magearna V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11677,6 +11859,7 @@ let swsh12 = [
         "id": "swsh12-183",
         "name": "Regidrago V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11741,6 +11924,7 @@ let swsh12 = [
         "id": "swsh12-184",
         "name": "Regidrago V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11805,6 +11989,7 @@ let swsh12 = [
         "id": "swsh12-185",
         "name": "Lugia V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11882,6 +12067,7 @@ let swsh12 = [
         "id": "swsh12-186",
         "name": "Lugia V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -11959,6 +12145,7 @@ let swsh12 = [
         "id": "swsh12-187",
         "name": "Ho-Oh V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -12034,6 +12221,7 @@ let swsh12 = [
         "id": "swsh12-188",
         "name": "Brandon",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12069,6 +12257,7 @@ let swsh12 = [
         "id": "swsh12-189",
         "name": "Candice",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12104,6 +12293,7 @@ let swsh12 = [
         "id": "swsh12-190",
         "name": "Furisode Girl",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12139,6 +12329,7 @@ let swsh12 = [
         "id": "swsh12-191",
         "name": "Gym Trainer",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12174,6 +12365,7 @@ let swsh12 = [
         "id": "swsh12-192",
         "name": "Lance",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12209,6 +12401,7 @@ let swsh12 = [
         "id": "swsh12-193",
         "name": "Serena",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12244,6 +12437,7 @@ let swsh12 = [
         "id": "swsh12-194",
         "name": "Wallace",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12279,6 +12473,7 @@ let swsh12 = [
         "id": "swsh12-195",
         "name": "Worker",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12314,6 +12509,7 @@ let swsh12 = [
         "id": "swsh12-196",
         "name": "Serperior VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -12383,6 +12579,7 @@ let swsh12 = [
         "id": "swsh12-197",
         "name": "Alolan Vulpix VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -12454,6 +12651,7 @@ let swsh12 = [
         "id": "swsh12-198",
         "name": "Regieleki VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VMAX"
         ],
@@ -12521,6 +12719,7 @@ let swsh12 = [
         "id": "swsh12-199",
         "name": "Unown VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -12597,6 +12796,7 @@ let swsh12 = [
         "id": "swsh12-200",
         "name": "Mawile VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -12664,6 +12864,7 @@ let swsh12 = [
         "id": "swsh12-201",
         "name": "Regidrago VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -12726,6 +12927,7 @@ let swsh12 = [
         "id": "swsh12-202",
         "name": "Lugia VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -12801,6 +13003,7 @@ let swsh12 = [
         "id": "swsh12-203",
         "name": "Brandon",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12836,6 +13039,7 @@ let swsh12 = [
         "id": "swsh12-204",
         "name": "Candice",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12871,6 +13075,7 @@ let swsh12 = [
         "id": "swsh12-205",
         "name": "Furisode Girl",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12906,6 +13111,7 @@ let swsh12 = [
         "id": "swsh12-206",
         "name": "Lance",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12941,6 +13147,7 @@ let swsh12 = [
         "id": "swsh12-207",
         "name": "Serena",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -12976,6 +13183,7 @@ let swsh12 = [
         "id": "swsh12-208",
         "name": "Wallace",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -13011,6 +13219,7 @@ let swsh12 = [
         "id": "swsh12-209",
         "name": "Worker",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -13046,6 +13255,7 @@ let swsh12 = [
         "id": "swsh12-210",
         "name": "Serperior VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -13115,6 +13325,7 @@ let swsh12 = [
         "id": "swsh12-211",
         "name": "Lugia VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VSTAR"
         ],
@@ -13190,6 +13401,7 @@ let swsh12 = [
         "id": "swsh12-212",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Item"
         ],
@@ -13225,6 +13437,7 @@ let swsh12 = [
         "id": "swsh12-213",
         "name": "Gapejaw Bog",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stadium"
         ],
@@ -13259,6 +13472,7 @@ let swsh12 = [
         "id": "swsh12-214",
         "name": "Leafy Camo Poncho",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -13296,6 +13510,7 @@ let swsh12 = [
         "id": "swsh12-215",
         "name": "V Guard Energy",
         "supertype": "Energy",
+        "setAbbrev": "SIT",
         "rules": [
             "As long as this card is attached to a Pokémon, it provides Colorless Energy. The Pokémon this card is attached to takes 30 less damage from attacks from your opponent's Pokémon V (after applying Weakness and Resistance). This effect can't be applied more than once at a time to the same Pokémon."
         ],
@@ -13326,6 +13541,7 @@ let swsh12 = [
         "id": "swsh12-TG01",
         "name": "Braixen",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -13396,6 +13612,7 @@ let swsh12 = [
         "id": "swsh12-TG02",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -13463,6 +13680,7 @@ let swsh12 = [
         "id": "swsh12-TG03",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -13532,6 +13750,7 @@ let swsh12 = [
         "id": "swsh12-TG04",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -13602,6 +13821,7 @@ let swsh12 = [
         "id": "swsh12-TG05",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 2"
         ],
@@ -13667,6 +13887,7 @@ let swsh12 = [
         "id": "swsh12-TG06",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -13731,6 +13952,7 @@ let swsh12 = [
         "id": "swsh12-TG07",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -13792,6 +14014,7 @@ let swsh12 = [
         "id": "swsh12-TG08",
         "name": "Passimian",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -13856,6 +14079,7 @@ let swsh12 = [
         "id": "swsh12-TG09",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -13918,6 +14142,7 @@ let swsh12 = [
         "id": "swsh12-TG10",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic"
         ],
@@ -13984,6 +14209,7 @@ let swsh12 = [
         "id": "swsh12-TG11",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Stage 1"
         ],
@@ -14059,6 +14285,7 @@ let swsh12 = [
         "id": "swsh12-TG12",
         "name": "Kricketune V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -14127,6 +14354,7 @@ let swsh12 = [
         "id": "swsh12-TG13",
         "name": "Serperior V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -14197,6 +14425,7 @@ let swsh12 = [
         "id": "swsh12-TG14",
         "name": "Blaziken V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V",
@@ -14270,6 +14499,7 @@ let swsh12 = [
         "id": "swsh12-TG15",
         "name": "Blaziken VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -14340,6 +14570,7 @@ let swsh12 = [
         "id": "swsh12-TG16",
         "name": "Zeraora V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V",
@@ -14402,6 +14633,7 @@ let swsh12 = [
         "id": "swsh12-TG17",
         "name": "Mawile V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -14472,6 +14704,7 @@ let swsh12 = [
         "id": "swsh12-TG18",
         "name": "Corviknight V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -14548,6 +14781,7 @@ let swsh12 = [
         "id": "swsh12-TG19",
         "name": "Corviknight VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VMAX"
         ],
@@ -14621,6 +14855,7 @@ let swsh12 = [
         "id": "swsh12-TG20",
         "name": "Rayquaza VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -14683,6 +14918,7 @@ let swsh12 = [
         "id": "swsh12-TG21",
         "name": "Duraludon VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -14746,6 +14982,7 @@ let swsh12 = [
         "id": "swsh12-TG22",
         "name": "Blissey V",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Basic",
             "V"
@@ -14812,6 +15049,7 @@ let swsh12 = [
         "id": "swsh12-TG23",
         "name": "Friends in Galar",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -14847,6 +15085,7 @@ let swsh12 = [
         "id": "swsh12-TG24",
         "name": "Gordie",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -14882,6 +15121,7 @@ let swsh12 = [
         "id": "swsh12-TG25",
         "name": "Judge",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -14917,6 +15157,7 @@ let swsh12 = [
         "id": "swsh12-TG26",
         "name": "Professor Burnet",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -14952,6 +15193,7 @@ let swsh12 = [
         "id": "swsh12-TG27",
         "name": "Raihan",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -14987,6 +15229,7 @@ let swsh12 = [
         "id": "swsh12-TG28",
         "name": "Sordward & Shielbert",
         "supertype": "Trainer",
+        "setAbbrev": "SIT",
         "subtypes": [
             "Supporter"
         ],
@@ -15022,6 +15265,7 @@ let swsh12 = [
         "id": "swsh12-TG29",
         "name": "Rayquaza VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -15084,6 +15328,7 @@ let swsh12 = [
         "id": "swsh12-TG30",
         "name": "Duraludon VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SIT",
         "subtypes": [
             "VMAX",
             "Single Strike"

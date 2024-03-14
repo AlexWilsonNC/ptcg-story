@@ -3,6 +3,7 @@ let swsh3 = [
         "id": "swsh3-1",
         "name": "Butterfree V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -111,6 +112,7 @@ let swsh3 = [
         "id": "swsh3-2",
         "name": "Butterfree VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -206,6 +208,7 @@ let swsh3 = [
         "id": "swsh3-3",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -310,6 +313,7 @@ let swsh3 = [
         "id": "swsh3-4",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -424,6 +428,7 @@ let swsh3 = [
         "id": "swsh3-5",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -535,6 +540,7 @@ let swsh3 = [
         "id": "swsh3-6",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -649,6 +655,7 @@ let swsh3 = [
         "id": "swsh3-7",
         "name": "Simisage",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -762,6 +769,7 @@ let swsh3 = [
         "id": "swsh3-8",
         "name": "Karrablast",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -866,6 +874,7 @@ let swsh3 = [
         "id": "swsh3-9",
         "name": "Shelmet",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -972,6 +981,7 @@ let swsh3 = [
         "id": "swsh3-10",
         "name": "Accelgor",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1071,6 +1081,7 @@ let swsh3 = [
         "id": "swsh3-11",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -1184,6 +1195,7 @@ let swsh3 = [
         "id": "swsh3-12",
         "name": "Dartrix",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1289,6 +1301,7 @@ let swsh3 = [
         "id": "swsh3-13",
         "name": "Decidueye",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -1400,6 +1413,7 @@ let swsh3 = [
         "id": "swsh3-14",
         "name": "Bounsweet",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -1514,6 +1528,7 @@ let swsh3 = [
         "id": "swsh3-15",
         "name": "Steenee",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1629,6 +1644,7 @@ let swsh3 = [
         "id": "swsh3-16",
         "name": "Tsareena",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -1742,6 +1758,7 @@ let swsh3 = [
         "id": "swsh3-17",
         "name": "Wimpod",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -1848,6 +1865,7 @@ let swsh3 = [
         "id": "swsh3-18",
         "name": "Golisopod",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1963,6 +1981,7 @@ let swsh3 = [
         "id": "swsh3-19",
         "name": "Charizard V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -2076,6 +2095,7 @@ let swsh3 = [
         "id": "swsh3-20",
         "name": "Charizard VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -2190,6 +2210,7 @@ let swsh3 = [
         "id": "swsh3-21",
         "name": "Houndoom V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -2298,6 +2319,7 @@ let swsh3 = [
         "id": "swsh3-22",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -2411,6 +2433,7 @@ let swsh3 = [
         "id": "swsh3-23",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2527,6 +2550,7 @@ let swsh3 = [
         "id": "swsh3-24",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -2639,6 +2663,7 @@ let swsh3 = [
         "id": "swsh3-25",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -2755,6 +2780,7 @@ let swsh3 = [
         "id": "swsh3-26",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -2869,6 +2895,7 @@ let swsh3 = [
         "id": "swsh3-27",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2982,6 +3009,7 @@ let swsh3 = [
         "id": "swsh3-28",
         "name": "Galarian Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3097,6 +3125,7 @@ let swsh3 = [
         "id": "swsh3-29",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -3202,6 +3231,7 @@ let swsh3 = [
         "id": "swsh3-30",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3315,6 +3345,7 @@ let swsh3 = [
         "id": "swsh3-31",
         "name": "Fletchinder",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3426,6 +3457,7 @@ let swsh3 = [
         "id": "swsh3-32",
         "name": "Talonflame",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -3543,6 +3575,7 @@ let swsh3 = [
         "id": "swsh3-33",
         "name": "Centiskorch V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -3654,6 +3687,7 @@ let swsh3 = [
         "id": "swsh3-34",
         "name": "Centiskorch VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -3754,6 +3788,7 @@ let swsh3 = [
         "id": "swsh3-35",
         "name": "Galarian Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -3868,6 +3903,7 @@ let swsh3 = [
         "id": "swsh3-36",
         "name": "Galarian Mr. Rime",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3980,6 +4016,7 @@ let swsh3 = [
         "id": "swsh3-37",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -4092,6 +4129,7 @@ let swsh3 = [
         "id": "swsh3-38",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -4196,6 +4234,7 @@ let swsh3 = [
         "id": "swsh3-39",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4308,6 +4347,7 @@ let swsh3 = [
         "id": "swsh3-40",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -4419,6 +4459,7 @@ let swsh3 = [
         "id": "swsh3-41",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -4533,6 +4574,7 @@ let swsh3 = [
         "id": "swsh3-42",
         "name": "Simipour",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4646,6 +4688,7 @@ let swsh3 = [
         "id": "swsh3-43",
         "name": "Galarian Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -4760,6 +4803,7 @@ let swsh3 = [
         "id": "swsh3-44",
         "name": "Galarian Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4878,6 +4922,7 @@ let swsh3 = [
         "id": "swsh3-45",
         "name": "Vanillite",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -4982,6 +5027,7 @@ let swsh3 = [
         "id": "swsh3-46",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5088,6 +5134,7 @@ let swsh3 = [
         "id": "swsh3-47",
         "name": "Vanilluxe",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -5199,6 +5246,7 @@ let swsh3 = [
         "id": "swsh3-48",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -5314,6 +5362,7 @@ let swsh3 = [
         "id": "swsh3-49",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5430,6 +5479,7 @@ let swsh3 = [
         "id": "swsh3-50",
         "name": "Wishiwashi",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -5540,6 +5590,7 @@ let swsh3 = [
         "id": "swsh3-51",
         "name": "Mareanie",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -5655,6 +5706,7 @@ let swsh3 = [
         "id": "swsh3-52",
         "name": "Toxapex",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5770,6 +5822,7 @@ let swsh3 = [
         "id": "swsh3-53",
         "name": "Dracovish",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5883,6 +5936,7 @@ let swsh3 = [
         "id": "swsh3-54",
         "name": "Arctovish",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6000,6 +6054,7 @@ let swsh3 = [
         "id": "swsh3-55",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -6104,6 +6159,7 @@ let swsh3 = [
         "id": "swsh3-56",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6209,6 +6265,7 @@ let swsh3 = [
         "id": "swsh3-57",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -6322,6 +6379,7 @@ let swsh3 = [
         "id": "swsh3-58",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -6427,6 +6485,7 @@ let swsh3 = [
         "id": "swsh3-59",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6540,6 +6599,7 @@ let swsh3 = [
         "id": "swsh3-60",
         "name": "Vikavolt V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -6651,6 +6711,7 @@ let swsh3 = [
         "id": "swsh3-61",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -6759,6 +6820,7 @@ let swsh3 = [
         "id": "swsh3-62",
         "name": "Toxel",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -6874,6 +6936,7 @@ let swsh3 = [
         "id": "swsh3-63",
         "name": "Toxtricity",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -6989,6 +7052,7 @@ let swsh3 = [
         "id": "swsh3-64",
         "name": "Pincurchin",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -7102,6 +7166,7 @@ let swsh3 = [
         "id": "swsh3-65",
         "name": "Dracozolt",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -7219,6 +7284,7 @@ let swsh3 = [
         "id": "swsh3-66",
         "name": "Arctozolt",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -7330,6 +7396,7 @@ let swsh3 = [
         "id": "swsh3-67",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -7444,6 +7511,7 @@ let swsh3 = [
         "id": "swsh3-68",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -7558,6 +7626,7 @@ let swsh3 = [
         "id": "swsh3-69",
         "name": "Mew V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -7658,6 +7727,7 @@ let swsh3 = [
         "id": "swsh3-70",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -7764,6 +7834,7 @@ let swsh3 = [
         "id": "swsh3-71",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -7879,6 +7950,7 @@ let swsh3 = [
         "id": "swsh3-72",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -7996,6 +8068,7 @@ let swsh3 = [
         "id": "swsh3-73",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -8116,6 +8189,7 @@ let swsh3 = [
         "id": "swsh3-74",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -8238,6 +8312,7 @@ let swsh3 = [
         "id": "swsh3-75",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -8357,6 +8432,7 @@ let swsh3 = [
         "id": "swsh3-76",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -8481,6 +8557,7 @@ let swsh3 = [
         "id": "swsh3-77",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -8607,6 +8684,7 @@ let swsh3 = [
         "id": "swsh3-78",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -8710,6 +8788,7 @@ let swsh3 = [
         "id": "swsh3-79",
         "name": "Morelull",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -8824,6 +8903,7 @@ let swsh3 = [
         "id": "swsh3-80",
         "name": "Shiinotic",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -8937,6 +9017,7 @@ let swsh3 = [
         "id": "swsh3-81",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -9052,6 +9133,7 @@ let swsh3 = [
         "id": "swsh3-82",
         "name": "Sinistea",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -9162,6 +9244,7 @@ let swsh3 = [
         "id": "swsh3-83",
         "name": "Polteageist",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -9278,6 +9361,7 @@ let swsh3 = [
         "id": "swsh3-84",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -9382,6 +9466,7 @@ let swsh3 = [
         "id": "swsh3-85",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -9494,6 +9579,7 @@ let swsh3 = [
         "id": "swsh3-86",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -9608,6 +9694,7 @@ let swsh3 = [
         "id": "swsh3-87",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -9726,6 +9813,7 @@ let swsh3 = [
         "id": "swsh3-88",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -9845,6 +9933,7 @@ let swsh3 = [
         "id": "swsh3-89",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -9949,6 +10038,7 @@ let swsh3 = [
         "id": "swsh3-90",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -10054,6 +10144,7 @@ let swsh3 = [
         "id": "swsh3-91",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -10165,6 +10256,7 @@ let swsh3 = [
         "id": "swsh3-92",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -10274,6 +10366,7 @@ let swsh3 = [
         "id": "swsh3-93",
         "name": "Hippopotas",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -10393,6 +10486,7 @@ let swsh3 = [
         "id": "swsh3-94",
         "name": "Hippowdon",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -10512,6 +10606,7 @@ let swsh3 = [
         "id": "swsh3-95",
         "name": "Rhyperior V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -10626,6 +10721,7 @@ let swsh3 = [
         "id": "swsh3-96",
         "name": "Diggersby",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -10744,6 +10840,7 @@ let swsh3 = [
         "id": "swsh3-97",
         "name": "Passimian",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -10856,6 +10953,7 @@ let swsh3 = [
         "id": "swsh3-98",
         "name": "Galarian Sirfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -10970,6 +11068,7 @@ let swsh3 = [
         "id": "swsh3-99",
         "name": "Galarian Slowbro V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -11078,6 +11177,7 @@ let swsh3 = [
         "id": "swsh3-100",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -11195,6 +11295,7 @@ let swsh3 = [
         "id": "swsh3-101",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -11312,6 +11413,7 @@ let swsh3 = [
         "id": "swsh3-102",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -11426,6 +11528,7 @@ let swsh3 = [
         "id": "swsh3-103",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -11537,6 +11640,7 @@ let swsh3 = [
         "id": "swsh3-104",
         "name": "Crobat V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -11642,6 +11746,7 @@ let swsh3 = [
         "id": "swsh3-105",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -11753,6 +11858,7 @@ let swsh3 = [
         "id": "swsh3-106",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -11867,6 +11973,7 @@ let swsh3 = [
         "id": "swsh3-107",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -11978,6 +12085,7 @@ let swsh3 = [
         "id": "swsh3-108",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -12082,6 +12190,7 @@ let swsh3 = [
         "id": "swsh3-109",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -12200,6 +12309,7 @@ let swsh3 = [
         "id": "swsh3-110",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -12313,6 +12423,7 @@ let swsh3 = [
         "id": "swsh3-111",
         "name": "Hoopa",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -12415,6 +12526,7 @@ let swsh3 = [
         "id": "swsh3-112",
         "name": "Nickit",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -12519,6 +12631,7 @@ let swsh3 = [
         "id": "swsh3-113",
         "name": "Thievul",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -12631,6 +12744,7 @@ let swsh3 = [
         "id": "swsh3-114",
         "name": "Grimmsnarl V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -12740,6 +12854,7 @@ let swsh3 = [
         "id": "swsh3-115",
         "name": "Grimmsnarl VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -12841,6 +12956,7 @@ let swsh3 = [
         "id": "swsh3-116",
         "name": "Eternatus V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -12951,6 +13067,7 @@ let swsh3 = [
         "id": "swsh3-117",
         "name": "Eternatus VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -13058,6 +13175,7 @@ let swsh3 = [
         "id": "swsh3-118",
         "name": "Scizor V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -13173,6 +13291,7 @@ let swsh3 = [
         "id": "swsh3-119",
         "name": "Scizor VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -13289,6 +13408,7 @@ let swsh3 = [
         "id": "swsh3-120",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -13407,6 +13527,7 @@ let swsh3 = [
         "id": "swsh3-121",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -13528,6 +13649,7 @@ let swsh3 = [
         "id": "swsh3-122",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -13653,6 +13775,7 @@ let swsh3 = [
         "id": "swsh3-123",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -13773,6 +13896,7 @@ let swsh3 = [
         "id": "swsh3-124",
         "name": "Escavalier",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -13892,6 +14016,7 @@ let swsh3 = [
         "id": "swsh3-125",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -14003,6 +14128,7 @@ let swsh3 = [
         "id": "swsh3-126",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -14127,6 +14253,7 @@ let swsh3 = [
         "id": "swsh3-127",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -14249,6 +14376,7 @@ let swsh3 = [
         "id": "swsh3-128",
         "name": "Galarian Stunfisk V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -14363,6 +14491,7 @@ let swsh3 = [
         "id": "swsh3-129",
         "name": "Meltan",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -14483,6 +14612,7 @@ let swsh3 = [
         "id": "swsh3-130",
         "name": "Melmetal",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -14606,6 +14736,7 @@ let swsh3 = [
         "id": "swsh3-131",
         "name": "Cufant",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -14720,6 +14851,7 @@ let swsh3 = [
         "id": "swsh3-132",
         "name": "Copperajah",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -14841,6 +14973,7 @@ let swsh3 = [
         "id": "swsh3-133",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -14955,6 +15088,7 @@ let swsh3 = [
         "id": "swsh3-134",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -15058,6 +15192,7 @@ let swsh3 = [
         "id": "swsh3-135",
         "name": "Sentret",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -15162,6 +15297,7 @@ let swsh3 = [
         "id": "swsh3-136",
         "name": "Furret",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -15273,6 +15409,7 @@ let swsh3 = [
         "id": "swsh3-137",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -15381,6 +15518,7 @@ let swsh3 = [
         "id": "swsh3-138",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -15496,6 +15634,7 @@ let swsh3 = [
         "id": "swsh3-139",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -15614,6 +15753,7 @@ let swsh3 = [
         "id": "swsh3-140",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -15733,6 +15873,7 @@ let swsh3 = [
         "id": "swsh3-141",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -15847,6 +15988,7 @@ let swsh3 = [
         "id": "swsh3-142",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -15960,6 +16102,7 @@ let swsh3 = [
         "id": "swsh3-143",
         "name": "Salamence V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -16078,6 +16221,7 @@ let swsh3 = [
         "id": "swsh3-144",
         "name": "Salamence VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -16194,6 +16338,7 @@ let swsh3 = [
         "id": "swsh3-145",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -16312,6 +16457,7 @@ let swsh3 = [
         "id": "swsh3-146",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -16433,6 +16579,7 @@ let swsh3 = [
         "id": "swsh3-147",
         "name": "Staraptor",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -16548,6 +16695,7 @@ let swsh3 = [
         "id": "swsh3-148",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -16658,6 +16806,7 @@ let swsh3 = [
         "id": "swsh3-149",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -16771,6 +16920,7 @@ let swsh3 = [
         "id": "swsh3-150",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -16876,6 +17026,7 @@ let swsh3 = [
         "id": "swsh3-151",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -16986,6 +17137,7 @@ let swsh3 = [
         "id": "swsh3-152",
         "name": "Skwovet",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -17090,6 +17242,7 @@ let swsh3 = [
         "id": "swsh3-153",
         "name": "Greedent",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -17202,6 +17355,7 @@ let swsh3 = [
         "id": "swsh3-154",
         "name": "Rookidee",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic"
         ],
@@ -17312,6 +17466,7 @@ let swsh3 = [
         "id": "swsh3-155",
         "name": "Corvisquire",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 1"
         ],
@@ -17434,6 +17589,7 @@ let swsh3 = [
         "id": "swsh3-156",
         "name": "Corviknight",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -17552,6 +17708,7 @@ let swsh3 = [
         "id": "swsh3-157",
         "name": "Big Parasol",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -17630,6 +17787,7 @@ let swsh3 = [
         "id": "swsh3-158",
         "name": "Billowing Smoke",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -17708,6 +17866,7 @@ let swsh3 = [
         "id": "swsh3-159",
         "name": "Bird Keeper",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -17785,6 +17944,7 @@ let swsh3 = [
         "id": "swsh3-160",
         "name": "Cape of Toughness",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -17863,6 +18023,7 @@ let swsh3 = [
         "id": "swsh3-161",
         "name": "Familiar Bell",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -17940,6 +18101,7 @@ let swsh3 = [
         "id": "swsh3-162",
         "name": "Glimwood Tangle",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stadium"
         ],
@@ -18017,6 +18179,7 @@ let swsh3 = [
         "id": "swsh3-163",
         "name": "Kabu",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -18094,6 +18257,7 @@ let swsh3 = [
         "id": "swsh3-164",
         "name": "Old PC",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -18171,6 +18335,7 @@ let swsh3 = [
         "id": "swsh3-165",
         "name": "Piers",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -18248,6 +18413,7 @@ let swsh3 = [
         "id": "swsh3-166",
         "name": "Pokémon Breeder's Nurturing",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -18325,6 +18491,7 @@ let swsh3 = [
         "id": "swsh3-167",
         "name": "Rare Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -18404,6 +18571,7 @@ let swsh3 = [
         "id": "swsh3-168",
         "name": "Rose",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -18481,6 +18649,7 @@ let swsh3 = [
         "id": "swsh3-169",
         "name": "Rose Tower",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stadium"
         ],
@@ -18558,6 +18727,7 @@ let swsh3 = [
         "id": "swsh3-170",
         "name": "Spikemuth",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stadium"
         ],
@@ -18635,6 +18805,7 @@ let swsh3 = [
         "id": "swsh3-171",
         "name": "Struggle Gloves",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -18713,6 +18884,7 @@ let swsh3 = [
         "id": "swsh3-172",
         "name": "Turbo Patch",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -18790,6 +18962,7 @@ let swsh3 = [
         "id": "swsh3-173",
         "name": "Yell Horn",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -18867,6 +19040,7 @@ let swsh3 = [
         "id": "swsh3-174",
         "name": "Heat Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Special"
         ],
@@ -18943,6 +19117,7 @@ let swsh3 = [
         "id": "swsh3-175",
         "name": "Hiding Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Special"
         ],
@@ -19019,6 +19194,7 @@ let swsh3 = [
         "id": "swsh3-176",
         "name": "Powerful Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Special"
         ],
@@ -19095,6 +19271,7 @@ let swsh3 = [
         "id": "swsh3-177",
         "name": "Butterfree V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -19203,6 +19380,7 @@ let swsh3 = [
         "id": "swsh3-178",
         "name": "Houndoom V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -19311,6 +19489,7 @@ let swsh3 = [
         "id": "swsh3-179",
         "name": "Centiskorch V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -19422,6 +19601,7 @@ let swsh3 = [
         "id": "swsh3-180",
         "name": "Vikavolt V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -19533,6 +19713,7 @@ let swsh3 = [
         "id": "swsh3-181",
         "name": "Rhyperior V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -19647,6 +19828,7 @@ let swsh3 = [
         "id": "swsh3-182",
         "name": "Crobat V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -19752,6 +19934,7 @@ let swsh3 = [
         "id": "swsh3-183",
         "name": "Scizor V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -19867,6 +20050,7 @@ let swsh3 = [
         "id": "swsh3-184",
         "name": "Galarian Stunfisk V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -19981,6 +20165,7 @@ let swsh3 = [
         "id": "swsh3-185",
         "name": "Salamence V",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Basic",
             "V"
@@ -20099,6 +20284,7 @@ let swsh3 = [
         "id": "swsh3-186",
         "name": "Kabu",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -20169,6 +20355,7 @@ let swsh3 = [
         "id": "swsh3-187",
         "name": "Piers",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -20239,6 +20426,7 @@ let swsh3 = [
         "id": "swsh3-188",
         "name": "Pokémon Breeder's Nurturing",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -20309,6 +20497,7 @@ let swsh3 = [
         "id": "swsh3-189",
         "name": "Rose",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -20379,6 +20568,7 @@ let swsh3 = [
         "id": "swsh3-190",
         "name": "Butterfree VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -20474,6 +20664,7 @@ let swsh3 = [
         "id": "swsh3-191",
         "name": "Centiskorch VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -20574,6 +20765,7 @@ let swsh3 = [
         "id": "swsh3-192",
         "name": "Eternatus VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -20681,6 +20873,7 @@ let swsh3 = [
         "id": "swsh3-193",
         "name": "Scizor VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -20797,6 +20990,7 @@ let swsh3 = [
         "id": "swsh3-194",
         "name": "Salamence VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "VMAX"
         ],
@@ -20913,6 +21107,7 @@ let swsh3 = [
         "id": "swsh3-195",
         "name": "Pokémon Breeder's Nurturing",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -20983,6 +21178,7 @@ let swsh3 = [
         "id": "swsh3-196",
         "name": "Rose",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Supporter"
         ],
@@ -21053,6 +21249,7 @@ let swsh3 = [
         "id": "swsh3-197",
         "name": "Rillaboom",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -21160,6 +21357,7 @@ let swsh3 = [
         "id": "swsh3-198",
         "name": "Coalossal",
         "supertype": "Pokémon",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Stage 2"
         ],
@@ -21268,6 +21466,7 @@ let swsh3 = [
         "id": "swsh3-199",
         "name": "Big Parasol",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -21339,6 +21538,7 @@ let swsh3 = [
         "id": "swsh3-200",
         "name": "Turbo Patch",
         "supertype": "Trainer",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Item"
         ],
@@ -21409,6 +21609,7 @@ let swsh3 = [
         "id": "swsh3-201",
         "name": "Capture Energy",
         "supertype": "Energy",
+        "setAbbrev": "DAA",
         "subtypes": [
             "Special"
         ],

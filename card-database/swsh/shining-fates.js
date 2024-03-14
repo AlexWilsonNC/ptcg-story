@@ -3,6 +3,7 @@ let swsh45 = [
         "id": "swsh45-1",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -117,6 +118,7 @@ let swsh45 = [
         "id": "swsh45-2",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -225,6 +227,7 @@ let swsh45 = [
         "id": "swsh45-3",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -335,6 +338,7 @@ let swsh45 = [
         "id": "swsh45-4",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -441,6 +445,7 @@ let swsh45 = [
         "id": "swsh45-5",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -552,6 +557,7 @@ let swsh45 = [
         "id": "swsh45-6",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -665,6 +671,7 @@ let swsh45 = [
         "id": "swsh45-7",
         "name": "Dartrix",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -770,6 +777,7 @@ let swsh45 = [
         "id": "swsh45-8",
         "name": "Decidueye",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -881,6 +889,7 @@ let swsh45 = [
         "id": "swsh45-9",
         "name": "Dhelmise V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -990,6 +999,7 @@ let swsh45 = [
         "id": "swsh45-10",
         "name": "Dhelmise VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -1100,6 +1110,7 @@ let swsh45 = [
         "id": "swsh45-11",
         "name": "Grookey",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -1204,6 +1215,7 @@ let swsh45 = [
         "id": "swsh45-12",
         "name": "Thwackey",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1317,6 +1329,7 @@ let swsh45 = [
         "id": "swsh45-13",
         "name": "Rillaboom",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1431,6 +1444,7 @@ let swsh45 = [
         "id": "swsh45-14",
         "name": "Gossifleur",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -1535,6 +1549,7 @@ let swsh45 = [
         "id": "swsh45-15",
         "name": "Eldegoss",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1646,6 +1661,7 @@ let swsh45 = [
         "id": "swsh45-16",
         "name": "Zarude",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -1760,6 +1776,7 @@ let swsh45 = [
         "id": "swsh45-17",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -1858,6 +1875,7 @@ let swsh45 = [
         "id": "swsh45-18",
         "name": "Cinderace V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -1965,6 +1983,7 @@ let swsh45 = [
         "id": "swsh45-19",
         "name": "Cinderace VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -2075,6 +2094,7 @@ let swsh45 = [
         "id": "swsh45-20",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -2175,6 +2195,7 @@ let swsh45 = [
         "id": "swsh45-21",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -2274,6 +2295,7 @@ let swsh45 = [
         "id": "swsh45-22",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -2378,6 +2400,7 @@ let swsh45 = [
         "id": "swsh45-23",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2480,6 +2503,7 @@ let swsh45 = [
         "id": "swsh45-24",
         "name": "Manaphy",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -2589,6 +2613,7 @@ let swsh45 = [
         "id": "swsh45-25",
         "name": "Volcanion",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -2705,6 +2730,7 @@ let swsh45 = [
         "id": "swsh45-26",
         "name": "Chewtle",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -2820,6 +2846,7 @@ let swsh45 = [
         "id": "swsh45-27",
         "name": "Drednaw",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2933,6 +2960,7 @@ let swsh45 = [
         "id": "swsh45-28",
         "name": "Cramorant",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -3035,6 +3063,7 @@ let swsh45 = [
         "id": "swsh45-29",
         "name": "Snom",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -3140,6 +3169,7 @@ let swsh45 = [
         "id": "swsh45-30",
         "name": "Frosmoth",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3251,6 +3281,7 @@ let swsh45 = [
         "id": "swsh45-31",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -3355,6 +3386,7 @@ let swsh45 = [
         "id": "swsh45-32",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3467,6 +3499,7 @@ let swsh45 = [
         "id": "swsh45-33",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -3579,6 +3612,7 @@ let swsh45 = [
         "id": "swsh45-34",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -3688,6 +3722,7 @@ let swsh45 = [
         "id": "swsh45-35",
         "name": "Morpeko",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -3799,6 +3834,7 @@ let swsh45 = [
         "id": "swsh45-36",
         "name": "Morpeko",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -3910,6 +3946,7 @@ let swsh45 = [
         "id": "swsh45-37",
         "name": "Morpeko V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -4019,6 +4056,7 @@ let swsh45 = [
         "id": "swsh45-38",
         "name": "Morpeko VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -4118,6 +4156,7 @@ let swsh45 = [
         "id": "swsh45-39",
         "name": "Indeedee V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -4231,6 +4270,7 @@ let swsh45 = [
         "id": "swsh45-40",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -4335,6 +4375,7 @@ let swsh45 = [
         "id": "swsh45-41",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -4439,6 +4480,7 @@ let swsh45 = [
         "id": "swsh45-42",
         "name": "Galarian Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4550,6 +4592,7 @@ let swsh45 = [
         "id": "swsh45-43",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -4664,6 +4707,7 @@ let swsh45 = [
         "id": "swsh45-44",
         "name": "Crobat V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -4769,6 +4813,7 @@ let swsh45 = [
         "id": "swsh45-45",
         "name": "Crobat VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -4878,6 +4923,7 @@ let swsh45 = [
         "id": "swsh45-46",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -4983,6 +5029,7 @@ let swsh45 = [
         "id": "swsh45-47",
         "name": "Nickit",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -5087,6 +5134,7 @@ let swsh45 = [
         "id": "swsh45-48",
         "name": "Thievul",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5200,6 +5248,7 @@ let swsh45 = [
         "id": "swsh45-49",
         "name": "Cufant",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -5314,6 +5363,7 @@ let swsh45 = [
         "id": "swsh45-50",
         "name": "Ditto V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -5419,6 +5469,7 @@ let swsh45 = [
         "id": "swsh45-51",
         "name": "Ditto VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -5520,6 +5571,7 @@ let swsh45 = [
         "id": "swsh45-52",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -5641,6 +5693,7 @@ let swsh45 = [
         "id": "swsh45-53",
         "name": "Greedent V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -5751,6 +5804,7 @@ let swsh45 = [
         "id": "swsh45-54",
         "name": "Cramorant V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -5865,6 +5919,7 @@ let swsh45 = [
         "id": "swsh45-55",
         "name": "Cramorant VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -5971,6 +6026,7 @@ let swsh45 = [
         "id": "swsh45-56",
         "name": "Indeedee",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -6082,6 +6138,7 @@ let swsh45 = [
         "id": "swsh45-57",
         "name": "Ball Guy",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -6159,6 +6216,7 @@ let swsh45 = [
         "id": "swsh45-58",
         "name": "Boss's Orders",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -6236,6 +6294,7 @@ let swsh45 = [
         "id": "swsh45-59",
         "name": "Gym Trainer",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -6313,6 +6372,7 @@ let swsh45 = [
         "id": "swsh45-60",
         "name": "Professor's Research",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -6390,6 +6450,7 @@ let swsh45 = [
         "id": "swsh45-61",
         "name": "Rusted Shield",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6468,6 +6529,7 @@ let swsh45 = [
         "id": "swsh45-62",
         "name": "Rusted Sword",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6546,6 +6608,7 @@ let swsh45 = [
         "id": "swsh45-63",
         "name": "Team Yell Towel",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Item"
         ],
@@ -6623,6 +6686,7 @@ let swsh45 = [
         "id": "swsh45-64",
         "name": "Alcremie V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -6732,6 +6796,7 @@ let swsh45 = [
         "id": "swsh45-65",
         "name": "Ball Guy",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -6802,6 +6867,7 @@ let swsh45 = [
         "id": "swsh45-66",
         "name": "Bird Keeper",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -6872,6 +6938,7 @@ let swsh45 = [
         "id": "swsh45-67",
         "name": "Cara Liss",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -6942,6 +7009,7 @@ let swsh45 = [
         "id": "swsh45-68",
         "name": "Gym Trainer",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -7012,6 +7080,7 @@ let swsh45 = [
         "id": "swsh45-69",
         "name": "Piers",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -7082,6 +7151,7 @@ let swsh45 = [
         "id": "swsh45-70",
         "name": "Poké Kid",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -7152,6 +7222,7 @@ let swsh45 = [
         "id": "swsh45-71",
         "name": "Rose",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -7222,6 +7293,7 @@ let swsh45 = [
         "id": "swsh45-72",
         "name": "Skyla",
         "supertype": "Trainer",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Supporter"
         ],
@@ -7292,6 +7364,7 @@ let swsh45 = [
         "id": "swsh45-73",
         "name": "Alcremie VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -7400,6 +7473,7 @@ let swsh45 = [
         "id": "swsh45sv-SV001",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -7506,6 +7580,7 @@ let swsh45 = [
         "id": "swsh45sv-SV002",
         "name": "Dartrix",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7604,6 +7679,7 @@ let swsh45 = [
         "id": "swsh45sv-SV003",
         "name": "Decidueye",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -7708,6 +7784,7 @@ let swsh45 = [
         "id": "swsh45sv-SV004",
         "name": "Grookey",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -7805,6 +7882,7 @@ let swsh45 = [
         "id": "swsh45sv-SV005",
         "name": "Thwackey",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7911,6 +7989,7 @@ let swsh45 = [
         "id": "swsh45sv-SV006",
         "name": "Rillaboom",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -8018,6 +8097,7 @@ let swsh45 = [
         "id": "swsh45sv-SV007",
         "name": "Blipbug",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -8115,6 +8195,7 @@ let swsh45 = [
         "id": "swsh45sv-SV008",
         "name": "Dottler",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8224,6 +8305,7 @@ let swsh45 = [
         "id": "swsh45sv-SV009",
         "name": "Orbeetle",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -8327,6 +8409,7 @@ let swsh45 = [
         "id": "swsh45sv-SV010",
         "name": "Gossifleur",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -8433,6 +8516,7 @@ let swsh45 = [
         "id": "swsh45sv-SV011",
         "name": "Eldegoss",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8537,6 +8621,7 @@ let swsh45 = [
         "id": "swsh45sv-SV012",
         "name": "Applin",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -8634,6 +8719,7 @@ let swsh45 = [
         "id": "swsh45sv-SV013",
         "name": "Flapple",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8737,6 +8823,7 @@ let swsh45 = [
         "id": "swsh45sv-SV014",
         "name": "Appletun",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8842,6 +8929,7 @@ let swsh45 = [
         "id": "swsh45sv-SV015",
         "name": "Scorbunny",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -8939,6 +9027,7 @@ let swsh45 = [
         "id": "swsh45sv-SV016",
         "name": "Raboot",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9048,6 +9137,7 @@ let swsh45 = [
         "id": "swsh45sv-SV017",
         "name": "Cinderace",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -9152,6 +9242,7 @@ let swsh45 = [
         "id": "swsh45sv-SV018",
         "name": "Sizzlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -9260,6 +9351,7 @@ let swsh45 = [
         "id": "swsh45sv-SV019",
         "name": "Centiskorch",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9369,6 +9461,7 @@ let swsh45 = [
         "id": "swsh45sv-SV020",
         "name": "Galarian Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -9476,6 +9569,7 @@ let swsh45 = [
         "id": "swsh45sv-SV021",
         "name": "Galarian Mr. Rime",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9581,6 +9675,7 @@ let swsh45 = [
         "id": "swsh45sv-SV022",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -9686,6 +9781,7 @@ let swsh45 = [
         "id": "swsh45sv-SV023",
         "name": "Galarian Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -9785,6 +9881,7 @@ let swsh45 = [
         "id": "swsh45sv-SV024",
         "name": "Galarian Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9896,6 +9993,7 @@ let swsh45 = [
         "id": "swsh45sv-SV025",
         "name": "Sobble",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -9993,6 +10091,7 @@ let swsh45 = [
         "id": "swsh45sv-SV026",
         "name": "Drizzile",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10099,6 +10198,7 @@ let swsh45 = [
         "id": "swsh45sv-SV027",
         "name": "Inteleon",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -10202,6 +10302,7 @@ let swsh45 = [
         "id": "swsh45sv-SV028",
         "name": "Chewtle",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -10312,6 +10413,7 @@ let swsh45 = [
         "id": "swsh45sv-SV029",
         "name": "Drednaw",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10423,6 +10525,7 @@ let swsh45 = [
         "id": "swsh45sv-SV030",
         "name": "Cramorant",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -10534,6 +10637,7 @@ let swsh45 = [
         "id": "swsh45sv-SV031",
         "name": "Arrokuda",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -10631,6 +10735,7 @@ let swsh45 = [
         "id": "swsh45sv-SV032",
         "name": "Barraskewda",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10735,6 +10840,7 @@ let swsh45 = [
         "id": "swsh45sv-SV033",
         "name": "Snom",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -10833,6 +10939,7 @@ let swsh45 = [
         "id": "swsh45sv-SV034",
         "name": "Frosmoth",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10937,6 +11044,7 @@ let swsh45 = [
         "id": "swsh45sv-SV035",
         "name": "Eiscue",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -11041,6 +11149,7 @@ let swsh45 = [
         "id": "swsh45sv-SV036",
         "name": "Dracovish",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -11147,6 +11256,7 @@ let swsh45 = [
         "id": "swsh45sv-SV037",
         "name": "Arctovish",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -11257,6 +11367,7 @@ let swsh45 = [
         "id": "swsh45sv-SV038",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -11359,6 +11470,7 @@ let swsh45 = [
         "id": "swsh45sv-SV039",
         "name": "Yamper",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -11465,6 +11577,7 @@ let swsh45 = [
         "id": "swsh45sv-SV040",
         "name": "Boltund",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -11572,6 +11685,7 @@ let swsh45 = [
         "id": "swsh45sv-SV041",
         "name": "Toxel",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -11680,6 +11794,7 @@ let swsh45 = [
         "id": "swsh45sv-SV042",
         "name": "Toxtricity",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -11788,6 +11903,7 @@ let swsh45 = [
         "id": "swsh45sv-SV043",
         "name": "Pincurchin",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -11884,6 +12000,7 @@ let swsh45 = [
         "id": "swsh45sv-SV044",
         "name": "Morpeko",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -11988,6 +12105,7 @@ let swsh45 = [
         "id": "swsh45sv-SV045",
         "name": "Dracozolt",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12098,6 +12216,7 @@ let swsh45 = [
         "id": "swsh45sv-SV046",
         "name": "Arctozolt",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12202,6 +12321,7 @@ let swsh45 = [
         "id": "swsh45sv-SV047",
         "name": "Galarian Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -12305,6 +12425,7 @@ let swsh45 = [
         "id": "swsh45sv-SV048",
         "name": "Galarian Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12414,6 +12535,7 @@ let swsh45 = [
         "id": "swsh45sv-SV049",
         "name": "Galarian Corsola",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -12518,6 +12640,7 @@ let swsh45 = [
         "id": "swsh45sv-SV050",
         "name": "Galarian Cursola",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12628,6 +12751,7 @@ let swsh45 = [
         "id": "swsh45sv-SV051",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -12724,6 +12848,7 @@ let swsh45 = [
         "id": "swsh45sv-SV052",
         "name": "Sinistea",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -12827,6 +12952,7 @@ let swsh45 = [
         "id": "swsh45sv-SV053",
         "name": "Polteageist",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12936,6 +13062,7 @@ let swsh45 = [
         "id": "swsh45sv-SV054",
         "name": "Hatenna",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -13049,6 +13176,7 @@ let swsh45 = [
         "id": "swsh45sv-SV055",
         "name": "Hattrem",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -13163,6 +13291,7 @@ let swsh45 = [
         "id": "swsh45sv-SV056",
         "name": "Hatterene",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -13272,6 +13401,7 @@ let swsh45 = [
         "id": "swsh45sv-SV057",
         "name": "Milcery",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -13379,6 +13509,7 @@ let swsh45 = [
         "id": "swsh45sv-SV058",
         "name": "Alcremie",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -13484,6 +13615,7 @@ let swsh45 = [
         "id": "swsh45sv-SV059",
         "name": "Indeedee",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -13594,6 +13726,7 @@ let swsh45 = [
         "id": "swsh45sv-SV060",
         "name": "Dreepy",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -13697,6 +13830,7 @@ let swsh45 = [
         "id": "swsh45sv-SV061",
         "name": "Drakloak",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -13811,6 +13945,7 @@ let swsh45 = [
         "id": "swsh45sv-SV062",
         "name": "Dragapult",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -13916,6 +14051,7 @@ let swsh45 = [
         "id": "swsh45sv-SV063",
         "name": "Galarian Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -14023,6 +14159,7 @@ let swsh45 = [
         "id": "swsh45sv-SV064",
         "name": "Galarian Sirfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -14130,6 +14267,7 @@ let swsh45 = [
         "id": "swsh45sv-SV065",
         "name": "Galarian Yamask",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -14229,6 +14367,7 @@ let swsh45 = [
         "id": "swsh45sv-SV066",
         "name": "Galarian Runerigus",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -14337,6 +14476,7 @@ let swsh45 = [
         "id": "swsh45sv-SV067",
         "name": "Rolycoly",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -14435,6 +14575,7 @@ let swsh45 = [
         "id": "swsh45sv-SV068",
         "name": "Carkol",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -14547,6 +14688,7 @@ let swsh45 = [
         "id": "swsh45sv-SV069",
         "name": "Coalossal",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -14655,6 +14797,7 @@ let swsh45 = [
         "id": "swsh45sv-SV070",
         "name": "Silicobra",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -14753,6 +14896,7 @@ let swsh45 = [
         "id": "swsh45sv-SV071",
         "name": "Sandaconda",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -14860,6 +15004,7 @@ let swsh45 = [
         "id": "swsh45sv-SV072",
         "name": "Clobbopus",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -14958,6 +15103,7 @@ let swsh45 = [
         "id": "swsh45sv-SV073",
         "name": "Grapploct",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -15066,6 +15212,7 @@ let swsh45 = [
         "id": "swsh45sv-SV074",
         "name": "Falinks",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -15170,6 +15317,7 @@ let swsh45 = [
         "id": "swsh45sv-SV075",
         "name": "Stonjourner",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -15281,6 +15429,7 @@ let swsh45 = [
         "id": "swsh45sv-SV076",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -15378,6 +15527,7 @@ let swsh45 = [
         "id": "swsh45sv-SV077",
         "name": "Galarian Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -15482,6 +15632,7 @@ let swsh45 = [
         "id": "swsh45sv-SV078",
         "name": "Galarian Zigzagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -15587,6 +15738,7 @@ let swsh45 = [
         "id": "swsh45sv-SV079",
         "name": "Galarian Linoone",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -15697,6 +15849,7 @@ let swsh45 = [
         "id": "swsh45sv-SV080",
         "name": "Galarian Obstagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -15801,6 +15954,7 @@ let swsh45 = [
         "id": "swsh45sv-SV081",
         "name": "Nickit",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -15898,6 +16052,7 @@ let swsh45 = [
         "id": "swsh45sv-SV082",
         "name": "Thievul",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -16004,6 +16159,7 @@ let swsh45 = [
         "id": "swsh45sv-SV083",
         "name": "Impidimp",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -16111,6 +16267,7 @@ let swsh45 = [
         "id": "swsh45sv-SV084",
         "name": "Morgrem",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -16221,6 +16378,7 @@ let swsh45 = [
         "id": "swsh45sv-SV085",
         "name": "Grimmsnarl",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -16327,6 +16485,7 @@ let swsh45 = [
         "id": "swsh45sv-SV086",
         "name": "Galarian Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -16439,6 +16598,7 @@ let swsh45 = [
         "id": "swsh45sv-SV087",
         "name": "Galarian Perrserker",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -16550,6 +16710,7 @@ let swsh45 = [
         "id": "swsh45sv-SV088",
         "name": "Galarian Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -16659,6 +16820,7 @@ let swsh45 = [
         "id": "swsh45sv-SV089",
         "name": "Corviknight",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 2"
         ],
@@ -16772,6 +16934,7 @@ let swsh45 = [
         "id": "swsh45sv-SV090",
         "name": "Cufant",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -16879,6 +17042,7 @@ let swsh45 = [
         "id": "swsh45sv-SV091",
         "name": "Copperajah",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -16993,6 +17157,7 @@ let swsh45 = [
         "id": "swsh45sv-SV092",
         "name": "Duraludon",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -17105,6 +17270,7 @@ let swsh45 = [
         "id": "swsh45sv-SV093",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -17212,6 +17378,7 @@ let swsh45 = [
         "id": "swsh45sv-SV094",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -17314,6 +17481,7 @@ let swsh45 = [
         "id": "swsh45sv-SV095",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -17417,6 +17585,7 @@ let swsh45 = [
         "id": "swsh45sv-SV096",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -17523,6 +17692,7 @@ let swsh45 = [
         "id": "swsh45sv-SV097",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -17621,6 +17791,7 @@ let swsh45 = [
         "id": "swsh45sv-SV098",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -17725,6 +17896,7 @@ let swsh45 = [
         "id": "swsh45sv-SV099",
         "name": "Skwovet",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -17832,6 +18004,7 @@ let swsh45 = [
         "id": "swsh45sv-SV100",
         "name": "Greedent",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -17936,6 +18109,7 @@ let swsh45 = [
         "id": "swsh45sv-SV101",
         "name": "Rookidee",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -18049,6 +18223,7 @@ let swsh45 = [
         "id": "swsh45sv-SV102",
         "name": "Corvisquire",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -18163,6 +18338,7 @@ let swsh45 = [
         "id": "swsh45sv-SV103",
         "name": "Wooloo",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic"
         ],
@@ -18261,6 +18437,7 @@ let swsh45 = [
         "id": "swsh45sv-SV104",
         "name": "Dubwool",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Stage 1"
         ],
@@ -18368,6 +18545,7 @@ let swsh45 = [
         "id": "swsh45sv-SV105",
         "name": "Rillaboom V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -18479,6 +18657,7 @@ let swsh45 = [
         "id": "swsh45sv-SV106",
         "name": "Rillaboom VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -18590,6 +18769,7 @@ let swsh45 = [
         "id": "swsh45sv-SV107",
         "name": "Charizard VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -18704,6 +18884,7 @@ let swsh45 = [
         "id": "swsh45sv-SV108",
         "name": "Centiskorch V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -18815,6 +18996,7 @@ let swsh45 = [
         "id": "swsh45sv-SV109",
         "name": "Centiskorch VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -18915,6 +19097,7 @@ let swsh45 = [
         "id": "swsh45sv-SV110",
         "name": "Lapras V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -19025,6 +19208,7 @@ let swsh45 = [
         "id": "swsh45sv-SV111",
         "name": "Lapras VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -19126,6 +19310,7 @@ let swsh45 = [
         "id": "swsh45sv-SV112",
         "name": "Toxtricity V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -19235,6 +19420,7 @@ let swsh45 = [
         "id": "swsh45sv-SV113",
         "name": "Toxtricity VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -19335,6 +19521,7 @@ let swsh45 = [
         "id": "swsh45sv-SV114",
         "name": "Indeedee V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -19448,6 +19635,7 @@ let swsh45 = [
         "id": "swsh45sv-SV115",
         "name": "Falinks V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -19555,6 +19743,7 @@ let swsh45 = [
         "id": "swsh45sv-SV116",
         "name": "Grimmsnarl V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -19664,6 +19853,7 @@ let swsh45 = [
         "id": "swsh45sv-SV117",
         "name": "Grimmsnarl VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -19765,6 +19955,7 @@ let swsh45 = [
         "id": "swsh45sv-SV118",
         "name": "Ditto V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -19870,6 +20061,7 @@ let swsh45 = [
         "id": "swsh45sv-SV119",
         "name": "Ditto VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],
@@ -19971,6 +20163,7 @@ let swsh45 = [
         "id": "swsh45sv-SV120",
         "name": "Dubwool V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -20078,6 +20271,7 @@ let swsh45 = [
         "id": "swsh45sv-SV121",
         "name": "Eternatus V",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "Basic",
             "V"
@@ -20188,6 +20382,7 @@ let swsh45 = [
         "id": "swsh45sv-SV122",
         "name": "Eternatus VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "SHF",
         "subtypes": [
             "VMAX"
         ],

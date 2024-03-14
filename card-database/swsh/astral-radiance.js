@@ -3,6 +3,7 @@ let swsh10 = [
         "id": "swsh10-1",
         "name": "Beedrill V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -111,6 +112,7 @@ let swsh10 = [
         "id": "swsh10-2",
         "name": "Hisuian Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -222,6 +224,7 @@ let swsh10 = [
         "id": "swsh10-3",
         "name": "Hisuian Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -329,6 +332,7 @@ let swsh10 = [
         "id": "swsh10-4",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -433,6 +437,7 @@ let swsh10 = [
         "id": "swsh10-5",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -538,6 +543,7 @@ let swsh10 = [
         "id": "swsh10-6",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -638,6 +644,7 @@ let swsh10 = [
         "id": "swsh10-7",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -746,6 +753,7 @@ let swsh10 = [
         "id": "swsh10-8",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -860,6 +868,7 @@ let swsh10 = [
         "id": "swsh10-9",
         "name": "Kricketot",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -964,6 +973,7 @@ let swsh10 = [
         "id": "swsh10-10",
         "name": "Kricketune",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1074,6 +1084,7 @@ let swsh10 = [
         "id": "swsh10-11",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -1188,6 +1199,7 @@ let swsh10 = [
         "id": "swsh10-12",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1301,6 +1313,7 @@ let swsh10 = [
         "id": "swsh10-13",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1415,6 +1428,7 @@ let swsh10 = [
         "id": "swsh10-14",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -1525,6 +1539,7 @@ let swsh10 = [
         "id": "swsh10-15",
         "name": "Petilil",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -1629,6 +1644,7 @@ let swsh10 = [
         "id": "swsh10-16",
         "name": "Hisuian Lilligant",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1743,6 +1759,7 @@ let swsh10 = [
         "id": "swsh10-17",
         "name": "Hisuian Lilligant V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -1850,6 +1867,7 @@ let swsh10 = [
         "id": "swsh10-18",
         "name": "Hisuian Lilligant VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -1956,6 +1974,7 @@ let swsh10 = [
         "id": "swsh10-19",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -2060,6 +2079,7 @@ let swsh10 = [
         "id": "swsh10-20",
         "name": "Dartrix",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2176,6 +2196,7 @@ let swsh10 = [
         "id": "swsh10-21",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -2280,6 +2301,7 @@ let swsh10 = [
         "id": "swsh10-22",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2392,6 +2414,7 @@ let swsh10 = [
         "id": "swsh10-23",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -2505,6 +2528,7 @@ let swsh10 = [
         "id": "swsh10-24",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2620,6 +2644,7 @@ let swsh10 = [
         "id": "swsh10-25",
         "name": "Heatran V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -2731,6 +2756,7 @@ let swsh10 = [
         "id": "swsh10-26",
         "name": "Heatran VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VMAX"
         ],
@@ -2840,6 +2866,7 @@ let swsh10 = [
         "id": "swsh10-27",
         "name": "Radiant Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -2942,6 +2969,7 @@ let swsh10 = [
         "id": "swsh10-28",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -3056,6 +3084,7 @@ let swsh10 = [
         "id": "swsh10-29",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3170,6 +3199,7 @@ let swsh10 = [
         "id": "swsh10-30",
         "name": "Starmie V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -3274,6 +3304,7 @@ let swsh10 = [
         "id": "swsh10-31",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -3391,6 +3422,7 @@ let swsh10 = [
         "id": "swsh10-32",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3510,6 +3542,7 @@ let swsh10 = [
         "id": "swsh10-33",
         "name": "Mamoswine",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -3629,6 +3662,7 @@ let swsh10 = [
         "id": "swsh10-34",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -3741,6 +3775,7 @@ let swsh10 = [
         "id": "swsh10-35",
         "name": "Barboach",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -3847,6 +3882,7 @@ let swsh10 = [
         "id": "swsh10-36",
         "name": "Whiscash",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3965,6 +4001,7 @@ let swsh10 = [
         "id": "swsh10-37",
         "name": "Regice",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -4079,6 +4116,7 @@ let swsh10 = [
         "id": "swsh10-38",
         "name": "Glaceon",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4192,6 +4230,7 @@ let swsh10 = [
         "id": "swsh10-39",
         "name": "Origin Forme Palkia V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -4301,6 +4340,7 @@ let swsh10 = [
         "id": "swsh10-40",
         "name": "Origin Forme Palkia VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -4407,6 +4447,7 @@ let swsh10 = [
         "id": "swsh10-41",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -4511,6 +4552,7 @@ let swsh10 = [
         "id": "swsh10-42",
         "name": "Dewott",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4616,6 +4658,7 @@ let swsh10 = [
         "id": "swsh10-43",
         "name": "Hisuian Basculin",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -4724,6 +4767,7 @@ let swsh10 = [
         "id": "swsh10-44",
         "name": "Hisuian Basculegion",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4838,6 +4882,7 @@ let swsh10 = [
         "id": "swsh10-45",
         "name": "Keldeo",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -4949,6 +4994,7 @@ let swsh10 = [
         "id": "swsh10-46",
         "name": "Radiant Greninja",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -5056,6 +5102,7 @@ let swsh10 = [
         "id": "swsh10-47",
         "name": "Bergmite",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -5163,6 +5210,7 @@ let swsh10 = [
         "id": "swsh10-48",
         "name": "Hisuian Avalugg",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5277,6 +5325,7 @@ let swsh10 = [
         "id": "swsh10-49",
         "name": "Galarian Mr. Rime V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V",
@@ -5387,6 +5436,7 @@ let swsh10 = [
         "id": "swsh10-50",
         "name": "Luxray V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -5496,6 +5546,7 @@ let swsh10 = [
         "id": "swsh10-51",
         "name": "Regieleki",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -5610,6 +5661,7 @@ let swsh10 = [
         "id": "swsh10-52",
         "name": "Hisuian Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -5726,6 +5778,7 @@ let swsh10 = [
         "id": "swsh10-53",
         "name": "Hisuian Typhlosion V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -5839,6 +5892,7 @@ let swsh10 = [
         "id": "swsh10-54",
         "name": "Hisuian Typhlosion VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -5954,6 +6008,7 @@ let swsh10 = [
         "id": "swsh10-55",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -6065,6 +6120,7 @@ let swsh10 = [
         "id": "swsh10-56",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6178,6 +6234,7 @@ let swsh10 = [
         "id": "swsh10-57",
         "name": "Togekiss",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -6289,6 +6346,7 @@ let swsh10 = [
         "id": "swsh10-58",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -6399,6 +6457,7 @@ let swsh10 = [
         "id": "swsh10-59",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6517,6 +6576,7 @@ let swsh10 = [
         "id": "swsh10-60",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -6627,6 +6687,7 @@ let swsh10 = [
         "id": "swsh10-61",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6739,6 +6800,7 @@ let swsh10 = [
         "id": "swsh10-62",
         "name": "Gallade",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -6857,6 +6919,7 @@ let swsh10 = [
         "id": "swsh10-63",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -6967,6 +7030,7 @@ let swsh10 = [
         "id": "swsh10-64",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7075,6 +7139,7 @@ let swsh10 = [
         "id": "swsh10-65",
         "name": "Uxie",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -7191,6 +7256,7 @@ let swsh10 = [
         "id": "swsh10-66",
         "name": "Mesprit",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -7306,6 +7372,7 @@ let swsh10 = [
         "id": "swsh10-67",
         "name": "Azelf",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -7413,6 +7480,7 @@ let swsh10 = [
         "id": "swsh10-68",
         "name": "Diancie",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -7521,6 +7589,7 @@ let swsh10 = [
         "id": "swsh10-69",
         "name": "Wyrdeer",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7638,6 +7707,7 @@ let swsh10 = [
         "id": "swsh10-70",
         "name": "Hisuian Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -7751,6 +7821,7 @@ let swsh10 = [
         "id": "swsh10-71",
         "name": "Hisuian Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7866,6 +7937,7 @@ let swsh10 = [
         "id": "swsh10-72",
         "name": "Machamp V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -7977,6 +8049,7 @@ let swsh10 = [
         "id": "swsh10-73",
         "name": "Machamp VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VMAX"
         ],
@@ -8088,6 +8161,7 @@ let swsh10 = [
         "id": "swsh10-74",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -8198,6 +8272,7 @@ let swsh10 = [
         "id": "swsh10-75",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -8312,6 +8387,7 @@ let swsh10 = [
         "id": "swsh10-76",
         "name": "Cranidos",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8428,6 +8504,7 @@ let swsh10 = [
         "id": "swsh10-77",
         "name": "Rampardos",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -8541,6 +8618,7 @@ let swsh10 = [
         "id": "swsh10-78",
         "name": "Lucario V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -8651,6 +8729,7 @@ let swsh10 = [
         "id": "swsh10-79",
         "name": "Hippopotas",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -8771,6 +8850,7 @@ let swsh10 = [
         "id": "swsh10-80",
         "name": "Hippowdon",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8890,6 +8970,7 @@ let swsh10 = [
         "id": "swsh10-81",
         "name": "Radiant Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -8996,6 +9077,7 @@ let swsh10 = [
         "id": "swsh10-82",
         "name": "Hisuian Decidueye",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -9108,6 +9190,7 @@ let swsh10 = [
         "id": "swsh10-83",
         "name": "Hisuian Decidueye V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -9217,6 +9300,7 @@ let swsh10 = [
         "id": "swsh10-84",
         "name": "Hisuian Decidueye VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -9324,6 +9408,7 @@ let swsh10 = [
         "id": "swsh10-85",
         "name": "Kleavor",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9439,6 +9524,7 @@ let swsh10 = [
         "id": "swsh10-86",
         "name": "Kleavor",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9553,6 +9639,7 @@ let swsh10 = [
         "id": "swsh10-87",
         "name": "Kleavor V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -9662,6 +9749,7 @@ let swsh10 = [
         "id": "swsh10-88",
         "name": "Hisuian Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -9773,6 +9861,7 @@ let swsh10 = [
         "id": "swsh10-89",
         "name": "Hisuian Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -9873,6 +9962,7 @@ let swsh10 = [
         "id": "swsh10-90",
         "name": "Hisuian Overqwil",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9984,6 +10074,7 @@ let swsh10 = [
         "id": "swsh10-91",
         "name": "Hisuian Overqwil",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -10097,6 +10188,7 @@ let swsh10 = [
         "id": "swsh10-92",
         "name": "Hisuian Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -10211,6 +10303,7 @@ let swsh10 = [
         "id": "swsh10-93",
         "name": "Hisuian Sneasler",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -10321,6 +10414,7 @@ let swsh10 = [
         "id": "swsh10-94",
         "name": "Hisuian Sneasler V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -10422,6 +10516,7 @@ let swsh10 = [
         "id": "swsh10-95",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -10536,6 +10631,7 @@ let swsh10 = [
         "id": "swsh10-96",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -10648,6 +10744,7 @@ let swsh10 = [
         "id": "swsh10-97",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -10759,6 +10856,7 @@ let swsh10 = [
         "id": "swsh10-98",
         "name": "Darkrai V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -10869,6 +10967,7 @@ let swsh10 = [
         "id": "swsh10-99",
         "name": "Darkrai VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -10975,6 +11074,7 @@ let swsh10 = [
         "id": "swsh10-100",
         "name": "Hisuian Samurott",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -11087,6 +11187,7 @@ let swsh10 = [
         "id": "swsh10-101",
         "name": "Hisuian Samurott V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -11196,6 +11297,7 @@ let swsh10 = [
         "id": "swsh10-102",
         "name": "Hisuian Samurott VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -11302,6 +11404,7 @@ let swsh10 = [
         "id": "swsh10-103",
         "name": "Nickit",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -11406,6 +11509,7 @@ let swsh10 = [
         "id": "swsh10-104",
         "name": "Thievul",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -11517,6 +11621,7 @@ let swsh10 = [
         "id": "swsh10-105",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -11637,6 +11742,7 @@ let swsh10 = [
         "id": "swsh10-106",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -11749,6 +11855,7 @@ let swsh10 = [
         "id": "swsh10-107",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -11867,6 +11974,7 @@ let swsh10 = [
         "id": "swsh10-108",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -11987,6 +12095,7 @@ let swsh10 = [
         "id": "swsh10-109",
         "name": "Shieldon",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -12112,6 +12221,7 @@ let swsh10 = [
         "id": "swsh10-110",
         "name": "Bastiodon",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -12232,6 +12342,7 @@ let swsh10 = [
         "id": "swsh10-111",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -12343,6 +12454,7 @@ let swsh10 = [
         "id": "swsh10-112",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -12462,6 +12574,7 @@ let swsh10 = [
         "id": "swsh10-113",
         "name": "Origin Forme Dialga V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -12578,6 +12691,7 @@ let swsh10 = [
         "id": "swsh10-114",
         "name": "Origin Forme Dialga VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -12696,6 +12810,7 @@ let swsh10 = [
         "id": "swsh10-115",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -12806,6 +12921,7 @@ let swsh10 = [
         "id": "swsh10-116",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -12926,6 +13042,7 @@ let swsh10 = [
         "id": "swsh10-117",
         "name": "Garchomp V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -13027,6 +13144,7 @@ let swsh10 = [
         "id": "swsh10-118",
         "name": "Regidrago",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -13133,6 +13251,7 @@ let swsh10 = [
         "id": "swsh10-119",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -13252,6 +13371,7 @@ let swsh10 = [
         "id": "swsh10-120",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -13370,6 +13490,7 @@ let swsh10 = [
         "id": "swsh10-121",
         "name": "Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -13490,6 +13611,7 @@ let swsh10 = [
         "id": "swsh10-122",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -13605,6 +13727,7 @@ let swsh10 = [
         "id": "swsh10-123",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -13720,6 +13843,7 @@ let swsh10 = [
         "id": "swsh10-124",
         "name": "Ursaluna",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -13836,6 +13960,7 @@ let swsh10 = [
         "id": "swsh10-125",
         "name": "Stantler",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -13939,6 +14064,7 @@ let swsh10 = [
         "id": "swsh10-126",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -14049,6 +14175,7 @@ let swsh10 = [
         "id": "swsh10-127",
         "name": "Glameow",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -14154,6 +14281,7 @@ let swsh10 = [
         "id": "swsh10-128",
         "name": "Purugly",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -14268,6 +14396,7 @@ let swsh10 = [
         "id": "swsh10-129",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -14384,6 +14513,7 @@ let swsh10 = [
         "id": "swsh10-130",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -14499,6 +14629,7 @@ let swsh10 = [
         "id": "swsh10-131",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -14609,6 +14740,7 @@ let swsh10 = [
         "id": "swsh10-132",
         "name": "Hisuian Braviary",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -14726,6 +14858,7 @@ let swsh10 = [
         "id": "swsh10-133",
         "name": "Oranguru V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -14833,6 +14966,7 @@ let swsh10 = [
         "id": "swsh10-134",
         "name": "Wyrdeer V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -14940,6 +15074,7 @@ let swsh10 = [
         "id": "swsh10-135",
         "name": "Adaman",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -15017,6 +15152,7 @@ let swsh10 = [
         "id": "swsh10-136",
         "name": "Canceling Cologne",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -15094,6 +15230,7 @@ let swsh10 = [
         "id": "swsh10-137",
         "name": "Choy",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -15171,6 +15308,7 @@ let swsh10 = [
         "id": "swsh10-138",
         "name": "Cyllene",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -15248,6 +15386,7 @@ let swsh10 = [
         "id": "swsh10-139",
         "name": "Dark Patch",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -15325,6 +15464,7 @@ let swsh10 = [
         "id": "swsh10-140",
         "name": "Energy Loto",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -15402,6 +15542,7 @@ let swsh10 = [
         "id": "swsh10-141",
         "name": "Feather Ball",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -15479,6 +15620,7 @@ let swsh10 = [
         "id": "swsh10-142",
         "name": "Gapejaw Bog",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stadium"
         ],
@@ -15555,6 +15697,7 @@ let swsh10 = [
         "id": "swsh10-143",
         "name": "Gardenia's Vigor",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -15632,6 +15775,7 @@ let swsh10 = [
         "id": "swsh10-144",
         "name": "Grant",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -15709,6 +15853,7 @@ let swsh10 = [
         "id": "swsh10-145",
         "name": "Gutsy Pickaxe",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -15786,6 +15931,7 @@ let swsh10 = [
         "id": "swsh10-146",
         "name": "Hisuian Heavy Ball",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -15863,6 +16009,7 @@ let swsh10 = [
         "id": "swsh10-147",
         "name": "Irida",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -15940,6 +16087,7 @@ let swsh10 = [
         "id": "swsh10-148",
         "name": "Jubilife Village",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stadium"
         ],
@@ -16016,6 +16164,7 @@ let swsh10 = [
         "id": "swsh10-149",
         "name": "Kamado",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -16093,6 +16242,7 @@ let swsh10 = [
         "id": "swsh10-150",
         "name": "Roxanne",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -16170,6 +16320,7 @@ let swsh10 = [
         "id": "swsh10-151",
         "name": "Spicy Seasoned Curry",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -16247,6 +16398,7 @@ let swsh10 = [
         "id": "swsh10-152",
         "name": "Supereffective Glasses",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -16326,6 +16478,7 @@ let swsh10 = [
         "id": "swsh10-153",
         "name": "Sweet Honey",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -16403,6 +16556,7 @@ let swsh10 = [
         "id": "swsh10-154",
         "name": "Switch Cart",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -16480,6 +16634,7 @@ let swsh10 = [
         "id": "swsh10-155",
         "name": "Temple of Sinnoh",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stadium"
         ],
@@ -16556,6 +16711,7 @@ let swsh10 = [
         "id": "swsh10-156",
         "name": "Trekking Shoes",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -16633,6 +16789,7 @@ let swsh10 = [
         "id": "swsh10-157",
         "name": "Unidentified Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -16710,6 +16867,7 @@ let swsh10 = [
         "id": "swsh10-158",
         "name": "Wait and See Turbo",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -16787,6 +16945,7 @@ let swsh10 = [
         "id": "swsh10-159",
         "name": "Zisu",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -16864,6 +17023,7 @@ let swsh10 = [
         "id": "swsh10-160",
         "name": "Beedrill V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -16972,6 +17132,7 @@ let swsh10 = [
         "id": "swsh10-161",
         "name": "Beedrill V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -17080,6 +17241,7 @@ let swsh10 = [
         "id": "swsh10-162",
         "name": "Hisuian Lilligant V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -17187,6 +17349,7 @@ let swsh10 = [
         "id": "swsh10-163",
         "name": "Hisuian Lilligant V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -17294,6 +17457,7 @@ let swsh10 = [
         "id": "swsh10-164",
         "name": "Virizion V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -17400,6 +17564,7 @@ let swsh10 = [
         "id": "swsh10-165",
         "name": "Heatran V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -17511,6 +17676,7 @@ let swsh10 = [
         "id": "swsh10-166",
         "name": "Starmie V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -17615,6 +17781,7 @@ let swsh10 = [
         "id": "swsh10-167",
         "name": "Origin Forme Palkia V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -17724,6 +17891,7 @@ let swsh10 = [
         "id": "swsh10-168",
         "name": "Luxray V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -17833,6 +18001,7 @@ let swsh10 = [
         "id": "swsh10-169",
         "name": "Hisuian Typhlosion V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -17946,6 +18115,7 @@ let swsh10 = [
         "id": "swsh10-170",
         "name": "Jirachi V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -18057,6 +18227,7 @@ let swsh10 = [
         "id": "swsh10-171",
         "name": "Machamp V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -18168,6 +18339,7 @@ let swsh10 = [
         "id": "swsh10-172",
         "name": "Machamp V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -18279,6 +18451,7 @@ let swsh10 = [
         "id": "swsh10-173",
         "name": "Hisuian Decidueye V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -18388,6 +18561,7 @@ let swsh10 = [
         "id": "swsh10-174",
         "name": "Hisuian Sneasler V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -18489,6 +18663,7 @@ let swsh10 = [
         "id": "swsh10-175",
         "name": "Hisuian Sneasler V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -18590,6 +18765,7 @@ let swsh10 = [
         "id": "swsh10-176",
         "name": "Hisuian Samurott V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -18699,6 +18875,7 @@ let swsh10 = [
         "id": "swsh10-177",
         "name": "Origin Forme Dialga V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -18815,6 +18992,7 @@ let swsh10 = [
         "id": "swsh10-178",
         "name": "Garchomp V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -18916,6 +19094,7 @@ let swsh10 = [
         "id": "swsh10-179",
         "name": "Oranguru V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -19023,6 +19202,7 @@ let swsh10 = [
         "id": "swsh10-180",
         "name": "Wyrdeer V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -19130,6 +19310,7 @@ let swsh10 = [
         "id": "swsh10-181",
         "name": "Adaman",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -19200,6 +19381,7 @@ let swsh10 = [
         "id": "swsh10-182",
         "name": "Choy",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -19270,6 +19452,7 @@ let swsh10 = [
         "id": "swsh10-183",
         "name": "Cyllene",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -19340,6 +19523,7 @@ let swsh10 = [
         "id": "swsh10-184",
         "name": "Gardenia's Vigor",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -19410,6 +19594,7 @@ let swsh10 = [
         "id": "swsh10-185",
         "name": "Grant",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -19480,6 +19665,7 @@ let swsh10 = [
         "id": "swsh10-186",
         "name": "Irida",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -19550,6 +19736,7 @@ let swsh10 = [
         "id": "swsh10-187",
         "name": "Kamado",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -19620,6 +19807,7 @@ let swsh10 = [
         "id": "swsh10-188",
         "name": "Roxanne",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -19690,6 +19878,7 @@ let swsh10 = [
         "id": "swsh10-189",
         "name": "Zisu",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -19760,6 +19949,7 @@ let swsh10 = [
         "id": "swsh10-190",
         "name": "Hisuian Lilligant VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -19866,6 +20056,7 @@ let swsh10 = [
         "id": "swsh10-191",
         "name": "Heatran VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VMAX"
         ],
@@ -19975,6 +20166,7 @@ let swsh10 = [
         "id": "swsh10-192",
         "name": "Origin Forme Palkia VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -20081,6 +20273,7 @@ let swsh10 = [
         "id": "swsh10-193",
         "name": "Hisuian Typhlosion VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -20196,6 +20389,7 @@ let swsh10 = [
         "id": "swsh10-194",
         "name": "Machamp VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VMAX"
         ],
@@ -20307,6 +20501,7 @@ let swsh10 = [
         "id": "swsh10-195",
         "name": "Hisuian Decidueye VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -20414,6 +20609,7 @@ let swsh10 = [
         "id": "swsh10-196",
         "name": "Kleavor VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -20522,6 +20718,7 @@ let swsh10 = [
         "id": "swsh10-197",
         "name": "Hisuian Samurott VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -20628,6 +20825,7 @@ let swsh10 = [
         "id": "swsh10-198",
         "name": "Origin Forme Dialga VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -20746,6 +20944,7 @@ let swsh10 = [
         "id": "swsh10-199",
         "name": "Adaman",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -20816,6 +21015,7 @@ let swsh10 = [
         "id": "swsh10-200",
         "name": "Choy",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -20886,6 +21086,7 @@ let swsh10 = [
         "id": "swsh10-201",
         "name": "Cyllene",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -20956,6 +21157,7 @@ let swsh10 = [
         "id": "swsh10-202",
         "name": "Gardenia's Vigor",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -21026,6 +21228,7 @@ let swsh10 = [
         "id": "swsh10-203",
         "name": "Grant",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -21096,6 +21299,7 @@ let swsh10 = [
         "id": "swsh10-204",
         "name": "Irida",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -21166,6 +21370,7 @@ let swsh10 = [
         "id": "swsh10-205",
         "name": "Kamado",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -21236,6 +21441,7 @@ let swsh10 = [
         "id": "swsh10-206",
         "name": "Roxanne",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -21306,6 +21512,7 @@ let swsh10 = [
         "id": "swsh10-207",
         "name": "Zisu",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -21376,6 +21583,7 @@ let swsh10 = [
         "id": "swsh10-208",
         "name": "Origin Forme Palkia VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -21482,6 +21690,7 @@ let swsh10 = [
         "id": "swsh10-209",
         "name": "Hisuian Samurott VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -21588,6 +21797,7 @@ let swsh10 = [
         "id": "swsh10-210",
         "name": "Origin Forme Dialga VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VSTAR"
         ],
@@ -21706,6 +21916,7 @@ let swsh10 = [
         "id": "swsh10-211",
         "name": "Choice Belt",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -21778,6 +21989,7 @@ let swsh10 = [
         "id": "swsh10-212",
         "name": "Jubilife Village",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stadium"
         ],
@@ -21847,6 +22059,7 @@ let swsh10 = [
         "id": "swsh10-213",
         "name": "Path to the Peak",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stadium"
         ],
@@ -21916,6 +22129,7 @@ let swsh10 = [
         "id": "swsh10-214",
         "name": "Temple of Sinnoh",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stadium"
         ],
@@ -21985,6 +22199,7 @@ let swsh10 = [
         "id": "swsh10-215",
         "name": "Trekking Shoes",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Item"
         ],
@@ -22055,6 +22270,7 @@ let swsh10 = [
         "id": "swsh10-216",
         "name": "Double Turbo Energy",
         "supertype": "Energy",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Special"
         ],
@@ -22123,6 +22339,7 @@ let swsh10 = [
         "id": "swsh10-TG01",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -22230,6 +22447,7 @@ let swsh10 = [
         "id": "swsh10-TG02",
         "name": "Flapple",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -22333,6 +22551,7 @@ let swsh10 = [
         "id": "swsh10-TG03",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -22435,6 +22654,7 @@ let swsh10 = [
         "id": "swsh10-TG04",
         "name": "Frosmoth",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -22539,6 +22759,7 @@ let swsh10 = [
         "id": "swsh10-TG05",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -22644,6 +22865,7 @@ let swsh10 = [
         "id": "swsh10-TG06",
         "name": "Wyrdeer",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -22754,6 +22976,7 @@ let swsh10 = [
         "id": "swsh10-TG07",
         "name": "Falinks",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -22851,6 +23074,7 @@ let swsh10 = [
         "id": "swsh10-TG08",
         "name": "Kleavor",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -22958,6 +23182,7 @@ let swsh10 = [
         "id": "swsh10-TG09",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -23063,6 +23288,7 @@ let swsh10 = [
         "id": "swsh10-TG10",
         "name": "Galarian Obstagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 2"
         ],
@@ -23167,6 +23393,7 @@ let swsh10 = [
         "id": "swsh10-TG11",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Stage 1"
         ],
@@ -23279,6 +23506,7 @@ let swsh10 = [
         "id": "swsh10-TG12",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic"
         ],
@@ -23390,6 +23618,7 @@ let swsh10 = [
         "id": "swsh10-TG13",
         "name": "Starmie V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -23494,6 +23723,7 @@ let swsh10 = [
         "id": "swsh10-TG14",
         "name": "Ice Rider Calyrex V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -23603,6 +23833,7 @@ let swsh10 = [
         "id": "swsh10-TG15",
         "name": "Ice Rider Calyrex VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VMAX"
         ],
@@ -23712,6 +23943,7 @@ let swsh10 = [
         "id": "swsh10-TG16",
         "name": "Galarian Articuno V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -23825,6 +24057,7 @@ let swsh10 = [
         "id": "swsh10-TG17",
         "name": "Shadow Rider Calyrex V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -23940,6 +24173,7 @@ let swsh10 = [
         "id": "swsh10-TG18",
         "name": "Shadow Rider Calyrex VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VMAX"
         ],
@@ -24053,6 +24287,7 @@ let swsh10 = [
         "id": "swsh10-TG19",
         "name": "Galarian Zapdos V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -24160,6 +24395,7 @@ let swsh10 = [
         "id": "swsh10-TG20",
         "name": "Galarian Moltres V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -24267,6 +24503,7 @@ let swsh10 = [
         "id": "swsh10-TG21",
         "name": "Zacian V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -24380,6 +24617,7 @@ let swsh10 = [
         "id": "swsh10-TG22",
         "name": "Zamazenta V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -24493,6 +24731,7 @@ let swsh10 = [
         "id": "swsh10-TG23",
         "name": "Garchomp V",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Basic",
             "V"
@@ -24594,6 +24833,7 @@ let swsh10 = [
         "id": "swsh10-TG24",
         "name": "Allister",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -24664,6 +24904,7 @@ let swsh10 = [
         "id": "swsh10-TG25",
         "name": "Bea",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -24734,6 +24975,7 @@ let swsh10 = [
         "id": "swsh10-TG26",
         "name": "Melony",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -24804,6 +25046,7 @@ let swsh10 = [
         "id": "swsh10-TG27",
         "name": "Milo",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -24874,6 +25117,7 @@ let swsh10 = [
         "id": "swsh10-TG28",
         "name": "Piers",
         "supertype": "Trainer",
+        "setAbbrev": "ASR",
         "subtypes": [
             "Supporter"
         ],
@@ -24944,6 +25188,7 @@ let swsh10 = [
         "id": "swsh10-TG29",
         "name": "Ice Rider Calyrex VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VMAX"
         ],
@@ -25053,6 +25298,7 @@ let swsh10 = [
         "id": "swsh10-TG30",
         "name": "Shadow Rider Calyrex VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "ASR",
         "subtypes": [
             "VMAX"
         ],

@@ -3,6 +3,7 @@ let np = [
         "id": "np-1",
         "name": "Kyogre ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic",
             "EX"
@@ -112,6 +113,7 @@ let np = [
         "id": "np-2",
         "name": "Groudon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic",
             "EX"
@@ -221,6 +223,7 @@ let np = [
         "id": "np-3",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -333,6 +336,7 @@ let np = [
         "id": "np-4",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -448,6 +452,7 @@ let np = [
         "id": "np-5",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -554,6 +559,7 @@ let np = [
         "id": "np-6",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -660,6 +666,7 @@ let np = [
         "id": "np-7",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -772,6 +779,7 @@ let np = [
         "id": "np-8",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -878,6 +886,7 @@ let np = [
         "id": "np-9",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -986,6 +995,7 @@ let np = [
         "id": "np-10",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -1092,6 +1102,7 @@ let np = [
         "id": "np-11",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1200,6 +1211,7 @@ let np = [
         "id": "np-12",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -1306,6 +1318,7 @@ let np = [
         "id": "np-13",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -1412,6 +1425,7 @@ let np = [
         "id": "np-14",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -1516,6 +1530,7 @@ let np = [
         "id": "np-15",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -1622,6 +1637,7 @@ let np = [
         "id": "np-16",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -1733,6 +1749,7 @@ let np = [
         "id": "np-17",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -1830,6 +1847,7 @@ let np = [
         "id": "np-18",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -1936,6 +1954,7 @@ let np = [
         "id": "np-19",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -2041,6 +2060,7 @@ let np = [
         "id": "np-20",
         "name": "Ludicolo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2145,6 +2165,7 @@ let np = [
         "id": "np-21",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -2247,6 +2268,7 @@ let np = [
         "id": "np-22",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -2358,6 +2380,7 @@ let np = [
         "id": "np-23",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2472,6 +2495,7 @@ let np = [
         "id": "np-24",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -2575,6 +2599,7 @@ let np = [
         "id": "np-25",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2689,6 +2714,7 @@ let np = [
         "id": "np-26",
         "name": "Tropical Wind",
         "supertype": "Trainer",
+        "setAbbrev": "PR-EX",
         "rules": [
             "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
         ],
@@ -2754,6 +2780,7 @@ let np = [
         "id": "np-27",
         "name": "Tropical Tidal Wave",
         "supertype": "Trainer",
+        "setAbbrev": "PR-EX",
         "rules": [
             "Flip a coin. If heads, discard all Trainer cards your opponent has in play. If tails, discard all Trainer (excluding Supporter cards) you have in play."
         ],
@@ -2811,6 +2838,7 @@ let np = [
         "id": "np-28",
         "name": "Championship Arena",
         "supertype": "Trainer",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Stadium"
         ],
@@ -2872,6 +2900,7 @@ let np = [
         "id": "np-29",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -2966,6 +2995,7 @@ let np = [
         "id": "np-30",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -3068,6 +3098,7 @@ let np = [
         "id": "np-31",
         "name": "Moltres ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic",
             "EX"
@@ -3184,6 +3215,7 @@ let np = [
         "id": "np-32",
         "name": "Articuno ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic",
             "EX"
@@ -3300,6 +3332,7 @@ let np = [
         "id": "np-33",
         "name": "Zapdos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic",
             "EX"
@@ -3416,6 +3449,7 @@ let np = [
         "id": "np-34",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3528,6 +3562,7 @@ let np = [
         "id": "np-35",
         "name": "Pikachu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],
@@ -3641,6 +3676,7 @@ let np = [
         "id": "np-36",
         "name": "Tropical Tidal Wave",
         "supertype": "Trainer",
+        "setAbbrev": "PR-EX",
         "rules": [
             "Flip a coin. If heads, discard all Trainer cards your opponent has in play. If tails, discard all Trainer cards (excluding Supporter cards) you have in play."
         ],
@@ -3698,6 +3734,7 @@ let np = [
         "id": "np-37",
         "name": "Kyogre ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic",
             "EX"
@@ -3815,6 +3852,7 @@ let np = [
         "id": "np-38",
         "name": "Groudon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic",
             "EX"
@@ -3932,6 +3970,7 @@ let np = [
         "id": "np-39",
         "name": "Rayquaza ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic",
             "EX"
@@ -4054,6 +4093,7 @@ let np = [
         "id": "np-40",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-EX",
         "subtypes": [
             "Basic"
         ],

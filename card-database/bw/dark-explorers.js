@@ -3,6 +3,7 @@ let bw5 = [
         "id": "bw5-1",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -79,6 +80,7 @@ let bw5 = [
         "id": "bw5-2",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -157,6 +159,7 @@ let bw5 = [
         "id": "bw5-3",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -230,6 +233,7 @@ let bw5 = [
         "id": "bw5-4",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -291,6 +295,7 @@ let bw5 = [
         "id": "bw5-5",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -364,6 +369,7 @@ let bw5 = [
         "id": "bw5-6",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -437,6 +443,7 @@ let bw5 = [
         "id": "bw5-7",
         "name": "Dwebble",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -507,6 +514,7 @@ let bw5 = [
         "id": "bw5-8",
         "name": "Crustle",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -576,6 +584,7 @@ let bw5 = [
         "id": "bw5-9",
         "name": "Karrablast",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -646,6 +655,7 @@ let bw5 = [
         "id": "bw5-10",
         "name": "Shelmet",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -706,6 +716,7 @@ let bw5 = [
         "id": "bw5-11",
         "name": "Accelgor",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -772,6 +783,7 @@ let bw5 = [
         "id": "bw5-12",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -840,6 +852,7 @@ let bw5 = [
         "id": "bw5-13",
         "name": "Entei-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -911,6 +924,7 @@ let bw5 = [
         "id": "bw5-14",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -971,6 +985,7 @@ let bw5 = [
         "id": "bw5-15",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1040,6 +1055,7 @@ let bw5 = [
         "id": "bw5-16",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1111,6 +1127,7 @@ let bw5 = [
         "id": "bw5-17",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1180,6 +1197,7 @@ let bw5 = [
         "id": "bw5-18",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1247,6 +1265,7 @@ let bw5 = [
         "id": "bw5-19",
         "name": "Heatmor",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1314,6 +1333,7 @@ let bw5 = [
         "id": "bw5-20",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1385,6 +1405,7 @@ let bw5 = [
         "id": "bw5-21",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1445,6 +1466,7 @@ let bw5 = [
         "id": "bw5-22",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1511,6 +1533,7 @@ let bw5 = [
         "id": "bw5-23",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1581,6 +1604,7 @@ let bw5 = [
         "id": "bw5-24",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1646,6 +1670,7 @@ let bw5 = [
         "id": "bw5-25",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1714,6 +1739,7 @@ let bw5 = [
         "id": "bw5-26",
         "name": "Kyogre-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -1785,6 +1811,7 @@ let bw5 = [
         "id": "bw5-27",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -1844,6 +1871,7 @@ let bw5 = [
         "id": "bw5-28",
         "name": "Prinplup",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1915,6 +1943,7 @@ let bw5 = [
         "id": "bw5-29",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1979,6 +2008,7 @@ let bw5 = [
         "id": "bw5-30",
         "name": "Glaceon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2046,6 +2076,7 @@ let bw5 = [
         "id": "bw5-31",
         "name": "Tympole",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2106,6 +2137,7 @@ let bw5 = [
         "id": "bw5-32",
         "name": "Palpitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2167,6 +2199,7 @@ let bw5 = [
         "id": "bw5-33",
         "name": "Vanillite",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2226,6 +2259,7 @@ let bw5 = [
         "id": "bw5-34",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2297,6 +2331,7 @@ let bw5 = [
         "id": "bw5-35",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2363,6 +2398,7 @@ let bw5 = [
         "id": "bw5-36",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2437,6 +2473,7 @@ let bw5 = [
         "id": "bw5-37",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2504,6 +2541,7 @@ let bw5 = [
         "id": "bw5-38",
         "name": "Raikou-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -2575,6 +2613,7 @@ let bw5 = [
         "id": "bw5-39",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2640,6 +2679,7 @@ let bw5 = [
         "id": "bw5-40",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2705,6 +2745,7 @@ let bw5 = [
         "id": "bw5-41",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2774,6 +2815,7 @@ let bw5 = [
         "id": "bw5-42",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2833,6 +2875,7 @@ let bw5 = [
         "id": "bw5-43",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2900,6 +2943,7 @@ let bw5 = [
         "id": "bw5-44",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -2959,6 +3003,7 @@ let bw5 = [
         "id": "bw5-45",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -3018,6 +3063,7 @@ let bw5 = [
         "id": "bw5-46",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3089,6 +3135,7 @@ let bw5 = [
         "id": "bw5-47",
         "name": "Eelektross",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3160,6 +3207,7 @@ let bw5 = [
         "id": "bw5-48",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3226,6 +3274,7 @@ let bw5 = [
         "id": "bw5-49",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3294,6 +3343,7 @@ let bw5 = [
         "id": "bw5-50",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -3369,6 +3419,7 @@ let bw5 = [
         "id": "bw5-51",
         "name": "Yamask",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -3428,6 +3479,7 @@ let bw5 = [
         "id": "bw5-52",
         "name": "Cofagrigus",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3496,6 +3548,7 @@ let bw5 = [
         "id": "bw5-53",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Restored"
         ],
@@ -3565,6 +3618,7 @@ let bw5 = [
         "id": "bw5-54",
         "name": "Groudon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -3642,6 +3696,7 @@ let bw5 = [
         "id": "bw5-55",
         "name": "Drilbur",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -3708,6 +3763,7 @@ let bw5 = [
         "id": "bw5-56",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3781,6 +3837,7 @@ let bw5 = [
         "id": "bw5-57",
         "name": "Excadrill",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3858,6 +3915,7 @@ let bw5 = [
         "id": "bw5-58",
         "name": "Timburr",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -3928,6 +3986,7 @@ let bw5 = [
         "id": "bw5-59",
         "name": "Gurdurr",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3999,6 +4058,7 @@ let bw5 = [
         "id": "bw5-60",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4074,6 +4134,7 @@ let bw5 = [
         "id": "bw5-61",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4148,6 +4209,7 @@ let bw5 = [
         "id": "bw5-62",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -4210,6 +4272,7 @@ let bw5 = [
         "id": "bw5-63",
         "name": "Darkrai-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -4284,6 +4347,7 @@ let bw5 = [
         "id": "bw5-64",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -4360,6 +4424,7 @@ let bw5 = [
         "id": "bw5-65",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4439,6 +4504,7 @@ let bw5 = [
         "id": "bw5-66",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4516,6 +4582,7 @@ let bw5 = [
         "id": "bw5-67",
         "name": "Scraggy",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -4582,6 +4649,7 @@ let bw5 = [
         "id": "bw5-68",
         "name": "Scrafty",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4657,6 +4725,7 @@ let bw5 = [
         "id": "bw5-69",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -4732,6 +4801,7 @@ let bw5 = [
         "id": "bw5-70",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -4807,6 +4877,7 @@ let bw5 = [
         "id": "bw5-71",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4881,6 +4952,7 @@ let bw5 = [
         "id": "bw5-72",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4956,6 +5028,7 @@ let bw5 = [
         "id": "bw5-73",
         "name": "Vullaby",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5021,6 +5094,7 @@ let bw5 = [
         "id": "bw5-74",
         "name": "Escavalier",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5095,6 +5169,7 @@ let bw5 = [
         "id": "bw5-75",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5161,6 +5236,7 @@ let bw5 = [
         "id": "bw5-76",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5239,6 +5315,7 @@ let bw5 = [
         "id": "bw5-77",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -5314,6 +5391,7 @@ let bw5 = [
         "id": "bw5-78",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5391,6 +5469,7 @@ let bw5 = [
         "id": "bw5-79",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5466,6 +5545,7 @@ let bw5 = [
         "id": "bw5-80",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5536,6 +5616,7 @@ let bw5 = [
         "id": "bw5-81",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5596,6 +5677,7 @@ let bw5 = [
         "id": "bw5-82",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5662,6 +5744,7 @@ let bw5 = [
         "id": "bw5-83",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5728,6 +5811,7 @@ let bw5 = [
         "id": "bw5-84",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5804,6 +5888,7 @@ let bw5 = [
         "id": "bw5-85",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5876,6 +5961,7 @@ let bw5 = [
         "id": "bw5-86",
         "name": "Lillipup",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic"
         ],
@@ -5945,6 +6031,7 @@ let bw5 = [
         "id": "bw5-87",
         "name": "Herdier",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6015,6 +6102,7 @@ let bw5 = [
         "id": "bw5-88",
         "name": "Stoutland",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -6086,6 +6174,7 @@ let bw5 = [
         "id": "bw5-89",
         "name": "Haxorus",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -6151,6 +6240,7 @@ let bw5 = [
         "id": "bw5-90",
         "name": "Tornadus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6228,6 +6318,7 @@ let bw5 = [
         "id": "bw5-91",
         "name": "Cheren",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Supporter"
         ],
@@ -6262,6 +6353,7 @@ let bw5 = [
         "id": "bw5-92",
         "name": "Dark Claw",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6297,6 +6389,7 @@ let bw5 = [
         "id": "bw5-93",
         "name": "Dark Patch",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -6331,6 +6424,7 @@ let bw5 = [
         "id": "bw5-94",
         "name": "Enhanced Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -6365,6 +6459,7 @@ let bw5 = [
         "id": "bw5-95",
         "name": "Hooligans Jim & Cas",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Supporter"
         ],
@@ -6399,6 +6494,7 @@ let bw5 = [
         "id": "bw5-96",
         "name": "N",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Supporter"
         ],
@@ -6433,6 +6529,7 @@ let bw5 = [
         "id": "bw5-97",
         "name": "Old Amber Aerodactyl",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -6467,6 +6564,7 @@ let bw5 = [
         "id": "bw5-98",
         "name": "Professor Juniper",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Supporter"
         ],
@@ -6501,6 +6599,7 @@ let bw5 = [
         "id": "bw5-99",
         "name": "Random Receiver",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -6535,6 +6634,7 @@ let bw5 = [
         "id": "bw5-100",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -6569,6 +6669,7 @@ let bw5 = [
         "id": "bw5-101",
         "name": "Twist Mountain",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stadium"
         ],
@@ -6603,6 +6704,7 @@ let bw5 = [
         "id": "bw5-102",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],
@@ -6637,6 +6739,7 @@ let bw5 = [
         "id": "bw5-103",
         "name": "Entei-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6708,6 +6811,7 @@ let bw5 = [
         "id": "bw5-104",
         "name": "Kyogre-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6779,6 +6883,7 @@ let bw5 = [
         "id": "bw5-105",
         "name": "Raikou-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6850,6 +6955,7 @@ let bw5 = [
         "id": "bw5-106",
         "name": "Groudon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6927,6 +7033,7 @@ let bw5 = [
         "id": "bw5-107",
         "name": "Darkrai-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7001,6 +7108,7 @@ let bw5 = [
         "id": "bw5-108",
         "name": "Tornadus-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7078,6 +7186,7 @@ let bw5 = [
         "id": "bw5-109",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 2"
         ],
@@ -7145,6 +7254,7 @@ let bw5 = [
         "id": "bw5-110",
         "name": "Archeops",
         "supertype": "Pokémon",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Stage 1"
         ],
@@ -7214,6 +7324,7 @@ let bw5 = [
         "id": "bw5-111",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "DEX",
         "subtypes": [
             "Item"
         ],

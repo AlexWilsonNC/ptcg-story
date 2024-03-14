@@ -3,6 +3,7 @@ let ex15 = [
         "id": "ex15-1",
         "name": "Ampharos δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -68,6 +69,7 @@ let ex15 = [
         "id": "ex15-2",
         "name": "Feraligatr δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -143,6 +145,7 @@ let ex15 = [
         "id": "ex15-3",
         "name": "Heracross δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -215,6 +218,7 @@ let ex15 = [
         "id": "ex15-4",
         "name": "Meganium δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -296,6 +300,7 @@ let ex15 = [
         "id": "ex15-5",
         "name": "Milotic δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -361,6 +366,7 @@ let ex15 = [
         "id": "ex15-6",
         "name": "Nidoking δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -429,6 +435,7 @@ let ex15 = [
         "id": "ex15-7",
         "name": "Nidoqueen δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -494,6 +501,7 @@ let ex15 = [
         "id": "ex15-8",
         "name": "Ninetales δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -557,6 +565,7 @@ let ex15 = [
         "id": "ex15-9",
         "name": "Pinsir δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -630,6 +639,7 @@ let ex15 = [
         "id": "ex15-10",
         "name": "Snorlax δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -686,6 +696,7 @@ let ex15 = [
         "id": "ex15-11",
         "name": "Togetic δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -761,6 +772,7 @@ let ex15 = [
         "id": "ex15-12",
         "name": "Typhlosion δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2"
         ],
@@ -826,6 +838,7 @@ let ex15 = [
         "id": "ex15-13",
         "name": "Arbok δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -893,6 +906,7 @@ let ex15 = [
         "id": "ex15-14",
         "name": "Cloyster δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -956,6 +970,7 @@ let ex15 = [
         "id": "ex15-15",
         "name": "Dewgong δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1031,6 +1046,7 @@ let ex15 = [
         "id": "ex15-16",
         "name": "Gligar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -1098,6 +1114,7 @@ let ex15 = [
         "id": "ex15-17",
         "name": "Jynx δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -1161,6 +1178,7 @@ let ex15 = [
         "id": "ex15-18",
         "name": "Ledian δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1224,6 +1242,7 @@ let ex15 = [
         "id": "ex15-19",
         "name": "Lickitung δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -1291,6 +1310,7 @@ let ex15 = [
         "id": "ex15-20",
         "name": "Mantine δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -1353,6 +1373,7 @@ let ex15 = [
         "id": "ex15-21",
         "name": "Quagsire δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1418,6 +1439,7 @@ let ex15 = [
         "id": "ex15-22",
         "name": "Seadra δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1489,6 +1511,7 @@ let ex15 = [
         "id": "ex15-23",
         "name": "Tropius δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -1551,6 +1574,7 @@ let ex15 = [
         "id": "ex15-24",
         "name": "Vibrava δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1629,6 +1653,7 @@ let ex15 = [
         "id": "ex15-25",
         "name": "Xatu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1693,6 +1718,7 @@ let ex15 = [
         "id": "ex15-26",
         "name": "Bayleef δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1759,6 +1785,7 @@ let ex15 = [
         "id": "ex15-27",
         "name": "Croconaw δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1829,6 +1856,7 @@ let ex15 = [
         "id": "ex15-28",
         "name": "Dragonair δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1893,6 +1921,7 @@ let ex15 = [
         "id": "ex15-29",
         "name": "Electabuzz δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -1959,6 +1988,7 @@ let ex15 = [
         "id": "ex15-30",
         "name": "Flaaffy δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2019,6 +2049,7 @@ let ex15 = [
         "id": "ex15-31",
         "name": "Horsea δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -2087,6 +2118,7 @@ let ex15 = [
         "id": "ex15-32",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2159,6 +2191,7 @@ let ex15 = [
         "id": "ex15-33",
         "name": "Kirlia δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2231,6 +2264,7 @@ let ex15 = [
         "id": "ex15-34",
         "name": "Nidorina δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2302,6 +2336,7 @@ let ex15 = [
         "id": "ex15-35",
         "name": "Nidorino δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2373,6 +2408,7 @@ let ex15 = [
         "id": "ex15-36",
         "name": "Quilava δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2444,6 +2480,7 @@ let ex15 = [
         "id": "ex15-37",
         "name": "Seadra δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2515,6 +2552,7 @@ let ex15 = [
         "id": "ex15-38",
         "name": "Shelgon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2580,6 +2618,7 @@ let ex15 = [
         "id": "ex15-39",
         "name": "Smeargle δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -2644,6 +2683,7 @@ let ex15 = [
         "id": "ex15-40",
         "name": "Swellow δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2713,6 +2753,7 @@ let ex15 = [
         "id": "ex15-41",
         "name": "Togepi δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -2771,6 +2812,7 @@ let ex15 = [
         "id": "ex15-42",
         "name": "Vibrava δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2834,6 +2876,7 @@ let ex15 = [
         "id": "ex15-43",
         "name": "Bagon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -2886,6 +2929,7 @@ let ex15 = [
         "id": "ex15-44",
         "name": "Chikorita δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -2960,6 +3004,7 @@ let ex15 = [
         "id": "ex15-45",
         "name": "Cyndaquil δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3019,6 +3064,7 @@ let ex15 = [
         "id": "ex15-46",
         "name": "Dratini δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3071,6 +3117,7 @@ let ex15 = [
         "id": "ex15-47",
         "name": "Ekans δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3139,6 +3186,7 @@ let ex15 = [
         "id": "ex15-48",
         "name": "Elekid δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3204,6 +3252,7 @@ let ex15 = [
         "id": "ex15-49",
         "name": "Feebas δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3262,6 +3311,7 @@ let ex15 = [
         "id": "ex15-50",
         "name": "Horsea δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3320,6 +3370,7 @@ let ex15 = [
         "id": "ex15-51",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3388,6 +3439,7 @@ let ex15 = [
         "id": "ex15-52",
         "name": "Larvitar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3456,6 +3508,7 @@ let ex15 = [
         "id": "ex15-53",
         "name": "Ledyba δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3523,6 +3576,7 @@ let ex15 = [
         "id": "ex15-54",
         "name": "Mareep δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3581,6 +3635,7 @@ let ex15 = [
         "id": "ex15-55",
         "name": "Natu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3639,6 +3694,7 @@ let ex15 = [
         "id": "ex15-56",
         "name": "Nidoran ♀ δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3706,6 +3762,7 @@ let ex15 = [
         "id": "ex15-57",
         "name": "Nidoran ♂ δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3773,6 +3830,7 @@ let ex15 = [
         "id": "ex15-58",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3832,6 +3890,7 @@ let ex15 = [
         "id": "ex15-59",
         "name": "Pupitar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3892,6 +3951,7 @@ let ex15 = [
         "id": "ex15-60",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -3959,6 +4019,7 @@ let ex15 = [
         "id": "ex15-61",
         "name": "Ralts δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4027,6 +4088,7 @@ let ex15 = [
         "id": "ex15-62",
         "name": "Seel δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4095,6 +4157,7 @@ let ex15 = [
         "id": "ex15-63",
         "name": "Shellder δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4153,6 +4216,7 @@ let ex15 = [
         "id": "ex15-64",
         "name": "Smoochum δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4218,6 +4282,7 @@ let ex15 = [
         "id": "ex15-65",
         "name": "Swablu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4282,6 +4347,7 @@ let ex15 = [
         "id": "ex15-66",
         "name": "Taillow δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4346,6 +4412,7 @@ let ex15 = [
         "id": "ex15-67",
         "name": "Totodile δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4414,6 +4481,7 @@ let ex15 = [
         "id": "ex15-68",
         "name": "Trapinch δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4482,6 +4550,7 @@ let ex15 = [
         "id": "ex15-69",
         "name": "Trapinch δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4540,6 +4609,7 @@ let ex15 = [
         "id": "ex15-70",
         "name": "Vulpix δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4608,6 +4678,7 @@ let ex15 = [
         "id": "ex15-71",
         "name": "Wooper δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic"
         ],
@@ -4676,6 +4747,7 @@ let ex15 = [
         "id": "ex15-72",
         "name": "Buffer Piece",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -4710,6 +4782,7 @@ let ex15 = [
         "id": "ex15-73",
         "name": "Copycat",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -4744,6 +4817,7 @@ let ex15 = [
         "id": "ex15-74",
         "name": "Holon Legacy",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stadium"
         ],
@@ -4778,6 +4852,7 @@ let ex15 = [
         "id": "ex15-75",
         "name": "Holon Mentor",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -4813,6 +4888,7 @@ let ex15 = [
         "id": "ex15-76",
         "name": "Island Hermit",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -4847,6 +4923,7 @@ let ex15 = [
         "id": "ex15-77",
         "name": "Mr. Stone's Project",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -4881,6 +4958,7 @@ let ex15 = [
         "id": "ex15-78",
         "name": "Old Rod",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Item"
         ],
@@ -4914,6 +4992,7 @@ let ex15 = [
         "id": "ex15-79",
         "name": "Professor Elm's Training Method",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -4948,6 +5027,7 @@ let ex15 = [
         "id": "ex15-80",
         "name": "Professor Oak's Research",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -4982,6 +5062,7 @@ let ex15 = [
         "id": "ex15-81",
         "name": "Strength Charm",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5016,6 +5097,7 @@ let ex15 = [
         "id": "ex15-82",
         "name": "TV Reporter",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Supporter"
         ],
@@ -5050,6 +5132,7 @@ let ex15 = [
         "id": "ex15-83",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "DF",
         "subtypes": [
             "Item"
         ],
@@ -5083,6 +5166,7 @@ let ex15 = [
         "id": "ex15-84",
         "name": "Holon Energy FF",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5117,6 +5201,7 @@ let ex15 = [
         "id": "ex15-85",
         "name": "Holon Energy GL",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5151,6 +5236,7 @@ let ex15 = [
         "id": "ex15-86",
         "name": "Holon Energy WP",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5185,6 +5271,7 @@ let ex15 = [
         "id": "ex15-87",
         "name": "Boost Energy",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5218,6 +5305,7 @@ let ex15 = [
         "id": "ex15-88",
         "name": "δ Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5251,6 +5339,7 @@ let ex15 = [
         "id": "ex15-89",
         "name": "Scramble Energy",
         "supertype": "Energy",
+        "setAbbrev": "DF",
         "subtypes": [
             "Special"
         ],
@@ -5284,6 +5373,7 @@ let ex15 = [
         "id": "ex15-90",
         "name": "Altaria ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -5363,6 +5453,7 @@ let ex15 = [
         "id": "ex15-91",
         "name": "Dragonite ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5430,6 +5521,7 @@ let ex15 = [
         "id": "ex15-92",
         "name": "Flygon ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5493,6 +5585,7 @@ let ex15 = [
         "id": "ex15-93",
         "name": "Gardevoir ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5562,6 +5655,7 @@ let ex15 = [
         "id": "ex15-94",
         "name": "Kingdra ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5641,6 +5735,7 @@ let ex15 = [
         "id": "ex15-95",
         "name": "Latias ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic",
             "EX"
@@ -5709,6 +5804,7 @@ let ex15 = [
         "id": "ex15-96",
         "name": "Latios ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic",
             "EX"
@@ -5787,6 +5883,7 @@ let ex15 = [
         "id": "ex15-97",
         "name": "Rayquaza ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic",
             "EX"
@@ -5860,6 +5957,7 @@ let ex15 = [
         "id": "ex15-98",
         "name": "Salamence ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5951,6 +6049,7 @@ let ex15 = [
         "id": "ex15-99",
         "name": "Tyranitar ex δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -6034,6 +6133,7 @@ let ex15 = [
         "id": "ex15-100",
         "name": "Charizard ★ δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic",
             "Star"
@@ -6107,6 +6207,7 @@ let ex15 = [
         "id": "ex15-101",
         "name": "Mew ★ δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DF",
         "subtypes": [
             "Basic",
             "Star"

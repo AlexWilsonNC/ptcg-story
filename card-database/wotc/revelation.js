@@ -3,6 +3,7 @@ let neo3 = [
         "id": "neo3-1",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 2"
         ],
@@ -72,6 +73,7 @@ let neo3 = [
         "id": "neo3-2",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -145,6 +147,7 @@ let neo3 = [
         "id": "neo3-3",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -208,6 +211,7 @@ let neo3 = [
         "id": "neo3-4",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 2"
         ],
@@ -281,6 +285,7 @@ let neo3 = [
         "id": "neo3-5",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -344,6 +349,7 @@ let neo3 = [
         "id": "neo3-6",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -409,6 +415,7 @@ let neo3 = [
         "id": "neo3-7",
         "name": "Ho-oh",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -495,6 +502,7 @@ let neo3 = [
         "id": "neo3-8",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -563,6 +571,7 @@ let neo3 = [
         "id": "neo3-9",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 2"
         ],
@@ -634,6 +643,7 @@ let neo3 = [
         "id": "neo3-10",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -709,6 +719,7 @@ let neo3 = [
         "id": "neo3-11",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -779,6 +790,7 @@ let neo3 = [
         "id": "neo3-12",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -854,6 +866,7 @@ let neo3 = [
         "id": "neo3-13",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -919,6 +932,7 @@ let neo3 = [
         "id": "neo3-14",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -984,6 +998,7 @@ let neo3 = [
         "id": "neo3-15",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -1056,6 +1071,7 @@ let neo3 = [
         "id": "neo3-16",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1113,6 +1129,7 @@ let neo3 = [
         "id": "neo3-17",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1177,6 +1194,7 @@ let neo3 = [
         "id": "neo3-18",
         "name": "Ho-oh",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1242,6 +1260,7 @@ let neo3 = [
         "id": "neo3-19",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 2"
         ],
@@ -1305,6 +1324,7 @@ let neo3 = [
         "id": "neo3-20",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1370,6 +1390,7 @@ let neo3 = [
         "id": "neo3-21",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -1439,6 +1460,7 @@ let neo3 = [
         "id": "neo3-22",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1503,6 +1525,7 @@ let neo3 = [
         "id": "neo3-23",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1576,6 +1599,7 @@ let neo3 = [
         "id": "neo3-24",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1644,6 +1668,7 @@ let neo3 = [
         "id": "neo3-25",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -1712,6 +1737,7 @@ let neo3 = [
         "id": "neo3-26",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1776,6 +1802,7 @@ let neo3 = [
         "id": "neo3-27",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -1840,6 +1867,7 @@ let neo3 = [
         "id": "neo3-28",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -1911,6 +1939,7 @@ let neo3 = [
         "id": "neo3-29",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -1986,6 +2015,7 @@ let neo3 = [
         "id": "neo3-30",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2058,6 +2088,7 @@ let neo3 = [
         "id": "neo3-31",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2125,6 +2156,7 @@ let neo3 = [
         "id": "neo3-32",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2191,6 +2223,7 @@ let neo3 = [
         "id": "neo3-33",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2257,6 +2290,7 @@ let neo3 = [
         "id": "neo3-34",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2325,6 +2359,7 @@ let neo3 = [
         "id": "neo3-35",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2390,6 +2425,7 @@ let neo3 = [
         "id": "neo3-36",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2469,6 +2505,7 @@ let neo3 = [
         "id": "neo3-37",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -2536,6 +2573,7 @@ let neo3 = [
         "id": "neo3-38",
         "name": "Stantler",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2609,6 +2647,7 @@ let neo3 = [
         "id": "neo3-39",
         "name": "Unown [B]",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2675,6 +2714,7 @@ let neo3 = [
         "id": "neo3-40",
         "name": "Unown [Y]",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2741,6 +2781,7 @@ let neo3 = [
         "id": "neo3-41",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2815,6 +2856,7 @@ let neo3 = [
         "id": "neo3-42",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2883,6 +2925,7 @@ let neo3 = [
         "id": "neo3-43",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -2959,6 +3002,7 @@ let neo3 = [
         "id": "neo3-44",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3018,6 +3062,7 @@ let neo3 = [
         "id": "neo3-45",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3076,6 +3121,7 @@ let neo3 = [
         "id": "neo3-46",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3144,6 +3190,7 @@ let neo3 = [
         "id": "neo3-47",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3213,6 +3260,7 @@ let neo3 = [
         "id": "neo3-48",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -3289,6 +3337,7 @@ let neo3 = [
         "id": "neo3-49",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3355,6 +3404,7 @@ let neo3 = [
         "id": "neo3-50",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3413,6 +3463,7 @@ let neo3 = [
         "id": "neo3-51",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3477,6 +3528,7 @@ let neo3 = [
         "id": "neo3-52",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stage 1"
         ],
@@ -3551,6 +3603,7 @@ let neo3 = [
         "id": "neo3-53",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3620,6 +3673,7 @@ let neo3 = [
         "id": "neo3-54",
         "name": "Smoochum",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Baby"
         ],
@@ -3676,6 +3730,7 @@ let neo3 = [
         "id": "neo3-55",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3751,6 +3806,7 @@ let neo3 = [
         "id": "neo3-56",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3819,6 +3875,7 @@ let neo3 = [
         "id": "neo3-57",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3894,6 +3951,7 @@ let neo3 = [
         "id": "neo3-58",
         "name": "Unown [K]",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -3960,6 +4018,7 @@ let neo3 = [
         "id": "neo3-59",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -4033,6 +4092,7 @@ let neo3 = [
         "id": "neo3-60",
         "name": "Balloon Berry",
         "supertype": "Trainer",
+        "setAbbrev": "N3",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -4067,6 +4127,7 @@ let neo3 = [
         "id": "neo3-61",
         "name": "Healing Field",
         "supertype": "Trainer",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stadium"
         ],
@@ -4101,6 +4162,7 @@ let neo3 = [
         "id": "neo3-62",
         "name": "Pokémon Breeder Fields",
         "supertype": "Trainer",
+        "setAbbrev": "N3",
         "rules": [
             "Flip a coin for 1 or 2 of your non-Baby Pokémon that can evolve. For each heads, search your deck for a later-Stage card that matches that Pokémon. Then put that card into your hand. Shuffle your deck afterward."
         ],
@@ -4131,6 +4193,7 @@ let neo3 = [
         "id": "neo3-63",
         "name": "Rocket's Hideout",
         "supertype": "Trainer",
+        "setAbbrev": "N3",
         "subtypes": [
             "Stadium"
         ],
@@ -4165,6 +4228,7 @@ let neo3 = [
         "id": "neo3-64",
         "name": "Old Rod",
         "supertype": "Trainer",
+        "setAbbrev": "N3",
         "rules": [
             "Flip 2 coins. If both are heads, put a Baby Pokémon, Basic Pokémon, or Evolution card from your discard pile into your hand. If both are tails, put a Trainer card from your discard pile into your hand."
         ],
@@ -4195,6 +4259,7 @@ let neo3 = [
         "id": "neo3-65",
         "name": "Shining Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],
@@ -4274,6 +4339,7 @@ let neo3 = [
         "id": "neo3-66",
         "name": "Shining Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "N3",
         "subtypes": [
             "Basic"
         ],

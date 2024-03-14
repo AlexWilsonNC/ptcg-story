@@ -3,6 +3,7 @@ let xy0 = [
         "id": "xy0-1",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -61,6 +62,7 @@ let xy0 = [
         "id": "xy0-2",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -129,6 +131,7 @@ let xy0 = [
         "id": "xy0-3",
         "name": "Chespin",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -197,6 +200,7 @@ let xy0 = [
         "id": "xy0-4",
         "name": "Quilladin",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -268,6 +272,7 @@ let xy0 = [
         "id": "xy0-5",
         "name": "Chesnaught",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 2"
         ],
@@ -338,6 +343,7 @@ let xy0 = [
         "id": "xy0-6",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -397,6 +403,7 @@ let xy0 = [
         "id": "xy0-7",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -465,6 +472,7 @@ let xy0 = [
         "id": "xy0-8",
         "name": "Fennekin",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -533,6 +541,7 @@ let xy0 = [
         "id": "xy0-9",
         "name": "Braixen",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -604,6 +613,7 @@ let xy0 = [
         "id": "xy0-10",
         "name": "Delphox",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 2"
         ],
@@ -673,6 +683,7 @@ let xy0 = [
         "id": "xy0-11",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -741,6 +752,7 @@ let xy0 = [
         "id": "xy0-12",
         "name": "Froakie",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -809,6 +821,7 @@ let xy0 = [
         "id": "xy0-13",
         "name": "Frogadier",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -879,6 +892,7 @@ let xy0 = [
         "id": "xy0-14",
         "name": "Greninja",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 2"
         ],
@@ -946,6 +960,7 @@ let xy0 = [
         "id": "xy0-15",
         "name": "Clauncher",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1005,6 +1020,7 @@ let xy0 = [
         "id": "xy0-16",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1070,6 +1086,7 @@ let xy0 = [
         "id": "xy0-17",
         "name": "Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1133,6 +1150,7 @@ let xy0 = [
         "id": "xy0-18",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1197,6 +1215,7 @@ let xy0 = [
         "id": "xy0-19",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1271,6 +1290,7 @@ let xy0 = [
         "id": "xy0-20",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1344,6 +1364,7 @@ let xy0 = [
         "id": "xy0-21",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1409,6 +1430,7 @@ let xy0 = [
         "id": "xy0-22",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1474,6 +1496,7 @@ let xy0 = [
         "id": "xy0-23",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1548,6 +1571,7 @@ let xy0 = [
         "id": "xy0-24",
         "name": "Swirlix",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1612,6 +1636,7 @@ let xy0 = [
         "id": "xy0-25",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1676,6 +1701,7 @@ let xy0 = [
         "id": "xy0-26",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1745,6 +1771,7 @@ let xy0 = [
         "id": "xy0-27",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1802,6 +1829,7 @@ let xy0 = [
         "id": "xy0-28",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1861,6 +1889,7 @@ let xy0 = [
         "id": "xy0-29",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1921,6 +1950,7 @@ let xy0 = [
         "id": "xy0-30",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -1980,6 +2010,7 @@ let xy0 = [
         "id": "xy0-31",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -2044,6 +2075,7 @@ let xy0 = [
         "id": "xy0-32",
         "name": "Furfrou",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -2111,6 +2143,7 @@ let xy0 = [
         "id": "xy0-33",
         "name": "Furfrou",
         "supertype": "Pokémon",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Basic"
         ],
@@ -2178,6 +2211,7 @@ let xy0 = [
         "id": "xy0-34",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Item"
         ],
@@ -2211,6 +2245,7 @@ let xy0 = [
         "id": "xy0-35",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Item"
         ],
@@ -2244,6 +2279,7 @@ let xy0 = [
         "id": "xy0-36",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Item"
         ],
@@ -2277,6 +2313,7 @@ let xy0 = [
         "id": "xy0-37",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Item"
         ],
@@ -2310,6 +2347,7 @@ let xy0 = [
         "id": "xy0-38",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Item"
         ],
@@ -2343,6 +2381,7 @@ let xy0 = [
         "id": "xy0-39",
         "name": "Tierno",
         "supertype": "Trainer",
+        "setAbbrev": "KSS",
         "subtypes": [
             "Supporter"
         ],

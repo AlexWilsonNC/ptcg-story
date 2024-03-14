@@ -3,6 +3,7 @@ let pop4 = [
         "id": "pop4-1",
         "name": "Chimecho δ",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Basic"
         ],
@@ -67,6 +68,7 @@ let pop4 = [
         "id": "pop4-2",
         "name": "Deoxys δ",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Basic"
         ],
@@ -129,6 +131,7 @@ let pop4 = [
         "id": "pop4-3",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Stage 2"
         ],
@@ -204,6 +207,7 @@ let pop4 = [
         "id": "pop4-4",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Basic"
         ],
@@ -266,6 +270,7 @@ let pop4 = [
         "id": "pop4-5",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Stage 2"
         ],
@@ -336,6 +341,7 @@ let pop4 = [
         "id": "pop4-6",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Stage 1"
         ],
@@ -405,6 +411,7 @@ let pop4 = [
         "id": "pop4-7",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Stage 1"
         ],
@@ -479,6 +486,7 @@ let pop4 = [
         "id": "pop4-8",
         "name": "Heal Energy",
         "supertype": "Energy",
+        "setAbbrev": "P4",
         "subtypes": [
             "Special"
         ],
@@ -511,6 +519,7 @@ let pop4 = [
         "id": "pop4-9",
         "name": "Pokémon Fan Club",
         "supertype": "Trainer",
+        "setAbbrev": "P4",
         "subtypes": [
             "Supporter"
         ],
@@ -544,6 +553,7 @@ let pop4 = [
         "id": "pop4-10",
         "name": "Scramble Energy",
         "supertype": "Energy",
+        "setAbbrev": "P4",
         "subtypes": [
             "Special"
         ],
@@ -576,6 +586,7 @@ let pop4 = [
         "id": "pop4-11",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Basic"
         ],
@@ -634,6 +645,7 @@ let pop4 = [
         "id": "pop4-12",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Basic"
         ],
@@ -698,6 +710,7 @@ let pop4 = [
         "id": "pop4-13",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Basic"
         ],
@@ -756,6 +769,7 @@ let pop4 = [
         "id": "pop4-14",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Basic"
         ],
@@ -820,6 +834,7 @@ let pop4 = [
         "id": "pop4-15",
         "name": "Treecko δ",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Basic"
         ],
@@ -892,6 +907,7 @@ let pop4 = [
         "id": "pop4-16",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Basic"
         ],
@@ -956,6 +972,7 @@ let pop4 = [
         "id": "pop4-17",
         "name": "Deoxys ex",
         "supertype": "Pokémon",
+        "setAbbrev": "P4",
         "subtypes": [
             "Basic",
             "EX"

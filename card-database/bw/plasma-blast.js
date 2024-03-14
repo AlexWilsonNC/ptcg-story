@@ -3,6 +3,7 @@ let bw10 = [
         "id": "bw10-1",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let bw10 = [
         "id": "bw10-2",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -129,6 +131,7 @@ let bw10 = [
         "id": "bw10-3",
         "name": "Lileep",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Restored"
         ],
@@ -206,6 +209,7 @@ let bw10 = [
         "id": "bw10-4",
         "name": "Cradily",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -280,6 +284,7 @@ let bw10 = [
         "id": "bw10-5",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -352,6 +357,7 @@ let bw10 = [
         "id": "bw10-6",
         "name": "Karrablast",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -412,6 +418,7 @@ let bw10 = [
         "id": "bw10-7",
         "name": "Shelmet",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -481,6 +488,7 @@ let bw10 = [
         "id": "bw10-8",
         "name": "Accelgor",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -548,6 +556,7 @@ let bw10 = [
         "id": "bw10-9",
         "name": "Virizion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX"
@@ -621,6 +630,7 @@ let bw10 = [
         "id": "bw10-10",
         "name": "Genesect",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -688,6 +698,7 @@ let bw10 = [
         "id": "bw10-11",
         "name": "Genesect-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -757,6 +768,7 @@ let bw10 = [
         "id": "bw10-12",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -826,6 +838,7 @@ let bw10 = [
         "id": "bw10-13",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -895,6 +908,7 @@ let bw10 = [
         "id": "bw10-14",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -964,6 +978,7 @@ let bw10 = [
         "id": "bw10-15",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -1035,6 +1050,7 @@ let bw10 = [
         "id": "bw10-16",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -1102,6 +1118,7 @@ let bw10 = [
         "id": "bw10-17",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1171,6 +1188,7 @@ let bw10 = [
         "id": "bw10-18",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1231,6 +1249,7 @@ let bw10 = [
         "id": "bw10-19",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -1299,6 +1318,7 @@ let bw10 = [
         "id": "bw10-20",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1364,6 +1384,7 @@ let bw10 = [
         "id": "bw10-21",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1434,6 +1455,7 @@ let bw10 = [
         "id": "bw10-22",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -1504,6 +1526,7 @@ let bw10 = [
         "id": "bw10-23",
         "name": "Froslass",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -1570,6 +1593,7 @@ let bw10 = [
         "id": "bw10-24",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -1637,6 +1661,7 @@ let bw10 = [
         "id": "bw10-25",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1708,6 +1733,7 @@ let bw10 = [
         "id": "bw10-26",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -1777,6 +1803,7 @@ let bw10 = [
         "id": "bw10-27",
         "name": "Tirtouga",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Restored"
         ],
@@ -1849,6 +1876,7 @@ let bw10 = [
         "id": "bw10-28",
         "name": "Carracosta",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -1920,6 +1948,7 @@ let bw10 = [
         "id": "bw10-29",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -1986,6 +2015,7 @@ let bw10 = [
         "id": "bw10-30",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX"
@@ -2058,6 +2088,7 @@ let bw10 = [
         "id": "bw10-31",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2117,6 +2148,7 @@ let bw10 = [
         "id": "bw10-32",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2187,6 +2219,7 @@ let bw10 = [
         "id": "bw10-33",
         "name": "Eelektross",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -2258,6 +2291,7 @@ let bw10 = [
         "id": "bw10-34",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2328,6 +2362,7 @@ let bw10 = [
         "id": "bw10-35",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2393,6 +2428,7 @@ let bw10 = [
         "id": "bw10-36",
         "name": "Uxie",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2449,6 +2485,7 @@ let bw10 = [
         "id": "bw10-37",
         "name": "Mesprit",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2514,6 +2551,7 @@ let bw10 = [
         "id": "bw10-38",
         "name": "Azelf",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2581,6 +2619,7 @@ let bw10 = [
         "id": "bw10-39",
         "name": "Munna",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2650,6 +2689,7 @@ let bw10 = [
         "id": "bw10-40",
         "name": "Musharna",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2718,6 +2758,7 @@ let bw10 = [
         "id": "bw10-41",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2789,6 +2830,7 @@ let bw10 = [
         "id": "bw10-42",
         "name": "Solosis",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -2848,6 +2890,7 @@ let bw10 = [
         "id": "bw10-43",
         "name": "Duosion",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -2909,6 +2952,7 @@ let bw10 = [
         "id": "bw10-44",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -2977,6 +3021,7 @@ let bw10 = [
         "id": "bw10-45",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3047,6 +3092,7 @@ let bw10 = [
         "id": "bw10-46",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3117,6 +3163,7 @@ let bw10 = [
         "id": "bw10-47",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3177,6 +3224,7 @@ let bw10 = [
         "id": "bw10-48",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3248,6 +3296,7 @@ let bw10 = [
         "id": "bw10-49",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -3315,6 +3364,7 @@ let bw10 = [
         "id": "bw10-50",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -3386,6 +3436,7 @@ let bw10 = [
         "id": "bw10-51",
         "name": "Throh",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3454,6 +3505,7 @@ let bw10 = [
         "id": "bw10-52",
         "name": "Sawk",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3521,6 +3573,7 @@ let bw10 = [
         "id": "bw10-53",
         "name": "Archen",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Restored"
         ],
@@ -3592,6 +3645,7 @@ let bw10 = [
         "id": "bw10-54",
         "name": "Archeops",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3658,6 +3712,7 @@ let bw10 = [
         "id": "bw10-55",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3733,6 +3788,7 @@ let bw10 = [
         "id": "bw10-56",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3808,6 +3864,7 @@ let bw10 = [
         "id": "bw10-57",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -3884,6 +3941,7 @@ let bw10 = [
         "id": "bw10-58",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -3961,6 +4019,7 @@ let bw10 = [
         "id": "bw10-59",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -4037,6 +4096,7 @@ let bw10 = [
         "id": "bw10-60",
         "name": "Jirachi-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX"
@@ -4111,6 +4171,7 @@ let bw10 = [
         "id": "bw10-61",
         "name": "Escavalier",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -4187,6 +4248,7 @@ let bw10 = [
         "id": "bw10-62",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -4256,6 +4318,7 @@ let bw10 = [
         "id": "bw10-63",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -4327,6 +4390,7 @@ let bw10 = [
         "id": "bw10-64",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -4394,6 +4458,7 @@ let bw10 = [
         "id": "bw10-65",
         "name": "Dialga-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -4468,6 +4533,7 @@ let bw10 = [
         "id": "bw10-66",
         "name": "Palkia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -4542,6 +4608,7 @@ let bw10 = [
         "id": "bw10-67",
         "name": "Axew",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -4611,6 +4678,7 @@ let bw10 = [
         "id": "bw10-68",
         "name": "Fraxure",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -4681,6 +4749,7 @@ let bw10 = [
         "id": "bw10-69",
         "name": "Haxorus",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -4748,6 +4817,7 @@ let bw10 = [
         "id": "bw10-70",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -4815,6 +4885,7 @@ let bw10 = [
         "id": "bw10-71",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -4881,6 +4952,7 @@ let bw10 = [
         "id": "bw10-72",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -4940,6 +5012,7 @@ let bw10 = [
         "id": "bw10-73",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1"
         ],
@@ -5001,6 +5074,7 @@ let bw10 = [
         "id": "bw10-74",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -5068,6 +5142,7 @@ let bw10 = [
         "id": "bw10-75",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -5128,6 +5203,7 @@ let bw10 = [
         "id": "bw10-76",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -5200,6 +5276,7 @@ let bw10 = [
         "id": "bw10-77",
         "name": "Chatot",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -5273,6 +5350,7 @@ let bw10 = [
         "id": "bw10-78",
         "name": "Caitlin",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Supporter"
         ],
@@ -5307,6 +5385,7 @@ let bw10 = [
         "id": "bw10-79",
         "name": "Cover Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -5341,6 +5420,7 @@ let bw10 = [
         "id": "bw10-80",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -5375,6 +5455,7 @@ let bw10 = [
         "id": "bw10-81",
         "name": "Iris",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Supporter"
         ],
@@ -5409,6 +5490,7 @@ let bw10 = [
         "id": "bw10-82",
         "name": "Plume Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -5443,6 +5525,7 @@ let bw10 = [
         "id": "bw10-83",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -5477,6 +5560,7 @@ let bw10 = [
         "id": "bw10-84",
         "name": "Professor Juniper",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Supporter"
         ],
@@ -5511,6 +5595,7 @@ let bw10 = [
         "id": "bw10-85",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -5545,6 +5630,7 @@ let bw10 = [
         "id": "bw10-86",
         "name": "Reversal Trigger",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Pokémon Tool",
             "Team Plasma"
@@ -5581,6 +5667,7 @@ let bw10 = [
         "id": "bw10-87",
         "name": "Root Fossil Lileep",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -5615,6 +5702,7 @@ let bw10 = [
         "id": "bw10-88",
         "name": "Silver Bangle",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5650,6 +5738,7 @@ let bw10 = [
         "id": "bw10-89",
         "name": "Silver Mirror",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5685,6 +5774,7 @@ let bw10 = [
         "id": "bw10-90",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],
@@ -5719,6 +5809,7 @@ let bw10 = [
         "id": "bw10-91",
         "name": "Plasma Energy",
         "supertype": "Energy",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Special",
             "Team Plasma"
@@ -5753,6 +5844,7 @@ let bw10 = [
         "id": "bw10-92",
         "name": "G Booster",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC",
@@ -5804,6 +5896,7 @@ let bw10 = [
         "id": "bw10-93",
         "name": "G Scope",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC",
@@ -5855,6 +5948,7 @@ let bw10 = [
         "id": "bw10-94",
         "name": "Master Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -5891,6 +5985,7 @@ let bw10 = [
         "id": "bw10-95",
         "name": "Scoop Up Cyclone",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -5927,6 +6022,7 @@ let bw10 = [
         "id": "bw10-96",
         "name": "Virizion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX"
@@ -6000,6 +6096,7 @@ let bw10 = [
         "id": "bw10-97",
         "name": "Genesect-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -6069,6 +6166,7 @@ let bw10 = [
         "id": "bw10-98",
         "name": "Jirachi-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX"
@@ -6143,6 +6241,7 @@ let bw10 = [
         "id": "bw10-99",
         "name": "Dialga-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -6217,6 +6316,7 @@ let bw10 = [
         "id": "bw10-100",
         "name": "Palkia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic",
             "EX",
@@ -6291,6 +6391,7 @@ let bw10 = [
         "id": "bw10-101",
         "name": "Iris",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Supporter"
         ],
@@ -6325,6 +6426,7 @@ let bw10 = [
         "id": "bw10-102",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -6398,6 +6500,7 @@ let bw10 = [
         "id": "bw10-103",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Basic"
         ],
@@ -6470,6 +6573,7 @@ let bw10 = [
         "id": "bw10-104",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Stage 2"
         ],
@@ -6537,6 +6641,7 @@ let bw10 = [
         "id": "bw10-105",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "PLB",
         "subtypes": [
             "Item"
         ],

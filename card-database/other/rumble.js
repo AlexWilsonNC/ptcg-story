@@ -3,6 +3,7 @@ let ru1 = [
         "id": "ru1-1",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 2"
         ],
@@ -60,6 +61,7 @@ let ru1 = [
         "id": "ru1-2",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -122,6 +124,7 @@ let ru1 = [
         "id": "ru1-3",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -178,6 +181,7 @@ let ru1 = [
         "id": "ru1-4",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -234,6 +238,7 @@ let ru1 = [
         "id": "ru1-5",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -290,6 +295,7 @@ let ru1 = [
         "id": "ru1-6",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -353,6 +359,7 @@ let ru1 = [
         "id": "ru1-7",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -417,6 +424,7 @@ let ru1 = [
         "id": "ru1-8",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -479,6 +487,7 @@ let ru1 = [
         "id": "ru1-9",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -534,6 +543,7 @@ let ru1 = [
         "id": "ru1-10",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -598,6 +608,7 @@ let ru1 = [
         "id": "ru1-11",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -661,6 +672,7 @@ let ru1 = [
         "id": "ru1-12",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -729,6 +741,7 @@ let ru1 = [
         "id": "ru1-13",
         "name": "Skuntank",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],
@@ -791,6 +804,7 @@ let ru1 = [
         "id": "ru1-14",
         "name": "Bastiodon",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 2"
         ],
@@ -853,6 +867,7 @@ let ru1 = [
         "id": "ru1-15",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Basic"
         ],
@@ -910,6 +925,7 @@ let ru1 = [
         "id": "ru1-16",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "RM",
         "subtypes": [
             "Stage 1"
         ],

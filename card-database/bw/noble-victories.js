@@ -3,6 +3,7 @@ let bw3 = [
         "id": "bw3-1",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -63,6 +64,7 @@ let bw3 = [
         "id": "bw3-2",
         "name": "Swadloon",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -133,6 +135,7 @@ let bw3 = [
         "id": "bw3-3",
         "name": "Leavanny",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -199,6 +202,7 @@ let bw3 = [
         "id": "bw3-4",
         "name": "Petilil",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -274,6 +278,7 @@ let bw3 = [
         "id": "bw3-5",
         "name": "Lilligant",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -347,6 +352,7 @@ let bw3 = [
         "id": "bw3-6",
         "name": "Dwebble",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -416,6 +422,7 @@ let bw3 = [
         "id": "bw3-7",
         "name": "Crustle",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -485,6 +492,7 @@ let bw3 = [
         "id": "bw3-8",
         "name": "Karrablast",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -554,6 +562,7 @@ let bw3 = [
         "id": "bw3-9",
         "name": "Foongus",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -619,6 +628,7 @@ let bw3 = [
         "id": "bw3-10",
         "name": "Amoonguss",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -692,6 +702,7 @@ let bw3 = [
         "id": "bw3-11",
         "name": "Shelmet",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -760,6 +771,7 @@ let bw3 = [
         "id": "bw3-12",
         "name": "Accelgor",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -825,6 +837,7 @@ let bw3 = [
         "id": "bw3-13",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -897,6 +910,7 @@ let bw3 = [
         "id": "bw3-14",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -961,6 +975,7 @@ let bw3 = [
         "id": "bw3-15",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -1018,6 +1033,7 @@ let bw3 = [
         "id": "bw3-16",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -1088,6 +1104,7 @@ let bw3 = [
         "id": "bw3-17",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1156,6 +1173,7 @@ let bw3 = [
         "id": "bw3-18",
         "name": "Heatmor",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -1222,6 +1240,7 @@ let bw3 = [
         "id": "bw3-19",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -1281,6 +1300,7 @@ let bw3 = [
         "id": "bw3-20",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -1341,6 +1361,7 @@ let bw3 = [
         "id": "bw3-21",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1409,6 +1430,7 @@ let bw3 = [
         "id": "bw3-22",
         "name": "Tympole",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -1478,6 +1500,7 @@ let bw3 = [
         "id": "bw3-23",
         "name": "Palpitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1549,6 +1572,7 @@ let bw3 = [
         "id": "bw3-24",
         "name": "Seismitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -1618,6 +1642,7 @@ let bw3 = [
         "id": "bw3-25",
         "name": "Tirtouga",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Restored"
         ],
@@ -1693,6 +1718,7 @@ let bw3 = [
         "id": "bw3-26",
         "name": "Carracosta",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1760,6 +1786,7 @@ let bw3 = [
         "id": "bw3-27",
         "name": "Vanillite",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -1819,6 +1846,7 @@ let bw3 = [
         "id": "bw3-28",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1890,6 +1918,7 @@ let bw3 = [
         "id": "bw3-29",
         "name": "Vanilluxe",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -1958,6 +1987,7 @@ let bw3 = [
         "id": "bw3-30",
         "name": "Frillish",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2018,6 +2048,7 @@ let bw3 = [
         "id": "bw3-31",
         "name": "Jellicent",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2083,6 +2114,7 @@ let bw3 = [
         "id": "bw3-32",
         "name": "Cryogonal",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2149,6 +2181,7 @@ let bw3 = [
         "id": "bw3-33",
         "name": "Cryogonal",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2215,6 +2248,7 @@ let bw3 = [
         "id": "bw3-34",
         "name": "Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2283,6 +2317,7 @@ let bw3 = [
         "id": "bw3-35",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2342,6 +2377,7 @@ let bw3 = [
         "id": "bw3-36",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2410,6 +2446,7 @@ let bw3 = [
         "id": "bw3-37",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2466,6 +2503,7 @@ let bw3 = [
         "id": "bw3-38",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2525,6 +2563,7 @@ let bw3 = [
         "id": "bw3-39",
         "name": "Tynamo",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2583,6 +2622,7 @@ let bw3 = [
         "id": "bw3-40",
         "name": "Eelektrik",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2652,6 +2692,7 @@ let bw3 = [
         "id": "bw3-41",
         "name": "Eelektross",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -2721,6 +2762,7 @@ let bw3 = [
         "id": "bw3-42",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2789,6 +2831,7 @@ let bw3 = [
         "id": "bw3-43",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2845,6 +2888,7 @@ let bw3 = [
         "id": "bw3-44",
         "name": "Yamask",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2904,6 +2948,7 @@ let bw3 = [
         "id": "bw3-45",
         "name": "Yamask",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -2963,6 +3008,7 @@ let bw3 = [
         "id": "bw3-46",
         "name": "Cofagrigus",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3032,6 +3078,7 @@ let bw3 = [
         "id": "bw3-47",
         "name": "Cofagrigus",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3097,6 +3144,7 @@ let bw3 = [
         "id": "bw3-48",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -3166,6 +3214,7 @@ let bw3 = [
         "id": "bw3-49",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3235,6 +3284,7 @@ let bw3 = [
         "id": "bw3-50",
         "name": "Solosis",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -3294,6 +3344,7 @@ let bw3 = [
         "id": "bw3-51",
         "name": "Duosion",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3354,6 +3405,7 @@ let bw3 = [
         "id": "bw3-52",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -3420,6 +3472,7 @@ let bw3 = [
         "id": "bw3-53",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -3488,6 +3541,7 @@ let bw3 = [
         "id": "bw3-54",
         "name": "Elgyem",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -3556,6 +3610,7 @@ let bw3 = [
         "id": "bw3-55",
         "name": "Elgyem",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -3625,6 +3680,7 @@ let bw3 = [
         "id": "bw3-56",
         "name": "Beheeyem",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3692,6 +3748,7 @@ let bw3 = [
         "id": "bw3-57",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -3752,6 +3809,7 @@ let bw3 = [
         "id": "bw3-58",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -3811,6 +3869,7 @@ let bw3 = [
         "id": "bw3-59",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3881,6 +3940,7 @@ let bw3 = [
         "id": "bw3-60",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -3947,6 +4007,7 @@ let bw3 = [
         "id": "bw3-61",
         "name": "Gigalith",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -4016,6 +4077,7 @@ let bw3 = [
         "id": "bw3-62",
         "name": "Timburr",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -4075,6 +4137,7 @@ let bw3 = [
         "id": "bw3-63",
         "name": "Gurdurr",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4147,6 +4210,7 @@ let bw3 = [
         "id": "bw3-64",
         "name": "Conkeldurr",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -4214,6 +4278,7 @@ let bw3 = [
         "id": "bw3-65",
         "name": "Conkeldurr",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -4282,6 +4347,7 @@ let bw3 = [
         "id": "bw3-66",
         "name": "Archen",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Restored"
         ],
@@ -4355,6 +4421,7 @@ let bw3 = [
         "id": "bw3-67",
         "name": "Archeops",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4424,6 +4491,7 @@ let bw3 = [
         "id": "bw3-68",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -4498,6 +4566,7 @@ let bw3 = [
         "id": "bw3-69",
         "name": "Mienfoo",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -4567,6 +4636,7 @@ let bw3 = [
         "id": "bw3-70",
         "name": "Mienshao",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4634,6 +4704,7 @@ let bw3 = [
         "id": "bw3-71",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -4700,6 +4771,7 @@ let bw3 = [
         "id": "bw3-72",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4777,6 +4849,7 @@ let bw3 = [
         "id": "bw3-73",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -4845,6 +4918,7 @@ let bw3 = [
         "id": "bw3-74",
         "name": "Landorus",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -4918,6 +4992,7 @@ let bw3 = [
         "id": "bw3-75",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -4983,6 +5058,7 @@ let bw3 = [
         "id": "bw3-76",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5056,6 +5132,7 @@ let bw3 = [
         "id": "bw3-77",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -5131,6 +5208,7 @@ let bw3 = [
         "id": "bw3-78",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5208,6 +5286,7 @@ let bw3 = [
         "id": "bw3-79",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -5281,6 +5360,7 @@ let bw3 = [
         "id": "bw3-80",
         "name": "Escavalier",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5356,6 +5436,7 @@ let bw3 = [
         "id": "bw3-81",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -5431,6 +5512,7 @@ let bw3 = [
         "id": "bw3-82",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5505,6 +5587,7 @@ let bw3 = [
         "id": "bw3-83",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -5577,6 +5660,7 @@ let bw3 = [
         "id": "bw3-84",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -5651,6 +5735,7 @@ let bw3 = [
         "id": "bw3-85",
         "name": "Audino",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -5708,6 +5793,7 @@ let bw3 = [
         "id": "bw3-86",
         "name": "Axew",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -5761,6 +5847,7 @@ let bw3 = [
         "id": "bw3-87",
         "name": "Fraxure",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5825,6 +5912,7 @@ let bw3 = [
         "id": "bw3-88",
         "name": "Haxorus",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Stage 2"
         ],
@@ -5888,6 +5976,7 @@ let bw3 = [
         "id": "bw3-89",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -5947,6 +6036,7 @@ let bw3 = [
         "id": "bw3-90",
         "name": "Cover Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Item"
         ],
@@ -5981,6 +6071,7 @@ let bw3 = [
         "id": "bw3-91",
         "name": "Eviolite",
         "supertype": "Trainer",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6016,6 +6107,7 @@ let bw3 = [
         "id": "bw3-92",
         "name": "N",
         "supertype": "Trainer",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Supporter"
         ],
@@ -6050,6 +6142,7 @@ let bw3 = [
         "id": "bw3-93",
         "name": "Plume Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Item"
         ],
@@ -6084,6 +6177,7 @@ let bw3 = [
         "id": "bw3-94",
         "name": "Rocky Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6119,6 +6213,7 @@ let bw3 = [
         "id": "bw3-95",
         "name": "Super Rod",
         "supertype": "Trainer",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Item"
         ],
@@ -6153,6 +6248,7 @@ let bw3 = [
         "id": "bw3-96",
         "name": "Xtransceiver",
         "supertype": "Trainer",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Item"
         ],
@@ -6187,6 +6283,7 @@ let bw3 = [
         "id": "bw3-97",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -6259,6 +6356,7 @@ let bw3 = [
         "id": "bw3-98",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -6323,6 +6421,7 @@ let bw3 = [
         "id": "bw3-99",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -6391,6 +6490,7 @@ let bw3 = [
         "id": "bw3-100",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],
@@ -6465,6 +6565,7 @@ let bw3 = [
         "id": "bw3-101",
         "name": "N",
         "supertype": "Trainer",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Supporter"
         ],
@@ -6499,6 +6600,7 @@ let bw3 = [
         "id": "bw3-102",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "NVI",
         "subtypes": [
             "Basic"
         ],

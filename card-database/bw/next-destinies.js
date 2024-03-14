@@ -3,6 +3,7 @@ let bw4 = [
         "id": "bw4-1",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -71,6 +72,7 @@ let bw4 = [
         "id": "bw4-2",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -136,6 +138,7 @@ let bw4 = [
         "id": "bw4-3",
         "name": "Kricketot",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -205,6 +208,7 @@ let bw4 = [
         "id": "bw4-4",
         "name": "Kricketune",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -272,6 +276,7 @@ let bw4 = [
         "id": "bw4-5",
         "name": "Shaymin-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -347,6 +352,7 @@ let bw4 = [
         "id": "bw4-6",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -413,6 +419,7 @@ let bw4 = [
         "id": "bw4-7",
         "name": "Simisage",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -486,6 +493,7 @@ let bw4 = [
         "id": "bw4-8",
         "name": "Foongus",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -561,6 +569,7 @@ let bw4 = [
         "id": "bw4-9",
         "name": "Amoonguss",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -632,6 +641,7 @@ let bw4 = [
         "id": "bw4-10",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -701,6 +711,7 @@ let bw4 = [
         "id": "bw4-11",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -761,6 +772,7 @@ let bw4 = [
         "id": "bw4-12",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -827,6 +839,7 @@ let bw4 = [
         "id": "bw4-13",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -896,6 +909,7 @@ let bw4 = [
         "id": "bw4-14",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -972,6 +986,7 @@ let bw4 = [
         "id": "bw4-15",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1032,6 +1047,7 @@ let bw4 = [
         "id": "bw4-16",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1099,6 +1115,7 @@ let bw4 = [
         "id": "bw4-17",
         "name": "Darumaka",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1159,6 +1176,7 @@ let bw4 = [
         "id": "bw4-18",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1218,6 +1236,7 @@ let bw4 = [
         "id": "bw4-19",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1279,6 +1298,7 @@ let bw4 = [
         "id": "bw4-20",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -1346,6 +1366,7 @@ let bw4 = [
         "id": "bw4-21",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1414,6 +1435,7 @@ let bw4 = [
         "id": "bw4-22",
         "name": "Reshiram-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -1487,6 +1509,7 @@ let bw4 = [
         "id": "bw4-23",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1555,6 +1578,7 @@ let bw4 = [
         "id": "bw4-24",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1620,6 +1644,7 @@ let bw4 = [
         "id": "bw4-25",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1686,6 +1711,7 @@ let bw4 = [
         "id": "bw4-26",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1754,6 +1780,7 @@ let bw4 = [
         "id": "bw4-27",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1830,6 +1857,7 @@ let bw4 = [
         "id": "bw4-28",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -1890,6 +1918,7 @@ let bw4 = [
         "id": "bw4-29",
         "name": "Simipour",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1957,6 +1986,7 @@ let bw4 = [
         "id": "bw4-30",
         "name": "Basculin",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2022,6 +2052,7 @@ let bw4 = [
         "id": "bw4-31",
         "name": "Vanillite",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2091,6 +2122,7 @@ let bw4 = [
         "id": "bw4-32",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2162,6 +2194,7 @@ let bw4 = [
         "id": "bw4-33",
         "name": "Vanilluxe",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -2228,6 +2261,7 @@ let bw4 = [
         "id": "bw4-34",
         "name": "Frillish",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2297,6 +2331,7 @@ let bw4 = [
         "id": "bw4-35",
         "name": "Jellicent",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2365,6 +2400,7 @@ let bw4 = [
         "id": "bw4-36",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2434,6 +2470,7 @@ let bw4 = [
         "id": "bw4-37",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2503,6 +2540,7 @@ let bw4 = [
         "id": "bw4-38",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -2576,6 +2614,7 @@ let bw4 = [
         "id": "bw4-39",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2645,6 +2684,7 @@ let bw4 = [
         "id": "bw4-40",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2713,6 +2753,7 @@ let bw4 = [
         "id": "bw4-41",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2789,6 +2830,7 @@ let bw4 = [
         "id": "bw4-42",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2858,6 +2900,7 @@ let bw4 = [
         "id": "bw4-43",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -2917,6 +2960,7 @@ let bw4 = [
         "id": "bw4-44",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2988,6 +3032,7 @@ let bw4 = [
         "id": "bw4-45",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -3057,6 +3102,7 @@ let bw4 = [
         "id": "bw4-46",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -3125,6 +3171,7 @@ let bw4 = [
         "id": "bw4-47",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3185,6 +3232,7 @@ let bw4 = [
         "id": "bw4-48",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -3253,6 +3301,7 @@ let bw4 = [
         "id": "bw4-49",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3310,6 +3359,7 @@ let bw4 = [
         "id": "bw4-50",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3378,6 +3428,7 @@ let bw4 = [
         "id": "bw4-51",
         "name": "Zekrom-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -3451,6 +3502,7 @@ let bw4 = [
         "id": "bw4-52",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3511,6 +3563,7 @@ let bw4 = [
         "id": "bw4-53",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -3581,6 +3634,7 @@ let bw4 = [
         "id": "bw4-54",
         "name": "Mewtwo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -3655,6 +3709,7 @@ let bw4 = [
         "id": "bw4-55",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3724,6 +3779,7 @@ let bw4 = [
         "id": "bw4-56",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -3797,6 +3853,7 @@ let bw4 = [
         "id": "bw4-57",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -3864,6 +3921,7 @@ let bw4 = [
         "id": "bw4-58",
         "name": "Munna",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -3924,6 +3982,7 @@ let bw4 = [
         "id": "bw4-59",
         "name": "Musharna",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -3989,6 +4048,7 @@ let bw4 = [
         "id": "bw4-60",
         "name": "Darmanitan",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4056,6 +4116,7 @@ let bw4 = [
         "id": "bw4-61",
         "name": "Elgyem",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4115,6 +4176,7 @@ let bw4 = [
         "id": "bw4-62",
         "name": "Beheeyem",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4183,6 +4245,7 @@ let bw4 = [
         "id": "bw4-63",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4252,6 +4315,7 @@ let bw4 = [
         "id": "bw4-64",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4317,6 +4381,7 @@ let bw4 = [
         "id": "bw4-65",
         "name": "Hippopotas",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4393,6 +4458,7 @@ let bw4 = [
         "id": "bw4-66",
         "name": "Hippowdon",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4470,6 +4536,7 @@ let bw4 = [
         "id": "bw4-67",
         "name": "Mienfoo",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4529,6 +4596,7 @@ let bw4 = [
         "id": "bw4-68",
         "name": "Mienshao",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4596,6 +4664,7 @@ let bw4 = [
         "id": "bw4-69",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4671,6 +4740,7 @@ let bw4 = [
         "id": "bw4-70",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4745,6 +4815,7 @@ let bw4 = [
         "id": "bw4-71",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -4812,6 +4883,7 @@ let bw4 = [
         "id": "bw4-72",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -4884,6 +4956,7 @@ let bw4 = [
         "id": "bw4-73",
         "name": "Scraggy",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -4959,6 +5032,7 @@ let bw4 = [
         "id": "bw4-74",
         "name": "Scrafty",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -5033,6 +5107,7 @@ let bw4 = [
         "id": "bw4-75",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5110,6 +5185,7 @@ let bw4 = [
         "id": "bw4-76",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -5182,6 +5258,7 @@ let bw4 = [
         "id": "bw4-77",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5248,6 +5325,7 @@ let bw4 = [
         "id": "bw4-78",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5317,6 +5395,7 @@ let bw4 = [
         "id": "bw4-79",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -5386,6 +5465,7 @@ let bw4 = [
         "id": "bw4-80",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5455,6 +5535,7 @@ let bw4 = [
         "id": "bw4-81",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -5522,6 +5603,7 @@ let bw4 = [
         "id": "bw4-82",
         "name": "Regigigas-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -5595,6 +5677,7 @@ let bw4 = [
         "id": "bw4-83",
         "name": "Pidove",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5670,6 +5753,7 @@ let bw4 = [
         "id": "bw4-84",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic"
         ],
@@ -5739,6 +5823,7 @@ let bw4 = [
         "id": "bw4-85",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -5805,6 +5890,7 @@ let bw4 = [
         "id": "bw4-86",
         "name": "Cilan",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Supporter"
         ],
@@ -5839,6 +5925,7 @@ let bw4 = [
         "id": "bw4-87",
         "name": "Exp. Share",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5874,6 +5961,7 @@ let bw4 = [
         "id": "bw4-88",
         "name": "Heavy Ball",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Item"
         ],
@@ -5908,6 +5996,7 @@ let bw4 = [
         "id": "bw4-89",
         "name": "Level Ball",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Item"
         ],
@@ -5942,6 +6031,7 @@ let bw4 = [
         "id": "bw4-90",
         "name": "Pokémon Center",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stadium"
         ],
@@ -5976,6 +6066,7 @@ let bw4 = [
         "id": "bw4-91",
         "name": "Skyarrow Bridge",
         "supertype": "Trainer",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stadium"
         ],
@@ -6010,6 +6101,7 @@ let bw4 = [
         "id": "bw4-92",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Special"
         ],
@@ -6043,6 +6135,7 @@ let bw4 = [
         "id": "bw4-93",
         "name": "Prism Energy",
         "supertype": "Energy",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Special"
         ],
@@ -6077,6 +6170,7 @@ let bw4 = [
         "id": "bw4-94",
         "name": "Shaymin-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -6152,6 +6246,7 @@ let bw4 = [
         "id": "bw4-95",
         "name": "Reshiram-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -6225,6 +6320,7 @@ let bw4 = [
         "id": "bw4-96",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -6298,6 +6394,7 @@ let bw4 = [
         "id": "bw4-97",
         "name": "Zekrom-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -6371,6 +6468,7 @@ let bw4 = [
         "id": "bw4-98",
         "name": "Mewtwo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -6445,6 +6543,7 @@ let bw4 = [
         "id": "bw4-99",
         "name": "Regigigas-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Basic",
             "EX"
@@ -6518,6 +6617,7 @@ let bw4 = [
         "id": "bw4-100",
         "name": "Emboar",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -6585,6 +6685,7 @@ let bw4 = [
         "id": "bw4-101",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],
@@ -6651,6 +6752,7 @@ let bw4 = [
         "id": "bw4-102",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 1"
         ],
@@ -6724,6 +6826,7 @@ let bw4 = [
         "id": "bw4-103",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "NXD",
         "subtypes": [
             "Stage 2"
         ],

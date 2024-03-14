@@ -3,6 +3,7 @@ let ex13 = [
         "id": "ex13-1",
         "name": "Armaldo δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -75,6 +76,7 @@ let ex13 = [
         "id": "ex13-2",
         "name": "Cradily δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -147,6 +149,7 @@ let ex13 = [
         "id": "ex13-3",
         "name": "Deoxys δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -211,6 +214,7 @@ let ex13 = [
         "id": "ex13-4",
         "name": "Deoxys δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -274,6 +278,7 @@ let ex13 = [
         "id": "ex13-5",
         "name": "Deoxys δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -337,6 +342,7 @@ let ex13 = [
         "id": "ex13-6",
         "name": "Deoxys δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -399,6 +405,7 @@ let ex13 = [
         "id": "ex13-7",
         "name": "Flygon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -478,6 +485,7 @@ let ex13 = [
         "id": "ex13-8",
         "name": "Gyarados δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -559,6 +567,7 @@ let ex13 = [
         "id": "ex13-9",
         "name": "Kabutops δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -627,6 +636,7 @@ let ex13 = [
         "id": "ex13-10",
         "name": "Kingdra δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -707,6 +717,7 @@ let ex13 = [
         "id": "ex13-11",
         "name": "Latias δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -790,6 +801,7 @@ let ex13 = [
         "id": "ex13-12",
         "name": "Latios δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -873,6 +885,7 @@ let ex13 = [
         "id": "ex13-13",
         "name": "Omastar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -941,6 +954,7 @@ let ex13 = [
         "id": "ex13-14",
         "name": "Pidgeot δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1016,6 +1030,7 @@ let ex13 = [
         "id": "ex13-15",
         "name": "Raichu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1082,6 +1097,7 @@ let ex13 = [
         "id": "ex13-16",
         "name": "Rayquaza δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1170,6 +1186,7 @@ let ex13 = [
         "id": "ex13-17",
         "name": "Vileplume δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1238,6 +1255,7 @@ let ex13 = [
         "id": "ex13-18",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1309,6 +1327,7 @@ let ex13 = [
         "id": "ex13-19",
         "name": "Bellossom δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1379,6 +1398,7 @@ let ex13 = [
         "id": "ex13-20",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 2"
         ],
@@ -1446,6 +1466,7 @@ let ex13 = [
         "id": "ex13-21",
         "name": "Latias δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1523,6 +1544,7 @@ let ex13 = [
         "id": "ex13-22",
         "name": "Latios δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1600,6 +1622,7 @@ let ex13 = [
         "id": "ex13-23",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1671,6 +1694,7 @@ let ex13 = [
         "id": "ex13-24",
         "name": "Mewtwo δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1737,6 +1761,7 @@ let ex13 = [
         "id": "ex13-25",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1805,6 +1830,7 @@ let ex13 = [
         "id": "ex13-26",
         "name": "Rayquaza δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1872,6 +1898,7 @@ let ex13 = [
         "id": "ex13-27",
         "name": "Regice",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -1936,6 +1963,7 @@ let ex13 = [
         "id": "ex13-28",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2000,6 +2028,7 @@ let ex13 = [
         "id": "ex13-29",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2070,6 +2099,7 @@ let ex13 = [
         "id": "ex13-30",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2133,6 +2163,7 @@ let ex13 = [
         "id": "ex13-31",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2198,6 +2229,7 @@ let ex13 = [
         "id": "ex13-32",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2264,6 +2296,7 @@ let ex13 = [
         "id": "ex13-33",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2330,6 +2363,7 @@ let ex13 = [
         "id": "ex13-34",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2395,6 +2429,7 @@ let ex13 = [
         "id": "ex13-35",
         "name": "Aerodactyl δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2464,6 +2499,7 @@ let ex13 = [
         "id": "ex13-36",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2532,6 +2568,7 @@ let ex13 = [
         "id": "ex13-37",
         "name": "Chimecho δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -2595,6 +2632,7 @@ let ex13 = [
         "id": "ex13-38",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2662,6 +2700,7 @@ let ex13 = [
         "id": "ex13-39",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2733,6 +2772,7 @@ let ex13 = [
         "id": "ex13-40",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2800,6 +2840,7 @@ let ex13 = [
         "id": "ex13-41",
         "name": "Exeggutor δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2868,6 +2909,7 @@ let ex13 = [
         "id": "ex13-42",
         "name": "Gloom δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2938,6 +2980,7 @@ let ex13 = [
         "id": "ex13-43",
         "name": "Golduck δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3002,6 +3045,7 @@ let ex13 = [
         "id": "ex13-44",
         "name": "Holon's Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -3060,6 +3104,7 @@ let ex13 = [
         "id": "ex13-45",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3137,6 +3182,7 @@ let ex13 = [
         "id": "ex13-46",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3210,6 +3256,7 @@ let ex13 = [
         "id": "ex13-47",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3275,6 +3322,7 @@ let ex13 = [
         "id": "ex13-48",
         "name": "Persian δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3345,6 +3393,7 @@ let ex13 = [
         "id": "ex13-49",
         "name": "Pidgeotto δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3411,6 +3460,7 @@ let ex13 = [
         "id": "ex13-50",
         "name": "Primeape δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3478,6 +3528,7 @@ let ex13 = [
         "id": "ex13-51",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3546,6 +3597,7 @@ let ex13 = [
         "id": "ex13-52",
         "name": "Seadra δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3617,6 +3669,7 @@ let ex13 = [
         "id": "ex13-53",
         "name": "Sharpedo δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3684,6 +3737,7 @@ let ex13 = [
         "id": "ex13-54",
         "name": "Vibrava δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3765,6 +3819,7 @@ let ex13 = [
         "id": "ex13-55",
         "name": "Whiscash",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3832,6 +3887,7 @@ let ex13 = [
         "id": "ex13-56",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -3897,6 +3953,7 @@ let ex13 = [
         "id": "ex13-57",
         "name": "Anorith δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3967,6 +4024,7 @@ let ex13 = [
         "id": "ex13-58",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4041,6 +4099,7 @@ let ex13 = [
         "id": "ex13-59",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4109,6 +4168,7 @@ let ex13 = [
         "id": "ex13-60",
         "name": "Barboach",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4176,6 +4236,7 @@ let ex13 = [
         "id": "ex13-61",
         "name": "Carvanha δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4244,6 +4305,7 @@ let ex13 = [
         "id": "ex13-62",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4313,6 +4375,7 @@ let ex13 = [
         "id": "ex13-63",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4380,6 +4443,7 @@ let ex13 = [
         "id": "ex13-64",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4444,6 +4508,7 @@ let ex13 = [
         "id": "ex13-65",
         "name": "Exeggcute δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4512,6 +4577,7 @@ let ex13 = [
         "id": "ex13-66",
         "name": "Horsea δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4580,6 +4646,7 @@ let ex13 = [
         "id": "ex13-67",
         "name": "Kabuto δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4649,6 +4716,7 @@ let ex13 = [
         "id": "ex13-68",
         "name": "Lileep δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4718,6 +4786,7 @@ let ex13 = [
         "id": "ex13-69",
         "name": "Magikarp δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4776,6 +4845,7 @@ let ex13 = [
         "id": "ex13-70",
         "name": "Mankey δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4844,6 +4914,7 @@ let ex13 = [
         "id": "ex13-71",
         "name": "Meowth δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4916,6 +4987,7 @@ let ex13 = [
         "id": "ex13-72",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -4984,6 +5056,7 @@ let ex13 = [
         "id": "ex13-73",
         "name": "Oddish δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5051,6 +5124,7 @@ let ex13 = [
         "id": "ex13-74",
         "name": "Omanyte δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1"
         ],
@@ -5120,6 +5194,7 @@ let ex13 = [
         "id": "ex13-75",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5187,6 +5262,7 @@ let ex13 = [
         "id": "ex13-76",
         "name": "Pichu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5252,6 +5328,7 @@ let ex13 = [
         "id": "ex13-77",
         "name": "Pidgey δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5316,6 +5393,7 @@ let ex13 = [
         "id": "ex13-78",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5384,6 +5462,7 @@ let ex13 = [
         "id": "ex13-79",
         "name": "Pikachu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5453,6 +5532,7 @@ let ex13 = [
         "id": "ex13-80",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5527,6 +5607,7 @@ let ex13 = [
         "id": "ex13-81",
         "name": "Psyduck δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5594,6 +5675,7 @@ let ex13 = [
         "id": "ex13-82",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5652,6 +5734,7 @@ let ex13 = [
         "id": "ex13-83",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5720,6 +5803,7 @@ let ex13 = [
         "id": "ex13-84",
         "name": "Trapinch δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -5788,6 +5872,7 @@ let ex13 = [
         "id": "ex13-85",
         "name": "Holon Adventurer",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Supporter"
         ],
@@ -5823,6 +5908,7 @@ let ex13 = [
         "id": "ex13-86",
         "name": "Holon Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Item"
         ],
@@ -5856,6 +5942,7 @@ let ex13 = [
         "id": "ex13-87",
         "name": "Holon Lake",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stadium"
         ],
@@ -5901,6 +5988,7 @@ let ex13 = [
         "id": "ex13-88",
         "name": "Mr. Stone's Project",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Supporter"
         ],
@@ -5935,6 +6023,7 @@ let ex13 = [
         "id": "ex13-89",
         "name": "Professor Cozmo's Discovery",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Supporter"
         ],
@@ -5969,6 +6058,7 @@ let ex13 = [
         "id": "ex13-90",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Item"
         ],
@@ -6002,6 +6092,7 @@ let ex13 = [
         "id": "ex13-91",
         "name": "Claw Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Item"
         ],
@@ -6043,6 +6134,7 @@ let ex13 = [
         "id": "ex13-92",
         "name": "Mysterious Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Item"
         ],
@@ -6077,6 +6169,7 @@ let ex13 = [
         "id": "ex13-93",
         "name": "Root Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "HP",
         "subtypes": [
             "Item"
         ],
@@ -6118,6 +6211,7 @@ let ex13 = [
         "id": "ex13-94",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Special"
         ],
@@ -6151,6 +6245,7 @@ let ex13 = [
         "id": "ex13-95",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Special"
         ],
@@ -6184,6 +6279,7 @@ let ex13 = [
         "id": "ex13-96",
         "name": "Multi Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Special"
         ],
@@ -6217,6 +6313,7 @@ let ex13 = [
         "id": "ex13-97",
         "name": "Dark Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Special"
         ],
@@ -6250,6 +6347,7 @@ let ex13 = [
         "id": "ex13-98",
         "name": "δ Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Special"
         ],
@@ -6283,6 +6381,7 @@ let ex13 = [
         "id": "ex13-99",
         "name": "Crawdaunt ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6351,6 +6450,7 @@ let ex13 = [
         "id": "ex13-100",
         "name": "Mew ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic",
             "EX"
@@ -6429,6 +6529,7 @@ let ex13 = [
         "id": "ex13-101",
         "name": "Mightyena ex",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6513,6 +6614,7 @@ let ex13 = [
         "id": "ex13-102",
         "name": "Gyarados ★ δ",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic",
             "Star"
@@ -6585,6 +6687,7 @@ let ex13 = [
         "id": "ex13-103",
         "name": "Mewtwo ★",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic",
             "Star"
@@ -6655,6 +6758,7 @@ let ex13 = [
         "id": "ex13-104",
         "name": "Pikachu ★",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic",
             "Star"
@@ -6724,6 +6828,7 @@ let ex13 = [
         "id": "ex13-105",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -6753,6 +6858,7 @@ let ex13 = [
         "id": "ex13-106",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -6782,6 +6888,7 @@ let ex13 = [
         "id": "ex13-107",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -6811,6 +6918,7 @@ let ex13 = [
         "id": "ex13-108",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -6840,6 +6948,7 @@ let ex13 = [
         "id": "ex13-109",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -6869,6 +6978,7 @@ let ex13 = [
         "id": "ex13-110",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],
@@ -6898,6 +7008,7 @@ let ex13 = [
         "id": "ex13-111",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "HP",
         "subtypes": [
             "Basic"
         ],

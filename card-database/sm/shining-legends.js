@@ -3,6 +3,7 @@ let sm35 = [
         "id": "sm35-1",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -63,6 +64,7 @@ let sm35 = [
         "id": "sm35-2",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -136,6 +138,7 @@ let sm35 = [
         "id": "sm35-3",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 2"
         ],
@@ -203,6 +206,7 @@ let sm35 = [
         "id": "sm35-4",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -263,6 +267,7 @@ let sm35 = [
         "id": "sm35-5",
         "name": "Breloom",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -331,6 +336,7 @@ let sm35 = [
         "id": "sm35-6",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -397,6 +403,7 @@ let sm35 = [
         "id": "sm35-7",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -463,6 +470,7 @@ let sm35 = [
         "id": "sm35-8",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -530,6 +538,7 @@ let sm35 = [
         "id": "sm35-9",
         "name": "Shining Genesect",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -595,6 +604,7 @@ let sm35 = [
         "id": "sm35-10",
         "name": "Entei-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -677,6 +687,7 @@ let sm35 = [
         "id": "sm35-10a",
         "name": "Entei-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -759,6 +770,7 @@ let sm35 = [
         "id": "sm35-11",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -827,6 +839,7 @@ let sm35 = [
         "id": "sm35-12",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -887,6 +900,7 @@ let sm35 = [
         "id": "sm35-13",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -952,6 +966,7 @@ let sm35 = [
         "id": "sm35-14",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1020,6 +1035,7 @@ let sm35 = [
         "id": "sm35-15",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1079,6 +1095,7 @@ let sm35 = [
         "id": "sm35-16",
         "name": "Torracat",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1149,6 +1166,7 @@ let sm35 = [
         "id": "sm35-17",
         "name": "Incineroar",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 2"
         ],
@@ -1218,6 +1236,7 @@ let sm35 = [
         "id": "sm35-18",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1287,6 +1306,7 @@ let sm35 = [
         "id": "sm35-19",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1356,6 +1376,7 @@ let sm35 = [
         "id": "sm35-20",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 2"
         ],
@@ -1427,6 +1448,7 @@ let sm35 = [
         "id": "sm35-21",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1493,6 +1515,7 @@ let sm35 = [
         "id": "sm35-22",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1563,6 +1586,7 @@ let sm35 = [
         "id": "sm35-23",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -1631,6 +1655,7 @@ let sm35 = [
         "id": "sm35-24",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1699,6 +1724,7 @@ let sm35 = [
         "id": "sm35-25",
         "name": "Manaphy",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1763,6 +1789,7 @@ let sm35 = [
         "id": "sm35-26",
         "name": "Keldeo",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1829,6 +1856,7 @@ let sm35 = [
         "id": "sm35-27",
         "name": "Shining Volcanion",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1899,6 +1927,7 @@ let sm35 = [
         "id": "sm35-28",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -1964,6 +1993,7 @@ let sm35 = [
         "id": "sm35-29",
         "name": "Raichu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2053,6 +2083,7 @@ let sm35 = [
         "id": "sm35-30",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2118,6 +2149,7 @@ let sm35 = [
         "id": "sm35-31",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2180,6 +2212,7 @@ let sm35 = [
         "id": "sm35-32",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2253,6 +2286,7 @@ let sm35 = [
         "id": "sm35-33",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2315,6 +2349,7 @@ let sm35 = [
         "id": "sm35-34",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2386,6 +2421,7 @@ let sm35 = [
         "id": "sm35-35",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2460,6 +2496,7 @@ let sm35 = [
         "id": "sm35-36",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2519,6 +2556,7 @@ let sm35 = [
         "id": "sm35-37",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -2585,6 +2623,7 @@ let sm35 = [
         "id": "sm35-38",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2651,6 +2690,7 @@ let sm35 = [
         "id": "sm35-39",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -2731,6 +2771,7 @@ let sm35 = [
         "id": "sm35-40",
         "name": "Shining Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2795,6 +2836,7 @@ let sm35 = [
         "id": "sm35-41",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2863,6 +2905,7 @@ let sm35 = [
         "id": "sm35-42",
         "name": "Shining Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2919,6 +2962,7 @@ let sm35 = [
         "id": "sm35-43",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -2986,6 +3030,7 @@ let sm35 = [
         "id": "sm35-44",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -3063,6 +3108,7 @@ let sm35 = [
         "id": "sm35-45",
         "name": "Marshadow",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3136,6 +3182,7 @@ let sm35 = [
         "id": "sm35-46",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3204,6 +3251,7 @@ let sm35 = [
         "id": "sm35-47",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3262,6 +3310,7 @@ let sm35 = [
         "id": "sm35-48",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3337,6 +3386,7 @@ let sm35 = [
         "id": "sm35-49",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -3410,6 +3460,7 @@ let sm35 = [
         "id": "sm35-50",
         "name": "Scraggy",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3485,6 +3536,7 @@ let sm35 = [
         "id": "sm35-51",
         "name": "Scrafty",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1"
         ],
@@ -3560,6 +3612,7 @@ let sm35 = [
         "id": "sm35-52",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3635,6 +3688,7 @@ let sm35 = [
         "id": "sm35-53",
         "name": "Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -3719,6 +3773,7 @@ let sm35 = [
         "id": "sm35-54",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3793,6 +3848,7 @@ let sm35 = [
         "id": "sm35-55",
         "name": "Hoopa",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3864,6 +3920,7 @@ let sm35 = [
         "id": "sm35-56",
         "name": "Shining Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3932,6 +3989,7 @@ let sm35 = [
         "id": "sm35-57",
         "name": "Shining Arceus",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic"
         ],
@@ -3998,6 +4056,7 @@ let sm35 = [
         "id": "sm35-58",
         "name": "Damage Mover",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4032,6 +4091,7 @@ let sm35 = [
         "id": "sm35-59",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4066,6 +4126,7 @@ let sm35 = [
         "id": "sm35-60",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4100,6 +4161,7 @@ let sm35 = [
         "id": "sm35-61",
         "name": "Hau",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Supporter"
         ],
@@ -4134,6 +4196,7 @@ let sm35 = [
         "id": "sm35-62",
         "name": "Lillie",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Supporter"
         ],
@@ -4168,6 +4231,7 @@ let sm35 = [
         "id": "sm35-63",
         "name": "Pokémon Breeder",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Supporter"
         ],
@@ -4202,6 +4266,7 @@ let sm35 = [
         "id": "sm35-64",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4236,6 +4301,7 @@ let sm35 = [
         "id": "sm35-65",
         "name": "Sophocles",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Supporter"
         ],
@@ -4270,6 +4336,7 @@ let sm35 = [
         "id": "sm35-66",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4304,6 +4371,7 @@ let sm35 = [
         "id": "sm35-67",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4338,6 +4406,7 @@ let sm35 = [
         "id": "sm35-68",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4372,6 +4441,7 @@ let sm35 = [
         "id": "sm35-68a",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Item"
         ],
@@ -4406,6 +4476,7 @@ let sm35 = [
         "id": "sm35-69",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Special"
         ],
@@ -4438,6 +4509,7 @@ let sm35 = [
         "id": "sm35-70",
         "name": "Warp Energy",
         "supertype": "Energy",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Special"
         ],
@@ -4471,6 +4543,7 @@ let sm35 = [
         "id": "sm35-71",
         "name": "Entei-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -4553,6 +4626,7 @@ let sm35 = [
         "id": "sm35-72",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -4633,6 +4707,7 @@ let sm35 = [
         "id": "sm35-73",
         "name": "Pokémon Breeder",
         "supertype": "Trainer",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Supporter"
         ],
@@ -4667,6 +4742,7 @@ let sm35 = [
         "id": "sm35-74",
         "name": "Entei-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -4749,6 +4825,7 @@ let sm35 = [
         "id": "sm35-75",
         "name": "Raichu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -4838,6 +4915,7 @@ let sm35 = [
         "id": "sm35-76",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"
@@ -4918,6 +4996,7 @@ let sm35 = [
         "id": "sm35-77",
         "name": "Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5002,6 +5081,7 @@ let sm35 = [
         "id": "sm35-77a",
         "name": "Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5086,6 +5166,7 @@ let sm35 = [
         "id": "sm35-78",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SLG",
         "subtypes": [
             "Basic",
             "GX"

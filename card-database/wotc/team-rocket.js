@@ -3,6 +3,7 @@ let base5 = [
         "id": "base5-1",
         "name": "Dark Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -73,6 +74,7 @@ let base5 = [
         "id": "base5-2",
         "name": "Dark Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -142,6 +144,7 @@ let base5 = [
         "id": "base5-3",
         "name": "Dark Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -211,6 +214,7 @@ let base5 = [
         "id": "base5-4",
         "name": "Dark Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -284,6 +288,7 @@ let base5 = [
         "id": "base5-5",
         "name": "Dark Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -351,6 +356,7 @@ let base5 = [
         "id": "base5-6",
         "name": "Dark Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -422,6 +428,7 @@ let base5 = [
         "id": "base5-7",
         "name": "Dark Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -495,6 +502,7 @@ let base5 = [
         "id": "base5-8",
         "name": "Dark Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -567,6 +575,7 @@ let base5 = [
         "id": "base5-9",
         "name": "Dark Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -635,6 +644,7 @@ let base5 = [
         "id": "base5-10",
         "name": "Dark Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -705,6 +715,7 @@ let base5 = [
         "id": "base5-11",
         "name": "Dark Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -776,6 +787,7 @@ let base5 = [
         "id": "base5-12",
         "name": "Dark Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -841,6 +853,7 @@ let base5 = [
         "id": "base5-13",
         "name": "Dark Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -907,6 +920,7 @@ let base5 = [
         "id": "base5-14",
         "name": "Dark Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -976,6 +990,7 @@ let base5 = [
         "id": "base5-15",
         "name": "Here Comes Team Rocket!",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Each player plays with his or her Prize cards face up for the rest of the game."
         ],
@@ -1006,6 +1021,7 @@ let base5 = [
         "id": "base5-16",
         "name": "Rocket's Sneak Attack",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Look at your opponent's hand. If he or she has any Trainer cards, choose 1 of them. Your opponent shuffles that card into his or her deck."
         ],
@@ -1036,6 +1052,7 @@ let base5 = [
         "id": "base5-17",
         "name": "Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "TR",
         "subtypes": [
             "Special"
         ],
@@ -1069,6 +1086,7 @@ let base5 = [
         "id": "base5-18",
         "name": "Dark Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1139,6 +1157,7 @@ let base5 = [
         "id": "base5-19",
         "name": "Dark Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1208,6 +1227,7 @@ let base5 = [
         "id": "base5-20",
         "name": "Dark Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1277,6 +1297,7 @@ let base5 = [
         "id": "base5-21",
         "name": "Dark Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1350,6 +1371,7 @@ let base5 = [
         "id": "base5-22",
         "name": "Dark Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1417,6 +1439,7 @@ let base5 = [
         "id": "base5-23",
         "name": "Dark Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1488,6 +1511,7 @@ let base5 = [
         "id": "base5-24",
         "name": "Dark Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1561,6 +1585,7 @@ let base5 = [
         "id": "base5-25",
         "name": "Dark Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1633,6 +1658,7 @@ let base5 = [
         "id": "base5-26",
         "name": "Dark Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1701,6 +1727,7 @@ let base5 = [
         "id": "base5-27",
         "name": "Dark Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1771,6 +1798,7 @@ let base5 = [
         "id": "base5-28",
         "name": "Dark Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1842,6 +1870,7 @@ let base5 = [
         "id": "base5-29",
         "name": "Dark Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1907,6 +1936,7 @@ let base5 = [
         "id": "base5-30",
         "name": "Dark Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1973,6 +2003,7 @@ let base5 = [
         "id": "base5-31",
         "name": "Dark Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2042,6 +2073,7 @@ let base5 = [
         "id": "base5-32",
         "name": "Dark Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2114,6 +2146,7 @@ let base5 = [
         "id": "base5-33",
         "name": "Dark Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2183,6 +2216,7 @@ let base5 = [
         "id": "base5-34",
         "name": "Dark Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2250,6 +2284,7 @@ let base5 = [
         "id": "base5-35",
         "name": "Dark Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2317,6 +2352,7 @@ let base5 = [
         "id": "base5-36",
         "name": "Dark Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2386,6 +2422,7 @@ let base5 = [
         "id": "base5-37",
         "name": "Dark Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2454,6 +2491,7 @@ let base5 = [
         "id": "base5-38",
         "name": "Dark Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2522,6 +2560,7 @@ let base5 = [
         "id": "base5-39",
         "name": "Dark Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2590,6 +2629,7 @@ let base5 = [
         "id": "base5-40",
         "name": "Dark Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2663,6 +2703,7 @@ let base5 = [
         "id": "base5-41",
         "name": "Dark Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2728,6 +2769,7 @@ let base5 = [
         "id": "base5-42",
         "name": "Dark Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2800,6 +2842,7 @@ let base5 = [
         "id": "base5-43",
         "name": "Dark Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2865,6 +2908,7 @@ let base5 = [
         "id": "base5-44",
         "name": "Dark Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2932,6 +2976,7 @@ let base5 = [
         "id": "base5-45",
         "name": "Dark Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3002,6 +3047,7 @@ let base5 = [
         "id": "base5-46",
         "name": "Dark Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3072,6 +3118,7 @@ let base5 = [
         "id": "base5-47",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3142,6 +3189,7 @@ let base5 = [
         "id": "base5-48",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3217,6 +3265,7 @@ let base5 = [
         "id": "base5-49",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3285,6 +3334,7 @@ let base5 = [
         "id": "base5-50",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3351,6 +3401,7 @@ let base5 = [
         "id": "base5-51",
         "name": "Dark Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3426,6 +3477,7 @@ let base5 = [
         "id": "base5-52",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3500,6 +3552,7 @@ let base5 = [
         "id": "base5-53",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3560,6 +3613,7 @@ let base5 = [
         "id": "base5-54",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3627,6 +3681,7 @@ let base5 = [
         "id": "base5-55",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3709,6 +3764,7 @@ let base5 = [
         "id": "base5-56",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3778,6 +3834,7 @@ let base5 = [
         "id": "base5-57",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3847,6 +3904,7 @@ let base5 = [
         "id": "base5-58",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3916,6 +3974,7 @@ let base5 = [
         "id": "base5-59",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -3987,6 +4046,7 @@ let base5 = [
         "id": "base5-60",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4057,6 +4117,7 @@ let base5 = [
         "id": "base5-61",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4125,6 +4186,7 @@ let base5 = [
         "id": "base5-62",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4191,6 +4253,7 @@ let base5 = [
         "id": "base5-63",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4259,6 +4322,7 @@ let base5 = [
         "id": "base5-64",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4319,6 +4383,7 @@ let base5 = [
         "id": "base5-65",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4388,6 +4453,7 @@ let base5 = [
         "id": "base5-66",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4459,6 +4525,7 @@ let base5 = [
         "id": "base5-67",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4528,6 +4595,7 @@ let base5 = [
         "id": "base5-68",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4588,6 +4656,7 @@ let base5 = [
         "id": "base5-69",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4647,6 +4716,7 @@ let base5 = [
         "id": "base5-70",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Basic"
         ],
@@ -4721,6 +4791,7 @@ let base5 = [
         "id": "base5-71",
         "name": "Here Comes Team Rocket!",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Each player plays with his or her Prize cards face up for the rest of the game."
         ],
@@ -4751,6 +4822,7 @@ let base5 = [
         "id": "base5-72",
         "name": "Rocket's Sneak Attack",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Look at your opponent's hand. If he or she has any Trainer cards, choose 1 of them. Your opponent shuffles that card into his or her deck."
         ],
@@ -4781,6 +4853,7 @@ let base5 = [
         "id": "base5-73",
         "name": "The Boss's Way",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Search your deck for an Evolution card with Dark in its name. Show it to your opponent and put it into your hand. Shuffle your deck afterward."
         ],
@@ -4811,6 +4884,7 @@ let base5 = [
         "id": "base5-74",
         "name": "Challenge!",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Ask your opponent if he or she accepts your challenge. If your opponent declines (or if both Benches are full), draw 2 cards. If your opponent accepts, each of you searches your decks for any number of Basic Pokémon cards and puts them face down onto your Benches. (A player can't do this if his or her Bench is full.) When you both have finished, shuffle your decks and turn those cards face up."
         ],
@@ -4841,6 +4915,7 @@ let base5 = [
         "id": "base5-75",
         "name": "Digger",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -4874,6 +4949,7 @@ let base5 = [
         "id": "base5-76",
         "name": "Imposter Oak's Revenge",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "Discard a card from your hand in order to play this card. Your opponent shuffles his or her hand into his or her deck, then draws 4 cards."
         ],
@@ -4904,6 +4980,7 @@ let base5 = [
         "id": "base5-77",
         "name": "Nightly Garbage Run",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -4937,6 +5014,7 @@ let base5 = [
         "id": "base5-78",
         "name": "Goop Gas Attack",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "rules": [
             "All Pokémon Powers stop working until the end of your opponent's next turn."
         ],
@@ -4967,6 +5045,7 @@ let base5 = [
         "id": "base5-79",
         "name": "Sleep!",
         "supertype": "Trainer",
+        "setAbbrev": "TR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -5000,6 +5079,7 @@ let base5 = [
         "id": "base5-80",
         "name": "Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "TR",
         "subtypes": [
             "Special"
         ],
@@ -5033,6 +5113,7 @@ let base5 = [
         "id": "base5-81",
         "name": "Full Heal Energy",
         "supertype": "Energy",
+        "setAbbrev": "TR",
         "subtypes": [
             "Special"
         ],
@@ -5067,6 +5148,7 @@ let base5 = [
         "id": "base5-82",
         "name": "Potion Energy",
         "supertype": "Energy",
+        "setAbbrev": "TR",
         "subtypes": [
             "Special"
         ],
@@ -5101,6 +5183,7 @@ let base5 = [
         "id": "base5-83",
         "name": "Dark Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "TR",
         "subtypes": [
             "Stage 1"
         ],

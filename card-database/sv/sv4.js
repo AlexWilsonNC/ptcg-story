@@ -3,6 +3,7 @@ let sv4 = [
         "id": "sv4-1",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -65,6 +66,7 @@ let sv4 = [
         "id": "sv4-2",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -135,6 +137,7 @@ let sv4 = [
         "id": "sv4-3",
         "name": "Froslass ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -207,6 +210,7 @@ let sv4 = [
         "id": "sv4-4",
         "name": "Pansage",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -280,6 +284,7 @@ let sv4 = [
         "id": "sv4-5",
         "name": "Simisage",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -349,6 +354,7 @@ let sv4 = [
         "id": "sv4-6",
         "name": "Dwebble",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -412,6 +418,7 @@ let sv4 = [
         "id": "sv4-7",
         "name": "Crustle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -486,6 +493,7 @@ let sv4 = [
         "id": "sv4-8",
         "name": "Bounsweet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -548,6 +556,7 @@ let sv4 = [
         "id": "sv4-9",
         "name": "Steenee",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -622,6 +631,7 @@ let sv4 = [
         "id": "sv4-10",
         "name": "Blipbug",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -684,6 +694,7 @@ let sv4 = [
         "id": "sv4-11",
         "name": "Dottler",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -758,6 +769,7 @@ let sv4 = [
         "id": "sv4-12",
         "name": "Orbeetle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -828,6 +840,7 @@ let sv4 = [
         "id": "sv4-13",
         "name": "Nymble",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -881,6 +894,7 @@ let sv4 = [
         "id": "sv4-14",
         "name": "Nymble",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -939,6 +953,7 @@ let sv4 = [
         "id": "sv4-15",
         "name": "Toedscool",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -1006,6 +1021,7 @@ let sv4 = [
         "id": "sv4-16",
         "name": "Toedscool",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -1075,6 +1091,7 @@ let sv4 = [
         "id": "sv4-17",
         "name": "Toedscruel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1143,6 +1160,7 @@ let sv4 = [
         "id": "sv4-18",
         "name": "Wo-Chien",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -1214,6 +1232,7 @@ let sv4 = [
         "id": "sv4-19",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -1272,6 +1291,7 @@ let sv4 = [
         "id": "sv4-20",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -1345,6 +1365,7 @@ let sv4 = [
         "id": "sv4-21",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1415,6 +1436,7 @@ let sv4 = [
         "id": "sv4-22",
         "name": "Volcanion",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -1487,6 +1509,7 @@ let sv4 = [
         "id": "sv4-23",
         "name": "Fuecoco",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -1555,6 +1578,7 @@ let sv4 = [
         "id": "sv4-24",
         "name": "Crocalor",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1616,6 +1640,7 @@ let sv4 = [
         "id": "sv4-25",
         "name": "Charcadet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -1683,6 +1708,7 @@ let sv4 = [
         "id": "sv4-26",
         "name": "Charcadet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -1752,6 +1778,7 @@ let sv4 = [
         "id": "sv4-27",
         "name": "Armarouge ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -1822,6 +1849,7 @@ let sv4 = [
         "id": "sv4-28",
         "name": "Iron Moth",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -1889,6 +1917,7 @@ let sv4 = [
         "id": "sv4-29",
         "name": "Chi-Yu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -1956,6 +1985,7 @@ let sv4 = [
         "id": "sv4-30",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -2018,6 +2048,7 @@ let sv4 = [
         "id": "sv4-31",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2082,6 +2113,7 @@ let sv4 = [
         "id": "sv4-32",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2152,6 +2184,7 @@ let sv4 = [
         "id": "sv4-33",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -2214,6 +2247,7 @@ let sv4 = [
         "id": "sv4-34",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2283,6 +2317,7 @@ let sv4 = [
         "id": "sv4-35",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -2345,6 +2380,7 @@ let sv4 = [
         "id": "sv4-36",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2414,6 +2450,7 @@ let sv4 = [
         "id": "sv4-37",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -2477,6 +2514,7 @@ let sv4 = [
         "id": "sv4-38",
         "name": "Garchomp ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -2547,6 +2585,7 @@ let sv4 = [
         "id": "sv4-39",
         "name": "Mantyke",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -2605,6 +2644,7 @@ let sv4 = [
         "id": "sv4-40",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -2677,6 +2717,7 @@ let sv4 = [
         "id": "sv4-41",
         "name": "Panpour",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -2750,6 +2791,7 @@ let sv4 = [
         "id": "sv4-42",
         "name": "Simipour",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2819,6 +2861,7 @@ let sv4 = [
         "id": "sv4-43",
         "name": "Vanillite",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -2882,6 +2925,7 @@ let sv4 = [
         "id": "sv4-44",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2947,6 +2991,7 @@ let sv4 = [
         "id": "sv4-45",
         "name": "Vanilluxe",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -3016,6 +3061,7 @@ let sv4 = [
         "id": "sv4-46",
         "name": "Tsareena ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -3091,6 +3137,7 @@ let sv4 = [
         "id": "sv4-47",
         "name": "Wimpod",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -3164,6 +3211,7 @@ let sv4 = [
         "id": "sv4-48",
         "name": "Wimpod",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -3238,6 +3286,7 @@ let sv4 = [
         "id": "sv4-49",
         "name": "Golisopod",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3310,6 +3359,7 @@ let sv4 = [
         "id": "sv4-50",
         "name": "Golisopod ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -3387,6 +3437,7 @@ let sv4 = [
         "id": "sv4-51",
         "name": "Wiglett",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -3444,6 +3495,7 @@ let sv4 = [
         "id": "sv4-52",
         "name": "Wiglett",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -3502,6 +3554,7 @@ let sv4 = [
         "id": "sv4-53",
         "name": "Wugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3569,6 +3622,7 @@ let sv4 = [
         "id": "sv4-54",
         "name": "Veluza",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -3636,6 +3690,7 @@ let sv4 = [
         "id": "sv4-55",
         "name": "Dondozo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -3709,6 +3764,7 @@ let sv4 = [
         "id": "sv4-56",
         "name": "Iron Bundle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -3775,6 +3831,7 @@ let sv4 = [
         "id": "sv4-57",
         "name": "Chien-Pao",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -3843,6 +3900,7 @@ let sv4 = [
         "id": "sv4-58",
         "name": "Mewtwo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -3917,6 +3975,7 @@ let sv4 = [
         "id": "sv4-59",
         "name": "Elekid",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -3975,6 +4034,7 @@ let sv4 = [
         "id": "sv4-60",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -4035,6 +4095,7 @@ let sv4 = [
         "id": "sv4-61",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -4101,6 +4162,7 @@ let sv4 = [
         "id": "sv4-62",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -4174,6 +4236,7 @@ let sv4 = [
         "id": "sv4-63",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4245,6 +4308,7 @@ let sv4 = [
         "id": "sv4-64",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -4307,6 +4371,7 @@ let sv4 = [
         "id": "sv4-65",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4367,6 +4432,7 @@ let sv4 = [
         "id": "sv4-66",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -4438,6 +4504,7 @@ let sv4 = [
         "id": "sv4-67",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -4507,6 +4574,7 @@ let sv4 = [
         "id": "sv4-68",
         "name": "Tapu Koko ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -4579,6 +4647,7 @@ let sv4 = [
         "id": "sv4-69",
         "name": "Toxel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -4643,6 +4712,7 @@ let sv4 = [
         "id": "sv4-70",
         "name": "Iron Hands ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -4720,6 +4790,7 @@ let sv4 = [
         "id": "sv4-71",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -4788,6 +4859,7 @@ let sv4 = [
         "id": "sv4-72",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4863,6 +4935,7 @@ let sv4 = [
         "id": "sv4-73",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -4939,6 +5012,7 @@ let sv4 = [
         "id": "sv4-74",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -5015,6 +5089,7 @@ let sv4 = [
         "id": "sv4-75",
         "name": "Yamask",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -5085,6 +5160,7 @@ let sv4 = [
         "id": "sv4-76",
         "name": "Cofagrigus ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -5163,6 +5239,7 @@ let sv4 = [
         "id": "sv4-77",
         "name": "Pumpkaboo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -5242,6 +5319,7 @@ let sv4 = [
         "id": "sv4-78",
         "name": "Gourgeist",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5318,6 +5396,7 @@ let sv4 = [
         "id": "sv4-79",
         "name": "Flittle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -5381,6 +5460,7 @@ let sv4 = [
         "id": "sv4-80",
         "name": "Flittle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -5445,6 +5525,7 @@ let sv4 = [
         "id": "sv4-81",
         "name": "Espathra",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5517,6 +5598,7 @@ let sv4 = [
         "id": "sv4-82",
         "name": "Tinkatink",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -5583,6 +5665,7 @@ let sv4 = [
         "id": "sv4-83",
         "name": "Tinkatink",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -5641,6 +5724,7 @@ let sv4 = [
         "id": "sv4-84",
         "name": "Tinkatuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5700,6 +5784,7 @@ let sv4 = [
         "id": "sv4-85",
         "name": "Tinkaton",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -5768,6 +5853,7 @@ let sv4 = [
         "id": "sv4-86",
         "name": "Scream Tail",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -5841,6 +5927,7 @@ let sv4 = [
         "id": "sv4-87",
         "name": "Gimmighoul",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -5914,6 +6001,7 @@ let sv4 = [
         "id": "sv4-88",
         "name": "Gimmighoul",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -5978,6 +6066,7 @@ let sv4 = [
         "id": "sv4-89",
         "name": "Iron Valiant ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -6048,6 +6137,7 @@ let sv4 = [
         "id": "sv4-90",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -6124,6 +6214,7 @@ let sv4 = [
         "id": "sv4-91",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -6186,6 +6277,7 @@ let sv4 = [
         "id": "sv4-92",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6258,6 +6350,7 @@ let sv4 = [
         "id": "sv4-93",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -6330,6 +6423,7 @@ let sv4 = [
         "id": "sv4-94",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -6392,6 +6486,7 @@ let sv4 = [
         "id": "sv4-95",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6455,6 +6550,7 @@ let sv4 = [
         "id": "sv4-96",
         "name": "Mienfoo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -6527,6 +6623,7 @@ let sv4 = [
         "id": "sv4-97",
         "name": "Mienshao",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6597,6 +6694,7 @@ let sv4 = [
         "id": "sv4-98",
         "name": "Hoopa ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -6673,6 +6771,7 @@ let sv4 = [
         "id": "sv4-99",
         "name": "Minior",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -6740,6 +6839,7 @@ let sv4 = [
         "id": "sv4-100",
         "name": "Toxtricity ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -6817,6 +6917,7 @@ let sv4 = [
         "id": "sv4-101",
         "name": "Nacli",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -6885,6 +6986,7 @@ let sv4 = [
         "id": "sv4-102",
         "name": "Nacli",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -6944,6 +7046,7 @@ let sv4 = [
         "id": "sv4-103",
         "name": "Naclstack",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7005,6 +7108,7 @@ let sv4 = [
         "id": "sv4-104",
         "name": "Garganacl",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -7075,6 +7179,7 @@ let sv4 = [
         "id": "sv4-105",
         "name": "Klawf",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -7145,6 +7250,7 @@ let sv4 = [
         "id": "sv4-106",
         "name": "Flamigo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -7218,6 +7324,7 @@ let sv4 = [
         "id": "sv4-107",
         "name": "Slither Wing",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -7287,6 +7394,7 @@ let sv4 = [
         "id": "sv4-108",
         "name": "Sandy Shocks ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -7357,6 +7465,7 @@ let sv4 = [
         "id": "sv4-109",
         "name": "Ting-Lu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -7428,6 +7537,7 @@ let sv4 = [
         "id": "sv4-110",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -7506,6 +7616,7 @@ let sv4 = [
         "id": "sv4-111",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7576,6 +7687,7 @@ let sv4 = [
         "id": "sv4-112",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -7650,6 +7762,7 @@ let sv4 = [
         "id": "sv4-113",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -7719,6 +7832,7 @@ let sv4 = [
         "id": "sv4-114",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -7791,6 +7905,7 @@ let sv4 = [
         "id": "sv4-115",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7861,6 +7976,7 @@ let sv4 = [
         "id": "sv4-116",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -7935,6 +8051,7 @@ let sv4 = [
         "id": "sv4-117",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8008,6 +8125,7 @@ let sv4 = [
         "id": "sv4-118",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -8086,6 +8204,7 @@ let sv4 = [
         "id": "sv4-119",
         "name": "Nickit",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -8148,6 +8267,7 @@ let sv4 = [
         "id": "sv4-120",
         "name": "Thievul",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8216,6 +8336,7 @@ let sv4 = [
         "id": "sv4-121",
         "name": "Morpeko",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -8283,6 +8404,7 @@ let sv4 = [
         "id": "sv4-122",
         "name": "Lokix",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8351,6 +8473,7 @@ let sv4 = [
         "id": "sv4-123",
         "name": "Brute Bonnet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -8419,6 +8542,7 @@ let sv4 = [
         "id": "sv4-124",
         "name": "Roaring Moon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -8493,6 +8617,7 @@ let sv4 = [
         "id": "sv4-125",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8575,6 +8700,7 @@ let sv4 = [
         "id": "sv4-126",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -8647,6 +8773,7 @@ let sv4 = [
         "id": "sv4-127",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -8717,6 +8844,7 @@ let sv4 = [
         "id": "sv4-128",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8793,6 +8921,7 @@ let sv4 = [
         "id": "sv4-129",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -8870,6 +8999,7 @@ let sv4 = [
         "id": "sv4-130",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -8938,6 +9068,7 @@ let sv4 = [
         "id": "sv4-131",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -9006,6 +9137,7 @@ let sv4 = [
         "id": "sv4-132",
         "name": "Doublade",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9086,6 +9218,7 @@ let sv4 = [
         "id": "sv4-133",
         "name": "Doublade",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9166,6 +9299,7 @@ let sv4 = [
         "id": "sv4-134",
         "name": "Aegislash",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -9242,6 +9376,7 @@ let sv4 = [
         "id": "sv4-135",
         "name": "Aegislash ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -9323,6 +9458,7 @@ let sv4 = [
         "id": "sv4-136",
         "name": "Zacian",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -9400,6 +9536,7 @@ let sv4 = [
         "id": "sv4-137",
         "name": "Skeledirge ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -9478,6 +9615,7 @@ let sv4 = [
         "id": "sv4-138",
         "name": "Orthworm",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -9554,6 +9692,7 @@ let sv4 = [
         "id": "sv4-139",
         "name": "Gholdengo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -9629,6 +9768,7 @@ let sv4 = [
         "id": "sv4-140",
         "name": "Altaria ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -9694,6 +9834,7 @@ let sv4 = [
         "id": "sv4-141",
         "name": "Tatsugiri",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -9755,6 +9896,7 @@ let sv4 = [
         "id": "sv4-142",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -9817,6 +9959,7 @@ let sv4 = [
         "id": "sv4-143",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -9880,6 +10023,7 @@ let sv4 = [
         "id": "sv4-144",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -9948,6 +10092,7 @@ let sv4 = [
         "id": "sv4-145",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -10020,6 +10165,7 @@ let sv4 = [
         "id": "sv4-146",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -10091,6 +10237,7 @@ let sv4 = [
         "id": "sv4-147",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -10152,6 +10299,7 @@ let sv4 = [
         "id": "sv4-148",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -10215,6 +10363,7 @@ let sv4 = [
         "id": "sv4-149",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -10289,6 +10438,7 @@ let sv4 = [
         "id": "sv4-150",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -10362,6 +10512,7 @@ let sv4 = [
         "id": "sv4-151",
         "name": "Spinda",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -10430,6 +10581,7 @@ let sv4 = [
         "id": "sv4-152",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -10508,6 +10660,7 @@ let sv4 = [
         "id": "sv4-153",
         "name": "Tandemaus",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -10561,6 +10714,7 @@ let sv4 = [
         "id": "sv4-154",
         "name": "Tandemaus",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -10619,6 +10773,7 @@ let sv4 = [
         "id": "sv4-155",
         "name": "Maushold ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -10684,6 +10839,7 @@ let sv4 = [
         "id": "sv4-156",
         "name": "Bombirdier ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -10761,6 +10917,7 @@ let sv4 = [
         "id": "sv4-157",
         "name": "Cyclizar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -10829,6 +10986,7 @@ let sv4 = [
         "id": "sv4-158",
         "name": "Iron Jugulis",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -10908,6 +11066,7 @@ let sv4 = [
         "id": "sv4-159",
         "name": "Ancient Booster Energy Capsule",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Special Conditions, and can't be affected by any Special Conditions.",
             "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -10940,6 +11099,7 @@ let sv4 = [
         "id": "sv4-160",
         "name": "Counter Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "You can use this card only if you have more Prize cards remaining than your opponent.  Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
             "You may play any number of Item cards during your turn."
@@ -10972,6 +11132,7 @@ let sv4 = [
         "id": "sv4-161",
         "name": "Cursed Duster",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent's Pokémon, discard a random card from your opponent's hand.",
             "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -11004,6 +11165,7 @@ let sv4 = [
         "id": "sv4-162",
         "name": "Defiance Vest",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "If you have more Prize cards remaining than your opponent, the Pokémon this card is attached to takes 40 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance).",
             "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -11036,6 +11198,7 @@ let sv4 = [
         "id": "sv4-163",
         "name": "Earthen Vessel",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "You can use this card only if you discard another card from your hand.  Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
             "You may play any number of Item cards during your turn."
@@ -11068,6 +11231,7 @@ let sv4 = [
         "id": "sv4-164",
         "name": "Future Booster Energy Capsule",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "The Future Pokémon this card is attached to has no Retreat Cost, and the attacks it uses do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
             "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -11100,6 +11264,7 @@ let sv4 = [
         "id": "sv4-165",
         "name": "Larry",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Flip a coin. If heads, search your deck for up to 2 Pokémon, reveal them, and put them into your hand. If tails, search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
             "You may play only 1 Supporter card during your turn."
@@ -11132,6 +11297,7 @@ let sv4 = [
         "id": "sv4-166",
         "name": "Luxurious Cape",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "If the Pokémon this card is attached to doesn't have a Rule Box, it gets +100 HP, and if it is Knocked Out by damage from an attack from your opponent's Pokémon, that player takes 1 more Prize card. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
             "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -11164,6 +11330,7 @@ let sv4 = [
         "id": "sv4-167",
         "name": "Mela",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "You can use this card only if any of your Pokémon were Knocked Out during your opponent's last turn.    Attach a Basic Fire Energy card from your discard pile to 1 of your Pokémon. If you do, draw cards until you have 6 cards in your hand.",
             "You may play only 1 Supporter card during your turn."
@@ -11196,6 +11363,7 @@ let sv4 = [
         "id": "sv4-168",
         "name": "Norman",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Draw 2 cards. If your opponent's Active Pokémon is a Pokémon ex, draw 2 more cards.",
             "You may play only 1 Supporter card during your turn."
@@ -11228,6 +11396,7 @@ let sv4 = [
         "id": "sv4-169",
         "name": "Parasol Lady",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Shuffle your hand into your deck. Then, draw 4 cards. If you go second and it's your first turn, draw 8 cards instead.",
             "You may play only 1 Supporter card during your turn."
@@ -11260,6 +11429,7 @@ let sv4 = [
         "id": "sv4-170",
         "name": "Professor Sada's Vitality",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Choose up to 2 of your Ancient Pokémon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
             "You may play only 1 Supporter card during your turn."
@@ -11292,6 +11462,7 @@ let sv4 = [
         "id": "sv4-171",
         "name": "Professor Turo's Scenario",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Put 1 of your Pokémon in play into your hand. (Discard all cards attached to that Pokémon.)",
             "You may play only 1 Supporter card during your turn."
@@ -11324,6 +11495,7 @@ let sv4 = [
         "id": "sv4-172",
         "name": "Rika",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards and put them on the bottom of your deck.",
             "You may play only 1 Supporter card during your turn."
@@ -11356,6 +11528,7 @@ let sv4 = [
         "id": "sv4-173",
         "name": "Roark",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Draw 2 cards. Put a Basic Energy card from your discard pile into your hand.",
             "You may play only 1 Supporter card during your turn."
@@ -11388,6 +11561,7 @@ let sv4 = [
         "id": "sv4-174",
         "name": "Shauntal",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot. If tails, switch your Active Pokémon with 1 of your Benched Pokémon.",
             "You may play only 1 Supporter card during your turn."
@@ -11420,6 +11594,7 @@ let sv4 = [
         "id": "sv4-175",
         "name": "Snorlax Doll",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "hp": "120",
         "rules": [
             "If this card is in your hand when you are setting up to play, you may put it face down in the Active Spot or on your Bench as if it were a 120-HP Basic Colorless Pokémon. (You can do this only when you are setting up to play.) At any time during your turn, you may discard this card from play.     This card can't be affected by any Special Conditions and can't retreat. If this card is Knocked Out, your opponent can't take any Prize cards for it.",
@@ -11453,6 +11628,7 @@ let sv4 = [
         "id": "sv4-176",
         "name": "Technical Machine: Blindside",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn.",
             "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -11498,6 +11674,7 @@ let sv4 = [
         "id": "sv4-177",
         "name": "Technical Machine: Devolution",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn.",
             "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -11541,6 +11718,7 @@ let sv4 = [
         "id": "sv4-178",
         "name": "Technical Machine: Evolution",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn.",
             "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -11584,6 +11762,7 @@ let sv4 = [
         "id": "sv4-179",
         "name": "Technical Machine: Turbo Energize",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn.",
             "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -11627,6 +11806,7 @@ let sv4 = [
         "id": "sv4-180",
         "name": "Techno Radar",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "You can use this card only if you discard another card from your hand.    Search your deck for up to 2 Future Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
             "You may play any number of Item cards during your turn."
@@ -11659,6 +11839,7 @@ let sv4 = [
         "id": "sv4-181",
         "name": "Tulip",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Put up to 4 in any combination of Psychic Pokémon and Basic Psychic Energy cards from your discard pile into your hand.",
             "You may play only 1 Supporter card during your turn."
@@ -11691,6 +11872,7 @@ let sv4 = [
         "id": "sv4-182",
         "name": "Medical Energy",
         "supertype": "Energy",
+        "setAbbrev": "PAR",
         "rules": [
             "As long as this card is attached to a Pokémon, it provides Colorless Energy.  When you attach this card from your hand to 1 of your Pokémon, heal 30 damage from that Pokémon."
         ],
@@ -11721,6 +11903,7 @@ let sv4 = [
         "id": "sv4-183",
         "name": "Crustle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -11795,6 +11978,7 @@ let sv4 = [
         "id": "sv4-184",
         "name": "Dottler",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -11869,6 +12053,7 @@ let sv4 = [
         "id": "sv4-185",
         "name": "Toedscruel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -11937,6 +12122,7 @@ let sv4 = [
         "id": "sv4-186",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -11995,6 +12181,7 @@ let sv4 = [
         "id": "sv4-187",
         "name": "Iron Moth",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12062,6 +12249,7 @@ let sv4 = [
         "id": "sv4-188",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12125,6 +12313,7 @@ let sv4 = [
         "id": "sv4-189",
         "name": "Mantyke",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12183,6 +12372,7 @@ let sv4 = [
         "id": "sv4-190",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -12248,6 +12438,7 @@ let sv4 = [
         "id": "sv4-191",
         "name": "Wimpod",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12322,6 +12513,7 @@ let sv4 = [
         "id": "sv4-192",
         "name": "Veluza",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12389,6 +12581,7 @@ let sv4 = [
         "id": "sv4-193",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12449,6 +12642,7 @@ let sv4 = [
         "id": "sv4-194",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12515,6 +12709,7 @@ let sv4 = [
         "id": "sv4-195",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12588,6 +12783,7 @@ let sv4 = [
         "id": "sv4-196",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12650,6 +12846,7 @@ let sv4 = [
         "id": "sv4-197",
         "name": "Espathra",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -12722,6 +12919,7 @@ let sv4 = [
         "id": "sv4-198",
         "name": "Gimmighoul",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12786,6 +12984,7 @@ let sv4 = [
         "id": "sv4-199",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12858,6 +13057,7 @@ let sv4 = [
         "id": "sv4-200",
         "name": "Mienshao",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -12928,6 +13128,7 @@ let sv4 = [
         "id": "sv4-201",
         "name": "Minior",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -12995,6 +13196,7 @@ let sv4 = [
         "id": "sv4-202",
         "name": "Garganacl",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -13065,6 +13267,7 @@ let sv4 = [
         "id": "sv4-203",
         "name": "Slither Wing",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -13134,6 +13337,7 @@ let sv4 = [
         "id": "sv4-204",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -13207,6 +13411,7 @@ let sv4 = [
         "id": "sv4-205",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -13285,6 +13490,7 @@ let sv4 = [
         "id": "sv4-206",
         "name": "Morpeko",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -13352,6 +13558,7 @@ let sv4 = [
         "id": "sv4-207",
         "name": "Brute Bonnet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -13420,6 +13627,7 @@ let sv4 = [
         "id": "sv4-208",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -13502,6 +13710,7 @@ let sv4 = [
         "id": "sv4-209",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -13578,6 +13787,7 @@ let sv4 = [
         "id": "sv4-210",
         "name": "Aegislash",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -13654,6 +13864,7 @@ let sv4 = [
         "id": "sv4-211",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -13726,6 +13937,7 @@ let sv4 = [
         "id": "sv4-212",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1"
         ],
@@ -13800,6 +14012,7 @@ let sv4 = [
         "id": "sv4-213",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -13878,6 +14091,7 @@ let sv4 = [
         "id": "sv4-214",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2"
         ],
@@ -13946,6 +14160,7 @@ let sv4 = [
         "id": "sv4-215",
         "name": "Cyclizar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -14014,6 +14229,7 @@ let sv4 = [
         "id": "sv4-216",
         "name": "Iron Jugulis",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic"
         ],
@@ -14093,6 +14309,7 @@ let sv4 = [
         "id": "sv4-217",
         "name": "Froslass ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14165,6 +14382,7 @@ let sv4 = [
         "id": "sv4-218",
         "name": "Armarouge ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14235,6 +14453,7 @@ let sv4 = [
         "id": "sv4-219",
         "name": "Garchomp ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -14305,6 +14524,7 @@ let sv4 = [
         "id": "sv4-220",
         "name": "Tsareena ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -14380,6 +14600,7 @@ let sv4 = [
         "id": "sv4-221",
         "name": "Golisopod ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14457,6 +14678,7 @@ let sv4 = [
         "id": "sv4-222",
         "name": "Tapu Koko ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -14529,6 +14751,7 @@ let sv4 = [
         "id": "sv4-223",
         "name": "Iron Hands ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -14606,6 +14829,7 @@ let sv4 = [
         "id": "sv4-224",
         "name": "Cofagrigus ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14684,6 +14908,7 @@ let sv4 = [
         "id": "sv4-225",
         "name": "Iron Valiant ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -14754,6 +14979,7 @@ let sv4 = [
         "id": "sv4-226",
         "name": "Hoopa ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -14830,6 +15056,7 @@ let sv4 = [
         "id": "sv4-227",
         "name": "Toxtricity ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14907,6 +15134,7 @@ let sv4 = [
         "id": "sv4-228",
         "name": "Sandy Shocks ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -14977,6 +15205,7 @@ let sv4 = [
         "id": "sv4-229",
         "name": "Roaring Moon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -15051,6 +15280,7 @@ let sv4 = [
         "id": "sv4-230",
         "name": "Aegislash ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -15132,6 +15362,7 @@ let sv4 = [
         "id": "sv4-231",
         "name": "Gholdengo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -15207,6 +15438,7 @@ let sv4 = [
         "id": "sv4-232",
         "name": "Altaria ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -15272,6 +15504,7 @@ let sv4 = [
         "id": "sv4-233",
         "name": "Maushold ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -15337,6 +15570,7 @@ let sv4 = [
         "id": "sv4-234",
         "name": "Bombirdier ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -15414,6 +15648,7 @@ let sv4 = [
         "id": "sv4-235",
         "name": "Larry",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Flip a coin. If heads, search your deck for up to 2 Pokémon, reveal them, and put them into your hand. If tails, search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
             "You may play only 1 Supporter card during your turn."
@@ -15446,6 +15681,7 @@ let sv4 = [
         "id": "sv4-236",
         "name": "Mela",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "You can use this card only if any of your Pokémon were Knocked Out during your opponent's last turn.    Attach a Basic Fire Energy card from your discard pile to 1 of your Pokémon. If you do, draw cards until you have 6 cards in your hand.",
             "You may play only 1 Supporter card during your turn."
@@ -15478,6 +15714,7 @@ let sv4 = [
         "id": "sv4-237",
         "name": "Norman",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Draw 2 cards. If your opponent's Active Pokémon is a Pokémon ex, draw 2 more cards.",
             "You may play only 1 Supporter card during your turn."
@@ -15510,6 +15747,7 @@ let sv4 = [
         "id": "sv4-238",
         "name": "Parasol Lady",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Shuffle your hand into your deck. Then, draw 4 cards. If you go second and it's your first turn, draw 8 cards instead.",
             "You may play only 1 Supporter card during your turn."
@@ -15542,6 +15780,7 @@ let sv4 = [
         "id": "sv4-239",
         "name": "Professor Sada's Vitality",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Choose up to 2 of your Ancient Pokémon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
             "You may play only 1 Supporter card during your turn."
@@ -15574,6 +15813,7 @@ let sv4 = [
         "id": "sv4-240",
         "name": "Professor Turo's Scenario",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Put 1 of your Pokémon in play into your hand. (Discard all cards attached to that Pokémon.)",
             "You may play only 1 Supporter card during your turn."
@@ -15606,6 +15846,7 @@ let sv4 = [
         "id": "sv4-241",
         "name": "Rika",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards and put them on the bottom of your deck.",
             "You may play only 1 Supporter card during your turn."
@@ -15638,6 +15879,7 @@ let sv4 = [
         "id": "sv4-242",
         "name": "Roark",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Draw 2 cards. Put a Basic Energy card from your discard pile into your hand.",
             "You may play only 1 Supporter card during your turn."
@@ -15670,6 +15912,7 @@ let sv4 = [
         "id": "sv4-243",
         "name": "Shauntal",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot. If tails, switch your Active Pokémon with 1 of your Benched Pokémon.",
             "You may play only 1 Supporter card during your turn."
@@ -15702,6 +15945,7 @@ let sv4 = [
         "id": "sv4-244",
         "name": "Tulip",
         "supertype": "Trainer",
+        "setAbbrev": "PAR",
         "rules": [
             "Put up to 4 in any combination of Psychic Pokémon and Basic Psychic Energy cards from your discard pile into your hand.",
             "You may play only 1 Supporter card during your turn."
@@ -15734,6 +15978,7 @@ let sv4 = [
         "id": "sv4-245",
         "name": "Garchomp ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -15804,6 +16049,7 @@ let sv4 = [
         "id": "sv4-246",
         "name": "Golisopod ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -15881,6 +16127,7 @@ let sv4 = [
         "id": "sv4-247",
         "name": "Tapu Koko ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -15953,6 +16200,7 @@ let sv4 = [
         "id": "sv4-248",
         "name": "Iron Hands ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -16030,6 +16278,7 @@ let sv4 = [
         "id": "sv4-249",
         "name": "Iron Valiant ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -16100,6 +16349,7 @@ let sv4 = [
         "id": "sv4-250",
         "name": "Sandy Shocks ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAR",
         "subtypes": [
             "Basic",
             "ex"
@@ -16170,6 +16420,7 @@ let sv4 = [
             "id": "sv4-251",
             "name": "Roaring Moon ex",
             "supertype": "Pokémon",
+            "setAbbrev": "PAR",
             "subtypes": [
                 "Basic",
                 "ex"
@@ -16248,6 +16499,7 @@ let sv4 = [
             "id": "sv4-252",
             "name": "Gholdengo ex",
             "supertype": "Pokémon",
+            "setAbbrev": "PAR",
             "subtypes": [
                 "Stage 1",
                 "ex"
@@ -16327,6 +16579,7 @@ let sv4 = [
             "id": "sv4-253",
             "name": "Altaria ex",
             "supertype": "Pokémon",
+            "setAbbrev": "PAR",
             "subtypes": [
                 "Stage 1",
                 "ex"
@@ -16397,6 +16650,7 @@ let sv4 = [
             "id": "sv4-254",
             "name": "Mela",
             "supertype": "Trainer",
+            "setAbbrev": "PAR",
             "rules": [
                 "You can use this card only if any of your Pokémon were Knocked Out during your opponent's last turn.    Attach a Basic Fire Energy card from your discard pile to 1 of your Pokémon. If you do, draw cards until you have 6 cards in your hand.",
                 "You may play only 1 Supporter card during your turn."
@@ -16433,6 +16687,7 @@ let sv4 = [
             "id": "sv4-255",
             "name": "Parasol Lady",
             "supertype": "Trainer",
+            "setAbbrev": "PAR",
             "rules": [
                 "Shuffle your hand into your deck. Then, draw 4 cards. If you go second and it's your first turn, draw 8 cards instead.",
                 "You may play only 1 Supporter card during your turn."
@@ -16469,6 +16724,7 @@ let sv4 = [
             "id": "sv4-256",
             "name": "Professor Sada's Vitality",
             "supertype": "Trainer",
+            "setAbbrev": "PAR",
             "rules": [
                 "Choose up to 2 of your Ancient Pokémon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
                 "You may play only 1 Supporter card during your turn."
@@ -16505,6 +16761,7 @@ let sv4 = [
             "id": "sv4-257",
             "name": "Professor Turo's Scenario",
             "supertype": "Trainer",
+            "setAbbrev": "PAR",
             "rules": [
                 "Put 1 of your Pokémon in play into your hand. (Discard all cards attached to that Pokémon.)",
                 "You may play only 1 Supporter card during your turn."
@@ -16541,6 +16798,7 @@ let sv4 = [
             "id": "sv4-258",
             "name": "Rika",
             "supertype": "Trainer",
+            "setAbbrev": "PAR",
             "rules": [
                 "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards and put them on the bottom of your deck.",
                 "You may play only 1 Supporter card during your turn."
@@ -16577,6 +16835,7 @@ let sv4 = [
             "id": "sv4-259",
             "name": "Tulip",
             "supertype": "Trainer",
+            "setAbbrev": "PAR",
             "rules": [
                 "Put up to 4 in any combination of Psychic Pokémon and Basic Psychic Energy cards from your discard pile into your hand.",
                 "You may play only 1 Supporter card during your turn."
@@ -16613,6 +16872,7 @@ let sv4 = [
             "id": "sv4-260",
             "name": "Garchomp ex",
             "supertype": "Pokémon",
+            "setAbbrev": "PAR",
             "subtypes": [
                 "Stage 2",
                 "ex"
@@ -16688,6 +16948,7 @@ let sv4 = [
             "id": "sv4-261",
             "name": "Iron Valiant ex",
             "supertype": "Pokémon",
+            "setAbbrev": "PAR",
             "subtypes": [
                 "Basic",
                 "ex"
@@ -16762,6 +17023,7 @@ let sv4 = [
             "id": "sv4-262",
             "name": "Roaring Moon ex",
             "supertype": "Pokémon",
+            "setAbbrev": "PAR",
             "subtypes": [
                 "Basic",
                 "ex"
@@ -16840,6 +17102,7 @@ let sv4 = [
             "id": "sv4-263",
             "name": "Beach Court",
             "supertype": "Trainer",
+            "setAbbrev": "PAR",
             "rules": [
                 "The Retreat Cost of each Basic Pokémon in play (both yours and your opponent's) is Colorless less.",
                 "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
@@ -16876,6 +17139,7 @@ let sv4 = [
             "id": "sv4-264",
             "name": "Counter Catcher",
             "supertype": "Trainer",
+            "setAbbrev": "PAR",
             "rules": [
                 "You can use this card only if you have more Prize cards remaining than your opponent.  Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
                 "You may play any number of Item cards during your turn."
@@ -16912,6 +17176,7 @@ let sv4 = [
             "id": "sv4-265",
             "name": "Luxurious Cape",
             "supertype": "Trainer",
+            "setAbbrev": "PAR",
             "rules": [
                 "If the Pokémon this card is attached to doesn't have a Rule Box, it gets +100 HP, and if it is Knocked Out by damage from an attack from your opponent's Pokémon, that player takes 1 more Prize card. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)",
                 "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
@@ -16948,6 +17213,7 @@ let sv4 = [
             "id": "sv4-266",
             "name": "Reversal Energy",
             "supertype": "Energy",
+            "setAbbrev": "PAR",
             "rules": [
                 "As long as this card is attached to a Pokémon, it provides Colorless Energy.    If you have more Prize cards remaining than your opponent, and if this card is attached to an Evolution Pokémon that doesn't have a Rule Box (Pokémon ex, Pokémon V, etc. have Rule Boxes), this card provides every type of Energy but provides only 3 Energy at a time."
             ],

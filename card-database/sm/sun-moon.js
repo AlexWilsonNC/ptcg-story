@@ -3,6 +3,7 @@ let sm1 = [
         "id": "sm1-1",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -72,6 +73,7 @@ let sm1 = [
         "id": "sm1-2",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -143,6 +145,7 @@ let sm1 = [
         "id": "sm1-3",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -211,6 +214,7 @@ let sm1 = [
         "id": "sm1-4",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -271,6 +275,7 @@ let sm1 = [
         "id": "sm1-5",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -340,6 +345,7 @@ let sm1 = [
         "id": "sm1-6",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -407,6 +413,7 @@ let sm1 = [
         "id": "sm1-7",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -466,6 +473,7 @@ let sm1 = [
         "id": "sm1-8",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -522,6 +530,7 @@ let sm1 = [
         "id": "sm1-9",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -591,6 +600,7 @@ let sm1 = [
         "id": "sm1-10",
         "name": "Dartrix",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -662,6 +672,7 @@ let sm1 = [
         "id": "sm1-11",
         "name": "Decidueye",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -730,6 +741,7 @@ let sm1 = [
         "id": "sm1-12",
         "name": "Decidueye-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -808,6 +820,7 @@ let sm1 = [
         "id": "sm1-13",
         "name": "Grubbin",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -868,6 +881,7 @@ let sm1 = [
         "id": "sm1-14",
         "name": "Fomantis",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -937,6 +951,7 @@ let sm1 = [
         "id": "sm1-15",
         "name": "Lurantis-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -1017,6 +1032,7 @@ let sm1 = [
         "id": "sm1-16",
         "name": "Morelull",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -1085,6 +1101,7 @@ let sm1 = [
         "id": "sm1-17",
         "name": "Shiinotic",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1150,6 +1167,7 @@ let sm1 = [
         "id": "sm1-18",
         "name": "Bounsweet",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -1218,6 +1236,7 @@ let sm1 = [
         "id": "sm1-19",
         "name": "Steenee",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1288,6 +1307,7 @@ let sm1 = [
         "id": "sm1-20",
         "name": "Tsareena",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1354,6 +1374,7 @@ let sm1 = [
         "id": "sm1-21",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -1415,6 +1436,7 @@ let sm1 = [
         "id": "sm1-22",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1486,6 +1508,7 @@ let sm1 = [
         "id": "sm1-23",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -1552,6 +1575,7 @@ let sm1 = [
         "id": "sm1-24",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -1621,6 +1645,7 @@ let sm1 = [
         "id": "sm1-25",
         "name": "Torracat",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1692,6 +1717,7 @@ let sm1 = [
         "id": "sm1-26",
         "name": "Incineroar",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1761,6 +1787,7 @@ let sm1 = [
         "id": "sm1-27",
         "name": "Incineroar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1843,6 +1870,7 @@ let sm1 = [
         "id": "sm1-28",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -1902,6 +1930,7 @@ let sm1 = [
         "id": "sm1-29",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1967,6 +1996,7 @@ let sm1 = [
         "id": "sm1-30",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -2037,6 +2067,7 @@ let sm1 = [
         "id": "sm1-31",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2110,6 +2141,7 @@ let sm1 = [
         "id": "sm1-32",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -2178,6 +2210,7 @@ let sm1 = [
         "id": "sm1-33",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -2237,6 +2270,7 @@ let sm1 = [
         "id": "sm1-34",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2306,6 +2340,7 @@ let sm1 = [
         "id": "sm1-35",
         "name": "Lapras-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic",
             "GX"
@@ -2387,6 +2422,7 @@ let sm1 = [
         "id": "sm1-36",
         "name": "Corsola",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -2457,6 +2493,7 @@ let sm1 = [
         "id": "sm1-37",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -2522,6 +2559,7 @@ let sm1 = [
         "id": "sm1-38",
         "name": "Pelipper",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2597,6 +2635,7 @@ let sm1 = [
         "id": "sm1-39",
         "name": "Popplio",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -2666,6 +2705,7 @@ let sm1 = [
         "id": "sm1-40",
         "name": "Brionne",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2738,6 +2778,7 @@ let sm1 = [
         "id": "sm1-41",
         "name": "Primarina",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -2807,6 +2848,7 @@ let sm1 = [
         "id": "sm1-42",
         "name": "Primarina-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -2890,6 +2932,7 @@ let sm1 = [
         "id": "sm1-43",
         "name": "Crabominable",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2961,6 +3004,7 @@ let sm1 = [
         "id": "sm1-44",
         "name": "Wishiwashi",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -3024,6 +3068,7 @@ let sm1 = [
         "id": "sm1-45",
         "name": "Dewpider",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -3083,6 +3128,7 @@ let sm1 = [
         "id": "sm1-46",
         "name": "Araquanid",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3149,6 +3195,7 @@ let sm1 = [
         "id": "sm1-47",
         "name": "Pyukumuku",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -3212,6 +3259,7 @@ let sm1 = [
         "id": "sm1-48",
         "name": "Bruxish",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -3279,6 +3327,7 @@ let sm1 = [
         "id": "sm1-49",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -3355,6 +3404,7 @@ let sm1 = [
         "id": "sm1-50",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3429,6 +3479,7 @@ let sm1 = [
         "id": "sm1-51",
         "name": "Charjabug",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3507,6 +3558,7 @@ let sm1 = [
         "id": "sm1-52",
         "name": "Vikavolt",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -3580,6 +3632,7 @@ let sm1 = [
         "id": "sm1-53",
         "name": "Togedemaru",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -3651,6 +3704,7 @@ let sm1 = [
         "id": "sm1-54",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -3716,6 +3770,7 @@ let sm1 = [
         "id": "sm1-55",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3791,6 +3846,7 @@ let sm1 = [
         "id": "sm1-56",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -3864,6 +3920,7 @@ let sm1 = [
         "id": "sm1-57",
         "name": "Alolan Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -3932,6 +3989,7 @@ let sm1 = [
         "id": "sm1-58",
         "name": "Alolan Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3999,6 +4057,7 @@ let sm1 = [
         "id": "sm1-59",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -4068,6 +4127,7 @@ let sm1 = [
         "id": "sm1-60",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4137,6 +4197,7 @@ let sm1 = [
         "id": "sm1-61",
         "name": "Espeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -4219,6 +4280,7 @@ let sm1 = [
         "id": "sm1-62",
         "name": "Mareanie",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -4278,6 +4340,7 @@ let sm1 = [
         "id": "sm1-63",
         "name": "Toxapex",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4344,6 +4407,7 @@ let sm1 = [
         "id": "sm1-64",
         "name": "Cosmog",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -4403,6 +4467,7 @@ let sm1 = [
         "id": "sm1-65",
         "name": "Cosmoem",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4464,6 +4529,7 @@ let sm1 = [
         "id": "sm1-66",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -4551,6 +4617,7 @@ let sm1 = [
         "id": "sm1-67",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -4620,6 +4687,7 @@ let sm1 = [
         "id": "sm1-68",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4691,6 +4759,7 @@ let sm1 = [
         "id": "sm1-69",
         "name": "Roggenrola",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -4751,6 +4820,7 @@ let sm1 = [
         "id": "sm1-70",
         "name": "Boldore",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4823,6 +4893,7 @@ let sm1 = [
         "id": "sm1-71",
         "name": "Gigalith",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -4893,6 +4964,7 @@ let sm1 = [
         "id": "sm1-72",
         "name": "Crabrawler",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -4964,6 +5036,7 @@ let sm1 = [
         "id": "sm1-73",
         "name": "Passimian",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -5030,6 +5103,7 @@ let sm1 = [
         "id": "sm1-74",
         "name": "Sandygast",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -5100,6 +5174,7 @@ let sm1 = [
         "id": "sm1-75",
         "name": "Palossand",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5167,6 +5242,7 @@ let sm1 = [
         "id": "sm1-76",
         "name": "Alolan Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -5229,6 +5305,7 @@ let sm1 = [
         "id": "sm1-77",
         "name": "Alolan Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5304,6 +5381,7 @@ let sm1 = [
         "id": "sm1-78",
         "name": "Alolan Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -5367,6 +5445,7 @@ let sm1 = [
         "id": "sm1-79",
         "name": "Alolan Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5437,6 +5516,7 @@ let sm1 = [
         "id": "sm1-80",
         "name": "Umbreon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5524,6 +5604,7 @@ let sm1 = [
         "id": "sm1-81",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -5599,6 +5680,7 @@ let sm1 = [
         "id": "sm1-82",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5670,6 +5752,7 @@ let sm1 = [
         "id": "sm1-83",
         "name": "Sandile",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -5747,6 +5830,7 @@ let sm1 = [
         "id": "sm1-84",
         "name": "Krokorok",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5825,6 +5909,7 @@ let sm1 = [
         "id": "sm1-85",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -5900,6 +5985,7 @@ let sm1 = [
         "id": "sm1-86",
         "name": "Alolan Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -5972,6 +6058,7 @@ let sm1 = [
         "id": "sm1-87",
         "name": "Alolan Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6044,6 +6131,7 @@ let sm1 = [
         "id": "sm1-88",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -6118,6 +6206,7 @@ let sm1 = [
         "id": "sm1-89",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -6202,6 +6291,7 @@ let sm1 = [
         "id": "sm1-90",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -6267,6 +6357,7 @@ let sm1 = [
         "id": "sm1-91",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6341,6 +6432,7 @@ let sm1 = [
         "id": "sm1-92",
         "name": "Cutiefly",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -6406,6 +6498,7 @@ let sm1 = [
         "id": "sm1-93",
         "name": "Ribombee",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6476,6 +6569,7 @@ let sm1 = [
         "id": "sm1-94",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -6544,6 +6638,7 @@ let sm1 = [
         "id": "sm1-95",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6615,6 +6710,7 @@ let sm1 = [
         "id": "sm1-96",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -6686,6 +6782,7 @@ let sm1 = [
         "id": "sm1-97",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -6751,6 +6848,7 @@ let sm1 = [
         "id": "sm1-98",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6823,6 +6921,7 @@ let sm1 = [
         "id": "sm1-99",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -6891,6 +6990,7 @@ let sm1 = [
         "id": "sm1-100",
         "name": "Tauros-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic",
             "GX"
@@ -6971,6 +7071,7 @@ let sm1 = [
         "id": "sm1-101",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -7044,6 +7145,7 @@ let sm1 = [
         "id": "sm1-101a",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -7117,6 +7219,7 @@ let sm1 = [
         "id": "sm1-102",
         "name": "Spinda",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -7173,6 +7276,7 @@ let sm1 = [
         "id": "sm1-103",
         "name": "Lillipup",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -7242,6 +7346,7 @@ let sm1 = [
         "id": "sm1-104",
         "name": "Herdier",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7311,6 +7416,7 @@ let sm1 = [
         "id": "sm1-105",
         "name": "Stoutland",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -7382,6 +7488,7 @@ let sm1 = [
         "id": "sm1-106",
         "name": "Pikipek",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -7447,6 +7554,7 @@ let sm1 = [
         "id": "sm1-107",
         "name": "Trumbeak",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7513,6 +7621,7 @@ let sm1 = [
         "id": "sm1-108",
         "name": "Toucannon",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2"
         ],
@@ -7588,6 +7697,7 @@ let sm1 = [
         "id": "sm1-109",
         "name": "Yungoos",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -7657,6 +7767,7 @@ let sm1 = [
         "id": "sm1-110",
         "name": "Gumshoos-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7735,6 +7846,7 @@ let sm1 = [
         "id": "sm1-111",
         "name": "Stufful",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -7795,6 +7907,7 @@ let sm1 = [
         "id": "sm1-112",
         "name": "Bewear",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7864,6 +7977,7 @@ let sm1 = [
         "id": "sm1-113",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -7929,6 +8043,7 @@ let sm1 = [
         "id": "sm1-114",
         "name": "Big Malasada",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -7963,6 +8078,7 @@ let sm1 = [
         "id": "sm1-115",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -7997,6 +8113,7 @@ let sm1 = [
         "id": "sm1-116",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8031,6 +8148,7 @@ let sm1 = [
         "id": "sm1-117",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8065,6 +8183,7 @@ let sm1 = [
         "id": "sm1-118",
         "name": "Exp. Share",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8100,6 +8219,7 @@ let sm1 = [
         "id": "sm1-119",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8134,6 +8254,7 @@ let sm1 = [
         "id": "sm1-120",
         "name": "Hau",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Supporter"
         ],
@@ -8168,6 +8289,7 @@ let sm1 = [
         "id": "sm1-121",
         "name": "Ilima",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Supporter"
         ],
@@ -8202,6 +8324,7 @@ let sm1 = [
         "id": "sm1-122",
         "name": "Lillie",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Supporter"
         ],
@@ -8236,6 +8359,7 @@ let sm1 = [
         "id": "sm1-123",
         "name": "Nest Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8270,6 +8394,7 @@ let sm1 = [
         "id": "sm1-124",
         "name": "Poison Barb",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8305,6 +8430,7 @@ let sm1 = [
         "id": "sm1-125",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8339,6 +8465,7 @@ let sm1 = [
         "id": "sm1-126",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8373,6 +8500,7 @@ let sm1 = [
         "id": "sm1-127",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8407,6 +8535,7 @@ let sm1 = [
         "id": "sm1-128",
         "name": "Professor Kukui",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Supporter"
         ],
@@ -8441,6 +8570,7 @@ let sm1 = [
         "id": "sm1-129",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8475,6 +8605,7 @@ let sm1 = [
         "id": "sm1-130",
         "name": "Repel",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8509,6 +8640,7 @@ let sm1 = [
         "id": "sm1-131",
         "name": "Rotom Dex",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8543,6 +8675,7 @@ let sm1 = [
         "id": "sm1-132",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8577,6 +8710,7 @@ let sm1 = [
         "id": "sm1-133",
         "name": "Team Skull Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Supporter"
         ],
@@ -8611,6 +8745,7 @@ let sm1 = [
         "id": "sm1-134",
         "name": "Timer Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8645,6 +8780,7 @@ let sm1 = [
         "id": "sm1-135",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -8679,6 +8815,7 @@ let sm1 = [
         "id": "sm1-136",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Special"
         ],
@@ -8711,6 +8848,7 @@ let sm1 = [
         "id": "sm1-137",
         "name": "Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Special"
         ],
@@ -8743,6 +8881,7 @@ let sm1 = [
         "id": "sm1-138",
         "name": "Lurantis-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8823,6 +8962,7 @@ let sm1 = [
         "id": "sm1-139",
         "name": "Lapras-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic",
             "GX"
@@ -8904,6 +9044,7 @@ let sm1 = [
         "id": "sm1-140",
         "name": "Espeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8986,6 +9127,7 @@ let sm1 = [
         "id": "sm1-141",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9073,6 +9215,7 @@ let sm1 = [
         "id": "sm1-142",
         "name": "Umbreon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9160,6 +9303,7 @@ let sm1 = [
         "id": "sm1-143",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9244,6 +9388,7 @@ let sm1 = [
         "id": "sm1-144",
         "name": "Tauros-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic",
             "GX"
@@ -9324,6 +9469,7 @@ let sm1 = [
         "id": "sm1-145",
         "name": "Gumshoos-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9402,6 +9548,7 @@ let sm1 = [
         "id": "sm1-146",
         "name": "Ilima",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Supporter"
         ],
@@ -9436,6 +9583,7 @@ let sm1 = [
         "id": "sm1-147",
         "name": "Lillie",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Supporter"
         ],
@@ -9470,6 +9618,7 @@ let sm1 = [
         "id": "sm1-148",
         "name": "Professor Kukui",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Supporter"
         ],
@@ -9504,6 +9653,7 @@ let sm1 = [
         "id": "sm1-149",
         "name": "Team Skull Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Supporter"
         ],
@@ -9538,6 +9688,7 @@ let sm1 = [
         "id": "sm1-150",
         "name": "Lurantis-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9618,6 +9769,7 @@ let sm1 = [
         "id": "sm1-151",
         "name": "Lapras-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic",
             "GX"
@@ -9699,6 +9851,7 @@ let sm1 = [
         "id": "sm1-152",
         "name": "Espeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9781,6 +9934,7 @@ let sm1 = [
         "id": "sm1-153",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9868,6 +10022,7 @@ let sm1 = [
         "id": "sm1-154",
         "name": "Umbreon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9955,6 +10110,7 @@ let sm1 = [
         "id": "sm1-155",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10039,6 +10195,7 @@ let sm1 = [
         "id": "sm1-156",
         "name": "Tauros-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic",
             "GX"
@@ -10119,6 +10276,7 @@ let sm1 = [
         "id": "sm1-157",
         "name": "Gumshoos-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10197,6 +10355,7 @@ let sm1 = [
         "id": "sm1-158",
         "name": "Nest Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -10231,6 +10390,7 @@ let sm1 = [
         "id": "sm1-159",
         "name": "Rotom Dex",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -10265,6 +10425,7 @@ let sm1 = [
         "id": "sm1-160",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -10299,6 +10460,7 @@ let sm1 = [
         "id": "sm1-161",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Item"
         ],
@@ -10333,6 +10495,7 @@ let sm1 = [
         "id": "sm1-162",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -10362,6 +10525,7 @@ let sm1 = [
         "id": "sm1-163",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -10390,6 +10554,7 @@ let sm1 = [
     {
         "id": "sm1-grass",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -10401,6 +10566,7 @@ let sm1 = [
     {
         "id": "sm1-fire",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -10412,6 +10578,7 @@ let sm1 = [
     {
         "id": "sm1-water",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -10423,6 +10590,7 @@ let sm1 = [
     {
         "id": "sm1-lightning",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -10434,6 +10602,7 @@ let sm1 = [
     {
         "id": "sm1-fighting",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -10445,6 +10614,7 @@ let sm1 = [
     {
         "id": "sm1-psychic",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -10456,6 +10626,7 @@ let sm1 = [
     {
         "id": "sm1-dark",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -10467,6 +10638,7 @@ let sm1 = [
     {
         "id": "sm1-metal",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],
@@ -10478,6 +10650,7 @@ let sm1 = [
     {
         "id": "sm1-fairy",
         "supertype": "Energy",
+        "setAbbrev": "SUM",
         "subtypes": [
             "Basic"
         ],

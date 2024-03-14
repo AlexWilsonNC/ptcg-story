@@ -3,6 +3,7 @@ let si1 = [
         "id": "si1-1",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -56,6 +57,7 @@ let si1 = [
         "id": "si1-2",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 2"
         ],
@@ -129,6 +131,7 @@ let si1 = [
         "id": "si1-3",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -199,6 +202,7 @@ let si1 = [
         "id": "si1-4",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -256,6 +260,7 @@ let si1 = [
         "id": "si1-5",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -324,6 +329,7 @@ let si1 = [
         "id": "si1-6",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -385,6 +391,7 @@ let si1 = [
         "id": "si1-7",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -458,6 +465,7 @@ let si1 = [
         "id": "si1-8",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -530,6 +538,7 @@ let si1 = [
         "id": "si1-9",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 2"
         ],
@@ -604,6 +613,7 @@ let si1 = [
         "id": "si1-10",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -669,6 +679,7 @@ let si1 = [
         "id": "si1-11",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -736,6 +747,7 @@ let si1 = [
         "id": "si1-12",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -800,6 +812,7 @@ let si1 = [
         "id": "si1-13",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -855,6 +868,7 @@ let si1 = [
         "id": "si1-14",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -920,6 +934,7 @@ let si1 = [
         "id": "si1-15",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],
@@ -979,6 +994,7 @@ let si1 = [
         "id": "si1-16",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Basic"
         ],
@@ -1052,6 +1068,7 @@ let si1 = [
         "id": "si1-17",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 2"
         ],
@@ -1118,6 +1135,7 @@ let si1 = [
         "id": "si1-18",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "SI",
         "subtypes": [
             "Stage 1"
         ],

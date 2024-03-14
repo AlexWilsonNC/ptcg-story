@@ -3,6 +3,7 @@ let swsh9 = [
         "id": "swsh9-1",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -72,6 +73,7 @@ let swsh9 = [
         "id": "swsh9-2",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -143,6 +145,7 @@ let swsh9 = [
         "id": "swsh9-3",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -202,6 +205,7 @@ let swsh9 = [
         "id": "swsh9-4",
         "name": "Breloom",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -268,6 +272,7 @@ let swsh9 = [
         "id": "swsh9-5",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -333,6 +338,7 @@ let swsh9 = [
         "id": "swsh9-6",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -402,6 +408,7 @@ let swsh9 = [
         "id": "swsh9-7",
         "name": "Grotle",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -471,6 +478,7 @@ let swsh9 = [
         "id": "swsh9-8",
         "name": "Torterra",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -541,6 +549,7 @@ let swsh9 = [
         "id": "swsh9-9",
         "name": "Burmy",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -602,6 +611,7 @@ let swsh9 = [
         "id": "swsh9-10",
         "name": "Wormadam",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -671,6 +681,7 @@ let swsh9 = [
         "id": "swsh9-11",
         "name": "Mothim",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -745,6 +756,7 @@ let swsh9 = [
         "id": "swsh9-12",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -812,6 +824,7 @@ let swsh9 = [
         "id": "swsh9-13",
         "name": "Shaymin V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -881,6 +894,7 @@ let swsh9 = [
         "id": "swsh9-14",
         "name": "Shaymin VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VSTAR"
         ],
@@ -948,6 +962,7 @@ let swsh9 = [
         "id": "swsh9-15",
         "name": "Karrablast",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -1007,6 +1022,7 @@ let swsh9 = [
         "id": "swsh9-16",
         "name": "Zarude V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -1077,6 +1093,7 @@ let swsh9 = [
         "id": "swsh9-17",
         "name": "Charizard V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -1150,6 +1167,7 @@ let swsh9 = [
         "id": "swsh9-18",
         "name": "Charizard VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VSTAR"
         ],
@@ -1223,6 +1241,7 @@ let swsh9 = [
         "id": "swsh9-19",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -1294,6 +1313,7 @@ let swsh9 = [
         "id": "swsh9-20",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1363,6 +1383,7 @@ let swsh9 = [
         "id": "swsh9-21",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -1419,6 +1440,7 @@ let swsh9 = [
         "id": "swsh9-22",
         "name": "Entei V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -1486,6 +1508,7 @@ let swsh9 = [
         "id": "swsh9-23",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -1554,6 +1577,7 @@ let swsh9 = [
         "id": "swsh9-24",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -1613,6 +1637,7 @@ let swsh9 = [
         "id": "swsh9-25",
         "name": "Monferno",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1683,6 +1708,7 @@ let swsh9 = [
         "id": "swsh9-26",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1750,6 +1776,7 @@ let swsh9 = [
         "id": "swsh9-27",
         "name": "Simisear V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -1820,6 +1847,7 @@ let swsh9 = [
         "id": "swsh9-28",
         "name": "Kingler V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -1890,6 +1918,7 @@ let swsh9 = [
         "id": "swsh9-29",
         "name": "Kingler VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VMAX"
         ],
@@ -1960,6 +1989,7 @@ let swsh9 = [
         "id": "swsh9-30",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -2019,6 +2049,7 @@ let swsh9 = [
         "id": "swsh9-31",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -2077,6 +2108,7 @@ let swsh9 = [
         "id": "swsh9-32",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -2147,6 +2179,7 @@ let swsh9 = [
         "id": "swsh9-33",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2215,6 +2248,7 @@ let swsh9 = [
         "id": "swsh9-34",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -2285,6 +2319,7 @@ let swsh9 = [
         "id": "swsh9-35",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -2344,6 +2379,7 @@ let swsh9 = [
         "id": "swsh9-36",
         "name": "Prinplup",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2404,6 +2440,7 @@ let swsh9 = [
         "id": "swsh9-37",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2468,6 +2505,7 @@ let swsh9 = [
         "id": "swsh9-38",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -2528,6 +2566,7 @@ let swsh9 = [
         "id": "swsh9-39",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2595,6 +2634,7 @@ let swsh9 = [
         "id": "swsh9-40",
         "name": "Lumineon V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -2663,6 +2703,7 @@ let swsh9 = [
         "id": "swsh9-41",
         "name": "Manaphy",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -2726,6 +2767,7 @@ let swsh9 = [
         "id": "swsh9-42",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -2785,6 +2827,7 @@ let swsh9 = [
         "id": "swsh9-43",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2854,6 +2897,7 @@ let swsh9 = [
         "id": "swsh9-44",
         "name": "Eiscue",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "Fusion Strike"
@@ -2923,6 +2967,7 @@ let swsh9 = [
         "id": "swsh9-45",
         "name": "Raichu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -2992,6 +3037,7 @@ let swsh9 = [
         "id": "swsh9-46",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -3061,6 +3107,7 @@ let swsh9 = [
         "id": "swsh9-47",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3129,6 +3176,7 @@ let swsh9 = [
         "id": "swsh9-48",
         "name": "Raikou V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -3196,6 +3244,7 @@ let swsh9 = [
         "id": "swsh9-49",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -3254,6 +3303,7 @@ let swsh9 = [
         "id": "swsh9-50",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3314,6 +3364,7 @@ let swsh9 = [
         "id": "swsh9-51",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3380,6 +3431,7 @@ let swsh9 = [
         "id": "swsh9-52",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -3437,6 +3489,7 @@ let swsh9 = [
         "id": "swsh9-53",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -3506,6 +3559,7 @@ let swsh9 = [
         "id": "swsh9-54",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3574,6 +3628,7 @@ let swsh9 = [
         "id": "swsh9-55",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3645,6 +3700,7 @@ let swsh9 = [
         "id": "swsh9-56",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -3718,6 +3774,7 @@ let swsh9 = [
         "id": "swsh9-57",
         "name": "Granbull V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -3789,6 +3846,7 @@ let swsh9 = [
         "id": "swsh9-58",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -3855,6 +3913,7 @@ let swsh9 = [
         "id": "swsh9-59",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3930,6 +3989,7 @@ let swsh9 = [
         "id": "swsh9-60",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -3995,6 +4055,7 @@ let swsh9 = [
         "id": "swsh9-61",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4061,6 +4122,7 @@ let swsh9 = [
         "id": "swsh9-62",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -4133,6 +4195,7 @@ let swsh9 = [
         "id": "swsh9-63",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -4205,6 +4268,7 @@ let swsh9 = [
         "id": "swsh9-64",
         "name": "Whimsicott V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -4275,6 +4339,7 @@ let swsh9 = [
         "id": "swsh9-65",
         "name": "Whimsicott VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VSTAR"
         ],
@@ -4345,6 +4410,7 @@ let swsh9 = [
         "id": "swsh9-66",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -4417,6 +4483,7 @@ let swsh9 = [
         "id": "swsh9-67",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -4473,6 +4540,7 @@ let swsh9 = [
         "id": "swsh9-68",
         "name": "Mimikyu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -4545,6 +4613,7 @@ let swsh9 = [
         "id": "swsh9-69",
         "name": "Mimikyu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VMAX"
         ],
@@ -4621,6 +4690,7 @@ let swsh9 = [
         "id": "swsh9-70",
         "name": "Milcery",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -4689,6 +4759,7 @@ let swsh9 = [
         "id": "swsh9-71",
         "name": "Alcremie",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4754,6 +4825,7 @@ let swsh9 = [
         "id": "swsh9-72",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -4821,6 +4893,7 @@ let swsh9 = [
         "id": "swsh9-73",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -4880,6 +4953,7 @@ let swsh9 = [
         "id": "swsh9-74",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -4939,6 +5013,7 @@ let swsh9 = [
         "id": "swsh9-75",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4999,6 +5074,7 @@ let swsh9 = [
         "id": "swsh9-76",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -5066,6 +5142,7 @@ let swsh9 = [
         "id": "swsh9-77",
         "name": "Wormadam",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5135,6 +5212,7 @@ let swsh9 = [
         "id": "swsh9-78",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -5195,6 +5273,7 @@ let swsh9 = [
         "id": "swsh9-79",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5260,6 +5339,7 @@ let swsh9 = [
         "id": "swsh9-80",
         "name": "Throh",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -5328,6 +5408,7 @@ let swsh9 = [
         "id": "swsh9-81",
         "name": "Sawk",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -5384,6 +5465,7 @@ let swsh9 = [
         "id": "swsh9-82",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -5453,6 +5535,7 @@ let swsh9 = [
         "id": "swsh9-83",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5522,6 +5605,7 @@ let swsh9 = [
         "id": "swsh9-84",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -5581,6 +5665,7 @@ let swsh9 = [
         "id": "swsh9-85",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5647,6 +5732,7 @@ let swsh9 = [
         "id": "swsh9-86",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -5716,6 +5802,7 @@ let swsh9 = [
         "id": "swsh9-87",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5784,6 +5871,7 @@ let swsh9 = [
         "id": "swsh9-88",
         "name": "Honchkrow V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -5858,6 +5946,7 @@ let swsh9 = [
         "id": "swsh9-89",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -5923,6 +6012,7 @@ let swsh9 = [
         "id": "swsh9-90",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -5983,6 +6073,7 @@ let swsh9 = [
         "id": "swsh9-91",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6048,6 +6139,7 @@ let swsh9 = [
         "id": "swsh9-92",
         "name": "Impidimp",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -6117,6 +6209,7 @@ let swsh9 = [
         "id": "swsh9-93",
         "name": "Morgrem",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6187,6 +6280,7 @@ let swsh9 = [
         "id": "swsh9-94",
         "name": "Grimmsnarl",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -6254,6 +6348,7 @@ let swsh9 = [
         "id": "swsh9-95",
         "name": "Morpeko V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -6325,6 +6420,7 @@ let swsh9 = [
         "id": "swsh9-96",
         "name": "Aggron V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -6405,6 +6501,7 @@ let swsh9 = [
         "id": "swsh9-97",
         "name": "Aggron VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VMAX"
         ],
@@ -6485,6 +6582,7 @@ let swsh9 = [
         "id": "swsh9-98",
         "name": "Wormadam",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6560,6 +6658,7 @@ let swsh9 = [
         "id": "swsh9-99",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6635,6 +6734,7 @@ let swsh9 = [
         "id": "swsh9-100",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -6709,6 +6809,7 @@ let swsh9 = [
         "id": "swsh9-101",
         "name": "Escavalier",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6781,6 +6882,7 @@ let swsh9 = [
         "id": "swsh9-102",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -6856,6 +6958,7 @@ let swsh9 = [
         "id": "swsh9-103",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6933,6 +7036,7 @@ let swsh9 = [
         "id": "swsh9-104",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -7005,6 +7109,7 @@ let swsh9 = [
         "id": "swsh9-105",
         "name": "Zamazenta V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -7079,6 +7184,7 @@ let swsh9 = [
         "id": "swsh9-106",
         "name": "Flygon V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -7145,6 +7251,7 @@ let swsh9 = [
         "id": "swsh9-107",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -7199,6 +7306,7 @@ let swsh9 = [
         "id": "swsh9-108",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7254,6 +7362,7 @@ let swsh9 = [
         "id": "swsh9-109",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -7313,6 +7422,7 @@ let swsh9 = [
         "id": "swsh9-110",
         "name": "Axew",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -7366,6 +7476,7 @@ let swsh9 = [
         "id": "swsh9-111",
         "name": "Fraxure",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7430,6 +7541,7 @@ let swsh9 = [
         "id": "swsh9-112",
         "name": "Haxorus",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -7490,6 +7602,7 @@ let swsh9 = [
         "id": "swsh9-113",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -7552,6 +7665,7 @@ let swsh9 = [
         "id": "swsh9-114",
         "name": "Dracovish V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -7617,6 +7731,7 @@ let swsh9 = [
         "id": "swsh9-115",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -7683,6 +7798,7 @@ let swsh9 = [
         "id": "swsh9-116",
         "name": "Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -7748,6 +7864,7 @@ let swsh9 = [
         "id": "swsh9-117",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -7813,6 +7930,7 @@ let swsh9 = [
         "id": "swsh9-118",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7880,6 +7998,7 @@ let swsh9 = [
         "id": "swsh9-119",
         "name": "Staraptor",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -7957,6 +8076,7 @@ let swsh9 = [
         "id": "swsh9-120",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -8017,6 +8137,7 @@ let swsh9 = [
         "id": "swsh9-121",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -8083,6 +8204,7 @@ let swsh9 = [
         "id": "swsh9-122",
         "name": "Arceus V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -8154,6 +8276,7 @@ let swsh9 = [
         "id": "swsh9-123",
         "name": "Arceus VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VSTAR"
         ],
@@ -8222,6 +8345,7 @@ let swsh9 = [
         "id": "swsh9-124",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -8290,6 +8414,7 @@ let swsh9 = [
         "id": "swsh9-125",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -8357,6 +8482,7 @@ let swsh9 = [
         "id": "swsh9-126",
         "name": "Tornadus",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -8428,6 +8554,7 @@ let swsh9 = [
         "id": "swsh9-127",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -8499,6 +8626,7 @@ let swsh9 = [
         "id": "swsh9-128",
         "name": "Drampa V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -8569,6 +8697,7 @@ let swsh9 = [
         "id": "swsh9-129",
         "name": "Acerola's Premonition",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -8604,6 +8733,7 @@ let swsh9 = [
         "id": "swsh9-130",
         "name": "Barry",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -8639,6 +8769,7 @@ let swsh9 = [
         "id": "swsh9-131",
         "name": "Blunder Policy",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -8676,6 +8807,7 @@ let swsh9 = [
         "id": "swsh9-132",
         "name": "Boss's Orders",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -8711,6 +8843,7 @@ let swsh9 = [
         "id": "swsh9-133",
         "name": "Café Master",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -8746,6 +8879,7 @@ let swsh9 = [
         "id": "swsh9-134",
         "name": "Cheren's Care",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -8781,6 +8915,7 @@ let swsh9 = [
         "id": "swsh9-135",
         "name": "Choice Belt",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -8818,6 +8953,7 @@ let swsh9 = [
         "id": "swsh9-136",
         "name": "Cleansing Gloves",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -8855,6 +8991,7 @@ let swsh9 = [
         "id": "swsh9-137",
         "name": "Collapsed Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stadium"
         ],
@@ -8889,6 +9026,7 @@ let swsh9 = [
         "id": "swsh9-138",
         "name": "Cynthia's Ambition",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -8924,6 +9062,7 @@ let swsh9 = [
         "id": "swsh9-139",
         "name": "Fresh Water Set",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Item"
         ],
@@ -8959,6 +9098,7 @@ let swsh9 = [
         "id": "swsh9-140",
         "name": "Friends in Galar",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -8994,6 +9134,7 @@ let swsh9 = [
         "id": "swsh9-141",
         "name": "Gloria",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -9029,6 +9170,7 @@ let swsh9 = [
         "id": "swsh9-142",
         "name": "Hunting Gloves",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -9066,6 +9208,7 @@ let swsh9 = [
         "id": "swsh9-143",
         "name": "Kindler",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -9101,6 +9244,7 @@ let swsh9 = [
         "id": "swsh9-144",
         "name": "Magma Basin",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stadium"
         ],
@@ -9135,6 +9279,7 @@ let swsh9 = [
         "id": "swsh9-145",
         "name": "Marnie's Pride",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -9170,6 +9315,7 @@ let swsh9 = [
         "id": "swsh9-146",
         "name": "Pot Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Item",
             "Pokémon Tool"
@@ -9207,6 +9353,7 @@ let swsh9 = [
         "id": "swsh9-147",
         "name": "Professor's Research",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -9242,6 +9389,7 @@ let swsh9 = [
         "id": "swsh9-148",
         "name": "Roseanne's Backup",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -9277,6 +9425,7 @@ let swsh9 = [
         "id": "swsh9-149",
         "name": "Team Yell's Cheer",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -9312,6 +9461,7 @@ let swsh9 = [
         "id": "swsh9-150",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Item"
         ],
@@ -9347,6 +9497,7 @@ let swsh9 = [
         "id": "swsh9-151",
         "name": "Double Turbo Energy",
         "supertype": "Energy",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Special"
         ],
@@ -9380,6 +9531,7 @@ let swsh9 = [
         "id": "swsh9-152",
         "name": "Shaymin V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -9449,6 +9601,7 @@ let swsh9 = [
         "id": "swsh9-153",
         "name": "Charizard V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -9522,6 +9675,7 @@ let swsh9 = [
         "id": "swsh9-154",
         "name": "Charizard V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -9595,6 +9749,7 @@ let swsh9 = [
         "id": "swsh9-155",
         "name": "Lumineon V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -9663,6 +9818,7 @@ let swsh9 = [
         "id": "swsh9-156",
         "name": "Lumineon V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -9731,6 +9887,7 @@ let swsh9 = [
         "id": "swsh9-157",
         "name": "Pikachu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -9795,6 +9952,7 @@ let swsh9 = [
         "id": "swsh9-158",
         "name": "Raichu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -9864,6 +10022,7 @@ let swsh9 = [
         "id": "swsh9-159",
         "name": "Granbull V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -9935,6 +10094,7 @@ let swsh9 = [
         "id": "swsh9-160",
         "name": "Whimsicott V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -10005,6 +10165,7 @@ let swsh9 = [
         "id": "swsh9-161",
         "name": "Honchkrow V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -10079,6 +10240,7 @@ let swsh9 = [
         "id": "swsh9-162",
         "name": "Honchkrow V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -10153,6 +10315,7 @@ let swsh9 = [
         "id": "swsh9-163",
         "name": "Zamazenta V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -10227,6 +10390,7 @@ let swsh9 = [
         "id": "swsh9-164",
         "name": "Flygon V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -10293,6 +10457,7 @@ let swsh9 = [
         "id": "swsh9-165",
         "name": "Arceus V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -10364,6 +10529,7 @@ let swsh9 = [
         "id": "swsh9-166",
         "name": "Arceus V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -10435,6 +10601,7 @@ let swsh9 = [
         "id": "swsh9-167",
         "name": "Barry",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -10470,6 +10637,7 @@ let swsh9 = [
         "id": "swsh9-168",
         "name": "Cheren's Care",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -10505,6 +10673,7 @@ let swsh9 = [
         "id": "swsh9-169",
         "name": "Cynthia's Ambition",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -10540,6 +10709,7 @@ let swsh9 = [
         "id": "swsh9-170",
         "name": "Kindler",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -10575,6 +10745,7 @@ let swsh9 = [
         "id": "swsh9-171",
         "name": "Marnie's Pride",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -10610,6 +10781,7 @@ let swsh9 = [
         "id": "swsh9-172",
         "name": "Roseanne's Backup",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -10645,6 +10817,7 @@ let swsh9 = [
         "id": "swsh9-173",
         "name": "Shaymin VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VSTAR"
         ],
@@ -10712,6 +10885,7 @@ let swsh9 = [
         "id": "swsh9-174",
         "name": "Charizard VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VSTAR"
         ],
@@ -10785,6 +10959,7 @@ let swsh9 = [
         "id": "swsh9-175",
         "name": "Whimsicott VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VSTAR"
         ],
@@ -10855,6 +11030,7 @@ let swsh9 = [
         "id": "swsh9-176",
         "name": "Arceus VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VSTAR"
         ],
@@ -10923,6 +11099,7 @@ let swsh9 = [
         "id": "swsh9-177",
         "name": "Cheren's Care",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -10958,6 +11135,7 @@ let swsh9 = [
         "id": "swsh9-178",
         "name": "Cynthia's Ambition",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -10993,6 +11171,7 @@ let swsh9 = [
         "id": "swsh9-179",
         "name": "Kindler",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -11028,6 +11207,7 @@ let swsh9 = [
         "id": "swsh9-180",
         "name": "Roseanne's Backup",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -11063,6 +11243,7 @@ let swsh9 = [
         "id": "swsh9-181",
         "name": "Galarian Articuno V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -11137,6 +11318,7 @@ let swsh9 = [
         "id": "swsh9-182",
         "name": "Galarian Zapdos V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -11206,6 +11388,7 @@ let swsh9 = [
         "id": "swsh9-183",
         "name": "Galarian Moltres V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -11274,6 +11457,7 @@ let swsh9 = [
         "id": "swsh9-184",
         "name": "Arceus VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VSTAR"
         ],
@@ -11342,6 +11526,7 @@ let swsh9 = [
         "id": "swsh9-185",
         "name": "Magma Basin",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stadium"
         ],
@@ -11376,6 +11561,7 @@ let swsh9 = [
         "id": "swsh9-186",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Item"
         ],
@@ -11411,6 +11597,7 @@ let swsh9 = [
         "id": "swsh9-TG01",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -11477,6 +11664,7 @@ let swsh9 = [
         "id": "swsh9-TG02",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -11542,6 +11730,7 @@ let swsh9 = [
         "id": "swsh9-TG03",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -11609,6 +11798,7 @@ let swsh9 = [
         "id": "swsh9-TG04",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -11675,6 +11865,7 @@ let swsh9 = [
         "id": "swsh9-TG05",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -11743,6 +11934,7 @@ let swsh9 = [
         "id": "swsh9-TG06",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 2"
         ],
@@ -11815,6 +12007,7 @@ let swsh9 = [
         "id": "swsh9-TG07",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -11871,6 +12064,7 @@ let swsh9 = [
         "id": "swsh9-TG08",
         "name": "Alcremie",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -11936,6 +12130,7 @@ let swsh9 = [
         "id": "swsh9-TG09",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1"
         ],
@@ -12001,6 +12196,7 @@ let swsh9 = [
         "id": "swsh9-TG10",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -12067,6 +12263,7 @@ let swsh9 = [
         "id": "swsh9-TG11",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -12143,6 +12340,7 @@ let swsh9 = [
         "id": "swsh9-TG12",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic"
         ],
@@ -12208,6 +12406,7 @@ let swsh9 = [
         "id": "swsh9-TG13",
         "name": "Boltund V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -12277,6 +12476,7 @@ let swsh9 = [
         "id": "swsh9-TG14",
         "name": "Sylveon V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V",
@@ -12345,6 +12545,7 @@ let swsh9 = [
         "id": "swsh9-TG15",
         "name": "Sylveon VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -12416,6 +12617,7 @@ let swsh9 = [
         "id": "swsh9-TG16",
         "name": "Mimikyu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V"
@@ -12488,6 +12690,7 @@ let swsh9 = [
         "id": "swsh9-TG17",
         "name": "Mimikyu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VMAX"
         ],
@@ -12564,6 +12767,7 @@ let swsh9 = [
         "id": "swsh9-TG18",
         "name": "Single Strike Urshifu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V",
@@ -12635,6 +12839,7 @@ let swsh9 = [
         "id": "swsh9-TG19",
         "name": "Single Strike Urshifu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -12709,6 +12914,7 @@ let swsh9 = [
         "id": "swsh9-TG20",
         "name": "Rapid Strike Urshifu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V",
@@ -12780,6 +12986,7 @@ let swsh9 = [
         "id": "swsh9-TG21",
         "name": "Rapid Strike Urshifu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -12851,6 +13058,7 @@ let swsh9 = [
         "id": "swsh9-TG22",
         "name": "Umbreon V",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Basic",
             "V",
@@ -12922,6 +13130,7 @@ let swsh9 = [
         "id": "swsh9-TG23",
         "name": "Umbreon VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -12991,6 +13200,7 @@ let swsh9 = [
         "id": "swsh9-TG24",
         "name": "Acerola's Premonition",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -13026,6 +13236,7 @@ let swsh9 = [
         "id": "swsh9-TG25",
         "name": "Café Master",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -13061,6 +13272,7 @@ let swsh9 = [
         "id": "swsh9-TG26",
         "name": "Gloria",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Supporter"
         ],
@@ -13096,6 +13308,7 @@ let swsh9 = [
         "id": "swsh9-TG27",
         "name": "Rapid Strike Style Mustard",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Rapid Strike",
             "Supporter"
@@ -13133,6 +13346,7 @@ let swsh9 = [
         "id": "swsh9-TG28",
         "name": "Single Strike Style Mustard",
         "supertype": "Trainer",
+        "setAbbrev": "BRS",
         "subtypes": [
             "Single Strike",
             "Supporter"
@@ -13170,6 +13384,7 @@ let swsh9 = [
         "id": "swsh9-TG29",
         "name": "Single Strike Urshifu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -13244,6 +13459,7 @@ let swsh9 = [
         "id": "swsh9-TG30",
         "name": "Rapid Strike Urshifu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BRS",
         "subtypes": [
             "VMAX",
             "Rapid Strike"

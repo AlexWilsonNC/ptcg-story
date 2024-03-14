@@ -3,6 +3,7 @@ let basep = [
         "id": "basep-1",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -72,6 +73,7 @@ let basep = [
         "id": "basep-2",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -141,6 +143,7 @@ let basep = [
         "id": "basep-3",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -208,6 +211,7 @@ let basep = [
         "id": "basep-4",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -278,6 +282,7 @@ let basep = [
         "id": "basep-5",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -344,6 +349,7 @@ let basep = [
         "id": "basep-6",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -412,6 +418,7 @@ let basep = [
         "id": "basep-7",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -488,6 +495,7 @@ let basep = [
         "id": "basep-8",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -554,6 +562,7 @@ let basep = [
         "id": "basep-9",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -620,6 +629,7 @@ let basep = [
         "id": "basep-10",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -686,6 +696,7 @@ let basep = [
         "id": "basep-11",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -764,6 +775,7 @@ let basep = [
         "id": "basep-12",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -831,6 +843,7 @@ let basep = [
         "id": "basep-13",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -898,6 +911,7 @@ let basep = [
         "id": "basep-14",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -965,6 +979,7 @@ let basep = [
         "id": "basep-15",
         "name": "Cool Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1043,6 +1058,7 @@ let basep = [
         "id": "basep-16",
         "name": "Computer Error",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -1076,6 +1092,7 @@ let basep = [
         "id": "basep-17",
         "name": "Dark Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1148,6 +1165,7 @@ let basep = [
         "id": "basep-18",
         "name": "Team Rocket's Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1213,6 +1231,7 @@ let basep = [
         "id": "basep-19",
         "name": "Sabrina's Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1280,6 +1299,7 @@ let basep = [
         "id": "basep-20",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1348,6 +1368,7 @@ let basep = [
         "id": "basep-21",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1406,6 +1427,7 @@ let basep = [
         "id": "basep-22",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1464,6 +1486,7 @@ let basep = [
         "id": "basep-23",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1522,6 +1545,7 @@ let basep = [
         "id": "basep-24",
         "name": "_____'s Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1582,6 +1606,7 @@ let basep = [
         "id": "basep-25",
         "name": "Flying Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1652,6 +1677,7 @@ let basep = [
         "id": "basep-26",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1721,6 +1747,7 @@ let basep = [
         "id": "basep-27",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1789,6 +1816,7 @@ let basep = [
         "id": "basep-28",
         "name": "Surfing Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1849,6 +1877,7 @@ let basep = [
         "id": "basep-29",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1909,6 +1938,7 @@ let basep = [
         "id": "basep-30",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -1978,6 +2008,7 @@ let basep = [
         "id": "basep-31",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Baby"
         ],
@@ -2034,6 +2065,7 @@ let basep = [
         "id": "basep-32",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2096,6 +2128,7 @@ let basep = [
         "id": "basep-33",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2170,6 +2203,7 @@ let basep = [
         "id": "basep-34",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2235,6 +2269,7 @@ let basep = [
         "id": "basep-35",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Baby"
         ],
@@ -2291,6 +2326,7 @@ let basep = [
         "id": "basep-36",
         "name": "Igglybuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Baby"
         ],
@@ -2347,6 +2383,7 @@ let basep = [
         "id": "basep-37",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2415,6 +2452,7 @@ let basep = [
         "id": "basep-38",
         "name": "Unown [J]",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2481,6 +2519,7 @@ let basep = [
         "id": "basep-39",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2550,6 +2589,7 @@ let basep = [
         "id": "basep-40",
         "name": "Pokémon Center",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BS",
         "rules": [
             "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon."
         ],
@@ -2580,6 +2620,7 @@ let basep = [
         "id": "basep-41",
         "name": "Lucky Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stadium"
         ],
@@ -2614,6 +2655,7 @@ let basep = [
         "id": "basep-42",
         "name": "Pokémon Tower",
         "supertype": "Trainer",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stadium"
         ],
@@ -2648,6 +2690,7 @@ let basep = [
         "id": "basep-43",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2718,6 +2761,7 @@ let basep = [
         "id": "basep-44",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2788,6 +2832,7 @@ let basep = [
         "id": "basep-45",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2854,6 +2899,7 @@ let basep = [
         "id": "basep-46",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2923,6 +2969,7 @@ let basep = [
         "id": "basep-47",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -2986,6 +3033,7 @@ let basep = [
         "id": "basep-48",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3052,6 +3100,7 @@ let basep = [
         "id": "basep-49",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3124,6 +3173,7 @@ let basep = [
         "id": "basep-50",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3180,6 +3230,7 @@ let basep = [
         "id": "basep-51",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3247,6 +3298,7 @@ let basep = [
         "id": "basep-52",
         "name": "Ho-oh",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],
@@ -3311,6 +3363,7 @@ let basep = [
         "id": "basep-53",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-BS",
         "subtypes": [
             "Basic"
         ],

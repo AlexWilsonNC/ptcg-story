@@ -3,6 +3,7 @@ let xy7 = [
         "id": "xy7-1",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let xy7 = [
         "id": "xy7-2",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -124,6 +126,7 @@ let xy7 = [
         "id": "xy7-3",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -190,6 +193,7 @@ let xy7 = [
         "id": "xy7-4",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -257,6 +261,7 @@ let xy7 = [
         "id": "xy7-5",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -316,6 +321,7 @@ let xy7 = [
         "id": "xy7-6",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -381,6 +387,7 @@ let xy7 = [
         "id": "xy7-7",
         "name": "Sceptile-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -453,6 +460,7 @@ let xy7 = [
         "id": "xy7-8",
         "name": "M Sceptile-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -519,6 +527,7 @@ let xy7 = [
         "id": "xy7-9",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -578,6 +587,7 @@ let xy7 = [
         "id": "xy7-10",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -644,6 +654,7 @@ let xy7 = [
         "id": "xy7-11",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -715,6 +726,7 @@ let xy7 = [
         "id": "xy7-12",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -781,6 +793,7 @@ let xy7 = [
         "id": "xy7-13",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -847,6 +860,7 @@ let xy7 = [
         "id": "xy7-14",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -913,6 +927,7 @@ let xy7 = [
         "id": "xy7-15",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -986,6 +1001,7 @@ let xy7 = [
         "id": "xy7-16",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -1046,6 +1062,7 @@ let xy7 = [
         "id": "xy7-17",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1113,6 +1130,7 @@ let xy7 = [
         "id": "xy7-18",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1185,6 +1203,7 @@ let xy7 = [
         "id": "xy7-19",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -1244,6 +1263,7 @@ let xy7 = [
         "id": "xy7-20",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1315,6 +1335,7 @@ let xy7 = [
         "id": "xy7-21",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1389,6 +1410,7 @@ let xy7 = [
         "id": "xy7-22",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1455,6 +1477,7 @@ let xy7 = [
         "id": "xy7-23",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -1521,6 +1544,7 @@ let xy7 = [
         "id": "xy7-24",
         "name": "Regice",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -1589,6 +1613,7 @@ let xy7 = [
         "id": "xy7-25",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -1662,6 +1687,7 @@ let xy7 = [
         "id": "xy7-26",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1733,6 +1759,7 @@ let xy7 = [
         "id": "xy7-27",
         "name": "Ampharos-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -1813,6 +1840,7 @@ let xy7 = [
         "id": "xy7-28",
         "name": "M Ampharos-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -1883,6 +1911,7 @@ let xy7 = [
         "id": "xy7-29",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -1955,6 +1984,7 @@ let xy7 = [
         "id": "xy7-30",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2018,6 +2048,7 @@ let xy7 = [
         "id": "xy7-31",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2087,6 +2118,7 @@ let xy7 = [
         "id": "xy7-32",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2150,6 +2182,7 @@ let xy7 = [
         "id": "xy7-33",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2217,6 +2250,7 @@ let xy7 = [
         "id": "xy7-34",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2283,6 +2317,7 @@ let xy7 = [
         "id": "xy7-35",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2360,6 +2395,7 @@ let xy7 = [
         "id": "xy7-36",
         "name": "Hoopa-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -2428,6 +2464,7 @@ let xy7 = [
         "id": "xy7-37",
         "name": "Machamp-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -2499,6 +2536,7 @@ let xy7 = [
         "id": "xy7-38",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2568,6 +2606,7 @@ let xy7 = [
         "id": "xy7-39",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2637,6 +2676,7 @@ let xy7 = [
         "id": "xy7-40",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2705,6 +2745,7 @@ let xy7 = [
         "id": "xy7-41",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2774,6 +2815,7 @@ let xy7 = [
         "id": "xy7-42",
         "name": "Tyranitar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -2856,6 +2898,7 @@ let xy7 = [
         "id": "xy7-43",
         "name": "M Tyranitar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -2930,6 +2973,7 @@ let xy7 = [
         "id": "xy7-44",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -2990,6 +3034,7 @@ let xy7 = [
         "id": "xy7-45",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -3055,6 +3100,7 @@ let xy7 = [
         "id": "xy7-46",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3127,6 +3173,7 @@ let xy7 = [
         "id": "xy7-47",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -3203,6 +3250,7 @@ let xy7 = [
         "id": "xy7-48",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3281,6 +3329,7 @@ let xy7 = [
         "id": "xy7-49",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -3354,6 +3403,7 @@ let xy7 = [
         "id": "xy7-50",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -3434,6 +3484,7 @@ let xy7 = [
         "id": "xy7-51",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -3508,6 +3559,7 @@ let xy7 = [
         "id": "xy7-52",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -3583,6 +3635,7 @@ let xy7 = [
         "id": "xy7-53",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3661,6 +3714,7 @@ let xy7 = [
         "id": "xy7-54",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -3733,6 +3787,7 @@ let xy7 = [
         "id": "xy7-55",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -3798,6 +3853,7 @@ let xy7 = [
         "id": "xy7-56",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3871,6 +3927,7 @@ let xy7 = [
         "id": "xy7-57",
         "name": "Giratina-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -3940,6 +3997,7 @@ let xy7 = [
         "id": "xy7-58",
         "name": "Goomy",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -4007,6 +4065,7 @@ let xy7 = [
         "id": "xy7-59",
         "name": "Sliggoo",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4077,6 +4136,7 @@ let xy7 = [
         "id": "xy7-60",
         "name": "Goodra",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4147,6 +4207,7 @@ let xy7 = [
         "id": "xy7-61",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -4206,6 +4267,7 @@ let xy7 = [
         "id": "xy7-62",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4273,6 +4335,7 @@ let xy7 = [
         "id": "xy7-63",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -4349,6 +4412,7 @@ let xy7 = [
         "id": "xy7-64",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic"
         ],
@@ -4418,6 +4482,7 @@ let xy7 = [
         "id": "xy7-65",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4489,6 +4554,7 @@ let xy7 = [
         "id": "xy7-66",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4557,6 +4623,7 @@ let xy7 = [
         "id": "xy7-67",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4628,6 +4695,7 @@ let xy7 = [
         "id": "xy7-68",
         "name": "Lugia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -4706,6 +4774,7 @@ let xy7 = [
         "id": "xy7-69",
         "name": "Ace Trainer",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Supporter"
         ],
@@ -4741,6 +4810,7 @@ let xy7 = [
         "id": "xy7-70",
         "name": "Ampharos Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -4776,6 +4846,7 @@ let xy7 = [
         "id": "xy7-71",
         "name": "Eco Arm",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -4810,6 +4881,7 @@ let xy7 = [
         "id": "xy7-72",
         "name": "Energy Recycler",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -4844,6 +4916,7 @@ let xy7 = [
         "id": "xy7-73",
         "name": "Faded Town",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stadium"
         ],
@@ -4878,6 +4951,7 @@ let xy7 = [
         "id": "xy7-74",
         "name": "Forest of Giant Plants",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Stadium"
         ],
@@ -4915,6 +4989,7 @@ let xy7 = [
         "id": "xy7-75",
         "name": "Hex Maniac",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Supporter"
         ],
@@ -4952,6 +5027,7 @@ let xy7 = [
         "id": "xy7-76",
         "name": "Level Ball",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -4986,6 +5062,7 @@ let xy7 = [
         "id": "xy7-77",
         "name": "Lucky Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5021,6 +5098,7 @@ let xy7 = [
         "id": "xy7-78",
         "name": "Lysandre",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Supporter"
         ],
@@ -5055,6 +5133,7 @@ let xy7 = [
         "id": "xy7-79",
         "name": "Paint Roller",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -5089,6 +5168,7 @@ let xy7 = [
         "id": "xy7-80",
         "name": "Sceptile Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5124,6 +5204,7 @@ let xy7 = [
         "id": "xy7-81",
         "name": "Tyranitar Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5159,6 +5240,7 @@ let xy7 = [
         "id": "xy7-82",
         "name": "Dangerous Energy",
         "supertype": "Energy",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Special"
         ],
@@ -5194,6 +5276,7 @@ let xy7 = [
         "id": "xy7-83",
         "name": "Flash Energy",
         "supertype": "Energy",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Special"
         ],
@@ -5229,6 +5312,7 @@ let xy7 = [
         "id": "xy7-84",
         "name": "Sceptile-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5301,6 +5385,7 @@ let xy7 = [
         "id": "xy7-85",
         "name": "M Sceptile-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -5367,6 +5452,7 @@ let xy7 = [
         "id": "xy7-86",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5440,6 +5526,7 @@ let xy7 = [
         "id": "xy7-87",
         "name": "Ampharos-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5520,6 +5607,7 @@ let xy7 = [
         "id": "xy7-88",
         "name": "M Ampharos-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -5590,6 +5678,7 @@ let xy7 = [
         "id": "xy7-89",
         "name": "Hoopa-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5658,6 +5747,7 @@ let xy7 = [
         "id": "xy7-90",
         "name": "Machamp-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5729,6 +5819,7 @@ let xy7 = [
         "id": "xy7-91",
         "name": "Tyranitar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5811,6 +5902,7 @@ let xy7 = [
         "id": "xy7-92",
         "name": "M Tyranitar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -5885,6 +5977,7 @@ let xy7 = [
         "id": "xy7-93",
         "name": "Giratina-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5954,6 +6047,7 @@ let xy7 = [
         "id": "xy7-94",
         "name": "Lugia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6032,6 +6126,7 @@ let xy7 = [
         "id": "xy7-95",
         "name": "Steven",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Supporter"
         ],
@@ -6066,6 +6161,7 @@ let xy7 = [
         "id": "xy7-96",
         "name": "Primal Kyogre-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6134,6 +6230,7 @@ let xy7 = [
         "id": "xy7-97",
         "name": "Primal Groudon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6202,6 +6299,7 @@ let xy7 = [
         "id": "xy7-98",
         "name": "M Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "AOR",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6275,6 +6373,7 @@ let xy7 = [
         "id": "xy7-99",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -6309,6 +6408,7 @@ let xy7 = [
         "id": "xy7-100",
         "name": "Trainers' Mail",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Item"
         ],
@@ -6343,6 +6443,7 @@ let xy7 = [
         "id": "xy7-75a",
         "name": "Hex Maniac",
         "supertype": "Trainer",
+        "setAbbrev": "AOR",
         "subtypes": [
             "Supporter"
         ],

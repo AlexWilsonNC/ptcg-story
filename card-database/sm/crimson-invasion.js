@@ -3,6 +3,7 @@ let sm4 = [
         "id": "sm4-1",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let sm4 = [
         "id": "sm4-2",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -122,6 +124,7 @@ let sm4 = [
         "id": "sm4-3",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -187,6 +190,7 @@ let sm4 = [
         "id": "sm4-4",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -255,6 +259,7 @@ let sm4 = [
         "id": "sm4-5",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -314,6 +319,7 @@ let sm4 = [
         "id": "sm4-6",
         "name": "Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -381,6 +387,7 @@ let sm4 = [
         "id": "sm4-7",
         "name": "Karrablast",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -449,6 +456,7 @@ let sm4 = [
         "id": "sm4-8",
         "name": "Shelmet",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -508,6 +516,7 @@ let sm4 = [
         "id": "sm4-9",
         "name": "Accelgor",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -575,6 +584,7 @@ let sm4 = [
         "id": "sm4-10",
         "name": "Skiddo",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -635,6 +645,7 @@ let sm4 = [
         "id": "sm4-11",
         "name": "Gogoat",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -701,6 +712,7 @@ let sm4 = [
         "id": "sm4-12",
         "name": "Alolan Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -767,6 +779,7 @@ let sm4 = [
         "id": "sm4-13",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -827,6 +840,7 @@ let sm4 = [
         "id": "sm4-14",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -898,6 +912,7 @@ let sm4 = [
         "id": "sm4-15",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -957,6 +972,7 @@ let sm4 = [
         "id": "sm4-16",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1021,6 +1037,7 @@ let sm4 = [
         "id": "sm4-17",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1089,6 +1106,7 @@ let sm4 = [
         "id": "sm4-18",
         "name": "Gyarados-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -1173,6 +1191,7 @@ let sm4 = [
         "id": "sm4-19",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1233,6 +1252,7 @@ let sm4 = [
         "id": "sm4-20",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1305,6 +1325,7 @@ let sm4 = [
         "id": "sm4-21",
         "name": "Mamoswine",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -1376,6 +1397,7 @@ let sm4 = [
         "id": "sm4-22",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1436,6 +1458,7 @@ let sm4 = [
         "id": "sm4-23",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1503,6 +1526,7 @@ let sm4 = [
         "id": "sm4-24",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1563,6 +1587,7 @@ let sm4 = [
         "id": "sm4-25",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1623,6 +1648,7 @@ let sm4 = [
         "id": "sm4-26",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1682,6 +1708,7 @@ let sm4 = [
         "id": "sm4-27",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1751,6 +1778,7 @@ let sm4 = [
         "id": "sm4-28",
         "name": "Regice",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1816,6 +1844,7 @@ let sm4 = [
         "id": "sm4-29",
         "name": "Shellos",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1884,6 +1913,7 @@ let sm4 = [
         "id": "sm4-30",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -1959,6 +1989,7 @@ let sm4 = [
         "id": "sm4-31",
         "name": "Alolan Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2031,6 +2062,7 @@ let sm4 = [
         "id": "sm4-32",
         "name": "Alolan Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2104,6 +2136,7 @@ let sm4 = [
         "id": "sm4-33",
         "name": "Alolan Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2182,6 +2215,7 @@ let sm4 = [
         "id": "sm4-34",
         "name": "Alolan Golem-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -2274,6 +2308,7 @@ let sm4 = [
         "id": "sm4-35",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2345,6 +2380,7 @@ let sm4 = [
         "id": "sm4-36",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2410,6 +2446,7 @@ let sm4 = [
         "id": "sm4-37",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2476,6 +2513,7 @@ let sm4 = [
         "id": "sm4-38",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -2547,6 +2585,7 @@ let sm4 = [
         "id": "sm4-39",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2612,6 +2651,7 @@ let sm4 = [
         "id": "sm4-40",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2686,6 +2726,7 @@ let sm4 = [
         "id": "sm4-41",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2745,6 +2786,7 @@ let sm4 = [
         "id": "sm4-42",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2811,6 +2853,7 @@ let sm4 = [
         "id": "sm4-43",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2867,6 +2910,7 @@ let sm4 = [
         "id": "sm4-44",
         "name": "Pumpkaboo",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -2932,6 +2976,7 @@ let sm4 = [
         "id": "sm4-45",
         "name": "Gourgeist",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3005,6 +3050,7 @@ let sm4 = [
         "id": "sm4-46",
         "name": "Salandit",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3064,6 +3110,7 @@ let sm4 = [
         "id": "sm4-47",
         "name": "Salazzle",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3130,6 +3177,7 @@ let sm4 = [
         "id": "sm4-48",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3197,6 +3245,7 @@ let sm4 = [
         "id": "sm4-49",
         "name": "Nihilego-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -3277,6 +3326,7 @@ let sm4 = [
         "id": "sm4-50",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3336,6 +3386,7 @@ let sm4 = [
         "id": "sm4-51",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3404,6 +3455,7 @@ let sm4 = [
         "id": "sm4-52",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3473,6 +3525,7 @@ let sm4 = [
         "id": "sm4-53",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3538,6 +3591,7 @@ let sm4 = [
         "id": "sm4-54",
         "name": "Gastrodon",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3607,6 +3661,7 @@ let sm4 = [
         "id": "sm4-55",
         "name": "Stufful",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3667,6 +3722,7 @@ let sm4 = [
         "id": "sm4-56",
         "name": "Bewear",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3733,6 +3789,7 @@ let sm4 = [
         "id": "sm4-57",
         "name": "Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -3815,6 +3872,7 @@ let sm4 = [
         "id": "sm4-58",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -3890,6 +3948,7 @@ let sm4 = [
         "id": "sm4-59",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3965,6 +4024,7 @@ let sm4 = [
         "id": "sm4-60",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -4042,6 +4102,7 @@ let sm4 = [
         "id": "sm4-61",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -4120,6 +4181,7 @@ let sm4 = [
         "id": "sm4-62",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -4192,6 +4254,7 @@ let sm4 = [
         "id": "sm4-63",
         "name": "Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -4284,6 +4347,7 @@ let sm4 = [
         "id": "sm4-63a",
         "name": "Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -4376,6 +4440,7 @@ let sm4 = [
         "id": "sm4-64",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -4448,6 +4513,7 @@ let sm4 = [
         "id": "sm4-65",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -4524,6 +4590,7 @@ let sm4 = [
         "id": "sm4-66",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -4602,6 +4669,7 @@ let sm4 = [
         "id": "sm4-67",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -4679,6 +4747,7 @@ let sm4 = [
         "id": "sm4-68",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -4752,6 +4821,7 @@ let sm4 = [
         "id": "sm4-69",
         "name": "Escavalier",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -4826,6 +4896,7 @@ let sm4 = [
         "id": "sm4-70",
         "name": "Kartana-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -4910,6 +4981,7 @@ let sm4 = [
         "id": "sm4-71",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -4985,6 +5057,7 @@ let sm4 = [
         "id": "sm4-72",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5060,6 +5133,7 @@ let sm4 = [
         "id": "sm4-73",
         "name": "Xerneas",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5133,6 +5207,7 @@ let sm4 = [
         "id": "sm4-74",
         "name": "Alolan Exeggutor-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5217,6 +5292,7 @@ let sm4 = [
         "id": "sm4-75",
         "name": "Jangmo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5286,6 +5362,7 @@ let sm4 = [
         "id": "sm4-76",
         "name": "Hakamo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5356,6 +5433,7 @@ let sm4 = [
         "id": "sm4-77",
         "name": "Kommo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -5425,6 +5503,7 @@ let sm4 = [
         "id": "sm4-78",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5490,6 +5569,7 @@ let sm4 = [
         "id": "sm4-79",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5555,6 +5635,7 @@ let sm4 = [
         "id": "sm4-80",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5627,6 +5708,7 @@ let sm4 = [
         "id": "sm4-81",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5702,6 +5784,7 @@ let sm4 = [
         "id": "sm4-82",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5779,6 +5862,7 @@ let sm4 = [
         "id": "sm4-83",
         "name": "Staraptor",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2"
         ],
@@ -5855,6 +5939,7 @@ let sm4 = [
         "id": "sm4-84",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5922,6 +6007,7 @@ let sm4 = [
         "id": "sm4-84a",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -5989,6 +6075,7 @@ let sm4 = [
         "id": "sm4-85",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -6048,6 +6135,7 @@ let sm4 = [
         "id": "sm4-86",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6105,6 +6193,7 @@ let sm4 = [
         "id": "sm4-87",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -6165,6 +6254,7 @@ let sm4 = [
         "id": "sm4-88",
         "name": "Diggersby",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6236,6 +6326,7 @@ let sm4 = [
         "id": "sm4-89",
         "name": "Type: Null",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],
@@ -6304,6 +6395,7 @@ let sm4 = [
         "id": "sm4-90",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -6384,6 +6476,7 @@ let sm4 = [
         "id": "sm4-91",
         "name": "Counter Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Item"
         ],
@@ -6419,6 +6512,7 @@ let sm4 = [
         "id": "sm4-92",
         "name": "Dashing Pouch",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6454,6 +6548,7 @@ let sm4 = [
         "id": "sm4-93",
         "name": "Devoured Field",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stadium"
         ],
@@ -6488,6 +6583,7 @@ let sm4 = [
         "id": "sm4-94",
         "name": "Fighting Memory",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6523,6 +6619,7 @@ let sm4 = [
         "id": "sm4-95",
         "name": "Gladion",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Supporter"
         ],
@@ -6557,6 +6654,7 @@ let sm4 = [
         "id": "sm4-96",
         "name": "Lusamine",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Supporter"
         ],
@@ -6591,6 +6689,7 @@ let sm4 = [
         "id": "sm4-97",
         "name": "Peeking Red Card",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Item"
         ],
@@ -6625,6 +6724,7 @@ let sm4 = [
         "id": "sm4-98",
         "name": "Psychic Memory",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6660,6 +6760,7 @@ let sm4 = [
         "id": "sm4-99",
         "name": "Sea of Nothingness",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stadium"
         ],
@@ -6694,6 +6795,7 @@ let sm4 = [
         "id": "sm4-100",
         "name": "Counter Energy",
         "supertype": "Energy",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Special"
         ],
@@ -6727,6 +6829,7 @@ let sm4 = [
         "id": "sm4-101",
         "name": "Gyarados-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -6811,6 +6914,7 @@ let sm4 = [
         "id": "sm4-102",
         "name": "Alolan Golem-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -6903,6 +7007,7 @@ let sm4 = [
         "id": "sm4-103",
         "name": "Nihilego-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -6983,6 +7088,7 @@ let sm4 = [
         "id": "sm4-104",
         "name": "Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -7065,6 +7171,7 @@ let sm4 = [
         "id": "sm4-105",
         "name": "Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -7157,6 +7264,7 @@ let sm4 = [
         "id": "sm4-106",
         "name": "Kartana-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -7241,6 +7349,7 @@ let sm4 = [
         "id": "sm4-107",
         "name": "Alolan Exeggutor-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7325,6 +7434,7 @@ let sm4 = [
         "id": "sm4-108",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7405,6 +7515,7 @@ let sm4 = [
         "id": "sm4-109",
         "name": "Gladion",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Supporter"
         ],
@@ -7439,6 +7550,7 @@ let sm4 = [
         "id": "sm4-110",
         "name": "Lusamine",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Supporter"
         ],
@@ -7473,6 +7585,7 @@ let sm4 = [
         "id": "sm4-111",
         "name": "Olivia",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Supporter"
         ],
@@ -7507,6 +7620,7 @@ let sm4 = [
         "id": "sm4-112",
         "name": "Gyarados-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7591,6 +7705,7 @@ let sm4 = [
         "id": "sm4-113",
         "name": "Alolan Golem-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -7683,6 +7798,7 @@ let sm4 = [
         "id": "sm4-114",
         "name": "Nihilego-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -7763,6 +7879,7 @@ let sm4 = [
         "id": "sm4-115",
         "name": "Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -7845,6 +7962,7 @@ let sm4 = [
         "id": "sm4-116",
         "name": "Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -7937,6 +8055,7 @@ let sm4 = [
         "id": "sm4-117",
         "name": "Kartana-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic",
             "GX",
@@ -8021,6 +8140,7 @@ let sm4 = [
         "id": "sm4-118",
         "name": "Alolan Exeggutor-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8105,6 +8225,7 @@ let sm4 = [
         "id": "sm4-119",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8185,6 +8306,7 @@ let sm4 = [
         "id": "sm4-120",
         "name": "Counter Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Item"
         ],
@@ -8220,6 +8342,7 @@ let sm4 = [
         "id": "sm4-121",
         "name": "Wishful Baton",
         "supertype": "Trainer",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8255,6 +8378,7 @@ let sm4 = [
         "id": "sm4-122",
         "name": "Counter Energy",
         "supertype": "Energy",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Special"
         ],
@@ -8288,6 +8412,7 @@ let sm4 = [
         "id": "sm4-123",
         "name": "Warp Energy",
         "supertype": "Energy",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Special"
         ],
@@ -8321,6 +8446,7 @@ let sm4 = [
         "id": "sm4-124",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "CIN",
         "subtypes": [
             "Basic"
         ],

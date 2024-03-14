@@ -3,6 +3,7 @@ let dp4 = [
         "id": "dp4-1",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -71,6 +72,7 @@ let dp4 = [
         "id": "dp4-2",
         "name": "Cresselia",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -138,6 +140,7 @@ let dp4 = [
         "id": "dp4-3",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -209,6 +212,7 @@ let dp4 = [
         "id": "dp4-4",
         "name": "Darkrai",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -282,6 +286,7 @@ let dp4 = [
         "id": "dp4-5",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -353,6 +358,7 @@ let dp4 = [
         "id": "dp4-6",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -418,6 +424,7 @@ let dp4 = [
         "id": "dp4-7",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -491,6 +498,7 @@ let dp4 = [
         "id": "dp4-8",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -564,6 +572,7 @@ let dp4 = [
         "id": "dp4-9",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -631,6 +640,7 @@ let dp4 = [
         "id": "dp4-10",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -706,6 +716,7 @@ let dp4 = [
         "id": "dp4-11",
         "name": "Togekiss",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -778,6 +789,7 @@ let dp4 = [
         "id": "dp4-12",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -852,6 +864,7 @@ let dp4 = [
         "id": "dp4-13",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -919,6 +932,7 @@ let dp4 = [
         "id": "dp4-14",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -986,6 +1000,7 @@ let dp4 = [
         "id": "dp4-15",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1051,6 +1066,7 @@ let dp4 = [
         "id": "dp4-16",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1124,6 +1140,7 @@ let dp4 = [
         "id": "dp4-17",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 2"
         ],
@@ -1194,6 +1211,7 @@ let dp4 = [
         "id": "dp4-18",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1267,6 +1285,7 @@ let dp4 = [
         "id": "dp4-19",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1336,6 +1355,7 @@ let dp4 = [
         "id": "dp4-20",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1405,6 +1425,7 @@ let dp4 = [
         "id": "dp4-21",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1471,6 +1492,7 @@ let dp4 = [
         "id": "dp4-22",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1544,6 +1566,7 @@ let dp4 = [
         "id": "dp4-23",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1618,6 +1641,7 @@ let dp4 = [
         "id": "dp4-24",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1688,6 +1712,7 @@ let dp4 = [
         "id": "dp4-25",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1754,6 +1779,7 @@ let dp4 = [
         "id": "dp4-26",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -1821,6 +1847,7 @@ let dp4 = [
         "id": "dp4-27",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1887,6 +1914,7 @@ let dp4 = [
         "id": "dp4-28",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -1952,6 +1980,7 @@ let dp4 = [
         "id": "dp4-29",
         "name": "Unown H",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -2015,6 +2044,7 @@ let dp4 = [
         "id": "dp4-30",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2082,6 +2112,7 @@ let dp4 = [
         "id": "dp4-31",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2147,6 +2178,7 @@ let dp4 = [
         "id": "dp4-32",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2212,6 +2244,7 @@ let dp4 = [
         "id": "dp4-33",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2280,6 +2313,7 @@ let dp4 = [
         "id": "dp4-34",
         "name": "Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2355,6 +2389,7 @@ let dp4 = [
         "id": "dp4-35",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2426,6 +2461,7 @@ let dp4 = [
         "id": "dp4-36",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -2489,6 +2525,7 @@ let dp4 = [
         "id": "dp4-37",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2558,6 +2595,7 @@ let dp4 = [
         "id": "dp4-38",
         "name": "Gorebyss",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2622,6 +2660,7 @@ let dp4 = [
         "id": "dp4-39",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2692,6 +2731,7 @@ let dp4 = [
         "id": "dp4-40",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2766,6 +2806,7 @@ let dp4 = [
         "id": "dp4-41",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2835,6 +2876,7 @@ let dp4 = [
         "id": "dp4-42",
         "name": "Huntail",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2900,6 +2942,7 @@ let dp4 = [
         "id": "dp4-43",
         "name": "Linoone",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -2965,6 +3008,7 @@ let dp4 = [
         "id": "dp4-44",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3037,6 +3081,7 @@ let dp4 = [
         "id": "dp4-45",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3103,6 +3148,7 @@ let dp4 = [
         "id": "dp4-46",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3175,6 +3221,7 @@ let dp4 = [
         "id": "dp4-47",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3243,6 +3290,7 @@ let dp4 = [
         "id": "dp4-48",
         "name": "Pelipper",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3315,6 +3363,7 @@ let dp4 = [
         "id": "dp4-49",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3383,6 +3432,7 @@ let dp4 = [
         "id": "dp4-50",
         "name": "Purugly",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3452,6 +3502,7 @@ let dp4 = [
         "id": "dp4-51",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -3516,6 +3567,7 @@ let dp4 = [
         "id": "dp4-52",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -3583,6 +3635,7 @@ let dp4 = [
         "id": "dp4-53",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -3656,6 +3709,7 @@ let dp4 = [
         "id": "dp4-54",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3725,6 +3779,7 @@ let dp4 = [
         "id": "dp4-55",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -3803,6 +3858,7 @@ let dp4 = [
         "id": "dp4-56",
         "name": "Unown F",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -3866,6 +3922,7 @@ let dp4 = [
         "id": "dp4-57",
         "name": "Unown G",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -3930,6 +3987,7 @@ let dp4 = [
         "id": "dp4-58",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4001,6 +4059,7 @@ let dp4 = [
         "id": "dp4-59",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4068,6 +4127,7 @@ let dp4 = [
         "id": "dp4-60",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4137,6 +4197,7 @@ let dp4 = [
         "id": "dp4-61",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4204,6 +4265,7 @@ let dp4 = [
         "id": "dp4-62",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4279,6 +4341,7 @@ let dp4 = [
         "id": "dp4-63",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4345,6 +4408,7 @@ let dp4 = [
         "id": "dp4-64",
         "name": "Clamperl",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4415,6 +4479,7 @@ let dp4 = [
         "id": "dp4-65",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4484,6 +4549,7 @@ let dp4 = [
         "id": "dp4-66",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4552,6 +4618,7 @@ let dp4 = [
         "id": "dp4-67",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4620,6 +4687,7 @@ let dp4 = [
         "id": "dp4-68",
         "name": "Glameow",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4689,6 +4757,7 @@ let dp4 = [
         "id": "dp4-69",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4758,6 +4827,7 @@ let dp4 = [
         "id": "dp4-70",
         "name": "Igglybuff",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4822,6 +4892,7 @@ let dp4 = [
         "id": "dp4-71",
         "name": "Illumise",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4886,6 +4957,7 @@ let dp4 = [
         "id": "dp4-72",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -4955,6 +5027,7 @@ let dp4 = [
         "id": "dp4-73",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stage 1"
         ],
@@ -5022,6 +5095,7 @@ let dp4 = [
         "id": "dp4-74",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5091,6 +5165,7 @@ let dp4 = [
         "id": "dp4-75",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5160,6 +5235,7 @@ let dp4 = [
         "id": "dp4-76",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5223,6 +5299,7 @@ let dp4 = [
         "id": "dp4-77",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5288,6 +5365,7 @@ let dp4 = [
         "id": "dp4-78",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5357,6 +5435,7 @@ let dp4 = [
         "id": "dp4-79",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5426,6 +5505,7 @@ let dp4 = [
         "id": "dp4-80",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5496,6 +5576,7 @@ let dp4 = [
         "id": "dp4-81",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5565,6 +5646,7 @@ let dp4 = [
         "id": "dp4-82",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5634,6 +5716,7 @@ let dp4 = [
         "id": "dp4-83",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5703,6 +5786,7 @@ let dp4 = [
         "id": "dp4-84",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5773,6 +5857,7 @@ let dp4 = [
         "id": "dp4-85",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5836,6 +5921,7 @@ let dp4 = [
         "id": "dp4-86",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5911,6 +5997,7 @@ let dp4 = [
         "id": "dp4-87",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -5980,6 +6067,7 @@ let dp4 = [
         "id": "dp4-88",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6048,6 +6136,7 @@ let dp4 = [
         "id": "dp4-89",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6114,6 +6203,7 @@ let dp4 = [
         "id": "dp4-90",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6189,6 +6279,7 @@ let dp4 = [
         "id": "dp4-91",
         "name": "Unown L",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6253,6 +6344,7 @@ let dp4 = [
         "id": "dp4-92",
         "name": "Volbeat",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6317,6 +6409,7 @@ let dp4 = [
         "id": "dp4-93",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6385,6 +6478,7 @@ let dp4 = [
         "id": "dp4-94",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6451,6 +6545,7 @@ let dp4 = [
         "id": "dp4-95",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6526,6 +6621,7 @@ let dp4 = [
         "id": "dp4-96",
         "name": "Zigzagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Basic"
         ],
@@ -6594,6 +6690,7 @@ let dp4 = [
         "id": "dp4-97",
         "name": "Amulet Coin",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6628,6 +6725,7 @@ let dp4 = [
         "id": "dp4-98",
         "name": "Felicity's Drawing",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Supporter"
         ],
@@ -6662,6 +6760,7 @@ let dp4 = [
         "id": "dp4-99",
         "name": "Leftovers",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6696,6 +6795,7 @@ let dp4 = [
         "id": "dp4-100",
         "name": "Moonlight Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Stadium"
         ],
@@ -6730,6 +6830,7 @@ let dp4 = [
         "id": "dp4-101",
         "name": "Premier Ball",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Item"
         ],
@@ -6763,6 +6864,7 @@ let dp4 = [
         "id": "dp4-102",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "GE",
         "subtypes": [
             "Item"
         ],
@@ -6796,6 +6898,7 @@ let dp4 = [
         "id": "dp4-103",
         "name": "Cresselia LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Level-Up"
         ],
@@ -6864,6 +6967,7 @@ let dp4 = [
         "id": "dp4-104",
         "name": "Darkrai LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Level-Up"
         ],
@@ -6938,6 +7042,7 @@ let dp4 = [
         "id": "dp4-105",
         "name": "Dialga LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Level-Up"
         ],
@@ -7013,6 +7118,7 @@ let dp4 = [
         "id": "dp4-106",
         "name": "Palkia LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "GE",
         "subtypes": [
             "Level-Up"
         ],

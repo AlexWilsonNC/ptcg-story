@@ -3,6 +3,7 @@ let bw8 = [
         "id": "bw8-1",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -79,6 +80,7 @@ let bw8 = [
         "id": "bw8-2",
         "name": "Grotle",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -147,6 +149,7 @@ let bw8 = [
         "id": "bw8-3",
         "name": "Torterra",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -225,6 +228,7 @@ let bw8 = [
         "id": "bw8-4",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -284,6 +288,7 @@ let bw8 = [
         "id": "bw8-5",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -351,6 +356,7 @@ let bw8 = [
         "id": "bw8-6",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -416,6 +422,7 @@ let bw8 = [
         "id": "bw8-7",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -487,6 +494,7 @@ let bw8 = [
         "id": "bw8-8",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -546,6 +554,7 @@ let bw8 = [
         "id": "bw8-9",
         "name": "Swadloon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -616,6 +625,7 @@ let bw8 = [
         "id": "bw8-10",
         "name": "Leavanny",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2"
         ],
@@ -685,6 +695,7 @@ let bw8 = [
         "id": "bw8-11",
         "name": "Maractus",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -757,6 +768,7 @@ let bw8 = [
         "id": "bw8-12",
         "name": "Foongus",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -822,6 +834,7 @@ let bw8 = [
         "id": "bw8-13",
         "name": "Amoonguss",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -896,6 +909,7 @@ let bw8 = [
         "id": "bw8-14",
         "name": "Moltres-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX",
@@ -975,6 +989,7 @@ let bw8 = [
         "id": "bw8-15",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -1034,6 +1049,7 @@ let bw8 = [
         "id": "bw8-16",
         "name": "Monferno",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1104,6 +1120,7 @@ let bw8 = [
         "id": "bw8-17",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -1171,6 +1188,7 @@ let bw8 = [
         "id": "bw8-18",
         "name": "Victini-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX"
@@ -1241,6 +1259,7 @@ let bw8 = [
         "id": "bw8-19",
         "name": "Pansear",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -1312,6 +1331,7 @@ let bw8 = [
         "id": "bw8-20",
         "name": "Simisear",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1380,6 +1400,7 @@ let bw8 = [
         "id": "bw8-21",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -1439,6 +1460,7 @@ let bw8 = [
         "id": "bw8-22",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1507,6 +1529,7 @@ let bw8 = [
         "id": "bw8-23",
         "name": "Heatmor",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -1574,6 +1597,7 @@ let bw8 = [
         "id": "bw8-24",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -1633,6 +1657,7 @@ let bw8 = [
         "id": "bw8-25",
         "name": "Articuno-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX",
@@ -1713,6 +1738,7 @@ let bw8 = [
         "id": "bw8-26",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -1773,6 +1799,7 @@ let bw8 = [
         "id": "bw8-27",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1846,6 +1873,7 @@ let bw8 = [
         "id": "bw8-28",
         "name": "Mamoswine",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1917,6 +1945,7 @@ let bw8 = [
         "id": "bw8-29",
         "name": "Lotad",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -1977,6 +2006,7 @@ let bw8 = [
         "id": "bw8-30",
         "name": "Lombre",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2049,6 +2079,7 @@ let bw8 = [
         "id": "bw8-31",
         "name": "Ludicolo",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2115,6 +2146,7 @@ let bw8 = [
         "id": "bw8-32",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -2175,6 +2207,7 @@ let bw8 = [
         "id": "bw8-33",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -2240,6 +2273,7 @@ let bw8 = [
         "id": "bw8-34",
         "name": "Manaphy",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -2303,6 +2337,7 @@ let bw8 = [
         "id": "bw8-35",
         "name": "Vanillite",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -2362,6 +2397,7 @@ let bw8 = [
         "id": "bw8-36",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2423,6 +2459,7 @@ let bw8 = [
         "id": "bw8-37",
         "name": "Vanilluxe",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2491,6 +2528,7 @@ let bw8 = [
         "id": "bw8-38",
         "name": "Frillish",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -2551,6 +2589,7 @@ let bw8 = [
         "id": "bw8-39",
         "name": "Jellicent",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -2617,6 +2656,7 @@ let bw8 = [
         "id": "bw8-40",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -2687,6 +2727,7 @@ let bw8 = [
         "id": "bw8-41",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -2757,6 +2798,7 @@ let bw8 = [
         "id": "bw8-42",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -2826,6 +2868,7 @@ let bw8 = [
         "id": "bw8-43",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -2885,6 +2928,7 @@ let bw8 = [
         "id": "bw8-44",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2955,6 +2999,7 @@ let bw8 = [
         "id": "bw8-45",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3016,6 +3061,7 @@ let bw8 = [
         "id": "bw8-46",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -3083,6 +3129,7 @@ let bw8 = [
         "id": "bw8-47",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3151,6 +3198,7 @@ let bw8 = [
         "id": "bw8-48",
         "name": "Zapdos-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX",
@@ -3230,6 +3278,7 @@ let bw8 = [
         "id": "bw8-49",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -3297,6 +3346,7 @@ let bw8 = [
         "id": "bw8-50",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -3356,6 +3406,7 @@ let bw8 = [
         "id": "bw8-51",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3422,6 +3473,7 @@ let bw8 = [
         "id": "bw8-52",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -3487,6 +3539,7 @@ let bw8 = [
         "id": "bw8-53",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -3560,6 +3613,7 @@ let bw8 = [
         "id": "bw8-54",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3627,6 +3681,7 @@ let bw8 = [
         "id": "bw8-55",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -3699,6 +3754,7 @@ let bw8 = [
         "id": "bw8-56",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -3768,6 +3824,7 @@ let bw8 = [
         "id": "bw8-57",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -3828,6 +3885,7 @@ let bw8 = [
         "id": "bw8-58",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -3894,6 +3952,7 @@ let bw8 = [
         "id": "bw8-59",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -3953,6 +4012,7 @@ let bw8 = [
         "id": "bw8-60",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4014,6 +4074,7 @@ let bw8 = [
         "id": "bw8-61",
         "name": "Gallade",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2"
         ],
@@ -4083,6 +4144,7 @@ let bw8 = [
         "id": "bw8-62",
         "name": "Giratina",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -4154,6 +4216,7 @@ let bw8 = [
         "id": "bw8-63",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -4223,6 +4286,7 @@ let bw8 = [
         "id": "bw8-64",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -4293,6 +4357,7 @@ let bw8 = [
         "id": "bw8-65",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -4353,6 +4418,7 @@ let bw8 = [
         "id": "bw8-66",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -4422,6 +4488,7 @@ let bw8 = [
         "id": "bw8-67",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -4493,6 +4560,7 @@ let bw8 = [
         "id": "bw8-68",
         "name": "Elgyem",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -4553,6 +4621,7 @@ let bw8 = [
         "id": "bw8-69",
         "name": "Elgyem",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -4622,6 +4691,7 @@ let bw8 = [
         "id": "bw8-70",
         "name": "Beheeyem",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -4691,6 +4761,7 @@ let bw8 = [
         "id": "bw8-71",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -4767,6 +4838,7 @@ let bw8 = [
         "id": "bw8-72",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4842,6 +4914,7 @@ let bw8 = [
         "id": "bw8-73",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -4906,6 +4979,7 @@ let bw8 = [
         "id": "bw8-74",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -4974,6 +5048,7 @@ let bw8 = [
         "id": "bw8-75",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -5043,6 +5118,7 @@ let bw8 = [
         "id": "bw8-76",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -5114,6 +5190,7 @@ let bw8 = [
         "id": "bw8-77",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5183,6 +5260,7 @@ let bw8 = [
         "id": "bw8-78",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5249,6 +5327,7 @@ let bw8 = [
         "id": "bw8-79",
         "name": "Timburr",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -5320,6 +5399,7 @@ let bw8 = [
         "id": "bw8-80",
         "name": "Gurdurr",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5394,6 +5474,7 @@ let bw8 = [
         "id": "bw8-81",
         "name": "Conkeldurr",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2"
         ],
@@ -5465,6 +5546,7 @@ let bw8 = [
         "id": "bw8-82",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -5540,6 +5622,7 @@ let bw8 = [
         "id": "bw8-83",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -5615,6 +5698,7 @@ let bw8 = [
         "id": "bw8-84",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -5689,6 +5773,7 @@ let bw8 = [
         "id": "bw8-85",
         "name": "Scraggy",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -5764,6 +5849,7 @@ let bw8 = [
         "id": "bw8-86",
         "name": "Scrafty",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -5840,6 +5926,7 @@ let bw8 = [
         "id": "bw8-87",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -5914,6 +6001,7 @@ let bw8 = [
         "id": "bw8-88",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -5989,6 +6077,7 @@ let bw8 = [
         "id": "bw8-89",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6066,6 +6155,7 @@ let bw8 = [
         "id": "bw8-90",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2",
             "Team Plasma"
@@ -6139,6 +6229,7 @@ let bw8 = [
         "id": "bw8-91",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -6214,6 +6305,7 @@ let bw8 = [
         "id": "bw8-92",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -6287,6 +6379,7 @@ let bw8 = [
         "id": "bw8-93",
         "name": "Cobalion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX"
@@ -6363,6 +6456,7 @@ let bw8 = [
         "id": "bw8-94",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -6433,6 +6527,7 @@ let bw8 = [
         "id": "bw8-95",
         "name": "Black Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX"
@@ -6506,6 +6601,7 @@ let bw8 = [
         "id": "bw8-96",
         "name": "White Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX"
@@ -6579,6 +6675,7 @@ let bw8 = [
         "id": "bw8-97",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -6648,6 +6745,7 @@ let bw8 = [
         "id": "bw8-98",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6714,6 +6812,7 @@ let bw8 = [
         "id": "bw8-99",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -6780,6 +6879,7 @@ let bw8 = [
         "id": "bw8-100",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6854,6 +6954,7 @@ let bw8 = [
         "id": "bw8-101",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -6922,6 +7023,7 @@ let bw8 = [
         "id": "bw8-102",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -6981,6 +7083,7 @@ let bw8 = [
         "id": "bw8-103",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7047,6 +7150,7 @@ let bw8 = [
         "id": "bw8-104",
         "name": "Togekiss",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2"
         ],
@@ -7117,6 +7221,7 @@ let bw8 = [
         "id": "bw8-105",
         "name": "Whismur",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -7187,6 +7292,7 @@ let bw8 = [
         "id": "bw8-106",
         "name": "Loudred",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7258,6 +7364,7 @@ let bw8 = [
         "id": "bw8-107",
         "name": "Exploud",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2"
         ],
@@ -7329,6 +7436,7 @@ let bw8 = [
         "id": "bw8-108",
         "name": "Lugia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX",
@@ -7405,6 +7513,7 @@ let bw8 = [
         "id": "bw8-109",
         "name": "Skitty",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -7465,6 +7574,7 @@ let bw8 = [
         "id": "bw8-110",
         "name": "Patrat",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -7524,6 +7634,7 @@ let bw8 = [
         "id": "bw8-111",
         "name": "Patrat",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -7593,6 +7704,7 @@ let bw8 = [
         "id": "bw8-112",
         "name": "Watchog",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -7661,6 +7773,7 @@ let bw8 = [
         "id": "bw8-113",
         "name": "Watchog",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1",
             "Team Plasma"
@@ -7731,6 +7844,7 @@ let bw8 = [
         "id": "bw8-114",
         "name": "Bouffalant",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "Team Plasma"
@@ -7800,6 +7914,7 @@ let bw8 = [
         "id": "bw8-115",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic"
         ],
@@ -7866,6 +7981,7 @@ let bw8 = [
         "id": "bw8-116",
         "name": "Braviary",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7938,6 +8054,7 @@ let bw8 = [
         "id": "bw8-117",
         "name": "Bicycle",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Item"
         ],
@@ -7972,6 +8089,7 @@ let bw8 = [
         "id": "bw8-118",
         "name": "Colress",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Supporter",
             "Team Plasma"
@@ -8007,6 +8125,7 @@ let bw8 = [
         "id": "bw8-119",
         "name": "Colress Machine",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Item",
             "Team Plasma"
@@ -8042,6 +8161,7 @@ let bw8 = [
         "id": "bw8-120",
         "name": "Escape Rope",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Item"
         ],
@@ -8076,6 +8196,7 @@ let bw8 = [
         "id": "bw8-121",
         "name": "Ether",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Item"
         ],
@@ -8110,6 +8231,7 @@ let bw8 = [
         "id": "bw8-122",
         "name": "Eviolite",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8145,6 +8267,7 @@ let bw8 = [
         "id": "bw8-123",
         "name": "Hypnotoxic Laser",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Item",
             "Team Plasma"
@@ -8180,6 +8303,7 @@ let bw8 = [
         "id": "bw8-124",
         "name": "Plasma Frigate",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stadium",
             "Team Plasma"
@@ -8215,6 +8339,7 @@ let bw8 = [
         "id": "bw8-125",
         "name": "Team Plasma Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Supporter",
             "Team Plasma"
@@ -8250,6 +8375,7 @@ let bw8 = [
         "id": "bw8-126",
         "name": "Virbank City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stadium"
         ],
@@ -8284,6 +8410,7 @@ let bw8 = [
         "id": "bw8-127",
         "name": "Plasma Energy",
         "supertype": "Energy",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Special",
             "Team Plasma"
@@ -8318,6 +8445,7 @@ let bw8 = [
         "id": "bw8-128",
         "name": "Dowsing Machine",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -8354,6 +8482,7 @@ let bw8 = [
         "id": "bw8-129",
         "name": "Scramble Switch",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Item",
             "ACE SPEC"
@@ -8390,6 +8519,7 @@ let bw8 = [
         "id": "bw8-130",
         "name": "Victory Piece",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Pokémon Tool",
             "ACE SPEC"
@@ -8427,6 +8557,7 @@ let bw8 = [
         "id": "bw8-131",
         "name": "Victini-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX"
@@ -8497,6 +8628,7 @@ let bw8 = [
         "id": "bw8-132",
         "name": "Articuno-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX",
@@ -8577,6 +8709,7 @@ let bw8 = [
         "id": "bw8-133",
         "name": "Cobalion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX"
@@ -8653,6 +8786,7 @@ let bw8 = [
         "id": "bw8-134",
         "name": "Lugia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Basic",
             "EX",
@@ -8729,6 +8863,7 @@ let bw8 = [
         "id": "bw8-135",
         "name": "Colress",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Supporter",
             "Team Plasma"
@@ -8764,6 +8899,7 @@ let bw8 = [
         "id": "bw8-136",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2"
         ],
@@ -8836,6 +8972,7 @@ let bw8 = [
         "id": "bw8-137",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Stage 2"
         ],
@@ -8903,6 +9040,7 @@ let bw8 = [
         "id": "bw8-138",
         "name": "Random Receiver",
         "supertype": "Trainer",
+        "setAbbrev": "PLS",
         "subtypes": [
             "Item"
         ],

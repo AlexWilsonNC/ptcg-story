@@ -3,6 +3,7 @@ let sm115 = [
         "id": "sm115-1",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let sm115 = [
         "id": "sm115-2",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -123,6 +125,7 @@ let sm115 = [
         "id": "sm115-3",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 2"
         ],
@@ -181,6 +184,7 @@ let sm115 = [
         "id": "sm115-4",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -250,6 +254,7 @@ let sm115 = [
         "id": "sm115-5",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -319,6 +324,7 @@ let sm115 = [
         "id": "sm115-6",
         "name": "Pinsir-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -391,6 +397,7 @@ let sm115 = [
         "id": "sm115-7",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -460,6 +467,7 @@ let sm115 = [
         "id": "sm115-8",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -532,6 +540,7 @@ let sm115 = [
         "id": "sm115-9",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -607,6 +616,7 @@ let sm115 = [
         "id": "sm115-10",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -667,6 +677,7 @@ let sm115 = [
         "id": "sm115-11",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -726,6 +737,7 @@ let sm115 = [
         "id": "sm115-12",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -786,6 +798,7 @@ let sm115 = [
         "id": "sm115-13",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -845,6 +858,7 @@ let sm115 = [
         "id": "sm115-14",
         "name": "Starmie-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -924,6 +938,7 @@ let sm115 = [
         "id": "sm115-15",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -983,6 +998,7 @@ let sm115 = [
         "id": "sm115-16",
         "name": "Gyarados-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -1058,6 +1074,7 @@ let sm115 = [
         "id": "sm115-17",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -1116,6 +1133,7 @@ let sm115 = [
         "id": "sm115-18",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1185,6 +1203,7 @@ let sm115 = [
         "id": "sm115-19",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -1261,6 +1280,7 @@ let sm115 = [
         "id": "sm115-20",
         "name": "Raichu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -1340,6 +1360,7 @@ let sm115 = [
         "id": "sm115-21",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -1405,6 +1426,7 @@ let sm115 = [
         "id": "sm115-22",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1479,6 +1501,7 @@ let sm115 = [
         "id": "sm115-23",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1549,6 +1572,7 @@ let sm115 = [
         "id": "sm115-24",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -1623,6 +1647,7 @@ let sm115 = [
         "id": "sm115-25",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -1682,6 +1707,7 @@ let sm115 = [
         "id": "sm115-26",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -1742,6 +1768,7 @@ let sm115 = [
         "id": "sm115-27",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1808,6 +1835,7 @@ let sm115 = [
         "id": "sm115-28",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -1867,6 +1895,7 @@ let sm115 = [
         "id": "sm115-29",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1931,6 +1960,7 @@ let sm115 = [
         "id": "sm115-30",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -1997,6 +2027,7 @@ let sm115 = [
         "id": "sm115-31",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -2069,6 +2100,7 @@ let sm115 = [
         "id": "sm115-32",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -2126,6 +2158,7 @@ let sm115 = [
         "id": "sm115-33",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -2185,6 +2218,7 @@ let sm115 = [
         "id": "sm115-34",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2258,6 +2292,7 @@ let sm115 = [
         "id": "sm115-35",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 2"
         ],
@@ -2329,6 +2364,7 @@ let sm115 = [
         "id": "sm115-36",
         "name": "Onix-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -2417,6 +2453,7 @@ let sm115 = [
         "id": "sm115-37",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -2477,6 +2514,7 @@ let sm115 = [
         "id": "sm115-38",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -2551,6 +2589,7 @@ let sm115 = [
         "id": "sm115-39",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -2626,6 +2665,7 @@ let sm115 = [
         "id": "sm115-40",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2701,6 +2741,7 @@ let sm115 = [
         "id": "sm115-41",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -2776,6 +2817,7 @@ let sm115 = [
         "id": "sm115-42",
         "name": "Wigglytuff-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2855,6 +2897,7 @@ let sm115 = [
         "id": "sm115-43",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -2927,6 +2970,7 @@ let sm115 = [
         "id": "sm115-44",
         "name": "Moltres & Zapdos & Articuno-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -3007,6 +3051,7 @@ let sm115 = [
         "id": "sm115-45",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -3073,6 +3118,7 @@ let sm115 = [
         "id": "sm115-46",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -3134,6 +3180,7 @@ let sm115 = [
         "id": "sm115-47",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -3191,6 +3238,7 @@ let sm115 = [
         "id": "sm115-48",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -3267,6 +3315,7 @@ let sm115 = [
         "id": "sm115-49",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -3333,6 +3382,7 @@ let sm115 = [
         "id": "sm115-50",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -3392,6 +3442,7 @@ let sm115 = [
         "id": "sm115-51",
         "name": "Bill's Analysis",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3426,6 +3477,7 @@ let sm115 = [
         "id": "sm115-52",
         "name": "Blaine's Last Stand",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3461,6 +3513,7 @@ let sm115 = [
         "id": "sm115-53",
         "name": "Brock's Grit",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3495,6 +3548,7 @@ let sm115 = [
         "id": "sm115-54",
         "name": "Brock's Pewter City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stadium"
         ],
@@ -3529,6 +3583,7 @@ let sm115 = [
         "id": "sm115-55",
         "name": "Brock's Training",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3563,6 +3618,7 @@ let sm115 = [
         "id": "sm115-56",
         "name": "Erika's Hospitality",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3598,6 +3654,7 @@ let sm115 = [
         "id": "sm115-57",
         "name": "Giovanni's Exile",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3632,6 +3689,7 @@ let sm115 = [
         "id": "sm115-58",
         "name": "Jessie & James",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3669,6 +3727,7 @@ let sm115 = [
         "id": "sm115-59",
         "name": "Koga's Trap",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3703,6 +3762,7 @@ let sm115 = [
         "id": "sm115-60",
         "name": "Lt. Surge's Strategy",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3741,6 +3801,7 @@ let sm115 = [
         "id": "sm115-61",
         "name": "Misty's Cerulean City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stadium"
         ],
@@ -3775,6 +3836,7 @@ let sm115 = [
         "id": "sm115-62",
         "name": "Misty's Determination",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3809,6 +3871,7 @@ let sm115 = [
         "id": "sm115-63",
         "name": "Misty's Water Command",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3843,6 +3906,7 @@ let sm115 = [
         "id": "sm115-64",
         "name": "Pokémon Center Lady",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3877,6 +3941,7 @@ let sm115 = [
         "id": "sm115-65",
         "name": "Sabrina's Suggestion",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -3911,6 +3976,7 @@ let sm115 = [
         "id": "sm115-66",
         "name": "Moltres & Zapdos & Articuno-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -3991,6 +4057,7 @@ let sm115 = [
         "id": "sm115-67",
         "name": "Giovanni's Exile",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -4025,6 +4092,7 @@ let sm115 = [
         "id": "sm115-68",
         "name": "Jessie & James",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -4062,6 +4130,7 @@ let sm115 = [
         "id": "sm115-69",
         "name": "Moltres & Zapdos & Articuno-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -4142,6 +4211,7 @@ let sm115 = [
         "id": "sma-SV1",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -4210,6 +4280,7 @@ let sm115 = [
         "id": "sma-SV2",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -4278,6 +4349,7 @@ let sm115 = [
         "id": "sma-SV3",
         "name": "Dartrix",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4348,6 +4420,7 @@ let sm115 = [
         "id": "sma-SV4",
         "name": "Wimpod",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -4415,6 +4488,7 @@ let sm115 = [
         "id": "sma-SV5",
         "name": "Pheromosa",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -4481,6 +4555,7 @@ let sm115 = [
         "id": "sma-SV6",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -4540,6 +4615,7 @@ let sm115 = [
         "id": "sma-SV7",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4608,6 +4684,7 @@ let sm115 = [
         "id": "sma-SV8",
         "name": "Alolan Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -4674,6 +4751,7 @@ let sm115 = [
         "id": "sma-SV9",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -4742,6 +4820,7 @@ let sm115 = [
         "id": "sma-SV10",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4807,6 +4886,7 @@ let sm115 = [
         "id": "sma-SV11",
         "name": "Froakie",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -4873,6 +4953,7 @@ let sm115 = [
         "id": "sma-SV12",
         "name": "Frogadier",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4939,6 +5020,7 @@ let sm115 = [
         "id": "sma-SV13",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -5011,6 +5093,7 @@ let sm115 = [
         "id": "sma-SV14",
         "name": "Xurkitree",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -5084,6 +5167,7 @@ let sm115 = [
         "id": "sma-SV15",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -5148,6 +5232,7 @@ let sm115 = [
         "id": "sma-SV16",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -5222,6 +5307,7 @@ let sm115 = [
         "id": "sma-SV17",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -5280,6 +5366,7 @@ let sm115 = [
         "id": "sma-SV18",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5345,6 +5432,7 @@ let sm115 = [
         "id": "sma-SV19",
         "name": "Poipole",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -5414,6 +5502,7 @@ let sm115 = [
         "id": "sma-SV20",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -5477,6 +5566,7 @@ let sm115 = [
         "id": "sma-SV21",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -5544,6 +5634,7 @@ let sm115 = [
         "id": "sma-SV22",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5608,6 +5699,7 @@ let sm115 = [
         "id": "sma-SV23",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -5667,6 +5759,7 @@ let sm115 = [
         "id": "sma-SV24",
         "name": "Buzzwole",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -5734,6 +5827,7 @@ let sm115 = [
         "id": "sma-SV25",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -5808,6 +5902,7 @@ let sm115 = [
         "id": "sma-SV26",
         "name": "Guzzlord",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -5873,6 +5968,7 @@ let sm115 = [
         "id": "sma-SV27",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -5946,6 +6042,7 @@ let sm115 = [
         "id": "sma-SV28",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6022,6 +6119,7 @@ let sm115 = [
         "id": "sma-SV29",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 2"
         ],
@@ -6094,6 +6192,7 @@ let sm115 = [
         "id": "sma-SV30",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -6158,6 +6257,7 @@ let sm115 = [
         "id": "sma-SV31",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6234,6 +6334,7 @@ let sm115 = [
         "id": "sma-SV32",
         "name": "Celesteela",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -6300,6 +6401,7 @@ let sm115 = [
         "id": "sma-SV33",
         "name": "Kartana",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -6363,6 +6465,7 @@ let sm115 = [
         "id": "sma-SV34",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -6427,6 +6530,7 @@ let sm115 = [
         "id": "sma-SV35",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6503,6 +6607,7 @@ let sm115 = [
         "id": "sma-SV36",
         "name": "Diancie",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -6574,6 +6679,7 @@ let sm115 = [
         "id": "sma-SV37",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6638,6 +6744,7 @@ let sm115 = [
         "id": "sma-SV38",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -6696,6 +6803,7 @@ let sm115 = [
         "id": "sma-SV39",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6765,6 +6873,7 @@ let sm115 = [
         "id": "sma-SV40",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 2"
         ],
@@ -6832,6 +6941,7 @@ let sm115 = [
         "id": "sma-SV41",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -6904,6 +7014,7 @@ let sm115 = [
         "id": "sma-SV42",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -6978,6 +7089,7 @@ let sm115 = [
         "id": "sma-SV43",
         "name": "Noibat",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -7042,6 +7154,7 @@ let sm115 = [
         "id": "sma-SV44",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -7106,6 +7219,7 @@ let sm115 = [
         "id": "sma-SV45",
         "name": "Type: Null",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic"
         ],
@@ -7173,6 +7287,7 @@ let sm115 = [
         "id": "sma-SV46",
         "name": "Leafeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7250,6 +7365,7 @@ let sm115 = [
         "id": "sma-SV47",
         "name": "Decidueye-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -7327,6 +7443,7 @@ let sm115 = [
         "id": "sma-SV48",
         "name": "Golisopod-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7408,6 +7525,7 @@ let sm115 = [
         "id": "sma-SV49",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -7493,6 +7611,7 @@ let sm115 = [
         "id": "sma-SV50",
         "name": "Ho-Oh-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -7582,6 +7701,7 @@ let sm115 = [
         "id": "sma-SV51",
         "name": "Reshiram-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -7664,6 +7784,7 @@ let sm115 = [
         "id": "sma-SV52",
         "name": "Turtonator-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -7743,6 +7864,7 @@ let sm115 = [
         "id": "sma-SV53",
         "name": "Alolan Ninetales-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7824,6 +7946,7 @@ let sm115 = [
         "id": "sma-SV54",
         "name": "Articuno-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -7900,6 +8023,7 @@ let sm115 = [
         "id": "sma-SV55",
         "name": "Glaceon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7979,6 +8103,7 @@ let sm115 = [
         "id": "sma-SV56",
         "name": "Greninja-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -8058,6 +8183,7 @@ let sm115 = [
         "id": "sma-SV57",
         "name": "Electrode-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8141,6 +8267,7 @@ let sm115 = [
         "id": "sma-SV58",
         "name": "Xurkitree-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX",
@@ -8224,6 +8351,7 @@ let sm115 = [
         "id": "sma-SV59",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -8303,6 +8431,7 @@ let sm115 = [
         "id": "sma-SV60",
         "name": "Espeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8384,6 +8513,7 @@ let sm115 = [
         "id": "sma-SV61",
         "name": "Banette-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8465,6 +8595,7 @@ let sm115 = [
         "id": "sma-SV62",
         "name": "Nihilego-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX",
@@ -8544,6 +8675,7 @@ let sm115 = [
         "id": "sma-SV63",
         "name": "Naganadel-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX",
@@ -8626,6 +8758,7 @@ let sm115 = [
         "id": "sma-SV64",
         "name": "Lucario-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8706,6 +8839,7 @@ let sm115 = [
         "id": "sma-SV65",
         "name": "Zygarde-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -8789,6 +8923,7 @@ let sm115 = [
         "id": "sma-SV66",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8867,6 +9002,7 @@ let sm115 = [
         "id": "sma-SV67",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8944,6 +9080,7 @@ let sm115 = [
         "id": "sma-SV68",
         "name": "Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX",
@@ -9025,6 +9162,7 @@ let sm115 = [
         "id": "sma-SV69",
         "name": "Umbreon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9111,6 +9249,7 @@ let sm115 = [
         "id": "sma-SV70",
         "name": "Darkrai-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -9195,6 +9334,7 @@ let sm115 = [
         "id": "sma-SV71",
         "name": "Guzzlord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX",
@@ -9286,6 +9426,7 @@ let sm115 = [
         "id": "sma-SV72",
         "name": "Scizor-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9370,6 +9511,7 @@ let sm115 = [
         "id": "sma-SV73",
         "name": "Kartana-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX",
@@ -9453,6 +9595,7 @@ let sm115 = [
         "id": "sma-SV74",
         "name": "Stakataka-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX",
@@ -9538,6 +9681,7 @@ let sm115 = [
         "id": "sma-SV75",
         "name": "Gardevoir-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9619,6 +9763,7 @@ let sm115 = [
         "id": "sma-SV76",
         "name": "Sylveon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9706,6 +9851,7 @@ let sm115 = [
         "id": "sma-SV77",
         "name": "Altaria-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9787,6 +9933,7 @@ let sm115 = [
         "id": "sma-SV78",
         "name": "Noivern-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9868,6 +10015,7 @@ let sm115 = [
         "id": "sma-SV79",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9947,6 +10095,7 @@ let sm115 = [
         "id": "sma-SV80",
         "name": "Drampa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -10025,6 +10174,7 @@ let sm115 = [
         "id": "sma-SV81",
         "name": "Aether Foundation Employee",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -10058,6 +10208,7 @@ let sm115 = [
         "id": "sma-SV82",
         "name": "Cynthia",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -10091,6 +10242,7 @@ let sm115 = [
         "id": "sma-SV83",
         "name": "Fisherman",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -10124,6 +10276,7 @@ let sm115 = [
         "id": "sma-SV84",
         "name": "Guzma",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -10157,6 +10310,7 @@ let sm115 = [
         "id": "sma-SV85",
         "name": "Hiker",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -10190,6 +10344,7 @@ let sm115 = [
         "id": "sma-SV86",
         "name": "Lady",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Supporter"
         ],
@@ -10223,6 +10378,7 @@ let sm115 = [
         "id": "sma-SV87",
         "name": "Aether Paradise Conservation Area",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stadium"
         ],
@@ -10256,6 +10412,7 @@ let sm115 = [
         "id": "sma-SV88",
         "name": "Brooklet Hill",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stadium"
         ],
@@ -10289,6 +10446,7 @@ let sm115 = [
         "id": "sma-SV89",
         "name": "Mt. Coronet",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stadium"
         ],
@@ -10322,6 +10480,7 @@ let sm115 = [
         "id": "sma-SV90",
         "name": "Shrine of Punishment",
         "supertype": "Trainer",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Stadium"
         ],
@@ -10355,6 +10514,7 @@ let sm115 = [
         "id": "sma-SV91",
         "name": "Tapu Bulu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -10429,6 +10589,7 @@ let sm115 = [
         "id": "sma-SV92",
         "name": "Tapu Fini-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -10501,6 +10662,7 @@ let sm115 = [
         "id": "sma-SV93",
         "name": "Tapu Koko-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"
@@ -10573,6 +10735,7 @@ let sm115 = [
         "id": "sma-SV94",
         "name": "Tapu Lele-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "HIF",
         "subtypes": [
             "Basic",
             "GX"

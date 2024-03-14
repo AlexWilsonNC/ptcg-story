@@ -3,6 +3,7 @@ let g1 = [
         "id": "g1-1",
         "name": "Venusaur-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -79,6 +80,7 @@ let g1 = [
         "id": "g1-2",
         "name": "M Venusaur-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "MEGA",
             "EX"
@@ -143,6 +145,7 @@ let g1 = [
         "id": "g1-3",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -209,6 +212,7 @@ let g1 = [
         "id": "g1-4",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -277,6 +281,7 @@ let g1 = [
         "id": "g1-5",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 2"
         ],
@@ -351,6 +356,7 @@ let g1 = [
         "id": "g1-6",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -410,6 +416,7 @@ let g1 = [
         "id": "g1-7",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -477,6 +484,7 @@ let g1 = [
         "id": "g1-8",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -548,6 +556,7 @@ let g1 = [
         "id": "g1-9",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -615,6 +624,7 @@ let g1 = [
         "id": "g1-10",
         "name": "Leafeon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -686,6 +696,7 @@ let g1 = [
         "id": "g1-11",
         "name": "Charizard-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -761,6 +772,7 @@ let g1 = [
         "id": "g1-12",
         "name": "M Charizard-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "MEGA",
             "EX"
@@ -825,6 +837,7 @@ let g1 = [
         "id": "g1-13",
         "name": "Ninetales-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -896,6 +909,7 @@ let g1 = [
         "id": "g1-14",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -964,6 +978,7 @@ let g1 = [
         "id": "g1-15",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1030,6 +1045,7 @@ let g1 = [
         "id": "g1-16",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1099,6 +1115,7 @@ let g1 = [
         "id": "g1-17",
         "name": "Blastoise-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -1175,6 +1192,7 @@ let g1 = [
         "id": "g1-18",
         "name": "M Blastoise-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "MEGA",
             "EX"
@@ -1239,6 +1257,7 @@ let g1 = [
         "id": "g1-19",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1299,6 +1318,7 @@ let g1 = [
         "id": "g1-20",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1368,6 +1388,7 @@ let g1 = [
         "id": "g1-21",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1438,6 +1459,7 @@ let g1 = [
         "id": "g1-22",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1497,6 +1519,7 @@ let g1 = [
         "id": "g1-23",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1568,6 +1591,7 @@ let g1 = [
         "id": "g1-24",
         "name": "Vaporeon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -1639,6 +1663,7 @@ let g1 = [
         "id": "g1-25",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1713,6 +1738,7 @@ let g1 = [
         "id": "g1-26",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -1788,6 +1814,7 @@ let g1 = [
         "id": "g1-27",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -1862,6 +1889,7 @@ let g1 = [
         "id": "g1-28",
         "name": "Jolteon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -1937,6 +1965,7 @@ let g1 = [
         "id": "g1-28a",
         "name": "Jolteon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -2012,6 +2041,7 @@ let g1 = [
         "id": "g1-29",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2085,6 +2115,7 @@ let g1 = [
         "id": "g1-30",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2150,6 +2181,7 @@ let g1 = [
         "id": "g1-31",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2222,6 +2254,7 @@ let g1 = [
         "id": "g1-32",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2292,6 +2325,7 @@ let g1 = [
         "id": "g1-33",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2357,6 +2391,7 @@ let g1 = [
         "id": "g1-34",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2431,6 +2466,7 @@ let g1 = [
         "id": "g1-35",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 2"
         ],
@@ -2503,6 +2539,7 @@ let g1 = [
         "id": "g1-36",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2568,6 +2605,7 @@ let g1 = [
         "id": "g1-37",
         "name": "Meowstic-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -2635,6 +2673,7 @@ let g1 = [
         "id": "g1-38",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2704,6 +2743,7 @@ let g1 = [
         "id": "g1-39",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2772,6 +2812,7 @@ let g1 = [
         "id": "g1-40",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -2831,6 +2872,7 @@ let g1 = [
         "id": "g1-41",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -2892,6 +2934,7 @@ let g1 = [
         "id": "g1-42",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 2"
         ],
@@ -2958,6 +3001,7 @@ let g1 = [
         "id": "g1-43",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3027,6 +3071,7 @@ let g1 = [
         "id": "g1-44",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3101,6 +3146,7 @@ let g1 = [
         "id": "g1-45",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 2"
         ],
@@ -3172,6 +3218,7 @@ let g1 = [
         "id": "g1-46",
         "name": "Golem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -3245,6 +3292,7 @@ let g1 = [
         "id": "g1-47",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3311,6 +3359,7 @@ let g1 = [
         "id": "g1-48",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3379,6 +3428,7 @@ let g1 = [
         "id": "g1-49",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3439,6 +3489,7 @@ let g1 = [
         "id": "g1-50",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3514,6 +3565,7 @@ let g1 = [
         "id": "g1-51",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3587,6 +3639,7 @@ let g1 = [
         "id": "g1-52",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3657,6 +3710,7 @@ let g1 = [
         "id": "g1-53",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3716,6 +3770,7 @@ let g1 = [
         "id": "g1-54",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3783,6 +3838,7 @@ let g1 = [
         "id": "g1-55",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3858,6 +3914,7 @@ let g1 = [
         "id": "g1-56",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -3930,6 +3987,7 @@ let g1 = [
         "id": "g1-57",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -3997,6 +4055,7 @@ let g1 = [
         "id": "g1-58",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4063,6 +4122,7 @@ let g1 = [
         "id": "g1-59",
         "name": "Clemont",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4097,6 +4157,7 @@ let g1 = [
         "id": "g1-60",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4131,6 +4192,7 @@ let g1 = [
         "id": "g1-61",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4165,6 +4227,7 @@ let g1 = [
         "id": "g1-62",
         "name": "Evosoda",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4199,6 +4262,7 @@ let g1 = [
         "id": "g1-63",
         "name": "Imakuni?",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4232,6 +4296,7 @@ let g1 = [
         "id": "g1-64",
         "name": "Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4266,6 +4331,7 @@ let g1 = [
         "id": "g1-65",
         "name": "Max Revive",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4300,6 +4366,7 @@ let g1 = [
         "id": "g1-66",
         "name": "Olympia",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4334,6 +4401,7 @@ let g1 = [
         "id": "g1-67",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4368,6 +4436,7 @@ let g1 = [
         "id": "g1-68",
         "name": "Pokémon Center Lady",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4402,6 +4471,7 @@ let g1 = [
         "id": "g1-69",
         "name": "Pokémon Fan Club",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4436,6 +4506,7 @@ let g1 = [
         "id": "g1-70",
         "name": "Revitalizer",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4470,6 +4541,7 @@ let g1 = [
         "id": "g1-71",
         "name": "Red Card",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Item"
         ],
@@ -4507,6 +4579,7 @@ let g1 = [
         "id": "g1-72",
         "name": "Shauna",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4541,6 +4614,7 @@ let g1 = [
         "id": "g1-73",
         "name": "Team Flare Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4575,6 +4649,7 @@ let g1 = [
         "id": "g1-73a",
         "name": "Team Flare Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -4609,6 +4684,7 @@ let g1 = [
         "id": "g1-74",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Special"
         ],
@@ -4642,6 +4718,7 @@ let g1 = [
         "id": "g1-75",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4671,6 +4748,7 @@ let g1 = [
         "id": "g1-76",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4700,6 +4778,7 @@ let g1 = [
         "id": "g1-77",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4729,6 +4808,7 @@ let g1 = [
         "id": "g1-78",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4758,6 +4838,7 @@ let g1 = [
         "id": "g1-79",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4787,6 +4868,7 @@ let g1 = [
         "id": "g1-80",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4816,6 +4898,7 @@ let g1 = [
         "id": "g1-81",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4845,6 +4928,7 @@ let g1 = [
         "id": "g1-82",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4874,6 +4958,7 @@ let g1 = [
         "id": "g1-83",
         "name": "Fairy Energy",
         "supertype": "Energy",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4903,6 +4988,7 @@ let g1 = [
         "id": "g1-RC1",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -4972,6 +5058,7 @@ let g1 = [
         "id": "g1-RC2",
         "name": "Shroomish",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5031,6 +5118,7 @@ let g1 = [
         "id": "g1-RC3",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5091,6 +5179,7 @@ let g1 = [
         "id": "g1-RC4",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5162,6 +5251,7 @@ let g1 = [
         "id": "g1-RC5",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 2"
         ],
@@ -5231,6 +5321,7 @@ let g1 = [
         "id": "g1-RC6",
         "name": "Flareon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -5299,6 +5390,7 @@ let g1 = [
         "id": "g1-RC7",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5359,6 +5451,7 @@ let g1 = [
         "id": "g1-RC8",
         "name": "Froslass",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5425,6 +5518,7 @@ let g1 = [
         "id": "g1-RC9",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5499,6 +5593,7 @@ let g1 = [
         "id": "g1-RC10",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5570,6 +5665,7 @@ let g1 = [
         "id": "g1-RC11",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5634,6 +5730,7 @@ let g1 = [
         "id": "g1-RC12",
         "name": "Gulpin",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5694,6 +5791,7 @@ let g1 = [
         "id": "g1-RC13",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5761,6 +5859,7 @@ let g1 = [
         "id": "g1-RC14",
         "name": "Espurr",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5820,6 +5919,7 @@ let g1 = [
         "id": "g1-RC15",
         "name": "Meowstic",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -5888,6 +5988,7 @@ let g1 = [
         "id": "g1-RC16",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -5961,6 +6062,7 @@ let g1 = [
         "id": "g1-RC17",
         "name": "Flabébé",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6026,6 +6128,7 @@ let g1 = [
         "id": "g1-RC18",
         "name": "Floette",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6102,6 +6205,7 @@ let g1 = [
         "id": "g1-RC19",
         "name": "Swirlix",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6177,6 +6281,7 @@ let g1 = [
         "id": "g1-RC20",
         "name": "Slurpuff",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6251,6 +6356,7 @@ let g1 = [
         "id": "g1-RC21",
         "name": "Sylveon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -6328,6 +6434,7 @@ let g1 = [
         "id": "g1-RC22",
         "name": "Diancie",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6401,6 +6508,7 @@ let g1 = [
         "id": "g1-RC23",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6466,6 +6574,7 @@ let g1 = [
         "id": "g1-RC24",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Stage 1"
         ],
@@ -6539,6 +6648,7 @@ let g1 = [
         "id": "g1-RC25",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6604,6 +6714,7 @@ let g1 = [
         "id": "g1-RC26",
         "name": "Floral Crown",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6639,6 +6750,7 @@ let g1 = [
         "id": "g1-RC27",
         "name": "Wally",
         "supertype": "Trainer",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Supporter"
         ],
@@ -6673,6 +6785,7 @@ let g1 = [
         "id": "g1-RC28",
         "name": "Flareon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -6741,6 +6854,7 @@ let g1 = [
         "id": "g1-RC29",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic"
         ],
@@ -6816,6 +6930,7 @@ let g1 = [
         "id": "g1-RC30",
         "name": "Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"
@@ -6895,6 +7010,7 @@ let g1 = [
         "id": "g1-RC31",
         "name": "M Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "MEGA",
             "EX"
@@ -6964,6 +7080,7 @@ let g1 = [
         "id": "g1-RC32",
         "name": "Sylveon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "GEN",
         "subtypes": [
             "Basic",
             "EX"

@@ -3,6 +3,7 @@ let hgss1 = [
         "id": "hgss1-1",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -73,6 +74,7 @@ let hgss1 = [
         "id": "hgss1-2",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -142,6 +144,7 @@ let hgss1 = [
         "id": "hgss1-3",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -210,6 +213,7 @@ let hgss1 = [
         "id": "hgss1-4",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -287,6 +291,7 @@ let hgss1 = [
         "id": "hgss1-5",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -354,6 +359,7 @@ let hgss1 = [
         "id": "hgss1-6",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 2"
         ],
@@ -425,6 +431,7 @@ let hgss1 = [
         "id": "hgss1-7",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -491,6 +498,7 @@ let hgss1 = [
         "id": "hgss1-8",
         "name": "Noctowl",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -563,6 +571,7 @@ let hgss1 = [
         "id": "hgss1-9",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -640,6 +649,7 @@ let hgss1 = [
         "id": "hgss1-10",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -712,6 +722,7 @@ let hgss1 = [
         "id": "hgss1-11",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -776,6 +787,7 @@ let hgss1 = [
         "id": "hgss1-12",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -841,6 +853,7 @@ let hgss1 = [
         "id": "hgss1-13",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -898,6 +911,7 @@ let hgss1 = [
         "id": "hgss1-14",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 2"
         ],
@@ -972,6 +986,7 @@ let hgss1 = [
         "id": "hgss1-15",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1041,6 +1056,7 @@ let hgss1 = [
         "id": "hgss1-16",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1114,6 +1130,7 @@ let hgss1 = [
         "id": "hgss1-17",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -1171,6 +1188,7 @@ let hgss1 = [
         "id": "hgss1-18",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1237,6 +1255,7 @@ let hgss1 = [
         "id": "hgss1-19",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -1311,6 +1330,7 @@ let hgss1 = [
         "id": "hgss1-20",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1382,6 +1402,7 @@ let hgss1 = [
         "id": "hgss1-21",
         "name": "Furret",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1449,6 +1470,7 @@ let hgss1 = [
         "id": "hgss1-22",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1519,6 +1541,7 @@ let hgss1 = [
         "id": "hgss1-23",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1585,6 +1608,7 @@ let hgss1 = [
         "id": "hgss1-24",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -1652,6 +1676,7 @@ let hgss1 = [
         "id": "hgss1-25",
         "name": "Ledian",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1724,6 +1749,7 @@ let hgss1 = [
         "id": "hgss1-26",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1798,6 +1824,7 @@ let hgss1 = [
         "id": "hgss1-27",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1865,6 +1892,7 @@ let hgss1 = [
         "id": "hgss1-28",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -1922,6 +1950,7 @@ let hgss1 = [
         "id": "hgss1-29",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1996,6 +2025,7 @@ let hgss1 = [
         "id": "hgss1-30",
         "name": "Smoochum",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -2053,6 +2083,7 @@ let hgss1 = [
         "id": "hgss1-31",
         "name": "Sunflora",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2125,6 +2156,7 @@ let hgss1 = [
         "id": "hgss1-32",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2194,6 +2226,7 @@ let hgss1 = [
         "id": "hgss1-33",
         "name": "Tyrogue",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -2253,6 +2286,7 @@ let hgss1 = [
         "id": "hgss1-34",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2320,6 +2354,7 @@ let hgss1 = [
         "id": "hgss1-35",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2397,6 +2432,7 @@ let hgss1 = [
         "id": "hgss1-36",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2465,6 +2501,7 @@ let hgss1 = [
         "id": "hgss1-37",
         "name": "Corsola",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -2534,6 +2571,7 @@ let hgss1 = [
         "id": "hgss1-38",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2606,6 +2644,7 @@ let hgss1 = [
         "id": "hgss1-39",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -2678,6 +2717,7 @@ let hgss1 = [
         "id": "hgss1-40",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2755,6 +2795,7 @@ let hgss1 = [
         "id": "hgss1-41",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -2820,6 +2861,7 @@ let hgss1 = [
         "id": "hgss1-42",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2897,6 +2939,7 @@ let hgss1 = [
         "id": "hgss1-43",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -2965,6 +3008,7 @@ let hgss1 = [
         "id": "hgss1-44",
         "name": "Igglybuff",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -3022,6 +3066,7 @@ let hgss1 = [
         "id": "hgss1-45",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -3094,6 +3139,7 @@ let hgss1 = [
         "id": "hgss1-46",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3162,6 +3208,7 @@ let hgss1 = [
         "id": "hgss1-47",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -3229,6 +3276,7 @@ let hgss1 = [
         "id": "hgss1-48",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3297,6 +3345,7 @@ let hgss1 = [
         "id": "hgss1-49",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3369,6 +3418,7 @@ let hgss1 = [
         "id": "hgss1-50",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -3426,6 +3476,7 @@ let hgss1 = [
         "id": "hgss1-51",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3491,6 +3542,7 @@ let hgss1 = [
         "id": "hgss1-52",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3559,6 +3611,7 @@ let hgss1 = [
         "id": "hgss1-53",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3615,6 +3668,7 @@ let hgss1 = [
         "id": "hgss1-54",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -3678,6 +3732,7 @@ let hgss1 = [
         "id": "hgss1-55",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -3741,6 +3796,7 @@ let hgss1 = [
         "id": "hgss1-56",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3810,6 +3866,7 @@ let hgss1 = [
         "id": "hgss1-57",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -3869,6 +3926,7 @@ let hgss1 = [
         "id": "hgss1-58",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -3940,6 +3998,7 @@ let hgss1 = [
         "id": "hgss1-59",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4015,6 +4074,7 @@ let hgss1 = [
         "id": "hgss1-60",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4083,6 +4143,7 @@ let hgss1 = [
         "id": "hgss1-61",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4152,6 +4213,7 @@ let hgss1 = [
         "id": "hgss1-62",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4221,6 +4283,7 @@ let hgss1 = [
         "id": "hgss1-63",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4280,6 +4343,7 @@ let hgss1 = [
         "id": "hgss1-64",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4346,6 +4410,7 @@ let hgss1 = [
         "id": "hgss1-65",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4416,6 +4481,7 @@ let hgss1 = [
         "id": "hgss1-66",
         "name": "Hoothoot",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4491,6 +4557,7 @@ let hgss1 = [
         "id": "hgss1-67",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4556,6 +4623,7 @@ let hgss1 = [
         "id": "hgss1-68",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4616,6 +4684,7 @@ let hgss1 = [
         "id": "hgss1-69",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4682,6 +4751,7 @@ let hgss1 = [
         "id": "hgss1-70",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4751,6 +4821,7 @@ let hgss1 = [
         "id": "hgss1-71",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4826,6 +4897,7 @@ let hgss1 = [
         "id": "hgss1-72",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4885,6 +4957,7 @@ let hgss1 = [
         "id": "hgss1-73",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -4960,6 +5033,7 @@ let hgss1 = [
         "id": "hgss1-74",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5030,6 +5104,7 @@ let hgss1 = [
         "id": "hgss1-75",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5099,6 +5174,7 @@ let hgss1 = [
         "id": "hgss1-76",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5168,6 +5244,7 @@ let hgss1 = [
         "id": "hgss1-77",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5233,6 +5310,7 @@ let hgss1 = [
         "id": "hgss1-78",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5308,6 +5386,7 @@ let hgss1 = [
         "id": "hgss1-79",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5382,6 +5461,7 @@ let hgss1 = [
         "id": "hgss1-80",
         "name": "Sentret",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5450,6 +5530,7 @@ let hgss1 = [
         "id": "hgss1-81",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5510,6 +5591,7 @@ let hgss1 = [
         "id": "hgss1-82",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5579,6 +5661,7 @@ let hgss1 = [
         "id": "hgss1-83",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5647,6 +5730,7 @@ let hgss1 = [
         "id": "hgss1-84",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5706,6 +5790,7 @@ let hgss1 = [
         "id": "hgss1-85",
         "name": "Sunkern",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5781,6 +5866,7 @@ let hgss1 = [
         "id": "hgss1-86",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5850,6 +5936,7 @@ let hgss1 = [
         "id": "hgss1-87",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5919,6 +6006,7 @@ let hgss1 = [
         "id": "hgss1-88",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -5993,6 +6081,7 @@ let hgss1 = [
         "id": "hgss1-89",
         "name": "Bill",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Supporter"
         ],
@@ -6027,6 +6116,7 @@ let hgss1 = [
         "id": "hgss1-90",
         "name": "Copycat",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Supporter"
         ],
@@ -6061,6 +6151,7 @@ let hgss1 = [
         "id": "hgss1-91",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "rules": [
             "Move a basic Energy card attached 1 of your Pokémon to another of your Pokémon."
         ],
@@ -6091,6 +6182,7 @@ let hgss1 = [
         "id": "hgss1-92",
         "name": "Fisherman",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Supporter"
         ],
@@ -6125,6 +6217,7 @@ let hgss1 = [
         "id": "hgss1-93",
         "name": "Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Item"
         ],
@@ -6158,6 +6251,7 @@ let hgss1 = [
         "id": "hgss1-94",
         "name": "Moomoo Milk",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Item"
         ],
@@ -6191,6 +6285,7 @@ let hgss1 = [
         "id": "hgss1-95",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Item"
         ],
@@ -6224,6 +6319,7 @@ let hgss1 = [
         "id": "hgss1-96",
         "name": "Pokégear 3.0",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Item"
         ],
@@ -6257,6 +6353,7 @@ let hgss1 = [
         "id": "hgss1-97",
         "name": "Pokémon Collector",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Supporter"
         ],
@@ -6291,6 +6388,7 @@ let hgss1 = [
         "id": "hgss1-98",
         "name": "Pokémon Communication",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Item"
         ],
@@ -6324,6 +6422,7 @@ let hgss1 = [
         "id": "hgss1-99",
         "name": "Pokémon Reversal",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Item"
         ],
@@ -6357,6 +6456,7 @@ let hgss1 = [
         "id": "hgss1-100",
         "name": "Professor Elm's Training Method",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Supporter"
         ],
@@ -6391,6 +6491,7 @@ let hgss1 = [
         "id": "hgss1-101",
         "name": "Professor Oak's New Theory",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Supporter"
         ],
@@ -6425,6 +6526,7 @@ let hgss1 = [
         "id": "hgss1-102",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Item"
         ],
@@ -6458,6 +6560,7 @@ let hgss1 = [
         "id": "hgss1-103",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "HS",
         "subtypes": [
             "Special"
         ],
@@ -6491,6 +6594,7 @@ let hgss1 = [
         "id": "hgss1-104",
         "name": "Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "HS",
         "subtypes": [
             "Special"
         ],
@@ -6524,6 +6628,7 @@ let hgss1 = [
         "id": "hgss1-105",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -6596,6 +6701,7 @@ let hgss1 = [
         "id": "hgss1-106",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -6662,6 +6768,7 @@ let hgss1 = [
         "id": "hgss1-107",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -6743,6 +6850,7 @@ let hgss1 = [
         "id": "hgss1-108",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -6810,6 +6918,7 @@ let hgss1 = [
         "id": "hgss1-109",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -6883,6 +6992,7 @@ let hgss1 = [
         "id": "hgss1-110",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -6949,6 +7059,7 @@ let hgss1 = [
         "id": "hgss1-111",
         "name": "Ho-Oh LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "LEGEND"
         ],
@@ -7025,6 +7136,7 @@ let hgss1 = [
         "id": "hgss1-112",
         "name": "Ho-Oh LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "LEGEND"
         ],
@@ -7101,6 +7213,7 @@ let hgss1 = [
         "id": "hgss1-113",
         "name": "Lugia LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "LEGEND"
         ],
@@ -7176,6 +7289,7 @@ let hgss1 = [
         "id": "hgss1-114",
         "name": "Lugia LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "LEGEND"
         ],
@@ -7251,6 +7365,7 @@ let hgss1 = [
         "id": "hgss1-115",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -7280,6 +7395,7 @@ let hgss1 = [
         "id": "hgss1-116",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -7309,6 +7425,7 @@ let hgss1 = [
         "id": "hgss1-117",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -7338,6 +7455,7 @@ let hgss1 = [
         "id": "hgss1-118",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -7367,6 +7485,7 @@ let hgss1 = [
         "id": "hgss1-119",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -7396,6 +7515,7 @@ let hgss1 = [
         "id": "hgss1-120",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -7425,6 +7545,7 @@ let hgss1 = [
         "id": "hgss1-121",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -7454,6 +7575,7 @@ let hgss1 = [
         "id": "hgss1-122",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "HS",
         "subtypes": [
             "Basic"
         ],
@@ -7483,6 +7605,7 @@ let hgss1 = [
         "id": "hgss1-123",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "HS",
         "subtypes": [
             "Stage 1"
         ],
@@ -7558,6 +7681,7 @@ let hgss1 = [
         "id": "hgss1-ONE",
         "name": "Alph Lithograph",
         "supertype": "Trainer",
+        "setAbbrev": "HS",
         "subtypes": [
             "Item"
         ],

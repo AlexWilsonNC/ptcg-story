@@ -3,6 +3,7 @@ let swsh35 = [
         "id": "swsh35-1",
         "name": "Venusaur V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -116,6 +117,7 @@ let swsh35 = [
         "id": "swsh35-2",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -220,6 +222,7 @@ let swsh35 = [
         "id": "swsh35-3",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -327,6 +330,7 @@ let swsh35 = [
         "id": "swsh35-4",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 2"
         ],
@@ -429,6 +433,7 @@ let swsh35 = [
         "id": "swsh35-5",
         "name": "Eldegoss V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -534,6 +539,7 @@ let swsh35 = [
         "id": "swsh35-6",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -648,6 +654,7 @@ let swsh35 = [
         "id": "swsh35-7",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -759,6 +766,7 @@ let swsh35 = [
         "id": "swsh35-8",
         "name": "Incineroar V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -872,6 +880,7 @@ let swsh35 = [
         "id": "swsh35-9",
         "name": "Sizzlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -987,6 +996,7 @@ let swsh35 = [
         "id": "swsh35-10",
         "name": "Centiskorch",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1105,6 +1115,7 @@ let swsh35 = [
         "id": "swsh35-11",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -1209,6 +1220,7 @@ let swsh35 = [
         "id": "swsh35-12",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1311,6 +1323,7 @@ let swsh35 = [
         "id": "swsh35-13",
         "name": "Wailord V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -1423,6 +1436,7 @@ let swsh35 = [
         "id": "swsh35-14",
         "name": "Drednaw V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -1532,6 +1546,7 @@ let swsh35 = [
         "id": "swsh35-15",
         "name": "Drednaw VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "VMAX"
         ],
@@ -1641,6 +1656,7 @@ let swsh35 = [
         "id": "swsh35-16",
         "name": "Gardevoir V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -1750,6 +1766,7 @@ let swsh35 = [
         "id": "swsh35-17",
         "name": "Gardevoir VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "VMAX"
         ],
@@ -1850,6 +1867,7 @@ let swsh35 = [
         "id": "swsh35-18",
         "name": "Hatenna",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -1970,6 +1988,7 @@ let swsh35 = [
         "id": "swsh35-19",
         "name": "Hattrem",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2092,6 +2111,7 @@ let swsh35 = [
         "id": "swsh35-20",
         "name": "Hatterene",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 2"
         ],
@@ -2209,6 +2229,7 @@ let swsh35 = [
         "id": "swsh35-21",
         "name": "Galarian Cursola V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -2321,6 +2342,7 @@ let swsh35 = [
         "id": "swsh35-22",
         "name": "Alcremie V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -2430,6 +2452,7 @@ let swsh35 = [
         "id": "swsh35-23",
         "name": "Alcremie VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "VMAX"
         ],
@@ -2539,6 +2562,7 @@ let swsh35 = [
         "id": "swsh35-24",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -2654,6 +2678,7 @@ let swsh35 = [
         "id": "swsh35-25",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2772,6 +2797,7 @@ let swsh35 = [
         "id": "swsh35-26",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 2"
         ],
@@ -2888,6 +2914,7 @@ let swsh35 = [
         "id": "swsh35-27",
         "name": "Lucario V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -2997,6 +3024,7 @@ let swsh35 = [
         "id": "swsh35-28",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -3112,6 +3140,7 @@ let swsh35 = [
         "id": "swsh35-29",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -3226,6 +3255,7 @@ let swsh35 = [
         "id": "swsh35-30",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3340,6 +3370,7 @@ let swsh35 = [
         "id": "swsh35-31",
         "name": "Rolycoly",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -3445,6 +3476,7 @@ let swsh35 = [
         "id": "swsh35-32",
         "name": "Grapploct V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -3554,6 +3586,7 @@ let swsh35 = [
         "id": "swsh35-33",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -3668,6 +3701,7 @@ let swsh35 = [
         "id": "swsh35-34",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3780,6 +3814,7 @@ let swsh35 = [
         "id": "swsh35-35",
         "name": "Galarian Zigzagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -3885,6 +3920,7 @@ let swsh35 = [
         "id": "swsh35-36",
         "name": "Galarian Linoone",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -3992,6 +4028,7 @@ let swsh35 = [
         "id": "swsh35-37",
         "name": "Galarian Obstagoon",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 2"
         ],
@@ -4104,6 +4141,7 @@ let swsh35 = [
         "id": "swsh35-38",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -4206,6 +4244,7 @@ let swsh35 = [
         "id": "swsh35-39",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -4320,6 +4359,7 @@ let swsh35 = [
         "id": "swsh35-40",
         "name": "Liepard",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4431,6 +4471,7 @@ let swsh35 = [
         "id": "swsh35-41",
         "name": "Scraggy",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -4545,6 +4586,7 @@ let swsh35 = [
         "id": "swsh35-42",
         "name": "Scrafty",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4659,6 +4701,7 @@ let swsh35 = [
         "id": "swsh35-43",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -4764,6 +4807,7 @@ let swsh35 = [
         "id": "swsh35-44",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -4878,6 +4922,7 @@ let swsh35 = [
         "id": "swsh35-45",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -4994,6 +5039,7 @@ let swsh35 = [
         "id": "swsh35-46",
         "name": "Nickit",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -5108,6 +5154,7 @@ let swsh35 = [
         "id": "swsh35-47",
         "name": "Duraludon V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -5222,6 +5269,7 @@ let swsh35 = [
         "id": "swsh35-48",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic"
         ],
@@ -5332,6 +5380,7 @@ let swsh35 = [
         "id": "swsh35-49",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stage 1"
         ],
@@ -5448,6 +5497,7 @@ let swsh35 = [
         "id": "swsh35-50",
         "name": "Bede",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -5525,6 +5575,7 @@ let swsh35 = [
         "id": "swsh35-51",
         "name": "Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Item"
         ],
@@ -5602,6 +5653,7 @@ let swsh35 = [
         "id": "swsh35-52",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Item"
         ],
@@ -5679,6 +5731,7 @@ let swsh35 = [
         "id": "swsh35-53",
         "name": "Hop",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -5756,6 +5809,7 @@ let swsh35 = [
         "id": "swsh35-54",
         "name": "Hyper Potion",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Item"
         ],
@@ -5833,6 +5887,7 @@ let swsh35 = [
         "id": "swsh35-55",
         "name": "Kabu",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -5910,6 +5965,7 @@ let swsh35 = [
         "id": "swsh35-56",
         "name": "Marnie",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -5987,6 +6043,7 @@ let swsh35 = [
         "id": "swsh35-57",
         "name": "Milo",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -6064,6 +6121,7 @@ let swsh35 = [
         "id": "swsh35-58",
         "name": "Piers",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -6141,6 +6199,7 @@ let swsh35 = [
         "id": "swsh35-59",
         "name": "Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Item"
         ],
@@ -6218,6 +6277,7 @@ let swsh35 = [
         "id": "swsh35-60",
         "name": "Pokémon Center Lady",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -6295,6 +6355,7 @@ let swsh35 = [
         "id": "swsh35-61",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Item"
         ],
@@ -6372,6 +6433,7 @@ let swsh35 = [
         "id": "swsh35-62",
         "name": "Professor's Research (Professor Magnolia)",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -6449,6 +6511,7 @@ let swsh35 = [
         "id": "swsh35-63",
         "name": "Rotom Bike",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Item"
         ],
@@ -6526,6 +6589,7 @@ let swsh35 = [
         "id": "swsh35-64",
         "name": "Rotom Phone",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Item"
         ],
@@ -6603,6 +6667,7 @@ let swsh35 = [
         "id": "swsh35-65",
         "name": "Sonia",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -6680,6 +6745,7 @@ let swsh35 = [
         "id": "swsh35-66",
         "name": "Suspicious Food Tin",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Item"
         ],
@@ -6757,6 +6823,7 @@ let swsh35 = [
         "id": "swsh35-67",
         "name": "Team Yell Grunt",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -6834,6 +6901,7 @@ let swsh35 = [
         "id": "swsh35-68",
         "name": "Turffield Stadium",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Stadium"
         ],
@@ -6911,6 +6979,7 @@ let swsh35 = [
         "id": "swsh35-69",
         "name": "Drednaw V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -7020,6 +7089,7 @@ let swsh35 = [
         "id": "swsh35-70",
         "name": "Gardevoir V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -7129,6 +7199,7 @@ let swsh35 = [
         "id": "swsh35-71",
         "name": "Galarian Cursola V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -7241,6 +7312,7 @@ let swsh35 = [
         "id": "swsh35-72",
         "name": "Grapploct V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -7350,6 +7422,7 @@ let swsh35 = [
         "id": "swsh35-73",
         "name": "Hop",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -7420,6 +7493,7 @@ let swsh35 = [
         "id": "swsh35-74",
         "name": "Charizard VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "VMAX"
         ],
@@ -7534,6 +7608,7 @@ let swsh35 = [
         "id": "swsh35-75",
         "name": "Drednaw VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "VMAX"
         ],
@@ -7643,6 +7718,7 @@ let swsh35 = [
         "id": "swsh35-76",
         "name": "Gardevoir VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "VMAX"
         ],
@@ -7743,6 +7819,7 @@ let swsh35 = [
         "id": "swsh35-77",
         "name": "Kabu",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -7813,6 +7890,7 @@ let swsh35 = [
         "id": "swsh35-78",
         "name": "Piers",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Supporter"
         ],
@@ -7883,6 +7961,7 @@ let swsh35 = [
         "id": "swsh35-79",
         "name": "Charizard V",
         "supertype": "Pokémon",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Basic",
             "V"
@@ -7996,6 +8075,7 @@ let swsh35 = [
         "id": "swsh35-80",
         "name": "Suspicious Food Tin",
         "supertype": "Trainer",
+        "setAbbrev": "CPA",
         "subtypes": [
             "Item"
         ],

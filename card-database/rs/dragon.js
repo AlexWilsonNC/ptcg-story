@@ -3,6 +3,7 @@ let ex3 = [
         "id": "ex3-1",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -74,6 +75,7 @@ let ex3 = [
         "id": "ex3-2",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -150,6 +152,7 @@ let ex3 = [
         "id": "ex3-3",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -215,6 +218,7 @@ let ex3 = [
         "id": "ex3-4",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],
@@ -293,6 +297,7 @@ let ex3 = [
         "id": "ex3-5",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],
@@ -364,6 +369,7 @@ let ex3 = [
         "id": "ex3-6",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -432,6 +438,7 @@ let ex3 = [
         "id": "ex3-7",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -510,6 +517,7 @@ let ex3 = [
         "id": "ex3-8",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -588,6 +596,7 @@ let ex3 = [
         "id": "ex3-9",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -662,6 +671,7 @@ let ex3 = [
         "id": "ex3-10",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],
@@ -748,6 +758,7 @@ let ex3 = [
         "id": "ex3-11",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -805,6 +816,7 @@ let ex3 = [
         "id": "ex3-12",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -869,6 +881,7 @@ let ex3 = [
         "id": "ex3-13",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -936,6 +949,7 @@ let ex3 = [
         "id": "ex3-14",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1017,6 +1031,7 @@ let ex3 = [
         "id": "ex3-15",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1076,6 +1091,7 @@ let ex3 = [
         "id": "ex3-16",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -1141,6 +1157,7 @@ let ex3 = [
         "id": "ex3-17",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1214,6 +1231,7 @@ let ex3 = [
         "id": "ex3-18",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1280,6 +1298,7 @@ let ex3 = [
         "id": "ex3-19",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1339,6 +1358,7 @@ let ex3 = [
         "id": "ex3-20",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1419,6 +1439,7 @@ let ex3 = [
         "id": "ex3-21",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -1490,6 +1511,7 @@ let ex3 = [
         "id": "ex3-22",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1569,6 +1591,7 @@ let ex3 = [
         "id": "ex3-23",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -1647,6 +1670,7 @@ let ex3 = [
         "id": "ex3-24",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1715,6 +1739,7 @@ let ex3 = [
         "id": "ex3-25",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1786,6 +1811,7 @@ let ex3 = [
         "id": "ex3-26",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -1863,6 +1889,7 @@ let ex3 = [
         "id": "ex3-27",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1938,6 +1965,7 @@ let ex3 = [
         "id": "ex3-28",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2012,6 +2040,7 @@ let ex3 = [
         "id": "ex3-29",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2083,6 +2112,7 @@ let ex3 = [
         "id": "ex3-30",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2154,6 +2184,7 @@ let ex3 = [
         "id": "ex3-31",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2220,6 +2251,7 @@ let ex3 = [
         "id": "ex3-32",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2289,6 +2321,7 @@ let ex3 = [
         "id": "ex3-33",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -2356,6 +2389,7 @@ let ex3 = [
         "id": "ex3-34",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2430,6 +2464,7 @@ let ex3 = [
         "id": "ex3-35",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2501,6 +2536,7 @@ let ex3 = [
         "id": "ex3-36",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2561,6 +2597,7 @@ let ex3 = [
         "id": "ex3-37",
         "name": "Meditite",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -2629,6 +2666,7 @@ let ex3 = [
         "id": "ex3-38",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2697,6 +2735,7 @@ let ex3 = [
         "id": "ex3-39",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2767,6 +2806,7 @@ let ex3 = [
         "id": "ex3-40",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2838,6 +2878,7 @@ let ex3 = [
         "id": "ex3-41",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2899,6 +2940,7 @@ let ex3 = [
         "id": "ex3-42",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2964,6 +3006,7 @@ let ex3 = [
         "id": "ex3-43",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3037,6 +3080,7 @@ let ex3 = [
         "id": "ex3-44",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3096,6 +3140,7 @@ let ex3 = [
         "id": "ex3-45",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3167,6 +3212,7 @@ let ex3 = [
         "id": "ex3-46",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3228,6 +3274,7 @@ let ex3 = [
         "id": "ex3-47",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3293,6 +3340,7 @@ let ex3 = [
         "id": "ex3-48",
         "name": "Whiscash",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3369,6 +3417,7 @@ let ex3 = [
         "id": "ex3-49",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3431,6 +3480,7 @@ let ex3 = [
         "id": "ex3-50",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3493,6 +3543,7 @@ let ex3 = [
         "id": "ex3-51",
         "name": "Barboach",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3561,6 +3612,7 @@ let ex3 = [
         "id": "ex3-52",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3628,6 +3680,7 @@ let ex3 = [
         "id": "ex3-53",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3696,6 +3749,7 @@ let ex3 = [
         "id": "ex3-54",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3764,6 +3818,7 @@ let ex3 = [
         "id": "ex3-55",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3831,6 +3886,7 @@ let ex3 = [
         "id": "ex3-56",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3889,6 +3945,7 @@ let ex3 = [
         "id": "ex3-57",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -3956,6 +4013,7 @@ let ex3 = [
         "id": "ex3-58",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4024,6 +4082,7 @@ let ex3 = [
         "id": "ex3-59",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4098,6 +4157,7 @@ let ex3 = [
         "id": "ex3-60",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4166,6 +4226,7 @@ let ex3 = [
         "id": "ex3-61",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4240,6 +4301,7 @@ let ex3 = [
         "id": "ex3-62",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4304,6 +4366,7 @@ let ex3 = [
         "id": "ex3-63",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4362,6 +4425,7 @@ let ex3 = [
         "id": "ex3-64",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4426,6 +4490,7 @@ let ex3 = [
         "id": "ex3-65",
         "name": "Mudkip",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4484,6 +4549,7 @@ let ex3 = [
         "id": "ex3-66",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4542,6 +4608,7 @@ let ex3 = [
         "id": "ex3-67",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4610,6 +4677,7 @@ let ex3 = [
         "id": "ex3-68",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4668,6 +4736,7 @@ let ex3 = [
         "id": "ex3-69",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4736,6 +4805,7 @@ let ex3 = [
         "id": "ex3-70",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4803,6 +4873,7 @@ let ex3 = [
         "id": "ex3-71",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4869,6 +4940,7 @@ let ex3 = [
         "id": "ex3-72",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4937,6 +5009,7 @@ let ex3 = [
         "id": "ex3-73",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -4995,6 +5068,7 @@ let ex3 = [
         "id": "ex3-74",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5063,6 +5137,7 @@ let ex3 = [
         "id": "ex3-75",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5136,6 +5211,7 @@ let ex3 = [
         "id": "ex3-76",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5200,6 +5276,7 @@ let ex3 = [
         "id": "ex3-77",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5259,6 +5336,7 @@ let ex3 = [
         "id": "ex3-78",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5317,6 +5395,7 @@ let ex3 = [
         "id": "ex3-79",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5385,6 +5464,7 @@ let ex3 = [
         "id": "ex3-80",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5450,6 +5530,7 @@ let ex3 = [
         "id": "ex3-81",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -5518,6 +5599,7 @@ let ex3 = [
         "id": "ex3-82",
         "name": "Balloon Berry",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5552,6 +5634,7 @@ let ex3 = [
         "id": "ex3-83",
         "name": "Buffer Piece",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5586,6 +5669,7 @@ let ex3 = [
         "id": "ex3-84",
         "name": "Energy Recycle System",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Item"
         ],
@@ -5619,6 +5703,7 @@ let ex3 = [
         "id": "ex3-85",
         "name": "High Pressure System",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stadium"
         ],
@@ -5653,6 +5738,7 @@ let ex3 = [
         "id": "ex3-86",
         "name": "Low Pressure System",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stadium"
         ],
@@ -5687,6 +5773,7 @@ let ex3 = [
         "id": "ex3-87",
         "name": "Mr. Briney's Compassion",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Supporter"
         ],
@@ -5721,6 +5808,7 @@ let ex3 = [
         "id": "ex3-88",
         "name": "TV Reporter",
         "supertype": "Trainer",
+        "setAbbrev": "DR",
         "subtypes": [
             "Supporter"
         ],
@@ -5755,6 +5843,7 @@ let ex3 = [
         "id": "ex3-89",
         "name": "Ampharos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5830,6 +5919,7 @@ let ex3 = [
         "id": "ex3-90",
         "name": "Dragonite ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5920,6 +6010,7 @@ let ex3 = [
         "id": "ex3-91",
         "name": "Golem ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5999,6 +6090,7 @@ let ex3 = [
         "id": "ex3-92",
         "name": "Kingdra ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6074,6 +6166,7 @@ let ex3 = [
         "id": "ex3-93",
         "name": "Latias ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6154,6 +6247,7 @@ let ex3 = [
         "id": "ex3-94",
         "name": "Latios ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6234,6 +6328,7 @@ let ex3 = [
         "id": "ex3-95",
         "name": "Magcargo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6305,6 +6400,7 @@ let ex3 = [
         "id": "ex3-96",
         "name": "Muk ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6383,6 +6479,7 @@ let ex3 = [
         "id": "ex3-97",
         "name": "Rayquaza ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6462,6 +6559,7 @@ let ex3 = [
         "id": "ex3-98",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Basic"
         ],
@@ -6530,6 +6628,7 @@ let ex3 = [
         "id": "ex3-99",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6599,6 +6698,7 @@ let ex3 = [
         "id": "ex3-100",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "DR",
         "subtypes": [
             "Stage 2"
         ],

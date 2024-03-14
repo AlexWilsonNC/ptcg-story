@@ -3,6 +3,7 @@ let latestSet = [
         "id": "sv4pt5-1",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -67,6 +68,7 @@ let latestSet = [
         "id": "sv4pt5-2",
         "name": "Forretress ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "Tera",
@@ -142,6 +144,7 @@ let latestSet = [
         "id": "sv4pt5-3",
         "name": "Maractus",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -213,6 +216,7 @@ let latestSet = [
         "id": "sv4pt5-4",
         "name": "Toedscool",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -272,6 +276,7 @@ let latestSet = [
         "id": "sv4pt5-5",
         "name": "Toedscruel ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -344,6 +349,7 @@ let latestSet = [
         "id": "sv4pt5-6",
         "name": "Espathra ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "Tera",
@@ -416,6 +422,7 @@ let latestSet = [
         "id": "sv4pt5-7",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -488,6 +495,7 @@ let latestSet = [
         "id": "sv4pt5-8",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -560,6 +568,7 @@ let latestSet = [
         "id": "sv4pt5-9",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -633,6 +642,7 @@ let latestSet = [
         "id": "sv4pt5-10",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -706,6 +716,7 @@ let latestSet = [
         "id": "sv4pt5-11",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -781,6 +792,7 @@ let latestSet = [
         "id": "sv4pt5-12",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -854,6 +866,7 @@ let latestSet = [
         "id": "sv4pt5-13",
         "name": "Heat Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -914,6 +927,7 @@ let latestSet = [
         "id": "sv4pt5-14",
         "name": "Charcadet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -975,6 +989,7 @@ let latestSet = [
         "id": "sv4pt5-15",
         "name": "Armarouge",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1045,6 +1060,7 @@ let latestSet = [
         "id": "sv4pt5-16",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -1114,6 +1130,7 @@ let latestSet = [
         "id": "sv4pt5-17",
         "name": "Frigibax",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -1184,6 +1201,7 @@ let latestSet = [
         "id": "sv4pt5-18",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -1256,6 +1274,7 @@ let latestSet = [
         "id": "sv4pt5-19",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1325,6 +1344,7 @@ let latestSet = [
         "id": "sv4pt5-20",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -1397,6 +1417,7 @@ let latestSet = [
         "id": "sv4pt5-21",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1470,6 +1491,7 @@ let latestSet = [
         "id": "sv4pt5-22",
         "name": "Kilowattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1543,6 +1565,7 @@ let latestSet = [
         "id": "sv4pt5-23",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -1622,6 +1645,7 @@ let latestSet = [
         "id": "sv4pt5-24",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1701,6 +1725,7 @@ let latestSet = [
         "id": "sv4pt5-25",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -1769,6 +1794,7 @@ let latestSet = [
         "id": "sv4pt5-26",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1844,6 +1870,7 @@ let latestSet = [
         "id": "sv4pt5-27",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -1913,6 +1940,7 @@ let latestSet = [
         "id": "sv4pt5-28",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1995,6 +2023,7 @@ let latestSet = [
         "id": "sv4pt5-29",
         "name": "Gardevoir ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -2074,6 +2103,7 @@ let latestSet = [
         "id": "sv4pt5-30",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -2151,6 +2181,7 @@ let latestSet = [
         "id": "sv4pt5-31",
         "name": "Mime Jr.",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -2210,6 +2241,7 @@ let latestSet = [
         "id": "sv4pt5-32",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -2278,6 +2310,7 @@ let latestSet = [
         "id": "sv4pt5-33",
         "name": "Swoobat",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2344,6 +2377,7 @@ let latestSet = [
         "id": "sv4pt5-34",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -2406,6 +2440,7 @@ let latestSet = [
         "id": "sv4pt5-35",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2462,6 +2497,7 @@ let latestSet = [
         "id": "sv4pt5-36",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -2531,6 +2567,7 @@ let latestSet = [
         "id": "sv4pt5-37",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -2598,6 +2635,7 @@ let latestSet = [
         "id": "sv4pt5-38",
         "name": "Fidough",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -2658,6 +2696,7 @@ let latestSet = [
         "id": "sv4pt5-39",
         "name": "Dachsbun",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2727,6 +2766,7 @@ let latestSet = [
         "id": "sv4pt5-40",
         "name": "Ceruledge",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2806,6 +2846,7 @@ let latestSet = [
         "id": "sv4pt5-41",
         "name": "Flittle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -2872,6 +2913,7 @@ let latestSet = [
         "id": "sv4pt5-42",
         "name": "Greavard",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -2938,6 +2980,7 @@ let latestSet = [
         "id": "sv4pt5-43",
         "name": "Houndstone",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3007,6 +3050,7 @@ let latestSet = [
         "id": "sv4pt5-44",
         "name": "Gimmighoul",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -3081,6 +3125,7 @@ let latestSet = [
         "id": "sv4pt5-45",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -3143,6 +3188,7 @@ let latestSet = [
         "id": "sv4pt5-46",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3203,6 +3249,7 @@ let latestSet = [
         "id": "sv4pt5-47",
         "name": "Annihilape",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -3274,6 +3321,7 @@ let latestSet = [
         "id": "sv4pt5-48",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -3349,6 +3397,7 @@ let latestSet = [
         "id": "sv4pt5-49",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3423,6 +3472,7 @@ let latestSet = [
         "id": "sv4pt5-50",
         "name": "Barboach",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -3496,6 +3546,7 @@ let latestSet = [
         "id": "sv4pt5-51",
         "name": "Clobbopus",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -3559,6 +3610,7 @@ let latestSet = [
         "id": "sv4pt5-52",
         "name": "Grapploct",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3631,6 +3683,7 @@ let latestSet = [
         "id": "sv4pt5-53",
         "name": "Great Tusk ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex",
@@ -3705,6 +3758,7 @@ let latestSet = [
         "id": "sv4pt5-54",
         "name": "Charizard ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2",
             "Tera",
@@ -3779,6 +3833,7 @@ let latestSet = [
         "id": "sv4pt5-55",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -3851,6 +3906,7 @@ let latestSet = [
         "id": "sv4pt5-56",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3915,6 +3971,7 @@ let latestSet = [
         "id": "sv4pt5-57",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -3983,6 +4040,7 @@ let latestSet = [
         "id": "sv4pt5-58",
         "name": "Paldean Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -4055,6 +4113,7 @@ let latestSet = [
         "id": "sv4pt5-59",
         "name": "Paldean Clodsire ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -4129,6 +4188,7 @@ let latestSet = [
         "id": "sv4pt5-60",
         "name": "Scraggy",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -4202,6 +4262,7 @@ let latestSet = [
         "id": "sv4pt5-61",
         "name": "Scrafty",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4274,6 +4335,7 @@ let latestSet = [
         "id": "sv4pt5-62",
         "name": "Maschiff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -4333,6 +4395,7 @@ let latestSet = [
         "id": "sv4pt5-63",
         "name": "Mabosstiff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4404,6 +4467,7 @@ let latestSet = [
         "id": "sv4pt5-64",
         "name": "Varoom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -4479,6 +4543,7 @@ let latestSet = [
         "id": "sv4pt5-65",
         "name": "Revavroom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4556,6 +4621,7 @@ let latestSet = [
         "id": "sv4pt5-66",
         "name": "Iron Treads ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex",
@@ -4627,6 +4693,7 @@ let latestSet = [
         "id": "sv4pt5-67",
         "name": "Gholdengo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -4705,6 +4772,7 @@ let latestSet = [
         "id": "sv4pt5-68",
         "name": "Noibat",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -4762,6 +4830,7 @@ let latestSet = [
         "id": "sv4pt5-69",
         "name": "Noivern ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -4826,6 +4895,7 @@ let latestSet = [
         "id": "sv4pt5-70",
         "name": "Cyclizar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -4881,6 +4951,7 @@ let latestSet = [
         "id": "sv4pt5-71",
         "name": "Lechonk",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -4942,6 +5013,7 @@ let latestSet = [
         "id": "sv4pt5-72",
         "name": "Oinkologne",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5015,6 +5087,7 @@ let latestSet = [
         "id": "sv4pt5-73",
         "name": "Tandemaus",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -5085,6 +5158,7 @@ let latestSet = [
         "id": "sv4pt5-74",
         "name": "Maushold",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5155,6 +5229,7 @@ let latestSet = [
         "id": "sv4pt5-75",
         "name": "Squawkabilly ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex"
@@ -5230,6 +5305,7 @@ let latestSet = [
         "id": "sv4pt5-76",
         "name": "Artazon",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stadium"
         ],
@@ -5265,6 +5341,7 @@ let latestSet = [
         "id": "sv4pt5-77",
         "name": "Atticus",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -5301,6 +5378,7 @@ let latestSet = [
         "id": "sv4pt5-78",
         "name": "Clive",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -5336,6 +5414,7 @@ let latestSet = [
         "id": "sv4pt5-79",
         "name": "Electric Generator",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Item"
         ],
@@ -5371,6 +5450,7 @@ let latestSet = [
         "id": "sv4pt5-80",
         "name": "Iono",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -5406,6 +5486,7 @@ let latestSet = [
         "id": "sv4pt5-81",
         "name": "Moonlit Hill",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stadium"
         ],
@@ -5441,6 +5522,7 @@ let latestSet = [
         "id": "sv4pt5-82",
         "name": "Nemona",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -5476,6 +5558,7 @@ let latestSet = [
         "id": "sv4pt5-83",
         "name": "Nemona's Backpack",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Item"
         ],
@@ -5511,6 +5594,7 @@ let latestSet = [
         "id": "sv4pt5-84",
         "name": "Nest Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Item"
         ],
@@ -5546,6 +5630,7 @@ let latestSet = [
         "id": "sv4pt5-85",
         "name": "Paldean Student",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -5581,6 +5666,7 @@ let latestSet = [
         "id": "sv4pt5-86",
         "name": "Paldean Student",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -5616,6 +5702,7 @@ let latestSet = [
         "id": "sv4pt5-87",
         "name": "Professor's Research",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -5651,6 +5738,7 @@ let latestSet = [
         "id": "sv4pt5-88",
         "name": "Professor's Research",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -5686,6 +5774,7 @@ let latestSet = [
         "id": "sv4pt5-89",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Item"
         ],
@@ -5721,6 +5810,7 @@ let latestSet = [
         "id": "sv4pt5-90",
         "name": "Technical Machine: Crisis Punch",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5769,6 +5859,7 @@ let latestSet = [
         "id": "sv4pt5-91",
         "name": "Ultra Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Item"
         ],
@@ -5805,6 +5896,7 @@ let latestSet = [
         "id": "sv4pt5-92",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -5868,6 +5960,7 @@ let latestSet = [
         "id": "sv4pt5-93",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -5940,6 +6033,7 @@ let latestSet = [
         "id": "sv4pt5-94",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -6010,6 +6104,7 @@ let latestSet = [
         "id": "sv4pt5-95",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -6082,6 +6177,7 @@ let latestSet = [
         "id": "sv4pt5-96",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -6144,6 +6240,7 @@ let latestSet = [
         "id": "sv4pt5-97",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6214,6 +6311,7 @@ let latestSet = [
         "id": "sv4pt5-98",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -6281,6 +6379,7 @@ let latestSet = [
         "id": "sv4pt5-99",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -6345,6 +6444,7 @@ let latestSet = [
         "id": "sv4pt5-100",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -6410,6 +6510,7 @@ let latestSet = [
         "id": "sv4pt5-101",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6481,6 +6582,7 @@ let latestSet = [
         "id": "sv4pt5-102",
         "name": "Smoliv",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -6550,6 +6652,7 @@ let latestSet = [
         "id": "sv4pt5-103",
         "name": "Dolliv",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6620,6 +6723,7 @@ let latestSet = [
         "id": "sv4pt5-104",
         "name": "Arboliva",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -6690,6 +6794,7 @@ let latestSet = [
         "id": "sv4pt5-105",
         "name": "Toedscool",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -6749,6 +6854,7 @@ let latestSet = [
         "id": "sv4pt5-106",
         "name": "Capsakid",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -6819,6 +6925,7 @@ let latestSet = [
         "id": "sv4pt5-107",
         "name": "Scovillain",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6889,6 +6996,7 @@ let latestSet = [
         "id": "sv4pt5-108",
         "name": "Rellor",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -6949,6 +7057,7 @@ let latestSet = [
         "id": "sv4pt5-109",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -7021,6 +7130,7 @@ let latestSet = [
         "id": "sv4pt5-110",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7093,6 +7203,7 @@ let latestSet = [
         "id": "sv4pt5-111",
         "name": "Paldean Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -7165,6 +7276,7 @@ let latestSet = [
         "id": "sv4pt5-112",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -7234,6 +7346,7 @@ let latestSet = [
         "id": "sv4pt5-113",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -7301,6 +7414,7 @@ let latestSet = [
         "id": "sv4pt5-114",
         "name": "Charcadet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -7362,6 +7476,7 @@ let latestSet = [
         "id": "sv4pt5-115",
         "name": "Armarouge",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7432,6 +7547,7 @@ let latestSet = [
         "id": "sv4pt5-116",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -7506,6 +7622,7 @@ let latestSet = [
         "id": "sv4pt5-117",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7576,6 +7693,7 @@ let latestSet = [
         "id": "sv4pt5-118",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -7639,6 +7757,7 @@ let latestSet = [
         "id": "sv4pt5-119",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7707,6 +7826,7 @@ let latestSet = [
         "id": "sv4pt5-120",
         "name": "Paldean Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -7779,6 +7899,7 @@ let latestSet = [
         "id": "sv4pt5-121",
         "name": "Wiglett",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -7838,6 +7959,7 @@ let latestSet = [
         "id": "sv4pt5-122",
         "name": "Wugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -7910,6 +8032,7 @@ let latestSet = [
         "id": "sv4pt5-123",
         "name": "Finizen",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -7979,6 +8102,7 @@ let latestSet = [
         "id": "sv4pt5-124",
         "name": "Palafin",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8050,6 +8174,7 @@ let latestSet = [
         "id": "sv4pt5-125",
         "name": "Veluza",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -8122,6 +8247,7 @@ let latestSet = [
         "id": "sv4pt5-126",
         "name": "Dondozo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -8197,6 +8323,7 @@ let latestSet = [
         "id": "sv4pt5-127",
         "name": "Tatsugiri",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -8265,6 +8392,7 @@ let latestSet = [
         "id": "sv4pt5-128",
         "name": "Frigibax",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -8335,6 +8463,7 @@ let latestSet = [
         "id": "sv4pt5-129",
         "name": "Arctibax",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8408,6 +8537,7 @@ let latestSet = [
         "id": "sv4pt5-130",
         "name": "Baxcalibur",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -8478,6 +8608,7 @@ let latestSet = [
         "id": "sv4pt5-131",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -8550,6 +8681,7 @@ let latestSet = [
         "id": "sv4pt5-132",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8619,6 +8751,7 @@ let latestSet = [
         "id": "sv4pt5-133",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -8681,6 +8814,7 @@ let latestSet = [
         "id": "sv4pt5-134",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8751,6 +8885,7 @@ let latestSet = [
         "id": "sv4pt5-135",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -8813,6 +8948,7 @@ let latestSet = [
         "id": "sv4pt5-136",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -8887,6 +9023,7 @@ let latestSet = [
         "id": "sv4pt5-137",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -8956,6 +9093,7 @@ let latestSet = [
         "id": "sv4pt5-138",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -9023,6 +9161,7 @@ let latestSet = [
         "id": "sv4pt5-139",
         "name": "Thundurus",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -9091,6 +9230,7 @@ let latestSet = [
         "id": "sv4pt5-140",
         "name": "Toxel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -9153,6 +9293,7 @@ let latestSet = [
         "id": "sv4pt5-141",
         "name": "Toxtricity",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9224,6 +9365,7 @@ let latestSet = [
         "id": "sv4pt5-142",
         "name": "Pawmi",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -9293,6 +9435,7 @@ let latestSet = [
         "id": "sv4pt5-143",
         "name": "Pawmo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9364,6 +9507,7 @@ let latestSet = [
         "id": "sv4pt5-144",
         "name": "Pawmot",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -9429,6 +9573,7 @@ let latestSet = [
         "id": "sv4pt5-145",
         "name": "Wattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -9504,6 +9649,7 @@ let latestSet = [
         "id": "sv4pt5-146",
         "name": "Kilowattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9577,6 +9723,7 @@ let latestSet = [
         "id": "sv4pt5-147",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9647,6 +9794,7 @@ let latestSet = [
         "id": "sv4pt5-148",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -9715,6 +9863,7 @@ let latestSet = [
         "id": "sv4pt5-149",
         "name": "Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9784,6 +9933,7 @@ let latestSet = [
         "id": "sv4pt5-150",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -9842,6 +9992,7 @@ let latestSet = [
         "id": "sv4pt5-151",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -9910,6 +10061,7 @@ let latestSet = [
         "id": "sv4pt5-152",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -9985,6 +10137,7 @@ let latestSet = [
         "id": "sv4pt5-153",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -10054,6 +10207,7 @@ let latestSet = [
         "id": "sv4pt5-154",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10136,6 +10290,7 @@ let latestSet = [
         "id": "sv4pt5-155",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -10215,6 +10370,7 @@ let latestSet = [
         "id": "sv4pt5-156",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10293,6 +10449,7 @@ let latestSet = [
         "id": "sv4pt5-157",
         "name": "Mime Jr.",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -10352,6 +10509,7 @@ let latestSet = [
         "id": "sv4pt5-158",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -10424,6 +10582,7 @@ let latestSet = [
         "id": "sv4pt5-159",
         "name": "Klefki",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -10490,6 +10649,7 @@ let latestSet = [
         "id": "sv4pt5-160",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -10557,6 +10717,7 @@ let latestSet = [
         "id": "sv4pt5-161",
         "name": "Dachsbun",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10626,6 +10787,7 @@ let latestSet = [
         "id": "sv4pt5-162",
         "name": "Ceruledge",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10705,6 +10867,7 @@ let latestSet = [
         "id": "sv4pt5-163",
         "name": "Rabsca",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10781,6 +10944,7 @@ let latestSet = [
         "id": "sv4pt5-164",
         "name": "Flittle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -10847,6 +11011,7 @@ let latestSet = [
         "id": "sv4pt5-165",
         "name": "Tinkatink",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -10917,6 +11082,7 @@ let latestSet = [
         "id": "sv4pt5-166",
         "name": "Tinkatuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -10990,6 +11156,7 @@ let latestSet = [
         "id": "sv4pt5-167",
         "name": "Tinkaton",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -11059,6 +11226,7 @@ let latestSet = [
         "id": "sv4pt5-168",
         "name": "Houndstone",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -11128,6 +11296,7 @@ let latestSet = [
         "id": "sv4pt5-169",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -11190,6 +11359,7 @@ let latestSet = [
         "id": "sv4pt5-170",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -11250,6 +11420,7 @@ let latestSet = [
         "id": "sv4pt5-171",
         "name": "Annihilape",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -11321,6 +11492,7 @@ let latestSet = [
         "id": "sv4pt5-172",
         "name": "Paldean Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -11393,6 +11565,7 @@ let latestSet = [
         "id": "sv4pt5-173",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -11465,6 +11638,7 @@ let latestSet = [
         "id": "sv4pt5-174",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -11537,6 +11711,7 @@ let latestSet = [
         "id": "sv4pt5-175",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -11605,6 +11780,7 @@ let latestSet = [
         "id": "sv4pt5-176",
         "name": "Nacli",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -11676,6 +11852,7 @@ let latestSet = [
         "id": "sv4pt5-177",
         "name": "Naclstack",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -11739,6 +11916,7 @@ let latestSet = [
         "id": "sv4pt5-178",
         "name": "Garganacl",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -11809,6 +11987,7 @@ let latestSet = [
         "id": "sv4pt5-179",
         "name": "Glimmet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -11868,6 +12047,7 @@ let latestSet = [
         "id": "sv4pt5-180",
         "name": "Paldean Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -11940,6 +12120,7 @@ let latestSet = [
         "id": "sv4pt5-181",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -12017,6 +12198,7 @@ let latestSet = [
         "id": "sv4pt5-182",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -12079,6 +12261,7 @@ let latestSet = [
         "id": "sv4pt5-183",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12147,6 +12330,7 @@ let latestSet = [
         "id": "sv4pt5-184",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -12215,6 +12399,7 @@ let latestSet = [
         "id": "sv4pt5-185",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -12287,6 +12472,7 @@ let latestSet = [
         "id": "sv4pt5-186",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12357,6 +12543,7 @@ let latestSet = [
         "id": "sv4pt5-187",
         "name": "Kingambit",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2"
         ],
@@ -12428,6 +12615,7 @@ let latestSet = [
         "id": "sv4pt5-188",
         "name": "Mabosstiff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12499,6 +12687,7 @@ let latestSet = [
         "id": "sv4pt5-189",
         "name": "Shroodle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -12567,6 +12756,7 @@ let latestSet = [
         "id": "sv4pt5-190",
         "name": "Grafaiai",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12636,6 +12826,7 @@ let latestSet = [
         "id": "sv4pt5-191",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12713,6 +12904,7 @@ let latestSet = [
         "id": "sv4pt5-192",
         "name": "Varoom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -12788,6 +12980,7 @@ let latestSet = [
         "id": "sv4pt5-193",
         "name": "Revavroom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -12865,6 +13058,7 @@ let latestSet = [
         "id": "sv4pt5-194",
         "name": "Noibat",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -12922,6 +13116,7 @@ let latestSet = [
         "id": "sv4pt5-195",
         "name": "Cyclizar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -12977,6 +13172,7 @@ let latestSet = [
         "id": "sv4pt5-196",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -13055,6 +13251,7 @@ let latestSet = [
         "id": "sv4pt5-197",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -13120,6 +13317,7 @@ let latestSet = [
         "id": "sv4pt5-198",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -13192,6 +13390,7 @@ let latestSet = [
         "id": "sv4pt5-199",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -13260,6 +13459,7 @@ let latestSet = [
         "id": "sv4pt5-200",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -13333,6 +13533,7 @@ let latestSet = [
         "id": "sv4pt5-201",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -13399,6 +13600,7 @@ let latestSet = [
         "id": "sv4pt5-202",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -13470,6 +13672,7 @@ let latestSet = [
         "id": "sv4pt5-203",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -13539,6 +13742,7 @@ let latestSet = [
         "id": "sv4pt5-204",
         "name": "Pelipper",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -13615,6 +13819,7 @@ let latestSet = [
         "id": "sv4pt5-205",
         "name": "Skwovet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -13685,6 +13890,7 @@ let latestSet = [
         "id": "sv4pt5-206",
         "name": "Greedent",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -13758,6 +13964,7 @@ let latestSet = [
         "id": "sv4pt5-207",
         "name": "Lechonk",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -13819,6 +14026,7 @@ let latestSet = [
         "id": "sv4pt5-208",
         "name": "Oinkologne",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -13892,6 +14100,7 @@ let latestSet = [
         "id": "sv4pt5-209",
         "name": "Tandemaus",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -13962,6 +14171,7 @@ let latestSet = [
         "id": "sv4pt5-210",
         "name": "Maushold",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -14032,6 +14242,7 @@ let latestSet = [
         "id": "sv4pt5-211",
         "name": "Flamigo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -14105,6 +14316,7 @@ let latestSet = [
         "id": "sv4pt5-212",
         "name": "Forretress ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "Tera",
@@ -14180,6 +14392,7 @@ let latestSet = [
         "id": "sv4pt5-213",
         "name": "Toedscruel ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14252,6 +14465,7 @@ let latestSet = [
         "id": "sv4pt5-214",
         "name": "Espathra ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "Tera",
@@ -14324,6 +14538,7 @@ let latestSet = [
         "id": "sv4pt5-215",
         "name": "Alakazam ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -14404,6 +14619,7 @@ let latestSet = [
         "id": "sv4pt5-216",
         "name": "Mew ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex"
@@ -14477,6 +14693,7 @@ let latestSet = [
         "id": "sv4pt5-217",
         "name": "Gardevoir ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -14556,6 +14773,7 @@ let latestSet = [
         "id": "sv4pt5-218",
         "name": "Glimmora ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14629,6 +14847,7 @@ let latestSet = [
         "id": "sv4pt5-219",
         "name": "Paldean Clodsire ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14703,6 +14922,7 @@ let latestSet = [
         "id": "sv4pt5-220",
         "name": "Noivern ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14767,6 +14987,7 @@ let latestSet = [
         "id": "sv4pt5-221",
         "name": "Pidgeot ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -14840,6 +15061,7 @@ let latestSet = [
         "id": "sv4pt5-222",
         "name": "Wigglytuff ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -14914,6 +15136,7 @@ let latestSet = [
         "id": "sv4pt5-223",
         "name": "Squawkabilly ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex"
@@ -14989,6 +15212,7 @@ let latestSet = [
         "id": "sv4pt5-224",
         "name": "Wugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -15061,6 +15285,7 @@ let latestSet = [
         "id": "sv4pt5-225",
         "name": "Palafin",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 1"
         ],
@@ -15132,6 +15357,7 @@ let latestSet = [
         "id": "sv4pt5-226",
         "name": "Pawmi",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic"
         ],
@@ -15201,6 +15427,7 @@ let latestSet = [
         "id": "sv4pt5-227",
         "name": "Clive",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -15236,6 +15463,7 @@ let latestSet = [
         "id": "sv4pt5-228",
         "name": "Judge",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -15271,6 +15499,7 @@ let latestSet = [
         "id": "sv4pt5-229",
         "name": "Nemona",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -15306,6 +15535,7 @@ let latestSet = [
         "id": "sv4pt5-230",
         "name": "Paldean Student",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -15341,6 +15571,7 @@ let latestSet = [
         "id": "sv4pt5-231",
         "name": "Paldean Student",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -15376,6 +15607,7 @@ let latestSet = [
         "id": "sv4pt5-232",
         "name": "Mew ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex"
@@ -15449,6 +15681,7 @@ let latestSet = [
         "id": "sv4pt5-233",
         "name": "Gardevoir ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -15528,6 +15761,7 @@ let latestSet = [
         "id": "sv4pt5-234",
         "name": "Charizard ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Stage 2",
             "Tera",
@@ -15602,6 +15836,7 @@ let latestSet = [
         "id": "sv4pt5-235",
         "name": "Arven",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -15637,6 +15872,7 @@ let latestSet = [
         "id": "sv4pt5-236",
         "name": "Clive",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -15672,6 +15908,7 @@ let latestSet = [
         "id": "sv4pt5-237",
         "name": "Iono",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -15707,6 +15944,7 @@ let latestSet = [
         "id": "sv4pt5-238",
         "name": "Nemona",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -15742,6 +15980,7 @@ let latestSet = [
         "id": "sv4pt5-239",
         "name": "Penny",
         "supertype": "Trainer",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Supporter"
         ],
@@ -15777,6 +16016,7 @@ let latestSet = [
         "id": "sv4pt5-240",
         "name": "Wo-Chien ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex"
@@ -15856,6 +16096,7 @@ let latestSet = [
         "id": "sv4pt5-241",
         "name": "Chi-Yu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex"
@@ -15928,6 +16169,7 @@ let latestSet = [
         "id": "sv4pt5-242",
         "name": "Chien-Pao ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex"
@@ -15999,6 +16241,7 @@ let latestSet = [
         "id": "sv4pt5-243",
         "name": "Miraidon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex"
@@ -16070,6 +16313,7 @@ let latestSet = [
         "id": "sv4pt5-244",
         "name": "Ting-Lu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex"
@@ -16144,6 +16388,7 @@ let latestSet = [
         "id": "sv4pt5-245",
         "name": "Koraidon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAF",
         "subtypes": [
             "Basic",
             "ex"
@@ -16236,6 +16481,7 @@ function displayList(arr) {
         let img = document.createElement('img');
         img.classList.add('database-card-in-list');
         img.setAttribute('src', item.images.small);
+        img.setAttribute('alt', item.name + " " + item.setAbbrev + " " + item.number);
         img.loading = 'lazy';
         let addCardBtn = document.createElement('div');
         addCardBtn.classList.add('add-card-to-deck');
@@ -16292,6 +16538,8 @@ function displayList(arr) {
                         plusCard.style.pointerEvents = 'none';
                     }
                 cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+                deckImg.setAttribute('alt', newNumber + " " + item.name + " " + item.setAbbrev + " " + item.number);
+
                 // currentDeckCount.innerHTML = newNumber;
             })
             minusCard.addEventListener("click", () => {
@@ -16303,6 +16551,8 @@ function displayList(arr) {
                 plusCard.style.pointerEvents = 'all';
                     console.log(newNumber);
                 cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
+                deckImg.setAttribute('alt', newNumber + " " + item.name + " " + item.setAbbrev + " " + item.number);
+
                 if (defaultCountofOne === 0) {
                     deckCardContainer.remove();
                     addCardBtn.style.opacity = 1;
@@ -16318,7 +16568,7 @@ function displayList(arr) {
             //     defaultCountofOne = newNumber;
             //         console.log(newNumber);
             //         if (defaultCountofOne === 4) {
-            //             plusCard.style.opacity = '0';
+            //             plusCard.style.opacity = '0.4';
             //         }
             //     cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
             // })

@@ -3,6 +3,7 @@ let pop6 = [
         "id": "pop6-1",
         "name": "Bastiodon",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Stage 2"
         ],
@@ -74,6 +75,7 @@ let pop6 = [
         "id": "pop6-2",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Stage 1"
         ],
@@ -140,6 +142,7 @@ let pop6 = [
         "id": "pop6-3",
         "name": "Manaphy",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -205,6 +208,7 @@ let pop6 = [
         "id": "pop6-4",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -275,6 +279,7 @@ let pop6 = [
         "id": "pop6-5",
         "name": "Rampardos",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Stage 2"
         ],
@@ -343,6 +348,7 @@ let pop6 = [
         "id": "pop6-6",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -417,6 +423,7 @@ let pop6 = [
         "id": "pop6-7",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -478,6 +485,7 @@ let pop6 = [
         "id": "pop6-8",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -536,6 +544,7 @@ let pop6 = [
         "id": "pop6-9",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -603,6 +612,7 @@ let pop6 = [
         "id": "pop6-10",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Stage 1"
         ],
@@ -678,6 +688,7 @@ let pop6 = [
         "id": "pop6-11",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -745,6 +756,7 @@ let pop6 = [
         "id": "pop6-12",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -813,6 +825,7 @@ let pop6 = [
         "id": "pop6-13",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -887,6 +900,7 @@ let pop6 = [
         "id": "pop6-14",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -953,6 +967,7 @@ let pop6 = [
         "id": "pop6-15",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -1019,6 +1034,7 @@ let pop6 = [
         "id": "pop6-16",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],
@@ -1093,6 +1109,7 @@ let pop6 = [
         "id": "pop6-17",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "P6",
         "subtypes": [
             "Basic"
         ],

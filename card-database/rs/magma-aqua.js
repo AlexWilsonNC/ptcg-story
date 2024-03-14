@@ -3,6 +3,7 @@ let ex4 = [
         "id": "ex4-1",
         "name": "Team Aqua's Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -74,6 +75,7 @@ let ex4 = [
         "id": "ex4-2",
         "name": "Team Aqua's Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -146,6 +148,7 @@ let ex4 = [
         "id": "ex4-3",
         "name": "Team Aqua's Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -224,6 +227,7 @@ let ex4 = [
         "id": "ex4-4",
         "name": "Team Aqua's Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -299,6 +303,7 @@ let ex4 = [
         "id": "ex4-5",
         "name": "Team Aqua's Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -370,6 +375,7 @@ let ex4 = [
         "id": "ex4-6",
         "name": "Team Aqua's Walrein",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2"
         ],
@@ -446,6 +452,7 @@ let ex4 = [
         "id": "ex4-7",
         "name": "Team Magma's Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2"
         ],
@@ -522,6 +529,7 @@ let ex4 = [
         "id": "ex4-8",
         "name": "Team Magma's Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -591,6 +599,7 @@ let ex4 = [
         "id": "ex4-9",
         "name": "Team Magma's Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -669,6 +678,7 @@ let ex4 = [
         "id": "ex4-10",
         "name": "Team Magma's Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -741,6 +751,7 @@ let ex4 = [
         "id": "ex4-11",
         "name": "Team Magma's Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -816,6 +827,7 @@ let ex4 = [
         "id": "ex4-12",
         "name": "Team Magma's Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -885,6 +897,7 @@ let ex4 = [
         "id": "ex4-13",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -953,6 +966,7 @@ let ex4 = [
         "id": "ex4-14",
         "name": "Team Aqua's Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1021,6 +1035,7 @@ let ex4 = [
         "id": "ex4-15",
         "name": "Team Aqua's Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1095,6 +1110,7 @@ let ex4 = [
         "id": "ex4-16",
         "name": "Team Aqua's Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1164,6 +1180,7 @@ let ex4 = [
         "id": "ex4-17",
         "name": "Team Aqua's Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -1230,6 +1247,7 @@ let ex4 = [
         "id": "ex4-18",
         "name": "Team Aqua's Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1297,6 +1315,7 @@ let ex4 = [
         "id": "ex4-19",
         "name": "Team Magma's Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1362,6 +1381,7 @@ let ex4 = [
         "id": "ex4-20",
         "name": "Team Magma's Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1432,6 +1452,7 @@ let ex4 = [
         "id": "ex4-21",
         "name": "Team Magma's Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1505,6 +1526,7 @@ let ex4 = [
         "id": "ex4-22",
         "name": "Team Magma's Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1576,6 +1598,7 @@ let ex4 = [
         "id": "ex4-23",
         "name": "Team Magma's Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -1642,6 +1665,7 @@ let ex4 = [
         "id": "ex4-24",
         "name": "Team Aqua's Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -1714,6 +1738,7 @@ let ex4 = [
         "id": "ex4-25",
         "name": "Team Aqua's Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -1780,6 +1805,7 @@ let ex4 = [
         "id": "ex4-26",
         "name": "Team Aqua's Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -1848,6 +1874,7 @@ let ex4 = [
         "id": "ex4-27",
         "name": "Team Aqua's Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -1922,6 +1949,7 @@ let ex4 = [
         "id": "ex4-28",
         "name": "Team Aqua's Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -1993,6 +2021,7 @@ let ex4 = [
         "id": "ex4-29",
         "name": "Team Aqua's Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2067,6 +2096,7 @@ let ex4 = [
         "id": "ex4-30",
         "name": "Team Aqua's Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2139,6 +2169,7 @@ let ex4 = [
         "id": "ex4-31",
         "name": "Team Aqua's Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2210,6 +2241,7 @@ let ex4 = [
         "id": "ex4-32",
         "name": "Team Magma's Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2278,6 +2310,7 @@ let ex4 = [
         "id": "ex4-33",
         "name": "Team Magma's Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2346,6 +2379,7 @@ let ex4 = [
         "id": "ex4-34",
         "name": "Team Magma's Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2414,6 +2448,7 @@ let ex4 = [
         "id": "ex4-35",
         "name": "Team Magma's Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2482,6 +2517,7 @@ let ex4 = [
         "id": "ex4-36",
         "name": "Team Magma's Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2552,6 +2588,7 @@ let ex4 = [
         "id": "ex4-37",
         "name": "Team Magma's Mightyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 1"
         ],
@@ -2622,6 +2659,7 @@ let ex4 = [
         "id": "ex4-38",
         "name": "Team Magma's Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2691,6 +2729,7 @@ let ex4 = [
         "id": "ex4-39",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2758,6 +2797,7 @@ let ex4 = [
         "id": "ex4-40",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2816,6 +2856,7 @@ let ex4 = [
         "id": "ex4-41",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2884,6 +2925,7 @@ let ex4 = [
         "id": "ex4-42",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -2952,6 +2994,7 @@ let ex4 = [
         "id": "ex4-43",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3020,6 +3063,7 @@ let ex4 = [
         "id": "ex4-44",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3087,6 +3131,7 @@ let ex4 = [
         "id": "ex4-45",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3156,6 +3201,7 @@ let ex4 = [
         "id": "ex4-46",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3221,6 +3267,7 @@ let ex4 = [
         "id": "ex4-47",
         "name": "Team Aqua's Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3289,6 +3336,7 @@ let ex4 = [
         "id": "ex4-48",
         "name": "Team Aqua's Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3357,6 +3405,7 @@ let ex4 = [
         "id": "ex4-49",
         "name": "Team Aqua's Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3431,6 +3480,7 @@ let ex4 = [
         "id": "ex4-50",
         "name": "Team Aqua's Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3489,6 +3539,7 @@ let ex4 = [
         "id": "ex4-51",
         "name": "Team Aqua's Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3557,6 +3608,7 @@ let ex4 = [
         "id": "ex4-52",
         "name": "Team Aqua's Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3631,6 +3683,7 @@ let ex4 = [
         "id": "ex4-53",
         "name": "Team Aqua's Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3705,6 +3758,7 @@ let ex4 = [
         "id": "ex4-54",
         "name": "Team Aqua's Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3779,6 +3833,7 @@ let ex4 = [
         "id": "ex4-55",
         "name": "Team Aqua's Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3853,6 +3908,7 @@ let ex4 = [
         "id": "ex4-56",
         "name": "Team Aqua's Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3911,6 +3967,7 @@ let ex4 = [
         "id": "ex4-57",
         "name": "Team Aqua's Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -3979,6 +4036,7 @@ let ex4 = [
         "id": "ex4-58",
         "name": "Team Magma's Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4047,6 +4105,7 @@ let ex4 = [
         "id": "ex4-59",
         "name": "Team Magma's Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4105,6 +4164,7 @@ let ex4 = [
         "id": "ex4-60",
         "name": "Team Magma's Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4173,6 +4233,7 @@ let ex4 = [
         "id": "ex4-61",
         "name": "Team Magma's Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4241,6 +4302,7 @@ let ex4 = [
         "id": "ex4-62",
         "name": "Team Magma's Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4309,6 +4371,7 @@ let ex4 = [
         "id": "ex4-63",
         "name": "Team Magma's Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4377,6 +4440,7 @@ let ex4 = [
         "id": "ex4-64",
         "name": "Team Magma's Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4445,6 +4509,7 @@ let ex4 = [
         "id": "ex4-65",
         "name": "Team Magma's Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4509,6 +4574,7 @@ let ex4 = [
         "id": "ex4-66",
         "name": "Team Magma's Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4583,6 +4649,7 @@ let ex4 = [
         "id": "ex4-67",
         "name": "Team Magma's Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4651,6 +4718,7 @@ let ex4 = [
         "id": "ex4-68",
         "name": "Team Magma's Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -4719,6 +4787,7 @@ let ex4 = [
         "id": "ex4-69",
         "name": "Team Aqua Schemer",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -4753,6 +4822,7 @@ let ex4 = [
         "id": "ex4-70",
         "name": "Team Magma Schemer",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -4787,6 +4857,7 @@ let ex4 = [
         "id": "ex4-71",
         "name": "Archie",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -4821,6 +4892,7 @@ let ex4 = [
         "id": "ex4-72",
         "name": "Dual Ball",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Item"
         ],
@@ -4854,6 +4926,7 @@ let ex4 = [
         "id": "ex4-73",
         "name": "Maxie",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -4888,6 +4961,7 @@ let ex4 = [
         "id": "ex4-74",
         "name": "Strength Charm",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -4922,6 +4996,7 @@ let ex4 = [
         "id": "ex4-75",
         "name": "Team Aqua Ball",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Item"
         ],
@@ -4955,6 +5030,7 @@ let ex4 = [
         "id": "ex4-76",
         "name": "Team Aqua Belt",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -4989,6 +5065,7 @@ let ex4 = [
         "id": "ex4-77",
         "name": "Team Aqua Conspirator",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -5023,6 +5100,7 @@ let ex4 = [
         "id": "ex4-78",
         "name": "Team Aqua Hideout",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stadium"
         ],
@@ -5057,6 +5135,7 @@ let ex4 = [
         "id": "ex4-79",
         "name": "Team Aqua Technical Machine 01",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Technical Machine"
         ],
@@ -5101,6 +5180,7 @@ let ex4 = [
         "id": "ex4-80",
         "name": "Team Magma Ball",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Item"
         ],
@@ -5134,6 +5214,7 @@ let ex4 = [
         "id": "ex4-81",
         "name": "Team Magma Belt",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -5168,6 +5249,7 @@ let ex4 = [
         "id": "ex4-82",
         "name": "Team Magma Conspirator",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Supporter"
         ],
@@ -5202,6 +5284,7 @@ let ex4 = [
         "id": "ex4-83",
         "name": "Team Magma Hideout",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stadium"
         ],
@@ -5236,6 +5319,7 @@ let ex4 = [
         "id": "ex4-84",
         "name": "Team Magma Technical Machine 01",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Technical Machine"
         ],
@@ -5280,6 +5364,7 @@ let ex4 = [
         "id": "ex4-85",
         "name": "Warp Point",
         "supertype": "Trainer",
+        "setAbbrev": "MA",
         "subtypes": [
             "Item"
         ],
@@ -5313,6 +5398,7 @@ let ex4 = [
         "id": "ex4-86",
         "name": "Aqua Energy",
         "supertype": "Energy",
+        "setAbbrev": "MA",
         "subtypes": [
             "Special"
         ],
@@ -5346,6 +5432,7 @@ let ex4 = [
         "id": "ex4-87",
         "name": "Magma Energy",
         "supertype": "Energy",
+        "setAbbrev": "MA",
         "subtypes": [
             "Special"
         ],
@@ -5379,6 +5466,7 @@ let ex4 = [
         "id": "ex4-88",
         "name": "Double Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "MA",
         "subtypes": [
             "Special"
         ],
@@ -5412,6 +5500,7 @@ let ex4 = [
         "id": "ex4-89",
         "name": "Blaziken ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5489,6 +5578,7 @@ let ex4 = [
         "id": "ex4-90",
         "name": "Cradily ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5573,6 +5663,7 @@ let ex4 = [
         "id": "ex4-91",
         "name": "Entei ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic",
             "EX"
@@ -5643,6 +5734,7 @@ let ex4 = [
         "id": "ex4-92",
         "name": "Raikou ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic",
             "EX"
@@ -5713,6 +5805,7 @@ let ex4 = [
         "id": "ex4-93",
         "name": "Sceptile ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5807,6 +5900,7 @@ let ex4 = [
         "id": "ex4-94",
         "name": "Suicune ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic",
             "EX"
@@ -5877,6 +5971,7 @@ let ex4 = [
         "id": "ex4-95",
         "name": "Swampert ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Stage 2",
             "EX"
@@ -5948,6 +6043,7 @@ let ex4 = [
         "id": "ex4-96",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],
@@ -6015,6 +6111,7 @@ let ex4 = [
         "id": "ex4-97",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "MA",
         "subtypes": [
             "Basic"
         ],

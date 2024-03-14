@@ -3,6 +3,7 @@ let bw11 = [
         "id": "bw11-1",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -79,6 +80,7 @@ let bw11 = [
         "id": "bw11-2",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -154,6 +156,7 @@ let bw11 = [
         "id": "bw11-3",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -221,6 +224,7 @@ let bw11 = [
         "id": "bw11-4",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -286,6 +290,7 @@ let bw11 = [
         "id": "bw11-5",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -349,6 +354,7 @@ let bw11 = [
         "id": "bw11-6",
         "name": "Snivy",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -415,6 +421,7 @@ let bw11 = [
         "id": "bw11-7",
         "name": "Servine",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -482,6 +489,7 @@ let bw11 = [
         "id": "bw11-8",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -553,6 +561,7 @@ let bw11 = [
         "id": "bw11-9",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -613,6 +622,7 @@ let bw11 = [
         "id": "bw11-10",
         "name": "Sewaddle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -673,6 +683,7 @@ let bw11 = [
         "id": "bw11-11",
         "name": "Swadloon",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -743,6 +754,7 @@ let bw11 = [
         "id": "bw11-12",
         "name": "Leavanny",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -809,6 +821,7 @@ let bw11 = [
         "id": "bw11-13",
         "name": "Dwebble",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -869,6 +882,7 @@ let bw11 = [
         "id": "bw11-14",
         "name": "Crustle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -938,6 +952,7 @@ let bw11 = [
         "id": "bw11-15",
         "name": "Virizion",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1010,6 +1025,7 @@ let bw11 = [
         "id": "bw11-16",
         "name": "Genesect",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1078,6 +1094,7 @@ let bw11 = [
         "id": "bw11-17",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1147,6 +1164,7 @@ let bw11 = [
         "id": "bw11-18",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1218,6 +1236,7 @@ let bw11 = [
         "id": "bw11-19",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1290,6 +1309,7 @@ let bw11 = [
         "id": "bw11-20",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1350,6 +1370,7 @@ let bw11 = [
         "id": "bw11-21",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1409,6 +1430,7 @@ let bw11 = [
         "id": "bw11-22",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1485,6 +1507,7 @@ let bw11 = [
         "id": "bw11-23",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1549,6 +1572,7 @@ let bw11 = [
         "id": "bw11-24",
         "name": "Victini-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -1619,6 +1643,7 @@ let bw11 = [
         "id": "bw11-25",
         "name": "Tepig",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1679,6 +1704,7 @@ let bw11 = [
         "id": "bw11-26",
         "name": "Pignite",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1751,6 +1777,7 @@ let bw11 = [
         "id": "bw11-27",
         "name": "Emboar",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1818,6 +1845,7 @@ let bw11 = [
         "id": "bw11-28",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -1886,6 +1914,7 @@ let bw11 = [
         "id": "bw11-29",
         "name": "Reshiram-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -1959,6 +1988,7 @@ let bw11 = [
         "id": "bw11-30",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2018,6 +2048,7 @@ let bw11 = [
         "id": "bw11-31",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2089,6 +2120,7 @@ let bw11 = [
         "id": "bw11-32",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2165,6 +2197,7 @@ let bw11 = [
         "id": "bw11-33",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2225,6 +2258,7 @@ let bw11 = [
         "id": "bw11-34",
         "name": "Prinplup",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2286,6 +2320,7 @@ let bw11 = [
         "id": "bw11-35",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2355,6 +2390,7 @@ let bw11 = [
         "id": "bw11-36",
         "name": "Phione",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2420,6 +2456,7 @@ let bw11 = [
         "id": "bw11-37",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2480,6 +2517,7 @@ let bw11 = [
         "id": "bw11-38",
         "name": "Dewott",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2541,6 +2579,7 @@ let bw11 = [
         "id": "bw11-39",
         "name": "Samurott",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2607,6 +2646,7 @@ let bw11 = [
         "id": "bw11-40",
         "name": "Tympole",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2676,6 +2716,7 @@ let bw11 = [
         "id": "bw11-41",
         "name": "Palpitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2747,6 +2788,7 @@ let bw11 = [
         "id": "bw11-42",
         "name": "Seismitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2816,6 +2858,7 @@ let bw11 = [
         "id": "bw11-43",
         "name": "Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -2884,6 +2927,7 @@ let bw11 = [
         "id": "bw11-44",
         "name": "Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -2957,6 +3001,7 @@ let bw11 = [
         "id": "bw11-45",
         "name": "Keldeo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -3025,6 +3070,7 @@ let bw11 = [
         "id": "bw11-46",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3101,6 +3147,7 @@ let bw11 = [
         "id": "bw11-47",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3166,6 +3213,7 @@ let bw11 = [
         "id": "bw11-48",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3231,6 +3279,7 @@ let bw11 = [
         "id": "bw11-49",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3301,6 +3350,7 @@ let bw11 = [
         "id": "bw11-50",
         "name": "Thundurus",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3368,6 +3418,7 @@ let bw11 = [
         "id": "bw11-51",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3436,6 +3487,7 @@ let bw11 = [
         "id": "bw11-52",
         "name": "Zekrom-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -3509,6 +3561,7 @@ let bw11 = [
         "id": "bw11-53",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3578,6 +3631,7 @@ let bw11 = [
         "id": "bw11-54",
         "name": "Mewtwo-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -3652,6 +3706,7 @@ let bw11 = [
         "id": "bw11-55",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3712,6 +3767,7 @@ let bw11 = [
         "id": "bw11-56",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3780,6 +3836,7 @@ let bw11 = [
         "id": "bw11-57",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3840,6 +3897,7 @@ let bw11 = [
         "id": "bw11-58",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3908,6 +3966,7 @@ let bw11 = [
         "id": "bw11-59",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -3968,6 +4027,7 @@ let bw11 = [
         "id": "bw11-60",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4041,6 +4101,7 @@ let bw11 = [
         "id": "bw11-61",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4092,6 +4153,7 @@ let bw11 = [
         "id": "bw11-62",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4152,6 +4214,7 @@ let bw11 = [
         "id": "bw11-63",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4220,6 +4283,7 @@ let bw11 = [
         "id": "bw11-64",
         "name": "Woobat",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4285,6 +4349,7 @@ let bw11 = [
         "id": "bw11-65",
         "name": "Swoobat",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4357,6 +4422,7 @@ let bw11 = [
         "id": "bw11-66",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4422,6 +4488,7 @@ let bw11 = [
         "id": "bw11-67",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4493,6 +4560,7 @@ let bw11 = [
         "id": "bw11-68",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4559,6 +4627,7 @@ let bw11 = [
         "id": "bw11-69",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4628,6 +4697,7 @@ let bw11 = [
         "id": "bw11-70",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4688,6 +4758,7 @@ let bw11 = [
         "id": "bw11-71",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4758,6 +4829,7 @@ let bw11 = [
         "id": "bw11-72",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4824,6 +4896,7 @@ let bw11 = [
         "id": "bw11-73",
         "name": "Solosis",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4883,6 +4956,7 @@ let bw11 = [
         "id": "bw11-74",
         "name": "Solosis",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -4952,6 +5026,7 @@ let bw11 = [
         "id": "bw11-75",
         "name": "Duosion",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5012,6 +5087,7 @@ let bw11 = [
         "id": "bw11-76",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -5078,6 +5154,7 @@ let bw11 = [
         "id": "bw11-77",
         "name": "Chandelure-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5148,6 +5225,7 @@ let bw11 = [
         "id": "bw11-78",
         "name": "Meloetta",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5215,6 +5293,7 @@ let bw11 = [
         "id": "bw11-79",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5284,6 +5363,7 @@ let bw11 = [
         "id": "bw11-80",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5349,6 +5429,7 @@ let bw11 = [
         "id": "bw11-81",
         "name": "Gallade",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -5417,6 +5498,7 @@ let bw11 = [
         "id": "bw11-82",
         "name": "Excadrill-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5495,6 +5577,7 @@ let bw11 = [
         "id": "bw11-83",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5567,6 +5650,7 @@ let bw11 = [
         "id": "bw11-84",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5635,6 +5719,7 @@ let bw11 = [
         "id": "bw11-85",
         "name": "Landorus",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5708,6 +5793,7 @@ let bw11 = [
         "id": "bw11-86",
         "name": "Meloetta",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5775,6 +5861,7 @@ let bw11 = [
         "id": "bw11-87",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5832,6 +5919,7 @@ let bw11 = [
         "id": "bw11-88",
         "name": "Darkrai-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -5906,6 +5994,7 @@ let bw11 = [
         "id": "bw11-89",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -5981,6 +6070,7 @@ let bw11 = [
         "id": "bw11-90",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6055,6 +6145,7 @@ let bw11 = [
         "id": "bw11-91",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6129,6 +6220,7 @@ let bw11 = [
         "id": "bw11-92",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6198,6 +6290,7 @@ let bw11 = [
         "id": "bw11-93",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6265,6 +6358,7 @@ let bw11 = [
         "id": "bw11-94",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6334,6 +6428,7 @@ let bw11 = [
         "id": "bw11-95",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6404,6 +6499,7 @@ let bw11 = [
         "id": "bw11-96",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -6471,6 +6567,7 @@ let bw11 = [
         "id": "bw11-97",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6540,6 +6637,7 @@ let bw11 = [
         "id": "bw11-98",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6612,6 +6710,7 @@ let bw11 = [
         "id": "bw11-99",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -6679,6 +6778,7 @@ let bw11 = [
         "id": "bw11-100",
         "name": "Black Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6752,6 +6852,7 @@ let bw11 = [
         "id": "bw11-101",
         "name": "White Kyurem-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6825,6 +6926,7 @@ let bw11 = [
         "id": "bw11-102",
         "name": "Lugia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX",
@@ -6901,6 +7003,7 @@ let bw11 = [
         "id": "bw11-103",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -6967,6 +7070,7 @@ let bw11 = [
         "id": "bw11-104",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7036,6 +7140,7 @@ let bw11 = [
         "id": "bw11-105",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7102,6 +7207,7 @@ let bw11 = [
         "id": "bw11-106",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7161,6 +7267,7 @@ let bw11 = [
         "id": "bw11-107",
         "name": "Bouffalant",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7230,6 +7337,7 @@ let bw11 = [
         "id": "bw11-108",
         "name": "Tornadus",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7303,6 +7411,7 @@ let bw11 = [
         "id": "bw11-109",
         "name": "Bianca",
         "supertype": "Trainer",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Supporter"
         ],
@@ -7337,6 +7446,7 @@ let bw11 = [
         "id": "bw11-110",
         "name": "Cedric Juniper",
         "supertype": "Trainer",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Supporter"
         ],
@@ -7371,6 +7481,7 @@ let bw11 = [
         "id": "bw11-111",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Item"
         ],
@@ -7405,6 +7516,7 @@ let bw11 = [
         "id": "bw11-112",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Item"
         ],
@@ -7439,6 +7551,7 @@ let bw11 = [
         "id": "bw11-113",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Special"
         ],
@@ -7472,6 +7585,7 @@ let bw11 = [
         "id": "bw11-114",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7540,6 +7654,7 @@ let bw11 = [
         "id": "bw11-115",
         "name": "Zekrom",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7608,6 +7723,7 @@ let bw11 = [
         "id": "bw11-RC1",
         "name": "Snivy",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7678,6 +7794,7 @@ let bw11 = [
         "id": "bw11-RC2",
         "name": "Servine",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7749,6 +7866,7 @@ let bw11 = [
         "id": "bw11-RC3",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -7815,6 +7933,7 @@ let bw11 = [
         "id": "bw11-RC4",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7886,6 +8005,7 @@ let bw11 = [
         "id": "bw11-RC5",
         "name": "Torchic",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -7955,6 +8075,7 @@ let bw11 = [
         "id": "bw11-RC6",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8024,6 +8145,7 @@ let bw11 = [
         "id": "bw11-RC7",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8093,6 +8215,7 @@ let bw11 = [
         "id": "bw11-RC8",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8162,6 +8285,7 @@ let bw11 = [
         "id": "bw11-RC9",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8233,6 +8357,7 @@ let bw11 = [
         "id": "bw11-RC10",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 2"
         ],
@@ -8301,6 +8426,7 @@ let bw11 = [
         "id": "bw11-RC11",
         "name": "Meloetta-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -8372,6 +8498,7 @@ let bw11 = [
         "id": "bw11-RC12",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8445,6 +8572,7 @@ let bw11 = [
         "id": "bw11-RC13",
         "name": "Purrloin",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8510,6 +8638,7 @@ let bw11 = [
         "id": "bw11-RC14",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8576,6 +8705,7 @@ let bw11 = [
         "id": "bw11-RC15",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8645,6 +8775,7 @@ let bw11 = [
         "id": "bw11-RC16",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8715,6 +8846,7 @@ let bw11 = [
         "id": "bw11-RC17",
         "name": "Audino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8773,6 +8905,7 @@ let bw11 = [
         "id": "bw11-RC18",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -8832,6 +8965,7 @@ let bw11 = [
         "id": "bw11-RC19",
         "name": "Cinccino",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Stage 1"
         ],
@@ -8898,6 +9032,7 @@ let bw11 = [
         "id": "bw11-RC20",
         "name": "Elesa",
         "supertype": "Trainer",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Supporter"
         ],
@@ -8932,6 +9067,7 @@ let bw11 = [
         "id": "bw11-RC21",
         "name": "Shaymin-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -9007,6 +9143,7 @@ let bw11 = [
         "id": "bw11-RC22",
         "name": "Reshiram",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -9075,6 +9212,7 @@ let bw11 = [
         "id": "bw11-RC23",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic"
         ],
@@ -9145,6 +9283,7 @@ let bw11 = [
         "id": "bw11-RC24",
         "name": "Mew-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"
@@ -9211,6 +9350,7 @@ let bw11 = [
         "id": "bw11-RC25",
         "name": "Meloetta-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "LTR",
         "subtypes": [
             "Basic",
             "EX"

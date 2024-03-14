@@ -3,6 +3,7 @@ let sm6 = [
         "id": "sm6-1",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let sm6 = [
         "id": "sm6-2",
         "name": "Alolan Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -119,6 +121,7 @@ let sm6 = [
         "id": "sm6-2a",
         "name": "Alolan Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -176,6 +179,7 @@ let sm6 = [
         "id": "sm6-3",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -236,6 +240,7 @@ let sm6 = [
         "id": "sm6-4",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -303,6 +308,7 @@ let sm6 = [
         "id": "sm6-5",
         "name": "Scatterbug",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -370,6 +376,7 @@ let sm6 = [
         "id": "sm6-6",
         "name": "Scatterbug",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -429,6 +436,7 @@ let sm6 = [
         "id": "sm6-7",
         "name": "Spewpa",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -489,6 +497,7 @@ let sm6 = [
         "id": "sm6-8",
         "name": "Vivillon",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -552,6 +561,7 @@ let sm6 = [
         "id": "sm6-9",
         "name": "Skiddo",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -622,6 +632,7 @@ let sm6 = [
         "id": "sm6-10",
         "name": "Gogoat",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -690,6 +701,7 @@ let sm6 = [
         "id": "sm6-11",
         "name": "Pheromosa",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -757,6 +769,7 @@ let sm6 = [
         "id": "sm6-12",
         "name": "Alolan Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -822,6 +835,7 @@ let sm6 = [
         "id": "sm6-13",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -890,6 +904,7 @@ let sm6 = [
         "id": "sm6-14",
         "name": "Fennekin",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -949,6 +964,7 @@ let sm6 = [
         "id": "sm6-15",
         "name": "Fennekin",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1018,6 +1034,7 @@ let sm6 = [
         "id": "sm6-16",
         "name": "Braixen",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1089,6 +1106,7 @@ let sm6 = [
         "id": "sm6-17",
         "name": "Delphox",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -1156,6 +1174,7 @@ let sm6 = [
         "id": "sm6-18",
         "name": "Litleo",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1216,6 +1235,7 @@ let sm6 = [
         "id": "sm6-19",
         "name": "Pyroar",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1282,6 +1302,7 @@ let sm6 = [
         "id": "sm6-20",
         "name": "Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -1365,6 +1386,7 @@ let sm6 = [
         "id": "sm6-21",
         "name": "Froakie",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1432,6 +1454,7 @@ let sm6 = [
         "id": "sm6-22",
         "name": "Froakie",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1501,6 +1524,7 @@ let sm6 = [
         "id": "sm6-23",
         "name": "Frogadier",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1568,6 +1592,7 @@ let sm6 = [
         "id": "sm6-24",
         "name": "Greninja-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1648,6 +1673,7 @@ let sm6 = [
         "id": "sm6-25",
         "name": "Clauncher",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1707,6 +1733,7 @@ let sm6 = [
         "id": "sm6-26",
         "name": "Clawitzer",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1773,6 +1800,7 @@ let sm6 = [
         "id": "sm6-27",
         "name": "Amaura",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1845,6 +1873,7 @@ let sm6 = [
         "id": "sm6-28",
         "name": "Aurorus",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -1916,6 +1945,7 @@ let sm6 = [
         "id": "sm6-29",
         "name": "Bergmite",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -1975,6 +2005,7 @@ let sm6 = [
         "id": "sm6-30",
         "name": "Avalugg",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2046,6 +2077,7 @@ let sm6 = [
         "id": "sm6-31",
         "name": "Volcanion ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -2115,6 +2147,7 @@ let sm6 = [
         "id": "sm6-32",
         "name": "Dewpider",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2183,6 +2216,7 @@ let sm6 = [
         "id": "sm6-33",
         "name": "Araquanid",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2250,6 +2284,7 @@ let sm6 = [
         "id": "sm6-34",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2324,6 +2359,7 @@ let sm6 = [
         "id": "sm6-35",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2401,6 +2437,7 @@ let sm6 = [
         "id": "sm6-36",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -2474,6 +2511,7 @@ let sm6 = [
         "id": "sm6-37",
         "name": "Helioptile",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2549,6 +2587,7 @@ let sm6 = [
         "id": "sm6-38",
         "name": "Heliolisk",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2623,6 +2662,7 @@ let sm6 = [
         "id": "sm6-39",
         "name": "Xurkitree",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -2697,6 +2737,7 @@ let sm6 = [
         "id": "sm6-40",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2768,6 +2809,7 @@ let sm6 = [
         "id": "sm6-41",
         "name": "Uxie",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2824,6 +2866,7 @@ let sm6 = [
         "id": "sm6-42",
         "name": "Mesprit",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2888,6 +2931,7 @@ let sm6 = [
         "id": "sm6-43",
         "name": "Azelf",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -2953,6 +2997,7 @@ let sm6 = [
         "id": "sm6-44",
         "name": "Espurr",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3012,6 +3057,7 @@ let sm6 = [
         "id": "sm6-45",
         "name": "Meowstic",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3079,6 +3125,7 @@ let sm6 = [
         "id": "sm6-46",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3153,6 +3200,7 @@ let sm6 = [
         "id": "sm6-47",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3218,6 +3266,7 @@ let sm6 = [
         "id": "sm6-48",
         "name": "Doublade",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3284,6 +3333,7 @@ let sm6 = [
         "id": "sm6-49",
         "name": "Aegislash",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -3358,6 +3408,7 @@ let sm6 = [
         "id": "sm6-50",
         "name": "Inkay",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3417,6 +3468,7 @@ let sm6 = [
         "id": "sm6-51",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3483,6 +3535,7 @@ let sm6 = [
         "id": "sm6-52",
         "name": "Skrelp",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3542,6 +3595,7 @@ let sm6 = [
         "id": "sm6-53",
         "name": "Dragalge",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3607,6 +3661,7 @@ let sm6 = [
         "id": "sm6-54",
         "name": "Hoopa",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3672,6 +3727,7 @@ let sm6 = [
         "id": "sm6-55",
         "name": "Poipole",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -3742,6 +3798,7 @@ let sm6 = [
         "id": "sm6-56",
         "name": "Naganadel-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1",
             "GX",
@@ -3825,6 +3882,7 @@ let sm6 = [
         "id": "sm6-57",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -3885,6 +3943,7 @@ let sm6 = [
         "id": "sm6-58",
         "name": "Torterra",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -3956,6 +4015,7 @@ let sm6 = [
         "id": "sm6-59",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -4021,6 +4081,7 @@ let sm6 = [
         "id": "sm6-60",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4080,6 +4141,7 @@ let sm6 = [
         "id": "sm6-61",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4150,6 +4212,7 @@ let sm6 = [
         "id": "sm6-62",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -4218,6 +4281,7 @@ let sm6 = [
         "id": "sm6-63",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4277,6 +4341,7 @@ let sm6 = [
         "id": "sm6-64",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4344,6 +4409,7 @@ let sm6 = [
         "id": "sm6-65",
         "name": "Pancham",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4403,6 +4469,7 @@ let sm6 = [
         "id": "sm6-66",
         "name": "Binacle",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4462,6 +4529,7 @@ let sm6 = [
         "id": "sm6-67",
         "name": "Barbaracle",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4531,6 +4599,7 @@ let sm6 = [
         "id": "sm6-68",
         "name": "Tyrunt",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4601,6 +4670,7 @@ let sm6 = [
         "id": "sm6-69",
         "name": "Tyrantrum",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -4667,6 +4737,7 @@ let sm6 = [
         "id": "sm6-70",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4740,6 +4811,7 @@ let sm6 = [
         "id": "sm6-71",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4803,6 +4875,7 @@ let sm6 = [
         "id": "sm6-72",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -4871,6 +4944,7 @@ let sm6 = [
         "id": "sm6-73",
         "name": "Zygarde-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -4955,6 +5029,7 @@ let sm6 = [
         "id": "sm6-74",
         "name": "Diancie ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -5024,6 +5099,7 @@ let sm6 = [
         "id": "sm6-75",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -5084,6 +5160,7 @@ let sm6 = [
         "id": "sm6-76",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5153,6 +5230,7 @@ let sm6 = [
         "id": "sm6-77",
         "name": "Buzzwole",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -5221,6 +5299,7 @@ let sm6 = [
         "id": "sm6-78",
         "name": "Pangoro",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5296,6 +5375,7 @@ let sm6 = [
         "id": "sm6-79",
         "name": "Yveltal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -5381,6 +5461,7 @@ let sm6 = [
         "id": "sm6-80",
         "name": "Guzzlord",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -5447,6 +5528,7 @@ let sm6 = [
         "id": "sm6-81",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -5522,6 +5604,7 @@ let sm6 = [
         "id": "sm6-82",
         "name": "Dialga-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -5611,6 +5694,7 @@ let sm6 = [
         "id": "sm6-83",
         "name": "Flabébé",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -5686,6 +5770,7 @@ let sm6 = [
         "id": "sm6-84",
         "name": "Flabébé",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -5751,6 +5836,7 @@ let sm6 = [
         "id": "sm6-85",
         "name": "Floette",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5817,6 +5903,7 @@ let sm6 = [
         "id": "sm6-86",
         "name": "Florges",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -5889,6 +5976,7 @@ let sm6 = [
         "id": "sm6-87",
         "name": "Sylveon",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5962,6 +6050,7 @@ let sm6 = [
         "id": "sm6-88",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6034,6 +6123,7 @@ let sm6 = [
         "id": "sm6-89",
         "name": "Klefki",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6105,6 +6195,7 @@ let sm6 = [
         "id": "sm6-90",
         "name": "Xerneas-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -6192,6 +6283,7 @@ let sm6 = [
         "id": "sm6-91",
         "name": "Goomy",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6258,6 +6350,7 @@ let sm6 = [
         "id": "sm6-92",
         "name": "Goomy",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6327,6 +6420,7 @@ let sm6 = [
         "id": "sm6-93",
         "name": "Sliggoo",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6399,6 +6493,7 @@ let sm6 = [
         "id": "sm6-94",
         "name": "Goodra",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2"
         ],
@@ -6465,6 +6560,7 @@ let sm6 = [
         "id": "sm6-95",
         "name": "Ultra Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX",
@@ -6536,6 +6632,7 @@ let sm6 = [
         "id": "sm6-96",
         "name": "Arceus ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -6603,6 +6700,7 @@ let sm6 = [
         "id": "sm6-97",
         "name": "Bunnelby",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6672,6 +6770,7 @@ let sm6 = [
         "id": "sm6-98",
         "name": "Diggersby",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6743,6 +6842,7 @@ let sm6 = [
         "id": "sm6-99",
         "name": "Furfrou",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6799,6 +6899,7 @@ let sm6 = [
         "id": "sm6-100",
         "name": "Noibat",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic"
         ],
@@ -6874,6 +6975,7 @@ let sm6 = [
         "id": "sm6-101",
         "name": "Noivern",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6948,6 +7050,7 @@ let sm6 = [
         "id": "sm6-102",
         "name": "Beast Ring",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -6983,6 +7086,7 @@ let sm6 = [
         "id": "sm6-102a",
         "name": "Beast Ring",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -7018,6 +7122,7 @@ let sm6 = [
         "id": "sm6-103",
         "name": "Bonnie",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -7053,6 +7158,7 @@ let sm6 = [
         "id": "sm6-104",
         "name": "Crasher Wake",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -7087,6 +7193,7 @@ let sm6 = [
         "id": "sm6-105",
         "name": "Diantha",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -7122,6 +7229,7 @@ let sm6 = [
         "id": "sm6-106",
         "name": "Eneporter",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -7156,6 +7264,7 @@ let sm6 = [
         "id": "sm6-107",
         "name": "Fossil Excavation Map",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -7190,6 +7299,7 @@ let sm6 = [
         "id": "sm6-108",
         "name": "Judge",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -7224,6 +7334,7 @@ let sm6 = [
         "id": "sm6-109",
         "name": "Lady",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -7258,6 +7369,7 @@ let sm6 = [
         "id": "sm6-110",
         "name": "Lysandre ◇",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter",
             "Prism Star"
@@ -7294,6 +7406,7 @@ let sm6 = [
         "id": "sm6-111",
         "name": "Lysandre Labs",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stadium"
         ],
@@ -7328,6 +7441,7 @@ let sm6 = [
         "id": "sm6-112",
         "name": "Metal Frying Pan",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -7363,6 +7477,7 @@ let sm6 = [
         "id": "sm6-112a",
         "name": "Metal Frying Pan",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -7398,6 +7513,7 @@ let sm6 = [
         "id": "sm6-113",
         "name": "Mysterious Treasure",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -7432,6 +7548,7 @@ let sm6 = [
         "id": "sm6-113a",
         "name": "Mysterious Treasure",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -7466,6 +7583,7 @@ let sm6 = [
         "id": "sm6-114",
         "name": "Ultra Recon Squad",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -7500,6 +7618,7 @@ let sm6 = [
         "id": "sm6-115",
         "name": "Ultra Space",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stadium"
         ],
@@ -7534,6 +7653,7 @@ let sm6 = [
         "id": "sm6-116",
         "name": "Unidentified Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -7570,6 +7690,7 @@ let sm6 = [
         "id": "sm6-117",
         "name": "Beast Energy ◇",
         "supertype": "Energy",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Special",
             "Prism Star"
@@ -7605,6 +7726,7 @@ let sm6 = [
         "id": "sm6-118",
         "name": "Unit Energy FightingDarknessFairy",
         "supertype": "Energy",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Special"
         ],
@@ -7638,6 +7760,7 @@ let sm6 = [
         "id": "sm6-119",
         "name": "Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -7721,6 +7844,7 @@ let sm6 = [
         "id": "sm6-120",
         "name": "Greninja-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -7801,6 +7925,7 @@ let sm6 = [
         "id": "sm6-121",
         "name": "Naganadel-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1",
             "GX",
@@ -7884,6 +8009,7 @@ let sm6 = [
         "id": "sm6-122",
         "name": "Lucario-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7965,6 +8091,7 @@ let sm6 = [
         "id": "sm6-123",
         "name": "Zygarde-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -8049,6 +8176,7 @@ let sm6 = [
         "id": "sm6-124",
         "name": "Yveltal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -8134,6 +8262,7 @@ let sm6 = [
         "id": "sm6-125",
         "name": "Dialga-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -8223,6 +8352,7 @@ let sm6 = [
         "id": "sm6-126",
         "name": "Xerneas-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -8310,6 +8440,7 @@ let sm6 = [
         "id": "sm6-127",
         "name": "Ultra Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX",
@@ -8381,6 +8512,7 @@ let sm6 = [
         "id": "sm6-128",
         "name": "Bonnie",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -8416,6 +8548,7 @@ let sm6 = [
         "id": "sm6-129",
         "name": "Crasher Wake",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -8450,6 +8583,7 @@ let sm6 = [
         "id": "sm6-130",
         "name": "Diantha",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -8485,6 +8619,7 @@ let sm6 = [
         "id": "sm6-131",
         "name": "Ultra Recon Squad",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Supporter"
         ],
@@ -8519,6 +8654,7 @@ let sm6 = [
         "id": "sm6-132",
         "name": "Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -8602,6 +8738,7 @@ let sm6 = [
         "id": "sm6-133",
         "name": "Greninja-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -8682,6 +8819,7 @@ let sm6 = [
         "id": "sm6-134",
         "name": "Naganadel-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1",
             "GX",
@@ -8765,6 +8903,7 @@ let sm6 = [
         "id": "sm6-135",
         "name": "Lucario-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8846,6 +8985,7 @@ let sm6 = [
         "id": "sm6-136",
         "name": "Zygarde-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -8930,6 +9070,7 @@ let sm6 = [
         "id": "sm6-137",
         "name": "Yveltal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9015,6 +9156,7 @@ let sm6 = [
         "id": "sm6-138",
         "name": "Dialga-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9104,6 +9246,7 @@ let sm6 = [
         "id": "sm6-139",
         "name": "Xerneas-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9191,6 +9334,7 @@ let sm6 = [
         "id": "sm6-140",
         "name": "Ultra Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Basic",
             "GX",
@@ -9262,6 +9406,7 @@ let sm6 = [
         "id": "sm6-141",
         "name": "Beast Ring",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -9297,6 +9442,7 @@ let sm6 = [
         "id": "sm6-142",
         "name": "Eneporter",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -9331,6 +9477,7 @@ let sm6 = [
         "id": "sm6-143",
         "name": "Energy Recycler",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -9365,6 +9512,7 @@ let sm6 = [
         "id": "sm6-144",
         "name": "Metal Frying Pan",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -9400,6 +9548,7 @@ let sm6 = [
         "id": "sm6-145",
         "name": "Mysterious Treasure",
         "supertype": "Trainer",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Item"
         ],
@@ -9434,6 +9583,7 @@ let sm6 = [
         "id": "sm6-146",
         "name": "Unit Energy FightingDarknessFairy",
         "supertype": "Energy",
+        "setAbbrev": "FLI",
         "subtypes": [
             "Special"
         ],

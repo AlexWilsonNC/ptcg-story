@@ -3,6 +3,7 @@ let ex7 = [
         "id": "ex7-1",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -67,6 +68,7 @@ let ex7 = [
         "id": "ex7-2",
         "name": "Dark Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -146,6 +148,7 @@ let ex7 = [
         "id": "ex7-3",
         "name": "Dark Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -230,6 +233,7 @@ let ex7 = [
         "id": "ex7-4",
         "name": "Dark Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -297,6 +301,7 @@ let ex7 = [
         "id": "ex7-5",
         "name": "Dark Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -375,6 +380,7 @@ let ex7 = [
         "id": "ex7-6",
         "name": "Dark Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -445,6 +451,7 @@ let ex7 = [
         "id": "ex7-7",
         "name": "Dark Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -517,6 +524,7 @@ let ex7 = [
         "id": "ex7-8",
         "name": "Dark Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -587,6 +595,7 @@ let ex7 = [
         "id": "ex7-9",
         "name": "Dark Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -655,6 +664,7 @@ let ex7 = [
         "id": "ex7-10",
         "name": "Dark Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -734,6 +744,7 @@ let ex7 = [
         "id": "ex7-11",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -802,6 +813,7 @@ let ex7 = [
         "id": "ex7-12",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -877,6 +889,7 @@ let ex7 = [
         "id": "ex7-13",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -949,6 +962,7 @@ let ex7 = [
         "id": "ex7-14",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1033,6 +1047,7 @@ let ex7 = [
         "id": "ex7-15",
         "name": "Dark Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1118,6 +1133,7 @@ let ex7 = [
         "id": "ex7-16",
         "name": "Dark Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1196,6 +1212,7 @@ let ex7 = [
         "id": "ex7-17",
         "name": "Dark Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1261,6 +1278,7 @@ let ex7 = [
         "id": "ex7-18",
         "name": "Dark Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1329,6 +1347,7 @@ let ex7 = [
         "id": "ex7-19",
         "name": "Dark Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1415,6 +1434,7 @@ let ex7 = [
         "id": "ex7-20",
         "name": "Dark Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1484,6 +1504,7 @@ let ex7 = [
         "id": "ex7-21",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -1547,6 +1568,7 @@ let ex7 = [
         "id": "ex7-22",
         "name": "Furret",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1613,6 +1635,7 @@ let ex7 = [
         "id": "ex7-23",
         "name": "Ledian",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1688,6 +1711,7 @@ let ex7 = [
         "id": "ex7-24",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -1753,6 +1777,7 @@ let ex7 = [
         "id": "ex7-25",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -1825,6 +1850,7 @@ let ex7 = [
         "id": "ex7-26",
         "name": "Quagsire",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1888,6 +1914,7 @@ let ex7 = [
         "id": "ex7-27",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -1951,6 +1978,7 @@ let ex7 = [
         "id": "ex7-28",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -2024,6 +2052,7 @@ let ex7 = [
         "id": "ex7-29",
         "name": "Dark Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2094,6 +2123,7 @@ let ex7 = [
         "id": "ex7-30",
         "name": "Dark Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2165,6 +2195,7 @@ let ex7 = [
         "id": "ex7-31",
         "name": "Dark Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2242,6 +2273,7 @@ let ex7 = [
         "id": "ex7-32",
         "name": "Dark Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2323,6 +2355,7 @@ let ex7 = [
         "id": "ex7-33",
         "name": "Dark Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2396,6 +2429,7 @@ let ex7 = [
         "id": "ex7-34",
         "name": "Dark Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2458,6 +2492,7 @@ let ex7 = [
         "id": "ex7-35",
         "name": "Dark Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2530,6 +2565,7 @@ let ex7 = [
         "id": "ex7-36",
         "name": "Dark Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2615,6 +2651,7 @@ let ex7 = [
         "id": "ex7-37",
         "name": "Dark Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2684,6 +2721,7 @@ let ex7 = [
         "id": "ex7-38",
         "name": "Dark Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2755,6 +2793,7 @@ let ex7 = [
         "id": "ex7-39",
         "name": "Dark Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2830,6 +2869,7 @@ let ex7 = [
         "id": "ex7-40",
         "name": "Dark Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2903,6 +2943,7 @@ let ex7 = [
         "id": "ex7-41",
         "name": "Dark Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2978,6 +3019,7 @@ let ex7 = [
         "id": "ex7-42",
         "name": "Dark Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3056,6 +3098,7 @@ let ex7 = [
         "id": "ex7-43",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3119,6 +3162,7 @@ let ex7 = [
         "id": "ex7-44",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3188,6 +3232,7 @@ let ex7 = [
         "id": "ex7-45",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3251,6 +3296,7 @@ let ex7 = [
         "id": "ex7-46",
         "name": "Rocket's Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3319,6 +3365,7 @@ let ex7 = [
         "id": "ex7-47",
         "name": "Rocket's Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3384,6 +3431,7 @@ let ex7 = [
         "id": "ex7-48",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3455,6 +3503,7 @@ let ex7 = [
         "id": "ex7-49",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3526,6 +3575,7 @@ let ex7 = [
         "id": "ex7-50",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3594,6 +3644,7 @@ let ex7 = [
         "id": "ex7-51",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3661,6 +3712,7 @@ let ex7 = [
         "id": "ex7-52",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3713,6 +3765,7 @@ let ex7 = [
         "id": "ex7-53",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3791,6 +3844,7 @@ let ex7 = [
         "id": "ex7-54",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3856,6 +3910,7 @@ let ex7 = [
         "id": "ex7-55",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3914,6 +3969,7 @@ let ex7 = [
         "id": "ex7-56",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -3982,6 +4038,7 @@ let ex7 = [
         "id": "ex7-57",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4053,6 +4110,7 @@ let ex7 = [
         "id": "ex7-58",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4121,6 +4179,7 @@ let ex7 = [
         "id": "ex7-59",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4189,6 +4248,7 @@ let ex7 = [
         "id": "ex7-60",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4254,6 +4314,7 @@ let ex7 = [
         "id": "ex7-61",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4319,6 +4380,7 @@ let ex7 = [
         "id": "ex7-62",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4377,6 +4439,7 @@ let ex7 = [
         "id": "ex7-63",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4445,6 +4508,7 @@ let ex7 = [
         "id": "ex7-64",
         "name": "Ledyba",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4513,6 +4577,7 @@ let ex7 = [
         "id": "ex7-65",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4571,6 +4636,7 @@ let ex7 = [
         "id": "ex7-66",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4629,6 +4695,7 @@ let ex7 = [
         "id": "ex7-67",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4697,6 +4764,7 @@ let ex7 = [
         "id": "ex7-68",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4755,6 +4823,7 @@ let ex7 = [
         "id": "ex7-69",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4823,6 +4892,7 @@ let ex7 = [
         "id": "ex7-70",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4890,6 +4960,7 @@ let ex7 = [
         "id": "ex7-71",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -4955,6 +5026,7 @@ let ex7 = [
         "id": "ex7-72",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5022,6 +5094,7 @@ let ex7 = [
         "id": "ex7-73",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5089,6 +5162,7 @@ let ex7 = [
         "id": "ex7-74",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5157,6 +5231,7 @@ let ex7 = [
         "id": "ex7-75",
         "name": "Sentret",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5224,6 +5299,7 @@ let ex7 = [
         "id": "ex7-76",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5290,6 +5366,7 @@ let ex7 = [
         "id": "ex7-77",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5358,6 +5435,7 @@ let ex7 = [
         "id": "ex7-78",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5426,6 +5504,7 @@ let ex7 = [
         "id": "ex7-79",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5494,6 +5573,7 @@ let ex7 = [
         "id": "ex7-80",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5561,6 +5641,7 @@ let ex7 = [
         "id": "ex7-81",
         "name": "Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5626,6 +5707,7 @@ let ex7 = [
         "id": "ex7-82",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic"
         ],
@@ -5694,6 +5776,7 @@ let ex7 = [
         "id": "ex7-83",
         "name": "Copycat",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Supporter"
         ],
@@ -5728,6 +5811,7 @@ let ex7 = [
         "id": "ex7-84",
         "name": "Pokémon Retriever",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -5761,6 +5845,7 @@ let ex7 = [
         "id": "ex7-85",
         "name": "Pow! Hand Extension",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -5795,6 +5880,7 @@ let ex7 = [
         "id": "ex7-86",
         "name": "Rocket's Admin.",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Supporter"
         ],
@@ -5829,6 +5915,7 @@ let ex7 = [
         "id": "ex7-87",
         "name": "Rocket's Hideout",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stadium"
         ],
@@ -5863,6 +5950,7 @@ let ex7 = [
         "id": "ex7-88",
         "name": "Rocket's Mission",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Supporter"
         ],
@@ -5897,6 +5985,7 @@ let ex7 = [
         "id": "ex7-89",
         "name": "Rocket's Poké Ball",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Item"
         ],
@@ -5930,6 +6019,7 @@ let ex7 = [
         "id": "ex7-90",
         "name": "Rocket's Tricky Gym",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stadium"
         ],
@@ -5975,6 +6065,7 @@ let ex7 = [
         "id": "ex7-91",
         "name": "Surprise! Time Machine",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -6008,6 +6099,7 @@ let ex7 = [
         "id": "ex7-92",
         "name": "Swoop! Teleporter",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -6041,6 +6133,7 @@ let ex7 = [
         "id": "ex7-93",
         "name": "Venture Bomb",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Rocket's Secret Machine"
         ],
@@ -6074,6 +6167,7 @@ let ex7 = [
         "id": "ex7-94",
         "name": "Dark Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Special"
         ],
@@ -6107,6 +6201,7 @@ let ex7 = [
         "id": "ex7-95",
         "name": "R Energy",
         "supertype": "Energy",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Special"
         ],
@@ -6140,6 +6235,7 @@ let ex7 = [
         "id": "ex7-96",
         "name": "Rocket's Articuno ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6217,6 +6313,7 @@ let ex7 = [
         "id": "ex7-97",
         "name": "Rocket's Entei ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6294,6 +6391,7 @@ let ex7 = [
         "id": "ex7-98",
         "name": "Rocket's Hitmonchan ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6371,6 +6469,7 @@ let ex7 = [
         "id": "ex7-99",
         "name": "Rocket's Mewtwo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6453,6 +6552,7 @@ let ex7 = [
         "id": "ex7-100",
         "name": "Rocket's Moltres ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6531,6 +6631,7 @@ let ex7 = [
         "id": "ex7-101",
         "name": "Rocket's Scizor ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6606,6 +6707,7 @@ let ex7 = [
         "id": "ex7-102",
         "name": "Rocket's Scyther ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6692,6 +6794,7 @@ let ex7 = [
         "id": "ex7-103",
         "name": "Rocket's Sneasel ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6771,6 +6874,7 @@ let ex7 = [
         "id": "ex7-104",
         "name": "Rocket's Snorlax ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6850,6 +6954,7 @@ let ex7 = [
         "id": "ex7-105",
         "name": "Rocket's Suicune ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -6927,6 +7032,7 @@ let ex7 = [
         "id": "ex7-106",
         "name": "Rocket's Zapdos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "EX"
@@ -7004,6 +7110,7 @@ let ex7 = [
         "id": "ex7-107",
         "name": "Mudkip ★",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "Star"
@@ -7073,6 +7180,7 @@ let ex7 = [
         "id": "ex7-108",
         "name": "Torchic ★",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "Star"
@@ -7142,6 +7250,7 @@ let ex7 = [
         "id": "ex7-109",
         "name": "Treecko ★",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Basic",
             "Star"
@@ -7217,6 +7326,7 @@ let ex7 = [
         "id": "ex7-110",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7286,6 +7396,7 @@ let ex7 = [
         "id": "ex7-111",
         "name": "Here Comes Team Rocket!",
         "supertype": "Trainer",
+        "setAbbrev": "TRR",
         "subtypes": [
             "Supporter"
         ],

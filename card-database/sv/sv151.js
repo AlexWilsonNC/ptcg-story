@@ -3,6 +3,7 @@ let sv3pt5 = [
         "id": "sv3pt5-1",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -67,6 +68,7 @@ let sv3pt5 = [
         "id": "sv3pt5-2",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -144,6 +146,7 @@ let sv3pt5 = [
         "id": "sv3pt5-3",
         "name": "Venusaur ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -219,6 +222,7 @@ let sv3pt5 = [
         "id": "sv3pt5-4",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -291,6 +295,7 @@ let sv3pt5 = [
         "id": "sv3pt5-5",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -366,6 +371,7 @@ let sv3pt5 = [
         "id": "sv3pt5-6",
         "name": "Charizard ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -442,6 +448,7 @@ let sv3pt5 = [
         "id": "sv3pt5-7",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -514,6 +521,7 @@ let sv3pt5 = [
         "id": "sv3pt5-8",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -588,6 +596,7 @@ let sv3pt5 = [
         "id": "sv3pt5-9",
         "name": "Blastoise ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -661,6 +670,7 @@ let sv3pt5 = [
         "id": "sv3pt5-10",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -723,6 +733,7 @@ let sv3pt5 = [
         "id": "sv3pt5-11",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -798,6 +809,7 @@ let sv3pt5 = [
         "id": "sv3pt5-12",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -868,6 +880,7 @@ let sv3pt5 = [
         "id": "sv3pt5-13",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -940,6 +953,7 @@ let sv3pt5 = [
         "id": "sv3pt5-14",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1013,6 +1027,7 @@ let sv3pt5 = [
         "id": "sv3pt5-15",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -1084,6 +1099,7 @@ let sv3pt5 = [
         "id": "sv3pt5-16",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1162,6 +1178,7 @@ let sv3pt5 = [
         "id": "sv3pt5-17",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1227,6 +1244,7 @@ let sv3pt5 = [
         "id": "sv3pt5-18",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -1300,6 +1318,7 @@ let sv3pt5 = [
         "id": "sv3pt5-19",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1363,6 +1382,7 @@ let sv3pt5 = [
         "id": "sv3pt5-20",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1420,6 +1440,7 @@ let sv3pt5 = [
         "id": "sv3pt5-21",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1495,6 +1516,7 @@ let sv3pt5 = [
         "id": "sv3pt5-22",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1566,6 +1588,7 @@ let sv3pt5 = [
         "id": "sv3pt5-23",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1630,6 +1653,7 @@ let sv3pt5 = [
         "id": "sv3pt5-24",
         "name": "Arbok ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -1706,6 +1730,7 @@ let sv3pt5 = [
         "id": "sv3pt5-25",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1779,6 +1804,7 @@ let sv3pt5 = [
         "id": "sv3pt5-26",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1848,6 +1874,7 @@ let sv3pt5 = [
         "id": "sv3pt5-27",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -1918,6 +1945,7 @@ let sv3pt5 = [
         "id": "sv3pt5-28",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -1990,6 +2018,7 @@ let sv3pt5 = [
         "id": "sv3pt5-29",
         "name": "Nidoran♀",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -2053,6 +2082,7 @@ let sv3pt5 = [
         "id": "sv3pt5-30",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2127,6 +2157,7 @@ let sv3pt5 = [
         "id": "sv3pt5-31",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -2201,6 +2232,7 @@ let sv3pt5 = [
         "id": "sv3pt5-32",
         "name": "Nidoran♂",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -2263,6 +2295,7 @@ let sv3pt5 = [
         "id": "sv3pt5-33",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2338,6 +2371,7 @@ let sv3pt5 = [
         "id": "sv3pt5-34",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -2410,6 +2444,7 @@ let sv3pt5 = [
         "id": "sv3pt5-35",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -2482,6 +2517,7 @@ let sv3pt5 = [
         "id": "sv3pt5-36",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2554,6 +2590,7 @@ let sv3pt5 = [
         "id": "sv3pt5-37",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -2617,6 +2654,7 @@ let sv3pt5 = [
         "id": "sv3pt5-38",
         "name": "Ninetales ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -2691,6 +2729,7 @@ let sv3pt5 = [
         "id": "sv3pt5-39",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -2763,6 +2802,7 @@ let sv3pt5 = [
         "id": "sv3pt5-40",
         "name": "Wigglytuff ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -2837,6 +2877,7 @@ let sv3pt5 = [
         "id": "sv3pt5-41",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -2912,6 +2953,7 @@ let sv3pt5 = [
         "id": "sv3pt5-42",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -2981,6 +3023,7 @@ let sv3pt5 = [
         "id": "sv3pt5-43",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3044,6 +3087,7 @@ let sv3pt5 = [
         "id": "sv3pt5-44",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3116,6 +3160,7 @@ let sv3pt5 = [
         "id": "sv3pt5-45",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -3186,6 +3231,7 @@ let sv3pt5 = [
         "id": "sv3pt5-46",
         "name": "Paras",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3259,6 +3305,7 @@ let sv3pt5 = [
         "id": "sv3pt5-47",
         "name": "Parasect",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3330,6 +3377,7 @@ let sv3pt5 = [
         "id": "sv3pt5-48",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3404,6 +3452,7 @@ let sv3pt5 = [
         "id": "sv3pt5-49",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3475,6 +3524,7 @@ let sv3pt5 = [
         "id": "sv3pt5-50",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3547,6 +3597,7 @@ let sv3pt5 = [
         "id": "sv3pt5-51",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3617,6 +3668,7 @@ let sv3pt5 = [
         "id": "sv3pt5-52",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3689,6 +3741,7 @@ let sv3pt5 = [
         "id": "sv3pt5-53",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3758,6 +3811,7 @@ let sv3pt5 = [
         "id": "sv3pt5-54",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3829,6 +3883,7 @@ let sv3pt5 = [
         "id": "sv3pt5-55",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -3900,6 +3955,7 @@ let sv3pt5 = [
         "id": "sv3pt5-56",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -3962,6 +4018,7 @@ let sv3pt5 = [
         "id": "sv3pt5-57",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4034,6 +4091,7 @@ let sv3pt5 = [
         "id": "sv3pt5-58",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -4097,6 +4155,7 @@ let sv3pt5 = [
         "id": "sv3pt5-59",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4172,6 +4231,7 @@ let sv3pt5 = [
         "id": "sv3pt5-60",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -4234,6 +4294,7 @@ let sv3pt5 = [
         "id": "sv3pt5-61",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4308,6 +4369,7 @@ let sv3pt5 = [
         "id": "sv3pt5-62",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -4380,6 +4442,7 @@ let sv3pt5 = [
         "id": "sv3pt5-63",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -4448,6 +4511,7 @@ let sv3pt5 = [
         "id": "sv3pt5-64",
         "name": "Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4517,6 +4581,7 @@ let sv3pt5 = [
         "id": "sv3pt5-65",
         "name": "Alakazam ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -4597,6 +4662,7 @@ let sv3pt5 = [
         "id": "sv3pt5-66",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -4670,6 +4736,7 @@ let sv3pt5 = [
         "id": "sv3pt5-67",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4735,6 +4802,7 @@ let sv3pt5 = [
         "id": "sv3pt5-68",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -4804,6 +4872,7 @@ let sv3pt5 = [
         "id": "sv3pt5-69",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -4876,6 +4945,7 @@ let sv3pt5 = [
         "id": "sv3pt5-70",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -4950,6 +5020,7 @@ let sv3pt5 = [
         "id": "sv3pt5-71",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -5022,6 +5093,7 @@ let sv3pt5 = [
         "id": "sv3pt5-72",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -5094,6 +5166,7 @@ let sv3pt5 = [
         "id": "sv3pt5-73",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5167,6 +5240,7 @@ let sv3pt5 = [
         "id": "sv3pt5-74",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -5240,6 +5314,7 @@ let sv3pt5 = [
         "id": "sv3pt5-75",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5316,6 +5391,7 @@ let sv3pt5 = [
         "id": "sv3pt5-76",
         "name": "Golem ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -5393,6 +5469,7 @@ let sv3pt5 = [
         "id": "sv3pt5-77",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -5466,6 +5543,7 @@ let sv3pt5 = [
         "id": "sv3pt5-78",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5537,6 +5615,7 @@ let sv3pt5 = [
         "id": "sv3pt5-79",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -5617,6 +5696,7 @@ let sv3pt5 = [
         "id": "sv3pt5-80",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5695,6 +5775,7 @@ let sv3pt5 = [
         "id": "sv3pt5-81",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -5767,6 +5848,7 @@ let sv3pt5 = [
         "id": "sv3pt5-82",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -5842,6 +5924,7 @@ let sv3pt5 = [
         "id": "sv3pt5-83",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -5919,6 +6002,7 @@ let sv3pt5 = [
         "id": "sv3pt5-84",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -5987,6 +6071,7 @@ let sv3pt5 = [
         "id": "sv3pt5-85",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6060,6 +6145,7 @@ let sv3pt5 = [
         "id": "sv3pt5-86",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6123,6 +6209,7 @@ let sv3pt5 = [
         "id": "sv3pt5-87",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6196,6 +6283,7 @@ let sv3pt5 = [
         "id": "sv3pt5-88",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6259,6 +6347,7 @@ let sv3pt5 = [
         "id": "sv3pt5-89",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6334,6 +6423,7 @@ let sv3pt5 = [
         "id": "sv3pt5-90",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6398,6 +6488,7 @@ let sv3pt5 = [
         "id": "sv3pt5-91",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6461,6 +6552,7 @@ let sv3pt5 = [
         "id": "sv3pt5-92",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6529,6 +6621,7 @@ let sv3pt5 = [
         "id": "sv3pt5-93",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6606,6 +6699,7 @@ let sv3pt5 = [
         "id": "sv3pt5-94",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -6678,6 +6772,7 @@ let sv3pt5 = [
         "id": "sv3pt5-95",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6756,6 +6851,7 @@ let sv3pt5 = [
         "id": "sv3pt5-96",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6826,6 +6922,7 @@ let sv3pt5 = [
         "id": "sv3pt5-97",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -6902,6 +6999,7 @@ let sv3pt5 = [
         "id": "sv3pt5-98",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -6975,6 +7073,7 @@ let sv3pt5 = [
         "id": "sv3pt5-99",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -7051,6 +7150,7 @@ let sv3pt5 = [
         "id": "sv3pt5-100",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7113,6 +7213,7 @@ let sv3pt5 = [
         "id": "sv3pt5-101",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -7183,6 +7284,7 @@ let sv3pt5 = [
         "id": "sv3pt5-102",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7246,6 +7348,7 @@ let sv3pt5 = [
         "id": "sv3pt5-103",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -7320,6 +7423,7 @@ let sv3pt5 = [
         "id": "sv3pt5-104",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7389,6 +7493,7 @@ let sv3pt5 = [
         "id": "sv3pt5-105",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -7460,6 +7565,7 @@ let sv3pt5 = [
         "id": "sv3pt5-106",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7531,6 +7637,7 @@ let sv3pt5 = [
         "id": "sv3pt5-107",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7598,6 +7705,7 @@ let sv3pt5 = [
         "id": "sv3pt5-108",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7665,6 +7773,7 @@ let sv3pt5 = [
         "id": "sv3pt5-109",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7728,6 +7837,7 @@ let sv3pt5 = [
         "id": "sv3pt5-110",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -7797,6 +7907,7 @@ let sv3pt5 = [
         "id": "sv3pt5-111",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -7873,6 +7984,7 @@ let sv3pt5 = [
         "id": "sv3pt5-112",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -7951,6 +8063,7 @@ let sv3pt5 = [
         "id": "sv3pt5-113",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8023,6 +8136,7 @@ let sv3pt5 = [
         "id": "sv3pt5-114",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8086,6 +8200,7 @@ let sv3pt5 = [
         "id": "sv3pt5-115",
         "name": "Kangaskhan ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -8160,6 +8275,7 @@ let sv3pt5 = [
         "id": "sv3pt5-116",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8233,6 +8349,7 @@ let sv3pt5 = [
         "id": "sv3pt5-117",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -8298,6 +8415,7 @@ let sv3pt5 = [
         "id": "sv3pt5-118",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8370,6 +8488,7 @@ let sv3pt5 = [
         "id": "sv3pt5-119",
         "name": "Seaking",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -8442,6 +8561,7 @@ let sv3pt5 = [
         "id": "sv3pt5-120",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8505,6 +8625,7 @@ let sv3pt5 = [
         "id": "sv3pt5-121",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -8573,6 +8694,7 @@ let sv3pt5 = [
         "id": "sv3pt5-122",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8643,6 +8765,7 @@ let sv3pt5 = [
         "id": "sv3pt5-123",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8712,6 +8835,7 @@ let sv3pt5 = [
         "id": "sv3pt5-124",
         "name": "Jynx ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -8788,6 +8912,7 @@ let sv3pt5 = [
         "id": "sv3pt5-125",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8861,6 +8986,7 @@ let sv3pt5 = [
         "id": "sv3pt5-126",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -8935,6 +9061,7 @@ let sv3pt5 = [
         "id": "sv3pt5-127",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9007,6 +9134,7 @@ let sv3pt5 = [
         "id": "sv3pt5-128",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9077,6 +9205,7 @@ let sv3pt5 = [
         "id": "sv3pt5-129",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9139,6 +9268,7 @@ let sv3pt5 = [
         "id": "sv3pt5-130",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -9212,6 +9342,7 @@ let sv3pt5 = [
         "id": "sv3pt5-131",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9282,6 +9413,7 @@ let sv3pt5 = [
         "id": "sv3pt5-132",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9348,6 +9480,7 @@ let sv3pt5 = [
         "id": "sv3pt5-133",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9426,6 +9559,7 @@ let sv3pt5 = [
         "id": "sv3pt5-134",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -9498,6 +9632,7 @@ let sv3pt5 = [
         "id": "sv3pt5-135",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -9565,6 +9700,7 @@ let sv3pt5 = [
         "id": "sv3pt5-136",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -9637,6 +9773,7 @@ let sv3pt5 = [
         "id": "sv3pt5-137",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -9699,6 +9836,7 @@ let sv3pt5 = [
         "id": "sv3pt5-138",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -9764,6 +9902,7 @@ let sv3pt5 = [
         "id": "sv3pt5-139",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -9834,6 +9973,7 @@ let sv3pt5 = [
         "id": "sv3pt5-140",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -9899,6 +10039,7 @@ let sv3pt5 = [
         "id": "sv3pt5-141",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -9969,6 +10110,7 @@ let sv3pt5 = [
         "id": "sv3pt5-142",
         "name": "Aerodactyl",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -10041,6 +10183,7 @@ let sv3pt5 = [
         "id": "sv3pt5-143",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10112,6 +10255,7 @@ let sv3pt5 = [
         "id": "sv3pt5-144",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10187,6 +10331,7 @@ let sv3pt5 = [
         "id": "sv3pt5-145",
         "name": "Zapdos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -10265,6 +10410,7 @@ let sv3pt5 = [
         "id": "sv3pt5-146",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10340,6 +10486,7 @@ let sv3pt5 = [
         "id": "sv3pt5-147",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10406,6 +10553,7 @@ let sv3pt5 = [
         "id": "sv3pt5-148",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -10474,6 +10622,7 @@ let sv3pt5 = [
         "id": "sv3pt5-149",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -10538,6 +10687,7 @@ let sv3pt5 = [
         "id": "sv3pt5-150",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -10616,6 +10766,7 @@ let sv3pt5 = [
         "id": "sv3pt5-151",
         "name": "Mew ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -10689,6 +10840,7 @@ let sv3pt5 = [
         "id": "sv3pt5-152",
         "name": "Antique Dome Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -10732,6 +10884,7 @@ let sv3pt5 = [
         "id": "sv3pt5-153",
         "name": "Antique Helix Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -10775,6 +10928,7 @@ let sv3pt5 = [
         "id": "sv3pt5-154",
         "name": "Antique Old Amber",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -10818,6 +10972,7 @@ let sv3pt5 = [
         "id": "sv3pt5-155",
         "name": "Big Air Balloon",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10853,6 +11008,7 @@ let sv3pt5 = [
         "id": "sv3pt5-156",
         "name": "Bill's Transfer",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -10888,6 +11044,7 @@ let sv3pt5 = [
         "id": "sv3pt5-157",
         "name": "Cycling Road",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stadium"
         ],
@@ -10923,6 +11080,7 @@ let sv3pt5 = [
         "id": "sv3pt5-158",
         "name": "Daisy's Help",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -10958,6 +11116,7 @@ let sv3pt5 = [
         "id": "sv3pt5-159",
         "name": "Energy Sticker",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -10993,6 +11152,7 @@ let sv3pt5 = [
         "id": "sv3pt5-160",
         "name": "Erika's Invitation",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -11028,6 +11188,7 @@ let sv3pt5 = [
         "id": "sv3pt5-161",
         "name": "Giovanni's Charisma",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -11063,6 +11224,7 @@ let sv3pt5 = [
         "id": "sv3pt5-162",
         "name": "Grabber",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -11098,6 +11260,7 @@ let sv3pt5 = [
         "id": "sv3pt5-163",
         "name": "Leftovers",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11133,6 +11296,7 @@ let sv3pt5 = [
         "id": "sv3pt5-164",
         "name": "Protective Goggles",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11168,6 +11332,7 @@ let sv3pt5 = [
         "id": "sv3pt5-165",
         "name": "Rigid Band",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11203,6 +11368,7 @@ let sv3pt5 = [
         "id": "sv3pt5-166",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -11267,6 +11433,7 @@ let sv3pt5 = [
         "id": "sv3pt5-167",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -11344,6 +11511,7 @@ let sv3pt5 = [
         "id": "sv3pt5-168",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -11416,6 +11584,7 @@ let sv3pt5 = [
         "id": "sv3pt5-169",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -11491,6 +11660,7 @@ let sv3pt5 = [
         "id": "sv3pt5-170",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -11563,6 +11733,7 @@ let sv3pt5 = [
         "id": "sv3pt5-171",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -11637,6 +11808,7 @@ let sv3pt5 = [
         "id": "sv3pt5-172",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -11699,6 +11871,7 @@ let sv3pt5 = [
         "id": "sv3pt5-173",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -11772,6 +11945,7 @@ let sv3pt5 = [
         "id": "sv3pt5-174",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2"
         ],
@@ -11844,6 +12018,7 @@ let sv3pt5 = [
         "id": "sv3pt5-175",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -11915,6 +12090,7 @@ let sv3pt5 = [
         "id": "sv3pt5-176",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -11989,6 +12165,7 @@ let sv3pt5 = [
         "id": "sv3pt5-177",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -12054,6 +12231,7 @@ let sv3pt5 = [
         "id": "sv3pt5-178",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -12117,6 +12295,7 @@ let sv3pt5 = [
         "id": "sv3pt5-179",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],
@@ -12187,6 +12366,7 @@ let sv3pt5 = [
         "id": "sv3pt5-180",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -12252,6 +12432,7 @@ let sv3pt5 = [
         "id": "sv3pt5-181",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1"
         ],
@@ -12320,6 +12501,7 @@ let sv3pt5 = [
         "id": "sv3pt5-182",
         "name": "Venusaur ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -12395,6 +12577,7 @@ let sv3pt5 = [
         "id": "sv3pt5-183",
         "name": "Charizard ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -12471,6 +12654,7 @@ let sv3pt5 = [
         "id": "sv3pt5-184",
         "name": "Blastoise ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -12544,6 +12728,7 @@ let sv3pt5 = [
         "id": "sv3pt5-185",
         "name": "Arbok ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -12620,6 +12805,7 @@ let sv3pt5 = [
         "id": "sv3pt5-186",
         "name": "Ninetales ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -12694,6 +12880,7 @@ let sv3pt5 = [
         "id": "sv3pt5-187",
         "name": "Wigglytuff ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -12768,6 +12955,7 @@ let sv3pt5 = [
         "id": "sv3pt5-188",
         "name": "Alakazam ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -12848,6 +13036,7 @@ let sv3pt5 = [
         "id": "sv3pt5-189",
         "name": "Golem ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -12925,6 +13114,7 @@ let sv3pt5 = [
         "id": "sv3pt5-190",
         "name": "Kangaskhan ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -12999,6 +13189,7 @@ let sv3pt5 = [
         "id": "sv3pt5-191",
         "name": "Jynx ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -13075,6 +13266,7 @@ let sv3pt5 = [
         "id": "sv3pt5-192",
         "name": "Zapdos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -13153,6 +13345,7 @@ let sv3pt5 = [
         "id": "sv3pt5-193",
         "name": "Mew ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -13226,6 +13419,7 @@ let sv3pt5 = [
         "id": "sv3pt5-194",
         "name": "Bill's Transfer",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -13261,6 +13455,7 @@ let sv3pt5 = [
         "id": "sv3pt5-195",
         "name": "Daisy's Help",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -13296,6 +13491,7 @@ let sv3pt5 = [
         "id": "sv3pt5-196",
         "name": "Erika's Invitation",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -13331,6 +13527,7 @@ let sv3pt5 = [
         "id": "sv3pt5-197",
         "name": "Giovanni's Charisma",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -13366,6 +13563,7 @@ let sv3pt5 = [
         "id": "sv3pt5-198",
         "name": "Venusaur ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -13441,6 +13639,7 @@ let sv3pt5 = [
         "id": "sv3pt5-199",
         "name": "Charizard ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -13517,6 +13716,7 @@ let sv3pt5 = [
         "id": "sv3pt5-200",
         "name": "Blastoise ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -13590,6 +13790,7 @@ let sv3pt5 = [
         "id": "sv3pt5-201",
         "name": "Alakazam ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -13670,6 +13871,7 @@ let sv3pt5 = [
         "id": "sv3pt5-202",
         "name": "Zapdos ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -13748,6 +13950,7 @@ let sv3pt5 = [
         "id": "sv3pt5-203",
         "name": "Erika's Invitation",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -13783,6 +13986,7 @@ let sv3pt5 = [
         "id": "sv3pt5-204",
         "name": "Giovanni's Charisma",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Supporter"
         ],
@@ -13818,6 +14022,7 @@ let sv3pt5 = [
         "id": "sv3pt5-205",
         "name": "Mew ex",
         "supertype": "Pokémon",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic",
             "ex"
@@ -13891,6 +14096,7 @@ let sv3pt5 = [
         "id": "sv3pt5-206",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Item"
         ],
@@ -13926,6 +14132,7 @@ let sv3pt5 = [
         "id": "sv3pt5-207",
         "name": "Basic Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "MEW",
         "subtypes": [
             "Basic"
         ],

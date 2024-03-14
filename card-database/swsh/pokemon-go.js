@@ -3,6 +3,7 @@ let pgo = [
         "id": "pgo-1",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -118,6 +119,7 @@ let pgo = [
         "id": "pgo-2",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -236,6 +238,7 @@ let pgo = [
         "id": "pgo-3",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 2"
         ],
@@ -351,6 +354,7 @@ let pgo = [
         "id": "pgo-4",
         "name": "Radiant Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -460,6 +464,7 @@ let pgo = [
         "id": "pgo-5",
         "name": "Alolan Exeggutor V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -570,6 +575,7 @@ let pgo = [
         "id": "pgo-6",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -674,6 +680,7 @@ let pgo = [
         "id": "pgo-7",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -786,6 +793,7 @@ let pgo = [
         "id": "pgo-8",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -890,6 +898,7 @@ let pgo = [
         "id": "pgo-9",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1009,6 +1018,7 @@ let pgo = [
         "id": "pgo-10",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 2"
         ],
@@ -1123,6 +1133,7 @@ let pgo = [
         "id": "pgo-11",
         "name": "Radiant Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -1234,6 +1245,7 @@ let pgo = [
         "id": "pgo-12",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -1345,6 +1357,7 @@ let pgo = [
         "id": "pgo-13",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -1463,6 +1476,7 @@ let pgo = [
         "id": "pgo-14",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1580,6 +1594,7 @@ let pgo = [
         "id": "pgo-15",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -1684,6 +1699,7 @@ let pgo = [
         "id": "pgo-16",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -1801,6 +1817,7 @@ let pgo = [
         "id": "pgo-17",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 2"
         ],
@@ -1915,6 +1932,7 @@ let pgo = [
         "id": "pgo-18",
         "name": "Radiant Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "Radiant"
@@ -2023,6 +2041,7 @@ let pgo = [
         "id": "pgo-19",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -2138,6 +2157,7 @@ let pgo = [
         "id": "pgo-20",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2252,6 +2272,7 @@ let pgo = [
         "id": "pgo-21",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -2366,6 +2387,7 @@ let pgo = [
         "id": "pgo-22",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2482,6 +2504,7 @@ let pgo = [
         "id": "pgo-23",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -2595,6 +2618,7 @@ let pgo = [
         "id": "pgo-24",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -2706,6 +2730,7 @@ let pgo = [
         "id": "pgo-25",
         "name": "Wimpod",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -2819,6 +2844,7 @@ let pgo = [
         "id": "pgo-26",
         "name": "Golisopod",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -2933,6 +2959,7 @@ let pgo = [
         "id": "pgo-27",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -3039,6 +3066,7 @@ let pgo = [
         "id": "pgo-28",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -3145,6 +3173,7 @@ let pgo = [
         "id": "pgo-29",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -3256,6 +3285,7 @@ let pgo = [
         "id": "pgo-30",
         "name": "Mewtwo V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -3372,6 +3402,7 @@ let pgo = [
         "id": "pgo-31",
         "name": "Mewtwo VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VSTAR"
         ],
@@ -3487,6 +3518,7 @@ let pgo = [
         "id": "pgo-32",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -3607,6 +3639,7 @@ let pgo = [
         "id": "pgo-33",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3721,6 +3754,7 @@ let pgo = [
         "id": "pgo-34",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -3839,6 +3873,7 @@ let pgo = [
         "id": "pgo-35",
         "name": "Sylveon",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -3952,6 +3987,7 @@ let pgo = [
         "id": "pgo-36",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -4073,6 +4109,7 @@ let pgo = [
         "id": "pgo-37",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -4177,6 +4214,7 @@ let pgo = [
         "id": "pgo-38",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4293,6 +4331,7 @@ let pgo = [
         "id": "pgo-39",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -4402,6 +4441,7 @@ let pgo = [
         "id": "pgo-40",
         "name": "Conkeldurr V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -4512,6 +4552,7 @@ let pgo = [
         "id": "pgo-41",
         "name": "Alolan Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -4617,6 +4658,7 @@ let pgo = [
         "id": "pgo-42",
         "name": "Alolan Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4732,6 +4774,7 @@ let pgo = [
         "id": "pgo-43",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 2"
         ],
@@ -4849,6 +4892,7 @@ let pgo = [
         "id": "pgo-44",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -4974,6 +5018,7 @@ let pgo = [
         "id": "pgo-45",
         "name": "Meltan",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -5086,6 +5131,7 @@ let pgo = [
         "id": "pgo-46",
         "name": "Melmetal",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5209,6 +5255,7 @@ let pgo = [
         "id": "pgo-47",
         "name": "Melmetal V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -5326,6 +5373,7 @@ let pgo = [
         "id": "pgo-48",
         "name": "Melmetal VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VMAX"
         ],
@@ -5434,6 +5482,7 @@ let pgo = [
         "id": "pgo-49",
         "name": "Dragonite V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -5538,6 +5587,7 @@ let pgo = [
         "id": "pgo-50",
         "name": "Dragonite VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VSTAR"
         ],
@@ -5642,6 +5692,7 @@ let pgo = [
         "id": "pgo-51",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -5758,6 +5809,7 @@ let pgo = [
         "id": "pgo-52",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -5874,6 +5926,7 @@ let pgo = [
         "id": "pgo-53",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -5964,6 +6017,7 @@ let pgo = [
         "id": "pgo-54",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -6085,6 +6139,7 @@ let pgo = [
         "id": "pgo-55",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -6199,6 +6254,7 @@ let pgo = [
         "id": "pgo-56",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -6314,6 +6370,7 @@ let pgo = [
         "id": "pgo-57",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -6423,6 +6480,7 @@ let pgo = [
         "id": "pgo-58",
         "name": "Slaking V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -6532,6 +6590,7 @@ let pgo = [
         "id": "pgo-59",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -6639,6 +6698,7 @@ let pgo = [
         "id": "pgo-60",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -6751,6 +6811,7 @@ let pgo = [
         "id": "pgo-61",
         "name": "Pidove",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic"
         ],
@@ -6871,6 +6932,7 @@ let pgo = [
         "id": "pgo-62",
         "name": "Tranquill",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 1"
         ],
@@ -6992,6 +7054,7 @@ let pgo = [
         "id": "pgo-63",
         "name": "Unfezant",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stage 2"
         ],
@@ -7110,6 +7173,7 @@ let pgo = [
         "id": "pgo-64",
         "name": "Blanche",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -7187,6 +7251,7 @@ let pgo = [
         "id": "pgo-65",
         "name": "Candela",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -7264,6 +7329,7 @@ let pgo = [
         "id": "pgo-66",
         "name": "Egg Incubator",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Item"
         ],
@@ -7341,6 +7407,7 @@ let pgo = [
         "id": "pgo-67",
         "name": "Lure Module",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Item"
         ],
@@ -7418,6 +7485,7 @@ let pgo = [
         "id": "pgo-68",
         "name": "PokéStop",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Stadium"
         ],
@@ -7494,6 +7562,7 @@ let pgo = [
         "id": "pgo-69",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Item"
         ],
@@ -7571,6 +7640,7 @@ let pgo = [
         "id": "pgo-70",
         "name": "Spark",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -7648,6 +7718,7 @@ let pgo = [
         "id": "pgo-71",
         "name": "Alolan Exeggutor V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -7758,6 +7829,7 @@ let pgo = [
         "id": "pgo-72",
         "name": "Mewtwo V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -7874,6 +7946,7 @@ let pgo = [
         "id": "pgo-73",
         "name": "Conkeldurr V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -7984,6 +8057,7 @@ let pgo = [
         "id": "pgo-74",
         "name": "Conkeldurr V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -8094,6 +8168,7 @@ let pgo = [
         "id": "pgo-75",
         "name": "Melmetal V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -8211,6 +8286,7 @@ let pgo = [
         "id": "pgo-76",
         "name": "Dragonite V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -8315,6 +8391,7 @@ let pgo = [
         "id": "pgo-77",
         "name": "Slaking V",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Basic",
             "V"
@@ -8424,6 +8501,7 @@ let pgo = [
         "id": "pgo-78",
         "name": "Professor's Research",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -8495,6 +8573,7 @@ let pgo = [
         "id": "pgo-79",
         "name": "Mewtwo VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VSTAR"
         ],
@@ -8610,6 +8689,7 @@ let pgo = [
         "id": "pgo-80",
         "name": "Melmetal VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VMAX"
         ],
@@ -8718,6 +8798,7 @@ let pgo = [
         "id": "pgo-81",
         "name": "Dragonite VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VSTAR"
         ],
@@ -8822,6 +8903,7 @@ let pgo = [
         "id": "pgo-82",
         "name": "Blanche",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -8892,6 +8974,7 @@ let pgo = [
         "id": "pgo-83",
         "name": "Candela",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -8962,6 +9045,7 @@ let pgo = [
         "id": "pgo-84",
         "name": "Professor's Research",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -9033,6 +9117,7 @@ let pgo = [
         "id": "pgo-85",
         "name": "Spark",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Supporter"
         ],
@@ -9103,6 +9188,7 @@ let pgo = [
         "id": "pgo-86",
         "name": "Mewtwo VSTAR",
         "supertype": "Pokémon",
+        "setAbbrev": "PGO",
         "subtypes": [
             "VSTAR"
         ],
@@ -9218,6 +9304,7 @@ let pgo = [
         "id": "pgo-87",
         "name": "Egg Incubator",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Item"
         ],
@@ -9288,6 +9375,7 @@ let pgo = [
         "id": "pgo-88",
         "name": "Lure Module",
         "supertype": "Trainer",
+        "setAbbrev": "PGO",
         "subtypes": [
             "Item"
         ],

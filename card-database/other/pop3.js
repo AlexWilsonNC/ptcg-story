@@ -3,6 +3,7 @@ let pop3 = [
         "id": "pop3-1",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Stage 2"
         ],
@@ -71,6 +72,7 @@ let pop3 = [
         "id": "pop3-2",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Stage 1"
         ],
@@ -138,6 +140,7 @@ let pop3 = [
         "id": "pop3-3",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Stage 1"
         ],
@@ -210,6 +213,7 @@ let pop3 = [
         "id": "pop3-4",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Basic"
         ],
@@ -290,6 +294,7 @@ let pop3 = [
         "id": "pop3-5",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Basic"
         ],
@@ -370,6 +375,7 @@ let pop3 = [
         "id": "pop3-6",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Stage 1"
         ],
@@ -435,6 +441,7 @@ let pop3 = [
         "id": "pop3-7",
         "name": "Combusken",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Stage 1"
         ],
@@ -504,6 +511,7 @@ let pop3 = [
         "id": "pop3-8",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Stage 1"
         ],
@@ -570,6 +578,7 @@ let pop3 = [
         "id": "pop3-9",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Stage 1"
         ],
@@ -637,6 +646,7 @@ let pop3 = [
         "id": "pop3-10",
         "name": "High Pressure System",
         "supertype": "Trainer",
+        "setAbbrev": "P3",
         "subtypes": [
             "Stadium"
         ],
@@ -670,6 +680,7 @@ let pop3 = [
         "id": "pop3-11",
         "name": "Low Pressure System",
         "supertype": "Trainer",
+        "setAbbrev": "P3",
         "subtypes": [
             "Stadium"
         ],
@@ -703,6 +714,7 @@ let pop3 = [
         "id": "pop3-12",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Basic"
         ],
@@ -765,6 +777,7 @@ let pop3 = [
         "id": "pop3-13",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Basic"
         ],
@@ -839,6 +852,7 @@ let pop3 = [
         "id": "pop3-14",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Stage 1"
         ],
@@ -908,6 +922,7 @@ let pop3 = [
         "id": "pop3-15",
         "name": "Marshtomp",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Stage 1"
         ],
@@ -977,6 +992,7 @@ let pop3 = [
         "id": "pop3-16",
         "name": "Pichu Bros.",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Basic"
         ],
@@ -1035,6 +1051,7 @@ let pop3 = [
         "id": "pop3-17",
         "name": "Ho-Oh ex",
         "supertype": "Pokémon",
+        "setAbbrev": "P3",
         "subtypes": [
             "Basic",
             "EX"

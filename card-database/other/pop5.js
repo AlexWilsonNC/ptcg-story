@@ -3,6 +3,7 @@ let pop5 = [
         "id": "pop5-1",
         "name": "Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Basic"
         ],
@@ -70,6 +71,7 @@ let pop5 = [
         "id": "pop5-2",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Basic"
         ],
@@ -136,6 +138,7 @@ let pop5 = [
         "id": "pop5-3",
         "name": "Mew δ",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Basic"
         ],
@@ -199,6 +202,7 @@ let pop5 = [
         "id": "pop5-4",
         "name": "Double Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "P5",
         "subtypes": [
             "Special"
         ],
@@ -231,6 +235,7 @@ let pop5 = [
         "id": "pop5-5",
         "name": "Charmeleon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Stage 1"
         ],
@@ -301,6 +306,7 @@ let pop5 = [
         "id": "pop5-6",
         "name": "Bill's Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "P5",
         "subtypes": [
             "Supporter"
         ],
@@ -334,6 +340,7 @@ let pop5 = [
         "id": "pop5-7",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "P5",
         "rules": [
             "Choose 1 of your Basic Pokémon in play. If you have a Stage 1 or Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.)"
         ],
@@ -363,6 +370,7 @@ let pop5 = [
         "id": "pop5-8",
         "name": "Boost Energy",
         "supertype": "Energy",
+        "setAbbrev": "P5",
         "subtypes": [
             "Special"
         ],
@@ -395,6 +403,7 @@ let pop5 = [
         "id": "pop5-9",
         "name": "δ Rainbow Energy",
         "supertype": "Energy",
+        "setAbbrev": "P5",
         "subtypes": [
             "Special"
         ],
@@ -427,6 +436,7 @@ let pop5 = [
         "id": "pop5-10",
         "name": "Charmander δ",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Basic"
         ],
@@ -494,6 +504,7 @@ let pop5 = [
         "id": "pop5-11",
         "name": "Meowth δ",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Basic"
         ],
@@ -551,6 +562,7 @@ let pop5 = [
         "id": "pop5-12",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Basic"
         ],
@@ -619,6 +631,7 @@ let pop5 = [
         "id": "pop5-13",
         "name": "Pikachu δ",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Basic"
         ],
@@ -686,6 +699,7 @@ let pop5 = [
         "id": "pop5-14",
         "name": "Pelipper δ",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Stage 1"
         ],
@@ -755,6 +769,7 @@ let pop5 = [
         "id": "pop5-15",
         "name": "Zangoose δ",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Basic"
         ],
@@ -820,6 +835,7 @@ let pop5 = [
         "id": "pop5-16",
         "name": "Espeon ★",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Basic",
             "Star"
@@ -887,6 +903,7 @@ let pop5 = [
         "id": "pop5-17",
         "name": "Umbreon ★",
         "supertype": "Pokémon",
+        "setAbbrev": "P5",
         "subtypes": [
             "Basic",
             "Star"

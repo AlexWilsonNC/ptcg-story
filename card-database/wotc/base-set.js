@@ -3,6 +3,7 @@ let base1 = [
         "id": "base1-1",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -69,6 +70,7 @@ let base1 = [
         "id": "base1-2",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -135,6 +137,7 @@ let base1 = [
         "id": "base1-3",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -213,6 +216,7 @@ let base1 = [
         "id": "base1-4",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -286,6 +290,7 @@ let base1 = [
         "id": "base1-5",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -362,6 +367,7 @@ let base1 = [
         "id": "base1-6",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -439,6 +445,7 @@ let base1 = [
         "id": "base1-7",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -506,6 +513,7 @@ let base1 = [
         "id": "base1-8",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -573,6 +581,7 @@ let base1 = [
         "id": "base1-9",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -647,6 +656,7 @@ let base1 = [
         "id": "base1-10",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -714,6 +724,7 @@ let base1 = [
         "id": "base1-11",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -784,6 +795,7 @@ let base1 = [
         "id": "base1-12",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -854,6 +866,7 @@ let base1 = [
         "id": "base1-13",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -925,6 +938,7 @@ let base1 = [
         "id": "base1-14",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -996,6 +1010,7 @@ let base1 = [
         "id": "base1-15",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1063,6 +1078,7 @@ let base1 = [
         "id": "base1-16",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -1134,6 +1150,7 @@ let base1 = [
         "id": "base1-17",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1209,6 +1226,7 @@ let base1 = [
         "id": "base1-18",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1283,6 +1301,7 @@ let base1 = [
         "id": "base1-19",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1360,6 +1379,7 @@ let base1 = [
         "id": "base1-20",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -1429,6 +1449,7 @@ let base1 = [
         "id": "base1-21",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1495,6 +1516,7 @@ let base1 = [
         "id": "base1-22",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1573,6 +1595,7 @@ let base1 = [
         "id": "base1-23",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1644,6 +1667,7 @@ let base1 = [
         "id": "base1-24",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1717,6 +1741,7 @@ let base1 = [
         "id": "base1-25",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1788,6 +1813,7 @@ let base1 = [
         "id": "base1-26",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -1847,6 +1873,7 @@ let base1 = [
         "id": "base1-27",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -1923,6 +1950,7 @@ let base1 = [
         "id": "base1-28",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -1983,6 +2011,7 @@ let base1 = [
         "id": "base1-29",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2053,6 +2082,7 @@ let base1 = [
         "id": "base1-30",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2126,6 +2156,7 @@ let base1 = [
         "id": "base1-31",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -2193,6 +2224,7 @@ let base1 = [
         "id": "base1-32",
         "name": "Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2265,6 +2297,7 @@ let base1 = [
         "id": "base1-33",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2336,6 +2369,7 @@ let base1 = [
         "id": "base1-34",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2410,6 +2444,7 @@ let base1 = [
         "id": "base1-35",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -2478,6 +2513,7 @@ let base1 = [
         "id": "base1-36",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -2549,6 +2585,7 @@ let base1 = [
         "id": "base1-37",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2623,6 +2660,7 @@ let base1 = [
         "id": "base1-38",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2696,6 +2734,7 @@ let base1 = [
         "id": "base1-39",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -2771,6 +2810,7 @@ let base1 = [
         "id": "base1-40",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2845,6 +2885,7 @@ let base1 = [
         "id": "base1-41",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -2904,6 +2945,7 @@ let base1 = [
         "id": "base1-42",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2976,6 +3018,7 @@ let base1 = [
         "id": "base1-43",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3034,6 +3077,7 @@ let base1 = [
         "id": "base1-44",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3094,6 +3138,7 @@ let base1 = [
         "id": "base1-45",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3153,6 +3198,7 @@ let base1 = [
         "id": "base1-46",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3222,6 +3268,7 @@ let base1 = [
         "id": "base1-47",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3296,6 +3343,7 @@ let base1 = [
         "id": "base1-48",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3360,6 +3408,7 @@ let base1 = [
         "id": "base1-49",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3429,6 +3478,7 @@ let base1 = [
         "id": "base1-50",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3497,6 +3547,7 @@ let base1 = [
         "id": "base1-51",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3557,6 +3608,7 @@ let base1 = [
         "id": "base1-52",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3616,6 +3668,7 @@ let base1 = [
         "id": "base1-53",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3685,6 +3738,7 @@ let base1 = [
         "id": "base1-54",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3756,6 +3810,7 @@ let base1 = [
         "id": "base1-55",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3815,6 +3870,7 @@ let base1 = [
         "id": "base1-56",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3884,6 +3940,7 @@ let base1 = [
         "id": "base1-57",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -3950,6 +4007,7 @@ let base1 = [
         "id": "base1-58",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -4019,6 +4077,7 @@ let base1 = [
         "id": "base1-59",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -4078,6 +4137,7 @@ let base1 = [
         "id": "base1-60",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -4148,6 +4208,7 @@ let base1 = [
         "id": "base1-61",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -4212,6 +4273,7 @@ let base1 = [
         "id": "base1-62",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -4277,6 +4339,7 @@ let base1 = [
         "id": "base1-63",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -4346,6 +4409,7 @@ let base1 = [
         "id": "base1-64",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4415,6 +4479,7 @@ let base1 = [
         "id": "base1-65",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -4474,6 +4539,7 @@ let base1 = [
         "id": "base1-66",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -4545,6 +4611,7 @@ let base1 = [
         "id": "base1-67",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -4604,6 +4671,7 @@ let base1 = [
         "id": "base1-68",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -4664,6 +4732,7 @@ let base1 = [
         "id": "base1-69",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -4723,6 +4792,7 @@ let base1 = [
         "id": "base1-70",
         "name": "Clefairy Doll",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "hp": "10",
         "rules": [
             "Play Clefairy Doll as if it were a Basic Pokémon. While in play, Clefairy Doll counts a a Pokémon (instead of a Trainer card). Clefairy Doll has no attacks, can't retreat, and can't be Asleep, Confused, Paralyzed, or Poisoned. If Clefairy Doll is Knocked Out, it doesn't count as a Knocked Out Pokémon. At any time during your turn before your attack, you may discard Clefairy Doll."
@@ -4754,6 +4824,7 @@ let base1 = [
         "id": "base1-71",
         "name": "Computer Search",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Discard 2 of the other cards from your hand in order to search your deck for any card and put it into your hand. Shuffle your deck afterward."
         ],
@@ -4784,6 +4855,7 @@ let base1 = [
         "id": "base1-72",
         "name": "Devolution Spray",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Choose 1 of your own Pokémon in play and a Stage of Evolution. Discard all Evolution cards of that Stage or higher attached to that Pokémon. That Pokémon is no longer Asleep, Confused, Paralyzed, Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
         ],
@@ -4814,6 +4886,7 @@ let base1 = [
         "id": "base1-73",
         "name": "Impostor Professor Oak",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Your opponent shuffles his or her hand into his or her deck, then draws 7 cards."
         ],
@@ -4844,6 +4917,7 @@ let base1 = [
         "id": "base1-74",
         "name": "Item Finder",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Discard 2 of the other cards from your hand in order to put a Trainer card from your discard pile into your hand."
         ],
@@ -4874,6 +4948,7 @@ let base1 = [
         "id": "base1-75",
         "name": "Lass",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "You and your opponent show each other your hands, then shuffle all the Trainer cards from your hands into your decks."
         ],
@@ -4904,6 +4979,7 @@ let base1 = [
         "id": "base1-76",
         "name": "Pokémon Breeder",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Put a Stage 2 Evolution card from your hand on the matching Basic Pokémon. You can only play this card when you would be allowed to evolve that Pokémon anyway."
         ],
@@ -4934,6 +5010,7 @@ let base1 = [
         "id": "base1-77",
         "name": "Pokémon Trader",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Trade 1 of the Basic Pokémon or Evolution cards in your hand for 1 of the Basic Pokémon or Evolution cards from your deck. Show both cards to your opponent. Shuffle your deck afterward."
         ],
@@ -4964,6 +5041,7 @@ let base1 = [
         "id": "base1-78",
         "name": "Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Choose 1 of your Pokémon in play and return its Basic Pokémon card to your hand. (Discard all cards attached to that card.)"
         ],
@@ -4994,6 +5072,7 @@ let base1 = [
         "id": "base1-79",
         "name": "Super Energy Removal",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Discard 1 Energy card attached to 1 of your Pokémon in order to choose 1 of your opponent's Pokémon and up to 2 Energy cards attached to it. Discard those Energy cards."
         ],
@@ -5024,6 +5103,7 @@ let base1 = [
         "id": "base1-80",
         "name": "Defender",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Attach Defender to 1 of your Pokémon. At the end of your opponent's next turn, discard Defender. Damage done to that Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
         ],
@@ -5054,6 +5134,7 @@ let base1 = [
         "id": "base1-81",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile."
         ],
@@ -5084,6 +5165,7 @@ let base1 = [
         "id": "base1-82",
         "name": "Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Your Active Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned."
         ],
@@ -5114,6 +5196,7 @@ let base1 = [
         "id": "base1-83",
         "name": "Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Shuffle 2 of the other cards from your hand into your deck in order to draw a card."
         ],
@@ -5144,6 +5227,7 @@ let base1 = [
         "id": "base1-84",
         "name": "PlusPower",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Attach PlusPower to your Active Pokémon. At the end of your turn, discard PlusPower. If this Pokémon's attack does damage to the Defending Pokémon (after applying Weakness and Resistance), the attack does 10 more damage to the Defending Pokémon."
         ],
@@ -5174,6 +5258,7 @@ let base1 = [
         "id": "base1-85",
         "name": "Pokémon Center",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon."
         ],
@@ -5204,6 +5289,7 @@ let base1 = [
         "id": "base1-86",
         "name": "Pokémon Flute",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Choose 1 Basic Pokémon card from your opponent's discard pile and put it onto his or her Bench. (You can't play Pokémon Flute if your opponent's Bench is full.)"
         ],
@@ -5234,6 +5320,7 @@ let base1 = [
         "id": "base1-87",
         "name": "Pokédex",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Look at up to 5 cards from the top of your deck and rearrange them as you like."
         ],
@@ -5264,6 +5351,7 @@ let base1 = [
         "id": "base1-88",
         "name": "Professor Oak",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Discard your hand, then draw 7 cards."
         ],
@@ -5294,6 +5382,7 @@ let base1 = [
         "id": "base1-89",
         "name": "Revive",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Put 1 Basic Pokémon card from your discard pile onto your Bench. Put damage counters on that Pokémon equal to half its HP (rounded down to the nearest 10). (You can't play Revive if your Bench is full.)"
         ],
@@ -5324,6 +5413,7 @@ let base1 = [
         "id": "base1-90",
         "name": "Super Potion",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Discard 1 Energy card attached to your own Pokémon in order to remove up to 4 damage counters from that Pokémon."
         ],
@@ -5354,6 +5444,7 @@ let base1 = [
         "id": "base1-91",
         "name": "Bill",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Draw 2 cards."
         ],
@@ -5384,6 +5475,7 @@ let base1 = [
         "id": "base1-92",
         "name": "Energy Removal",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it."
         ],
@@ -5414,6 +5506,7 @@ let base1 = [
         "id": "base1-93",
         "name": "Gust of Wind",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon."
         ],
@@ -5444,6 +5537,7 @@ let base1 = [
         "id": "base1-94",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Remove up to 2 damage counters from 1 of your Pokémon."
         ],
@@ -5474,6 +5568,7 @@ let base1 = [
         "id": "base1-95",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "BS",
         "rules": [
             "Switch 1 of your own Benched Pokémon with your Active Pokémon."
         ],
@@ -5504,6 +5599,7 @@ let base1 = [
         "id": "base1-96",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "BS",
         "subtypes": [
             "Special"
         ],
@@ -5537,6 +5633,7 @@ let base1 = [
         "id": "base1-97",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -5566,6 +5663,7 @@ let base1 = [
         "id": "base1-98",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -5595,6 +5693,7 @@ let base1 = [
         "id": "base1-99",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -5624,6 +5723,7 @@ let base1 = [
         "id": "base1-100",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -5653,6 +5753,7 @@ let base1 = [
         "id": "base1-101",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],
@@ -5682,6 +5783,7 @@ let base1 = [
         "id": "base1-102",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "BS",
         "subtypes": [
             "Basic"
         ],

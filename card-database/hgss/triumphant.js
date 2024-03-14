@@ -3,6 +3,7 @@ let hgss4 = [
         "id": "hgss4-1",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -80,6 +81,7 @@ let hgss4 = [
         "id": "hgss4-2",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -153,6 +155,7 @@ let hgss4 = [
         "id": "hgss4-3",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -219,6 +222,7 @@ let hgss4 = [
         "id": "hgss4-4",
         "name": "Drapion",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -296,6 +300,7 @@ let hgss4 = [
         "id": "hgss4-5",
         "name": "Mamoswine",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -367,6 +372,7 @@ let hgss4 = [
         "id": "hgss4-6",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -440,6 +446,7 @@ let hgss4 = [
         "id": "hgss4-7",
         "name": "Porygon-Z",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -506,6 +513,7 @@ let hgss4 = [
         "id": "hgss4-8",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -572,6 +580,7 @@ let hgss4 = [
         "id": "hgss4-9",
         "name": "Solrock",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -635,6 +644,7 @@ let hgss4 = [
         "id": "hgss4-10",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -698,6 +708,7 @@ let hgss4 = [
         "id": "hgss4-11",
         "name": "Venomoth",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -763,6 +774,7 @@ let hgss4 = [
         "id": "hgss4-12",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -828,6 +840,7 @@ let hgss4 = [
         "id": "hgss4-13",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -896,6 +909,7 @@ let hgss4 = [
         "id": "hgss4-14",
         "name": "Banette",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -970,6 +984,7 @@ let hgss4 = [
         "id": "hgss4-15",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1043,6 +1058,7 @@ let hgss4 = [
         "id": "hgss4-16",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -1116,6 +1132,7 @@ let hgss4 = [
         "id": "hgss4-17",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -1180,6 +1197,7 @@ let hgss4 = [
         "id": "hgss4-18",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1257,6 +1275,7 @@ let hgss4 = [
         "id": "hgss4-19",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1330,6 +1349,7 @@ let hgss4 = [
         "id": "hgss4-20",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1404,6 +1424,7 @@ let hgss4 = [
         "id": "hgss4-21",
         "name": "Elekid",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -1461,6 +1482,7 @@ let hgss4 = [
         "id": "hgss4-22",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1526,6 +1548,7 @@ let hgss4 = [
         "id": "hgss4-23",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1595,6 +1618,7 @@ let hgss4 = [
         "id": "hgss4-24",
         "name": "Kricketune",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1664,6 +1688,7 @@ let hgss4 = [
         "id": "hgss4-25",
         "name": "Lunatone",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -1730,6 +1755,7 @@ let hgss4 = [
         "id": "hgss4-26",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1798,6 +1824,7 @@ let hgss4 = [
         "id": "hgss4-27",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1866,6 +1893,7 @@ let hgss4 = [
         "id": "hgss4-28",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1934,6 +1962,7 @@ let hgss4 = [
         "id": "hgss4-29",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2"
         ],
@@ -2008,6 +2037,7 @@ let hgss4 = [
         "id": "hgss4-30",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2076,6 +2106,7 @@ let hgss4 = [
         "id": "hgss4-31",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2146,6 +2177,7 @@ let hgss4 = [
         "id": "hgss4-32",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2218,6 +2250,7 @@ let hgss4 = [
         "id": "hgss4-33",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -2294,6 +2327,7 @@ let hgss4 = [
         "id": "hgss4-34",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2368,6 +2402,7 @@ let hgss4 = [
         "id": "hgss4-35",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2443,6 +2478,7 @@ let hgss4 = [
         "id": "hgss4-36",
         "name": "Kangaskhan",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -2511,6 +2547,7 @@ let hgss4 = [
         "id": "hgss4-37",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2579,6 +2616,7 @@ let hgss4 = [
         "id": "hgss4-38",
         "name": "Lickilicky",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2647,6 +2685,7 @@ let hgss4 = [
         "id": "hgss4-39",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -2712,6 +2751,7 @@ let hgss4 = [
         "id": "hgss4-40",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2783,6 +2823,7 @@ let hgss4 = [
         "id": "hgss4-41",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -2840,6 +2881,7 @@ let hgss4 = [
         "id": "hgss4-42",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -2910,6 +2952,7 @@ let hgss4 = [
         "id": "hgss4-43",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -2986,6 +3029,7 @@ let hgss4 = [
         "id": "hgss4-44",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3060,6 +3104,7 @@ let hgss4 = [
         "id": "hgss4-45",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3131,6 +3176,7 @@ let hgss4 = [
         "id": "hgss4-46",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3203,6 +3249,7 @@ let hgss4 = [
         "id": "hgss4-47",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3281,6 +3328,7 @@ let hgss4 = [
         "id": "hgss4-48",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3355,6 +3403,7 @@ let hgss4 = [
         "id": "hgss4-49",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3423,6 +3472,7 @@ let hgss4 = [
         "id": "hgss4-50",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3491,6 +3541,7 @@ let hgss4 = [
         "id": "hgss4-51",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -3554,6 +3605,7 @@ let hgss4 = [
         "id": "hgss4-52",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -3627,6 +3679,7 @@ let hgss4 = [
         "id": "hgss4-53",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3697,6 +3750,7 @@ let hgss4 = [
         "id": "hgss4-54",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3771,6 +3825,7 @@ let hgss4 = [
         "id": "hgss4-55",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -3839,6 +3894,7 @@ let hgss4 = [
         "id": "hgss4-56",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -3915,6 +3971,7 @@ let hgss4 = [
         "id": "hgss4-57",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -3983,6 +4040,7 @@ let hgss4 = [
         "id": "hgss4-58",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4058,6 +4116,7 @@ let hgss4 = [
         "id": "hgss4-59",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4126,6 +4185,7 @@ let hgss4 = [
         "id": "hgss4-60",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4199,6 +4259,7 @@ let hgss4 = [
         "id": "hgss4-61",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4274,6 +4335,7 @@ let hgss4 = [
         "id": "hgss4-62",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4343,6 +4405,7 @@ let hgss4 = [
         "id": "hgss4-63",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4408,6 +4471,7 @@ let hgss4 = [
         "id": "hgss4-64",
         "name": "Illumise",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4473,6 +4537,7 @@ let hgss4 = [
         "id": "hgss4-65",
         "name": "Kricketot",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4533,6 +4598,7 @@ let hgss4 = [
         "id": "hgss4-66",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4603,6 +4669,7 @@ let hgss4 = [
         "id": "hgss4-67",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4673,6 +4740,7 @@ let hgss4 = [
         "id": "hgss4-68",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4748,6 +4816,7 @@ let hgss4 = [
         "id": "hgss4-69",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4817,6 +4886,7 @@ let hgss4 = [
         "id": "hgss4-70",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4886,6 +4956,7 @@ let hgss4 = [
         "id": "hgss4-71",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -4960,6 +5031,7 @@ let hgss4 = [
         "id": "hgss4-72",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5029,6 +5101,7 @@ let hgss4 = [
         "id": "hgss4-73",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5098,6 +5171,7 @@ let hgss4 = [
         "id": "hgss4-74",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5157,6 +5231,7 @@ let hgss4 = [
         "id": "hgss4-75",
         "name": "Shuppet",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5231,6 +5306,7 @@ let hgss4 = [
         "id": "hgss4-76",
         "name": "Skorupi",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5291,6 +5367,7 @@ let hgss4 = [
         "id": "hgss4-77",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5350,6 +5427,7 @@ let hgss4 = [
         "id": "hgss4-78",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5415,6 +5493,7 @@ let hgss4 = [
         "id": "hgss4-79",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5484,6 +5563,7 @@ let hgss4 = [
         "id": "hgss4-80",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5543,6 +5623,7 @@ let hgss4 = [
         "id": "hgss4-81",
         "name": "Venonat",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5612,6 +5693,7 @@ let hgss4 = [
         "id": "hgss4-82",
         "name": "Volbeat",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5679,6 +5761,7 @@ let hgss4 = [
         "id": "hgss4-83",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5744,6 +5827,7 @@ let hgss4 = [
         "id": "hgss4-84",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic"
         ],
@@ -5817,6 +5901,7 @@ let hgss4 = [
         "id": "hgss4-85",
         "name": "Black Belt",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Supporter"
         ],
@@ -5851,6 +5936,7 @@ let hgss4 = [
         "id": "hgss4-86",
         "name": "Indigo Plateau",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stadium"
         ],
@@ -5885,6 +5971,7 @@ let hgss4 = [
         "id": "hgss4-87",
         "name": "Junk Arm",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Item"
         ],
@@ -5918,6 +6005,7 @@ let hgss4 = [
         "id": "hgss4-88",
         "name": "Seeker",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Supporter"
         ],
@@ -5952,6 +6040,7 @@ let hgss4 = [
         "id": "hgss4-89",
         "name": "Twins",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Supporter"
         ],
@@ -5986,6 +6075,7 @@ let hgss4 = [
         "id": "hgss4-90",
         "name": "Rescue Energy",
         "supertype": "Energy",
+        "setAbbrev": "TM",
         "subtypes": [
             "Special"
         ],
@@ -6019,6 +6109,7 @@ let hgss4 = [
         "id": "hgss4-91",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic",
             "Prime"
@@ -6089,6 +6180,7 @@ let hgss4 = [
         "id": "hgss4-92",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic",
             "Prime"
@@ -6154,6 +6246,7 @@ let hgss4 = [
         "id": "hgss4-93",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -6225,6 +6318,7 @@ let hgss4 = [
         "id": "hgss4-94",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -6304,6 +6398,7 @@ let hgss4 = [
         "id": "hgss4-95",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -6382,6 +6477,7 @@ let hgss4 = [
         "id": "hgss4-96",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 2",
             "Prime"
@@ -6453,6 +6549,7 @@ let hgss4 = [
         "id": "hgss4-97",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Basic",
             "Prime"
@@ -6515,6 +6612,7 @@ let hgss4 = [
         "id": "hgss4-98",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -6596,6 +6694,7 @@ let hgss4 = [
         "id": "hgss4-99",
         "name": "Darkrai & Cresselia LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "LEGEND"
         ],
@@ -6672,6 +6771,7 @@ let hgss4 = [
         "id": "hgss4-100",
         "name": "Darkrai & Cresselia LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "LEGEND"
         ],
@@ -6748,6 +6848,7 @@ let hgss4 = [
         "id": "hgss4-101",
         "name": "Palkia & Dialga LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "LEGEND"
         ],
@@ -6825,6 +6926,7 @@ let hgss4 = [
         "id": "hgss4-102",
         "name": "Palkia & Dialga LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "TM",
         "subtypes": [
             "LEGEND"
         ],
@@ -6902,6 +7004,7 @@ let hgss4 = [
         "id": "hgss4-FOUR",
         "name": "Alph Lithograph",
         "supertype": "Trainer",
+        "setAbbrev": "TM",
         "subtypes": [
             "Item"
         ],

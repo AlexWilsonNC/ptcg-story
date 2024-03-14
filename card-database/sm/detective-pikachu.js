@@ -3,6 +3,7 @@ let det = [
         "id": "det-1",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let det = [
         "id": "det-2",
         "name": "Ludicolo",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 2"
         ],
@@ -128,6 +130,7 @@ let det = [
         "id": "det-3",
         "name": "Morelull",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -187,6 +190,7 @@ let det = [
         "id": "det-4",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -246,6 +250,7 @@ let det = [
         "id": "det-5",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 2"
         ],
@@ -317,6 +322,7 @@ let det = [
         "id": "det-6",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 1"
         ],
@@ -383,6 +389,7 @@ let det = [
         "id": "det-7",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -442,6 +449,7 @@ let det = [
         "id": "det-8",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -501,6 +509,7 @@ let det = [
         "id": "det-9",
         "name": "Greninja",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 2"
         ],
@@ -566,6 +575,7 @@ let det = [
         "id": "det-10",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -642,6 +652,7 @@ let det = [
         "id": "det-11",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -706,6 +717,7 @@ let det = [
         "id": "det-12",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -774,6 +786,7 @@ let det = [
         "id": "det-13",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 2"
         ],
@@ -841,6 +854,7 @@ let det = [
         "id": "det-14",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -906,6 +920,7 @@ let det = [
         "id": "det-15",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -972,6 +987,7 @@ let det = [
         "id": "det-16",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -1032,6 +1048,7 @@ let det = [
         "id": "det-17",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Basic"
         ],
@@ -1088,6 +1105,7 @@ let det = [
         "id": "det-18",
         "name": "Slaking",
         "supertype": "Pokémon",
+        "setAbbrev": "DPI",
         "subtypes": [
             "Stage 2"
         ],

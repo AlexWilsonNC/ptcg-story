@@ -3,6 +3,7 @@ let pop8 = [
         "id": "pop8-1",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Basic"
         ],
@@ -71,6 +72,7 @@ let pop8 = [
         "id": "pop8-2",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Stage 1"
         ],
@@ -139,6 +141,7 @@ let pop8 = [
         "id": "pop8-3",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Stage 2"
         ],
@@ -211,6 +214,7 @@ let pop8 = [
         "id": "pop8-4",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Stage 1"
         ],
@@ -285,6 +289,7 @@ let pop8 = [
         "id": "pop8-5",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Stage 1"
         ],
@@ -358,6 +363,7 @@ let pop8 = [
         "id": "pop8-6",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Stage 1"
         ],
@@ -430,6 +436,7 @@ let pop8 = [
         "id": "pop8-7",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Basic"
         ],
@@ -502,6 +509,7 @@ let pop8 = [
         "id": "pop8-8",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Stage 1"
         ],
@@ -576,6 +584,7 @@ let pop8 = [
         "id": "pop8-9",
         "name": "Night Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "P8",
         "rules": [
             "Search your discard pile for up to 3 in any combination of Pokémon and basic Energy cards. Show them to your opponent and shuffle them into your deck."
         ],
@@ -605,6 +614,7 @@ let pop8 = [
         "id": "pop8-10",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "P8",
         "rules": [
             "Choose 1 of your Basic Pokémon in play. If you have a Stage 1 or Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.)"
         ],
@@ -634,6 +644,7 @@ let pop8 = [
         "id": "pop8-11",
         "name": "Roseanne's Research",
         "supertype": "Trainer",
+        "setAbbrev": "P8",
         "subtypes": [
             "Supporter"
         ],
@@ -667,6 +678,7 @@ let pop8 = [
         "id": "pop8-12",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Basic"
         ],
@@ -733,6 +745,7 @@ let pop8 = [
         "id": "pop8-13",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Basic"
         ],
@@ -801,6 +814,7 @@ let pop8 = [
         "id": "pop8-14",
         "name": "Happiny",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Basic"
         ],
@@ -864,6 +878,7 @@ let pop8 = [
         "id": "pop8-15",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Basic"
         ],
@@ -930,6 +945,7 @@ let pop8 = [
         "id": "pop8-16",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Basic"
         ],
@@ -995,6 +1011,7 @@ let pop8 = [
         "id": "pop8-17",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "P8",
         "subtypes": [
             "Basic"
         ],

@@ -3,6 +3,7 @@ let bw6 = [
         "id": "bw6-1",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -68,6 +69,7 @@ let bw6 = [
         "id": "bw6-2",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -133,6 +135,7 @@ let bw6 = [
         "id": "bw6-3",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -202,6 +205,7 @@ let bw6 = [
         "id": "bw6-4",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -268,6 +272,7 @@ let bw6 = [
         "id": "bw6-5",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -342,6 +347,7 @@ let bw6 = [
         "id": "bw6-6",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -402,6 +408,7 @@ let bw6 = [
         "id": "bw6-7",
         "name": "Silcoon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -473,6 +480,7 @@ let bw6 = [
         "id": "bw6-8",
         "name": "Beautifly",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -541,6 +549,7 @@ let bw6 = [
         "id": "bw6-9",
         "name": "Cascoon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -611,6 +620,7 @@ let bw6 = [
         "id": "bw6-10",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -670,6 +680,7 @@ let bw6 = [
         "id": "bw6-11",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -738,6 +749,7 @@ let bw6 = [
         "id": "bw6-12",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -812,6 +824,7 @@ let bw6 = [
         "id": "bw6-13",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -878,6 +891,7 @@ let bw6 = [
         "id": "bw6-14",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -952,6 +966,7 @@ let bw6 = [
         "id": "bw6-15",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1023,6 +1038,7 @@ let bw6 = [
         "id": "bw6-16",
         "name": "Maractus",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1097,6 +1113,7 @@ let bw6 = [
         "id": "bw6-17",
         "name": "Foongus",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1162,6 +1179,7 @@ let bw6 = [
         "id": "bw6-18",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1221,6 +1239,7 @@ let bw6 = [
         "id": "bw6-19",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1285,6 +1304,7 @@ let bw6 = [
         "id": "bw6-20",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1355,6 +1375,7 @@ let bw6 = [
         "id": "bw6-21",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1423,6 +1444,7 @@ let bw6 = [
         "id": "bw6-22",
         "name": "Ho-Oh-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -1497,6 +1519,7 @@ let bw6 = [
         "id": "bw6-23",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1556,6 +1579,7 @@ let bw6 = [
         "id": "bw6-24",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1627,6 +1651,7 @@ let bw6 = [
         "id": "bw6-25",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1697,6 +1722,7 @@ let bw6 = [
         "id": "bw6-26",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1766,6 +1792,7 @@ let bw6 = [
         "id": "bw6-27",
         "name": "Feebas",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1825,6 +1852,7 @@ let bw6 = [
         "id": "bw6-28",
         "name": "Milotic",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1893,6 +1921,7 @@ let bw6 = [
         "id": "bw6-29",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -1953,6 +1982,7 @@ let bw6 = [
         "id": "bw6-30",
         "name": "Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2025,6 +2055,7 @@ let bw6 = [
         "id": "bw6-31",
         "name": "Walrein",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2096,6 +2127,7 @@ let bw6 = [
         "id": "bw6-32",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2155,6 +2187,7 @@ let bw6 = [
         "id": "bw6-33",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2222,6 +2255,7 @@ let bw6 = [
         "id": "bw6-34",
         "name": "Tympole",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2281,6 +2315,7 @@ let bw6 = [
         "id": "bw6-35",
         "name": "Palpitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2352,6 +2387,7 @@ let bw6 = [
         "id": "bw6-36",
         "name": "Seismitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2423,6 +2459,7 @@ let bw6 = [
         "id": "bw6-37",
         "name": "Alomomola",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2491,6 +2528,7 @@ let bw6 = [
         "id": "bw6-38",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2560,6 +2598,7 @@ let bw6 = [
         "id": "bw6-39",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2631,6 +2670,7 @@ let bw6 = [
         "id": "bw6-40",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2697,6 +2737,7 @@ let bw6 = [
         "id": "bw6-41",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2766,6 +2807,7 @@ let bw6 = [
         "id": "bw6-42",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -2826,6 +2868,7 @@ let bw6 = [
         "id": "bw6-43",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2893,6 +2936,7 @@ let bw6 = [
         "id": "bw6-44",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2960,6 +3004,7 @@ let bw6 = [
         "id": "bw6-45",
         "name": "Emolga",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3030,6 +3075,7 @@ let bw6 = [
         "id": "bw6-46",
         "name": "Mew-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -3096,6 +3142,7 @@ let bw6 = [
         "id": "bw6-47",
         "name": "Dustox",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3164,6 +3211,7 @@ let bw6 = [
         "id": "bw6-48",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3221,6 +3269,7 @@ let bw6 = [
         "id": "bw6-49",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3280,6 +3329,7 @@ let bw6 = [
         "id": "bw6-50",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3349,6 +3399,7 @@ let bw6 = [
         "id": "bw6-51",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3416,6 +3467,7 @@ let bw6 = [
         "id": "bw6-52",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3481,6 +3533,7 @@ let bw6 = [
         "id": "bw6-53",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3552,6 +3605,7 @@ let bw6 = [
         "id": "bw6-54",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3618,6 +3672,7 @@ let bw6 = [
         "id": "bw6-55",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3677,6 +3732,7 @@ let bw6 = [
         "id": "bw6-56",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3748,6 +3804,7 @@ let bw6 = [
         "id": "bw6-57",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3817,6 +3874,7 @@ let bw6 = [
         "id": "bw6-58",
         "name": "Golett",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -3888,6 +3946,7 @@ let bw6 = [
         "id": "bw6-59",
         "name": "Golurk",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3959,6 +4018,7 @@ let bw6 = [
         "id": "bw6-60",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4034,6 +4094,7 @@ let bw6 = [
         "id": "bw6-61",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4108,6 +4169,7 @@ let bw6 = [
         "id": "bw6-62",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4168,6 +4230,7 @@ let bw6 = [
         "id": "bw6-63",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4237,6 +4300,7 @@ let bw6 = [
         "id": "bw6-64",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4306,6 +4370,7 @@ let bw6 = [
         "id": "bw6-65",
         "name": "Roggenrola",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4377,6 +4442,7 @@ let bw6 = [
         "id": "bw6-66",
         "name": "Boldore",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4448,6 +4514,7 @@ let bw6 = [
         "id": "bw6-67",
         "name": "Gigalith",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4519,6 +4586,7 @@ let bw6 = [
         "id": "bw6-68",
         "name": "Throh",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4589,6 +4657,7 @@ let bw6 = [
         "id": "bw6-69",
         "name": "Sawk",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4656,6 +4725,7 @@ let bw6 = [
         "id": "bw6-70",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4728,6 +4798,7 @@ let bw6 = [
         "id": "bw6-71",
         "name": "Terrakion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -4799,6 +4870,7 @@ let bw6 = [
         "id": "bw6-72",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -4874,6 +4946,7 @@ let bw6 = [
         "id": "bw6-73",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4949,6 +5022,7 @@ let bw6 = [
         "id": "bw6-74",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5025,6 +5099,7 @@ let bw6 = [
         "id": "bw6-75",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5099,6 +5174,7 @@ let bw6 = [
         "id": "bw6-76",
         "name": "Stunky",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5164,6 +5240,7 @@ let bw6 = [
         "id": "bw6-77",
         "name": "Skuntank",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5238,6 +5315,7 @@ let bw6 = [
         "id": "bw6-78",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5304,6 +5382,7 @@ let bw6 = [
         "id": "bw6-79",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5382,6 +5461,7 @@ let bw6 = [
         "id": "bw6-80",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -5454,6 +5534,7 @@ let bw6 = [
         "id": "bw6-81",
         "name": "Registeel-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -5533,6 +5614,7 @@ let bw6 = [
         "id": "bw6-82",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5608,6 +5690,7 @@ let bw6 = [
         "id": "bw6-83",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5680,6 +5763,7 @@ let bw6 = [
         "id": "bw6-84",
         "name": "Altaria",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5746,6 +5830,7 @@ let bw6 = [
         "id": "bw6-85",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -5818,6 +5903,7 @@ let bw6 = [
         "id": "bw6-86",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5887,6 +5973,7 @@ let bw6 = [
         "id": "bw6-87",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -5956,6 +6043,7 @@ let bw6 = [
         "id": "bw6-88",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6026,6 +6114,7 @@ let bw6 = [
         "id": "bw6-89",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6094,6 +6183,7 @@ let bw6 = [
         "id": "bw6-90",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -6161,6 +6251,7 @@ let bw6 = [
         "id": "bw6-91",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -6228,6 +6319,7 @@ let bw6 = [
         "id": "bw6-92",
         "name": "Giratina-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -6301,6 +6393,7 @@ let bw6 = [
         "id": "bw6-93",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -6370,6 +6463,7 @@ let bw6 = [
         "id": "bw6-94",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -6440,6 +6534,7 @@ let bw6 = [
         "id": "bw6-95",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6512,6 +6607,7 @@ let bw6 = [
         "id": "bw6-96",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6583,6 +6679,7 @@ let bw6 = [
         "id": "bw6-97",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -6650,6 +6747,7 @@ let bw6 = [
         "id": "bw6-98",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -6721,6 +6819,7 @@ let bw6 = [
         "id": "bw6-99",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -6780,6 +6879,7 @@ let bw6 = [
         "id": "bw6-100",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6847,6 +6947,7 @@ let bw6 = [
         "id": "bw6-101",
         "name": "Slakoth",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -6906,6 +7007,7 @@ let bw6 = [
         "id": "bw6-102",
         "name": "Vigoroth",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6967,6 +7069,7 @@ let bw6 = [
         "id": "bw6-103",
         "name": "Slaking",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -7034,6 +7137,7 @@ let bw6 = [
         "id": "bw6-104",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7109,6 +7213,7 @@ let bw6 = [
         "id": "bw6-105",
         "name": "Swablu",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7174,6 +7279,7 @@ let bw6 = [
         "id": "bw6-106",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7234,6 +7340,7 @@ let bw6 = [
         "id": "bw6-107",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -7305,6 +7412,7 @@ let bw6 = [
         "id": "bw6-108",
         "name": "Audino",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7373,6 +7481,7 @@ let bw6 = [
         "id": "bw6-109",
         "name": "Minccino",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7442,6 +7551,7 @@ let bw6 = [
         "id": "bw6-110",
         "name": "Bouffalant",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7507,6 +7617,7 @@ let bw6 = [
         "id": "bw6-111",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],
@@ -7582,6 +7693,7 @@ let bw6 = [
         "id": "bw6-112",
         "name": "Braviary",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 1"
         ],
@@ -7655,6 +7767,7 @@ let bw6 = [
         "id": "bw6-113",
         "name": "Devolution Spray",
         "supertype": "Trainer",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Item"
         ],
@@ -7689,6 +7802,7 @@ let bw6 = [
         "id": "bw6-114",
         "name": "Giant Cape",
         "supertype": "Trainer",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -7724,6 +7838,7 @@ let bw6 = [
         "id": "bw6-115",
         "name": "Rescue Scarf",
         "supertype": "Trainer",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -7759,6 +7874,7 @@ let bw6 = [
         "id": "bw6-116",
         "name": "Tool Scrapper",
         "supertype": "Trainer",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Item"
         ],
@@ -7793,6 +7909,7 @@ let bw6 = [
         "id": "bw6-117",
         "name": "Blend Energy GrassFirePsychicDarkness",
         "supertype": "Energy",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Special"
         ],
@@ -7826,6 +7943,7 @@ let bw6 = [
         "id": "bw6-118",
         "name": "Blend Energy WaterLightningFightingMetal",
         "supertype": "Energy",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Special"
         ],
@@ -7859,6 +7977,7 @@ let bw6 = [
         "id": "bw6-119",
         "name": "Ho-Oh-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7933,6 +8052,7 @@ let bw6 = [
         "id": "bw6-120",
         "name": "Mew-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -7999,6 +8119,7 @@ let bw6 = [
         "id": "bw6-121",
         "name": "Terrakion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -8070,6 +8191,7 @@ let bw6 = [
         "id": "bw6-122",
         "name": "Registeel-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -8149,6 +8271,7 @@ let bw6 = [
         "id": "bw6-123",
         "name": "Rayquaza-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -8221,6 +8344,7 @@ let bw6 = [
         "id": "bw6-124",
         "name": "Giratina-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic",
             "EX"
@@ -8294,6 +8418,7 @@ let bw6 = [
         "id": "bw6-125",
         "name": "Serperior",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -8365,6 +8490,7 @@ let bw6 = [
         "id": "bw6-126",
         "name": "Reuniclus",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -8431,6 +8557,7 @@ let bw6 = [
         "id": "bw6-127",
         "name": "Krookodile",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Stage 2"
         ],
@@ -8508,6 +8635,7 @@ let bw6 = [
         "id": "bw6-128",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "DRX",
         "subtypes": [
             "Basic"
         ],

@@ -3,6 +3,7 @@ let base6 = [
         "id": "base6-1",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -69,6 +70,7 @@ let base6 = [
         "id": "base6-2",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -139,6 +141,7 @@ let base6 = [
         "id": "base6-3",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -212,6 +215,7 @@ let base6 = [
         "id": "base6-4",
         "name": "Dark Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -281,6 +285,7 @@ let base6 = [
         "id": "base6-5",
         "name": "Dark Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -348,6 +353,7 @@ let base6 = [
         "id": "base6-6",
         "name": "Dark Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -420,6 +426,7 @@ let base6 = [
         "id": "base6-7",
         "name": "Dark Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -479,6 +486,7 @@ let base6 = [
         "id": "base6-8",
         "name": "Dark Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -544,6 +552,7 @@ let base6 = [
         "id": "base6-9",
         "name": "Dark Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -614,6 +623,7 @@ let base6 = [
         "id": "base6-10",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -684,6 +694,7 @@ let base6 = [
         "id": "base6-11",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -750,6 +761,7 @@ let base6 = [
         "id": "base6-12",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -827,6 +839,7 @@ let base6 = [
         "id": "base6-13",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -895,6 +908,7 @@ let base6 = [
         "id": "base6-14",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -964,6 +978,7 @@ let base6 = [
         "id": "base6-15",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1031,6 +1046,7 @@ let base6 = [
         "id": "base6-16",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1097,6 +1113,7 @@ let base6 = [
         "id": "base6-17",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1167,6 +1184,7 @@ let base6 = [
         "id": "base6-18",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1234,6 +1252,7 @@ let base6 = [
         "id": "base6-19",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -1305,6 +1324,7 @@ let base6 = [
         "id": "base6-20",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1380,6 +1400,7 @@ let base6 = [
         "id": "base6-21",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1455,6 +1476,7 @@ let base6 = [
         "id": "base6-22",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1524,6 +1546,7 @@ let base6 = [
         "id": "base6-23",
         "name": "Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1590,6 +1613,7 @@ let base6 = [
         "id": "base6-24",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1662,6 +1686,7 @@ let base6 = [
         "id": "base6-25",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1730,6 +1755,7 @@ let base6 = [
         "id": "base6-26",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -1797,6 +1823,7 @@ let base6 = [
         "id": "base6-27",
         "name": "Kabutops",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -1867,6 +1894,7 @@ let base6 = [
         "id": "base6-28",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -1940,6 +1968,7 @@ let base6 = [
         "id": "base6-29",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -2007,6 +2036,7 @@ let base6 = [
         "id": "base6-30",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -2075,6 +2105,7 @@ let base6 = [
         "id": "base6-31",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -2145,6 +2176,7 @@ let base6 = [
         "id": "base6-32",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -2215,6 +2247,7 @@ let base6 = [
         "id": "base6-33",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -2289,6 +2322,7 @@ let base6 = [
         "id": "base6-34",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2367,6 +2401,7 @@ let base6 = [
         "id": "base6-35",
         "name": "Rhydon",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2447,6 +2482,7 @@ let base6 = [
         "id": "base6-36",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2518,6 +2554,7 @@ let base6 = [
         "id": "base6-37",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2591,6 +2628,7 @@ let base6 = [
         "id": "base6-38",
         "name": "Dark Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2660,6 +2698,7 @@ let base6 = [
         "id": "base6-39",
         "name": "Dark Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2730,6 +2769,7 @@ let base6 = [
         "id": "base6-40",
         "name": "Dewgong",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2801,6 +2841,7 @@ let base6 = [
         "id": "base6-41",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2872,6 +2913,7 @@ let base6 = [
         "id": "base6-42",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -2948,6 +2990,7 @@ let base6 = [
         "id": "base6-43",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3016,6 +3059,7 @@ let base6 = [
         "id": "base6-44",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3088,6 +3132,7 @@ let base6 = [
         "id": "base6-45",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -3148,6 +3193,7 @@ let base6 = [
         "id": "base6-46",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3215,6 +3261,7 @@ let base6 = [
         "id": "base6-47",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3288,6 +3335,7 @@ let base6 = [
         "id": "base6-48",
         "name": "Kabuto",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3355,6 +3403,7 @@ let base6 = [
         "id": "base6-49",
         "name": "Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3427,6 +3476,7 @@ let base6 = [
         "id": "base6-50",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3498,6 +3548,7 @@ let base6 = [
         "id": "base6-51",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3572,6 +3623,7 @@ let base6 = [
         "id": "base6-52",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -3640,6 +3692,7 @@ let base6 = [
         "id": "base6-53",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -3706,6 +3759,7 @@ let base6 = [
         "id": "base6-54",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3777,6 +3831,7 @@ let base6 = [
         "id": "base6-55",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3848,6 +3903,7 @@ let base6 = [
         "id": "base6-56",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3922,6 +3978,7 @@ let base6 = [
         "id": "base6-57",
         "name": "Omanyte",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -3989,6 +4046,7 @@ let base6 = [
         "id": "base6-58",
         "name": "Omastar",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 2"
         ],
@@ -4057,6 +4115,7 @@ let base6 = [
         "id": "base6-59",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4126,6 +4185,7 @@ let base6 = [
         "id": "base6-60",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4194,6 +4254,7 @@ let base6 = [
         "id": "base6-61",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4268,6 +4329,7 @@ let base6 = [
         "id": "base6-62",
         "name": "Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4342,6 +4404,7 @@ let base6 = [
         "id": "base6-63",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4414,6 +4477,7 @@ let base6 = [
         "id": "base6-64",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4486,6 +4550,7 @@ let base6 = [
         "id": "base6-65",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4560,6 +4625,7 @@ let base6 = [
         "id": "base6-66",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Stage 1"
         ],
@@ -4626,6 +4692,7 @@ let base6 = [
         "id": "base6-67",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4684,6 +4751,7 @@ let base6 = [
         "id": "base6-68",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4744,6 +4812,7 @@ let base6 = [
         "id": "base6-69",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4803,6 +4872,7 @@ let base6 = [
         "id": "base6-70",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4872,6 +4942,7 @@ let base6 = [
         "id": "base6-71",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4936,6 +5007,7 @@ let base6 = [
         "id": "base6-72",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -4995,6 +5067,7 @@ let base6 = [
         "id": "base6-73",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5062,6 +5135,7 @@ let base6 = [
         "id": "base6-74",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5144,6 +5218,7 @@ let base6 = [
         "id": "base6-75",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5213,6 +5288,7 @@ let base6 = [
         "id": "base6-76",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5281,6 +5357,7 @@ let base6 = [
         "id": "base6-77",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5341,6 +5418,7 @@ let base6 = [
         "id": "base6-78",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5409,6 +5487,7 @@ let base6 = [
         "id": "base6-79",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5480,6 +5559,7 @@ let base6 = [
         "id": "base6-80",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5549,6 +5629,7 @@ let base6 = [
         "id": "base6-81",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5617,6 +5698,7 @@ let base6 = [
         "id": "base6-82",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5686,6 +5768,7 @@ let base6 = [
         "id": "base6-83",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5745,6 +5828,7 @@ let base6 = [
         "id": "base6-84",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5814,6 +5898,7 @@ let base6 = [
         "id": "base6-85",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5880,6 +5965,7 @@ let base6 = [
         "id": "base6-86",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -5940,6 +6026,7 @@ let base6 = [
         "id": "base6-87",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6010,6 +6097,7 @@ let base6 = [
         "id": "base6-88",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6079,6 +6167,7 @@ let base6 = [
         "id": "base6-89",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6143,6 +6232,7 @@ let base6 = [
         "id": "base6-90",
         "name": "Rhyhorn",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6219,6 +6309,7 @@ let base6 = [
         "id": "base6-91",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6284,6 +6375,7 @@ let base6 = [
         "id": "base6-92",
         "name": "Seel",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6343,6 +6435,7 @@ let base6 = [
         "id": "base6-93",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6413,6 +6506,7 @@ let base6 = [
         "id": "base6-94",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6488,6 +6582,7 @@ let base6 = [
         "id": "base6-95",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6557,6 +6652,7 @@ let base6 = [
         "id": "base6-96",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6622,6 +6718,7 @@ let base6 = [
         "id": "base6-97",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6681,6 +6778,7 @@ let base6 = [
         "id": "base6-98",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6741,6 +6839,7 @@ let base6 = [
         "id": "base6-99",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "LC",
         "subtypes": [
             "Basic"
         ],
@@ -6800,6 +6899,7 @@ let base6 = [
         "id": "base6-100",
         "name": "Full Heal Energy",
         "supertype": "Energy",
+        "setAbbrev": "LC",
         "subtypes": [
             "Special"
         ],
@@ -6833,6 +6933,7 @@ let base6 = [
         "id": "base6-101",
         "name": "Potion Energy",
         "supertype": "Energy",
+        "setAbbrev": "LC",
         "subtypes": [
             "Special"
         ],
@@ -6866,6 +6967,7 @@ let base6 = [
         "id": "base6-102",
         "name": "Pokémon Breeder",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Put a Stage 2 Evolution card from your hand on the matching Basic Pokémon. You can play this card only when you would be allowed to evolve that Pokémon anyway."
         ],
@@ -6896,6 +6998,7 @@ let base6 = [
         "id": "base6-103",
         "name": "Pokémon Trader",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Trade 1 of the Basic Pokémon or Evolution cards in your hand for 1 of the Basic Pokémon or Evolution cards from your deck. Show both cards to your opponent. Shuffle your deck afterward."
         ],
@@ -6926,6 +7029,7 @@ let base6 = [
         "id": "base6-104",
         "name": "Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Choose 1 of your Pokémon in play and return its Basic Pokémon card to your hand. (Discard all cards attached to that card.)"
         ],
@@ -6956,6 +7060,7 @@ let base6 = [
         "id": "base6-105",
         "name": "The Boss's Way",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Search your deck for an Evolution card with Dark in its name. Show it to your opponent and put it into your hand. Shuffle your deck afterward."
         ],
@@ -6986,6 +7091,7 @@ let base6 = [
         "id": "base6-106",
         "name": "Challenge!",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Ask your opponent if he or she accepts your challenge. If your opponent declines (or if both Benches are full), draw 2 cards. If your opponent accepts, each of you searches your decks for any number of Basic Pokémon cards and puts them face down onto your Benches. (A player can't do this if his or her Bench is full.) When you both have finished, shuffle your decks and turn those cards face up."
         ],
@@ -7016,6 +7122,7 @@ let base6 = [
         "id": "base6-107",
         "name": "Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Trade 1 of the other cards in your hand for up to 2 basic Energy cards from your discard pile."
         ],
@@ -7046,6 +7153,7 @@ let base6 = [
         "id": "base6-108",
         "name": "Bill",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Draw 2 cards."
         ],
@@ -7076,6 +7184,7 @@ let base6 = [
         "id": "base6-109",
         "name": "Mysterious Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "hp": "10",
         "rules": [
             "Play Mysterious Fossil as if it were a Basic Pokémon. While in play, Mysterious Fossil counts as a Pokémon (instead of a Trainer card). Mysterious Fossil has no attacks, can't retreat, and can't be affected by Special Conditions. If Mysterious Fossil is Knocked Out, it doesn't count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play. You can put Pokémon that evolve from Mysterious Fossil on this card."
@@ -7107,6 +7216,7 @@ let base6 = [
         "id": "base6-110",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "LC",
         "rules": [
             "Remove up to 2 damage counters from 1 of your Pokémon."
         ],

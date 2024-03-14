@@ -3,6 +3,7 @@ let ex11 = [
         "id": "ex11-1",
         "name": "Beedrill δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -71,6 +72,7 @@ let ex11 = [
         "id": "ex11-2",
         "name": "Crobat δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -142,6 +144,7 @@ let ex11 = [
         "id": "ex11-3",
         "name": "Dragonite δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -232,6 +235,7 @@ let ex11 = [
         "id": "ex11-4",
         "name": "Espeon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -300,6 +304,7 @@ let ex11 = [
         "id": "ex11-5",
         "name": "Flareon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -371,6 +376,7 @@ let ex11 = [
         "id": "ex11-6",
         "name": "Gardevoir δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -450,6 +456,7 @@ let ex11 = [
         "id": "ex11-7",
         "name": "Jolteon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -527,6 +534,7 @@ let ex11 = [
         "id": "ex11-8",
         "name": "Latias δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -617,6 +625,7 @@ let ex11 = [
         "id": "ex11-9",
         "name": "Latios δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -707,6 +716,7 @@ let ex11 = [
         "id": "ex11-10",
         "name": "Marowak δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -779,6 +789,7 @@ let ex11 = [
         "id": "ex11-11",
         "name": "Metagross δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -853,6 +864,7 @@ let ex11 = [
         "id": "ex11-12",
         "name": "Mewtwo δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -920,6 +932,7 @@ let ex11 = [
         "id": "ex11-13",
         "name": "Rayquaza δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -1008,6 +1021,7 @@ let ex11 = [
         "id": "ex11-14",
         "name": "Salamence δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1091,6 +1105,7 @@ let ex11 = [
         "id": "ex11-15",
         "name": "Starmie δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1166,6 +1181,7 @@ let ex11 = [
         "id": "ex11-16",
         "name": "Tyranitar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1235,6 +1251,7 @@ let ex11 = [
         "id": "ex11-17",
         "name": "Umbreon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1309,6 +1326,7 @@ let ex11 = [
         "id": "ex11-18",
         "name": "Vaporeon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1380,6 +1398,7 @@ let ex11 = [
         "id": "ex11-19",
         "name": "Azumarill δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1452,6 +1471,7 @@ let ex11 = [
         "id": "ex11-20",
         "name": "Azurill",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -1517,6 +1537,7 @@ let ex11 = [
         "id": "ex11-21",
         "name": "Holon's Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1576,6 +1597,7 @@ let ex11 = [
         "id": "ex11-22",
         "name": "Holon's Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1645,6 +1667,7 @@ let ex11 = [
         "id": "ex11-23",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1718,6 +1741,7 @@ let ex11 = [
         "id": "ex11-24",
         "name": "Mightyena δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1795,6 +1819,7 @@ let ex11 = [
         "id": "ex11-25",
         "name": "Porygon2",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1862,6 +1887,7 @@ let ex11 = [
         "id": "ex11-26",
         "name": "Rain Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -1926,6 +1952,7 @@ let ex11 = [
         "id": "ex11-27",
         "name": "Sandslash δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2005,6 +2032,7 @@ let ex11 = [
         "id": "ex11-28",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2069,6 +2097,7 @@ let ex11 = [
         "id": "ex11-29",
         "name": "Snow-cloud Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2132,6 +2161,7 @@ let ex11 = [
         "id": "ex11-30",
         "name": "Starmie δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2203,6 +2233,7 @@ let ex11 = [
         "id": "ex11-31",
         "name": "Sunny Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2266,6 +2297,7 @@ let ex11 = [
         "id": "ex11-32",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2338,6 +2370,7 @@ let ex11 = [
         "id": "ex11-33",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2412,6 +2445,7 @@ let ex11 = [
         "id": "ex11-34",
         "name": "Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2474,6 +2508,7 @@ let ex11 = [
         "id": "ex11-35",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2536,6 +2571,7 @@ let ex11 = [
         "id": "ex11-36",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2599,6 +2635,7 @@ let ex11 = [
         "id": "ex11-37",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2662,6 +2699,7 @@ let ex11 = [
         "id": "ex11-38",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2724,6 +2762,7 @@ let ex11 = [
         "id": "ex11-39",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2787,6 +2826,7 @@ let ex11 = [
         "id": "ex11-40",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -2850,6 +2890,7 @@ let ex11 = [
         "id": "ex11-41",
         "name": "Dragonair δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2931,6 +2972,7 @@ let ex11 = [
         "id": "ex11-42",
         "name": "Dragonair δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3001,6 +3043,7 @@ let ex11 = [
         "id": "ex11-43",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3070,6 +3113,7 @@ let ex11 = [
         "id": "ex11-44",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3145,6 +3189,7 @@ let ex11 = [
         "id": "ex11-45",
         "name": "Illumise",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -3217,6 +3262,7 @@ let ex11 = [
         "id": "ex11-46",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3287,6 +3333,7 @@ let ex11 = [
         "id": "ex11-47",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3357,6 +3404,7 @@ let ex11 = [
         "id": "ex11-48",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3434,6 +3482,7 @@ let ex11 = [
         "id": "ex11-49",
         "name": "Metang δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3511,6 +3560,7 @@ let ex11 = [
         "id": "ex11-50",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3575,6 +3625,7 @@ let ex11 = [
         "id": "ex11-51",
         "name": "Pupitar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3644,6 +3695,7 @@ let ex11 = [
         "id": "ex11-52",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3709,6 +3761,7 @@ let ex11 = [
         "id": "ex11-53",
         "name": "Shelgon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3789,6 +3842,7 @@ let ex11 = [
         "id": "ex11-54",
         "name": "Shelgon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3866,6 +3920,7 @@ let ex11 = [
         "id": "ex11-55",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -3944,6 +3999,7 @@ let ex11 = [
         "id": "ex11-56",
         "name": "Volbeat",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4007,6 +4063,7 @@ let ex11 = [
         "id": "ex11-57",
         "name": "Bagon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4075,6 +4132,7 @@ let ex11 = [
         "id": "ex11-58",
         "name": "Bagon δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4144,6 +4202,7 @@ let ex11 = [
         "id": "ex11-59",
         "name": "Beldum δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4216,6 +4275,7 @@ let ex11 = [
         "id": "ex11-60",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4284,6 +4344,7 @@ let ex11 = [
         "id": "ex11-61",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4347,6 +4408,7 @@ let ex11 = [
         "id": "ex11-62",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4410,6 +4472,7 @@ let ex11 = [
         "id": "ex11-63",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4473,6 +4536,7 @@ let ex11 = [
         "id": "ex11-64",
         "name": "Ditto",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4536,6 +4600,7 @@ let ex11 = [
         "id": "ex11-65",
         "name": "Dratini δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4614,6 +4679,7 @@ let ex11 = [
         "id": "ex11-66",
         "name": "Dratini δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4682,6 +4748,7 @@ let ex11 = [
         "id": "ex11-67",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4750,6 +4817,7 @@ let ex11 = [
         "id": "ex11-68",
         "name": "Eevee δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4815,6 +4883,7 @@ let ex11 = [
         "id": "ex11-69",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4890,6 +4959,7 @@ let ex11 = [
         "id": "ex11-70",
         "name": "Holon's Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -4957,6 +5027,7 @@ let ex11 = [
         "id": "ex11-71",
         "name": "Holon's Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5018,6 +5089,7 @@ let ex11 = [
         "id": "ex11-72",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5086,6 +5158,7 @@ let ex11 = [
         "id": "ex11-73",
         "name": "Larvitar δ",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5154,6 +5227,7 @@ let ex11 = [
         "id": "ex11-74",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5227,6 +5301,7 @@ let ex11 = [
         "id": "ex11-75",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5285,6 +5360,7 @@ let ex11 = [
         "id": "ex11-76",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5353,6 +5429,7 @@ let ex11 = [
         "id": "ex11-77",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5420,6 +5497,7 @@ let ex11 = [
         "id": "ex11-78",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5478,6 +5556,7 @@ let ex11 = [
         "id": "ex11-79",
         "name": "Poochyena",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5552,6 +5631,7 @@ let ex11 = [
         "id": "ex11-80",
         "name": "Porygon",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5611,6 +5691,7 @@ let ex11 = [
         "id": "ex11-81",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5679,6 +5760,7 @@ let ex11 = [
         "id": "ex11-82",
         "name": "Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5747,6 +5829,7 @@ let ex11 = [
         "id": "ex11-83",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5816,6 +5899,7 @@ let ex11 = [
         "id": "ex11-84",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5884,6 +5968,7 @@ let ex11 = [
         "id": "ex11-85",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -5951,6 +6036,7 @@ let ex11 = [
         "id": "ex11-86",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -6015,6 +6101,7 @@ let ex11 = [
         "id": "ex11-87",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -6073,6 +6160,7 @@ let ex11 = [
         "id": "ex11-88",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic"
         ],
@@ -6131,6 +6219,7 @@ let ex11 = [
         "id": "ex11-89",
         "name": "Dual Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6164,6 +6253,7 @@ let ex11 = [
         "id": "ex11-90",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6197,6 +6287,7 @@ let ex11 = [
         "id": "ex11-91",
         "name": "Holon Farmer",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Supporter"
         ],
@@ -6232,6 +6323,7 @@ let ex11 = [
         "id": "ex11-92",
         "name": "Holon Lass",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Supporter"
         ],
@@ -6267,6 +6359,7 @@ let ex11 = [
         "id": "ex11-93",
         "name": "Holon Mentor",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Supporter"
         ],
@@ -6302,6 +6395,7 @@ let ex11 = [
         "id": "ex11-94",
         "name": "Holon Research Tower",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stadium"
         ],
@@ -6336,6 +6430,7 @@ let ex11 = [
         "id": "ex11-95",
         "name": "Holon Researcher",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Supporter"
         ],
@@ -6371,6 +6466,7 @@ let ex11 = [
         "id": "ex11-96",
         "name": "Holon Ruins",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stadium"
         ],
@@ -6405,6 +6501,7 @@ let ex11 = [
         "id": "ex11-97",
         "name": "Holon Scientist",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Supporter"
         ],
@@ -6440,6 +6537,7 @@ let ex11 = [
         "id": "ex11-98",
         "name": "Holon Transceiver",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "rules": [
             "Search your deck for a Supporter card that has Holon in its name, show it to your opponent, and put it into your hand. Shuffle your deck afterward. Or, search your discard pile for a Supporter card that has Holon in its name, show it to your opponent, and put it into your hand."
         ],
@@ -6470,6 +6568,7 @@ let ex11 = [
         "id": "ex11-99",
         "name": "Master Ball",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6503,6 +6602,7 @@ let ex11 = [
         "id": "ex11-100",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6536,6 +6636,7 @@ let ex11 = [
         "id": "ex11-101",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6569,6 +6670,7 @@ let ex11 = [
         "id": "ex11-102",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "DS",
         "subtypes": [
             "Item"
         ],
@@ -6602,6 +6704,7 @@ let ex11 = [
         "id": "ex11-103",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "DS",
         "subtypes": [
             "Special"
         ],
@@ -6635,6 +6738,7 @@ let ex11 = [
         "id": "ex11-104",
         "name": "Holon Energy FF",
         "supertype": "Energy",
+        "setAbbrev": "DS",
         "subtypes": [
             "Special"
         ],
@@ -6669,6 +6773,7 @@ let ex11 = [
         "id": "ex11-105",
         "name": "Holon Energy GL",
         "supertype": "Energy",
+        "setAbbrev": "DS",
         "subtypes": [
             "Special"
         ],
@@ -6703,6 +6808,7 @@ let ex11 = [
         "id": "ex11-106",
         "name": "Holon Energy WP",
         "supertype": "Energy",
+        "setAbbrev": "DS",
         "subtypes": [
             "Special"
         ],
@@ -6737,6 +6843,7 @@ let ex11 = [
         "id": "ex11-107",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "DS",
         "subtypes": [
             "Special"
         ],
@@ -6770,6 +6877,7 @@ let ex11 = [
         "id": "ex11-108",
         "name": "Flareon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6849,6 +6957,7 @@ let ex11 = [
         "id": "ex11-109",
         "name": "Jolteon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -6933,6 +7042,7 @@ let ex11 = [
         "id": "ex11-110",
         "name": "Vaporeon ex",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1",
             "EX"
@@ -7012,6 +7122,7 @@ let ex11 = [
         "id": "ex11-111",
         "name": "Groudon ★",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic",
             "Star"
@@ -7084,6 +7195,7 @@ let ex11 = [
         "id": "ex11-112",
         "name": "Kyogre ★",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic",
             "Star"
@@ -7156,6 +7268,7 @@ let ex11 = [
         "id": "ex11-113",
         "name": "Metagross ★",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Basic",
             "Star"
@@ -7234,6 +7347,7 @@ let ex11 = [
         "id": "ex11-114",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "DS",
         "subtypes": [
             "Stage 1"
         ],

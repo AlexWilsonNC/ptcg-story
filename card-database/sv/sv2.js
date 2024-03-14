@@ -3,6 +3,7 @@ let sv2 = [
         "id": "sv2-1",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let sv2 = [
         "id": "sv2-2",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -129,6 +131,7 @@ let sv2 = [
         "id": "sv2-3",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -196,6 +199,7 @@ let sv2 = [
         "id": "sv2-4",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -257,6 +261,7 @@ let sv2 = [
         "id": "sv2-5",
         "name": "Forretress ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Tera",
             "ex"
@@ -331,6 +336,7 @@ let sv2 = [
         "id": "sv2-6",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -404,6 +410,7 @@ let sv2 = [
         "id": "sv2-7",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -474,6 +481,7 @@ let sv2 = [
         "id": "sv2-8",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -533,6 +541,7 @@ let sv2 = [
         "id": "sv2-9",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -603,6 +612,7 @@ let sv2 = [
         "id": "sv2-10",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -665,6 +675,7 @@ let sv2 = [
         "id": "sv2-11",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -736,6 +747,7 @@ let sv2 = [
         "id": "sv2-12",
         "name": "Sprigatito",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -804,6 +816,7 @@ let sv2 = [
         "id": "sv2-13",
         "name": "Sprigatito",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -864,6 +877,7 @@ let sv2 = [
         "id": "sv2-14",
         "name": "Floragato",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -934,6 +948,7 @@ let sv2 = [
         "id": "sv2-15",
         "name": "Meowscarada ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -1006,6 +1021,7 @@ let sv2 = [
         "id": "sv2-16",
         "name": "Tarountula",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -1065,6 +1081,7 @@ let sv2 = [
         "id": "sv2-17",
         "name": "Tarountula",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -1126,6 +1143,7 @@ let sv2 = [
         "id": "sv2-18",
         "name": "Spidops",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1199,6 +1217,7 @@ let sv2 = [
         "id": "sv2-19",
         "name": "Nymble",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -1267,6 +1286,7 @@ let sv2 = [
         "id": "sv2-20",
         "name": "Nymble",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -1326,6 +1346,7 @@ let sv2 = [
         "id": "sv2-21",
         "name": "Lokix",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1396,6 +1417,7 @@ let sv2 = [
         "id": "sv2-22",
         "name": "Bramblin",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -1455,6 +1477,7 @@ let sv2 = [
         "id": "sv2-23",
         "name": "Bramblin",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -1514,6 +1537,7 @@ let sv2 = [
         "id": "sv2-24",
         "name": "Brambleghast",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1587,6 +1611,7 @@ let sv2 = [
         "id": "sv2-25",
         "name": "Rellor",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -1646,6 +1671,7 @@ let sv2 = [
         "id": "sv2-26",
         "name": "Rellor",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -1706,6 +1732,7 @@ let sv2 = [
         "id": "sv2-27",
         "name": "Wo-Chien ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -1785,6 +1812,7 @@ let sv2 = [
         "id": "sv2-28",
         "name": "Paldean Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -1857,6 +1885,7 @@ let sv2 = [
         "id": "sv2-29",
         "name": "Fletchinder",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1923,6 +1952,7 @@ let sv2 = [
         "id": "sv2-30",
         "name": "Talonflame",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1998,6 +2028,7 @@ let sv2 = [
         "id": "sv2-31",
         "name": "Litleo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -2066,6 +2097,7 @@ let sv2 = [
         "id": "sv2-32",
         "name": "Pyroar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2137,6 +2169,7 @@ let sv2 = [
         "id": "sv2-33",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -2204,6 +2237,7 @@ let sv2 = [
         "id": "sv2-34",
         "name": "Fuecoco",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -2264,6 +2298,7 @@ let sv2 = [
         "id": "sv2-35",
         "name": "Fuecoco",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -2335,6 +2370,7 @@ let sv2 = [
         "id": "sv2-36",
         "name": "Crocalor",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2407,6 +2443,7 @@ let sv2 = [
         "id": "sv2-37",
         "name": "Skeledirge ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -2482,6 +2519,7 @@ let sv2 = [
         "id": "sv2-38",
         "name": "Charcadet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -2542,6 +2580,7 @@ let sv2 = [
         "id": "sv2-39",
         "name": "Charcadet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -2613,6 +2652,7 @@ let sv2 = [
         "id": "sv2-40",
         "name": "Chi-Yu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -2685,6 +2725,7 @@ let sv2 = [
         "id": "sv2-41",
         "name": "Paldean Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -2757,6 +2798,7 @@ let sv2 = [
         "id": "sv2-42",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -2816,6 +2858,7 @@ let sv2 = [
         "id": "sv2-43",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2893,6 +2936,7 @@ let sv2 = [
         "id": "sv2-44",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -2953,6 +2997,7 @@ let sv2 = [
         "id": "sv2-45",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3025,6 +3070,7 @@ let sv2 = [
         "id": "sv2-46",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -3094,6 +3140,7 @@ let sv2 = [
         "id": "sv2-47",
         "name": "Luvdisc",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -3162,6 +3209,7 @@ let sv2 = [
         "id": "sv2-48",
         "name": "Eiscue",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -3232,6 +3280,7 @@ let sv2 = [
         "id": "sv2-49",
         "name": "Quaxly",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -3292,6 +3341,7 @@ let sv2 = [
         "id": "sv2-50",
         "name": "Quaxly",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -3351,6 +3401,7 @@ let sv2 = [
         "id": "sv2-51",
         "name": "Quaxwell",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3421,6 +3472,7 @@ let sv2 = [
         "id": "sv2-52",
         "name": "Quaquaval ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -3495,6 +3547,7 @@ let sv2 = [
         "id": "sv2-53",
         "name": "Cetoddle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -3557,6 +3610,7 @@ let sv2 = [
         "id": "sv2-54",
         "name": "Cetoddle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -3628,6 +3682,7 @@ let sv2 = [
         "id": "sv2-55",
         "name": "Cetitan",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3702,6 +3757,7 @@ let sv2 = [
         "id": "sv2-56",
         "name": "Veluza",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -3774,6 +3830,7 @@ let sv2 = [
         "id": "sv2-57",
         "name": "Frigibax",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -3834,6 +3891,7 @@ let sv2 = [
         "id": "sv2-58",
         "name": "Frigibax",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -3905,6 +3963,7 @@ let sv2 = [
         "id": "sv2-59",
         "name": "Arctibax",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3978,6 +4037,7 @@ let sv2 = [
         "id": "sv2-60",
         "name": "Baxcalibur",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -4048,6 +4108,7 @@ let sv2 = [
         "id": "sv2-61",
         "name": "Chien-Pao ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -4119,6 +4180,7 @@ let sv2 = [
         "id": "sv2-62",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -4188,6 +4250,7 @@ let sv2 = [
         "id": "sv2-63",
         "name": "Pikachu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -4257,6 +4320,7 @@ let sv2 = [
         "id": "sv2-64",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -4328,6 +4392,7 @@ let sv2 = [
         "id": "sv2-65",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -4397,6 +4462,7 @@ let sv2 = [
         "id": "sv2-66",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -4466,6 +4532,7 @@ let sv2 = [
         "id": "sv2-67",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -4537,6 +4604,7 @@ let sv2 = [
         "id": "sv2-68",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -4603,6 +4671,7 @@ let sv2 = [
         "id": "sv2-69",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -4662,6 +4731,7 @@ let sv2 = [
         "id": "sv2-70",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -4733,6 +4803,7 @@ let sv2 = [
         "id": "sv2-71",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -4802,6 +4873,7 @@ let sv2 = [
         "id": "sv2-72",
         "name": "Pincurchin",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -4864,6 +4936,7 @@ let sv2 = [
         "id": "sv2-73",
         "name": "Pincurchin",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -4934,6 +5007,7 @@ let sv2 = [
         "id": "sv2-74",
         "name": "Pawmi",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -4993,6 +5067,7 @@ let sv2 = [
         "id": "sv2-75",
         "name": "Pawmo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -5063,6 +5138,7 @@ let sv2 = [
         "id": "sv2-76",
         "name": "Pawmot",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -5133,6 +5209,7 @@ let sv2 = [
         "id": "sv2-77",
         "name": "Tadbulb",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -5192,6 +5269,7 @@ let sv2 = [
         "id": "sv2-78",
         "name": "Tadbulb",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -5261,6 +5339,7 @@ let sv2 = [
         "id": "sv2-79",
         "name": "Bellibolt ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -5338,6 +5417,7 @@ let sv2 = [
         "id": "sv2-80",
         "name": "Wattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -5413,6 +5493,7 @@ let sv2 = [
         "id": "sv2-81",
         "name": "Wattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -5489,6 +5570,7 @@ let sv2 = [
         "id": "sv2-82",
         "name": "Kilowattrel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -5562,6 +5644,7 @@ let sv2 = [
         "id": "sv2-83",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -5631,6 +5714,7 @@ let sv2 = [
         "id": "sv2-84",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -5701,6 +5785,7 @@ let sv2 = [
         "id": "sv2-85",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -5778,6 +5863,7 @@ let sv2 = [
         "id": "sv2-86",
         "name": "Slowking ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Tera",
             "ex"
@@ -5860,6 +5946,7 @@ let sv2 = [
         "id": "sv2-87",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -5926,6 +6013,7 @@ let sv2 = [
         "id": "sv2-88",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -6000,6 +6088,7 @@ let sv2 = [
         "id": "sv2-89",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -6072,6 +6161,7 @@ let sv2 = [
         "id": "sv2-90",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -6147,6 +6237,7 @@ let sv2 = [
         "id": "sv2-91",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -6223,6 +6314,7 @@ let sv2 = [
         "id": "sv2-92",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -6298,6 +6390,7 @@ let sv2 = [
         "id": "sv2-93",
         "name": "Dedenne ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Tera",
             "ex"
@@ -6373,6 +6466,7 @@ let sv2 = [
         "id": "sv2-94",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -6451,6 +6545,7 @@ let sv2 = [
         "id": "sv2-95",
         "name": "Sandygast",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -6530,6 +6625,7 @@ let sv2 = [
         "id": "sv2-96",
         "name": "Palossand",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -6611,6 +6707,7 @@ let sv2 = [
         "id": "sv2-97",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -6678,6 +6775,7 @@ let sv2 = [
         "id": "sv2-98",
         "name": "Ceruledge",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -6757,6 +6855,7 @@ let sv2 = [
         "id": "sv2-99",
         "name": "Rabsca",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -6833,6 +6932,7 @@ let sv2 = [
         "id": "sv2-100",
         "name": "Tinkatink",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -6902,6 +7002,7 @@ let sv2 = [
         "id": "sv2-101",
         "name": "Tinkatink",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -6972,6 +7073,7 @@ let sv2 = [
         "id": "sv2-102",
         "name": "Tinkatink",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -7031,6 +7133,7 @@ let sv2 = [
         "id": "sv2-103",
         "name": "Tinkatuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -7102,6 +7205,7 @@ let sv2 = [
         "id": "sv2-104",
         "name": "Tinkatuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -7175,6 +7279,7 @@ let sv2 = [
         "id": "sv2-105",
         "name": "Tinkaton",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -7244,6 +7349,7 @@ let sv2 = [
         "id": "sv2-106",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -7313,6 +7419,7 @@ let sv2 = [
         "id": "sv2-107",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -7384,6 +7491,7 @@ let sv2 = [
         "id": "sv2-108",
         "name": "Paldean Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -7456,6 +7564,7 @@ let sv2 = [
         "id": "sv2-109",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -7526,6 +7635,7 @@ let sv2 = [
         "id": "sv2-110",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -7586,6 +7696,7 @@ let sv2 = [
         "id": "sv2-111",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -7647,6 +7758,7 @@ let sv2 = [
         "id": "sv2-112",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -7709,6 +7821,7 @@ let sv2 = [
         "id": "sv2-113",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -7780,6 +7893,7 @@ let sv2 = [
         "id": "sv2-114",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -7839,6 +7953,7 @@ let sv2 = [
         "id": "sv2-115",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -7909,6 +8024,7 @@ let sv2 = [
         "id": "sv2-116",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -7979,6 +8095,7 @@ let sv2 = [
         "id": "sv2-117",
         "name": "Lycanroc ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -8054,6 +8171,7 @@ let sv2 = [
         "id": "sv2-118",
         "name": "Passimian",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -8114,6 +8232,7 @@ let sv2 = [
         "id": "sv2-119",
         "name": "Falinks",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -8185,6 +8304,7 @@ let sv2 = [
         "id": "sv2-120",
         "name": "Nacli",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -8245,6 +8365,7 @@ let sv2 = [
         "id": "sv2-121",
         "name": "Nacli",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -8316,6 +8437,7 @@ let sv2 = [
         "id": "sv2-122",
         "name": "Naclstack",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -8379,6 +8501,7 @@ let sv2 = [
         "id": "sv2-123",
         "name": "Garganacl",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -8449,6 +8572,7 @@ let sv2 = [
         "id": "sv2-124",
         "name": "Glimmet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -8508,6 +8632,7 @@ let sv2 = [
         "id": "sv2-125",
         "name": "Glimmet",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -8568,6 +8693,7 @@ let sv2 = [
         "id": "sv2-126",
         "name": "Glimmora",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -8637,6 +8763,7 @@ let sv2 = [
         "id": "sv2-127",
         "name": "Ting-Lu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -8711,6 +8838,7 @@ let sv2 = [
         "id": "sv2-128",
         "name": "Paldean Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -8780,6 +8908,7 @@ let sv2 = [
         "id": "sv2-129",
         "name": "Paldean Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -8849,6 +8978,7 @@ let sv2 = [
         "id": "sv2-130",
         "name": "Paldean Clodsire ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -8923,6 +9053,7 @@ let sv2 = [
         "id": "sv2-131",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -8997,6 +9128,7 @@ let sv2 = [
         "id": "sv2-132",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -9074,6 +9206,7 @@ let sv2 = [
         "id": "sv2-133",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -9133,6 +9266,7 @@ let sv2 = [
         "id": "sv2-134",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -9201,6 +9335,7 @@ let sv2 = [
         "id": "sv2-135",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -9273,6 +9408,7 @@ let sv2 = [
         "id": "sv2-136",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -9341,6 +9477,7 @@ let sv2 = [
         "id": "sv2-137",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -9410,6 +9547,7 @@ let sv2 = [
         "id": "sv2-138",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -9470,6 +9608,7 @@ let sv2 = [
         "id": "sv2-139",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -9542,6 +9681,7 @@ let sv2 = [
         "id": "sv2-140",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -9613,6 +9753,7 @@ let sv2 = [
         "id": "sv2-141",
         "name": "Maschiff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -9672,6 +9813,7 @@ let sv2 = [
         "id": "sv2-142",
         "name": "Maschiff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -9744,6 +9886,7 @@ let sv2 = [
         "id": "sv2-143",
         "name": "Mabosstiff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -9818,6 +9961,7 @@ let sv2 = [
         "id": "sv2-144",
         "name": "Shroodle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -9886,6 +10030,7 @@ let sv2 = [
         "id": "sv2-145",
         "name": "Shroodle",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -9945,6 +10090,7 @@ let sv2 = [
         "id": "sv2-146",
         "name": "Grafaiai",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -10014,6 +10160,7 @@ let sv2 = [
         "id": "sv2-147",
         "name": "Bombirdier",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -10090,6 +10237,7 @@ let sv2 = [
         "id": "sv2-148",
         "name": "Corviknight",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -10168,6 +10316,7 @@ let sv2 = [
         "id": "sv2-149",
         "name": "Cufant",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -10236,6 +10385,7 @@ let sv2 = [
         "id": "sv2-150",
         "name": "Copperajah ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -10317,6 +10467,7 @@ let sv2 = [
         "id": "sv2-151",
         "name": "Orthworm",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -10393,6 +10544,7 @@ let sv2 = [
         "id": "sv2-152",
         "name": "Noibat",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -10447,6 +10599,7 @@ let sv2 = [
         "id": "sv2-153",
         "name": "Noivern ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -10511,6 +10664,7 @@ let sv2 = [
         "id": "sv2-154",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -10583,6 +10737,7 @@ let sv2 = [
         "id": "sv2-155",
         "name": "Farigiraf",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -10655,6 +10810,7 @@ let sv2 = [
         "id": "sv2-156",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -10725,6 +10881,7 @@ let sv2 = [
         "id": "sv2-157",
         "name": "Dudunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -10799,6 +10956,7 @@ let sv2 = [
         "id": "sv2-158",
         "name": "Wingull",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -10865,6 +11023,7 @@ let sv2 = [
         "id": "sv2-159",
         "name": "Pelipper",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -10941,6 +11100,7 @@ let sv2 = [
         "id": "sv2-160",
         "name": "Slakoth",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -11002,6 +11162,7 @@ let sv2 = [
         "id": "sv2-161",
         "name": "Vigoroth",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -11075,6 +11236,7 @@ let sv2 = [
         "id": "sv2-162",
         "name": "Slaking",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -11147,6 +11309,7 @@ let sv2 = [
         "id": "sv2-163",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -11212,6 +11375,7 @@ let sv2 = [
         "id": "sv2-164",
         "name": "Rookidee",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -11277,6 +11441,7 @@ let sv2 = [
         "id": "sv2-165",
         "name": "Corvisquire",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -11354,6 +11519,7 @@ let sv2 = [
         "id": "sv2-166",
         "name": "Tandemaus",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -11424,6 +11590,7 @@ let sv2 = [
         "id": "sv2-167",
         "name": "Tandemaus",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -11493,6 +11660,7 @@ let sv2 = [
         "id": "sv2-168",
         "name": "Maushold",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -11565,6 +11733,7 @@ let sv2 = [
         "id": "sv2-169",
         "name": "Squawkabilly ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -11640,6 +11809,7 @@ let sv2 = [
         "id": "sv2-170",
         "name": "Flamigo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -11713,6 +11883,7 @@ let sv2 = [
         "id": "sv2-171",
         "name": "Artazon",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stadium"
         ],
@@ -11748,6 +11919,7 @@ let sv2 = [
         "id": "sv2-172",
         "name": "Boss’s Orders (Ghetsis)",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -11783,6 +11955,7 @@ let sv2 = [
         "id": "sv2-173",
         "name": "Bravery Charm",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11818,6 +11991,7 @@ let sv2 = [
         "id": "sv2-174",
         "name": "Calamitous Snowy Mountain",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stadium"
         ],
@@ -11853,6 +12027,7 @@ let sv2 = [
         "id": "sv2-175",
         "name": "Calamitous Wasteland",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stadium"
         ],
@@ -11888,6 +12063,7 @@ let sv2 = [
         "id": "sv2-176",
         "name": "Choice Belt",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11923,6 +12099,7 @@ let sv2 = [
         "id": "sv2-177",
         "name": "Clavell",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -11958,6 +12135,7 @@ let sv2 = [
         "id": "sv2-178",
         "name": "Delivery Drone",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Item"
         ],
@@ -11993,6 +12171,7 @@ let sv2 = [
         "id": "sv2-179",
         "name": "Dendra",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -12028,6 +12207,7 @@ let sv2 = [
         "id": "sv2-180",
         "name": "Falkner",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -12063,6 +12243,7 @@ let sv2 = [
         "id": "sv2-181",
         "name": "Fighting Au Lait",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Item"
         ],
@@ -12098,6 +12279,7 @@ let sv2 = [
         "id": "sv2-182",
         "name": "Giacomo",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -12133,6 +12315,7 @@ let sv2 = [
         "id": "sv2-183",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Item"
         ],
@@ -12168,6 +12351,7 @@ let sv2 = [
         "id": "sv2-184",
         "name": "Grusha",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -12203,6 +12387,7 @@ let sv2 = [
         "id": "sv2-185",
         "name": "Iono",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -12238,6 +12423,7 @@ let sv2 = [
         "id": "sv2-186",
         "name": "Practice Studio",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stadium"
         ],
@@ -12273,6 +12459,7 @@ let sv2 = [
         "id": "sv2-187",
         "name": "Saguaro",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -12308,6 +12495,7 @@ let sv2 = [
         "id": "sv2-188",
         "name": "Super Rod",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Item"
         ],
@@ -12343,6 +12531,7 @@ let sv2 = [
         "id": "sv2-189",
         "name": "Superior Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Item"
         ],
@@ -12378,6 +12567,7 @@ let sv2 = [
         "id": "sv2-190",
         "name": "Jet Energy",
         "supertype": "Energy",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Special"
         ],
@@ -12414,6 +12604,7 @@ let sv2 = [
         "id": "sv2-191",
         "name": "Luminous Energy",
         "supertype": "Energy",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Special"
         ],
@@ -12447,6 +12638,7 @@ let sv2 = [
         "id": "sv2-192",
         "name": "Reversal Energy",
         "supertype": "Energy",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Special"
         ],
@@ -12480,6 +12672,7 @@ let sv2 = [
         "id": "sv2-193",
         "name": "Therapeutic Energy",
         "supertype": "Energy",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Special"
         ],
@@ -12516,6 +12709,7 @@ let sv2 = [
         "id": "sv2-194",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -12589,6 +12783,7 @@ let sv2 = [
         "id": "sv2-195",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -12659,6 +12854,7 @@ let sv2 = [
         "id": "sv2-196",
         "name": "Sprigatito",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -12727,6 +12923,7 @@ let sv2 = [
         "id": "sv2-197",
         "name": "Floragato",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -12797,6 +12994,7 @@ let sv2 = [
         "id": "sv2-198",
         "name": "Bramblin",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -12856,6 +13054,7 @@ let sv2 = [
         "id": "sv2-199",
         "name": "Fletchinder",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -12922,6 +13121,7 @@ let sv2 = [
         "id": "sv2-200",
         "name": "Pyroar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -12993,6 +13193,7 @@ let sv2 = [
         "id": "sv2-201",
         "name": "Fuecoco",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -13064,6 +13265,7 @@ let sv2 = [
         "id": "sv2-202",
         "name": "Crocalor",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -13136,6 +13338,7 @@ let sv2 = [
         "id": "sv2-203",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -13195,6 +13398,7 @@ let sv2 = [
         "id": "sv2-204",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -13255,6 +13459,7 @@ let sv2 = [
         "id": "sv2-205",
         "name": "Eiscue",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -13325,6 +13530,7 @@ let sv2 = [
         "id": "sv2-206",
         "name": "Quaxly",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -13385,6 +13591,7 @@ let sv2 = [
         "id": "sv2-207",
         "name": "Quaxwell",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -13455,6 +13662,7 @@ let sv2 = [
         "id": "sv2-208",
         "name": "Frigibax",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -13515,6 +13723,7 @@ let sv2 = [
         "id": "sv2-209",
         "name": "Arctibax",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -13588,6 +13797,7 @@ let sv2 = [
         "id": "sv2-210",
         "name": "Baxcalibur",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -13658,6 +13868,7 @@ let sv2 = [
         "id": "sv2-211",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -13729,6 +13940,7 @@ let sv2 = [
         "id": "sv2-212",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -13803,6 +14015,7 @@ let sv2 = [
         "id": "sv2-213",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -13879,6 +14092,7 @@ let sv2 = [
         "id": "sv2-214",
         "name": "Sandygast",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -13958,6 +14172,7 @@ let sv2 = [
         "id": "sv2-215",
         "name": "Rabsca",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -14034,6 +14249,7 @@ let sv2 = [
         "id": "sv2-216",
         "name": "Tinkatink",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -14104,6 +14320,7 @@ let sv2 = [
         "id": "sv2-217",
         "name": "Tinkatuff",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -14177,6 +14394,7 @@ let sv2 = [
         "id": "sv2-218",
         "name": "Paldean Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -14249,6 +14467,7 @@ let sv2 = [
         "id": "sv2-219",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -14319,6 +14538,7 @@ let sv2 = [
         "id": "sv2-220",
         "name": "Nacli",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -14390,6 +14610,7 @@ let sv2 = [
         "id": "sv2-221",
         "name": "Paldean Wooper",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -14459,6 +14680,7 @@ let sv2 = [
         "id": "sv2-222",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2"
         ],
@@ -14531,6 +14753,7 @@ let sv2 = [
         "id": "sv2-223",
         "name": "Grafaiai",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -14600,6 +14823,7 @@ let sv2 = [
         "id": "sv2-224",
         "name": "Orthworm",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -14676,6 +14900,7 @@ let sv2 = [
         "id": "sv2-225",
         "name": "Rookidee",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -14741,6 +14966,7 @@ let sv2 = [
         "id": "sv2-226",
         "name": "Maushold",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -14813,6 +15039,7 @@ let sv2 = [
         "id": "sv2-227",
         "name": "Flamigo",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -14886,6 +15113,7 @@ let sv2 = [
         "id": "sv2-228",
         "name": "Farigiraf",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -14958,6 +15186,7 @@ let sv2 = [
         "id": "sv2-229",
         "name": "Dudunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1"
         ],
@@ -15032,6 +15261,7 @@ let sv2 = [
         "id": "sv2-230",
         "name": "Forretress ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Tera",
             "ex"
@@ -15106,6 +15336,7 @@ let sv2 = [
         "id": "sv2-231",
         "name": "Meowscarada ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -15178,6 +15409,7 @@ let sv2 = [
         "id": "sv2-232",
         "name": "Wo-Chien ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -15257,6 +15489,7 @@ let sv2 = [
         "id": "sv2-233",
         "name": "Skeledirge ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -15332,6 +15565,7 @@ let sv2 = [
         "id": "sv2-234",
         "name": "Chi-Yu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -15404,6 +15638,7 @@ let sv2 = [
         "id": "sv2-235",
         "name": "Quaquaval ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -15478,6 +15713,7 @@ let sv2 = [
         "id": "sv2-236",
         "name": "Chien-Pao ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -15549,6 +15785,7 @@ let sv2 = [
         "id": "sv2-237",
         "name": "Bellibolt ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -15626,6 +15863,7 @@ let sv2 = [
         "id": "sv2-238",
         "name": "Slowking ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Tera",
             "ex"
@@ -15708,6 +15946,7 @@ let sv2 = [
         "id": "sv2-239",
         "name": "Dedenne ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Tera",
             "ex"
@@ -15783,6 +16022,7 @@ let sv2 = [
         "id": "sv2-240",
         "name": "Tinkaton ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -15859,6 +16099,7 @@ let sv2 = [
         "id": "sv2-241",
         "name": "Lycanroc ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -15934,6 +16175,7 @@ let sv2 = [
         "id": "sv2-242",
         "name": "Annihilape ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -16008,6 +16250,7 @@ let sv2 = [
         "id": "sv2-243",
         "name": "Ting-Lu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -16082,6 +16325,7 @@ let sv2 = [
         "id": "sv2-244",
         "name": "Paldean Clodsire ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -16156,6 +16400,7 @@ let sv2 = [
         "id": "sv2-245",
         "name": "Copperajah ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -16237,6 +16482,7 @@ let sv2 = [
         "id": "sv2-246",
         "name": "Noivern ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 1",
             "ex"
@@ -16301,6 +16547,7 @@ let sv2 = [
         "id": "sv2-247",
         "name": "Squawkabilly ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -16376,6 +16623,7 @@ let sv2 = [
         "id": "sv2-248",
         "name": "Boss’s Orders (Ghetsis)",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -16411,6 +16659,7 @@ let sv2 = [
         "id": "sv2-249",
         "name": "Clavell",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -16446,6 +16695,7 @@ let sv2 = [
         "id": "sv2-250",
         "name": "Dendra",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -16481,6 +16731,7 @@ let sv2 = [
         "id": "sv2-251",
         "name": "Falkner",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -16550,6 +16801,7 @@ let sv2 = [
         "id": "sv2-252",
         "name": "Giacomo",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -16619,6 +16871,7 @@ let sv2 = [
         "id": "sv2-253",
         "name": "Grusha",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -16688,6 +16941,7 @@ let sv2 = [
         "id": "sv2-254",
         "name": "Iono",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -16757,6 +17011,7 @@ let sv2 = [
         "id": "sv2-255",
         "name": "Saguaro",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -16826,6 +17081,7 @@ let sv2 = [
         "id": "sv2-256",
         "name": "Meowscarada ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -16932,6 +17188,7 @@ let sv2 = [
         "id": "sv2-257",
         "name": "Wo-Chien ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -17045,6 +17302,7 @@ let sv2 = [
         "id": "sv2-258",
         "name": "Skeledirge ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -17154,6 +17412,7 @@ let sv2 = [
         "id": "sv2-259",
         "name": "Chi-Yu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -17260,6 +17519,7 @@ let sv2 = [
         "id": "sv2-260",
         "name": "Quaquaval ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -17368,6 +17628,7 @@ let sv2 = [
         "id": "sv2-261",
         "name": "Chien-Pao ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -17473,6 +17734,7 @@ let sv2 = [
         "id": "sv2-262",
         "name": "Tinkaton ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -17583,6 +17845,7 @@ let sv2 = [
         "id": "sv2-263",
         "name": "Ting-Lu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -17691,6 +17954,7 @@ let sv2 = [
         "id": "sv2-264",
         "name": "Squawkabilly ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -17800,6 +18064,7 @@ let sv2 = [
         "id": "sv2-265",
         "name": "Boss’s Orders (Ghetsis)",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -17869,6 +18134,7 @@ let sv2 = [
         "id": "sv2-266",
         "name": "Dendra",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -17938,6 +18204,7 @@ let sv2 = [
         "id": "sv2-267",
         "name": "Giacomo",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -18007,6 +18274,7 @@ let sv2 = [
         "id": "sv2-268",
         "name": "Grusha",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -18076,6 +18344,7 @@ let sv2 = [
         "id": "sv2-269",
         "name": "Iono",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -18145,6 +18414,7 @@ let sv2 = [
         "id": "sv2-270",
         "name": "Saguaro",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Supporter"
         ],
@@ -18214,6 +18484,7 @@ let sv2 = [
         "id": "sv2-271",
         "name": "Meowscarada ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -18320,6 +18591,7 @@ let sv2 = [
         "id": "sv2-272",
         "name": "Skeledirge ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -18429,6 +18701,7 @@ let sv2 = [
         "id": "sv2-273",
         "name": "Quaquaval ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Stage 2",
             "ex"
@@ -18537,6 +18810,7 @@ let sv2 = [
         "id": "sv2-274",
         "name": "Chien-Pao ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -18642,6 +18916,7 @@ let sv2 = [
         "id": "sv2-275",
         "name": "Ting-Lu ex",
         "supertype": "Pokémon",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic",
             "ex"
@@ -18750,6 +19025,7 @@ let sv2 = [
         "id": "sv2-276",
         "name": "Super Rod",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Item"
         ],
@@ -18819,6 +19095,7 @@ let sv2 = [
         "id": "sv2-277",
         "name": "Superior Energy Retrieval",
         "supertype": "Trainer",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Item"
         ],
@@ -18888,6 +19165,7 @@ let sv2 = [
         "id": "sv2-278",
         "name": "Basic Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],
@@ -18951,6 +19229,7 @@ let sv2 = [
         "id": "sv2-279",
         "name": "Basic Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "PAL",
         "subtypes": [
             "Basic"
         ],

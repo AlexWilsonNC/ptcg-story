@@ -3,6 +3,7 @@ let sm2 = [
         "id": "sm2-1",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -63,6 +64,7 @@ let sm2 = [
         "id": "sm2-2",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -124,6 +126,7 @@ let sm2 = [
         "id": "sm2-3",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2"
         ],
@@ -192,6 +195,7 @@ let sm2 = [
         "id": "sm2-4",
         "name": "Petilil",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -251,6 +255,7 @@ let sm2 = [
         "id": "sm2-5",
         "name": "Lilligant",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -318,6 +323,7 @@ let sm2 = [
         "id": "sm2-6",
         "name": "Phantump",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -387,6 +393,7 @@ let sm2 = [
         "id": "sm2-7",
         "name": "Trevenant",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -456,6 +463,7 @@ let sm2 = [
         "id": "sm2-8",
         "name": "Wimpod",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -524,6 +532,7 @@ let sm2 = [
         "id": "sm2-9",
         "name": "Golisopod",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -590,6 +599,7 @@ let sm2 = [
         "id": "sm2-10",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -654,6 +664,7 @@ let sm2 = [
         "id": "sm2-11",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -713,6 +724,7 @@ let sm2 = [
         "id": "sm2-12",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -773,6 +785,7 @@ let sm2 = [
         "id": "sm2-13",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2"
         ],
@@ -837,6 +850,7 @@ let sm2 = [
         "id": "sm2-14",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -903,6 +917,7 @@ let sm2 = [
         "id": "sm2-15",
         "name": "Salandit",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -972,6 +987,7 @@ let sm2 = [
         "id": "sm2-16",
         "name": "Salazzle",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1038,6 +1054,7 @@ let sm2 = [
         "id": "sm2-17",
         "name": "Turtonator",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -1106,6 +1123,7 @@ let sm2 = [
         "id": "sm2-18",
         "name": "Turtonator-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -1186,6 +1204,7 @@ let sm2 = [
         "id": "sm2-19",
         "name": "Alolan Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -1254,6 +1273,7 @@ let sm2 = [
         "id": "sm2-19a",
         "name": "Alolan Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -1322,6 +1342,7 @@ let sm2 = [
         "id": "sm2-20",
         "name": "Alolan Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1388,6 +1409,7 @@ let sm2 = [
         "id": "sm2-21",
         "name": "Alolan Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -1455,6 +1477,7 @@ let sm2 = [
         "id": "sm2-21a",
         "name": "Alolan Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -1522,6 +1545,7 @@ let sm2 = [
         "id": "sm2-22",
         "name": "Alolan Ninetales-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -1604,6 +1628,7 @@ let sm2 = [
         "id": "sm2-23",
         "name": "Tentacool",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -1663,6 +1688,7 @@ let sm2 = [
         "id": "sm2-24",
         "name": "Tentacruel",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1732,6 +1758,7 @@ let sm2 = [
         "id": "sm2-25",
         "name": "Politoed",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2"
         ],
@@ -1800,6 +1827,7 @@ let sm2 = [
         "id": "sm2-26",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -1865,6 +1893,7 @@ let sm2 = [
         "id": "sm2-27",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -1924,6 +1953,7 @@ let sm2 = [
         "id": "sm2-28",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -1981,6 +2011,7 @@ let sm2 = [
         "id": "sm2-29",
         "name": "Wailmer",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -2053,6 +2084,7 @@ let sm2 = [
         "id": "sm2-30",
         "name": "Wailord",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2124,6 +2156,7 @@ let sm2 = [
         "id": "sm2-31",
         "name": "Snorunt",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -2194,6 +2227,7 @@ let sm2 = [
         "id": "sm2-32",
         "name": "Glalie",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2266,6 +2300,7 @@ let sm2 = [
         "id": "sm2-33",
         "name": "Vanillite",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -2325,6 +2360,7 @@ let sm2 = [
         "id": "sm2-34",
         "name": "Vanillish",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2385,6 +2421,7 @@ let sm2 = [
         "id": "sm2-35",
         "name": "Vanilluxe",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2"
         ],
@@ -2453,6 +2490,7 @@ let sm2 = [
         "id": "sm2-36",
         "name": "Alomomola",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -2520,6 +2558,7 @@ let sm2 = [
         "id": "sm2-37",
         "name": "Wishiwashi",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -2582,6 +2621,7 @@ let sm2 = [
         "id": "sm2-38",
         "name": "Wishiwashi-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -2667,6 +2707,7 @@ let sm2 = [
         "id": "sm2-39",
         "name": "Mareanie",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -2735,6 +2776,7 @@ let sm2 = [
         "id": "sm2-40",
         "name": "Alolan Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -2809,6 +2851,7 @@ let sm2 = [
         "id": "sm2-41",
         "name": "Alolan Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -2889,6 +2932,7 @@ let sm2 = [
         "id": "sm2-42",
         "name": "Alolan Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2"
         ],
@@ -2966,6 +3010,7 @@ let sm2 = [
         "id": "sm2-43",
         "name": "Helioptile",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -3031,6 +3076,7 @@ let sm2 = [
         "id": "sm2-44",
         "name": "Heliolisk",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3105,6 +3151,7 @@ let sm2 = [
         "id": "sm2-45",
         "name": "Vikavolt-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -3195,6 +3242,7 @@ let sm2 = [
         "id": "sm2-46",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -3266,6 +3314,7 @@ let sm2 = [
         "id": "sm2-47",
         "name": "Tapu Koko-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -3339,6 +3388,7 @@ let sm2 = [
         "id": "sm2-48",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -3410,6 +3460,7 @@ let sm2 = [
         "id": "sm2-49",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3478,6 +3529,7 @@ let sm2 = [
         "id": "sm2-50",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -3548,6 +3600,7 @@ let sm2 = [
         "id": "sm2-51",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3616,6 +3669,7 @@ let sm2 = [
         "id": "sm2-51a",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3684,6 +3738,7 @@ let sm2 = [
         "id": "sm2-52",
         "name": "Gothita",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -3743,6 +3798,7 @@ let sm2 = [
         "id": "sm2-53",
         "name": "Gothorita",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -3813,6 +3869,7 @@ let sm2 = [
         "id": "sm2-54",
         "name": "Gothitelle",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2"
         ],
@@ -3880,6 +3937,7 @@ let sm2 = [
         "id": "sm2-55",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -3944,6 +4002,7 @@ let sm2 = [
         "id": "sm2-56",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -4015,6 +4074,7 @@ let sm2 = [
         "id": "sm2-57",
         "name": "Toxapex-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -4097,6 +4157,7 @@ let sm2 = [
         "id": "sm2-58",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -4157,6 +4218,7 @@ let sm2 = [
         "id": "sm2-59",
         "name": "Dhelmise",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -4228,6 +4290,7 @@ let sm2 = [
         "id": "sm2-60",
         "name": "Tapu Lele-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -4298,6 +4361,7 @@ let sm2 = [
         "id": "sm2-60a",
         "name": "Tapu Lele-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -4368,6 +4432,7 @@ let sm2 = [
         "id": "sm2-61",
         "name": "Lunala",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2"
         ],
@@ -4442,6 +4507,7 @@ let sm2 = [
         "id": "sm2-62",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -4502,6 +4568,7 @@ let sm2 = [
         "id": "sm2-63",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -4562,6 +4629,7 @@ let sm2 = [
         "id": "sm2-64",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4630,6 +4698,7 @@ let sm2 = [
         "id": "sm2-65",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2"
         ],
@@ -4699,6 +4768,7 @@ let sm2 = [
         "id": "sm2-66",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -4763,6 +4833,7 @@ let sm2 = [
         "id": "sm2-67",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -4822,6 +4893,7 @@ let sm2 = [
         "id": "sm2-68",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -4890,6 +4962,7 @@ let sm2 = [
         "id": "sm2-69",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -4961,6 +5034,7 @@ let sm2 = [
         "id": "sm2-70",
         "name": "Barboach",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -5030,6 +5104,7 @@ let sm2 = [
         "id": "sm2-71",
         "name": "Whiscash",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5101,6 +5176,7 @@ let sm2 = [
         "id": "sm2-72",
         "name": "Pancham",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -5161,6 +5237,7 @@ let sm2 = [
         "id": "sm2-73",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -5230,6 +5307,7 @@ let sm2 = [
         "id": "sm2-74",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -5309,6 +5387,7 @@ let sm2 = [
         "id": "sm2-75",
         "name": "Mudbray",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -5369,6 +5448,7 @@ let sm2 = [
         "id": "sm2-76",
         "name": "Mudsdale",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5440,6 +5520,7 @@ let sm2 = [
         "id": "sm2-77",
         "name": "Minior",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -5513,6 +5594,7 @@ let sm2 = [
         "id": "sm2-78",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -5578,6 +5660,7 @@ let sm2 = [
         "id": "sm2-79",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5651,6 +5734,7 @@ let sm2 = [
         "id": "sm2-80",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -5710,6 +5794,7 @@ let sm2 = [
         "id": "sm2-81",
         "name": "Absol",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -5782,6 +5867,7 @@ let sm2 = [
         "id": "sm2-82",
         "name": "Pangoro",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -5859,6 +5945,7 @@ let sm2 = [
         "id": "sm2-83",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -5924,6 +6011,7 @@ let sm2 = [
         "id": "sm2-84",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6001,6 +6089,7 @@ let sm2 = [
         "id": "sm2-85",
         "name": "Metagross-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -6085,6 +6174,7 @@ let sm2 = [
         "id": "sm2-86",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6160,6 +6250,7 @@ let sm2 = [
         "id": "sm2-87",
         "name": "Solgaleo",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2"
         ],
@@ -6235,6 +6326,7 @@ let sm2 = [
         "id": "sm2-88",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -6310,6 +6402,7 @@ let sm2 = [
         "id": "sm2-89",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6384,6 +6477,7 @@ let sm2 = [
         "id": "sm2-90",
         "name": "Cottonee",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -6449,6 +6543,7 @@ let sm2 = [
         "id": "sm2-91",
         "name": "Whimsicott",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6520,6 +6615,7 @@ let sm2 = [
         "id": "sm2-92",
         "name": "Sylveon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -6608,6 +6704,7 @@ let sm2 = [
         "id": "sm2-92a",
         "name": "Sylveon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -6696,6 +6793,7 @@ let sm2 = [
         "id": "sm2-93",
         "name": "Comfey",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -6766,6 +6864,7 @@ let sm2 = [
         "id": "sm2-94",
         "name": "Goomy",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -6835,6 +6934,7 @@ let sm2 = [
         "id": "sm2-95",
         "name": "Sliggoo",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -6905,6 +7005,7 @@ let sm2 = [
         "id": "sm2-96",
         "name": "Goodra",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2"
         ],
@@ -6973,6 +7074,7 @@ let sm2 = [
         "id": "sm2-97",
         "name": "Drampa",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -7040,6 +7142,7 @@ let sm2 = [
         "id": "sm2-98",
         "name": "Jangmo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -7107,6 +7210,7 @@ let sm2 = [
         "id": "sm2-99",
         "name": "Hakamo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7178,6 +7282,7 @@ let sm2 = [
         "id": "sm2-100",
         "name": "Kommo-o-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -7262,6 +7367,7 @@ let sm2 = [
         "id": "sm2-101",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -7334,6 +7440,7 @@ let sm2 = [
         "id": "sm2-102",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7401,6 +7508,7 @@ let sm2 = [
         "id": "sm2-103",
         "name": "Taillow",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -7466,6 +7574,7 @@ let sm2 = [
         "id": "sm2-104",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7538,6 +7647,7 @@ let sm2 = [
         "id": "sm2-105",
         "name": "Castform",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -7604,6 +7714,7 @@ let sm2 = [
         "id": "sm2-106",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -7678,6 +7789,7 @@ let sm2 = [
         "id": "sm2-107",
         "name": "Patrat",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -7747,6 +7859,7 @@ let sm2 = [
         "id": "sm2-108",
         "name": "Watchog",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7815,6 +7928,7 @@ let sm2 = [
         "id": "sm2-109",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -7890,6 +8004,7 @@ let sm2 = [
         "id": "sm2-110",
         "name": "Fletchinder",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -7966,6 +8081,7 @@ let sm2 = [
         "id": "sm2-111",
         "name": "Talonflame",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2"
         ],
@@ -8038,6 +8154,7 @@ let sm2 = [
         "id": "sm2-112",
         "name": "Stufful",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -8108,6 +8225,7 @@ let sm2 = [
         "id": "sm2-113",
         "name": "Bewear",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1"
         ],
@@ -8174,6 +8292,7 @@ let sm2 = [
         "id": "sm2-114",
         "name": "Komala",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -8239,6 +8358,7 @@ let sm2 = [
         "id": "sm2-115",
         "name": "Drampa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -8318,6 +8438,7 @@ let sm2 = [
         "id": "sm2-116",
         "name": "Aether Paradise Conservation Area",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stadium"
         ],
@@ -8352,6 +8473,7 @@ let sm2 = [
         "id": "sm2-117",
         "name": "Altar of the Moone",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stadium"
         ],
@@ -8386,6 +8508,7 @@ let sm2 = [
         "id": "sm2-118",
         "name": "Altar of the Sunne",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stadium"
         ],
@@ -8420,6 +8543,7 @@ let sm2 = [
         "id": "sm2-119",
         "name": "Aqua Patch",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -8454,6 +8578,7 @@ let sm2 = [
         "id": "sm2-120",
         "name": "Brooklet Hill",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stadium"
         ],
@@ -8488,6 +8613,7 @@ let sm2 = [
         "id": "sm2-121",
         "name": "Choice Band",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8523,6 +8649,7 @@ let sm2 = [
         "id": "sm2-121a",
         "name": "Choice Band",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8558,6 +8685,7 @@ let sm2 = [
         "id": "sm2-122",
         "name": "Energy Loto",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -8592,6 +8720,7 @@ let sm2 = [
         "id": "sm2-123",
         "name": "Energy Recycler",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -8626,6 +8755,7 @@ let sm2 = [
         "id": "sm2-124",
         "name": "Enhanced Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -8660,6 +8790,7 @@ let sm2 = [
         "id": "sm2-124a",
         "name": "Enhanced Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -8694,6 +8825,7 @@ let sm2 = [
         "id": "sm2-125",
         "name": "Field Blower",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -8728,6 +8860,7 @@ let sm2 = [
         "id": "sm2-125a",
         "name": "Field Blower",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -8762,6 +8895,7 @@ let sm2 = [
         "id": "sm2-126",
         "name": "Hala",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Supporter"
         ],
@@ -8796,6 +8930,7 @@ let sm2 = [
         "id": "sm2-127",
         "name": "Mallow",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Supporter"
         ],
@@ -8830,6 +8965,7 @@ let sm2 = [
         "id": "sm2-128",
         "name": "Max Potion",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -8864,6 +9000,7 @@ let sm2 = [
         "id": "sm2-128a",
         "name": "Max Potion",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -8898,6 +9035,7 @@ let sm2 = [
         "id": "sm2-129",
         "name": "Multi Switch",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -8932,6 +9070,7 @@ let sm2 = [
         "id": "sm2-130",
         "name": "Rescue Stretcher",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -8966,6 +9105,7 @@ let sm2 = [
         "id": "sm2-130a",
         "name": "Rescue Stretcher",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -9000,6 +9140,7 @@ let sm2 = [
         "id": "sm2-131",
         "name": "Turtonator-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9080,6 +9221,7 @@ let sm2 = [
         "id": "sm2-132",
         "name": "Alolan Ninetales-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9162,6 +9304,7 @@ let sm2 = [
         "id": "sm2-133",
         "name": "Wishiwashi-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9247,6 +9390,7 @@ let sm2 = [
         "id": "sm2-134",
         "name": "Vikavolt-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9337,6 +9481,7 @@ let sm2 = [
         "id": "sm2-135",
         "name": "Tapu Koko-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9410,6 +9555,7 @@ let sm2 = [
         "id": "sm2-136",
         "name": "Toxapex-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9492,6 +9638,7 @@ let sm2 = [
         "id": "sm2-137",
         "name": "Tapu Lele-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9562,6 +9709,7 @@ let sm2 = [
         "id": "sm2-138",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9641,6 +9789,7 @@ let sm2 = [
         "id": "sm2-139",
         "name": "Metagross-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9725,6 +9874,7 @@ let sm2 = [
         "id": "sm2-140",
         "name": "Sylveon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9813,6 +9963,7 @@ let sm2 = [
         "id": "sm2-141",
         "name": "Kommo-o-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -9897,6 +10048,7 @@ let sm2 = [
         "id": "sm2-142",
         "name": "Drampa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -9976,6 +10128,7 @@ let sm2 = [
         "id": "sm2-143",
         "name": "Hala",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Supporter"
         ],
@@ -10010,6 +10163,7 @@ let sm2 = [
         "id": "sm2-144",
         "name": "Hau",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Supporter"
         ],
@@ -10044,6 +10198,7 @@ let sm2 = [
         "id": "sm2-145",
         "name": "Mallow",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Supporter"
         ],
@@ -10078,6 +10233,7 @@ let sm2 = [
         "id": "sm2-146",
         "name": "Decidueye-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10156,6 +10312,7 @@ let sm2 = [
         "id": "sm2-147",
         "name": "Incineroar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10238,6 +10395,7 @@ let sm2 = [
         "id": "sm2-148",
         "name": "Turtonator-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -10318,6 +10476,7 @@ let sm2 = [
         "id": "sm2-149",
         "name": "Primarina-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10401,6 +10560,7 @@ let sm2 = [
         "id": "sm2-150",
         "name": "Alolan Ninetales-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10483,6 +10643,7 @@ let sm2 = [
         "id": "sm2-151",
         "name": "Wishiwashi-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -10568,6 +10729,7 @@ let sm2 = [
         "id": "sm2-152",
         "name": "Vikavolt-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10658,6 +10820,7 @@ let sm2 = [
         "id": "sm2-153",
         "name": "Tapu Koko-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -10731,6 +10894,7 @@ let sm2 = [
         "id": "sm2-154",
         "name": "Toxapex-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10813,6 +10977,7 @@ let sm2 = [
         "id": "sm2-155",
         "name": "Tapu Lele-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -10883,6 +11048,7 @@ let sm2 = [
         "id": "sm2-156",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10962,6 +11128,7 @@ let sm2 = [
         "id": "sm2-157",
         "name": "Metagross-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -11046,6 +11213,7 @@ let sm2 = [
         "id": "sm2-157a",
         "name": "Metagross-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -11130,6 +11298,7 @@ let sm2 = [
         "id": "sm2-158",
         "name": "Sylveon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -11218,6 +11387,7 @@ let sm2 = [
         "id": "sm2-159",
         "name": "Kommo-o-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -11302,6 +11472,7 @@ let sm2 = [
         "id": "sm2-160",
         "name": "Drampa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic",
             "GX"
@@ -11381,6 +11552,7 @@ let sm2 = [
         "id": "sm2-161",
         "name": "Aqua Patch",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -11415,6 +11587,7 @@ let sm2 = [
         "id": "sm2-162",
         "name": "Enhanced Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -11449,6 +11622,7 @@ let sm2 = [
         "id": "sm2-163",
         "name": "Field Blower",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -11483,6 +11657,7 @@ let sm2 = [
         "id": "sm2-164",
         "name": "Max Potion",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -11517,6 +11692,7 @@ let sm2 = [
         "id": "sm2-165",
         "name": "Rare Candy",
         "supertype": "Trainer",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Item"
         ],
@@ -11551,6 +11727,7 @@ let sm2 = [
         "id": "sm2-166",
         "name": "Double Colorless Energy",
         "supertype": "Energy",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Special"
         ],
@@ -11583,6 +11760,7 @@ let sm2 = [
         "id": "sm2-167",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -11612,6 +11790,7 @@ let sm2 = [
         "id": "sm2-168",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],
@@ -11641,6 +11820,7 @@ let sm2 = [
         "id": "sm2-169",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "GRI",
         "subtypes": [
             "Basic"
         ],

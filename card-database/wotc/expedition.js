@@ -3,6 +3,7 @@ let ecard1 = [
         "id": "ecard1-1",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -68,6 +69,7 @@ let ecard1 = [
         "id": "ecard1-2",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -134,6 +136,7 @@ let ecard1 = [
         "id": "ecard1-3",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -200,6 +203,7 @@ let ecard1 = [
         "id": "ecard1-4",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -265,6 +269,7 @@ let ecard1 = [
         "id": "ecard1-5",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -329,6 +334,7 @@ let ecard1 = [
         "id": "ecard1-6",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -395,6 +401,7 @@ let ecard1 = [
         "id": "ecard1-7",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -459,6 +466,7 @@ let ecard1 = [
         "id": "ecard1-8",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -527,6 +535,7 @@ let ecard1 = [
         "id": "ecard1-9",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -586,6 +595,7 @@ let ecard1 = [
         "id": "ecard1-10",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -659,6 +669,7 @@ let ecard1 = [
         "id": "ecard1-11",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -732,6 +743,7 @@ let ecard1 = [
         "id": "ecard1-12",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -798,6 +810,7 @@ let ecard1 = [
         "id": "ecard1-13",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -869,6 +882,7 @@ let ecard1 = [
         "id": "ecard1-14",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -935,6 +949,7 @@ let ecard1 = [
         "id": "ecard1-15",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1002,6 +1017,7 @@ let ecard1 = [
         "id": "ecard1-16",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1068,6 +1084,7 @@ let ecard1 = [
         "id": "ecard1-17",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Baby"
         ],
@@ -1123,6 +1140,7 @@ let ecard1 = [
         "id": "ecard1-18",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1195,6 +1213,7 @@ let ecard1 = [
         "id": "ecard1-19",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -1251,6 +1270,7 @@ let ecard1 = [
         "id": "ecard1-20",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -1317,6 +1337,7 @@ let ecard1 = [
         "id": "ecard1-21",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1385,6 +1406,7 @@ let ecard1 = [
         "id": "ecard1-22",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Baby"
         ],
@@ -1441,6 +1463,7 @@ let ecard1 = [
         "id": "ecard1-23",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1511,6 +1534,7 @@ let ecard1 = [
         "id": "ecard1-24",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1577,6 +1601,7 @@ let ecard1 = [
         "id": "ecard1-25",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1644,6 +1669,7 @@ let ecard1 = [
         "id": "ecard1-26",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -1711,6 +1737,7 @@ let ecard1 = [
         "id": "ecard1-27",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -1784,6 +1811,7 @@ let ecard1 = [
         "id": "ecard1-28",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1850,6 +1878,7 @@ let ecard1 = [
         "id": "ecard1-29",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1922,6 +1951,7 @@ let ecard1 = [
         "id": "ecard1-30",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -1988,6 +2018,7 @@ let ecard1 = [
         "id": "ecard1-31",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2052,6 +2083,7 @@ let ecard1 = [
         "id": "ecard1-32",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2120,6 +2152,7 @@ let ecard1 = [
         "id": "ecard1-33",
         "name": "Alakazam",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2185,6 +2218,7 @@ let ecard1 = [
         "id": "ecard1-34",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2251,6 +2285,7 @@ let ecard1 = [
         "id": "ecard1-35",
         "name": "Arbok",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2317,6 +2352,7 @@ let ecard1 = [
         "id": "ecard1-36",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2384,6 +2420,7 @@ let ecard1 = [
         "id": "ecard1-37",
         "name": "Blastoise",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2449,6 +2486,7 @@ let ecard1 = [
         "id": "ecard1-38",
         "name": "Butterfree",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2513,6 +2551,7 @@ let ecard1 = [
         "id": "ecard1-39",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2580,6 +2619,7 @@ let ecard1 = [
         "id": "ecard1-40",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2646,6 +2686,7 @@ let ecard1 = [
         "id": "ecard1-41",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2710,6 +2751,7 @@ let ecard1 = [
         "id": "ecard1-42",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2778,6 +2820,7 @@ let ecard1 = [
         "id": "ecard1-43",
         "name": "Dragonite",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -2837,6 +2880,7 @@ let ecard1 = [
         "id": "ecard1-44",
         "name": "Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2910,6 +2954,7 @@ let ecard1 = [
         "id": "ecard1-45",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -2983,6 +3028,7 @@ let ecard1 = [
         "id": "ecard1-46",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3050,6 +3096,7 @@ let ecard1 = [
         "id": "ecard1-47",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3116,6 +3163,7 @@ let ecard1 = [
         "id": "ecard1-48",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3187,6 +3235,7 @@ let ecard1 = [
         "id": "ecard1-49",
         "name": "Golem",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3253,6 +3302,7 @@ let ecard1 = [
         "id": "ecard1-50",
         "name": "Kingler",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3320,6 +3370,7 @@ let ecard1 = [
         "id": "ecard1-51",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3386,6 +3437,7 @@ let ecard1 = [
         "id": "ecard1-52",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Baby"
         ],
@@ -3442,6 +3494,7 @@ let ecard1 = [
         "id": "ecard1-53",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3515,6 +3568,7 @@ let ecard1 = [
         "id": "ecard1-54",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3587,6 +3641,7 @@ let ecard1 = [
         "id": "ecard1-55",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -3643,6 +3698,7 @@ let ecard1 = [
         "id": "ecard1-56",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -3709,6 +3765,7 @@ let ecard1 = [
         "id": "ecard1-57",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -3777,6 +3834,7 @@ let ecard1 = [
         "id": "ecard1-58",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Baby"
         ],
@@ -3832,6 +3890,7 @@ let ecard1 = [
         "id": "ecard1-59",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3902,6 +3961,7 @@ let ecard1 = [
         "id": "ecard1-60",
         "name": "Poliwrath",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -3968,6 +4028,7 @@ let ecard1 = [
         "id": "ecard1-61",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4035,6 +4096,7 @@ let ecard1 = [
         "id": "ecard1-62",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4102,6 +4164,7 @@ let ecard1 = [
         "id": "ecard1-63",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -4175,6 +4238,7 @@ let ecard1 = [
         "id": "ecard1-64",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4242,6 +4306,7 @@ let ecard1 = [
         "id": "ecard1-65",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4308,6 +4373,7 @@ let ecard1 = [
         "id": "ecard1-66",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4380,6 +4446,7 @@ let ecard1 = [
         "id": "ecard1-67",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4447,6 +4514,7 @@ let ecard1 = [
         "id": "ecard1-68",
         "name": "Venusaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4513,6 +4581,7 @@ let ecard1 = [
         "id": "ecard1-69",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 2"
         ],
@@ -4577,6 +4646,7 @@ let ecard1 = [
         "id": "ecard1-70",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4645,6 +4715,7 @@ let ecard1 = [
         "id": "ecard1-71",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4720,6 +4791,7 @@ let ecard1 = [
         "id": "ecard1-72",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -4790,6 +4862,7 @@ let ecard1 = [
         "id": "ecard1-73",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4861,6 +4934,7 @@ let ecard1 = [
         "id": "ecard1-74",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4932,6 +5006,7 @@ let ecard1 = [
         "id": "ecard1-75",
         "name": "Dragonair",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -4986,6 +5061,7 @@ let ecard1 = [
         "id": "ecard1-76",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -5054,6 +5130,7 @@ let ecard1 = [
         "id": "ecard1-77",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5125,6 +5202,7 @@ let ecard1 = [
         "id": "ecard1-78",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5197,6 +5275,7 @@ let ecard1 = [
         "id": "ecard1-79",
         "name": "Graveler",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5268,6 +5347,7 @@ let ecard1 = [
         "id": "ecard1-80",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5344,6 +5424,7 @@ let ecard1 = [
         "id": "ecard1-81",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -5410,6 +5491,7 @@ let ecard1 = [
         "id": "ecard1-82",
         "name": "Ivysaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5481,6 +5563,7 @@ let ecard1 = [
         "id": "ecard1-83",
         "name": "Jynx",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -5548,6 +5631,7 @@ let ecard1 = [
         "id": "ecard1-84",
         "name": "Kadabra",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5617,6 +5701,7 @@ let ecard1 = [
         "id": "ecard1-85",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5688,6 +5773,7 @@ let ecard1 = [
         "id": "ecard1-86",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -5758,6 +5844,7 @@ let ecard1 = [
         "id": "ecard1-87",
         "name": "Metapod",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5824,6 +5911,7 @@ let ecard1 = [
         "id": "ecard1-88",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5889,6 +5977,7 @@ let ecard1 = [
         "id": "ecard1-89",
         "name": "Poliwhirl",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -5961,6 +6050,7 @@ let ecard1 = [
         "id": "ecard1-90",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6020,6 +6110,7 @@ let ecard1 = [
         "id": "ecard1-91",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6091,6 +6182,7 @@ let ecard1 = [
         "id": "ecard1-92",
         "name": "Wartortle",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Stage 1"
         ],
@@ -6160,6 +6252,7 @@ let ecard1 = [
         "id": "ecard1-93",
         "name": "Abra",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6227,6 +6320,7 @@ let ecard1 = [
         "id": "ecard1-94",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6295,6 +6389,7 @@ let ecard1 = [
         "id": "ecard1-95",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6363,6 +6458,7 @@ let ecard1 = [
         "id": "ecard1-96",
         "name": "Caterpie",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6431,6 +6527,7 @@ let ecard1 = [
         "id": "ecard1-97",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6499,6 +6596,7 @@ let ecard1 = [
         "id": "ecard1-98",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6567,6 +6665,7 @@ let ecard1 = [
         "id": "ecard1-99",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6641,6 +6740,7 @@ let ecard1 = [
         "id": "ecard1-100",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6715,6 +6815,7 @@ let ecard1 = [
         "id": "ecard1-101",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6782,6 +6883,7 @@ let ecard1 = [
         "id": "ecard1-102",
         "name": "Corsola",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6852,6 +6954,7 @@ let ecard1 = [
         "id": "ecard1-103",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6926,6 +7029,7 @@ let ecard1 = [
         "id": "ecard1-104",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -6994,6 +7098,7 @@ let ecard1 = [
         "id": "ecard1-105",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7062,6 +7167,7 @@ let ecard1 = [
         "id": "ecard1-106",
         "name": "Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7126,6 +7232,7 @@ let ecard1 = [
         "id": "ecard1-107",
         "name": "Dratini",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7179,6 +7286,7 @@ let ecard1 = [
         "id": "ecard1-108",
         "name": "Ekans",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7237,6 +7345,7 @@ let ecard1 = [
         "id": "ecard1-109",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7301,6 +7410,7 @@ let ecard1 = [
         "id": "ecard1-110",
         "name": "Geodude",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7359,6 +7469,7 @@ let ecard1 = [
         "id": "ecard1-111",
         "name": "Goldeen",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7417,6 +7528,7 @@ let ecard1 = [
         "id": "ecard1-112",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7481,6 +7593,7 @@ let ecard1 = [
         "id": "ecard1-113",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7545,6 +7658,7 @@ let ecard1 = [
         "id": "ecard1-114",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7612,6 +7726,7 @@ let ecard1 = [
         "id": "ecard1-115",
         "name": "Krabby",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7671,6 +7786,7 @@ let ecard1 = [
         "id": "ecard1-116",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7739,6 +7855,7 @@ let ecard1 = [
         "id": "ecard1-117",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7807,6 +7924,7 @@ let ecard1 = [
         "id": "ecard1-118",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7865,6 +7983,7 @@ let ecard1 = [
         "id": "ecard1-119",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7923,6 +8042,7 @@ let ecard1 = [
         "id": "ecard1-120",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -7991,6 +8111,7 @@ let ecard1 = [
         "id": "ecard1-121",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8059,6 +8180,7 @@ let ecard1 = [
         "id": "ecard1-122",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8127,6 +8249,7 @@ let ecard1 = [
         "id": "ecard1-123",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8201,6 +8324,7 @@ let ecard1 = [
         "id": "ecard1-124",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8269,6 +8393,7 @@ let ecard1 = [
         "id": "ecard1-125",
         "name": "Poliwag",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8337,6 +8462,7 @@ let ecard1 = [
         "id": "ecard1-126",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8405,6 +8531,7 @@ let ecard1 = [
         "id": "ecard1-127",
         "name": "Qwilfish",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8461,6 +8588,7 @@ let ecard1 = [
         "id": "ecard1-128",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8519,6 +8647,7 @@ let ecard1 = [
         "id": "ecard1-129",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8587,6 +8716,7 @@ let ecard1 = [
         "id": "ecard1-130",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8651,6 +8781,7 @@ let ecard1 = [
         "id": "ecard1-131",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8719,6 +8850,7 @@ let ecard1 = [
         "id": "ecard1-132",
         "name": "Squirtle",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8787,6 +8919,7 @@ let ecard1 = [
         "id": "ecard1-133",
         "name": "Tauros",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8853,6 +8986,7 @@ let ecard1 = [
         "id": "ecard1-134",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8921,6 +9055,7 @@ let ecard1 = [
         "id": "ecard1-135",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -8989,6 +9124,7 @@ let ecard1 = [
         "id": "ecard1-136",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9057,6 +9193,7 @@ let ecard1 = [
         "id": "ecard1-137",
         "name": "Bill's Maintenance",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -9091,6 +9228,7 @@ let ecard1 = [
         "id": "ecard1-138",
         "name": "Copycat",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -9125,6 +9263,7 @@ let ecard1 = [
         "id": "ecard1-139",
         "name": "Dual Ball",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Flip 2 coins. For each heads, search your deck for a Basic Pokémon card other than a Baby Pokémon card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
         ],
@@ -9155,6 +9294,7 @@ let ecard1 = [
         "id": "ecard1-140",
         "name": "Energy Removal 2",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Flip a coin. If heads, choose 1 Energy card attached to 1 of your opponent's Pokémon and discard it."
         ],
@@ -9185,6 +9325,7 @@ let ecard1 = [
         "id": "ecard1-141",
         "name": "Energy Restore",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Flip 3 coins. For each heads, put a Basic Energy card from your discard pile into your hand. If you don't have that many basic Energy cards in your discard pile, put all of them into your hand."
         ],
@@ -9215,6 +9356,7 @@ let ecard1 = [
         "id": "ecard1-142",
         "name": "Mary's Impulse",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -9249,6 +9391,7 @@ let ecard1 = [
         "id": "ecard1-143",
         "name": "Master Ball",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Look at 7 cards from the top of your deck. You may choose a Basic Pokémon or Evolution card from those cards, show it your opponent, and put it into your hand. Shuffle the rest into your deck."
         ],
@@ -9279,6 +9422,7 @@ let ecard1 = [
         "id": "ecard1-144",
         "name": "Multi Technical Machine 01",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Technical Machine"
         ],
@@ -9323,6 +9467,7 @@ let ecard1 = [
         "id": "ecard1-145",
         "name": "Pokémon Nurse",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -9357,6 +9502,7 @@ let ecard1 = [
         "id": "ecard1-146",
         "name": "Pokémon Reversal",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Choose 1 of your opponent's Benched Pokémon. Flip a coin. If heads, switch that Pokémon with the Defending Pokémon."
         ],
@@ -9387,6 +9533,7 @@ let ecard1 = [
         "id": "ecard1-147",
         "name": "Power Charge",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Flip a coin. If heads, shuffle 2 Energy cards from your discard pile into your deck (1 if you have only 1)."
         ],
@@ -9417,6 +9564,7 @@ let ecard1 = [
         "id": "ecard1-148",
         "name": "Professor Elm's Training Method",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -9451,6 +9599,7 @@ let ecard1 = [
         "id": "ecard1-149",
         "name": "Professor Oak's Research",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Supporter"
         ],
@@ -9485,6 +9634,7 @@ let ecard1 = [
         "id": "ecard1-150",
         "name": "Strength Charm",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -9519,6 +9669,7 @@ let ecard1 = [
         "id": "ecard1-151",
         "name": "Super Scoop Up",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand."
         ],
@@ -9549,6 +9700,7 @@ let ecard1 = [
         "id": "ecard1-152",
         "name": "Warp Point",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any; then you switch your Active Pokémon with 1 of your Benched Pokémon, if any."
         ],
@@ -9579,6 +9731,7 @@ let ecard1 = [
         "id": "ecard1-153",
         "name": "Energy Search",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
         ],
@@ -9609,6 +9762,7 @@ let ecard1 = [
         "id": "ecard1-154",
         "name": "Full Heal",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Remove all Special Conditions from your Active Pokémon."
         ],
@@ -9639,6 +9793,7 @@ let ecard1 = [
         "id": "ecard1-155",
         "name": "Moo-Moo Milk",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Choose 1 of your Pokémon. Flip 2 coins. Remove 2 damage counters times the number of heads from that Pokémon. If the Pokémon has fewer damage counters than that, remove all of them."
         ],
@@ -9669,6 +9824,7 @@ let ecard1 = [
         "id": "ecard1-156",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Remove 2 damage counters from 1 of your Pokémon (1 if that Pokémon has only 1)."
         ],
@@ -9699,6 +9855,7 @@ let ecard1 = [
         "id": "ecard1-157",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "EX",
         "rules": [
             "Switch your Active Pokémon with 1 of your Benched Pokémon."
         ],
@@ -9729,6 +9886,7 @@ let ecard1 = [
         "id": "ecard1-158",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Special"
         ],
@@ -9762,6 +9920,7 @@ let ecard1 = [
         "id": "ecard1-159",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Special"
         ],
@@ -9795,6 +9954,7 @@ let ecard1 = [
         "id": "ecard1-160",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9823,6 +9983,7 @@ let ecard1 = [
         "id": "ecard1-161",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9851,6 +10012,7 @@ let ecard1 = [
         "id": "ecard1-162",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9879,6 +10041,7 @@ let ecard1 = [
         "id": "ecard1-163",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9907,6 +10070,7 @@ let ecard1 = [
         "id": "ecard1-164",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],
@@ -9935,6 +10099,7 @@ let ecard1 = [
         "id": "ecard1-165",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "EX",
         "subtypes": [
             "Basic"
         ],

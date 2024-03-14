@@ -3,6 +3,7 @@ let pl2 = [
         "id": "pl2-1",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -78,6 +79,7 @@ let pl2 = [
         "id": "pl2-2",
         "name": "Bastiodon GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -154,6 +156,7 @@ let pl2 = [
         "id": "pl2-3",
         "name": "Darkrai G",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -225,6 +228,7 @@ let pl2 = [
         "id": "pl2-4",
         "name": "Floatzel GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -289,6 +293,7 @@ let pl2 = [
         "id": "pl2-5",
         "name": "Flygon",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 2"
         ],
@@ -369,6 +374,7 @@ let pl2 = [
         "id": "pl2-6",
         "name": "Froslass GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -435,6 +441,7 @@ let pl2 = [
         "id": "pl2-7",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -509,6 +516,7 @@ let pl2 = [
         "id": "pl2-8",
         "name": "Lucario GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -574,6 +582,7 @@ let pl2 = [
         "id": "pl2-9",
         "name": "Luxray GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -648,6 +657,7 @@ let pl2 = [
         "id": "pl2-10",
         "name": "Mismagius GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -720,6 +730,7 @@ let pl2 = [
         "id": "pl2-11",
         "name": "Rampardos GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -788,6 +799,7 @@ let pl2 = [
         "id": "pl2-12",
         "name": "Roserade GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -854,6 +866,7 @@ let pl2 = [
         "id": "pl2-13",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 2"
         ],
@@ -935,6 +948,7 @@ let pl2 = [
         "id": "pl2-14",
         "name": "Aggron",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1021,6 +1035,7 @@ let pl2 = [
         "id": "pl2-15",
         "name": "Beedrill",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1087,6 +1102,7 @@ let pl2 = [
         "id": "pl2-16",
         "name": "Bronzong E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -1157,6 +1173,7 @@ let pl2 = [
         "id": "pl2-17",
         "name": "Drapion E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -1232,6 +1249,7 @@ let pl2 = [
         "id": "pl2-18",
         "name": "Espeon E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -1298,6 +1316,7 @@ let pl2 = [
         "id": "pl2-19",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1371,6 +1390,7 @@ let pl2 = [
         "id": "pl2-20",
         "name": "Gallade E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -1439,6 +1459,7 @@ let pl2 = [
         "id": "pl2-21",
         "name": "Gastrodon East Sea",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1518,6 +1539,7 @@ let pl2 = [
         "id": "pl2-22",
         "name": "Gastrodon West Sea",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1605,6 +1627,7 @@ let pl2 = [
         "id": "pl2-23",
         "name": "Golem E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -1681,6 +1704,7 @@ let pl2 = [
         "id": "pl2-24",
         "name": "Heracross E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -1745,6 +1769,7 @@ let pl2 = [
         "id": "pl2-25",
         "name": "Hippowdon",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1826,6 +1851,7 @@ let pl2 = [
         "id": "pl2-26",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1904,6 +1930,7 @@ let pl2 = [
         "id": "pl2-27",
         "name": "Mamoswine GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -1976,6 +2003,7 @@ let pl2 = [
         "id": "pl2-28",
         "name": "Mr. Mime E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -2040,6 +2068,7 @@ let pl2 = [
         "id": "pl2-29",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2123,6 +2152,7 @@ let pl2 = [
         "id": "pl2-30",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2203,6 +2233,7 @@ let pl2 = [
         "id": "pl2-31",
         "name": "Raichu GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -2274,6 +2305,7 @@ let pl2 = [
         "id": "pl2-32",
         "name": "Rhyperior E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -2349,6 +2381,7 @@ let pl2 = [
         "id": "pl2-33",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -2415,6 +2448,7 @@ let pl2 = [
         "id": "pl2-34",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2488,6 +2522,7 @@ let pl2 = [
         "id": "pl2-35",
         "name": "Vespiquen E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -2559,6 +2594,7 @@ let pl2 = [
         "id": "pl2-36",
         "name": "Walrein",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2626,6 +2662,7 @@ let pl2 = [
         "id": "pl2-37",
         "name": "Yanmega E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -2699,6 +2736,7 @@ let pl2 = [
         "id": "pl2-38",
         "name": "Alakazam E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -2766,6 +2804,7 @@ let pl2 = [
         "id": "pl2-39",
         "name": "Electrode G",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -2838,6 +2877,7 @@ let pl2 = [
         "id": "pl2-40",
         "name": "Gengar GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -2911,6 +2951,7 @@ let pl2 = [
         "id": "pl2-41",
         "name": "Glaceon",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2986,6 +3027,7 @@ let pl2 = [
         "id": "pl2-42",
         "name": "Hippowdon E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -3057,6 +3099,7 @@ let pl2 = [
         "id": "pl2-43",
         "name": "Infernape E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -3125,6 +3168,7 @@ let pl2 = [
         "id": "pl2-44",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3203,6 +3247,7 @@ let pl2 = [
         "id": "pl2-45",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3284,6 +3329,7 @@ let pl2 = [
         "id": "pl2-46",
         "name": "Machamp GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -3354,6 +3400,7 @@ let pl2 = [
         "id": "pl2-47",
         "name": "Rapidash E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -3416,6 +3463,7 @@ let pl2 = [
         "id": "pl2-48",
         "name": "Scizor E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -3483,6 +3531,7 @@ let pl2 = [
         "id": "pl2-49",
         "name": "Sharpedo",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3563,6 +3612,7 @@ let pl2 = [
         "id": "pl2-50",
         "name": "Starmie",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3634,6 +3684,7 @@ let pl2 = [
         "id": "pl2-51",
         "name": "Steelix GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -3709,6 +3760,7 @@ let pl2 = [
         "id": "pl2-52",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -3792,6 +3844,7 @@ let pl2 = [
         "id": "pl2-53",
         "name": "Vibrava",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3868,6 +3921,7 @@ let pl2 = [
         "id": "pl2-54",
         "name": "Whiscash E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -3941,6 +3995,7 @@ let pl2 = [
         "id": "pl2-55",
         "name": "Aerodactyl GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -4012,6 +4067,7 @@ let pl2 = [
         "id": "pl2-56",
         "name": "Ambipom G",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -4078,6 +4134,7 @@ let pl2 = [
         "id": "pl2-57",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -4153,6 +4210,7 @@ let pl2 = [
         "id": "pl2-58",
         "name": "Carvanha",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -4227,6 +4285,7 @@ let pl2 = [
         "id": "pl2-59",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -4300,6 +4359,7 @@ let pl2 = [
         "id": "pl2-60",
         "name": "Flareon E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -4366,6 +4426,7 @@ let pl2 = [
         "id": "pl2-61",
         "name": "Forretress G",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -4439,6 +4500,7 @@ let pl2 = [
         "id": "pl2-62",
         "name": "Gliscor E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -4511,6 +4573,7 @@ let pl2 = [
         "id": "pl2-63",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -4581,6 +4644,7 @@ let pl2 = [
         "id": "pl2-64",
         "name": "Hippopotas",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -4657,6 +4721,7 @@ let pl2 = [
         "id": "pl2-65",
         "name": "Houndoom E4",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -4731,6 +4796,7 @@ let pl2 = [
         "id": "pl2-66",
         "name": "Kakuna",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4798,6 +4864,7 @@ let pl2 = [
         "id": "pl2-67",
         "name": "Kecleon",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -4863,6 +4930,7 @@ let pl2 = [
         "id": "pl2-68",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -4931,6 +4999,7 @@ let pl2 = [
         "id": "pl2-69",
         "name": "Munchlax",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -4998,6 +5067,7 @@ let pl2 = [
         "id": "pl2-70",
         "name": "Munchlax",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -5065,6 +5135,7 @@ let pl2 = [
         "id": "pl2-71",
         "name": "Nidoran ♀",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -5134,6 +5205,7 @@ let pl2 = [
         "id": "pl2-72",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -5203,6 +5275,7 @@ let pl2 = [
         "id": "pl2-73",
         "name": "Nidorina",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5274,6 +5347,7 @@ let pl2 = [
         "id": "pl2-74",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5346,6 +5420,7 @@ let pl2 = [
         "id": "pl2-75",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5422,6 +5497,7 @@ let pl2 = [
         "id": "pl2-76",
         "name": "Quagsire GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -5493,6 +5569,7 @@ let pl2 = [
         "id": "pl2-77",
         "name": "Sealeo",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5561,6 +5638,7 @@ let pl2 = [
         "id": "pl2-78",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -5635,6 +5713,7 @@ let pl2 = [
         "id": "pl2-79",
         "name": "Shellos East Sea",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -5703,6 +5782,7 @@ let pl2 = [
         "id": "pl2-80",
         "name": "Shellos West Sea",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -5770,6 +5850,7 @@ let pl2 = [
         "id": "pl2-81",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -5845,6 +5926,7 @@ let pl2 = [
         "id": "pl2-82",
         "name": "Spheal",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -5914,6 +5996,7 @@ let pl2 = [
         "id": "pl2-83",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -5982,6 +6065,7 @@ let pl2 = [
         "id": "pl2-84",
         "name": "Trapinch",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -6054,6 +6138,7 @@ let pl2 = [
         "id": "pl2-85",
         "name": "Turtwig GL",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic",
             "SP"
@@ -6125,6 +6210,7 @@ let pl2 = [
         "id": "pl2-86",
         "name": "Weedle",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -6191,6 +6277,7 @@ let pl2 = [
         "id": "pl2-87",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6263,6 +6350,7 @@ let pl2 = [
         "id": "pl2-88",
         "name": "Aaron's Collection",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Supporter"
         ],
@@ -6297,6 +6385,7 @@ let pl2 = [
         "id": "pl2-89",
         "name": "Bebe's Search",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Supporter"
         ],
@@ -6331,6 +6420,7 @@ let pl2 = [
         "id": "pl2-90",
         "name": "Bertha's Warmth",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Supporter"
         ],
@@ -6365,6 +6455,7 @@ let pl2 = [
         "id": "pl2-91",
         "name": "Flint's Willpower",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Supporter"
         ],
@@ -6399,6 +6490,7 @@ let pl2 = [
         "id": "pl2-92",
         "name": "Lucian's Assignment",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Supporter"
         ],
@@ -6433,6 +6525,7 @@ let pl2 = [
         "id": "pl2-93",
         "name": "Pokémon Contest Hall",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stadium"
         ],
@@ -6467,6 +6560,7 @@ let pl2 = [
         "id": "pl2-94",
         "name": "Sunyshore City Gym",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Stadium"
         ],
@@ -6501,6 +6595,7 @@ let pl2 = [
         "id": "pl2-95",
         "name": "Team Galactic's Invention G-107 Technical Machine G",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Technical Machine"
         ],
@@ -6547,6 +6642,7 @@ let pl2 = [
         "id": "pl2-96",
         "name": "Team Galactic's Invention G-109 SP Radar",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Item"
         ],
@@ -6580,6 +6676,7 @@ let pl2 = [
         "id": "pl2-97",
         "name": "Underground Expedition",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Supporter"
         ],
@@ -6614,6 +6711,7 @@ let pl2 = [
         "id": "pl2-98",
         "name": "Volkner's Philosophy",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Supporter"
         ],
@@ -6648,6 +6746,7 @@ let pl2 = [
         "id": "pl2-99",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "RR",
         "subtypes": [
             "Special"
         ],
@@ -6681,6 +6780,7 @@ let pl2 = [
         "id": "pl2-100",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "RR",
         "subtypes": [
             "Special"
         ],
@@ -6714,6 +6814,7 @@ let pl2 = [
         "id": "pl2-101",
         "name": "SP Energy",
         "supertype": "Energy",
+        "setAbbrev": "RR",
         "subtypes": [
             "Special"
         ],
@@ -6747,6 +6848,7 @@ let pl2 = [
         "id": "pl2-102",
         "name": "Upper Energy",
         "supertype": "Energy",
+        "setAbbrev": "RR",
         "subtypes": [
             "Special"
         ],
@@ -6780,6 +6882,7 @@ let pl2 = [
         "id": "pl2-103",
         "name": "Alakazam E4 LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -6849,6 +6952,7 @@ let pl2 = [
         "id": "pl2-104",
         "name": "Floatzel GL LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -6916,6 +7020,7 @@ let pl2 = [
         "id": "pl2-105",
         "name": "Flygon LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Level-Up"
         ],
@@ -6989,6 +7094,7 @@ let pl2 = [
         "id": "pl2-106",
         "name": "Gallade E4 LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -7058,6 +7164,7 @@ let pl2 = [
         "id": "pl2-107",
         "name": "Hippowdon LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Level-Up"
         ],
@@ -7133,6 +7240,7 @@ let pl2 = [
         "id": "pl2-108",
         "name": "Infernape E4 LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -7201,6 +7309,7 @@ let pl2 = [
         "id": "pl2-109",
         "name": "Luxray GL LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -7274,6 +7383,7 @@ let pl2 = [
         "id": "pl2-110",
         "name": "Mismagius GL LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Level-Up",
             "SP"
@@ -7349,6 +7459,7 @@ let pl2 = [
         "id": "pl2-111",
         "name": "Snorlax LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Level-Up"
         ],
@@ -7418,6 +7529,7 @@ let pl2 = [
         "id": "pl2-112",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -7487,6 +7599,7 @@ let pl2 = [
         "id": "pl2-113",
         "name": "Flying Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -7557,6 +7670,7 @@ let pl2 = [
         "id": "pl2-114",
         "name": "Surfing Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -7617,6 +7731,7 @@ let pl2 = [
         "id": "pl2-RT1",
         "name": "Fan Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -7696,6 +7811,7 @@ let pl2 = [
         "id": "pl2-RT2",
         "name": "Frost Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -7776,6 +7892,7 @@ let pl2 = [
         "id": "pl2-RT3",
         "name": "Heat Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -7855,6 +7972,7 @@ let pl2 = [
         "id": "pl2-RT4",
         "name": "Mow Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -7935,6 +8053,7 @@ let pl2 = [
         "id": "pl2-RT5",
         "name": "Wash Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "RR",
         "subtypes": [
             "Basic"
         ],
@@ -8013,6 +8132,7 @@ let pl2 = [
         "id": "pl2-RT6",
         "name": "Charon's Choice",
         "supertype": "Trainer",
+        "setAbbrev": "RR",
         "subtypes": [
             "Supporter"
         ],

@@ -3,6 +3,7 @@ let xy9 = [
         "id": "xy9-1",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -72,6 +73,7 @@ let xy9 = [
         "id": "xy9-2",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -142,6 +144,7 @@ let xy9 = [
         "id": "xy9-3",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 2"
         ],
@@ -208,6 +211,7 @@ let xy9 = [
         "id": "xy9-4",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -267,6 +271,7 @@ let xy9 = [
         "id": "xy9-5",
         "name": "Kricketot",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -326,6 +331,7 @@ let xy9 = [
         "id": "xy9-6",
         "name": "Kricketune",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -392,6 +398,7 @@ let xy9 = [
         "id": "xy9-7",
         "name": "Petilil",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -451,6 +458,7 @@ let xy9 = [
         "id": "xy9-8",
         "name": "Lilligant",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -518,6 +526,7 @@ let xy9 = [
         "id": "xy9-9",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -584,6 +593,7 @@ let xy9 = [
         "id": "xy9-10",
         "name": "Growlithe",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -644,6 +654,7 @@ let xy9 = [
         "id": "xy9-11",
         "name": "Arcanine",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -712,6 +723,7 @@ let xy9 = [
         "id": "xy9-12",
         "name": "Numel",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -782,6 +794,7 @@ let xy9 = [
         "id": "xy9-13",
         "name": "Camerupt",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -851,6 +864,7 @@ let xy9 = [
         "id": "xy9-14",
         "name": "Emboar-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -923,6 +937,7 @@ let xy9 = [
         "id": "xy9-15",
         "name": "Heatmor",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -990,6 +1005,7 @@ let xy9 = [
         "id": "xy9-16",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -1050,6 +1066,7 @@ let xy9 = [
         "id": "xy9-17",
         "name": "Golduck",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1118,6 +1135,7 @@ let xy9 = [
         "id": "xy9-18",
         "name": "Golduck BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "BREAK"
         ],
@@ -1166,6 +1184,7 @@ let xy9 = [
         "id": "xy9-19",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -1236,6 +1255,7 @@ let xy9 = [
         "id": "xy9-20",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1304,6 +1324,7 @@ let xy9 = [
         "id": "xy9-21",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1369,6 +1390,7 @@ let xy9 = [
         "id": "xy9-22",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -1428,6 +1450,7 @@ let xy9 = [
         "id": "xy9-23",
         "name": "Shellder",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -1488,6 +1511,7 @@ let xy9 = [
         "id": "xy9-24",
         "name": "Cloyster",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -1556,6 +1580,7 @@ let xy9 = [
         "id": "xy9-25",
         "name": "Staryu",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -1614,6 +1639,7 @@ let xy9 = [
         "id": "xy9-26",
         "name": "Gyarados-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -1688,6 +1714,7 @@ let xy9 = [
         "id": "xy9-27",
         "name": "M Gyarados-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "MEGA",
             "EX"
@@ -1752,6 +1779,7 @@ let xy9 = [
         "id": "xy9-28",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -1819,6 +1847,7 @@ let xy9 = [
         "id": "xy9-29",
         "name": "Corsola",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -1890,6 +1919,7 @@ let xy9 = [
         "id": "xy9-30",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -1955,6 +1985,7 @@ let xy9 = [
         "id": "xy9-31",
         "name": "Palkia-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -2027,6 +2058,7 @@ let xy9 = [
         "id": "xy9-32",
         "name": "Manaphy-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -2094,6 +2126,7 @@ let xy9 = [
         "id": "xy9-33",
         "name": "Tympole",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -2163,6 +2196,7 @@ let xy9 = [
         "id": "xy9-34",
         "name": "Palpitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2235,6 +2269,7 @@ let xy9 = [
         "id": "xy9-35",
         "name": "Seismitoad",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 2"
         ],
@@ -2304,6 +2339,7 @@ let xy9 = [
         "id": "xy9-36",
         "name": "Ducklett",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -2369,6 +2405,7 @@ let xy9 = [
         "id": "xy9-37",
         "name": "Swanna",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2442,6 +2479,7 @@ let xy9 = [
         "id": "xy9-38",
         "name": "Froakie",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -2501,6 +2539,7 @@ let xy9 = [
         "id": "xy9-39",
         "name": "Frogadier",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2561,6 +2600,7 @@ let xy9 = [
         "id": "xy9-40",
         "name": "Greninja",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 2"
         ],
@@ -2626,6 +2666,7 @@ let xy9 = [
         "id": "xy9-41",
         "name": "Greninja BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "BREAK"
         ],
@@ -2674,6 +2715,7 @@ let xy9 = [
         "id": "xy9-42",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -2734,6 +2776,7 @@ let xy9 = [
         "id": "xy9-43",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2803,6 +2846,7 @@ let xy9 = [
         "id": "xy9-44",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -2877,6 +2921,7 @@ let xy9 = [
         "id": "xy9-45",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -2953,6 +2998,7 @@ let xy9 = [
         "id": "xy9-46",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 2"
         ],
@@ -3028,6 +3074,7 @@ let xy9 = [
         "id": "xy9-47",
         "name": "Luxray BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "BREAK"
         ],
@@ -3083,6 +3130,7 @@ let xy9 = [
         "id": "xy9-48",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -3148,6 +3196,7 @@ let xy9 = [
         "id": "xy9-49",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3219,6 +3268,7 @@ let xy9 = [
         "id": "xy9-50",
         "name": "Drowzee",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -3288,6 +3338,7 @@ let xy9 = [
         "id": "xy9-51",
         "name": "Hypno",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3353,6 +3404,7 @@ let xy9 = [
         "id": "xy9-52",
         "name": "Espeon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -3423,6 +3475,7 @@ let xy9 = [
         "id": "xy9-53",
         "name": "Skorupi",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -3483,6 +3536,7 @@ let xy9 = [
         "id": "xy9-54",
         "name": "Drapion",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3554,6 +3608,7 @@ let xy9 = [
         "id": "xy9-55",
         "name": "Sigilyph",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -3626,6 +3681,7 @@ let xy9 = [
         "id": "xy9-56",
         "name": "Trubbish",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -3685,6 +3741,7 @@ let xy9 = [
         "id": "xy9-57",
         "name": "Garbodor",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3752,6 +3809,7 @@ let xy9 = [
         "id": "xy9-58",
         "name": "Espurr",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -3811,6 +3869,7 @@ let xy9 = [
         "id": "xy9-59",
         "name": "Meowstic",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -3878,6 +3937,7 @@ let xy9 = [
         "id": "xy9-60",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -3943,6 +4003,7 @@ let xy9 = [
         "id": "xy9-61",
         "name": "Doublade",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4010,6 +4071,7 @@ let xy9 = [
         "id": "xy9-62",
         "name": "Aegislash",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 2"
         ],
@@ -4087,6 +4149,7 @@ let xy9 = [
         "id": "xy9-63",
         "name": "Skrelp",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -4146,6 +4209,7 @@ let xy9 = [
         "id": "xy9-64",
         "name": "Phantump",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -4211,6 +4275,7 @@ let xy9 = [
         "id": "xy9-65",
         "name": "Trevenant",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4283,6 +4348,7 @@ let xy9 = [
         "id": "xy9-66",
         "name": "Trevenant BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "BREAK"
         ],
@@ -4336,6 +4402,7 @@ let xy9 = [
         "id": "xy9-67",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -4393,6 +4460,7 @@ let xy9 = [
         "id": "xy9-68",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -4452,6 +4520,7 @@ let xy9 = [
         "id": "xy9-69",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4512,6 +4581,7 @@ let xy9 = [
         "id": "xy9-70",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 2"
         ],
@@ -4578,6 +4648,7 @@ let xy9 = [
         "id": "xy9-71",
         "name": "Pancham",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -4647,6 +4718,7 @@ let xy9 = [
         "id": "xy9-72",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4723,6 +4795,7 @@ let xy9 = [
         "id": "xy9-73",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 2"
         ],
@@ -4798,6 +4871,7 @@ let xy9 = [
         "id": "xy9-74",
         "name": "Darkrai-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -4875,6 +4949,7 @@ let xy9 = [
         "id": "xy9-75",
         "name": "Pangoro",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -4949,6 +5024,7 @@ let xy9 = [
         "id": "xy9-76",
         "name": "Scizor-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -5027,6 +5103,7 @@ let xy9 = [
         "id": "xy9-77",
         "name": "M Scizor-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "MEGA",
             "EX"
@@ -5095,6 +5172,7 @@ let xy9 = [
         "id": "xy9-78",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -5168,6 +5246,7 @@ let xy9 = [
         "id": "xy9-79",
         "name": "Ferroseed",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -5234,6 +5313,7 @@ let xy9 = [
         "id": "xy9-80",
         "name": "Ferrothorn",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -5309,6 +5389,7 @@ let xy9 = [
         "id": "xy9-81",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -5384,6 +5465,7 @@ let xy9 = [
         "id": "xy9-82",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -5458,6 +5540,7 @@ let xy9 = [
         "id": "xy9-83",
         "name": "Togekiss-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -5535,6 +5618,7 @@ let xy9 = [
         "id": "xy9-84",
         "name": "Spritzee",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -5600,6 +5684,7 @@ let xy9 = [
         "id": "xy9-85",
         "name": "Aromatisse",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -5673,6 +5758,7 @@ let xy9 = [
         "id": "xy9-86",
         "name": "Dragalge",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -5740,6 +5826,7 @@ let xy9 = [
         "id": "xy9-87",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -5799,6 +5886,7 @@ let xy9 = [
         "id": "xy9-88",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -5862,6 +5950,7 @@ let xy9 = [
         "id": "xy9-89",
         "name": "Raticate BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "BREAK"
         ],
@@ -5915,6 +6004,7 @@ let xy9 = [
         "id": "xy9-90",
         "name": "Dunsparce",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -5980,6 +6070,7 @@ let xy9 = [
         "id": "xy9-91",
         "name": "Stantler",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -6046,6 +6137,7 @@ let xy9 = [
         "id": "xy9-92",
         "name": "Ho-Oh-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -6120,6 +6212,7 @@ let xy9 = [
         "id": "xy9-93",
         "name": "Glameow",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -6189,6 +6282,7 @@ let xy9 = [
         "id": "xy9-94",
         "name": "Purugly",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stage 1"
         ],
@@ -6258,6 +6352,7 @@ let xy9 = [
         "id": "xy9-95",
         "name": "Furfrou",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic"
         ],
@@ -6324,6 +6419,7 @@ let xy9 = [
         "id": "xy9-96",
         "name": "All-Night Party",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stadium"
         ],
@@ -6358,6 +6454,7 @@ let xy9 = [
         "id": "xy9-97",
         "name": "Bursting Balloon",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6394,6 +6491,7 @@ let xy9 = [
         "id": "xy9-98",
         "name": "Delinquent",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Supporter"
         ],
@@ -6431,6 +6529,7 @@ let xy9 = [
         "id": "xy9-98a",
         "name": "Delinquent",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Supporter"
         ],
@@ -6468,6 +6567,7 @@ let xy9 = [
         "id": "xy9-98b",
         "name": "Delinquent",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Supporter"
         ],
@@ -6505,6 +6605,7 @@ let xy9 = [
         "id": "xy9-99",
         "name": "Fighting Fury Belt",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6540,6 +6641,7 @@ let xy9 = [
         "id": "xy9-100",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Item"
         ],
@@ -6574,6 +6676,7 @@ let xy9 = [
         "id": "xy9-101",
         "name": "Gyarados Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6609,6 +6712,7 @@ let xy9 = [
         "id": "xy9-102",
         "name": "Max Elixir",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Item"
         ],
@@ -6643,6 +6747,7 @@ let xy9 = [
         "id": "xy9-103",
         "name": "Max Potion",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Item"
         ],
@@ -6677,6 +6782,7 @@ let xy9 = [
         "id": "xy9-104",
         "name": "Misty's Determination",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Supporter"
         ],
@@ -6711,6 +6817,7 @@ let xy9 = [
         "id": "xy9-105",
         "name": "Pokémon Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Item"
         ],
@@ -6745,6 +6852,7 @@ let xy9 = [
         "id": "xy9-106",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Item"
         ],
@@ -6779,6 +6887,7 @@ let xy9 = [
         "id": "xy9-107",
         "name": "Professor Sycamore",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Supporter"
         ],
@@ -6813,6 +6922,7 @@ let xy9 = [
         "id": "xy9-107a",
         "name": "Professor Sycamore",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Supporter"
         ],
@@ -6847,6 +6957,7 @@ let xy9 = [
         "id": "xy9-108",
         "name": "Psychic's Third Eye",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Supporter"
         ],
@@ -6882,6 +6993,7 @@ let xy9 = [
         "id": "xy9-109",
         "name": "Puzzle of Time",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Item"
         ],
@@ -6920,6 +7032,7 @@ let xy9 = [
         "id": "xy9-110",
         "name": "Reverse Valley",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Stadium"
         ],
@@ -6955,6 +7068,7 @@ let xy9 = [
         "id": "xy9-111",
         "name": "Scizor Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6990,6 +7104,7 @@ let xy9 = [
         "id": "xy9-112",
         "name": "Tierno",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Supporter"
         ],
@@ -7024,6 +7139,7 @@ let xy9 = [
         "id": "xy9-113",
         "name": "Splash Energy",
         "supertype": "Energy",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Special"
         ],
@@ -7059,6 +7175,7 @@ let xy9 = [
         "id": "xy9-114",
         "name": "Gyarados-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -7133,6 +7250,7 @@ let xy9 = [
         "id": "xy9-115",
         "name": "M Gyarados-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "MEGA",
             "EX"
@@ -7197,6 +7315,7 @@ let xy9 = [
         "id": "xy9-116",
         "name": "Manaphy-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -7264,6 +7383,7 @@ let xy9 = [
         "id": "xy9-117",
         "name": "Espeon-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -7334,6 +7454,7 @@ let xy9 = [
         "id": "xy9-118",
         "name": "Darkrai-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -7411,6 +7532,7 @@ let xy9 = [
         "id": "xy9-119",
         "name": "Scizor-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -7489,6 +7611,7 @@ let xy9 = [
         "id": "xy9-120",
         "name": "M Scizor-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "MEGA",
             "EX"
@@ -7557,6 +7680,7 @@ let xy9 = [
         "id": "xy9-121",
         "name": "Ho-Oh-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"
@@ -7631,6 +7755,7 @@ let xy9 = [
         "id": "xy9-122",
         "name": "Skyla",
         "supertype": "Trainer",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Supporter"
         ],
@@ -7665,6 +7790,7 @@ let xy9 = [
         "id": "xy9-123",
         "name": "Gyarados-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "BKP",
         "subtypes": [
             "Basic",
             "EX"

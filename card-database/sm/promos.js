@@ -3,6 +3,7 @@ let smp = [
         "id": "smp-01",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let smp = [
         "id": "smp-02",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -122,6 +124,7 @@ let smp = [
         "id": "smp-03",
         "name": "Popplio",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -181,6 +184,7 @@ let smp = [
         "id": "smp-04",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -257,6 +261,7 @@ let smp = [
         "id": "smp-05",
         "name": "Snorlax-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -344,6 +349,7 @@ let smp = [
         "id": "smp-06",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -413,6 +419,7 @@ let smp = [
         "id": "smp-07",
         "name": "Pikipek",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -479,6 +486,7 @@ let smp = [
         "id": "smp-08",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -548,6 +556,7 @@ let smp = [
         "id": "smp-09",
         "name": "Togedemaru",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -619,6 +628,7 @@ let smp = [
         "id": "smp-10",
         "name": "Shiinotic",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -684,6 +694,7 @@ let smp = [
         "id": "smp-11",
         "name": "Bruxish",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -751,6 +762,7 @@ let smp = [
         "id": "smp-12",
         "name": "Passimian",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -817,6 +829,7 @@ let smp = [
         "id": "smp-13",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -882,6 +895,7 @@ let smp = [
         "id": "smp-14",
         "name": "Lycanroc-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -965,6 +979,7 @@ let smp = [
         "id": "smp-15",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1035,6 +1050,7 @@ let smp = [
         "id": "smp-16",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1119,6 +1135,7 @@ let smp = [
         "id": "smp-17",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1206,6 +1223,7 @@ let smp = [
         "id": "smp-18",
         "name": "Alolan Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1272,6 +1290,7 @@ let smp = [
         "id": "smp-19",
         "name": "Oricorio",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1343,6 +1362,7 @@ let smp = [
         "id": "smp-20",
         "name": "Mudsdale",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1414,6 +1434,7 @@ let smp = [
         "id": "smp-21",
         "name": "Drampa",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1481,6 +1502,7 @@ let smp = [
         "id": "smp-22",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1550,6 +1572,7 @@ let smp = [
         "id": "smp-23",
         "name": "Litten",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1619,6 +1642,7 @@ let smp = [
         "id": "smp-24",
         "name": "Popplio",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1688,6 +1712,7 @@ let smp = [
         "id": "smp-25",
         "name": "Lurantis",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -1754,6 +1779,7 @@ let smp = [
         "id": "smp-26",
         "name": "Tsareena",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1820,6 +1846,7 @@ let smp = [
         "id": "smp-27",
         "name": "Turtonator",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -1888,6 +1915,7 @@ let smp = [
         "id": "smp-28",
         "name": "Vikavolt",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -1961,6 +1989,7 @@ let smp = [
         "id": "smp-29",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -2021,6 +2050,7 @@ let smp = [
         "id": "smp-30",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -2094,6 +2124,7 @@ let smp = [
         "id": "smp-30a",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -2167,6 +2198,7 @@ let smp = [
         "id": "smp-31",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -2240,6 +2272,7 @@ let smp = [
         "id": "smp-32",
         "name": "Tapu Bulu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -2315,6 +2348,7 @@ let smp = [
         "id": "smp-33",
         "name": "Tapu Koko-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -2388,6 +2422,7 @@ let smp = [
         "id": "smp-34",
         "name": "Bewear-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2474,6 +2509,7 @@ let smp = [
         "id": "smp-35",
         "name": "Espeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2556,6 +2592,7 @@ let smp = [
         "id": "smp-36",
         "name": "Umbreon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2643,6 +2680,7 @@ let smp = [
         "id": "smp-37",
         "name": "Decidueye-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -2721,6 +2759,7 @@ let smp = [
         "id": "smp-38",
         "name": "Incineroar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -2803,6 +2842,7 @@ let smp = [
         "id": "smp-39",
         "name": "Primarina-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -2886,6 +2926,7 @@ let smp = [
         "id": "smp-40",
         "name": "Jangmo-o",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -2955,6 +2996,7 @@ let smp = [
         "id": "smp-41",
         "name": "Komala",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3020,6 +3062,7 @@ let smp = [
         "id": "smp-42",
         "name": "Cosmog",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3079,6 +3122,7 @@ let smp = [
         "id": "smp-43",
         "name": "Alolan Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3152,6 +3196,7 @@ let smp = [
         "id": "smp-44",
         "name": "Togedemaru",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3225,6 +3270,7 @@ let smp = [
         "id": "smp-45",
         "name": "Tapu Lele",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3291,6 +3337,7 @@ let smp = [
         "id": "smp-46",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3356,6 +3403,7 @@ let smp = [
         "id": "smp-47",
         "name": "Crabominable",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3424,6 +3472,7 @@ let smp = [
         "id": "smp-48",
         "name": "Zygarde",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3494,6 +3543,7 @@ let smp = [
         "id": "smp-49",
         "name": "Bewear",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3563,6 +3613,7 @@ let smp = [
         "id": "smp-50",
         "name": "Tapu Koko-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -3636,6 +3687,7 @@ let smp = [
         "id": "smp-51",
         "name": "Alolan Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3708,6 +3760,7 @@ let smp = [
         "id": "smp-52",
         "name": "Golisopod",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3774,6 +3827,7 @@ let smp = [
         "id": "smp-53",
         "name": "Dhelmise",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -3845,6 +3899,7 @@ let smp = [
         "id": "smp-54",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -3911,6 +3966,7 @@ let smp = [
         "id": "smp-55",
         "name": "Decidueye",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -3979,6 +4035,7 @@ let smp = [
         "id": "smp-56",
         "name": "Tsareena-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -4061,6 +4118,7 @@ let smp = [
         "id": "smp-57",
         "name": "Ho-Oh-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -4151,6 +4209,7 @@ let smp = [
         "id": "smp-58",
         "name": "Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -4230,6 +4289,7 @@ let smp = [
         "id": "smp-59",
         "name": "Marshadow-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -4307,6 +4367,7 @@ let smp = [
         "id": "smp-60",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -4393,6 +4454,7 @@ let smp = [
         "id": "smp-61",
         "name": "Tapu Bulu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -4461,6 +4523,7 @@ let smp = [
         "id": "smp-62",
         "name": "Golisopod-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -4543,6 +4606,7 @@ let smp = [
         "id": "smp-63",
         "name": "Salazzle-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -4624,6 +4688,7 @@ let smp = [
         "id": "smp-64",
         "name": "Silvally",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4692,6 +4757,7 @@ let smp = [
         "id": "smp-65",
         "name": "Alolan Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -4766,6 +4832,7 @@ let smp = [
         "id": "smp-66",
         "name": "Pheromosa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -4846,6 +4913,7 @@ let smp = [
         "id": "smp-67",
         "name": "Celesteela-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -4938,6 +5006,7 @@ let smp = [
         "id": "smp-68",
         "name": "Xurkitree-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -5022,6 +5091,7 @@ let smp = [
         "id": "smp-69",
         "name": "Buzzwole-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -5104,6 +5174,7 @@ let smp = [
         "id": "smp-70",
         "name": "Shining Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -5176,6 +5247,7 @@ let smp = [
         "id": "smp-71",
         "name": "Kommo-o-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -5260,6 +5332,7 @@ let smp = [
         "id": "smp-72",
         "name": "Alolan Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5332,6 +5405,7 @@ let smp = [
         "id": "smp-73",
         "name": "Salazzle",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -5398,6 +5472,7 @@ let smp = [
         "id": "smp-74",
         "name": "Regirock",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -5463,6 +5538,7 @@ let smp = [
         "id": "smp-75",
         "name": "Registeel",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -5536,6 +5612,7 @@ let smp = [
         "id": "smp-76",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -5612,6 +5689,7 @@ let smp = [
         "id": "smp-77",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -5677,6 +5755,7 @@ let smp = [
         "id": "smp-78",
         "name": "Champions Festival",
         "supertype": "Trainer",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stadium"
         ],
@@ -5711,6 +5790,7 @@ let smp = [
         "id": "smp-79",
         "name": "Shining Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -5775,6 +5855,7 @@ let smp = [
         "id": "smp-80",
         "name": "Ho-Oh-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -5865,6 +5946,7 @@ let smp = [
         "id": "smp-81",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -5941,6 +6023,7 @@ let smp = [
         "id": "smp-82",
         "name": "Shining Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6017,6 +6100,7 @@ let smp = [
         "id": "smp-83",
         "name": "Zorua",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6092,6 +6176,7 @@ let smp = [
         "id": "smp-84",
         "name": "Zoroark-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -6176,6 +6261,7 @@ let smp = [
         "id": "smp-85",
         "name": "Marshadow",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6249,6 +6335,7 @@ let smp = [
         "id": "smp-86",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6324,6 +6411,7 @@ let smp = [
         "id": "smp-87",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6387,6 +6475,7 @@ let smp = [
         "id": "smp-88",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6455,6 +6544,7 @@ let smp = [
         "id": "smp-89",
         "name": "Zoroark",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6530,6 +6620,7 @@ let smp = [
         "id": "smp-90",
         "name": "Raichu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -6619,6 +6710,7 @@ let smp = [
         "id": "smp-91",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -6699,6 +6791,7 @@ let smp = [
         "id": "smp-92",
         "name": "Tapu Fini",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6767,6 +6860,7 @@ let smp = [
         "id": "smp-93",
         "name": "Marshadow",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6839,6 +6933,7 @@ let smp = [
         "id": "smp-94",
         "name": "Wash Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -6904,6 +6999,7 @@ let smp = [
         "id": "smp-95",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -6969,6 +7065,7 @@ let smp = [
         "id": "smp-96",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -7043,6 +7140,7 @@ let smp = [
         "id": "smp-97",
         "name": "Gumshoos",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7112,6 +7210,7 @@ let smp = [
         "id": "smp-98",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -7187,6 +7286,7 @@ let smp = [
         "id": "smp-99",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -7247,6 +7347,7 @@ let smp = [
         "id": "smp-100",
         "name": "Lucario-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7328,6 +7429,7 @@ let smp = [
         "id": "smp-101",
         "name": "Dawn Wings Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -7414,6 +7516,7 @@ let smp = [
         "id": "smp-102",
         "name": "Dusk Mane Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -7505,6 +7608,7 @@ let smp = [
         "id": "smp-103",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -7595,6 +7699,7 @@ let smp = [
         "id": "smp-103a",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -7685,6 +7790,7 @@ let smp = [
         "id": "smp-104",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -7769,6 +7875,7 @@ let smp = [
         "id": "smp-104a",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -7853,6 +7960,7 @@ let smp = [
         "id": "smp-105",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -7922,6 +8030,7 @@ let smp = [
         "id": "smp-106",
         "name": "Dawn Wings Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -7996,6 +8105,7 @@ let smp = [
         "id": "smp-107",
         "name": "Dusk Mane Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -8070,6 +8180,7 @@ let smp = [
         "id": "smp-108",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8146,6 +8257,7 @@ let smp = [
         "id": "smp-109",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8222,6 +8334,7 @@ let smp = [
         "id": "smp-110",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8298,6 +8411,7 @@ let smp = [
         "id": "smp-111",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8374,6 +8488,7 @@ let smp = [
         "id": "smp-112",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8450,6 +8565,7 @@ let smp = [
         "id": "smp-113",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8526,6 +8642,7 @@ let smp = [
         "id": "smp-114",
         "name": "Ash's Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8602,6 +8719,7 @@ let smp = [
         "id": "smp-115",
         "name": "Pheromosa",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -8669,6 +8787,7 @@ let smp = [
         "id": "smp-116",
         "name": "Xurkitree",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -8743,6 +8862,7 @@ let smp = [
         "id": "smp-117",
         "name": "Malamar",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -8809,6 +8929,7 @@ let smp = [
         "id": "smp-118",
         "name": "Lycanroc",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -8878,6 +8999,7 @@ let smp = [
         "id": "smp-119",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8938,6 +9060,7 @@ let smp = [
         "id": "smp-120",
         "name": "Rockruff",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -8998,6 +9121,7 @@ let smp = [
         "id": "smp-121",
         "name": "Raikou-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -9088,6 +9212,7 @@ let smp = [
         "id": "smp-122",
         "name": "Zygarde-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -9170,6 +9295,7 @@ let smp = [
         "id": "smp-123",
         "name": "Dawn Wings Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -9244,6 +9370,7 @@ let smp = [
         "id": "smp-124",
         "name": "Dusk Mane Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -9318,6 +9445,7 @@ let smp = [
         "id": "smp-125",
         "name": "Naganadel-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX",
@@ -9401,6 +9529,7 @@ let smp = [
         "id": "smp-126",
         "name": "Ultra Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX",
@@ -9471,6 +9600,7 @@ let smp = [
         "id": "smp-127",
         "name": "Alolan Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -9545,6 +9675,7 @@ let smp = [
         "id": "smp-128",
         "name": "Alolan Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -9620,6 +9751,7 @@ let smp = [
         "id": "smp-129",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -9688,6 +9820,7 @@ let smp = [
         "id": "smp-130",
         "name": "Manectric",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -9757,6 +9890,7 @@ let smp = [
         "id": "smp-131",
         "name": "Celesteela",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -9824,6 +9958,7 @@ let smp = [
         "id": "smp-132",
         "name": "Delcatty",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -9889,6 +10024,7 @@ let smp = [
         "id": "smp-133",
         "name": "Thundurus-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -9976,6 +10112,7 @@ let smp = [
         "id": "smp-134",
         "name": "Tornadus-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -10064,6 +10201,7 @@ let smp = [
         "id": "smp-135",
         "name": "Latias",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -10132,6 +10270,7 @@ let smp = [
         "id": "smp-136",
         "name": "Latios",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -10200,6 +10339,7 @@ let smp = [
         "id": "smp-137",
         "name": "Reshiram-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -10283,6 +10423,7 @@ let smp = [
         "id": "smp-138",
         "name": "Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -10372,6 +10513,7 @@ let smp = [
         "id": "smp-139",
         "name": "Salamence-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -10453,6 +10595,7 @@ let smp = [
         "id": "smp-140",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -10520,6 +10663,7 @@ let smp = [
         "id": "smp-141",
         "name": "White Kyurem-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -10602,6 +10746,7 @@ let smp = [
         "id": "smp-142",
         "name": "Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -10670,6 +10815,7 @@ let smp = [
         "id": "smp-143",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -10746,6 +10892,7 @@ let smp = [
         "id": "smp-144",
         "name": "Articuno",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -10820,6 +10967,7 @@ let smp = [
         "id": "smp-145",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -10894,6 +11042,7 @@ let smp = [
         "id": "smp-146",
         "name": "Leafeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10972,6 +11121,7 @@ let smp = [
         "id": "smp-147",
         "name": "Glaceon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -11052,6 +11202,7 @@ let smp = [
         "id": "smp-148",
         "name": "Champions Festival",
         "supertype": "Trainer",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stadium"
         ],
@@ -11086,6 +11237,7 @@ let smp = [
         "id": "smp-149",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11151,6 +11303,7 @@ let smp = [
         "id": "smp-150",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11214,6 +11367,7 @@ let smp = [
         "id": "smp-151",
         "name": "Giratina",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11285,6 +11439,7 @@ let smp = [
         "id": "smp-152",
         "name": "Tapu Lele",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11356,6 +11511,7 @@ let smp = [
         "id": "smp-153",
         "name": "Rowlet",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11416,6 +11572,7 @@ let smp = [
         "id": "smp-154",
         "name": "Salandit",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11485,6 +11642,7 @@ let smp = [
         "id": "smp-155",
         "name": "Kingdra-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -11563,6 +11721,7 @@ let smp = [
         "id": "smp-156",
         "name": "Dragonite-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -11646,6 +11805,7 @@ let smp = [
         "id": "smp-157",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11718,6 +11878,7 @@ let smp = [
         "id": "smp-158",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -11783,6 +11944,7 @@ let smp = [
         "id": "smp-159",
         "name": "Zapdos",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11845,6 +12007,7 @@ let smp = [
         "id": "smp-160",
         "name": "Nidoqueen",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -11911,6 +12074,7 @@ let smp = [
         "id": "smp-161",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -11981,6 +12145,7 @@ let smp = [
         "id": "smp-162",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12056,6 +12221,7 @@ let smp = [
         "id": "smp-163",
         "name": "Mimikyu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12116,6 +12282,7 @@ let smp = [
         "id": "smp-164",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12181,6 +12348,7 @@ let smp = [
         "id": "smp-165",
         "name": "Ultra Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -12241,6 +12409,7 @@ let smp = [
         "id": "smp-166",
         "name": "Magikarp & Wailord-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12318,6 +12487,7 @@ let smp = [
         "id": "smp-167",
         "name": "Celebi & Venusaur-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12405,6 +12575,7 @@ let smp = [
         "id": "smp-168",
         "name": "Pikachu & Zekrom-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12488,6 +12659,7 @@ let smp = [
         "id": "smp-169",
         "name": "Eevee & Snorlax-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -12583,6 +12755,7 @@ let smp = [
         "id": "smp-170",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -12658,6 +12831,7 @@ let smp = [
         "id": "smp-171",
         "name": "Flareon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -12738,6 +12912,7 @@ let smp = [
         "id": "smp-172",
         "name": "Vaporeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -12816,6 +12991,7 @@ let smp = [
         "id": "smp-173",
         "name": "Jolteon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -12901,6 +13077,7 @@ let smp = [
         "id": "smp-174",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -12988,6 +13165,7 @@ let smp = [
         "id": "smp-175",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -13075,6 +13253,7 @@ let smp = [
         "id": "smp-176",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -13162,6 +13341,7 @@ let smp = [
         "id": "smp-177",
         "name": "Meltan",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -13237,6 +13417,7 @@ let smp = [
         "id": "smp-178",
         "name": "Melmetal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13322,6 +13503,7 @@ let smp = [
         "id": "smp-179",
         "name": "Volcanion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -13388,6 +13570,7 @@ let smp = [
         "id": "smp-180",
         "name": "Stakataka",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -13454,6 +13637,7 @@ let smp = [
         "id": "smp-181",
         "name": "Melmetal",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -13527,6 +13711,7 @@ let smp = [
         "id": "smp-182",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -13592,6 +13777,7 @@ let smp = [
         "id": "smp-183",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -13658,6 +13844,7 @@ let smp = [
         "id": "smp-184",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -13734,6 +13921,7 @@ let smp = [
         "id": "smp-185",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -13802,6 +13990,7 @@ let smp = [
         "id": "smp-186",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -13870,6 +14059,7 @@ let smp = [
         "id": "smp-187",
         "name": "Alolan Marowak-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13946,6 +14136,7 @@ let smp = [
         "id": "smp-188",
         "name": "Kangaskhan-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -14027,6 +14218,7 @@ let smp = [
         "id": "smp-189",
         "name": "Blastoise-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -14104,6 +14296,7 @@ let smp = [
         "id": "smp-190",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -14179,6 +14372,7 @@ let smp = [
         "id": "smp-191",
         "name": "Mewtwo & Mew-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -14249,6 +14443,7 @@ let smp = [
         "id": "smp-192",
         "name": "Lucario & Melmetal-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -14338,6 +14533,7 @@ let smp = [
         "id": "smp-193",
         "name": "Garchomp & Giratina-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -14421,6 +14617,7 @@ let smp = [
         "id": "smp-194",
         "name": "Detective Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -14486,6 +14683,7 @@ let smp = [
         "id": "smp-195",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -14572,6 +14770,7 @@ let smp = [
         "id": "smp-196",
         "name": "Mewtwo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -14656,6 +14855,7 @@ let smp = [
         "id": "smp-197",
         "name": "Greninja-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -14733,6 +14933,7 @@ let smp = [
         "id": "smp-198",
         "name": "Bulbasaur",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -14803,6 +15004,7 @@ let smp = [
         "id": "smp-199",
         "name": "Psyduck",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -14863,6 +15065,7 @@ let smp = [
         "id": "smp-200",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -14938,6 +15141,7 @@ let smp = [
         "id": "smp-201",
         "name": "Reshiram & Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15023,6 +15227,7 @@ let smp = [
         "id": "smp-202",
         "name": "Amoonguss",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -15088,6 +15293,7 @@ let smp = [
         "id": "smp-203",
         "name": "Tapu Fini",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -15155,6 +15361,7 @@ let smp = [
         "id": "smp-204",
         "name": "Necrozma",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -15223,6 +15430,7 @@ let smp = [
         "id": "smp-205",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -15293,6 +15501,7 @@ let smp = [
         "id": "smp-206",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -15360,6 +15569,7 @@ let smp = [
         "id": "smp-207",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -15426,6 +15636,7 @@ let smp = [
         "id": "smp-208",
         "name": "Vikavolt",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -15499,6 +15710,7 @@ let smp = [
         "id": "smp-209",
         "name": "Stakataka",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -15565,6 +15777,7 @@ let smp = [
         "id": "smp-210",
         "name": "Moltres & Zapdos & Articuno-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -15645,6 +15858,7 @@ let smp = [
         "id": "smp-211",
         "name": "Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -15720,6 +15934,7 @@ let smp = [
         "id": "smp-212",
         "name": "Gyarados-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -15795,6 +16010,7 @@ let smp = [
         "id": "smp-213",
         "name": "Raichu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -15874,6 +16090,7 @@ let smp = [
         "id": "smp-214",
         "name": "Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -15939,6 +16156,7 @@ let smp = [
         "id": "smp-215",
         "name": "Mew",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16002,6 +16220,7 @@ let smp = [
         "id": "smp-216",
         "name": "Porygon-Z-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -16080,6 +16299,7 @@ let smp = [
         "id": "smp-217",
         "name": "Trevenant & Dusknoir-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -16159,6 +16379,7 @@ let smp = [
         "id": "smp-218",
         "name": "Buzzwole",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -16224,6 +16445,7 @@ let smp = [
         "id": "smp-219",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16292,6 +16514,7 @@ let smp = [
         "id": "smp-220",
         "name": "Phione",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16355,6 +16578,7 @@ let smp = [
         "id": "smp-221",
         "name": "Blacephalon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -16419,6 +16643,7 @@ let smp = [
         "id": "smp-222",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -16492,6 +16717,7 @@ let smp = [
         "id": "smp-223",
         "name": "Terrakion",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16562,6 +16788,7 @@ let smp = [
         "id": "smp-224",
         "name": "Celebi",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16629,6 +16856,7 @@ let smp = [
         "id": "smp-225",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16694,6 +16922,7 @@ let smp = [
         "id": "smp-226",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2"
         ],
@@ -16759,6 +16988,7 @@ let smp = [
         "id": "smp-227",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16835,6 +17065,7 @@ let smp = [
         "id": "smp-228",
         "name": "Armored Mewtwo",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -16893,6 +17124,7 @@ let smp = [
         "id": "smp-229",
         "name": "Venusaur & Snivy-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -16978,6 +17210,7 @@ let smp = [
         "id": "smp-230",
         "name": "Charizard & Braixen-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -17054,6 +17287,7 @@ let smp = [
         "id": "smp-231",
         "name": "Champions Festival",
         "supertype": "Trainer",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stadium"
         ],
@@ -17088,6 +17322,7 @@ let smp = [
         "id": "smp-232",
         "name": "Pikachu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -17178,6 +17413,7 @@ let smp = [
         "id": "smp-233",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -17265,6 +17501,7 @@ let smp = [
         "id": "smp-234",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -17340,6 +17577,7 @@ let smp = [
         "id": "smp-235",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -17407,6 +17645,7 @@ let smp = [
         "id": "smp-236",
         "name": "Alolan Sandslash-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -17487,6 +17726,7 @@ let smp = [
         "id": "smp-237",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -17555,6 +17795,7 @@ let smp = [
         "id": "smp-238",
         "name": "Glaceon",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],
@@ -17623,6 +17864,7 @@ let smp = [
         "id": "smp-239",
         "name": "Carracosta-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -17702,6 +17944,7 @@ let smp = [
         "id": "smp-240",
         "name": "Espeon & Deoxys-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -17776,6 +18019,7 @@ let smp = [
         "id": "smp-241",
         "name": "Umbreon & Darkrai-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -17854,6 +18098,7 @@ let smp = [
         "id": "smp-242",
         "name": "Eevee-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "GX"
@@ -17941,6 +18186,7 @@ let smp = [
         "id": "smp-243",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -18012,6 +18258,7 @@ let smp = [
         "id": "smp-244",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic"
         ],
@@ -18081,6 +18328,7 @@ let smp = [
         "id": "smp-246",
         "name": "Sabrina & Brycen",
         "supertype": "Trainer",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Supporter",
             "TAG TEAM"
@@ -18117,6 +18365,7 @@ let smp = [
         "id": "smp-247",
         "name": "Reshiram & Charizard-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Basic",
             "TAG TEAM",
@@ -18202,6 +18451,7 @@ let smp = [
         "id": "smp-245",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "PR-SM",
         "subtypes": [
             "Stage 1"
         ],

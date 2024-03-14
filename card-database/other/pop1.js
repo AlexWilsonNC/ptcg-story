@@ -3,6 +3,7 @@ let pop1 = [
         "id": "pop1-1",
         "name": "Blaziken",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Stage 2"
         ],
@@ -70,6 +71,7 @@ let pop1 = [
         "id": "pop1-2",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Stage 2"
         ],
@@ -144,6 +146,7 @@ let pop1 = [
         "id": "pop1-3",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Basic"
         ],
@@ -208,6 +211,7 @@ let pop1 = [
         "id": "pop1-4",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Stage 2"
         ],
@@ -280,6 +284,7 @@ let pop1 = [
         "id": "pop1-5",
         "name": "Swampert",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Stage 2"
         ],
@@ -346,6 +351,7 @@ let pop1 = [
         "id": "pop1-6",
         "name": "Beautifly",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Stage 2"
         ],
@@ -412,6 +418,7 @@ let pop1 = [
         "id": "pop1-7",
         "name": "Masquerain",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Stage 1"
         ],
@@ -483,6 +490,7 @@ let pop1 = [
         "id": "pop1-8",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Basic"
         ],
@@ -554,6 +562,7 @@ let pop1 = [
         "id": "pop1-9",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Stage 1"
         ],
@@ -613,6 +622,7 @@ let pop1 = [
         "id": "pop1-10",
         "name": "Torkoal",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Basic"
         ],
@@ -677,6 +687,7 @@ let pop1 = [
         "id": "pop1-11",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Basic"
         ],
@@ -734,6 +745,7 @@ let pop1 = [
         "id": "pop1-12",
         "name": "Minun",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Basic"
         ],
@@ -804,6 +816,7 @@ let pop1 = [
         "id": "pop1-13",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Basic"
         ],
@@ -874,6 +887,7 @@ let pop1 = [
         "id": "pop1-14",
         "name": "Surskit",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Basic"
         ],
@@ -931,6 +945,7 @@ let pop1 = [
         "id": "pop1-15",
         "name": "Swellow",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Stage 1"
         ],
@@ -1002,6 +1017,7 @@ let pop1 = [
         "id": "pop1-16",
         "name": "Armaldo ex",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Basic",
             "EX"
@@ -1079,6 +1095,7 @@ let pop1 = [
         "id": "pop1-17",
         "name": "Tyranitar ex",
         "supertype": "Pokémon",
+        "setAbbrev": "P1",
         "subtypes": [
             "Basic",
             "EX"

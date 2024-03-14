@@ -3,6 +3,7 @@ let tk2a = [
         "id": "tk2a-1",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -72,6 +73,7 @@ let tk2a = [
         "id": "tk2a-2",
         "name": "Electrike",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -142,6 +144,7 @@ let tk2a = [
         "id": "tk2a-3",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Stage 1"
         ],
@@ -210,6 +213,7 @@ let tk2a = [
         "id": "tk2a-4",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -280,6 +284,7 @@ let tk2a = [
         "id": "tk2a-5",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Stage 1"
         ],
@@ -354,6 +359,7 @@ let tk2a = [
         "id": "tk2a-6",
         "name": "Plusle",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -427,6 +433,7 @@ let tk2a = [
         "id": "tk2a-7",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -487,6 +494,7 @@ let tk2a = [
         "id": "tk2a-8",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Item"
         ],
@@ -519,6 +527,7 @@ let tk2a = [
         "id": "tk2a-9",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Item"
         ],
@@ -551,6 +560,7 @@ let tk2a = [
         "id": "tk2a-10",
         "name": "Professor Cozmo's Discovery",
         "supertype": "Trainer",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Supporter"
         ],
@@ -584,6 +594,7 @@ let tk2a = [
         "id": "tk2a-11",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -612,6 +623,7 @@ let tk2a = [
         "id": "tk2a-12",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "TK2",
         "subtypes": [
             "Basic"
         ],
@@ -640,6 +652,7 @@ let tk2a = [
             "id": "tk2b-1",
             "name": "Arcanine",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Stage 1"
             ],
@@ -713,6 +726,7 @@ let tk2a = [
             "id": "tk2b-2",
             "name": "Charmander",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -785,6 +799,7 @@ let tk2a = [
             "id": "tk2b-3",
             "name": "Charmeleon",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Stage 1"
             ],
@@ -861,6 +876,7 @@ let tk2a = [
             "id": "tk2b-4",
             "name": "Growlithe",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -935,6 +951,7 @@ let tk2a = [
             "id": "tk2b-5",
             "name": "Mareep",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -1007,6 +1024,7 @@ let tk2a = [
             "id": "tk2b-6",
             "name": "Minun",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -1082,6 +1100,7 @@ let tk2a = [
             "id": "tk2b-7",
             "name": "Vulpix",
             "supertype": "Pokémon",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -1154,6 +1173,7 @@ let tk2a = [
             "id": "tk2b-8",
             "name": "Celio's Network",
             "supertype": "Trainer",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Supporter"
             ],
@@ -1189,6 +1209,7 @@ let tk2a = [
             "id": "tk2b-9",
             "name": "Energy Switch",
             "supertype": "Trainer",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Item"
             ],
@@ -1223,6 +1244,7 @@ let tk2a = [
             "id": "tk2b-10",
             "name": "Potion",
             "supertype": "Trainer",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Item"
             ],
@@ -1257,6 +1279,7 @@ let tk2a = [
             "id": "tk2b-11",
             "name": "Fire Energy",
             "supertype": "Energy",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],
@@ -1287,6 +1310,7 @@ let tk2a = [
             "id": "tk2b-12",
             "name": "Lightning Energy",
             "supertype": "Energy",
+            "setAbbrev": "TK2",
             "subtypes": [
                 "Basic"
             ],

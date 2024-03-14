@@ -3,6 +3,7 @@ let swsh5 = [
         "id": "swsh5-1",
         "name": "Bellsprout",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -107,6 +108,7 @@ let swsh5 = [
         "id": "swsh5-2",
         "name": "Weepinbell",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -222,6 +224,7 @@ let swsh5 = [
         "id": "swsh5-3",
         "name": "Victreebel",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 2"
         ],
@@ -337,6 +340,7 @@ let swsh5 = [
         "id": "swsh5-4",
         "name": "Cacnea",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -452,6 +456,7 @@ let swsh5 = [
         "id": "swsh5-5",
         "name": "Cacturne",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -565,6 +570,7 @@ let swsh5 = [
         "id": "swsh5-6",
         "name": "Kricketune V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -671,6 +677,7 @@ let swsh5 = [
         "id": "swsh5-7",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -775,6 +782,7 @@ let swsh5 = [
         "id": "swsh5-8",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -887,6 +895,7 @@ let swsh5 = [
         "id": "swsh5-9",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -1002,6 +1011,7 @@ let swsh5 = [
         "id": "swsh5-10",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -1113,6 +1123,7 @@ let swsh5 = [
         "id": "swsh5-11",
         "name": "Scatterbug",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -1217,6 +1228,7 @@ let swsh5 = [
         "id": "swsh5-12",
         "name": "Spewpa",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -1335,6 +1347,7 @@ let swsh5 = [
         "id": "swsh5-13",
         "name": "Vivillon",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 2"
         ],
@@ -1448,6 +1461,7 @@ let swsh5 = [
         "id": "swsh5-14",
         "name": "Fomantis",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -1552,6 +1566,7 @@ let swsh5 = [
         "id": "swsh5-15",
         "name": "Lurantis",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -1665,6 +1680,7 @@ let swsh5 = [
         "id": "swsh5-16",
         "name": "Tapu Bulu",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -1778,6 +1794,7 @@ let swsh5 = [
         "id": "swsh5-17",
         "name": "Blipbug",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -1882,6 +1899,7 @@ let swsh5 = [
         "id": "swsh5-18",
         "name": "Flapple V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -1990,6 +2008,7 @@ let swsh5 = [
         "id": "swsh5-19",
         "name": "Flapple VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX"
         ],
@@ -2091,6 +2110,7 @@ let swsh5 = [
         "id": "swsh5-20",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -2204,6 +2224,7 @@ let swsh5 = [
         "id": "swsh5-21",
         "name": "Victini V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -2311,6 +2332,7 @@ let swsh5 = [
         "id": "swsh5-22",
         "name": "Victini VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX"
         ],
@@ -2419,6 +2441,7 @@ let swsh5 = [
         "id": "swsh5-23",
         "name": "Tepig",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -2537,6 +2560,7 @@ let swsh5 = [
         "id": "swsh5-24",
         "name": "Pignite",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -2657,6 +2681,7 @@ let swsh5 = [
         "id": "swsh5-25",
         "name": "Emboar",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 2",
             "Single Strike"
@@ -2773,6 +2798,7 @@ let swsh5 = [
         "id": "swsh5-26",
         "name": "Heatmor",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -2886,6 +2912,7 @@ let swsh5 = [
         "id": "swsh5-27",
         "name": "Salandit",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -2990,6 +3017,7 @@ let swsh5 = [
         "id": "swsh5-28",
         "name": "Salazzle",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -3102,6 +3130,7 @@ let swsh5 = [
         "id": "swsh5-29",
         "name": "Sizzlipede",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -3207,6 +3236,7 @@ let swsh5 = [
         "id": "swsh5-30",
         "name": "Centiskorch",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -3320,6 +3350,7 @@ let swsh5 = [
         "id": "swsh5-31",
         "name": "Horsea",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -3424,6 +3455,7 @@ let swsh5 = [
         "id": "swsh5-32",
         "name": "Seadra",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -3529,6 +3561,7 @@ let swsh5 = [
         "id": "swsh5-33",
         "name": "Kingdra",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 2"
         ],
@@ -3638,6 +3671,7 @@ let swsh5 = [
         "id": "swsh5-34",
         "name": "Galarian Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -3752,6 +3786,7 @@ let swsh5 = [
         "id": "swsh5-35",
         "name": "Galarian Mr. Rime",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -3867,6 +3902,7 @@ let swsh5 = [
         "id": "swsh5-36",
         "name": "Remoraid",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -3982,6 +4018,7 @@ let swsh5 = [
         "id": "swsh5-37",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -4094,6 +4131,7 @@ let swsh5 = [
         "id": "swsh5-38",
         "name": "Corphish",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -4201,6 +4239,7 @@ let swsh5 = [
         "id": "swsh5-39",
         "name": "Crawdaunt",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -4319,6 +4358,7 @@ let swsh5 = [
         "id": "swsh5-40",
         "name": "Empoleon V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -4427,6 +4467,7 @@ let swsh5 = [
         "id": "swsh5-41",
         "name": "Frillish",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -4541,6 +4582,7 @@ let swsh5 = [
         "id": "swsh5-42",
         "name": "Jellicent",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -4646,6 +4688,7 @@ let swsh5 = [
         "id": "swsh5-43",
         "name": "Bruxish",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -4758,6 +4801,7 @@ let swsh5 = [
         "id": "swsh5-44",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -4863,6 +4907,7 @@ let swsh5 = [
         "id": "swsh5-45",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -4981,6 +5026,7 @@ let swsh5 = [
         "id": "swsh5-46",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -5086,6 +5132,7 @@ let swsh5 = [
         "id": "swsh5-47",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -5202,6 +5249,7 @@ let swsh5 = [
         "id": "swsh5-48",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 2",
             "Rapid Strike"
@@ -5315,6 +5363,7 @@ let swsh5 = [
         "id": "swsh5-49",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -5426,6 +5475,7 @@ let swsh5 = [
         "id": "swsh5-50",
         "name": "Tapu Koko V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -5534,6 +5584,7 @@ let swsh5 = [
         "id": "swsh5-51",
         "name": "Tapu Koko VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX"
         ],
@@ -5633,6 +5684,7 @@ let swsh5 = [
         "id": "swsh5-52",
         "name": "Yamper",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -5745,6 +5797,7 @@ let swsh5 = [
         "id": "swsh5-53",
         "name": "Boltund",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -5858,6 +5911,7 @@ let swsh5 = [
         "id": "swsh5-54",
         "name": "Galarian Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -5970,6 +6024,7 @@ let swsh5 = [
         "id": "swsh5-55",
         "name": "Spoink",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -6090,6 +6145,7 @@ let swsh5 = [
         "id": "swsh5-56",
         "name": "Grumpig",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -6212,6 +6268,7 @@ let swsh5 = [
         "id": "swsh5-57",
         "name": "Baltoy",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -6323,6 +6380,7 @@ let swsh5 = [
         "id": "swsh5-58",
         "name": "Claydol",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -6443,6 +6501,7 @@ let swsh5 = [
         "id": "swsh5-59",
         "name": "Chimecho",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -6559,6 +6618,7 @@ let swsh5 = [
         "id": "swsh5-60",
         "name": "Espurr",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -6670,6 +6730,7 @@ let swsh5 = [
         "id": "swsh5-61",
         "name": "Meowstic",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -6786,6 +6847,7 @@ let swsh5 = [
         "id": "swsh5-62",
         "name": "Mimikyu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -6897,6 +6959,7 @@ let swsh5 = [
         "id": "swsh5-63",
         "name": "Necrozma V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -7013,6 +7076,7 @@ let swsh5 = [
         "id": "swsh5-64",
         "name": "Dottler",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -7135,6 +7199,7 @@ let swsh5 = [
         "id": "swsh5-65",
         "name": "Orbeetle",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 2"
         ],
@@ -7254,6 +7319,7 @@ let swsh5 = [
         "id": "swsh5-66",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -7360,6 +7426,7 @@ let swsh5 = [
         "id": "swsh5-67",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -7474,6 +7541,7 @@ let swsh5 = [
         "id": "swsh5-68",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -7596,6 +7664,7 @@ let swsh5 = [
         "id": "swsh5-69",
         "name": "Cubone",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -7710,6 +7779,7 @@ let swsh5 = [
         "id": "swsh5-70",
         "name": "Marowak",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -7821,6 +7891,7 @@ let swsh5 = [
         "id": "swsh5-71",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -7926,6 +7997,7 @@ let swsh5 = [
         "id": "swsh5-72",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -8040,6 +8112,7 @@ let swsh5 = [
         "id": "swsh5-73",
         "name": "Timburr",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -8146,6 +8219,7 @@ let swsh5 = [
         "id": "swsh5-74",
         "name": "Gurdurr",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -8265,6 +8339,7 @@ let swsh5 = [
         "id": "swsh5-75",
         "name": "Conkeldurr",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 2"
         ],
@@ -8383,6 +8458,7 @@ let swsh5 = [
         "id": "swsh5-76",
         "name": "Mienfoo",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -8489,6 +8565,7 @@ let swsh5 = [
         "id": "swsh5-77",
         "name": "Mienshao",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -8602,6 +8679,7 @@ let swsh5 = [
         "id": "swsh5-78",
         "name": "Rolycoly",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -8707,6 +8785,7 @@ let swsh5 = [
         "id": "swsh5-79",
         "name": "Carkol",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -8828,6 +8907,7 @@ let swsh5 = [
         "id": "swsh5-80",
         "name": "Coalossal",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 2"
         ],
@@ -8945,6 +9025,7 @@ let swsh5 = [
         "id": "swsh5-81",
         "name": "Silicobra",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -9061,6 +9142,7 @@ let swsh5 = [
         "id": "swsh5-82",
         "name": "Sandaconda",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -9176,6 +9258,7 @@ let swsh5 = [
         "id": "swsh5-83",
         "name": "Falinks",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "Rapid Strike"
@@ -9280,6 +9363,7 @@ let swsh5 = [
         "id": "swsh5-84",
         "name": "Stonjourner",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -9396,6 +9480,7 @@ let swsh5 = [
         "id": "swsh5-85",
         "name": "Single Strike Urshifu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -9506,6 +9591,7 @@ let swsh5 = [
         "id": "swsh5-86",
         "name": "Single Strike Urshifu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -9620,6 +9706,7 @@ let swsh5 = [
         "id": "swsh5-87",
         "name": "Rapid Strike Urshifu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -9730,6 +9817,7 @@ let swsh5 = [
         "id": "swsh5-88",
         "name": "Rapid Strike Urshifu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -9840,6 +9928,7 @@ let swsh5 = [
         "id": "swsh5-89",
         "name": "Zubat",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -9954,6 +10043,7 @@ let swsh5 = [
         "id": "swsh5-90",
         "name": "Golbat",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -10067,6 +10157,7 @@ let swsh5 = [
         "id": "swsh5-91",
         "name": "Crobat",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 2"
         ],
@@ -10173,6 +10264,7 @@ let swsh5 = [
         "id": "swsh5-92",
         "name": "Galarian Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -10288,6 +10380,7 @@ let swsh5 = [
         "id": "swsh5-93",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -10408,6 +10501,7 @@ let swsh5 = [
         "id": "swsh5-94",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -10526,6 +10620,7 @@ let swsh5 = [
         "id": "swsh5-95",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -10631,6 +10726,7 @@ let swsh5 = [
         "id": "swsh5-96",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -10743,6 +10839,7 @@ let swsh5 = [
         "id": "swsh5-97",
         "name": "Tyranitar V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -10857,6 +10954,7 @@ let swsh5 = [
         "id": "swsh5-98",
         "name": "Morpeko",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -10967,6 +11065,7 @@ let swsh5 = [
         "id": "swsh5-99",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -11093,6 +11192,7 @@ let swsh5 = [
         "id": "swsh5-100",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "Single Strike"
@@ -11212,6 +11312,7 @@ let swsh5 = [
         "id": "swsh5-101",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -11323,6 +11424,7 @@ let swsh5 = [
         "id": "swsh5-102",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -11442,6 +11544,7 @@ let swsh5 = [
         "id": "swsh5-103",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -11561,6 +11664,7 @@ let swsh5 = [
         "id": "swsh5-104",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -11680,6 +11784,7 @@ let swsh5 = [
         "id": "swsh5-105",
         "name": "Honedge",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -11791,6 +11896,7 @@ let swsh5 = [
         "id": "swsh5-106",
         "name": "Doublade",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -11904,6 +12010,7 @@ let swsh5 = [
         "id": "swsh5-107",
         "name": "Aegislash",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 2"
         ],
@@ -12023,6 +12130,7 @@ let swsh5 = [
         "id": "swsh5-108",
         "name": "Aegislash",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 2"
         ],
@@ -12141,6 +12249,7 @@ let swsh5 = [
         "id": "swsh5-109",
         "name": "Corviknight V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -12255,6 +12364,7 @@ let swsh5 = [
         "id": "swsh5-110",
         "name": "Corviknight VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX"
         ],
@@ -12363,6 +12473,7 @@ let swsh5 = [
         "id": "swsh5-111",
         "name": "Spearow",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -12473,6 +12584,7 @@ let swsh5 = [
         "id": "swsh5-112",
         "name": "Fearow",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -12577,6 +12689,7 @@ let swsh5 = [
         "id": "swsh5-113",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -12698,6 +12811,7 @@ let swsh5 = [
         "id": "swsh5-114",
         "name": "Lickilicky",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -12817,6 +12931,7 @@ let swsh5 = [
         "id": "swsh5-115",
         "name": "Glameow",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -12932,6 +13047,7 @@ let swsh5 = [
         "id": "swsh5-116",
         "name": "Purugly",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1"
         ],
@@ -13048,6 +13164,7 @@ let swsh5 = [
         "id": "swsh5-117",
         "name": "Stoutland V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -13161,6 +13278,7 @@ let swsh5 = [
         "id": "swsh5-118",
         "name": "Bouffalant",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -13272,6 +13390,7 @@ let swsh5 = [
         "id": "swsh5-119",
         "name": "Drampa",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -13384,6 +13503,7 @@ let swsh5 = [
         "id": "swsh5-120",
         "name": "Indeedee",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic"
         ],
@@ -13496,6 +13616,7 @@ let swsh5 = [
         "id": "swsh5-121",
         "name": "Bruno",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -13574,6 +13695,7 @@ let swsh5 = [
         "id": "swsh5-122",
         "name": "Camping Gear",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Item"
         ],
@@ -13651,6 +13773,7 @@ let swsh5 = [
         "id": "swsh5-123",
         "name": "Cheryl",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter"
         ],
@@ -13728,6 +13851,7 @@ let swsh5 = [
         "id": "swsh5-124",
         "name": "Energy Recycler",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Item"
         ],
@@ -13805,6 +13929,7 @@ let swsh5 = [
         "id": "swsh5-125",
         "name": "Escape Rope",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Item"
         ],
@@ -13882,6 +14007,7 @@ let swsh5 = [
         "id": "swsh5-126",
         "name": "Exp. Share",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -13960,6 +14086,7 @@ let swsh5 = [
         "id": "swsh5-127",
         "name": "Fan of Waves",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Item",
             "Rapid Strike"
@@ -14038,6 +14165,7 @@ let swsh5 = [
         "id": "swsh5-128",
         "name": "Korrina's Focus",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Rapid Strike"
@@ -14116,6 +14244,7 @@ let swsh5 = [
         "id": "swsh5-129",
         "name": "Level Ball",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Item"
         ],
@@ -14193,6 +14322,7 @@ let swsh5 = [
         "id": "swsh5-130",
         "name": "Phoebe",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter"
         ],
@@ -14270,6 +14400,7 @@ let swsh5 = [
         "id": "swsh5-131",
         "name": "Rapid Strike Scroll of Swirls",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Pokémon Tool",
             "Rapid Strike"
@@ -14362,6 +14493,7 @@ let swsh5 = [
         "id": "swsh5-132",
         "name": "Rapid Strike Style Mustard",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Rapid Strike"
@@ -14441,6 +14573,7 @@ let swsh5 = [
         "id": "swsh5-133",
         "name": "Single Strike Scroll of Scorn",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Pokémon Tool",
             "Single Strike"
@@ -14531,6 +14664,7 @@ let swsh5 = [
         "id": "swsh5-134",
         "name": "Single Strike Style Mustard",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -14610,6 +14744,7 @@ let swsh5 = [
         "id": "swsh5-135",
         "name": "Sordward & Shielbert",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter"
         ],
@@ -14687,6 +14822,7 @@ let swsh5 = [
         "id": "swsh5-136",
         "name": "Tool Jammer",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -14765,6 +14901,7 @@ let swsh5 = [
         "id": "swsh5-137",
         "name": "Tower of Darkness",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stadium",
             "Single Strike"
@@ -14843,6 +14980,7 @@ let swsh5 = [
         "id": "swsh5-138",
         "name": "Tower of Waters",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stadium",
             "Rapid Strike"
@@ -14921,6 +15059,7 @@ let swsh5 = [
         "id": "swsh5-139",
         "name": "Urn of Vitality",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Item",
             "Single Strike"
@@ -14999,6 +15138,7 @@ let swsh5 = [
         "id": "swsh5-140",
         "name": "Rapid Strike Energy",
         "supertype": "Energy",
+        "setAbbrev": "BST",
         "subtypes": [
             "Special",
             "Rapid Strike"
@@ -15076,6 +15216,7 @@ let swsh5 = [
         "id": "swsh5-141",
         "name": "Single Strike Energy",
         "supertype": "Energy",
+        "setAbbrev": "BST",
         "subtypes": [
             "Special",
             "Single Strike"
@@ -15153,6 +15294,7 @@ let swsh5 = [
         "id": "swsh5-142",
         "name": "Kricketune V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -15259,6 +15401,7 @@ let swsh5 = [
         "id": "swsh5-143",
         "name": "Flapple V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -15367,6 +15510,7 @@ let swsh5 = [
         "id": "swsh5-144",
         "name": "Victini V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -15474,6 +15618,7 @@ let swsh5 = [
         "id": "swsh5-145",
         "name": "Empoleon V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -15582,6 +15727,7 @@ let swsh5 = [
         "id": "swsh5-146",
         "name": "Empoleon V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -15690,6 +15836,7 @@ let swsh5 = [
         "id": "swsh5-147",
         "name": "Tapu Koko V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -15798,6 +15945,7 @@ let swsh5 = [
         "id": "swsh5-148",
         "name": "Mimikyu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -15909,6 +16057,7 @@ let swsh5 = [
         "id": "swsh5-149",
         "name": "Necrozma V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -16025,6 +16174,7 @@ let swsh5 = [
         "id": "swsh5-150",
         "name": "Single Strike Urshifu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -16135,6 +16285,7 @@ let swsh5 = [
         "id": "swsh5-151",
         "name": "Single Strike Urshifu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -16245,6 +16396,7 @@ let swsh5 = [
         "id": "swsh5-152",
         "name": "Rapid Strike Urshifu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -16355,6 +16507,7 @@ let swsh5 = [
         "id": "swsh5-153",
         "name": "Rapid Strike Urshifu V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -16465,6 +16618,7 @@ let swsh5 = [
         "id": "swsh5-154",
         "name": "Tyranitar V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -16579,6 +16733,7 @@ let swsh5 = [
         "id": "swsh5-155",
         "name": "Tyranitar V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V",
@@ -16693,6 +16848,7 @@ let swsh5 = [
         "id": "swsh5-156",
         "name": "Corviknight V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -16807,6 +16963,7 @@ let swsh5 = [
         "id": "swsh5-157",
         "name": "Stoutland V",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Basic",
             "V"
@@ -16920,6 +17077,7 @@ let swsh5 = [
         "id": "swsh5-158",
         "name": "Bruno",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -16991,6 +17149,7 @@ let swsh5 = [
         "id": "swsh5-159",
         "name": "Cheryl",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter"
         ],
@@ -17061,6 +17220,7 @@ let swsh5 = [
         "id": "swsh5-160",
         "name": "Korrina's Focus",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -17132,6 +17292,7 @@ let swsh5 = [
         "id": "swsh5-161",
         "name": "Phoebe",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter"
         ],
@@ -17202,6 +17363,7 @@ let swsh5 = [
         "id": "swsh5-162",
         "name": "Rapid Strike Style Mustard",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Rapid Strike"
@@ -17274,6 +17436,7 @@ let swsh5 = [
         "id": "swsh5-163",
         "name": "Single Strike Style Mustard",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -17346,6 +17509,7 @@ let swsh5 = [
         "id": "swsh5-168",
         "name": "Single Strike Urshifu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -17460,6 +17624,7 @@ let swsh5 = [
         "id": "swsh5-170",
         "name": "Rapid Strike Urshifu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -17570,6 +17735,7 @@ let swsh5 = [
         "id": "swsh5-164",
         "name": "Flapple VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX"
         ],
@@ -17671,6 +17837,7 @@ let swsh5 = [
         "id": "swsh5-165",
         "name": "Victini VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX"
         ],
@@ -17779,6 +17946,7 @@ let swsh5 = [
         "id": "swsh5-166",
         "name": "Tapu Koko VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX"
         ],
@@ -17878,6 +18046,7 @@ let swsh5 = [
         "id": "swsh5-167",
         "name": "Single Strike Urshifu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX",
             "Single Strike"
@@ -17992,6 +18161,7 @@ let swsh5 = [
         "id": "swsh5-169",
         "name": "Rapid Strike Urshifu VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX",
             "Rapid Strike"
@@ -18102,6 +18272,7 @@ let swsh5 = [
         "id": "swsh5-171",
         "name": "Corviknight VMAX",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "VMAX"
         ],
@@ -18210,6 +18381,7 @@ let swsh5 = [
         "id": "swsh5-172",
         "name": "Bruno",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -18281,6 +18453,7 @@ let swsh5 = [
         "id": "swsh5-173",
         "name": "Cheryl",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter"
         ],
@@ -18351,6 +18524,7 @@ let swsh5 = [
         "id": "swsh5-174",
         "name": "Korrina's Focus",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Rapid Strike"
@@ -18422,6 +18596,7 @@ let swsh5 = [
         "id": "swsh5-175",
         "name": "Phoebe",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter"
         ],
@@ -18492,6 +18667,7 @@ let swsh5 = [
         "id": "swsh5-176",
         "name": "Rapid Strike Style Mustard",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Rapid Strike"
@@ -18564,6 +18740,7 @@ let swsh5 = [
         "id": "swsh5-177",
         "name": "Single Strike Style Mustard",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Supporter",
             "Single Strike"
@@ -18636,6 +18813,7 @@ let swsh5 = [
         "id": "swsh5-178",
         "name": "Octillery",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1",
             "Rapid Strike"
@@ -18742,6 +18920,7 @@ let swsh5 = [
         "id": "swsh5-179",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "BST",
         "subtypes": [
             "Stage 1",
             "Single Strike"
@@ -18847,6 +19026,7 @@ let swsh5 = [
         "id": "swsh5-180",
         "name": "Exp. Share",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -18918,6 +19098,7 @@ let swsh5 = [
         "id": "swsh5-181",
         "name": "Level Ball",
         "supertype": "Trainer",
+        "setAbbrev": "BST",
         "subtypes": [
             "Item"
         ],
@@ -18988,6 +19169,7 @@ let swsh5 = [
         "id": "swsh5-182",
         "name": "Rapid Strike Energy",
         "supertype": "Energy",
+        "setAbbrev": "BST",
         "subtypes": [
             "Special",
             "Rapid Strike"
@@ -19058,6 +19240,7 @@ let swsh5 = [
         "id": "swsh5-183",
         "name": "Single Strike Energy",
         "supertype": "Energy",
+        "setAbbrev": "BST",
         "subtypes": [
             "Special",
             "Single Strike"

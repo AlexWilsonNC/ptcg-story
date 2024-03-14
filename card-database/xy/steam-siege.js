@@ -3,6 +3,7 @@ let xy11 = [
         "id": "xy11-1",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -74,6 +75,7 @@ let xy11 = [
         "id": "xy11-2",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -145,6 +147,7 @@ let xy11 = [
         "id": "xy11-3",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -204,6 +207,7 @@ let xy11 = [
         "id": "xy11-4",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -264,6 +268,7 @@ let xy11 = [
         "id": "xy11-5",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -330,6 +335,7 @@ let xy11 = [
         "id": "xy11-6",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -406,6 +412,7 @@ let xy11 = [
         "id": "xy11-7",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -477,6 +484,7 @@ let xy11 = [
         "id": "xy11-8",
         "name": "Yanmega BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -531,6 +539,7 @@ let xy11 = [
         "id": "xy11-9",
         "name": "Seedot",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -590,6 +599,7 @@ let xy11 = [
         "id": "xy11-10",
         "name": "Nuzleaf",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -660,6 +670,7 @@ let xy11 = [
         "id": "xy11-11",
         "name": "Shiftry",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -728,6 +739,7 @@ let xy11 = [
         "id": "xy11-12",
         "name": "Foongus",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -794,6 +806,7 @@ let xy11 = [
         "id": "xy11-13",
         "name": "Amoonguss",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -861,6 +874,7 @@ let xy11 = [
         "id": "xy11-14",
         "name": "Larvesta",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -921,6 +935,7 @@ let xy11 = [
         "id": "xy11-15",
         "name": "Volcarona",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -990,6 +1005,7 @@ let xy11 = [
         "id": "xy11-16",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1058,6 +1074,7 @@ let xy11 = [
         "id": "xy11-17",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1125,6 +1142,7 @@ let xy11 = [
         "id": "xy11-18",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1194,6 +1212,7 @@ let xy11 = [
         "id": "xy11-19",
         "name": "Monferno",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1264,6 +1283,7 @@ let xy11 = [
         "id": "xy11-20",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -1332,6 +1352,7 @@ let xy11 = [
         "id": "xy11-21",
         "name": "Talonflame BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -1385,6 +1406,7 @@ let xy11 = [
         "id": "xy11-22",
         "name": "Litleo",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1445,6 +1467,7 @@ let xy11 = [
         "id": "xy11-23",
         "name": "Pyroar",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1514,6 +1537,7 @@ let xy11 = [
         "id": "xy11-24",
         "name": "Pyroar BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -1568,6 +1592,7 @@ let xy11 = [
         "id": "xy11-25",
         "name": "Volcanion",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1635,6 +1660,7 @@ let xy11 = [
         "id": "xy11-26",
         "name": "Volcanion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -1704,6 +1730,7 @@ let xy11 = [
         "id": "xy11-27",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1777,6 +1804,7 @@ let xy11 = [
         "id": "xy11-28",
         "name": "Shellos",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1836,6 +1864,7 @@ let xy11 = [
         "id": "xy11-29",
         "name": "Gastrodon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -1904,6 +1933,7 @@ let xy11 = [
         "id": "xy11-30",
         "name": "Oshawott",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -1964,6 +1994,7 @@ let xy11 = [
         "id": "xy11-31",
         "name": "Dewott",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2025,6 +2056,7 @@ let xy11 = [
         "id": "xy11-32",
         "name": "Samurott",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2094,6 +2126,7 @@ let xy11 = [
         "id": "xy11-33",
         "name": "Clauncher",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -2153,6 +2186,7 @@ let xy11 = [
         "id": "xy11-34",
         "name": "Clawitzer",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2219,6 +2253,7 @@ let xy11 = [
         "id": "xy11-35",
         "name": "Clawitzer BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -2271,6 +2306,7 @@ let xy11 = [
         "id": "xy11-36",
         "name": "Bergmite",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -2340,6 +2376,7 @@ let xy11 = [
         "id": "xy11-37",
         "name": "Avalugg",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2409,6 +2446,7 @@ let xy11 = [
         "id": "xy11-38",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -2484,6 +2522,7 @@ let xy11 = [
         "id": "xy11-39",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2561,6 +2600,7 @@ let xy11 = [
         "id": "xy11-40",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2633,6 +2673,7 @@ let xy11 = [
         "id": "xy11-41",
         "name": "Joltik",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -2697,6 +2738,7 @@ let xy11 = [
         "id": "xy11-42",
         "name": "Galvantula",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2770,6 +2812,7 @@ let xy11 = [
         "id": "xy11-43",
         "name": "Nidoran ♂",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -2839,6 +2882,7 @@ let xy11 = [
         "id": "xy11-44",
         "name": "Nidorino",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -2911,6 +2955,7 @@ let xy11 = [
         "id": "xy11-45",
         "name": "Nidoking",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -2977,6 +3022,7 @@ let xy11 = [
         "id": "xy11-46",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3042,6 +3088,7 @@ let xy11 = [
         "id": "xy11-47",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3116,6 +3163,7 @@ let xy11 = [
         "id": "xy11-48",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3181,6 +3229,7 @@ let xy11 = [
         "id": "xy11-49",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3257,6 +3306,7 @@ let xy11 = [
         "id": "xy11-50",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -3328,6 +3378,7 @@ let xy11 = [
         "id": "xy11-51",
         "name": "Hoopa",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3395,6 +3446,7 @@ let xy11 = [
         "id": "xy11-52",
         "name": "Mankey",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3463,6 +3515,7 @@ let xy11 = [
         "id": "xy11-53",
         "name": "Primeape",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3530,6 +3583,7 @@ let xy11 = [
         "id": "xy11-54",
         "name": "Nosepass",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3600,6 +3654,7 @@ let xy11 = [
         "id": "xy11-55",
         "name": "Probopass",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3668,6 +3723,7 @@ let xy11 = [
         "id": "xy11-56",
         "name": "Anorith",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Restored"
         ],
@@ -3738,6 +3794,7 @@ let xy11 = [
         "id": "xy11-57",
         "name": "Armaldo",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3806,6 +3863,7 @@ let xy11 = [
         "id": "xy11-58",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3865,6 +3923,7 @@ let xy11 = [
         "id": "xy11-59",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -3930,6 +3989,7 @@ let xy11 = [
         "id": "xy11-60",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -3995,6 +4055,7 @@ let xy11 = [
         "id": "xy11-61",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4066,6 +4127,7 @@ let xy11 = [
         "id": "xy11-62",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -4126,6 +4188,7 @@ let xy11 = [
         "id": "xy11-63",
         "name": "Pawniard",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -4191,6 +4254,7 @@ let xy11 = [
         "id": "xy11-64",
         "name": "Bisharp",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4265,6 +4329,7 @@ let xy11 = [
         "id": "xy11-65",
         "name": "Yveltal",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -4338,6 +4403,7 @@ let xy11 = [
         "id": "xy11-66",
         "name": "Yveltal BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -4392,6 +4458,7 @@ let xy11 = [
         "id": "xy11-67",
         "name": "Steelix-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -4476,6 +4543,7 @@ let xy11 = [
         "id": "xy11-68",
         "name": "M Steelix-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -4548,6 +4616,7 @@ let xy11 = [
         "id": "xy11-69",
         "name": "Shieldon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Restored"
         ],
@@ -4629,6 +4698,7 @@ let xy11 = [
         "id": "xy11-70",
         "name": "Bastiodon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4705,6 +4775,7 @@ let xy11 = [
         "id": "xy11-71",
         "name": "Klink",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -4770,6 +4841,7 @@ let xy11 = [
         "id": "xy11-72",
         "name": "Klang",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -4848,6 +4920,7 @@ let xy11 = [
         "id": "xy11-73",
         "name": "Klinklang",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -4920,6 +4993,7 @@ let xy11 = [
         "id": "xy11-74",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -4992,6 +5066,7 @@ let xy11 = [
         "id": "xy11-75",
         "name": "Magearna-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -5066,6 +5141,7 @@ let xy11 = [
         "id": "xy11-76",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -5131,6 +5207,7 @@ let xy11 = [
         "id": "xy11-77",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5207,6 +5284,7 @@ let xy11 = [
         "id": "xy11-78",
         "name": "Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -5287,6 +5365,7 @@ let xy11 = [
         "id": "xy11-79",
         "name": "M Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -5356,6 +5435,7 @@ let xy11 = [
         "id": "xy11-80",
         "name": "Klefki",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -5426,6 +5506,7 @@ let xy11 = [
         "id": "xy11-81",
         "name": "Xerneas",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -5499,6 +5580,7 @@ let xy11 = [
         "id": "xy11-82",
         "name": "Xerneas BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -5552,6 +5634,7 @@ let xy11 = [
         "id": "xy11-83",
         "name": "Druddigon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -5620,6 +5703,7 @@ let xy11 = [
         "id": "xy11-84",
         "name": "Deino",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -5689,6 +5773,7 @@ let xy11 = [
         "id": "xy11-85",
         "name": "Zweilous",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -5760,6 +5845,7 @@ let xy11 = [
         "id": "xy11-86",
         "name": "Hydreigon",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -5829,6 +5915,7 @@ let xy11 = [
         "id": "xy11-87",
         "name": "Hydreigon BREAK",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "BREAK"
         ],
@@ -5884,6 +5971,7 @@ let xy11 = [
         "id": "xy11-88",
         "name": "Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -5953,6 +6041,7 @@ let xy11 = [
         "id": "xy11-89",
         "name": "Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6020,6 +6109,7 @@ let xy11 = [
         "id": "xy11-90",
         "name": "Aipom",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -6089,6 +6179,7 @@ let xy11 = [
         "id": "xy11-91",
         "name": "Ambipom",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6157,6 +6248,7 @@ let xy11 = [
         "id": "xy11-92",
         "name": "Rufflet",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -6222,6 +6314,7 @@ let xy11 = [
         "id": "xy11-93",
         "name": "Braviary",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6297,6 +6390,7 @@ let xy11 = [
         "id": "xy11-94",
         "name": "Fletchling",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -6362,6 +6456,7 @@ let xy11 = [
         "id": "xy11-95",
         "name": "Fletchinder",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 1"
         ],
@@ -6428,6 +6523,7 @@ let xy11 = [
         "id": "xy11-96",
         "name": "Talonflame",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Stage 2"
         ],
@@ -6497,6 +6593,7 @@ let xy11 = [
         "id": "xy11-97",
         "name": "Hawlucha",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic"
         ],
@@ -6567,6 +6664,7 @@ let xy11 = [
         "id": "xy11-98",
         "name": "Armor Fossil Shieldon",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Item"
         ],
@@ -6601,6 +6699,7 @@ let xy11 = [
         "id": "xy11-99",
         "name": "Captivating Poké Puff",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Item"
         ],
@@ -6635,6 +6734,7 @@ let xy11 = [
         "id": "xy11-100",
         "name": "Claw Fossil Anorith",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Item"
         ],
@@ -6669,6 +6769,7 @@ let xy11 = [
         "id": "xy11-101",
         "name": "Gardevoir Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6704,6 +6805,7 @@ let xy11 = [
         "id": "xy11-102",
         "name": "Greedy Dice",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Item"
         ],
@@ -6739,6 +6841,7 @@ let xy11 = [
         "id": "xy11-103",
         "name": "Ninja Boy",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Supporter"
         ],
@@ -6773,6 +6876,7 @@ let xy11 = [
         "id": "xy11-104",
         "name": "Pokémon Ranger",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Supporter"
         ],
@@ -6807,6 +6911,7 @@ let xy11 = [
         "id": "xy11-105",
         "name": "Special Charge",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Item"
         ],
@@ -6841,6 +6946,7 @@ let xy11 = [
         "id": "xy11-106",
         "name": "Steelix Spirit Link",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6876,6 +6982,7 @@ let xy11 = [
         "id": "xy11-107",
         "name": "Volcanion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -6945,6 +7052,7 @@ let xy11 = [
         "id": "xy11-108",
         "name": "Steelix-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -7029,6 +7137,7 @@ let xy11 = [
         "id": "xy11-109",
         "name": "M Steelix-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -7101,6 +7210,7 @@ let xy11 = [
         "id": "xy11-110",
         "name": "Magearna-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -7175,6 +7285,7 @@ let xy11 = [
         "id": "xy11-111",
         "name": "Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -7255,6 +7366,7 @@ let xy11 = [
         "id": "xy11-112",
         "name": "M Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "MEGA",
             "EX"
@@ -7324,6 +7436,7 @@ let xy11 = [
         "id": "xy11-113",
         "name": "Pokémon Ranger",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Supporter"
         ],
@@ -7358,6 +7471,7 @@ let xy11 = [
         "id": "xy11-114",
         "name": "Professor Sycamore",
         "supertype": "Trainer",
+        "setAbbrev": "STS",
         "subtypes": [
             "Supporter"
         ],
@@ -7392,6 +7506,7 @@ let xy11 = [
         "id": "xy11-115",
         "name": "Volcanion-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"
@@ -7461,6 +7576,7 @@ let xy11 = [
         "id": "xy11-116",
         "name": "Gardevoir-EX",
         "supertype": "Pokémon",
+        "setAbbrev": "STS",
         "subtypes": [
             "Basic",
             "EX"

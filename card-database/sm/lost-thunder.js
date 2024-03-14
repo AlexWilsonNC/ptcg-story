@@ -3,6 +3,7 @@ let sm8 = [
         "id": "sm8-1",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -74,6 +75,7 @@ let sm8 = [
         "id": "sm8-2",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -145,6 +147,7 @@ let sm8 = [
         "id": "sm8-3",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -205,6 +208,7 @@ let sm8 = [
         "id": "sm8-4",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -272,6 +276,7 @@ let sm8 = [
         "id": "sm8-5",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -341,6 +346,7 @@ let sm8 = [
         "id": "sm8-6",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -400,6 +406,7 @@ let sm8 = [
         "id": "sm8-7",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -471,6 +478,7 @@ let sm8 = [
         "id": "sm8-8",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -538,6 +546,7 @@ let sm8 = [
         "id": "sm8-9",
         "name": "Spinarak",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -606,6 +615,7 @@ let sm8 = [
         "id": "sm8-10",
         "name": "Ariados",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -675,6 +685,7 @@ let sm8 = [
         "id": "sm8-11",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -740,6 +751,7 @@ let sm8 = [
         "id": "sm8-12",
         "name": "Hoppip",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -805,6 +817,7 @@ let sm8 = [
         "id": "sm8-13",
         "name": "Skiploom",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -877,6 +890,7 @@ let sm8 = [
         "id": "sm8-14",
         "name": "Jumpluff",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -939,6 +953,7 @@ let sm8 = [
         "id": "sm8-15",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -998,6 +1013,7 @@ let sm8 = [
         "id": "sm8-16",
         "name": "Shuckle",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1061,6 +1077,7 @@ let sm8 = [
         "id": "sm8-17",
         "name": "Shuckle-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -1136,6 +1153,7 @@ let sm8 = [
         "id": "sm8-18",
         "name": "Heracross",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1202,6 +1220,7 @@ let sm8 = [
         "id": "sm8-19",
         "name": "Celebi ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -1271,6 +1290,7 @@ let sm8 = [
         "id": "sm8-20",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1330,6 +1350,7 @@ let sm8 = [
         "id": "sm8-21",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1398,6 +1419,7 @@ let sm8 = [
         "id": "sm8-22",
         "name": "Sceptile-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -1477,6 +1499,7 @@ let sm8 = [
         "id": "sm8-23",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1537,6 +1560,7 @@ let sm8 = [
         "id": "sm8-24",
         "name": "Wurmple",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1597,6 +1621,7 @@ let sm8 = [
         "id": "sm8-25",
         "name": "Silcoon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1666,6 +1691,7 @@ let sm8 = [
         "id": "sm8-26",
         "name": "Beautifly",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -1732,6 +1758,7 @@ let sm8 = [
         "id": "sm8-27",
         "name": "Cascoon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1802,6 +1829,7 @@ let sm8 = [
         "id": "sm8-28",
         "name": "Dustox",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -1867,6 +1895,7 @@ let sm8 = [
         "id": "sm8-29",
         "name": "Nincada",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -1926,6 +1955,7 @@ let sm8 = [
         "id": "sm8-30",
         "name": "Ninjask",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -1992,6 +2022,7 @@ let sm8 = [
         "id": "sm8-31",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2051,6 +2082,7 @@ let sm8 = [
         "id": "sm8-32",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2108,6 +2140,7 @@ let sm8 = [
         "id": "sm8-33",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2172,6 +2205,7 @@ let sm8 = [
         "id": "sm8-34",
         "name": "Virizion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -2250,6 +2284,7 @@ let sm8 = [
         "id": "sm8-35",
         "name": "Skiddo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2319,6 +2354,7 @@ let sm8 = [
         "id": "sm8-36",
         "name": "Gogoat",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2388,6 +2424,7 @@ let sm8 = [
         "id": "sm8-37",
         "name": "Tapu Bulu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2456,6 +2493,7 @@ let sm8 = [
         "id": "sm8-38",
         "name": "Moltres",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2523,6 +2561,7 @@ let sm8 = [
         "id": "sm8-39",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2582,6 +2621,7 @@ let sm8 = [
         "id": "sm8-40",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2642,6 +2682,7 @@ let sm8 = [
         "id": "sm8-41",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -2714,6 +2755,7 @@ let sm8 = [
         "id": "sm8-42",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -2781,6 +2823,7 @@ let sm8 = [
         "id": "sm8-43",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2852,6 +2895,7 @@ let sm8 = [
         "id": "sm8-44",
         "name": "Magcargo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2930,6 +2974,7 @@ let sm8 = [
         "id": "sm8-45",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -2998,6 +3043,7 @@ let sm8 = [
         "id": "sm8-46",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3065,6 +3111,7 @@ let sm8 = [
         "id": "sm8-47",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3133,6 +3180,7 @@ let sm8 = [
         "id": "sm8-48",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3203,6 +3251,7 @@ let sm8 = [
         "id": "sm8-49",
         "name": "Victini",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3260,6 +3309,7 @@ let sm8 = [
         "id": "sm8-50",
         "name": "Litleo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3327,6 +3377,7 @@ let sm8 = [
         "id": "sm8-51",
         "name": "Pyroar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3396,6 +3447,7 @@ let sm8 = [
         "id": "sm8-52",
         "name": "Blacephalon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX",
@@ -3475,6 +3527,7 @@ let sm8 = [
         "id": "sm8-53",
         "name": "Alolan Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3542,6 +3595,7 @@ let sm8 = [
         "id": "sm8-54",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3602,6 +3656,7 @@ let sm8 = [
         "id": "sm8-55",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -3670,6 +3725,7 @@ let sm8 = [
         "id": "sm8-56",
         "name": "Lapras",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3734,6 +3790,7 @@ let sm8 = [
         "id": "sm8-57",
         "name": "Delibird",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3800,6 +3857,7 @@ let sm8 = [
         "id": "sm8-58",
         "name": "Mantine",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3871,6 +3929,7 @@ let sm8 = [
         "id": "sm8-59",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -3936,6 +3995,7 @@ let sm8 = [
         "id": "sm8-60",
         "name": "Suicune-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -4015,6 +4075,7 @@ let sm8 = [
         "id": "sm8-61",
         "name": "Cubchoo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4084,6 +4145,7 @@ let sm8 = [
         "id": "sm8-62",
         "name": "Beartic",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4155,6 +4217,7 @@ let sm8 = [
         "id": "sm8-63",
         "name": "White Kyurem",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4223,6 +4286,7 @@ let sm8 = [
         "id": "sm8-64",
         "name": "Popplio",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4283,6 +4347,7 @@ let sm8 = [
         "id": "sm8-65",
         "name": "Popplio",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4342,6 +4407,7 @@ let sm8 = [
         "id": "sm8-66",
         "name": "Brionne",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4411,6 +4477,7 @@ let sm8 = [
         "id": "sm8-67",
         "name": "Primarina",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -4477,6 +4544,7 @@ let sm8 = [
         "id": "sm8-68",
         "name": "Mareanie",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4536,6 +4604,7 @@ let sm8 = [
         "id": "sm8-69",
         "name": "Toxapex",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4603,6 +4672,7 @@ let sm8 = [
         "id": "sm8-70",
         "name": "Bruxish",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4669,6 +4739,7 @@ let sm8 = [
         "id": "sm8-71",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4735,6 +4806,7 @@ let sm8 = [
         "id": "sm8-72",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4810,6 +4882,7 @@ let sm8 = [
         "id": "sm8-73",
         "name": "Chinchou",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -4885,6 +4958,7 @@ let sm8 = [
         "id": "sm8-74",
         "name": "Lanturn",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -4958,6 +5032,7 @@ let sm8 = [
         "id": "sm8-75",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5031,6 +5106,7 @@ let sm8 = [
         "id": "sm8-76",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5096,6 +5172,7 @@ let sm8 = [
         "id": "sm8-77",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5163,6 +5240,7 @@ let sm8 = [
         "id": "sm8-78",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -5234,6 +5312,7 @@ let sm8 = [
         "id": "sm8-79",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5297,6 +5376,7 @@ let sm8 = [
         "id": "sm8-80",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5359,6 +5439,7 @@ let sm8 = [
         "id": "sm8-81",
         "name": "Blitzle",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5434,6 +5515,7 @@ let sm8 = [
         "id": "sm8-82",
         "name": "Zebstrika",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5505,6 +5587,7 @@ let sm8 = [
         "id": "sm8-83",
         "name": "Stunfisk",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5576,6 +5659,7 @@ let sm8 = [
         "id": "sm8-84",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5647,6 +5731,7 @@ let sm8 = [
         "id": "sm8-85",
         "name": "Tapu Koko",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5721,6 +5806,7 @@ let sm8 = [
         "id": "sm8-86",
         "name": "Zeraora-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -5804,6 +5890,7 @@ let sm8 = [
         "id": "sm8-87",
         "name": "Natu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -5864,6 +5951,7 @@ let sm8 = [
         "id": "sm8-88",
         "name": "Xatu",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5933,6 +6021,7 @@ let sm8 = [
         "id": "sm8-89",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -5999,6 +6088,7 @@ let sm8 = [
         "id": "sm8-90",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6065,6 +6155,7 @@ let sm8 = [
         "id": "sm8-91",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6131,6 +6222,7 @@ let sm8 = [
         "id": "sm8-92",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6194,6 +6286,7 @@ let sm8 = [
         "id": "sm8-93",
         "name": "Wobbuffet",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6258,6 +6351,7 @@ let sm8 = [
         "id": "sm8-94",
         "name": "Girafarig",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6325,6 +6419,7 @@ let sm8 = [
         "id": "sm8-95",
         "name": "Shedinja",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -6383,6 +6478,7 @@ let sm8 = [
         "id": "sm8-96",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6442,6 +6538,7 @@ let sm8 = [
         "id": "sm8-97",
         "name": "Giratina",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6513,6 +6610,7 @@ let sm8 = [
         "id": "sm8-98",
         "name": "Sigilyph-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -6598,6 +6696,7 @@ let sm8 = [
         "id": "sm8-99",
         "name": "Yamask",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6663,6 +6762,7 @@ let sm8 = [
         "id": "sm8-100",
         "name": "Cofagrigus",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -6727,6 +6827,7 @@ let sm8 = [
         "id": "sm8-101",
         "name": "Litwick",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6792,6 +6893,7 @@ let sm8 = [
         "id": "sm8-102",
         "name": "Lampent",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -6858,6 +6960,7 @@ let sm8 = [
         "id": "sm8-103",
         "name": "Chandelure",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -6931,6 +7034,7 @@ let sm8 = [
         "id": "sm8-104",
         "name": "Meloetta",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -6998,6 +7102,7 @@ let sm8 = [
         "id": "sm8-105",
         "name": "Mareanie",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7067,6 +7172,7 @@ let sm8 = [
         "id": "sm8-106",
         "name": "Nihilego",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -7133,6 +7239,7 @@ let sm8 = [
         "id": "sm8-107",
         "name": "Poipole",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "Ultra Beast"
@@ -7203,6 +7310,7 @@ let sm8 = [
         "id": "sm8-108",
         "name": "Naganadel",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "Ultra Beast"
@@ -7270,6 +7378,7 @@ let sm8 = [
         "id": "sm8-109",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7332,6 +7441,7 @@ let sm8 = [
         "id": "sm8-110",
         "name": "Sudowoodo",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7388,6 +7498,7 @@ let sm8 = [
         "id": "sm8-111",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7448,6 +7559,7 @@ let sm8 = [
         "id": "sm8-112",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -7514,6 +7626,7 @@ let sm8 = [
         "id": "sm8-113",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7581,6 +7694,7 @@ let sm8 = [
         "id": "sm8-114",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7647,6 +7761,7 @@ let sm8 = [
         "id": "sm8-115",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7707,6 +7822,7 @@ let sm8 = [
         "id": "sm8-116",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -7776,6 +7892,7 @@ let sm8 = [
         "id": "sm8-117",
         "name": "Carbink",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7843,6 +7960,7 @@ let sm8 = [
         "id": "sm8-118",
         "name": "Alolan Meowth",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -7906,6 +8024,7 @@ let sm8 = [
         "id": "sm8-119",
         "name": "Alolan Persian",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -7967,6 +8086,7 @@ let sm8 = [
         "id": "sm8-120",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8040,6 +8160,7 @@ let sm8 = [
         "id": "sm8-121",
         "name": "Tyranitar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -8126,6 +8247,7 @@ let sm8 = [
         "id": "sm8-122",
         "name": "Alolan Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8189,6 +8311,7 @@ let sm8 = [
         "id": "sm8-123",
         "name": "Alolan Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8250,6 +8373,7 @@ let sm8 = [
         "id": "sm8-124",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8324,6 +8448,7 @@ let sm8 = [
         "id": "sm8-125",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8401,6 +8526,7 @@ let sm8 = [
         "id": "sm8-126",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -8472,6 +8598,7 @@ let sm8 = [
         "id": "sm8-127",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8548,6 +8675,7 @@ let sm8 = [
         "id": "sm8-128",
         "name": "Durant",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8620,6 +8748,7 @@ let sm8 = [
         "id": "sm8-129",
         "name": "Cobalion",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8694,6 +8823,7 @@ let sm8 = [
         "id": "sm8-130",
         "name": "Genesect-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -8779,6 +8909,7 @@ let sm8 = [
         "id": "sm8-131",
         "name": "Magearna",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -8851,6 +8982,7 @@ let sm8 = [
         "id": "sm8-132",
         "name": "Alolan Ninetales-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8935,6 +9067,7 @@ let sm8 = [
         "id": "sm8-133",
         "name": "Jigglypuff",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9010,6 +9143,7 @@ let sm8 = [
         "id": "sm8-134",
         "name": "Wigglytuff",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9085,6 +9219,7 @@ let sm8 = [
         "id": "sm8-135",
         "name": "Marill",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9151,6 +9286,7 @@ let sm8 = [
         "id": "sm8-136",
         "name": "Azumarill",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9225,6 +9361,7 @@ let sm8 = [
         "id": "sm8-137",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9290,6 +9427,7 @@ let sm8 = [
         "id": "sm8-138",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9364,6 +9502,7 @@ let sm8 = [
         "id": "sm8-139",
         "name": "Ralts",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9439,6 +9578,7 @@ let sm8 = [
         "id": "sm8-140",
         "name": "Kirlia",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9518,6 +9658,7 @@ let sm8 = [
         "id": "sm8-141",
         "name": "Gardevoir",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -9592,6 +9733,7 @@ let sm8 = [
         "id": "sm8-142",
         "name": "Dedenne",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9654,6 +9796,7 @@ let sm8 = [
         "id": "sm8-143",
         "name": "Carbink",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9728,6 +9871,7 @@ let sm8 = [
         "id": "sm8-144",
         "name": "Xerneas ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -9803,6 +9947,7 @@ let sm8 = [
         "id": "sm8-145",
         "name": "Cutiefly",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -9867,6 +10012,7 @@ let sm8 = [
         "id": "sm8-146",
         "name": "Ribombee",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -9936,6 +10082,7 @@ let sm8 = [
         "id": "sm8-147",
         "name": "Morelull",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10001,6 +10148,7 @@ let sm8 = [
         "id": "sm8-148",
         "name": "Shiinotic",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -10072,6 +10220,7 @@ let sm8 = [
         "id": "sm8-149",
         "name": "Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -10144,6 +10293,7 @@ let sm8 = [
         "id": "sm8-150",
         "name": "Tapu Lele",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10215,6 +10365,7 @@ let sm8 = [
         "id": "sm8-151",
         "name": "Tapu Fini",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10289,6 +10440,7 @@ let sm8 = [
         "id": "sm8-152",
         "name": "Chansey",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10359,6 +10511,7 @@ let sm8 = [
         "id": "sm8-153",
         "name": "Blissey",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -10425,6 +10578,7 @@ let sm8 = [
         "id": "sm8-154",
         "name": "Ditto ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -10481,6 +10635,7 @@ let sm8 = [
         "id": "sm8-155",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10547,6 +10702,7 @@ let sm8 = [
         "id": "sm8-156",
         "name": "Stantler",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10613,6 +10769,7 @@ let sm8 = [
         "id": "sm8-157",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10678,6 +10835,7 @@ let sm8 = [
         "id": "sm8-158",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10736,6 +10894,7 @@ let sm8 = [
         "id": "sm8-159",
         "name": "Lugia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -10826,6 +10985,7 @@ let sm8 = [
         "id": "sm8-160",
         "name": "Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10890,6 +11050,7 @@ let sm8 = [
         "id": "sm8-161",
         "name": "Kecleon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -10953,6 +11114,7 @@ let sm8 = [
         "id": "sm8-162",
         "name": "Kecleon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11017,6 +11179,7 @@ let sm8 = [
         "id": "sm8-163",
         "name": "Pikipek",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11082,6 +11245,7 @@ let sm8 = [
         "id": "sm8-164",
         "name": "Pikipek",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic"
         ],
@@ -11157,6 +11321,7 @@ let sm8 = [
         "id": "sm8-165",
         "name": "Trumbeak",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1"
         ],
@@ -11231,6 +11396,7 @@ let sm8 = [
         "id": "sm8-166",
         "name": "Toucannon",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2"
         ],
@@ -11305,6 +11471,7 @@ let sm8 = [
         "id": "sm8-167",
         "name": "Adventure Bag",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -11339,6 +11506,7 @@ let sm8 = [
         "id": "sm8-168",
         "name": "Aether Foundation Employee",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -11373,6 +11541,7 @@ let sm8 = [
         "id": "sm8-169",
         "name": "Choice Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11408,6 +11577,7 @@ let sm8 = [
         "id": "sm8-170",
         "name": "Counter Gain",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11443,6 +11613,7 @@ let sm8 = [
         "id": "sm8-171",
         "name": "Custom Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -11477,6 +11648,7 @@ let sm8 = [
         "id": "sm8-172",
         "name": "Electropower",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -11511,6 +11683,7 @@ let sm8 = [
         "id": "sm8-172a",
         "name": "Electropower",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -11545,6 +11718,7 @@ let sm8 = [
         "id": "sm8-173",
         "name": "Faba",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -11579,6 +11753,7 @@ let sm8 = [
         "id": "sm8-174",
         "name": "Fairy Charm Grass",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11614,6 +11789,7 @@ let sm8 = [
         "id": "sm8-175",
         "name": "Fairy Charm Psychic",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11649,6 +11825,7 @@ let sm8 = [
         "id": "sm8-176",
         "name": "Fairy Charm Fighting",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11684,6 +11861,7 @@ let sm8 = [
         "id": "sm8-177",
         "name": "Fairy Charm Dragon",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -11719,6 +11897,7 @@ let sm8 = [
         "id": "sm8-178",
         "name": "Heat Factory ◇",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stadium",
             "Prism Star"
@@ -11756,6 +11935,7 @@ let sm8 = [
         "id": "sm8-179",
         "name": "Kahili",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -11790,6 +11970,7 @@ let sm8 = [
         "id": "sm8-180",
         "name": "Life Forest ◇",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stadium",
             "Prism Star"
@@ -11827,6 +12008,7 @@ let sm8 = [
         "id": "sm8-181",
         "name": "Lost Blender",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -11861,6 +12043,7 @@ let sm8 = [
         "id": "sm8-182",
         "name": "Lusamine ◇",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter",
             "Prism Star"
@@ -11898,6 +12081,7 @@ let sm8 = [
         "id": "sm8-183",
         "name": "Mina",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -11932,6 +12116,7 @@ let sm8 = [
         "id": "sm8-184",
         "name": "Mixed Herbs",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -11966,6 +12151,7 @@ let sm8 = [
         "id": "sm8-185",
         "name": "Moomoo Milk",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -12000,6 +12186,7 @@ let sm8 = [
         "id": "sm8-186",
         "name": "Morty",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -12035,6 +12222,7 @@ let sm8 = [
         "id": "sm8-187",
         "name": "Net Ball",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -12069,6 +12257,7 @@ let sm8 = [
         "id": "sm8-187a",
         "name": "Net Ball",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -12103,6 +12292,7 @@ let sm8 = [
         "id": "sm8-188",
         "name": "Professor Elm's Lecture",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -12137,6 +12327,7 @@ let sm8 = [
         "id": "sm8-189",
         "name": "Sightseer",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -12171,6 +12362,7 @@ let sm8 = [
         "id": "sm8-189a",
         "name": "Sightseer",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -12205,6 +12397,7 @@ let sm8 = [
         "id": "sm8-190",
         "name": "Spell Tag",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -12240,6 +12433,7 @@ let sm8 = [
         "id": "sm8-191",
         "name": "Thunder Mountain ◇",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stadium",
             "Prism Star"
@@ -12277,6 +12471,7 @@ let sm8 = [
         "id": "sm8-192",
         "name": "Wait and See Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -12312,6 +12507,7 @@ let sm8 = [
         "id": "sm8-193",
         "name": "Whitney",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -12346,6 +12542,7 @@ let sm8 = [
         "id": "sm8-194",
         "name": "Memory Energy",
         "supertype": "Energy",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Special"
         ],
@@ -12379,6 +12576,7 @@ let sm8 = [
         "id": "sm8-195",
         "name": "Shuckle-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -12454,6 +12652,7 @@ let sm8 = [
         "id": "sm8-196",
         "name": "Sceptile-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -12533,6 +12732,7 @@ let sm8 = [
         "id": "sm8-197",
         "name": "Virizion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -12611,6 +12811,7 @@ let sm8 = [
         "id": "sm8-198",
         "name": "Magcargo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -12689,6 +12890,7 @@ let sm8 = [
         "id": "sm8-199",
         "name": "Blacephalon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX",
@@ -12768,6 +12970,7 @@ let sm8 = [
         "id": "sm8-200",
         "name": "Suicune-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -12847,6 +13050,7 @@ let sm8 = [
         "id": "sm8-201",
         "name": "Zeraora-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -12930,6 +13134,7 @@ let sm8 = [
         "id": "sm8-202",
         "name": "Sigilyph-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -13015,6 +13220,7 @@ let sm8 = [
         "id": "sm8-203",
         "name": "Tyranitar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -13101,6 +13307,7 @@ let sm8 = [
         "id": "sm8-204",
         "name": "Genesect-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -13186,6 +13393,7 @@ let sm8 = [
         "id": "sm8-205",
         "name": "Alolan Ninetales-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13270,6 +13478,7 @@ let sm8 = [
         "id": "sm8-206",
         "name": "Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -13342,6 +13551,7 @@ let sm8 = [
         "id": "sm8-207",
         "name": "Lugia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -13432,6 +13642,7 @@ let sm8 = [
         "id": "sm8-208",
         "name": "Faba",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13466,6 +13677,7 @@ let sm8 = [
         "id": "sm8-209",
         "name": "Judge",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13500,6 +13712,7 @@ let sm8 = [
         "id": "sm8-210",
         "name": "Kahili",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13534,6 +13747,7 @@ let sm8 = [
         "id": "sm8-211",
         "name": "Mina",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13568,6 +13782,7 @@ let sm8 = [
         "id": "sm8-212",
         "name": "Morty",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13603,6 +13818,7 @@ let sm8 = [
         "id": "sm8-213",
         "name": "Professor Elm's Lecture",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13637,6 +13853,7 @@ let sm8 = [
         "id": "sm8-214",
         "name": "Whitney",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Supporter"
         ],
@@ -13671,6 +13888,7 @@ let sm8 = [
         "id": "sm8-215",
         "name": "Shuckle-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -13746,6 +13964,7 @@ let sm8 = [
         "id": "sm8-216",
         "name": "Sceptile-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -13825,6 +14044,7 @@ let sm8 = [
         "id": "sm8-217",
         "name": "Virizion-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -13903,6 +14123,7 @@ let sm8 = [
         "id": "sm8-218",
         "name": "Magcargo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -13981,6 +14202,7 @@ let sm8 = [
         "id": "sm8-219",
         "name": "Blacephalon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX",
@@ -14060,6 +14282,7 @@ let sm8 = [
         "id": "sm8-220",
         "name": "Suicune-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14139,6 +14362,7 @@ let sm8 = [
         "id": "sm8-221",
         "name": "Zeraora-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14222,6 +14446,7 @@ let sm8 = [
         "id": "sm8-222",
         "name": "Sigilyph-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14307,6 +14532,7 @@ let sm8 = [
         "id": "sm8-223",
         "name": "Tyranitar-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -14393,6 +14619,7 @@ let sm8 = [
         "id": "sm8-224",
         "name": "Genesect-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14478,6 +14705,7 @@ let sm8 = [
         "id": "sm8-225",
         "name": "Alolan Ninetales-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -14562,6 +14790,7 @@ let sm8 = [
         "id": "sm8-226",
         "name": "Mimikyu-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14634,6 +14863,7 @@ let sm8 = [
         "id": "sm8-227",
         "name": "Lugia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Basic",
             "GX"
@@ -14724,6 +14954,7 @@ let sm8 = [
         "id": "sm8-228",
         "name": "Adventure Bag",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -14758,6 +14989,7 @@ let sm8 = [
         "id": "sm8-229",
         "name": "Choice Helmet",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -14793,6 +15025,7 @@ let sm8 = [
         "id": "sm8-230",
         "name": "Counter Gain",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -14828,6 +15061,7 @@ let sm8 = [
         "id": "sm8-231",
         "name": "Custom Catcher",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -14862,6 +15096,7 @@ let sm8 = [
         "id": "sm8-232",
         "name": "Electropower",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -14896,6 +15131,7 @@ let sm8 = [
         "id": "sm8-233",
         "name": "Lost Blender",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -14930,6 +15166,7 @@ let sm8 = [
         "id": "sm8-234",
         "name": "Net Ball",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],
@@ -14964,6 +15201,7 @@ let sm8 = [
         "id": "sm8-235",
         "name": "Spell Tag",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -14999,6 +15237,7 @@ let sm8 = [
         "id": "sm8-236",
         "name": "Wait and See Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "LOT",
         "subtypes": [
             "Item"
         ],

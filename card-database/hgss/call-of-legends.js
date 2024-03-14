@@ -3,6 +3,7 @@ let col1 = [
         "id": "col1-1",
         "name": "Clefable",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -71,6 +72,7 @@ let col1 = [
         "id": "col1-2",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -129,6 +131,7 @@ let col1 = [
         "id": "col1-3",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -194,6 +197,7 @@ let col1 = [
         "id": "col1-4",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -261,6 +265,7 @@ let col1 = [
         "id": "col1-5",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -336,6 +341,7 @@ let col1 = [
         "id": "col1-6",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -395,6 +401,7 @@ let col1 = [
         "id": "col1-7",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -472,6 +479,7 @@ let col1 = [
         "id": "col1-8",
         "name": "Hitmontop",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -539,6 +547,7 @@ let col1 = [
         "id": "col1-9",
         "name": "Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -616,6 +625,7 @@ let col1 = [
         "id": "col1-10",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -689,6 +699,7 @@ let col1 = [
         "id": "col1-11",
         "name": "Jirachi",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -752,6 +763,7 @@ let col1 = [
         "id": "col1-12",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -811,6 +823,7 @@ let col1 = [
         "id": "col1-13",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -883,6 +896,7 @@ let col1 = [
         "id": "col1-14",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -952,6 +966,7 @@ let col1 = [
         "id": "col1-15",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1029,6 +1044,7 @@ let col1 = [
         "id": "col1-16",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1100,6 +1116,7 @@ let col1 = [
         "id": "col1-17",
         "name": "Ninetales",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1166,6 +1183,7 @@ let col1 = [
         "id": "col1-18",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1236,6 +1254,7 @@ let col1 = [
         "id": "col1-19",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1295,6 +1314,7 @@ let col1 = [
         "id": "col1-20",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1360,6 +1380,7 @@ let col1 = [
         "id": "col1-21",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1424,6 +1445,7 @@ let col1 = [
         "id": "col1-22",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1497,6 +1519,7 @@ let col1 = [
         "id": "col1-23",
         "name": "Ampharos",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1571,6 +1594,7 @@ let col1 = [
         "id": "col1-24",
         "name": "Cleffa",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1628,6 +1652,7 @@ let col1 = [
         "id": "col1-25",
         "name": "Feraligatr",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1699,6 +1724,7 @@ let col1 = [
         "id": "col1-26",
         "name": "Granbull",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1769,6 +1795,7 @@ let col1 = [
         "id": "col1-27",
         "name": "Meganium",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 2"
         ],
@@ -1843,6 +1870,7 @@ let col1 = [
         "id": "col1-28",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -1916,6 +1944,7 @@ let col1 = [
         "id": "col1-29",
         "name": "Mr. Mime",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -1980,6 +2009,7 @@ let col1 = [
         "id": "col1-30",
         "name": "Pidgeot",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 2"
         ],
@@ -2054,6 +2084,7 @@ let col1 = [
         "id": "col1-31",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -2127,6 +2158,7 @@ let col1 = [
         "id": "col1-32",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2192,6 +2224,7 @@ let col1 = [
         "id": "col1-33",
         "name": "Snorlax",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -2262,6 +2295,7 @@ let col1 = [
         "id": "col1-34",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2336,6 +2370,7 @@ let col1 = [
         "id": "col1-35",
         "name": "Typhlosion",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 2"
         ],
@@ -2405,6 +2440,7 @@ let col1 = [
         "id": "col1-36",
         "name": "Tyrogue",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -2464,6 +2500,7 @@ let col1 = [
         "id": "col1-37",
         "name": "Ursaring",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2532,6 +2569,7 @@ let col1 = [
         "id": "col1-38",
         "name": "Weezing",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2599,6 +2637,7 @@ let col1 = [
         "id": "col1-39",
         "name": "Zangoose",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -2666,6 +2705,7 @@ let col1 = [
         "id": "col1-40",
         "name": "Bayleef",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2743,6 +2783,7 @@ let col1 = [
         "id": "col1-41",
         "name": "Croconaw",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2815,6 +2856,7 @@ let col1 = [
         "id": "col1-42",
         "name": "Donphan",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2892,6 +2934,7 @@ let col1 = [
         "id": "col1-43",
         "name": "Flaaffy",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -2969,6 +3012,7 @@ let col1 = [
         "id": "col1-44",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3037,6 +3081,7 @@ let col1 = [
         "id": "col1-45",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3110,6 +3155,7 @@ let col1 = [
         "id": "col1-46",
         "name": "Magby",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3167,6 +3213,7 @@ let col1 = [
         "id": "col1-47",
         "name": "Mime Jr.",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3221,6 +3268,7 @@ let col1 = [
         "id": "col1-48",
         "name": "Pidgeotto",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3299,6 +3347,7 @@ let col1 = [
         "id": "col1-49",
         "name": "Quilava",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3371,6 +3420,7 @@ let col1 = [
         "id": "col1-50",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3430,6 +3480,7 @@ let col1 = [
         "id": "col1-51",
         "name": "Seviper",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3496,6 +3547,7 @@ let col1 = [
         "id": "col1-52",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stage 1"
         ],
@@ -3564,6 +3616,7 @@ let col1 = [
         "id": "col1-53",
         "name": "Chikorita",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3639,6 +3692,7 @@ let col1 = [
         "id": "col1-54",
         "name": "Clefairy",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3707,6 +3761,7 @@ let col1 = [
         "id": "col1-55",
         "name": "Cyndaquil",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3766,6 +3821,7 @@ let col1 = [
         "id": "col1-56",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3842,6 +3898,7 @@ let col1 = [
         "id": "col1-57",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3908,6 +3965,7 @@ let col1 = [
         "id": "col1-58",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -3975,6 +4033,7 @@ let col1 = [
         "id": "col1-59",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4040,6 +4099,7 @@ let col1 = [
         "id": "col1-60",
         "name": "Koffing",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4109,6 +4169,7 @@ let col1 = [
         "id": "col1-61",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4168,6 +4229,7 @@ let col1 = [
         "id": "col1-62",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4237,6 +4299,7 @@ let col1 = [
         "id": "col1-63",
         "name": "Mareep",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4302,6 +4365,7 @@ let col1 = [
         "id": "col1-64",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4375,6 +4439,7 @@ let col1 = [
         "id": "col1-65",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4449,6 +4514,7 @@ let col1 = [
         "id": "col1-66",
         "name": "Phanpy",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4522,6 +4588,7 @@ let col1 = [
         "id": "col1-67",
         "name": "Pidgey",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4596,6 +4663,7 @@ let col1 = [
         "id": "col1-68",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4665,6 +4733,7 @@ let col1 = [
         "id": "col1-69",
         "name": "Relicanth",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4732,6 +4801,7 @@ let col1 = [
         "id": "col1-70",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4792,6 +4862,7 @@ let col1 = [
         "id": "col1-71",
         "name": "Snubbull",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4861,6 +4932,7 @@ let col1 = [
         "id": "col1-72",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4937,6 +5009,7 @@ let col1 = [
         "id": "col1-73",
         "name": "Teddiursa",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -4996,6 +5069,7 @@ let col1 = [
         "id": "col1-74",
         "name": "Totodile",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5057,6 +5131,7 @@ let col1 = [
         "id": "col1-75",
         "name": "Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5126,6 +5201,7 @@ let col1 = [
         "id": "col1-76",
         "name": "Cheerleader's Cheer",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5160,6 +5236,7 @@ let col1 = [
         "id": "col1-77",
         "name": "Copycat",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5194,6 +5271,7 @@ let col1 = [
         "id": "col1-78",
         "name": "Dual Ball",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Item"
         ],
@@ -5227,6 +5305,7 @@ let col1 = [
         "id": "col1-79",
         "name": "Interviewer's Questions",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5261,6 +5340,7 @@ let col1 = [
         "id": "col1-80",
         "name": "Lost Remover",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Item"
         ],
@@ -5294,6 +5374,7 @@ let col1 = [
         "id": "col1-81",
         "name": "Lost World",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Stadium"
         ],
@@ -5328,6 +5409,7 @@ let col1 = [
         "id": "col1-82",
         "name": "Professor Elm's Training Method",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5362,6 +5444,7 @@ let col1 = [
         "id": "col1-83",
         "name": "Professor Oak's New Theory",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5396,6 +5479,7 @@ let col1 = [
         "id": "col1-84",
         "name": "Research Record",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Item"
         ],
@@ -5429,6 +5513,7 @@ let col1 = [
         "id": "col1-85",
         "name": "Sage's Training",
         "supertype": "Trainer",
+        "setAbbrev": "CL",
         "subtypes": [
             "Supporter"
         ],
@@ -5463,6 +5548,7 @@ let col1 = [
         "id": "col1-86",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Special"
         ],
@@ -5496,6 +5582,7 @@ let col1 = [
         "id": "col1-87",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Special"
         ],
@@ -5529,6 +5616,7 @@ let col1 = [
         "id": "col1-88",
         "name": "Grass Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5558,6 +5646,7 @@ let col1 = [
         "id": "col1-89",
         "name": "Fire Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5587,6 +5676,7 @@ let col1 = [
         "id": "col1-90",
         "name": "Water Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5616,6 +5706,7 @@ let col1 = [
         "id": "col1-91",
         "name": "Lightning Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5645,6 +5736,7 @@ let col1 = [
         "id": "col1-92",
         "name": "Psychic Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5674,6 +5766,7 @@ let col1 = [
         "id": "col1-93",
         "name": "Fighting Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5703,6 +5796,7 @@ let col1 = [
         "id": "col1-94",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5732,6 +5826,7 @@ let col1 = [
         "id": "col1-95",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5761,6 +5856,7 @@ let col1 = [
         "id": "col1-SL1",
         "name": "Deoxys",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5819,6 +5915,7 @@ let col1 = [
         "id": "col1-SL2",
         "name": "Dialga",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5884,6 +5981,7 @@ let col1 = [
         "id": "col1-SL3",
         "name": "Entei",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -5949,6 +6047,7 @@ let col1 = [
         "id": "col1-SL4",
         "name": "Groudon",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6008,6 +6107,7 @@ let col1 = [
         "id": "col1-SL5",
         "name": "Ho-Oh",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6085,6 +6185,7 @@ let col1 = [
         "id": "col1-SL6",
         "name": "Kyogre",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6144,6 +6245,7 @@ let col1 = [
         "id": "col1-SL7",
         "name": "Lugia",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6221,6 +6323,7 @@ let col1 = [
         "id": "col1-SL8",
         "name": "Palkia",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6280,6 +6383,7 @@ let col1 = [
         "id": "col1-SL9",
         "name": "Raikou",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6351,6 +6455,7 @@ let col1 = [
         "id": "col1-SL10",
         "name": "Rayquaza",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],
@@ -6416,6 +6521,7 @@ let col1 = [
         "id": "col1-SL11",
         "name": "Suicune",
         "supertype": "Pokémon",
+        "setAbbrev": "CL",
         "subtypes": [
             "Basic"
         ],

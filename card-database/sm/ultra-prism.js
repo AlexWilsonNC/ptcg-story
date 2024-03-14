@@ -3,6 +3,7 @@ let sm5 = [
         "id": "sm5-1",
         "name": "Exeggcute",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -62,6 +63,7 @@ let sm5 = [
         "id": "sm5-2",
         "name": "Yanma",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -128,6 +130,7 @@ let sm5 = [
         "id": "sm5-3",
         "name": "Yanmega",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -203,6 +206,7 @@ let sm5 = [
         "id": "sm5-4",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -263,6 +267,7 @@ let sm5 = [
         "id": "sm5-5",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -331,6 +336,7 @@ let sm5 = [
         "id": "sm5-6",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -400,6 +406,7 @@ let sm5 = [
         "id": "sm5-7",
         "name": "Turtwig",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -471,6 +478,7 @@ let sm5 = [
         "id": "sm5-8",
         "name": "Grotle",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -544,6 +552,7 @@ let sm5 = [
         "id": "sm5-9",
         "name": "Torterra",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 2"
         ],
@@ -615,6 +624,7 @@ let sm5 = [
         "id": "sm5-10",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -674,6 +684,7 @@ let sm5 = [
         "id": "sm5-11",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -738,6 +749,7 @@ let sm5 = [
         "id": "sm5-12",
         "name": "Carnivine",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -805,6 +817,7 @@ let sm5 = [
         "id": "sm5-13",
         "name": "Leafeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -883,6 +896,7 @@ let sm5 = [
         "id": "sm5-14",
         "name": "Mow Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -948,6 +962,7 @@ let sm5 = [
         "id": "sm5-15",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -1014,6 +1029,7 @@ let sm5 = [
         "id": "sm5-16",
         "name": "Dewpider",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -1073,6 +1089,7 @@ let sm5 = [
         "id": "sm5-17",
         "name": "Araquanid",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1139,6 +1156,7 @@ let sm5 = [
         "id": "sm5-18",
         "name": "Magmar",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -1209,6 +1227,7 @@ let sm5 = [
         "id": "sm5-19",
         "name": "Magmortar",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1275,6 +1294,7 @@ let sm5 = [
         "id": "sm5-20",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -1333,6 +1353,7 @@ let sm5 = [
         "id": "sm5-21",
         "name": "Chimchar",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -1392,6 +1413,7 @@ let sm5 = [
         "id": "sm5-22",
         "name": "Monferno",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1452,6 +1474,7 @@ let sm5 = [
         "id": "sm5-23",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 2"
         ],
@@ -1517,6 +1540,7 @@ let sm5 = [
         "id": "sm5-24",
         "name": "Heat Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -1582,6 +1606,7 @@ let sm5 = [
         "id": "sm5-25",
         "name": "Salandit",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -1651,6 +1676,7 @@ let sm5 = [
         "id": "sm5-26",
         "name": "Salazzle",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1718,6 +1744,7 @@ let sm5 = [
         "id": "sm5-27",
         "name": "Turtonator",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -1786,6 +1813,7 @@ let sm5 = [
         "id": "sm5-28",
         "name": "Alolan Sandshrew",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -1843,6 +1871,7 @@ let sm5 = [
         "id": "sm5-29",
         "name": "Alolan Sandslash",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -1909,6 +1938,7 @@ let sm5 = [
         "id": "sm5-30",
         "name": "Alolan Vulpix",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -1975,6 +2005,7 @@ let sm5 = [
         "id": "sm5-31",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -2034,6 +2065,7 @@ let sm5 = [
         "id": "sm5-32",
         "name": "Piplup",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -2103,6 +2135,7 @@ let sm5 = [
         "id": "sm5-33",
         "name": "Prinplup",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2173,6 +2206,7 @@ let sm5 = [
         "id": "sm5-34",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 2"
         ],
@@ -2242,6 +2276,7 @@ let sm5 = [
         "id": "sm5-35",
         "name": "Buizel",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -2302,6 +2337,7 @@ let sm5 = [
         "id": "sm5-36",
         "name": "Floatzel",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2369,6 +2405,7 @@ let sm5 = [
         "id": "sm5-37",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -2429,6 +2466,7 @@ let sm5 = [
         "id": "sm5-38",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2496,6 +2534,7 @@ let sm5 = [
         "id": "sm5-39",
         "name": "Glaceon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -2576,6 +2615,7 @@ let sm5 = [
         "id": "sm5-40",
         "name": "Wash Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -2641,6 +2681,7 @@ let sm5 = [
         "id": "sm5-41",
         "name": "Frost Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -2705,6 +2746,7 @@ let sm5 = [
         "id": "sm5-42",
         "name": "Manaphy",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -2770,6 +2812,7 @@ let sm5 = [
         "id": "sm5-43",
         "name": "Electabuzz",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -2847,6 +2890,7 @@ let sm5 = [
         "id": "sm5-44",
         "name": "Electivire",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -2924,6 +2968,7 @@ let sm5 = [
         "id": "sm5-45",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -2996,6 +3041,7 @@ let sm5 = [
         "id": "sm5-46",
         "name": "Shinx",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -3061,6 +3107,7 @@ let sm5 = [
         "id": "sm5-47",
         "name": "Luxio",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3127,6 +3174,7 @@ let sm5 = [
         "id": "sm5-48",
         "name": "Luxray",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 2"
         ],
@@ -3198,6 +3246,7 @@ let sm5 = [
         "id": "sm5-49",
         "name": "Pachirisu",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -3269,6 +3318,7 @@ let sm5 = [
         "id": "sm5-50",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -3340,6 +3390,7 @@ let sm5 = [
         "id": "sm5-51",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -3414,6 +3465,7 @@ let sm5 = [
         "id": "sm5-52",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3489,6 +3541,7 @@ let sm5 = [
         "id": "sm5-53",
         "name": "Spiritomb",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -3548,6 +3601,7 @@ let sm5 = [
         "id": "sm5-54",
         "name": "Skorupi",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -3617,6 +3671,7 @@ let sm5 = [
         "id": "sm5-55",
         "name": "Drapion",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3677,6 +3732,7 @@ let sm5 = [
         "id": "sm5-56",
         "name": "Croagunk",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -3736,6 +3792,7 @@ let sm5 = [
         "id": "sm5-57",
         "name": "Toxicroak",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -3803,6 +3860,7 @@ let sm5 = [
         "id": "sm5-58",
         "name": "Giratina ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -3879,6 +3937,7 @@ let sm5 = [
         "id": "sm5-59",
         "name": "Cresselia",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -3946,6 +4005,7 @@ let sm5 = [
         "id": "sm5-60",
         "name": "Cosmog",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -4005,6 +4065,7 @@ let sm5 = [
         "id": "sm5-61",
         "name": "Cosmoem",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4066,6 +4127,7 @@ let sm5 = [
         "id": "sm5-62",
         "name": "Lunala ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -4144,6 +4206,7 @@ let sm5 = [
         "id": "sm5-63",
         "name": "Dawn Wings Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -4230,6 +4293,7 @@ let sm5 = [
         "id": "sm5-64",
         "name": "Cranidos",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4300,6 +4364,7 @@ let sm5 = [
         "id": "sm5-65",
         "name": "Rampardos",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 2"
         ],
@@ -4368,6 +4433,7 @@ let sm5 = [
         "id": "sm5-66",
         "name": "Riolu",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -4436,6 +4502,7 @@ let sm5 = [
         "id": "sm5-67",
         "name": "Lucario",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4501,6 +4568,7 @@ let sm5 = [
         "id": "sm5-68",
         "name": "Hippopotas",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -4562,6 +4630,7 @@ let sm5 = [
         "id": "sm5-69",
         "name": "Hippowdon",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4633,6 +4702,7 @@ let sm5 = [
         "id": "sm5-70",
         "name": "Passimian",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -4697,6 +4767,7 @@ let sm5 = [
         "id": "sm5-71",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -4762,6 +4833,7 @@ let sm5 = [
         "id": "sm5-72",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4836,6 +4908,7 @@ let sm5 = [
         "id": "sm5-73",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -4910,6 +4983,7 @@ let sm5 = [
         "id": "sm5-74",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -4982,6 +5056,7 @@ let sm5 = [
         "id": "sm5-75",
         "name": "Stunky",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -5047,6 +5122,7 @@ let sm5 = [
         "id": "sm5-76",
         "name": "Skuntank",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5122,6 +5198,7 @@ let sm5 = [
         "id": "sm5-77",
         "name": "Darkrai ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -5198,6 +5275,7 @@ let sm5 = [
         "id": "sm5-78",
         "name": "Alolan Diglett",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -5261,6 +5339,7 @@ let sm5 = [
         "id": "sm5-79",
         "name": "Alolan Dugtrio",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5322,6 +5401,7 @@ let sm5 = [
         "id": "sm5-80",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -5396,6 +5476,7 @@ let sm5 = [
         "id": "sm5-81",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -5469,6 +5550,7 @@ let sm5 = [
         "id": "sm5-82",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5546,6 +5628,7 @@ let sm5 = [
         "id": "sm5-83",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 2"
         ],
@@ -5619,6 +5702,7 @@ let sm5 = [
         "id": "sm5-84",
         "name": "Shieldon",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5697,6 +5781,7 @@ let sm5 = [
         "id": "sm5-85",
         "name": "Bastiodon",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 2"
         ],
@@ -5769,6 +5854,7 @@ let sm5 = [
         "id": "sm5-86",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -5844,6 +5930,7 @@ let sm5 = [
         "id": "sm5-87",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -5918,6 +6005,7 @@ let sm5 = [
         "id": "sm5-88",
         "name": "Heatran",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -5992,6 +6080,7 @@ let sm5 = [
         "id": "sm5-89",
         "name": "Solgaleo ◇",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "Prism Star"
@@ -6070,6 +6159,7 @@ let sm5 = [
         "id": "sm5-90",
         "name": "Dusk Mane Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -6161,6 +6251,7 @@ let sm5 = [
         "id": "sm5-91",
         "name": "Magearna",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -6232,6 +6323,7 @@ let sm5 = [
         "id": "sm5-92",
         "name": "Morelull",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -6306,6 +6398,7 @@ let sm5 = [
         "id": "sm5-93",
         "name": "Shiinotic",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6377,6 +6470,7 @@ let sm5 = [
         "id": "sm5-94",
         "name": "Tapu Lele",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -6449,6 +6543,7 @@ let sm5 = [
         "id": "sm5-95",
         "name": "Alolan Exeggutor",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6515,6 +6610,7 @@ let sm5 = [
         "id": "sm5-96",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -6574,6 +6670,7 @@ let sm5 = [
         "id": "sm5-97",
         "name": "Gible",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -6641,6 +6738,7 @@ let sm5 = [
         "id": "sm5-98",
         "name": "Gabite",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -6711,6 +6809,7 @@ let sm5 = [
         "id": "sm5-99",
         "name": "Garchomp",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 2"
         ],
@@ -6779,6 +6878,7 @@ let sm5 = [
         "id": "sm5-100",
         "name": "Dialga-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX"
@@ -6862,6 +6962,7 @@ let sm5 = [
         "id": "sm5-101",
         "name": "Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX"
@@ -6945,6 +7046,7 @@ let sm5 = [
         "id": "sm5-102",
         "name": "Lickitung",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -7016,6 +7118,7 @@ let sm5 = [
         "id": "sm5-103",
         "name": "Lickilicky",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7087,6 +7190,7 @@ let sm5 = [
         "id": "sm5-104",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -7153,6 +7257,7 @@ let sm5 = [
         "id": "sm5-105",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -7220,6 +7325,7 @@ let sm5 = [
         "id": "sm5-106",
         "name": "Buneary",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -7288,6 +7394,7 @@ let sm5 = [
         "id": "sm5-107",
         "name": "Lopunny",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7355,6 +7462,7 @@ let sm5 = [
         "id": "sm5-108",
         "name": "Glameow",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -7414,6 +7522,7 @@ let sm5 = [
         "id": "sm5-109",
         "name": "Purugly",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7482,6 +7591,7 @@ let sm5 = [
         "id": "sm5-110",
         "name": "Fan Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -7552,6 +7662,7 @@ let sm5 = [
         "id": "sm5-111",
         "name": "Shaymin",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -7623,6 +7734,7 @@ let sm5 = [
         "id": "sm5-112",
         "name": "Yungoos",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -7692,6 +7804,7 @@ let sm5 = [
         "id": "sm5-113",
         "name": "Gumshoos",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1"
         ],
@@ -7761,6 +7874,7 @@ let sm5 = [
         "id": "sm5-114",
         "name": "Oranguru",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -7831,6 +7945,7 @@ let sm5 = [
         "id": "sm5-115",
         "name": "Type: Null",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -7899,6 +8014,7 @@ let sm5 = [
         "id": "sm5-116",
         "name": "Silvally-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -7979,6 +8095,7 @@ let sm5 = [
         "id": "sm5-117",
         "name": "Drampa",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic"
         ],
@@ -8047,6 +8164,7 @@ let sm5 = [
         "id": "sm5-118",
         "name": "Ancient Crystal",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8082,6 +8200,7 @@ let sm5 = [
         "id": "sm5-119",
         "name": "Cynthia",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -8116,6 +8235,7 @@ let sm5 = [
         "id": "sm5-119a",
         "name": "Cynthia",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -8150,6 +8270,7 @@ let sm5 = [
         "id": "sm5-120",
         "name": "Cyrus ◇",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter",
             "Prism Star"
@@ -8187,6 +8308,7 @@ let sm5 = [
         "id": "sm5-121",
         "name": "Electric Memory",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8222,6 +8344,7 @@ let sm5 = [
         "id": "sm5-122",
         "name": "Escape Board",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8257,6 +8380,7 @@ let sm5 = [
         "id": "sm5-122a",
         "name": "Escape Board",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8292,6 +8416,7 @@ let sm5 = [
         "id": "sm5-123",
         "name": "Fire Memory",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -8327,6 +8452,7 @@ let sm5 = [
         "id": "sm5-124",
         "name": "Gardenia",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -8361,6 +8487,7 @@ let sm5 = [
         "id": "sm5-125",
         "name": "Lillie",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -8395,6 +8522,7 @@ let sm5 = [
         "id": "sm5-125a",
         "name": "Lillie",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -8429,6 +8557,7 @@ let sm5 = [
         "id": "sm5-126",
         "name": "Looker",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -8463,6 +8592,7 @@ let sm5 = [
         "id": "sm5-127",
         "name": "Looker Whistle",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Item"
         ],
@@ -8497,6 +8627,7 @@ let sm5 = [
         "id": "sm5-128",
         "name": "Mars",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -8531,6 +8662,7 @@ let sm5 = [
         "id": "sm5-129",
         "name": "Missing Clover",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Item"
         ],
@@ -8565,6 +8697,7 @@ let sm5 = [
         "id": "sm5-130",
         "name": "Mt. Coronet",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stadium"
         ],
@@ -8599,6 +8732,7 @@ let sm5 = [
         "id": "sm5-131",
         "name": "Order Pad",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Item"
         ],
@@ -8633,6 +8767,7 @@ let sm5 = [
         "id": "sm5-132",
         "name": "Pal Pad",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Item"
         ],
@@ -8667,6 +8802,7 @@ let sm5 = [
         "id": "sm5-133",
         "name": "Pokémon Fan Club",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -8701,6 +8837,7 @@ let sm5 = [
         "id": "sm5-134",
         "name": "Unidentified Fossil",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Item"
         ],
@@ -8737,6 +8874,7 @@ let sm5 = [
         "id": "sm5-135",
         "name": "Volkner",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -8771,6 +8909,7 @@ let sm5 = [
         "id": "sm5-135a",
         "name": "Volkner",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -8805,6 +8944,7 @@ let sm5 = [
         "id": "sm5-136",
         "name": "Super Boost Energy ◇",
         "supertype": "Energy",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Special",
             "Prism Star"
@@ -8840,6 +8980,7 @@ let sm5 = [
         "id": "sm5-137",
         "name": "Unit Energy GrassFireWater",
         "supertype": "Energy",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Special"
         ],
@@ -8873,6 +9014,7 @@ let sm5 = [
         "id": "sm5-138",
         "name": "Unit Energy LightningPsychicMetal",
         "supertype": "Energy",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Special"
         ],
@@ -8906,6 +9048,7 @@ let sm5 = [
         "id": "sm5-139",
         "name": "Leafeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -8984,6 +9127,7 @@ let sm5 = [
         "id": "sm5-140",
         "name": "Pheromosa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -9064,6 +9208,7 @@ let sm5 = [
         "id": "sm5-141",
         "name": "Glaceon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -9144,6 +9289,7 @@ let sm5 = [
         "id": "sm5-142",
         "name": "Xurkitree-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -9228,6 +9374,7 @@ let sm5 = [
         "id": "sm5-143",
         "name": "Dawn Wings Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -9314,6 +9461,7 @@ let sm5 = [
         "id": "sm5-144",
         "name": "Celesteela-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -9406,6 +9554,7 @@ let sm5 = [
         "id": "sm5-145",
         "name": "Dusk Mane Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -9497,6 +9646,7 @@ let sm5 = [
         "id": "sm5-146",
         "name": "Dialga-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX"
@@ -9580,6 +9730,7 @@ let sm5 = [
         "id": "sm5-147",
         "name": "Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX"
@@ -9663,6 +9814,7 @@ let sm5 = [
         "id": "sm5-148",
         "name": "Cynthia",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -9697,6 +9849,7 @@ let sm5 = [
         "id": "sm5-149",
         "name": "Gardenia",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -9731,6 +9884,7 @@ let sm5 = [
         "id": "sm5-150",
         "name": "Lana",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -9765,6 +9919,7 @@ let sm5 = [
         "id": "sm5-151",
         "name": "Lillie",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -9799,6 +9954,7 @@ let sm5 = [
         "id": "sm5-152",
         "name": "Looker",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -9833,6 +9989,7 @@ let sm5 = [
         "id": "sm5-153",
         "name": "Lusamine",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -9867,6 +10024,7 @@ let sm5 = [
         "id": "sm5-153a",
         "name": "Lusamine",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -9901,6 +10059,7 @@ let sm5 = [
         "id": "sm5-154",
         "name": "Mars",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -9935,6 +10094,7 @@ let sm5 = [
         "id": "sm5-155",
         "name": "Pokémon Fan Club",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -9969,6 +10129,7 @@ let sm5 = [
         "id": "sm5-156",
         "name": "Volkner",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Supporter"
         ],
@@ -10003,6 +10164,7 @@ let sm5 = [
         "id": "sm5-157",
         "name": "Leafeon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10081,6 +10243,7 @@ let sm5 = [
         "id": "sm5-158",
         "name": "Pheromosa-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -10161,6 +10324,7 @@ let sm5 = [
         "id": "sm5-159",
         "name": "Glaceon-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 1",
             "GX"
@@ -10241,6 +10405,7 @@ let sm5 = [
         "id": "sm5-160",
         "name": "Xurkitree-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -10325,6 +10490,7 @@ let sm5 = [
         "id": "sm5-161",
         "name": "Dawn Wings Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -10411,6 +10577,7 @@ let sm5 = [
         "id": "sm5-162",
         "name": "Celesteela-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -10503,6 +10670,7 @@ let sm5 = [
         "id": "sm5-163",
         "name": "Dusk Mane Necrozma-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX",
@@ -10594,6 +10762,7 @@ let sm5 = [
         "id": "sm5-164",
         "name": "Dialga-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX"
@@ -10677,6 +10846,7 @@ let sm5 = [
         "id": "sm5-165",
         "name": "Palkia-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Basic",
             "GX"
@@ -10760,6 +10930,7 @@ let sm5 = [
         "id": "sm5-166",
         "name": "Crushing Hammer",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Item"
         ],
@@ -10794,6 +10965,7 @@ let sm5 = [
         "id": "sm5-167",
         "name": "Escape Board",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -10829,6 +11001,7 @@ let sm5 = [
         "id": "sm5-168",
         "name": "Missing Clover",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Item"
         ],
@@ -10863,6 +11036,7 @@ let sm5 = [
         "id": "sm5-169",
         "name": "Peeking Red Card",
         "supertype": "Trainer",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Item"
         ],
@@ -10897,6 +11071,7 @@ let sm5 = [
         "id": "sm5-170",
         "name": "Unit Energy GrassFireWater",
         "supertype": "Energy",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Special"
         ],
@@ -10930,6 +11105,7 @@ let sm5 = [
         "id": "sm5-171",
         "name": "Unit Energy LightningPsychicMetal",
         "supertype": "Energy",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Special"
         ],
@@ -10963,6 +11139,7 @@ let sm5 = [
         "id": "sm5-172",
         "name": "Lunala-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 2",
             "GX"
@@ -11050,6 +11227,7 @@ let sm5 = [
         "id": "sm5-173",
         "name": "Solgaleo-GX",
         "supertype": "Pokémon",
+        "setAbbrev": "UPR",
         "subtypes": [
             "Stage 2",
             "GX"

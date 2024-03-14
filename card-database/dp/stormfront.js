@@ -3,6 +3,7 @@ let dp7 = [
         "id": "dp7-1",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -84,6 +85,7 @@ let dp7 = [
         "id": "dp7-2",
         "name": "Empoleon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -159,6 +161,7 @@ let dp7 = [
         "id": "dp7-3",
         "name": "Infernape",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -234,6 +237,7 @@ let dp7 = [
         "id": "dp7-4",
         "name": "Lumineon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -303,6 +307,7 @@ let dp7 = [
         "id": "dp7-5",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -384,6 +389,7 @@ let dp7 = [
         "id": "dp7-6",
         "name": "Magnezone",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -456,6 +462,7 @@ let dp7 = [
         "id": "dp7-7",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -526,6 +533,7 @@ let dp7 = [
         "id": "dp7-8",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -607,6 +615,7 @@ let dp7 = [
         "id": "dp7-9",
         "name": "Regigigas",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -682,6 +691,7 @@ let dp7 = [
         "id": "dp7-10",
         "name": "Sceptile",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -764,6 +774,7 @@ let dp7 = [
         "id": "dp7-11",
         "name": "Torterra",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -846,6 +857,7 @@ let dp7 = [
         "id": "dp7-12",
         "name": "Abomasnow",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -921,6 +933,7 @@ let dp7 = [
         "id": "dp7-13",
         "name": "Bronzong",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1002,6 +1015,7 @@ let dp7 = [
         "id": "dp7-14",
         "name": "Cherrim",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1080,6 +1094,7 @@ let dp7 = [
         "id": "dp7-15",
         "name": "Drapion",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1155,6 +1170,7 @@ let dp7 = [
         "id": "dp7-16",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1231,6 +1247,7 @@ let dp7 = [
         "id": "dp7-17",
         "name": "Dusknoir",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1303,6 +1320,7 @@ let dp7 = [
         "id": "dp7-18",
         "name": "Gengar",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1381,6 +1399,7 @@ let dp7 = [
         "id": "dp7-19",
         "name": "Gyarados",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1464,6 +1483,7 @@ let dp7 = [
         "id": "dp7-20",
         "name": "Machamp",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1542,6 +1562,7 @@ let dp7 = [
         "id": "dp7-21",
         "name": "Mamoswine",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1618,6 +1639,7 @@ let dp7 = [
         "id": "dp7-22",
         "name": "Rapidash",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1691,6 +1713,7 @@ let dp7 = [
         "id": "dp7-23",
         "name": "Roserade",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1766,6 +1789,7 @@ let dp7 = [
         "id": "dp7-24",
         "name": "Salamence",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -1848,6 +1872,7 @@ let dp7 = [
         "id": "dp7-25",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -1922,6 +1947,7 @@ let dp7 = [
         "id": "dp7-26",
         "name": "Skuntank",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2003,6 +2029,7 @@ let dp7 = [
         "id": "dp7-27",
         "name": "Staraptor",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -2082,6 +2109,7 @@ let dp7 = [
         "id": "dp7-28",
         "name": "Steelix",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2157,6 +2185,7 @@ let dp7 = [
         "id": "dp7-29",
         "name": "Tangrowth",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2239,6 +2268,7 @@ let dp7 = [
         "id": "dp7-30",
         "name": "Tyranitar",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -2322,6 +2352,7 @@ let dp7 = [
         "id": "dp7-31",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2401,6 +2432,7 @@ let dp7 = [
         "id": "dp7-32",
         "name": "Bibarel",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2475,6 +2507,7 @@ let dp7 = [
         "id": "dp7-33",
         "name": "Budew",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -2538,6 +2571,7 @@ let dp7 = [
         "id": "dp7-34",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2615,6 +2649,7 @@ let dp7 = [
         "id": "dp7-35",
         "name": "Dusclops",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2693,6 +2728,7 @@ let dp7 = [
         "id": "dp7-36",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2772,6 +2808,7 @@ let dp7 = [
         "id": "dp7-37",
         "name": "Electrode",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2844,6 +2881,7 @@ let dp7 = [
         "id": "dp7-38",
         "name": "Farfetch'd",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -2918,6 +2956,7 @@ let dp7 = [
         "id": "dp7-39",
         "name": "Grovyle",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -2995,6 +3034,7 @@ let dp7 = [
         "id": "dp7-40",
         "name": "Haunter",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3068,6 +3108,7 @@ let dp7 = [
         "id": "dp7-41",
         "name": "Machoke",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3138,6 +3179,7 @@ let dp7 = [
         "id": "dp7-42",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3216,6 +3258,7 @@ let dp7 = [
         "id": "dp7-43",
         "name": "Magneton",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3294,6 +3337,7 @@ let dp7 = [
         "id": "dp7-44",
         "name": "Miltank",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -3368,6 +3412,7 @@ let dp7 = [
         "id": "dp7-45",
         "name": "Pichu",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -3438,6 +3483,7 @@ let dp7 = [
         "id": "dp7-46",
         "name": "Piloswine",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3518,6 +3564,7 @@ let dp7 = [
         "id": "dp7-47",
         "name": "Pupitar",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3592,6 +3639,7 @@ let dp7 = [
         "id": "dp7-48",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -3661,6 +3709,7 @@ let dp7 = [
         "id": "dp7-49",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -3735,6 +3784,7 @@ let dp7 = [
         "id": "dp7-50",
         "name": "Shelgon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3813,6 +3863,7 @@ let dp7 = [
         "id": "dp7-51",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -3886,6 +3937,7 @@ let dp7 = [
         "id": "dp7-52",
         "name": "Staravia",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -3963,6 +4015,7 @@ let dp7 = [
         "id": "dp7-53",
         "name": "Bagon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4038,6 +4091,7 @@ let dp7 = [
         "id": "dp7-54",
         "name": "Bidoof",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4106,6 +4160,7 @@ let dp7 = [
         "id": "dp7-55",
         "name": "Bronzor",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4181,6 +4236,7 @@ let dp7 = [
         "id": "dp7-56",
         "name": "Cherubi",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4253,6 +4309,7 @@ let dp7 = [
         "id": "dp7-57",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4320,6 +4377,7 @@ let dp7 = [
         "id": "dp7-58",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4394,6 +4452,7 @@ let dp7 = [
         "id": "dp7-59",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4469,6 +4528,7 @@ let dp7 = [
         "id": "dp7-60",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4544,6 +4604,7 @@ let dp7 = [
         "id": "dp7-61",
         "name": "Finneon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4610,6 +4671,7 @@ let dp7 = [
         "id": "dp7-62",
         "name": "Gastly",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4682,6 +4744,7 @@ let dp7 = [
         "id": "dp7-63",
         "name": "Larvitar",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4757,6 +4820,7 @@ let dp7 = [
         "id": "dp7-64",
         "name": "Machop",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4826,6 +4890,7 @@ let dp7 = [
         "id": "dp7-65",
         "name": "Magikarp",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4892,6 +4957,7 @@ let dp7 = [
         "id": "dp7-66",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -4960,6 +5026,7 @@ let dp7 = [
         "id": "dp7-67",
         "name": "Magnemite",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5033,6 +5100,7 @@ let dp7 = [
         "id": "dp7-68",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5105,6 +5173,7 @@ let dp7 = [
         "id": "dp7-69",
         "name": "Onix",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5175,6 +5244,7 @@ let dp7 = [
         "id": "dp7-70",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5252,6 +5322,7 @@ let dp7 = [
         "id": "dp7-71",
         "name": "Ponyta",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5321,6 +5392,7 @@ let dp7 = [
         "id": "dp7-72",
         "name": "Roselia",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5390,6 +5462,7 @@ let dp7 = [
         "id": "dp7-73",
         "name": "Skorupi",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5459,6 +5532,7 @@ let dp7 = [
         "id": "dp7-74",
         "name": "Snover",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5527,6 +5601,7 @@ let dp7 = [
         "id": "dp7-75",
         "name": "Starly",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5601,6 +5676,7 @@ let dp7 = [
         "id": "dp7-76",
         "name": "Stunky",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5676,6 +5752,7 @@ let dp7 = [
         "id": "dp7-77",
         "name": "Swinub",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5750,6 +5827,7 @@ let dp7 = [
         "id": "dp7-78",
         "name": "Tangela",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5825,6 +5903,7 @@ let dp7 = [
         "id": "dp7-79",
         "name": "Treecko",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5899,6 +5978,7 @@ let dp7 = [
         "id": "dp7-80",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -5971,6 +6051,7 @@ let dp7 = [
         "id": "dp7-81",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -6045,6 +6126,7 @@ let dp7 = [
         "id": "dp7-82",
         "name": "Conductive Quarry",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stadium"
         ],
@@ -6079,6 +6161,7 @@ let dp7 = [
         "id": "dp7-83",
         "name": "Energy Link",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Pokémon Tool"
         ],
@@ -6113,6 +6196,7 @@ let dp7 = [
         "id": "dp7-84",
         "name": "Energy Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6146,6 +6230,7 @@ let dp7 = [
         "id": "dp7-85",
         "name": "Great Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6179,6 +6264,7 @@ let dp7 = [
         "id": "dp7-86",
         "name": "Luxury Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6212,6 +6298,7 @@ let dp7 = [
         "id": "dp7-87",
         "name": "Marley's Request",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Supporter"
         ],
@@ -6246,6 +6333,7 @@ let dp7 = [
         "id": "dp7-88",
         "name": "Poké Blower +",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6279,6 +6367,7 @@ let dp7 = [
         "id": "dp7-89",
         "name": "Poké Drawer +",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6312,6 +6401,7 @@ let dp7 = [
         "id": "dp7-90",
         "name": "Poké Healer +",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6345,6 +6435,7 @@ let dp7 = [
         "id": "dp7-91",
         "name": "Premier Ball",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6378,6 +6469,7 @@ let dp7 = [
         "id": "dp7-92",
         "name": "Potion",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6411,6 +6503,7 @@ let dp7 = [
         "id": "dp7-93",
         "name": "Switch",
         "supertype": "Trainer",
+        "setAbbrev": "SF",
         "subtypes": [
             "Item"
         ],
@@ -6444,6 +6537,7 @@ let dp7 = [
         "id": "dp7-94",
         "name": "Cyclone Energy",
         "supertype": "Energy",
+        "setAbbrev": "SF",
         "subtypes": [
             "Special"
         ],
@@ -6477,6 +6571,7 @@ let dp7 = [
         "id": "dp7-95",
         "name": "Warp Energy",
         "supertype": "Energy",
+        "setAbbrev": "SF",
         "subtypes": [
             "Special"
         ],
@@ -6510,6 +6605,7 @@ let dp7 = [
         "id": "dp7-96",
         "name": "Dusknoir LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Level-Up"
         ],
@@ -6571,6 +6667,7 @@ let dp7 = [
         "id": "dp7-97",
         "name": "Heatran LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Level-Up"
         ],
@@ -6631,6 +6728,7 @@ let dp7 = [
         "id": "dp7-98",
         "name": "Machamp LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Level-Up"
         ],
@@ -6699,6 +6797,7 @@ let dp7 = [
         "id": "dp7-99",
         "name": "Raichu LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Level-Up"
         ],
@@ -6772,6 +6871,7 @@ let dp7 = [
         "id": "dp7-100",
         "name": "Regigigas LV.X",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Level-Up"
         ],
@@ -6841,6 +6941,7 @@ let dp7 = [
         "id": "dp7-101",
         "name": "Charmander",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -6910,6 +7011,7 @@ let dp7 = [
         "id": "dp7-102",
         "name": "Charmeleon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 1"
         ],
@@ -6983,6 +7085,7 @@ let dp7 = [
         "id": "dp7-103",
         "name": "Charizard",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Stage 2"
         ],
@@ -7056,6 +7159,7 @@ let dp7 = [
         "id": "dp7-SH1",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -7136,6 +7240,7 @@ let dp7 = [
         "id": "dp7-SH2",
         "name": "Duskull",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],
@@ -7217,6 +7322,7 @@ let dp7 = [
         "id": "dp7-SH3",
         "name": "Voltorb",
         "supertype": "Pokémon",
+        "setAbbrev": "SF",
         "subtypes": [
             "Basic"
         ],

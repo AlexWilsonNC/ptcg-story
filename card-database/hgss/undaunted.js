@@ -3,6 +3,7 @@ let hgss3 = [
         "id": "hgss3-1",
         "name": "Bellossom",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 2"
         ],
@@ -74,6 +75,7 @@ let hgss3 = [
         "id": "hgss3-2",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -141,6 +143,7 @@ let hgss3 = [
         "id": "hgss3-3",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -216,6 +219,7 @@ let hgss3 = [
         "id": "hgss3-4",
         "name": "Gliscor",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -290,6 +294,7 @@ let hgss3 = [
         "id": "hgss3-5",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -363,6 +368,7 @@ let hgss3 = [
         "id": "hgss3-6",
         "name": "Magcargo",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -432,6 +438,7 @@ let hgss3 = [
         "id": "hgss3-7",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -507,6 +514,7 @@ let hgss3 = [
         "id": "hgss3-8",
         "name": "Smeargle",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -571,6 +579,7 @@ let hgss3 = [
         "id": "hgss3-9",
         "name": "Togekiss",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 2"
         ],
@@ -646,6 +655,7 @@ let hgss3 = [
         "id": "hgss3-10",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -719,6 +729,7 @@ let hgss3 = [
         "id": "hgss3-11",
         "name": "Dodrio",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -790,6 +801,7 @@ let hgss3 = [
         "id": "hgss3-12",
         "name": "Drifblim",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -864,6 +876,7 @@ let hgss3 = [
         "id": "hgss3-13",
         "name": "Forretress",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -937,6 +950,7 @@ let hgss3 = [
         "id": "hgss3-14",
         "name": "Hariyama",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1008,6 +1022,7 @@ let hgss3 = [
         "id": "hgss3-15",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1082,6 +1097,7 @@ let hgss3 = [
         "id": "hgss3-16",
         "name": "Honchkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1157,6 +1173,7 @@ let hgss3 = [
         "id": "hgss3-17",
         "name": "Leafeon",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1229,6 +1246,7 @@ let hgss3 = [
         "id": "hgss3-18",
         "name": "Metagross",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 2"
         ],
@@ -1306,6 +1324,7 @@ let hgss3 = [
         "id": "hgss3-19",
         "name": "Mismagius",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1379,6 +1398,7 @@ let hgss3 = [
         "id": "hgss3-20",
         "name": "Rotom",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -1448,6 +1468,7 @@ let hgss3 = [
         "id": "hgss3-21",
         "name": "Skarmory",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -1521,6 +1542,7 @@ let hgss3 = [
         "id": "hgss3-22",
         "name": "Tropius",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -1594,6 +1616,7 @@ let hgss3 = [
         "id": "hgss3-23",
         "name": "Vespiquen",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1660,6 +1683,7 @@ let hgss3 = [
         "id": "hgss3-24",
         "name": "Vileplume",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 2"
         ],
@@ -1726,6 +1750,7 @@ let hgss3 = [
         "id": "hgss3-25",
         "name": "Weavile",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1796,6 +1821,7 @@ let hgss3 = [
         "id": "hgss3-26",
         "name": "Flareon",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1864,6 +1890,7 @@ let hgss3 = [
         "id": "hgss3-27",
         "name": "Gloom",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1926,6 +1953,7 @@ let hgss3 = [
         "id": "hgss3-28",
         "name": "Jolteon",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -1999,6 +2027,7 @@ let hgss3 = [
         "id": "hgss3-29",
         "name": "Lairon",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2076,6 +2105,7 @@ let hgss3 = [
         "id": "hgss3-30",
         "name": "Metang",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2154,6 +2184,7 @@ let hgss3 = [
         "id": "hgss3-31",
         "name": "Muk",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2222,6 +2253,7 @@ let hgss3 = [
         "id": "hgss3-32",
         "name": "Pinsir",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -2289,6 +2321,7 @@ let hgss3 = [
         "id": "hgss3-33",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2361,6 +2394,7 @@ let hgss3 = [
         "id": "hgss3-34",
         "name": "Raticate",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2426,6 +2460,7 @@ let hgss3 = [
         "id": "hgss3-35",
         "name": "Sableye",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -2492,6 +2527,7 @@ let hgss3 = [
         "id": "hgss3-36",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -2552,6 +2588,7 @@ let hgss3 = [
         "id": "hgss3-37",
         "name": "Skuntank",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2625,6 +2662,7 @@ let hgss3 = [
         "id": "hgss3-38",
         "name": "Slowbro",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2693,6 +2731,7 @@ let hgss3 = [
         "id": "hgss3-39",
         "name": "Togetic",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2769,6 +2808,7 @@ let hgss3 = [
         "id": "hgss3-40",
         "name": "Unown",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -2832,6 +2872,7 @@ let hgss3 = [
         "id": "hgss3-41",
         "name": "Vaporeon",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1"
         ],
@@ -2900,6 +2941,7 @@ let hgss3 = [
         "id": "hgss3-42",
         "name": "Aron",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -2975,6 +3017,7 @@ let hgss3 = [
         "id": "hgss3-43",
         "name": "Beldum",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3051,6 +3094,7 @@ let hgss3 = [
         "id": "hgss3-44",
         "name": "Combee",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3110,6 +3154,7 @@ let hgss3 = [
         "id": "hgss3-45",
         "name": "Doduo",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3185,6 +3230,7 @@ let hgss3 = [
         "id": "hgss3-46",
         "name": "Drifloon",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3259,6 +3305,7 @@ let hgss3 = [
         "id": "hgss3-47",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3335,6 +3382,7 @@ let hgss3 = [
         "id": "hgss3-48",
         "name": "Eevee",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3411,6 +3459,7 @@ let hgss3 = [
         "id": "hgss3-49",
         "name": "Gligar",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3477,6 +3526,7 @@ let hgss3 = [
         "id": "hgss3-50",
         "name": "Grimer",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3546,6 +3596,7 @@ let hgss3 = [
         "id": "hgss3-51",
         "name": "Hitmonchan",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3612,6 +3663,7 @@ let hgss3 = [
         "id": "hgss3-52",
         "name": "Hitmonlee",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3679,6 +3731,7 @@ let hgss3 = [
         "id": "hgss3-53",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3745,6 +3798,7 @@ let hgss3 = [
         "id": "hgss3-54",
         "name": "Houndour",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3810,6 +3864,7 @@ let hgss3 = [
         "id": "hgss3-55",
         "name": "Makuhita",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3881,6 +3936,7 @@ let hgss3 = [
         "id": "hgss3-56",
         "name": "Mawile",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -3954,6 +4010,7 @@ let hgss3 = [
         "id": "hgss3-57",
         "name": "Misdreavus",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4028,6 +4085,7 @@ let hgss3 = [
         "id": "hgss3-58",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4093,6 +4151,7 @@ let hgss3 = [
         "id": "hgss3-59",
         "name": "Murkrow",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4169,6 +4228,7 @@ let hgss3 = [
         "id": "hgss3-60",
         "name": "Oddish",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4237,6 +4297,7 @@ let hgss3 = [
         "id": "hgss3-61",
         "name": "Pikachu",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4302,6 +4363,7 @@ let hgss3 = [
         "id": "hgss3-62",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4361,6 +4423,7 @@ let hgss3 = [
         "id": "hgss3-63",
         "name": "Pineco",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4430,6 +4493,7 @@ let hgss3 = [
         "id": "hgss3-64",
         "name": "Rattata",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4489,6 +4553,7 @@ let hgss3 = [
         "id": "hgss3-65",
         "name": "Scyther",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4560,6 +4625,7 @@ let hgss3 = [
         "id": "hgss3-66",
         "name": "Slowpoke",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4630,6 +4696,7 @@ let hgss3 = [
         "id": "hgss3-67",
         "name": "Slugma",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4698,6 +4765,7 @@ let hgss3 = [
         "id": "hgss3-68",
         "name": "Sneasel",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4772,6 +4840,7 @@ let hgss3 = [
         "id": "hgss3-69",
         "name": "Stunky",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4837,6 +4906,7 @@ let hgss3 = [
         "id": "hgss3-70",
         "name": "Togepi",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Basic"
         ],
@@ -4896,6 +4966,7 @@ let hgss3 = [
         "id": "hgss3-71",
         "name": "Burned Tower",
         "supertype": "Trainer",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stadium"
         ],
@@ -4930,6 +5001,7 @@ let hgss3 = [
         "id": "hgss3-72",
         "name": "Defender",
         "supertype": "Trainer",
+        "setAbbrev": "UD",
         "subtypes": [
             "Item"
         ],
@@ -4963,6 +5035,7 @@ let hgss3 = [
         "id": "hgss3-73",
         "name": "Energy Exchanger",
         "supertype": "Trainer",
+        "setAbbrev": "UD",
         "subtypes": [
             "Item"
         ],
@@ -4996,6 +5069,7 @@ let hgss3 = [
         "id": "hgss3-74",
         "name": "Flower Shop Lady",
         "supertype": "Trainer",
+        "setAbbrev": "UD",
         "subtypes": [
             "Supporter"
         ],
@@ -5030,6 +5104,7 @@ let hgss3 = [
         "id": "hgss3-75",
         "name": "Legend Box",
         "supertype": "Trainer",
+        "setAbbrev": "UD",
         "subtypes": [
             "Item"
         ],
@@ -5063,6 +5138,7 @@ let hgss3 = [
         "id": "hgss3-76",
         "name": "Ruins of Alph",
         "supertype": "Trainer",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stadium"
         ],
@@ -5097,6 +5173,7 @@ let hgss3 = [
         "id": "hgss3-77",
         "name": "Sage's Training",
         "supertype": "Trainer",
+        "setAbbrev": "UD",
         "subtypes": [
             "Supporter"
         ],
@@ -5131,6 +5208,7 @@ let hgss3 = [
         "id": "hgss3-78",
         "name": "Team Rocket's Trickery",
         "supertype": "Trainer",
+        "setAbbrev": "UD",
         "subtypes": [
             "Supporter"
         ],
@@ -5165,6 +5243,7 @@ let hgss3 = [
         "id": "hgss3-79",
         "name": "Darkness Energy",
         "supertype": "Energy",
+        "setAbbrev": "UD",
         "subtypes": [
             "Special"
         ],
@@ -5198,6 +5277,7 @@ let hgss3 = [
         "id": "hgss3-80",
         "name": "Metal Energy",
         "supertype": "Energy",
+        "setAbbrev": "UD",
         "subtypes": [
             "Special"
         ],
@@ -5231,6 +5311,7 @@ let hgss3 = [
         "id": "hgss3-81",
         "name": "Espeon",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -5296,6 +5377,7 @@ let hgss3 = [
         "id": "hgss3-82",
         "name": "Houndoom",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -5368,6 +5450,7 @@ let hgss3 = [
         "id": "hgss3-83",
         "name": "Raichu",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -5440,6 +5523,7 @@ let hgss3 = [
         "id": "hgss3-84",
         "name": "Scizor",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -5511,6 +5595,7 @@ let hgss3 = [
         "id": "hgss3-85",
         "name": "Slowking",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -5577,6 +5662,7 @@ let hgss3 = [
         "id": "hgss3-86",
         "name": "Umbreon",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "Stage 1",
             "Prime"
@@ -5649,6 +5735,7 @@ let hgss3 = [
         "id": "hgss3-87",
         "name": "Kyogre & Groudon LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "LEGEND"
         ],
@@ -5728,6 +5815,7 @@ let hgss3 = [
         "id": "hgss3-88",
         "name": "Kyogre & Groudon LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "LEGEND"
         ],
@@ -5807,6 +5895,7 @@ let hgss3 = [
         "id": "hgss3-89",
         "name": "Rayquaza & Deoxys LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "LEGEND"
         ],
@@ -5881,6 +5970,7 @@ let hgss3 = [
         "id": "hgss3-90",
         "name": "Rayquaza & Deoxys LEGEND",
         "supertype": "Pokémon",
+        "setAbbrev": "UD",
         "subtypes": [
             "LEGEND"
         ],
@@ -5955,6 +6045,7 @@ let hgss3 = [
         "id": "hgss3-THREE",
         "name": "Alph Lithograph",
         "supertype": "Trainer",
+        "setAbbrev": "UD",
         "subtypes": [
             "Item"
         ],
