@@ -18482,7 +18482,6 @@ function displayList(array = []) {
             })
             
             // click addBtn again to add card count w/o duplicating?
-
             // addCardBtn.addEventListener("click", () => {
             //     let newNumber = defaultCountofOne
             //     ? defaultCountofOne + 1
@@ -18495,14 +18494,16 @@ function displayList(array = []) {
             //     cardCount.setAttribute('src', "../assets/card-count/" + newNumber + ".png");
             // })
 
+            // reset decklist
             document.getElementById('deck-reset').addEventListener("click", () => {
                 deckCardContainer.remove();
                 addCardBtn.style.opacity = 1;
                 addCardBtn.style.pointerEvents = 'all';
             })
 
-            // must make decklist an array to sort?
+            
 
+            // must make decklist an array to sort?
             // document.getElementById('deck-sort').addEventListener("click", () => {
             //     deckbox.sort((a, b) => b.defaultCountofOne - a.defaultCountofOne);
             // })
@@ -18524,10 +18525,21 @@ function displayList(array = []) {
             zoombox.className = "";
         };
 
+        document.querySelector('.all-cards-container').scrollTop = 0;
+
         setsOl.appendChild(cardArea);
     }
 }
 displayList(latestSet);
+
+            // copy decklist
+let exportDecklist = document.querySelector('.copy-as-dckli');
+            exportDecklist.addEventListener('click', function () {
+                alert('Copied Decklist to Clipboard');
+
+                exportDecklist.setAttribute('value', exportDecklist.value ? `${exportDecklist.value}\n${newNumber} ${card.name} ${card.set} ${card.number}` : `${newNumber} ${card.name} ${card.set} ${card.number}`);
+                navigator.clipboard.writeText(copyButton.value);
+            })
 
 // collapse and open set boxes
 let coll = document.getElementsByClassName("set-white-box");
@@ -18551,6 +18563,8 @@ for (i = 0; i < coll.length; i++) {
             elem.addEventListener("click", function () {
                 if (content.style.maxHeight === "2000px") {
                     content.style.maxHeight = "0px";
+                    document.querySelector('.expand-advanced-arrow').classList.toggle('inverted-arrow');
+                    document.querySelector('.all-cards-container').scrollTop = 0;
                 }
             })
         })
@@ -18584,6 +18598,7 @@ window.addEventListener("load", () => {
 //     })
 // })
 
+// hidden filters dropdown
 document.getElementById('filter-search').addEventListener("click", () => {
     document.querySelector('.hidden-filter-sec').classList.toggle('hide-filt-sec');
     document.querySelector('.all-cards-container').classList.toggle('all-cards-farther');

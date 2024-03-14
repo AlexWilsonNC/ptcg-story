@@ -188,7 +188,7 @@ body.darkon {
     border: 1px solid rgb(255, 51, 51);
 }
 #filt-btn-legacy {
-    border: 1px solid rgb(0, 131, 0);
+    border: 1px solid rgb(0, 151, 0);
 }
 #filt-btn-pokemon:hover,
 #filt-btn-trainer:hover,
@@ -488,7 +488,7 @@ body.darkon {
     justify-content: center;
 }
 .support-again img {
-    width: 25px;height:auto;
+    width: 20px;height:auto;
     margin-left: 7px;
     border-radius: 5px;
     border: 1px solid black;
@@ -686,8 +686,12 @@ body.darkon {
 }
 .set-cube,
 .set-cube-promo {
-    height: 125px;
+    height: 120px;
     width: 109px;
+}
+.set-cube.darkon p ,
+.set-cube-promo.darkon p {
+    background-color: rgba(255, 255, 255, 0.5);
 }
 .setit {
     width: 70px;

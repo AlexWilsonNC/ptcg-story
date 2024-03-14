@@ -19,6 +19,8 @@ const spinner = document.querySelector('.spinner');
 
 const optionbtn = document.querySelectorAll('.option-btn');
 const setwhitebox = document.querySelectorAll('.set-white-box');
+const setcube = document.querySelectorAll('.set-cube');
+const setcubepromo = document.querySelectorAll('.set-cube-promo');
 
 const enableDarkMode = () => {
     document.body.classList.add('darkon');
@@ -44,6 +46,12 @@ const enableDarkMode = () => {
     })
     setwhitebox.forEach((setwhitebox) => {
       setwhitebox.classList.add('darkon');
+    })
+    setcube.forEach((setcube) => {
+      setcube.classList.add('darkon');
+    })
+    setcubepromo.forEach((setcubepromo) => {
+      setcubepromo.classList.add('darkon');
     })
 
     localStorage.setItem('darkMode', 'enabled');
@@ -73,6 +81,12 @@ const enableDarkMode = () => {
     })
     setwhitebox.forEach((setwhitebox) => {
       setwhitebox.classList.remove('darkon');
+    })
+    setcube.forEach((setcube) => {
+      setcube.classList.remove('darkon');
+    })
+    setcubepromo.forEach((setcubepromo) => {
+      setcubepromo.classList.remove('darkon');
     })
 
     localStorage.setItem('darkMode', null);
