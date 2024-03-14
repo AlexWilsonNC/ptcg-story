@@ -1,5 +1,5 @@
 const pokemonCard = [
-   // ...sv4pt5,
+   ...sv4pt5,
    ...sv4,
    ...sv3pt5,
    ...sv3,
@@ -152,16 +152,32 @@ searchField.addEventListener('input', (e) => {
    setsOl.innerHTML = '';
 
    searchResults.forEach((poke) => {
-      let meep = document.createElement('img');
-      meep.classList.add('database-card-in-list');
-      meep.setAttribute('src', poke.images.small);
-      setsOl.appendChild(meep);
-      meep.onclick = () => {
-         zoomedImg.setAttribute('src', poke.images.large);
-         zoombox.className = "show";
-      };
-      zoombox.onclick = () => {
-         zoombox.className = "";
-      };
+      let cardArea = document.createElement('div');
+        cardArea.classList.add('searched-card-wrap');
+        // card img
+        let img = document.createElement('img');
+        img.classList.add('database-card-in-list');
+        img.setAttribute('src', poke.images.small);
+        img.loading = 'lazy';
+        // plus button on card
+        let addCardBtn = document.createElement('div');
+        addCardBtn.classList.add('add-card-to-deck');
+
+        cardArea.appendChild(img);
+        cardArea.appendChild(addCardBtn);
+
+        // sort set by number
+        // arrOfAllCards.sort((a, b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
+
+        // zoom card
+        img.onclick = () => {
+            zoomedImg.setAttribute('src', poke.images.large);
+            zoombox.className = "show";
+        };
+        zoombox.onclick = () => {
+            zoombox.className = "";
+        };
+
+        setsOl.appendChild(cardArea);
    });
 });

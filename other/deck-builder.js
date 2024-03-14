@@ -18398,10 +18398,14 @@ let advancedDropdown = document.querySelector(".expand-advanced");
 
 let deckbox = document.querySelector(".deck-box");
 
-function displayList(array = []) {
+function displayList(arr) {
+    const arrOfAllCards = [];
+    arr.forEach(element => {
+        arrOfAllCards.push(...element);
+    });
     setsOl.innerHTML = '';
-    for (let i = 0; i < array.length; i++) {
-        let item = array[i];
+    for (let i = 0; i < arrOfAllCards.length; i++) {
+        let item = arrOfAllCards[i];
         let cardArea = document.createElement('div');
         cardArea.classList.add('searched-card-wrap');
         let img = document.createElement('img');
@@ -18415,7 +18419,7 @@ function displayList(array = []) {
         cardArea.appendChild(addCardBtn);
 
         // sort set by number
-        array.sort((a, b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
+        // arrOfAllCards.sort((a, b) => parseInt(a.id.split("-")[1]) - parseInt(b.id.split("-")[1]));
 
         // duplicate card from search into decklist
         addCardBtn.addEventListener("click", () => {
@@ -18501,8 +18505,6 @@ function displayList(array = []) {
                 addCardBtn.style.pointerEvents = 'all';
             })
 
-            
-
             // must make decklist an array to sort?
             // document.getElementById('deck-sort').addEventListener("click", () => {
             //     deckbox.sort((a, b) => b.defaultCountofOne - a.defaultCountofOne);
@@ -18530,16 +18532,16 @@ function displayList(array = []) {
         setsOl.appendChild(cardArea);
     }
 }
-displayList(latestSet);
+displayList([latestSet]);
 
-            // copy decklist
+// copy decklist
 let exportDecklist = document.querySelector('.copy-as-dckli');
-            exportDecklist.addEventListener('click', function () {
-                alert('Copied Decklist to Clipboard');
+exportDecklist.addEventListener('click', function () {
+    alert('Copied Decklist to Clipboard');
 
-                exportDecklist.setAttribute('value', exportDecklist.value ? `${exportDecklist.value}\n${newNumber} ${card.name} ${card.set} ${card.number}` : `${newNumber} ${card.name} ${card.set} ${card.number}`);
-                navigator.clipboard.writeText(copyButton.value);
-            })
+    exportDecklist.setAttribute('value', exportDecklist.value ? `${exportDecklist.value}\n${newNumber} ${card.name} ${card.set} ${card.number}` : `${newNumber} ${card.name} ${card.set} ${card.number}`);
+    navigator.clipboard.writeText(copyButton.value);
+})
 
 // collapse and open set boxes
 let coll = document.getElementsByClassName("set-white-box");
